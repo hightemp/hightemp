@@ -45,7 +45,7 @@
 #### Старые проекты
 
 - [appPasswordManager](https://github.com/hightemp/appPasswordManager) - Менеджер паролей сделанный на QML (android, linux)
-- [appPasswordManager](https://github.com/hightemp/appFileManager) - Менеджер файлов сделанный на QML (android, linux)
+- [appFileManager](https://github.com/hightemp/appFileManager) - Менеджер файлов сделанный на QML (android, linux)
 - [wappJavascriptSymmetricKeyCryptographicAlgorithm](https://github.com/hightemp/wappJavascriptSymmetricKeyCryptographicAlgorithm) - эксперимент с симметричным шифрованием, где для шифрования используются блоки со смещением
 - [lib_shift_encryptor](https://github.com/hightemp/lib_shift_encryptor) - эксперимент с симметричным шифрованием, rust
 - [appEarth](https://github.com/hightemp/appEarth) - Проект на Qt где отображается планета и отмечены города (~7000)
