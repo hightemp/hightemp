@@ -32,6 +32,7 @@
 
 - [appPasswordManager](https://github.com/hightemp/appPasswordManager) - Менеджер паролей сделанный на QML (android, linux)
 - [appPasswordManager](https://github.com/hightemp/appFileManager) - Менеджер файлов сделанный на QML (android, linux)
+- [wappJavascriptSymmetricKeyCryptographicAlgorithm](https://github.com/hightemp/wappJavascriptSymmetricKeyCryptographicAlgorithm) - эксперимент с симметричным шифрованием, где для шифрования используются блоки со смещением
 - [appEarth](https://github.com/hightemp/appEarth) - Проект на Qt где отображается планета и отмечены города (~7000)
 - [cappAutoRuDataCollector](https://github.com/hightemp/cappAutoRuDataCollector) - Парсинг auto.ru 
 - [appGetPocketManager](https://github.com/hightemp/appGetPocketManager)
@@ -49,6 +50,7 @@
 - [getdents_ls](https://github.com/hightemp/getdents_ls) - Утилита для получения кол-ва файлов в директории, где их более 1000000. 
 - [extWSSDebugger](https://github.com/hightemp/extWSSDebugger) - Приложение-расширение для Google Chrome. Отладчик с помощью WebSocket сервера.
 - [appICMPTunnel](https://github.com/hightemp/appICMPTunnel) - Попытка сделать icmp tunnel, в меру удачная... 
+- [wappComet](https://github.com/hightemp/wappComet) - Пример longpolling запроса
 
 #### Сторонние проекты для поддержки
 
