@@ -1,7 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hightemp)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightemp)
-
-### Список проектов
+## Список проектов
 
 #### Заметки и документация
 
@@ -110,3 +107,6 @@
 - https://github.com/hightemp/imagesloaded
 - https://github.com/hightemp/magento2
 - https://github.com/hightemp/htmlbeautifier
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hightemp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightemp)
