@@ -77,6 +77,15 @@
 - https://github.com/hightemp/geocoder 
 - https://github.com/hightemp/pupil - Трекер зрачка
 - https://github.com/hightemp/ahkab - Симулятор радио схем
+- https://github.com/hightemp/RFAnalyzer - Анализатор спектра для rtlsdr
+- https://github.com/hightemp/animate.css - Коллекция анимаций css
+- https://github.com/hightemp/ruby-style-guide
+- https://github.com/hightemp/encog-c
+- https://github.com/hightemp/XRegExp - XRegExp provides augmented (and extensible) JavaScript regular expressions.
+- https://github.com/hightemp/html5-boilerplate
+- https://github.com/hightemp/padrino-framework
+- https://github.com/hightemp/imagesloaded
+- https://github.com/hightemp/magento2
 
 #### Остальное
 
