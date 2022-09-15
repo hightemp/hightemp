@@ -2,14 +2,25 @@
 
 #### Заметки и документация
 
+- [docLinux](https://github.com/hightemp/docLinux) - Заметки о работе в linux
+- [docWebDevelopment](https://github.com/hightemp/docWebDevelopment) - Заметки о веб разработке
+- [docNN](https://github.com/hightemp/docNN) - Заметки
+- [docGit](https://github.com/hightemp/docGit) - Заметки
+- [docWindows](https://github.com/hightemp/docWindows) - Заметки
+- [docPrinciplesOfNeuralScience5th](https://github.com/hightemp/docPrinciplesOfNeuralScience5th) - Перевод книги
 - [col_config_files](https://github.com/hightemp/col_config_files) - Конфиги
 - [col_diagrams](https://github.com/hightemp/col_diagrams) - Кол-ция диаграмм - drawio
-- [doc_working_environment](https://github.com/hightemp/doc_working_environment) - Настройка рабочей среды
+- [doc_working_environment](https://github.com/hightemp/doc_working_environment) - Коллекции ссылок. Настройка рабочей среды
+- [cappTYGListCollector](https://github.com/hightemp/cappTYGListCollector) - Коллекции ссылок telegram, youtube
+- [docWiki](https://github.com/hightemp/docWiki) 
+
+
 
 #### Курсы
 
 - [geekbrains_algorithms](https://github.com/hightemp/geekbrains_algorithms)
 - [otus-linux](https://github.com/hightemp/otus-linux)
+- [otus-nn-python](https://github.com/hightemp/otus-nn-python)
 - [geeklinux-2019-02-01](https://github.com/hightemp/geeklinux-2019-02-01)
 
 #### Проекты
@@ -37,7 +48,6 @@
 - [appPasswordManager](https://github.com/hightemp/appFileManager) - Менеджер файлов сделанный на QML (android, linux)
 - [wappJavascriptSymmetricKeyCryptographicAlgorithm](https://github.com/hightemp/wappJavascriptSymmetricKeyCryptographicAlgorithm) - эксперимент с симметричным шифрованием, где для шифрования используются блоки со смещением
 - [lib_shift_encryptor](https://github.com/hightemp/lib_shift_encryptor) - эксперимент с симметричным шифрованием, rust
-- 
 - [appEarth](https://github.com/hightemp/appEarth) - Проект на Qt где отображается планета и отмечены города (~7000)
 - [skEarthBoxProjection](https://github.com/hightemp/skEarthBoxProjection) - Processing, Java отображается планета и отмечены города (~7000)
 - [cappAutoRuDataCollector](https://github.com/hightemp/cappAutoRuDataCollector) - Парсинг auto.ru 
@@ -66,6 +76,7 @@
 - [wappProxyParser](https://github.com/hightemp/wappProxyParser) - рабочие приложение на laravel
 - [cappMiniWebServer](https://github.com/hightemp/cappMiniWebServer) - Эксперимент по написанию однопоточного веб-сервера
 - [cappSSHForwarderServiceCreator](https://github.com/hightemp/cappSSHForwarderServiceCreator) - Эксперимент форвардинг ssh
+- [cappBitrixCLI](https://github.com/hightemp/cappBitrixCLI) - Эксперимент по созданию cli для Битрикс 1С
 - 
 
 #### Библиотека
