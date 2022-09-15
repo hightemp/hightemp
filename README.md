@@ -109,5 +109,4 @@
 - https://github.com/hightemp/htmlbeautifier
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hightemp)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hightemp)](https://github.com/hightemp/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightemp)
