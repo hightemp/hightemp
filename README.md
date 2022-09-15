@@ -14,6 +14,10 @@
 - [wapp_simple_notes](https://github.com/hightemp/wapp_simple_notes) - Ведение простых заметок с иерархией категорий
 - [wapp_simple_todo_list](https://github.com/hightemp/wapp_simple_todo_list) - Простой задачник с категориями
 - [wapp_sandbox](https://github.com/hightemp/wapp_sandbox) - Песочница для работы с файлами php, js
+- [wapp_links_manager](https://github.com/hightemp/wapp_links_manager) - Менедежер ссылок/заметок с категориями и возможностью получать ссылки из telegram бота.
+- [wapp_docker_manager](https://github.com/hightemp/wapp_docker_manager) - Менеджер докер контенейров и остального
+- [wapp_php_debugger](https://github.com/hightemp/wapp_php_debugger) - Отладчик для PHP проектов
+- [wapp_notes](https://github.com/hightemp/wapp_notes) - Веб-приложение для ведения заметок
 
 #### Старые проекты
 
