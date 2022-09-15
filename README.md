@@ -60,15 +60,18 @@
 - [libNeuralNetwork](https://github.com/hightemp/libNeuralNetwork) - Эксперимент, частично рабочий в виду ограничений PHP 
 - [wappSeoTools](https://github.com/hightemp/wappSeoTools) - недоделанное приложение на laravel
 - [wappProxyParser](https://github.com/hightemp/wappProxyParser) - рабочие приложение на laravel
+- [cappMiniWebServer](https://github.com/hightemp/cappMiniWebServer) - Эксперимент по написанию однопоточного веб-сервера
 
 #### Библиотека
 
 - https://github.com/hightemp/vc-archive
-- 
+- https://github.com/hightemp/Elements
 
 #### Сторонние проекты для поддержки
 
 - [faker_releases](https://github.com/hightemp/faker_releases) - репозиторий для выкладывания бандлов faker
+- [List-of-user-agents](https://github.com/hightemp/List-of-user-agents)
+- [gitignore](https://github.com/hightemp/gitignore)
 
 #### Остальное
 
