@@ -34,7 +34,12 @@
 - [extTextManipulator](https://github.com/hightemp/extTextManipulator) - Google Chrome расширение для работы с текстовыми данными (с помощью рег. выр.)
 - [extFilesSender](https://github.com/hightemp/extFilesSender)
 - [wappGitMarkdownDocs](https://github.com/hightemp/wappGitMarkdownDocs) - Менеджер статей в формате markdown, mathjs, с подгрузкой изображений, файлов и конвертацией html в makdown
-- 
+- [appAvtoExpressDebugger](https://github.com/hightemp/appAvtoExpressDebugger)
+- [libWebComponents](https://github.com/hightemp/libWebComponents)
+- [colBinScripts](https://github.com/hightemp/colBinScripts) - Коллекция bash скриптов для разных целей администрирования
+- [cappAutoWebScraper](https://github.com/hightemp/cappAutoWebScraper) - попытка написать скряппер на новом скриптовом языке
+- [getdents_ls](https://github.com/hightemp/getdents_ls) - Утилита для получения кол-ва файлов в директории, где их более 1000000. 
+
 
 #### Сторонние проекты для поддержки
 
