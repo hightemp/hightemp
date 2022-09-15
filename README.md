@@ -4,6 +4,7 @@
 
 - [col_config_files](https://github.com/hightemp/col_config_files) - Конфиги
 - [col_diagrams](https://github.com/hightemp/col_diagrams) - Кол-ция диаграмм - drawio
+- [doc_working_environment](https://github.com/hightemp/doc_working_environment) - Настройка рабочей среды
 
 #### Курсы
 
@@ -28,12 +29,15 @@
 - [wapp_notes](https://github.com/hightemp/wapp_notes) - Веб-приложение для ведения заметок
 - [wapp-yaml-scheme-generator](https://github.com/hightemp/wapp-yaml-scheme-generator) - Генератор workflow-диаграмм из yaml (gojs, visjs)
 - [wappDBBrowser](https://github.com/hightemp/wappDBBrowser) - Попытка сделать менеджер БД
+- [capp_log_parser](https://github.com/hightemp/capp_log_parser) - Парсер лог файлов jsonl, txt - на rust
 
 #### Старые проекты
 
 - [appPasswordManager](https://github.com/hightemp/appPasswordManager) - Менеджер паролей сделанный на QML (android, linux)
 - [appPasswordManager](https://github.com/hightemp/appFileManager) - Менеджер файлов сделанный на QML (android, linux)
 - [wappJavascriptSymmetricKeyCryptographicAlgorithm](https://github.com/hightemp/wappJavascriptSymmetricKeyCryptographicAlgorithm) - эксперимент с симметричным шифрованием, где для шифрования используются блоки со смещением
+- [lib_shift_encryptor](https://github.com/hightemp/lib_shift_encryptor) - эксперимент с симметричным шифрованием, rust
+- 
 - [appEarth](https://github.com/hightemp/appEarth) - Проект на Qt где отображается планета и отмечены города (~7000)
 - [skEarthBoxProjection](https://github.com/hightemp/skEarthBoxProjection) - Processing, Java отображается планета и отмечены города (~7000)
 - [cappAutoRuDataCollector](https://github.com/hightemp/cappAutoRuDataCollector) - Парсинг auto.ru 
@@ -61,6 +65,8 @@
 - [wappSeoTools](https://github.com/hightemp/wappSeoTools) - недоделанное приложение на laravel
 - [wappProxyParser](https://github.com/hightemp/wappProxyParser) - рабочие приложение на laravel
 - [cappMiniWebServer](https://github.com/hightemp/cappMiniWebServer) - Эксперимент по написанию однопоточного веб-сервера
+- [cappSSHForwarderServiceCreator](https://github.com/hightemp/cappSSHForwarderServiceCreator) - Эксперимент форвардинг ssh
+- 
 
 #### Библиотека
 
