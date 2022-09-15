@@ -91,6 +91,9 @@
 - [gitignore](https://github.com/hightemp/gitignore) - Коллекция ignore файлов
 - https://github.com/hightemp/CoilChoice - Расчеты для катушек(соленойдов)
 - https://github.com/hightemp/google-apps-script-samples - Примеры js кода для google docs
+
+#### Остальное
+
 - https://github.com/hightemp/geocoder 
 - https://github.com/hightemp/pupil - Трекер зрачка
 - https://github.com/hightemp/ahkab - Симулятор радио схем
@@ -103,6 +106,4 @@
 - https://github.com/hightemp/padrino-framework
 - https://github.com/hightemp/imagesloaded
 - https://github.com/hightemp/magento2
-
-#### Остальное
-
+- https://github.com/hightemp/htmlbeautifier
