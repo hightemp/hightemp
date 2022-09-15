@@ -25,6 +25,7 @@
 
 #### Старые проекты
 
+- [appPasswordManager](https://github.com/hightemp/appPasswordManager) - Менеджер паролей сделанный на QML (android, linux)
 - [cappAutoRuDataCollector](https://github.com/hightemp/cappAutoRuDataCollector) - Парсинг auto.ru 
 - [appGetPocketManager](https://github.com/hightemp/appGetPocketManager)
 - [appSharedClipboard](https://github.com/hightemp/appSharedClipboard) - Приложение для расшаривания буффера обмена на quasar/electron и Qt5
