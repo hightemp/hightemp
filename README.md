@@ -7,14 +7,12 @@
 - [docNN](https://github.com/hightemp/docNN) - Заметки
 - [docGit](https://github.com/hightemp/docGit) - Заметки
 - [docWindows](https://github.com/hightemp/docWindows) - Заметки
+- [docWiki](https://github.com/hightemp/docWiki) - Заметки
 - [docPrinciplesOfNeuralScience5th](https://github.com/hightemp/docPrinciplesOfNeuralScience5th) - Перевод книги
 - [col_config_files](https://github.com/hightemp/col_config_files) - Конфиги
 - [col_diagrams](https://github.com/hightemp/col_diagrams) - Кол-ция диаграмм - drawio
 - [doc_working_environment](https://github.com/hightemp/doc_working_environment) - Коллекции ссылок. Настройка рабочей среды
 - [cappTYGListCollector](https://github.com/hightemp/cappTYGListCollector) - Коллекции ссылок telegram, youtube
-- [docWiki](https://github.com/hightemp/docWiki) 
-
-
 
 #### Курсы
 
@@ -77,10 +75,10 @@
 - [cappMiniWebServer](https://github.com/hightemp/cappMiniWebServer) - Эксперимент по написанию однопоточного веб-сервера
 - [cappSSHForwarderServiceCreator](https://github.com/hightemp/cappSSHForwarderServiceCreator) - Эксперимент форвардинг ssh
 - [cappBitrixCLI](https://github.com/hightemp/cappBitrixCLI) - Эксперимент по созданию cli для Битрикс 1С
-- 
 
-#### Библиотека
+#### Библиотеки
 
+- https://github.com/hightemp/MS17-010-EternalBlue-WinXP-Win10
 - https://github.com/hightemp/vc-archive
 - https://github.com/hightemp/Elements
 
