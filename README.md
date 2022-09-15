@@ -92,6 +92,7 @@
 
 #### Остальное
 
+- https://github.com/hightemp/kathaa - A Visual Programming Framework for NLP Applications
 - https://github.com/hightemp/dft-book - Хим. элементы
 - https://github.com/hightemp/geocoder 
 - https://github.com/hightemp/pupil - Трекер зрачка
