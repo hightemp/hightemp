@@ -70,8 +70,13 @@
 #### Сторонние проекты для поддержки
 
 - [faker_releases](https://github.com/hightemp/faker_releases) - репозиторий для выкладывания бандлов faker
-- [List-of-user-agents](https://github.com/hightemp/List-of-user-agents)
-- [gitignore](https://github.com/hightemp/gitignore)
+- [List-of-user-agents](https://github.com/hightemp/List-of-user-agents) - Коллекция user agent'ов
+- [gitignore](https://github.com/hightemp/gitignore) - Коллекция ignore файлов
+- https://github.com/hightemp/CoilChoice - Расчеты для катушек(соленойдов)
+- https://github.com/hightemp/google-apps-script-samples - Примеры js кода для google docs
+- https://github.com/hightemp/geocoder 
+- https://github.com/hightemp/pupil - Трекер зрачка
+- https://github.com/hightemp/ahkab - Симулятор радио схем
 
 #### Остальное
 
