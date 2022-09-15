@@ -13,16 +13,19 @@
 - [wapp_clipboard_to_markdown](https://github.com/hightemp?tab=repositories#:~:text=wapp_clipboard_to_markdown) - старое приложение для преобразования html в markdown
 - [wapp_simple_notes](https://github.com/hightemp/wapp_simple_notes) - Ведение простых заметок с иерархией категорий
 - [wapp_simple_todo_list](https://github.com/hightemp/wapp_simple_todo_list) - Простой задачник с категориями
-- 
+- [wapp_sandbox](https://github.com/hightemp/wapp_sandbox) - Песочница для работы с файлами php, js
 
 #### Старые проекты
 
+- [cappAutoRuDataCollector](https://github.com/hightemp/cappAutoRuDataCollector) - Парсинг auto.ru 
 - [appGetPocketManager](https://github.com/hightemp/appGetPocketManager)
 - [appSharedClipboard](https://github.com/hightemp/appSharedClipboard) - Приложение для расшаривания буффера обмена на quasar/electron и Qt5
 - [appTaskManager](https://github.com/hightemp/appTaskManager) - Таск менеджер для windows
 - [wappKnockoutTypescriptExamples](https://github.com/hightemp/wappKnockoutTypescriptExamples)
 - [appFoodCalculator](https://github.com/hightemp/appFoodCalculator)
 - [extTextManipulator](https://github.com/hightemp/extTextManipulator) - Google Chrome расширение для работы с текстовыми данными (с помощью рег. выр.)
+- [extFilesSender](https://github.com/hightemp/extFilesSender)
+- 
 
 #### Сторонние проекты для поддержки
 
