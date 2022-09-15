@@ -16,7 +16,7 @@
 #### Старые проекты
 
 - [appGetPocketManager](https://github.com/hightemp/appGetPocketManager)
-- [appSharedClipboard](https://github.com/hightemp/appSharedClipboard) - Приложение для расшаривания буффера обмена на Qt5
+- [appSharedClipboard](https://github.com/hightemp/appSharedClipboard) - Приложение для расшаривания буффера обмена на quasar/electron и Qt5
 - [appTaskManager](https://github.com/hightemp/appTaskManager) - Таск менеджер для windows
 
 #### Сторонние проекты для поддержки
