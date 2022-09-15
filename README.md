@@ -9,6 +9,7 @@
 
 - [geekbrains_algorithms](https://github.com/hightemp/geekbrains_algorithms)
 - [otus-linux](https://github.com/hightemp/otus-linux)
+- [geeklinux-2019-02-01](https://github.com/hightemp/geeklinux-2019-02-01)
 
 #### Проекты
 
@@ -26,7 +27,7 @@
 - [wapp_php_debugger](https://github.com/hightemp/wapp_php_debugger) - Отладчик для PHP проектов
 - [wapp_notes](https://github.com/hightemp/wapp_notes) - Веб-приложение для ведения заметок
 - [wapp-yaml-scheme-generator](https://github.com/hightemp/wapp-yaml-scheme-generator) - Генератор workflow-диаграмм из yaml (gojs, visjs)
-- 
+- [wappDBBrowser](https://github.com/hightemp/wappDBBrowser) - Попытка сделать менеджер БД
 
 #### Старые проекты
 
@@ -34,6 +35,7 @@
 - [appPasswordManager](https://github.com/hightemp/appFileManager) - Менеджер файлов сделанный на QML (android, linux)
 - [wappJavascriptSymmetricKeyCryptographicAlgorithm](https://github.com/hightemp/wappJavascriptSymmetricKeyCryptographicAlgorithm) - эксперимент с симметричным шифрованием, где для шифрования используются блоки со смещением
 - [appEarth](https://github.com/hightemp/appEarth) - Проект на Qt где отображается планета и отмечены города (~7000)
+- [skEarthBoxProjection](https://github.com/hightemp/skEarthBoxProjection) - Processing, Java отображается планета и отмечены города (~7000)
 - [cappAutoRuDataCollector](https://github.com/hightemp/cappAutoRuDataCollector) - Парсинг auto.ru 
 - [appGetPocketManager](https://github.com/hightemp/appGetPocketManager)
 - [appSharedClipboard](https://github.com/hightemp/appSharedClipboard) - Приложение для расшаривания буффера обмена на quasar/electron и Qt5
@@ -51,6 +53,18 @@
 - [extWSSDebugger](https://github.com/hightemp/extWSSDebugger) - Приложение-расширение для Google Chrome. Отладчик с помощью WebSocket сервера.
 - [appICMPTunnel](https://github.com/hightemp/appICMPTunnel) - Попытка сделать icmp tunnel, в меру удачная... 
 - [wappComet](https://github.com/hightemp/wappComet) - Пример longpolling запроса
+- [appCppCMS](https://github.com/hightemp/appCppCMS) - Эксперимент по созданию CMS на cpp
+- [libJSTranspiler](https://github.com/hightemp/libJSTranspiler) - Эксперимент по созданию транспайлера JS в PHP
+- [libTensorFlowPHP](https://github.com/hightemp/libTensorFlowPHP) - Эксперимент, даже не спрашивай зачем..
+- [libFaceDetection](https://github.com/hightemp/libFaceDetection) - Эксперимент, даже не спрашивай зачем..
+- [libNeuralNetwork](https://github.com/hightemp/libNeuralNetwork) - Эксперимент, частично рабочий в виду ограничений PHP 
+- [wappSeoTools](https://github.com/hightemp/wappSeoTools) - недоделанное приложение на laravel
+- [wappProxyParser](https://github.com/hightemp/wappProxyParser) - рабочие приложение на laravel
+
+#### Библиотека
+
+- https://github.com/hightemp/vc-archive
+- 
 
 #### Сторонние проекты для поддержки
 
