@@ -4,6 +4,10 @@
 
 - [col_config_files](https://github.com/hightemp/col_config_files) - Конфиги
 - [col_diagrams](https://github.com/hightemp/col_diagrams) - Кол-ция диаграмм - drawio
+
+#### Курсы
+
+- [geekbrains_algorithms](https://github.com/hightemp/geekbrains_algorithms)
 - [otus-linux](https://github.com/hightemp/otus-linux)
 
 #### Проекты
@@ -28,6 +32,7 @@
 
 - [appPasswordManager](https://github.com/hightemp/appPasswordManager) - Менеджер паролей сделанный на QML (android, linux)
 - [appPasswordManager](https://github.com/hightemp/appFileManager) - Менеджер файлов сделанный на QML (android, linux)
+- [appEarth](https://github.com/hightemp/appEarth) - Проект на Qt где отображается планета и отмечены города (~7000)
 - [cappAutoRuDataCollector](https://github.com/hightemp/cappAutoRuDataCollector) - Парсинг auto.ru 
 - [appGetPocketManager](https://github.com/hightemp/appGetPocketManager)
 - [appSharedClipboard](https://github.com/hightemp/appSharedClipboard) - Приложение для расшаривания буффера обмена на quasar/electron и Qt5
@@ -43,7 +48,7 @@
 - [cappAutoWebScraper](https://github.com/hightemp/cappAutoWebScraper) - попытка написать скряппер на новом скриптовом языке
 - [getdents_ls](https://github.com/hightemp/getdents_ls) - Утилита для получения кол-ва файлов в директории, где их более 1000000. 
 - [extWSSDebugger](https://github.com/hightemp/extWSSDebugger) - Приложение-расширение для Google Chrome. Отладчик с помощью WebSocket сервера.
--  
+- [appICMPTunnel](https://github.com/hightemp/appICMPTunnel) - Попытка сделать icmp tunnel, в меру удачная... 
 
 #### Сторонние проекты для поддержки
 
