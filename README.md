@@ -7,10 +7,12 @@
 
 #### Проекты
 
-- [wapp_network_scanner](https://github.com/hightemp?tab=repositories#:~:text=wapp_network_scanner) - Веб-приложение для сканирования портов на php.
+- [wapp_network_scanner](https://github.com/hightemp/wapp_network_scanner) - Веб-приложение для сканирования портов на php.
 - [wapp_framework](https://github.com/hightemp/wapp_framework) - Фреймвор для простых php проектов
 - [capp_system_info_server](https://github.com/hightemp/capp_system_info_server) - API сервер для получения информации о состоянии системы (свободное место на дисках, cpu и т.д.)
-- [wapp_clipboard_to_markdown](https://github.com/hightemp?tab=repositories#:~:text=wapp_clipboard_to_markdown) - старое приложение для преобразования html в markdown
+- [wapp_clipboard_to_markdown](https://github.com/hightemp/wapp_clipboard_to_markdown) - старое приложение для преобразования html в markdown
+  - [wapp_clipboard_to_markdown_demo](https://github.com/hightemp/wapp_clipboard_to_markdown_demo)
+  - https://hightemp.github.io/wapp_clipboard_to_markdown_demo/
 - [wapp_simple_notes](https://github.com/hightemp/wapp_simple_notes) - Ведение простых заметок с иерархией категорий
 - [wapp_simple_todo_list](https://github.com/hightemp/wapp_simple_todo_list) - Простой задачник с категориями
 - [wapp_sandbox](https://github.com/hightemp/wapp_sandbox) - Песочница для работы с файлами php, js
@@ -18,6 +20,8 @@
 - [wapp_docker_manager](https://github.com/hightemp/wapp_docker_manager) - Менеджер докер контенейров и остального
 - [wapp_php_debugger](https://github.com/hightemp/wapp_php_debugger) - Отладчик для PHP проектов
 - [wapp_notes](https://github.com/hightemp/wapp_notes) - Веб-приложение для ведения заметок
+- [wapp-yaml-scheme-generator](https://github.com/hightemp/wapp-yaml-scheme-generator) - Генератор workflow-диаграмм из yaml (gojs, visjs)
+- 
 
 #### Старые проекты
 
@@ -29,6 +33,7 @@
 - [appFoodCalculator](https://github.com/hightemp/appFoodCalculator)
 - [extTextManipulator](https://github.com/hightemp/extTextManipulator) - Google Chrome расширение для работы с текстовыми данными (с помощью рег. выр.)
 - [extFilesSender](https://github.com/hightemp/extFilesSender)
+- [wappGitMarkdownDocs](https://github.com/hightemp/wappGitMarkdownDocs) - Менеджер статей в формате markdown, mathjs, с подгрузкой изображений, файлов и конвертацией html в makdown
 - 
 
 #### Сторонние проекты для поддержки
