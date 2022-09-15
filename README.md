@@ -12,7 +12,11 @@
 - [capp_system_info_server](https://github.com/hightemp/capp_system_info_server) - API сервер для получения информации о состоянии системы (свободное место на дисках, cpu и т.д.)
 - [wapp_clipboard_to_markdown](https://github.com/hightemp?tab=repositories#:~:text=wapp_clipboard_to_markdown) - старое приложение для преобразования html в markdown
 - [wapp_simple_notes](https://github.com/hightemp/wapp_simple_notes) - Ведение простых заметок с иерархией категорий
-- 
+
+#### Старые проекты
+
+- [appGetPocketManager](https://github.com/hightemp/appGetPocketManager)
+- [appTaskManager](https://github.com/hightemp/appTaskManager) - Таск менеджер для windows
 
 #### Сторонние проекты для поддержки
 
