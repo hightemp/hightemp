@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=hightemp) ![](https://asdertasd.site/stat.svg)
 
+<iframe src="https://asdertasd.site/stat.svg"></iframe>
+
 ## Список проектов 
 
 #### Заметки и документация
