@@ -110,5 +110,10 @@
 - https://github.com/hightemp/magento2
 - https://github.com/hightemp/htmlbeautifier
 
+### Чужие полезные репо
+
+- https://tonejs.github.io/
+- https://wavesjs.github.io/audio/
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hightemp)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightemp)
