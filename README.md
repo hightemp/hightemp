@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=hightemp)
+![](https://komarev.com/ghpvc/?username=hightemp) ![](https://asdertasd.site/stat.svg)
 
 ## Список проектов 
 
