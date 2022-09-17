@@ -118,5 +118,17 @@
 - https://github.com/luamfb/tempest-lcd
 - https://github.com/RobiNN1/phpCacheAdmin
 
+### Химия
+
+- http://www.bioinf.jku.at/research/DeepTox/
+- https://github.com/Merck/DeepNeuralNet-QSAR
+- https://github.com/deepchem/deepchem
+- https://github.com/aspuru-guzik-group/ORGANIC
+- https://nerdd.univie.ac.at/hitdexter3/
+- https://github.com/chengwang88/deltavina
+- https://github.com/HIPS/neural-fingerprint
+- https://www.deepmind.com/research/highlighted-research/alphafold
+- https://zenodo.org/record/1481731#.YyZZx9JBxhE
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hightemp)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightemp)
