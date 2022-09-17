@@ -25,7 +25,7 @@
 
 #### Проекты
 
-- [wapp_simple_stats](https://github.com/hightemp/wapp_simple_stats)
+- [wapp_simple_stats](https://github.com/hightemp/wapp_simple_stats) - Простой скрипт статистики. (Sqlite, PHP 5,7)
 - [wapp_network_scanner](https://github.com/hightemp/wapp_network_scanner) - Веб-приложение для сканирования портов на php.
 - [wapp_framework](https://github.com/hightemp/wapp_framework) - Фреймвор для простых php проектов
 - [capp_system_info_server](https://github.com/hightemp/capp_system_info_server) - API сервер для получения информации о состоянии системы (свободное место на дисках, cpu и т.д.)
