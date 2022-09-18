@@ -129,6 +129,9 @@
 - https://github.com/HIPS/neural-fingerprint
 - https://www.deepmind.com/research/highlighted-research/alphafold
 - https://zenodo.org/record/1481731#.YyZZx9JBxhE
+- https://bitbucket.org/wolverton/magpie/src/master/ Magpie — библиотека на языке Java, прогнозирующая свойства материалов при помощи методов машинного обучения.  
+- https://github.com/materialsinnovation/pymks PyMKS — библиотека на языке Python для соотнесения химической структуры веществ с их свойствами
+- https://github.com/openbabel/openbabel Openbabel — библиотека на языках Python и С++ для биоинформатики и хеминформатики/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hightemp)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightemp)
