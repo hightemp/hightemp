@@ -128,7 +128,8 @@
 - https://github.com/Merck/DeepNeuralNet-QSAR
 - https://github.com/deepchem/deepchem
 - https://github.com/aspuru-guzik-group/ORGANIC
-- https://nerdd.univie.ac.at/hitdexter3/
+- https://nerdd.univie.ac.at/
+  - https://nerdd.univie.ac.at/hitdexter3/
 - https://github.com/chengwang88/deltavina
 - https://github.com/HIPS/neural-fingerprint
 - https://www.deepmind.com/research/highlighted-research/alphafold
