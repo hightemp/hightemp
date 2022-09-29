@@ -28,15 +28,15 @@
 
 #### Проекты
 
-- [wapp_simple_stats](https://github.com/hightemp/wapp_simple_stats) - Простой скрипт статистики. (Sqlite, PHP 5,7)
-- [wapp_network_scanner](https://github.com/hightemp/wapp_network_scanner) - Веб-приложение для сканирования портов на php.
-- [wapp_framework](https://github.com/hightemp/wapp_framework) - Фреймвор для простых php проектов
-- [capp_system_info_server](https://github.com/hightemp/capp_system_info_server) - API сервер для получения информации о состоянии системы (свободное место на дисках, cpu и т.д.)
+- [wapp_simple_stats](https://github.com/hightemp/wapp_simple_stats) - **статистика** - Простой скрипт статистики. (Sqlite, PHP 5,7)
+- [wapp_network_scanner](https://github.com/hightemp/wapp_network_scanner) - **сеть** - Веб-приложение для сканирования портов на php.
+- [wapp_framework](https://github.com/hightemp/wapp_framework) - Фреймворк для простых php проектов
+- [capp_system_info_server](https://github.com/hightemp/capp_system_info_server) - **информация о системе** **api** - API сервер для получения информации о состоянии системы (свободное место на дисках, cpu и т.д.)
 - [wapp_clipboard_to_markdown](https://github.com/hightemp/wapp_clipboard_to_markdown) - старое приложение для преобразования html в markdown
   - [wapp_clipboard_to_markdown_demo](https://github.com/hightemp/wapp_clipboard_to_markdown_demo)
   - https://hightemp.github.io/wapp_clipboard_to_markdown_demo/
-- [wapp_simple_notes](https://github.com/hightemp/wapp_simple_notes) - Ведение простых заметок с иерархией категорий
-- [wapp_simple_todo_list](https://github.com/hightemp/wapp_simple_todo_list) - Простой задачник с категориями
+- [wapp_simple_notes](https://github.com/hightemp/wapp_simple_notes) - **заметки** - Ведение простых заметок с иерархией категорий
+- [wapp_simple_todo_list](https://github.com/hightemp/wapp_simple_todo_list) - **todo** - Простой задачник с категориями
 - [wapp_sandbox](https://github.com/hightemp/wapp_sandbox) - Песочница для работы с файлами php, js
 - [wapp_links_manager](https://github.com/hightemp/wapp_links_manager) - Менедежер ссылок/заметок с категориями и возможностью получать ссылки из telegram бота.
 - [wapp_docker_manager](https://github.com/hightemp/wapp_docker_manager) - Менеджер докер контенейров и остального
@@ -44,8 +44,8 @@
 - [wapp_notes](https://github.com/hightemp/wapp_notes) - Веб-приложение для ведения заметок
 - [wapp-yaml-scheme-generator](https://github.com/hightemp/wapp-yaml-scheme-generator) - Генератор workflow-диаграмм из yaml (gojs, visjs)
 - [wappDBBrowser](https://github.com/hightemp/wappDBBrowser) - Попытка сделать менеджер БД
-- [capp_log_parser](https://github.com/hightemp/capp_log_parser) - Парсер лог файлов jsonl, txt - на rust
-- [wapp_services_api_manager](https://github.com/hightemp/wapp_services_api_manager) - Главная страница(заметки о текущем сервере) в markdown
+- [capp_log_parser](https://github.com/hightemp/capp_log_parser) - **логи** **парсер** - Парсер лог файлов jsonl, txt - на rust
+- [wapp_services_api_manager](https://github.com/hightemp/wapp_services_api_manager) - **заметки** - Главная страница(заметки о текущем сервере) в markdown
 
 #### Старые проекты
 
