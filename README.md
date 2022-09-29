@@ -31,7 +31,7 @@
 - [wapp_simple_stats](https://github.com/hightemp/wapp_simple_stats) - **статистика** - Простой скрипт статистики. (Sqlite, PHP 5,7)
 - [wapp_network_scanner](https://github.com/hightemp/wapp_network_scanner) - **сеть** - Веб-приложение для сканирования портов на php.
 - [wapp_framework](https://github.com/hightemp/wapp_framework) - Фреймворк для простых php проектов
-- [capp_system_info_server](https://github.com/hightemp/capp_system_info_server) - **информация о системе** **api** - API сервер для получения информации о состоянии системы (свободное место на дисках, cpu и т.д.)
+- [capp_system_info_server](https://github.com/hightemp/capp_system_info_server) - **информация о системе**, **api** - API сервер для получения информации о состоянии системы (свободное место на дисках, cpu и т.д.)
 - [wapp_clipboard_to_markdown](https://github.com/hightemp/wapp_clipboard_to_markdown) - старое приложение для преобразования html в markdown
   - [wapp_clipboard_to_markdown_demo](https://github.com/hightemp/wapp_clipboard_to_markdown_demo)
   - https://hightemp.github.io/wapp_clipboard_to_markdown_demo/
@@ -44,7 +44,7 @@
 - [wapp_notes](https://github.com/hightemp/wapp_notes) - Веб-приложение для ведения заметок
 - [wapp-yaml-scheme-generator](https://github.com/hightemp/wapp-yaml-scheme-generator) - Генератор workflow-диаграмм из yaml (gojs, visjs)
 - [wappDBBrowser](https://github.com/hightemp/wappDBBrowser) - Попытка сделать менеджер БД
-- [capp_log_parser](https://github.com/hightemp/capp_log_parser) - **логи** **парсер** - Парсер лог файлов jsonl, txt - на rust
+- [capp_log_parser](https://github.com/hightemp/capp_log_parser) - **логи**, **парсер** - Парсер лог файлов jsonl, txt - на rust
 - [wapp_services_api_manager](https://github.com/hightemp/wapp_services_api_manager) - **заметки** - Главная страница(заметки о текущем сервере) в markdown
 
 #### Старые проекты
