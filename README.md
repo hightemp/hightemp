@@ -34,7 +34,7 @@
 - [capp_system_info_server](https://github.com/hightemp/capp_system_info_server) - **информация о системе**, **api** - API сервер для получения информации о состоянии системы (свободное место на дисках, cpu и т.д.)
 - [wapp_clipboard_to_markdown](https://github.com/hightemp/wapp_clipboard_to_markdown) - старое приложение для преобразования html в markdown
   - [wapp_clipboard_to_markdown_demo](https://github.com/hightemp/wapp_clipboard_to_markdown_demo)
-  - https://hightemp.github.io/wapp_clipboard_to_markdown_demo/
+  - 📋 https://hightemp.github.io/wapp_clipboard_to_markdown_demo/
 - [wapp_simple_notes](https://github.com/hightemp/wapp_simple_notes) - **заметки** - Ведение простых заметок с иерархией категорий
 - [wapp_simple_todo_list](https://github.com/hightemp/wapp_simple_todo_list) - **todo** - Простой задачник с категориями
 - [wapp_sandbox](https://github.com/hightemp/wapp_sandbox) - Песочница для работы с файлами php, js
