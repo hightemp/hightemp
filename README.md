@@ -28,6 +28,7 @@
 
 #### Проекты
 
+- [wapp_snanimage_server](https://github.com/hightemp/wapp_snanimage_server)
 - [wapp_simple_stats](https://github.com/hightemp/wapp_simple_stats) - **статистика** - Простой скрипт статистики. (Sqlite, PHP 5,7)
 - [wapp_network_scanner](https://github.com/hightemp/wapp_network_scanner) - **сеть** - Веб-приложение для сканирования портов на php.
 - [wapp_framework](https://github.com/hightemp/wapp_framework) - Фреймворк для простых php проектов
