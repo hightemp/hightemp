@@ -101,6 +101,7 @@
 
 #### Остальное
 
+- https://github.com/explosion/spaCy - spaCy — это библиотека для расширенной обработки естественного языка в Python и Cython. Он основан на самых последних исследованиях и с самого начала разрабатывался для использования в реальных продуктах.
 - https://github.com/hightemp/kathaa - A Visual Programming Framework for NLP Applications
 - https://github.com/hightemp/dft-book - Хим. элементы
 - https://github.com/hightemp/geocoder 
