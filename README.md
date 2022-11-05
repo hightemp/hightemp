@@ -14,10 +14,14 @@
 - [docWindows](https://github.com/hightemp/docWindows) - Заметки
 - [docWiki](https://github.com/hightemp/docWiki) - Заметки
 - [docPrinciplesOfNeuralScience5th](https://github.com/hightemp/docPrinciplesOfNeuralScience5th) - Перевод книги
-- [col_config_files](https://github.com/hightemp/col_config_files) - Конфиги
-- [col_diagrams](https://github.com/hightemp/col_diagrams) - Кол-ция диаграмм - drawio
 - [doc_working_environment](https://github.com/hightemp/doc_working_environment) - Коллекции ссылок. Настройка рабочей среды
 - [cappTYGListCollector](https://github.com/hightemp/cappTYGListCollector) - Коллекции ссылок telegram, youtube
+
+#### Коллекции, awesome
+
+- [col_docker_compse_files](https://github.com/hightemp/col_docker_compse_files)
+- [col_config_files](https://github.com/hightemp/col_config_files) - Конфиги
+- [col_diagrams](https://github.com/hightemp/col_diagrams) - Кол-ция диаграмм - drawio
 
 #### Курсы
 
