@@ -19,6 +19,8 @@
 
 #### Коллекции, awesome
 
+- [col_links_catalog](https://github.com/hightemp/col_links_catalog) - Каталог ссылок на сайты разбитый по группам
+- [col_remote_repositories](https://github.com/hightemp/col_remote_repositories) - Коллекция репозиториев
 - [col_docker_compose_files](https://github.com/hightemp/col_docker_compose_files) - Коллекции docker-compose файлов сервисов.
 - [col_config_files](https://github.com/hightemp/col_config_files) - Конфиги
 - [col_diagrams](https://github.com/hightemp/col_diagrams) - Кол-ция диаграмм - drawio
@@ -32,6 +34,7 @@
 
 #### Проекты
 
+- [wapp_html_templates](https://github.com/hightemp/wapp_html_templates) - Страница с примерами html паттернов для частого использования в проектах.
 - [wapp_snanimage_server](https://github.com/hightemp/wapp_snanimage_server) - Веб-приложение для сканирования и менеджемента документов с помощью утилиты xsane.
 - [wapp_simple_stats](https://github.com/hightemp/wapp_simple_stats) - **статистика** - Простой скрипт статистики. (Sqlite, PHP 5,7)
 - [wapp_network_scanner](https://github.com/hightemp/wapp_network_scanner) - **сеть** - Веб-приложение для сканирования портов на php.
