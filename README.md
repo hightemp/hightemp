@@ -6,7 +6,8 @@
 #### Заметки и документация
 
 - [docLinux](https://github.com/hightemp/docLinux) - Заметки о работе в linux
-- [docs_linux_proc](https://github.com/hightemp/docs_linux_proc) - Заметки о работе proc в linux
+- [doc_linux_proc](https://github.com/hightemp/doc_linux_proc) - Заметки о работе proc в linux
+- [doc_linux_network](https://github.com/hightemp/doc_linux_network)
 - [doc_bio](https://github.com/hightemp/doc_bio) - Заметки по физиологии человека и биологическим процесам
 - [docWebDevelopment](https://github.com/hightemp/docWebDevelopment) - Заметки о веб разработке
 - [docNN](https://github.com/hightemp/docNN) - Заметки
