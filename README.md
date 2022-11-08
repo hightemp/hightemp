@@ -152,3 +152,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hightemp)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightemp)
+
+📗 Готов
+📘 В процессе
+📙 Не работает, есть ошибки
+🔩 Для нужд автоматизации
