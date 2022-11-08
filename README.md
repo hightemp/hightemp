@@ -19,7 +19,7 @@
 
 #### Коллекции, awesome
 
-- [col_docker_compose_files](https://github.com/hightemp/col_docker_compose_files)
+- [col_docker_compose_files](https://github.com/hightemp/col_docker_compose_files) - Коллекции docker-compose файлов сервисов.
 - [col_config_files](https://github.com/hightemp/col_config_files) - Конфиги
 - [col_diagrams](https://github.com/hightemp/col_diagrams) - Кол-ция диаграмм - drawio
 
