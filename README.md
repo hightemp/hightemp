@@ -38,6 +38,7 @@
 - [wapp_html_templates](https://github.com/hightemp/wapp_html_templates) - Страница с примерами html паттернов для частого использования в проектах.
 - [wapp_snanimage_server](https://github.com/hightemp/wapp_snanimage_server) - Веб-приложение для сканирования и менеджемента документов с помощью утилиты xsane.
 - [wapp_simple_stats](https://github.com/hightemp/wapp_simple_stats) - **статистика** - Простой скрипт статистики. (Sqlite, PHP 5,7)
+- [wapp_simple_nim_stats](https://github.com/hightemp/wapp_simple_nim_stats) - **статистика** - Простой CGI статистики.
 - [wapp_network_scanner](https://github.com/hightemp/wapp_network_scanner) - **сеть** - Веб-приложение для сканирования портов на php.
 - [wapp_framework](https://github.com/hightemp/wapp_framework) - Фреймворк для простых php проектов
 - [capp_system_info_server](https://github.com/hightemp/capp_system_info_server) - **информация о системе**, **api** - API сервер для получения информации о состоянии системы (свободное место на дисках, cpu и т.д.)
