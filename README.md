@@ -32,6 +32,8 @@ go install github.com/gcla/termshark/v2/cmd/termshark@v2.4.0
 cargo install gping
 # Диски
 sudo apt install ncdu
+# система
+cargo install kmon
 # docker
 sudo wget https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-amd64 -O /usr/local/bin/ctop
 sudo chmod +x /usr/local/bin/ctop
