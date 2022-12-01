@@ -6,7 +6,8 @@
   <img src="https://asdertasd.site/">
 </video>
 
-## Перед первым запуском, сделать..
+<details>
+  <summary>Перед первым запуском, сделать..</summary>
 
 ```
 curl https://sh.rustup.rs -sSf | sh
@@ -22,7 +23,9 @@ pipx install visidata
 # Многооконный терминал
 cargo install --locked zellij
 ```
-
+  </summary>
+</details>
+  
 ## Список проектов 
 
 #### Заметки и документация
