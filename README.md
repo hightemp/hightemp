@@ -22,6 +22,8 @@ npm install -g mprocs
 pipx install visidata
 # Многооконный терминал
 cargo install --locked zellij
+# Календарь
+pipx install calcure
 ```
   </summary>
 </details>
