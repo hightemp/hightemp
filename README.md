@@ -7,6 +7,15 @@
   <img src="https://asdertasd.site/">
 </video>
 
+## Перед первым запуском, сделать..
+
+```
+sudo apt-get install taskwarrior
+curl https://sh.rustup.rs -sSf | sh
+cargo install --git https://github.com/kdheepak/taskwarrior-tui
+task
+taskwarrior-tui
+```
 
 ## Список проектов 
 
