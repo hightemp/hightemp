@@ -7,7 +7,7 @@
 </video>
 
 <details>
-  <summary>Перед первым запуском, сделать..</summary>
+  <summary><h3>Перед первым запуском, сделать..</h3></summary>
 
 ```
 curl https://sh.rustup.rs -sSf | sh
