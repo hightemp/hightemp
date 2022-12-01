@@ -17,7 +17,7 @@ task
 taskwarrior-tui
 # Запуск несколько комманд разхдельно
 npm install -g mprocs
-# Просмотр данных
+# Просмотр данных - tsv, csv, sqlite, json, xlsx (Excel), hdf5
 pipx install visidata
 ```
 
