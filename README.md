@@ -9,11 +9,16 @@
 ## Перед первым запуском, сделать..
 
 ```
+# Задачник
 sudo apt-get install taskwarrior
 curl https://sh.rustup.rs -sSf | sh
 cargo install --git https://github.com/kdheepak/taskwarrior-tui
 task
 taskwarrior-tui
+# Запуск несколько комманд разхдельно
+npm install -g mprocs
+# Просмотр данных
+pipx install visidata
 ```
 
 ## Список проектов 
