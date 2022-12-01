@@ -24,6 +24,8 @@ pipx install visidata
 cargo install --locked zellij
 # Календарь
 pipx install calcure
+# Работа с БД
+go install github.com/mathaou/termdbms@latest
 ```
   </summary>
 </details>
