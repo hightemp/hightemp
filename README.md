@@ -19,6 +19,8 @@ taskwarrior-tui
 npm install -g mprocs
 # Просмотр данных - tsv, csv, sqlite, json, xlsx (Excel), hdf5
 pipx install visidata
+# Многооконный терминал
+cargo install --locked zellij
 ```
 
 ## Список проектов 
