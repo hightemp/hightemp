@@ -29,6 +29,8 @@ go install github.com/mathaou/termdbms@latest
 cargo install --version 0.1.0-alpha.5 gobang
 # Работа с сетью
 go install github.com/gcla/termshark/v2/cmd/termshark@v2.4.0
+# Диски
+sudo apt install ncdu
 ```
   </summary>
 </details>
