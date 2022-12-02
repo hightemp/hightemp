@@ -1,10 +1,5 @@
 [![](https://komarev.com/ghpvc/?username=hightemp)](http://canarytokens.com/articles/static/tags/iu6dr582h7e4ocf873r1j0cs8/post.jsp)
-![](https://asdertasd.site/?test)
-
-<video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;">
-  <source src="https://asdertasd.site/mp4" type="video/mp4" />
-  <img src="https://asdertasd.site/">
-</video>
+![](https://asdertasd.site/)
 
 <details>
   <summary><h3>Перед первым запуском, сделать..</h3></summary>
