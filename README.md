@@ -37,7 +37,7 @@ curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/i
   </summary>
 </details>
   
-## Список проектов 
+## Список моих проектов 
 
 #### Заметки и документация
 
