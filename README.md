@@ -166,7 +166,9 @@ curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/i
 - https://github.com/hightemp/magento2
 - https://github.com/hightemp/htmlbeautifier
 
-### Чужие полезные репо
+## Полезные ссылки...
+
+#### Чужие полезные репо
 
 - Борды для рисования
   - https://github.com/personalizedrefrigerator/js-draw
@@ -176,13 +178,13 @@ curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/i
 - https://github.com/luamfb/tempest-lcd
 - https://github.com/RobiNN1/phpCacheAdmin
 
-### AI
+#### AI
 
 - https://medium.com/geekculture/a-simple-way-to-run-stable-diffusion-2-0-locally-on-your-pc-no-code-guide-3beb911e444c
 - https://medium.com/mlearning-ai/stable-diffusion-v2-0-released-this-is-massive-718072bc57e1
 - https://huggingface.co/tasks/text-generation
 
-### Химия
+#### Химия
 
 - http://www.bioinf.jku.at/research/DeepTox/
 - https://github.com/Merck/DeepNeuralNet-QSAR
