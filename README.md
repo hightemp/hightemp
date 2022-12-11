@@ -71,7 +71,7 @@ curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/i
 
 #### Текущие проекты
 
-- [capp_telegram_news_bot_nim ](https://github.com/hightemp/capp_telegram_news_bot_nim ) - ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg) telegram бот
+- [capp_telegram_news_bot_nim ](https://github.com/hightemp/capp_telegram_news_bot_nim ) - ![capp_telegram_news_bot_nim](https://github.com/github/docs/actions/workflows/main.yml/badge.svg) telegram бот
 - [capp_commands_menu](https://github.com/hightemp/capp_commands_menu) - Меню комманд для удаленного выполнения на сервере (python -> bin)
 - [capp_get_ip_info_nim ](https://github.com/hightemp/capp_get_ip_info_nim ) - Получение информации об IPv4 (страна, хостинг)
 - [wapp_html_templates](https://github.com/hightemp/wapp_html_templates) - Страница с примерами html паттернов для частого использования в проектах.
