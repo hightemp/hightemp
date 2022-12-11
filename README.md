@@ -180,6 +180,7 @@ curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/i
 
 - https://medium.com/geekculture/a-simple-way-to-run-stable-diffusion-2-0-locally-on-your-pc-no-code-guide-3beb911e444c
 - https://medium.com/mlearning-ai/stable-diffusion-v2-0-released-this-is-massive-718072bc57e1
+- https://huggingface.co/tasks/text-generation
 
 ### Химия
 
