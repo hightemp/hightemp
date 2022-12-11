@@ -72,10 +72,10 @@ curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/i
 #### Текущие проекты
 
 - [capp_telegram_news_bot_nim ](https://github.com/hightemp/capp_telegram_news_bot_nim) - ![main](https://github.com/hightemp/capp_telegram_news_bot_nim/actions/workflows/main.yml/badge.svg) telegram бот
-- [capp_commands_menu](https://github.com/hightemp/capp_commands_menu) - Меню комманд для удаленного выполнения на сервере (python -> bin)
-- [capp_get_ip_info_nim ](https://github.com/hightemp/capp_get_ip_info_nim ) - Получение информации об IPv4 (страна, хостинг)
-- [wapp_html_templates](https://github.com/hightemp/wapp_html_templates) - Страница с примерами html паттернов для частого использования в проектах.
-- [wapp_snanimage_server](https://github.com/hightemp/wapp_snanimage_server) - Веб-приложение для сканирования и менеджемента документов с помощью утилиты xsane.
+- [capp_commands_menu](https://github.com/hightemp/capp_commands_menu) - ![main](https://github.com/hightemp/capp_commands_menu/actions/workflows/main.yml/badge.svg) Меню комманд для удаленного выполнения на сервере (python -> bin)
+- [capp_get_ip_info_nim ](https://github.com/hightemp/capp_get_ip_info_nim ) - ![main](https://github.com/hightemp/capp_get_ip_info_nim/actions/workflows/main.yml/badge.svg) Получение информации об IPv4 (страна, хостинг)
+- [wapp_html_templates](https://github.com/hightemp/wapp_html_templates) - ![main](https://github.com/hightemp/wapp_html_templates/actions/workflows/main.yml/badge.svg) Страница с примерами html паттернов для частого использования в проектах.
+- [wapp_snanimage_server](https://github.com/hightemp/wapp_snanimage_server) - ![main](https://github.com/hightemp/wapp_snanimage_server/actions/workflows/main.yml/badge.svg) Веб-приложение для сканирования и менеджемента документов с помощью утилиты xsane.
 - [wapp_simple_stats](https://github.com/hightemp/wapp_simple_stats) - **статистика** - Простой скрипт статистики. (Sqlite, PHP 5,7)
 - [wapp_simple_nim_stats](https://github.com/hightemp/wapp_simple_nim_stats) - **статистика** - Простой CGI статистики.
 - [wapp_network_scanner](https://github.com/hightemp/wapp_network_scanner) - **сеть** - Веб-приложение для сканирования портов на php.
