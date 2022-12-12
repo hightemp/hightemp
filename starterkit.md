@@ -58,7 +58,10 @@ cargo install --git https://github.com/kdheepak/taskwarrior-tui
 # первый запуск нужен для генерации кофига
 task
 # tui клиент для taskwarrior, иначе нужно вводить команды
-taskwarrior-tui 
+taskwarrior-tui
+
+# Taskwarrior in Python, https://dev.to/natamacm/taskwarrior-with-python-261b
+pip install taskw
 ```
 
 **Конфиги**
