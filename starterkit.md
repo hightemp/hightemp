@@ -45,7 +45,8 @@ echo 'source "$HOME/.cargo/env"' >> ~/.bashrc
 ### Установка nim
 
 ```bash
-curl https://nim-lang.org/choosenim/init.sh -sSf | sh
+sudo sh -c 'curl https://nim-lang.org/choosenim/init.sh -sSf | sh'
+echo 'export PATH=/root/.nimble/bin:$PATH' >> ~/.bashrc
 ```
 
 ### Установка docker
