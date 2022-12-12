@@ -29,15 +29,28 @@ sudo apt install -y \
   upx-ucl strip-nondeterminism binutils 
 ```
 
-## Программы
-
 ### Установка rust
 
 ```bash
 curl https://sh.rustup.rs -sSf | sh
 ```
 
+### Установка docker
+
+```
+sudo wget https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-amd64 -O /usr/local/bin/ctop
+sudo chmod +x /usr/local/bin/ctop
+curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/install_update_linux.sh | bash
+```
+
+## Программы
+
 ### Устанока менеджера задач Taskwarrior (задачник)
+
+- https://taskwarrior.org/
+- https://ru.wikipedia.org/wiki/Taskwarrior
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Taskwarrior_screenshot.png)
 
 ```bash
 sudo apt-get install taskwarrior
@@ -97,8 +110,3 @@ sudo apt install ncdu
 ```
 cargo install kmon
 ```
-
-### docker
-sudo wget https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-amd64 -O /usr/local/bin/ctop
-sudo chmod +x /usr/local/bin/ctop
-curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/install_update_linux.sh | bash
