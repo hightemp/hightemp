@@ -39,6 +39,13 @@ sudo apt install -y \
 
 ```bash
 curl https://sh.rustup.rs -sSf | sh
+echo 'source "$HOME/.cargo/env"' >> ~/.bashrc
+```
+
+### Установка nim
+
+```bash
+curl https://nim-lang.org/choosenim/init.sh -sSf | sh
 ```
 
 ### Установка docker
