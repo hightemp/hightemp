@@ -73,6 +73,20 @@ nvm install --lts
 nvm use --lts
 ```
 
+## Библиотеки
+
+### openssl-1.1.1
+
+```bash
+wget https://www.openssl.org/source/openssl-1.1.1o.tar.gz
+tar -xzvf openssl-1.1.1o.tar.gz
+cd openssl-1.1.1o
+./config
+make -j8
+make test
+sudo make install
+```
+
 ## Программы
 
 ### Устанока менеджера задач Taskwarrior (задачник)
