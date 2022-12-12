@@ -42,7 +42,7 @@ curl https://sh.rustup.rs -sSf | sh
 echo 'source "$HOME/.cargo/env"' >> ~/.bashrc
 ```
 
-### Установка nim
+### Установка nim (ОСТОРОЖНО могут быть проблемы с правами или ошибки)
 
 ```bash
 curl https://nim-lang.org/choosenim/init.sh -sSf | sh
