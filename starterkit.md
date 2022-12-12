@@ -49,6 +49,12 @@ sudo chmod +x /usr/local/bin/ctop
 curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/install_update_linux.sh | bash
 ```
 
+### Установка nvm
+
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+```
+
 ## Программы
 
 ### Устанока менеджера задач Taskwarrior (задачник)
