@@ -19,9 +19,15 @@
 
 ### Установка важных пакетов (для установки и сборки софта)
 
+- Менеджеры: python3-pip
+- Система контроля версий: git
+- Инструменты сборки: build-essential, musl, musl-dev, musl-tools, upx-ucl, strip-nondeterminism
+- Базы данных: sqlite3 libsqlite3-dev
+
 ```bash
 sudo apt install -y \
   git build-essential \
+  python3 \
   musl musl-dev musl-tools \
   openssl \
   sqlite3 libsqlite3-dev \
