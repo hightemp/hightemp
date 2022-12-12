@@ -55,6 +55,13 @@ echo 'export PATH=$HOME/.nimble/bin:$PATH' >> ~/.bashrc
 # еще один способ
 wget https://github.com/dom96/choosenim/releases/download/v0.8.4/choosenim-0.8.4_linux_amd64 -O choosenim
 choosenim devel
+
+# еще способ 
+wget https://launchpad.net/ubuntu/+source/nim/1.6.10-1/+build/24865690/+files/nim_1.6.10-1_amd64.deb
+sudo dpkg -i nim_1.6.10-1_amd64.deb
+
+# еще
+sudo apt install nim
 ```
 
 ### Установка docker
