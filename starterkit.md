@@ -80,26 +80,26 @@ go install github.com/mathaou/termdbms@latest
 cargo install --version 0.1.0-alpha.5 gobang
 ```
 
-# Работа с сетью
+### Работа с сетью
 
 ```
 go install github.com/gcla/termshark/v2/cmd/termshark@v2.4.0
 cargo install gping
 ```
 
-# Диски
+### Диски
 
 ```
 sudo apt install ncdu
 ```
 
-# система
+### система
 
 ```
 cargo install kmon
 ```
 
-# docker
+### docker
 sudo wget https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-amd64 -O /usr/local/bin/ctop
 sudo chmod +x /usr/local/bin/ctop
 curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/install_update_linux.sh | bash
