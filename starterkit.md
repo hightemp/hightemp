@@ -259,7 +259,7 @@ sudo systemctl start openvpn@client
 - https://dl.jami.net/ring-manual/ubuntu_22.10/jami-all_amd64.deb
 - https://dl.jami.net/ring-manual/ubuntu_22.04/jami-all_amd64.deb
 
-```
+```bash
 sudo apt install gnupg dirmngr ca-certificates curl --no-install-recommends
 curl -s https://dl.jami.net/public-key.gpg | sudo tee /usr/share/keyrings/jami-archive-keyring.gpg > /dev/null
 sudo sh -c "echo 'deb [signed-by=/usr/share/keyrings/jami-archive-keyring.gpg] https://dl.jami.net/nightly/ubuntu_22.04/ jami main' > /etc/apt/sources.list.d/jami.list"
@@ -270,4 +270,10 @@ sudo snap install jami
 
 ### Установка мессенджера briar
 
+- https://briarproject.org/download-briar-desktop/
 
+```bash
+# Generic Linux .jar: run using java -jar <file> and make sure to use JRE 17.
+wget https://desktop.briarproject.org/jars/linux/briar-desktop-linux.jar
+java -jar briar-desktop-linux.jar
+```
