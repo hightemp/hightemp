@@ -181,28 +181,36 @@ go install github.com/mathaou/termdbms@latest
 cargo install --version 0.1.0-alpha.5 gobang
 ```
 
-### Работа с сетью
+### Установка gping. Пинг хостов с графиком
 
 ```bash
 go install github.com/gcla/termshark/v2/cmd/termshark@v2.4.0
 cargo install gping
 ```
 
-### ctop
+### Установка ctop. Мониторинг cgroup
 
 ```bash
 sudo wget https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-amd64 -O /usr/local/bin/ctop
 sudo chmod +x /usr/local/bin/ctop
 ```
 
-### Диски
+### Установка ncdu. Просомтр размера папок
 
 ```bash
 sudo apt install ncdu
 ```
 
-### система
+### Установка kmon. Мониторинг ядра и модулей
 
 ```bash
 cargo install kmon
+```
+
+### Установка OpenVPN
+
+- https://www.ovpn.com/en/guides/ubuntu-cli
+
+```
+apt-get install openvpn
 ```
