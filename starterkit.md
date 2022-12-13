@@ -258,6 +258,10 @@ sudo systemctl start openvpn@client
 - https://jami.net/download-jami-linux/
 - https://dl.jami.net/ring-manual/ubuntu_22.10/jami-all_amd64.deb
 - https://dl.jami.net/ring-manual/ubuntu_22.04/jami-all_amd64.deb
+- Обзоры
+ - https://www.youtube.com/watch?v=5Lnx-8rr4WI
+ - https://www.youtube.com/watch?v=_0ArXX5KIH4
+ - https://www.youtube.com/watch?v=kJOvr96Wwko
 
 ![](https://jami.net/assets/images/messaging.png?v=fc9bccb559)
 
