@@ -269,6 +269,8 @@ Nebula включает ряд существующих концепций, та
 
 По вопросам и другим вопросам по этой оснастке https://github.com/jwallden/nebula-snap 
 
+**Примеры конфигов** https://github.com/jimsalterjrs/nebula-sample-configs
+
 ```bash
 sudo snap install nebula
 ```
