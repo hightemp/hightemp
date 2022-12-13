@@ -273,6 +273,9 @@ sudo snap install jami
 ### Установка мессенджера briar (используется в linux, windows, android, mac; bluetooth, wifi)
 
 - https://briarproject.org/download-briar-desktop/
+- Обзоры
+ - https://www.youtube.com/watch?v=wqsvDVJb_4E
+ - https://www.youtube.com/watch?v=e-eN7h8Z_SY&t=331s
 
 ![](https://briarproject.org/img/screenshots/briar-desktop.png)
 
