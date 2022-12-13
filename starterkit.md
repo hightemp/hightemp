@@ -48,6 +48,21 @@ curl https://sh.rustup.rs -sSf | sh
 echo 'source "$HOME/.cargo/env"' >> ~/.bashrc
 ```
 
+### Установка go
+
+```bash
+# В.1
+sudo snap install go
+# В.2
+# https://go.dev/doc/install
+wget https://go.dev/dl/go1.19.4.linux-amd64.tar.gz
+rm -rf /usr/local/go && tar -C /usr/local -xzf go1.19.4.linux-amd64.tar.gz
+echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.bashrc
+
+export PATH=$PATH:/usr/local/go/bin
+go version
+```
+
 ### Установка nim (ОСТОРОЖНО могут быть проблемы с правами или ошибки)
 
 ```bash
