@@ -253,7 +253,7 @@ sudo openvpn --client --config /etc/openvpn/client.conf
 sudo systemctl start openvpn@client 
 ```
 
-### Установка Nebula. Масштабируемый оверлейный сетевой инструмент. 
+### Установка Nebula. Масштабируемый оверлейный сетевой инструмент. (linux, window, ios, android)
 
 - https://snapcraft.io/nebula
 - https://github.com/slackhq/nebula
