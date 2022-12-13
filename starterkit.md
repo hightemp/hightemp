@@ -67,6 +67,11 @@ sudo apt install nim
 ### Установка docker
 
 ```
+# В.1
+curl -fsSL https://get.docker.com -o get-docker.sh
+sh get-docker.sh
+
+# В.2
 curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/install_update_linux.sh | bash
 ```
 
