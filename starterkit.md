@@ -252,3 +252,22 @@ sudo openvpn --client --config /etc/openvpn/client.conf
 # For systemd based system, use the following command:
 sudo systemctl start openvpn@client 
 ```
+
+### Установка мессенджера jami (используется в linux, windows, android, mac)
+
+- https://jami.net/download-jami-linux/
+- https://dl.jami.net/ring-manual/ubuntu_22.10/jami-all_amd64.deb
+- https://dl.jami.net/ring-manual/ubuntu_22.04/jami-all_amd64.deb
+
+```
+sudo apt install gnupg dirmngr ca-certificates curl --no-install-recommends
+curl -s https://dl.jami.net/public-key.gpg | sudo tee /usr/share/keyrings/jami-archive-keyring.gpg > /dev/null
+sudo sh -c "echo 'deb [signed-by=/usr/share/keyrings/jami-archive-keyring.gpg] https://dl.jami.net/nightly/ubuntu_22.04/ jami main' > /etc/apt/sources.list.d/jami.list"
+sudo apt-get update && sudo apt-get install jami
+
+sudo snap install jami
+```
+
+### Установка мессенджера briar
+
+
