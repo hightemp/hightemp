@@ -66,7 +66,7 @@ sudo apt install nim
 
 ### Установка docker
 
-```
+```bash
 # В.1
 curl -fsSL https://get.docker.com -o get-docker.sh
 sh get-docker.sh
@@ -87,7 +87,7 @@ sudo docker run --rm hello-world
 
 ### Установка nvm
 
-```
+```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
 
 echo 'export NVM_DIR="$HOME/.nvm"' >> ~/.bashrc
@@ -139,57 +139,57 @@ pip install taskw
 
 ### Устанока mprocs. Запуск несколько комманд разхдельно
 
-```
+```bash
 npm install -g mprocs
 ```
 
 ### Установка visidata. Просмотр данных - tsv, csv, sqlite, json, xlsx (Excel), hdf5
 
-```
+```bash
 pipx install visidata
 ```
 
 ### Установка zellij. Многооконный терминал
 
-```
+```bash
 cargo install --locked zellij
 ```
 
 ### Установка calcure. Календарь
 
-```
+```bash
 pipx install calcure
 ```
 
 ### Установка gobang. Работа с БД
 
-```
+```bash
 go install github.com/mathaou/termdbms@latest
 cargo install --version 0.1.0-alpha.5 gobang
 ```
 
 ### Работа с сетью
 
-```
+```bash
 go install github.com/gcla/termshark/v2/cmd/termshark@v2.4.0
 cargo install gping
 ```
 
 ### ctop
 
-```
+```bash
 sudo wget https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-amd64 -O /usr/local/bin/ctop
 sudo chmod +x /usr/local/bin/ctop
 ```
 
 ### Диски
 
-```
+```bash
 sudo apt install ncdu
 ```
 
 ### система
 
-```
+```bash
 cargo install kmon
 ```
