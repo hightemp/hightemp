@@ -1,43 +1,12 @@
 [![](https://komarev.com/ghpvc/?username=hightemp)](http://canarytokens.com/articles/static/tags/iu6dr582h7e4ocf873r1j0cs8/post.jsp)
 ![](https://asdertasd.site/)
-
-<details>
-  <summary><h3>Перед первым запуском, сделать..</h3></summary>
-
-```
-curl https://sh.rustup.rs -sSf | sh
-# Задачник
-sudo apt-get install taskwarrior
-cargo install --git https://github.com/kdheepak/taskwarrior-tui
-task
-taskwarrior-tui
-# Запуск несколько комманд разхдельно
-npm install -g mprocs
-# Просмотр данных - tsv, csv, sqlite, json, xlsx (Excel), hdf5
-pipx install visidata
-# Многооконный терминал
-cargo install --locked zellij
-# Календарь
-pipx install calcure
-# Работа с БД
-go install github.com/mathaou/termdbms@latest
-cargo install --version 0.1.0-alpha.5 gobang
-# Работа с сетью
-go install github.com/gcla/termshark/v2/cmd/termshark@v2.4.0
-cargo install gping
-# Диски
-sudo apt install ncdu
-# система
-cargo install kmon
-# docker
-sudo wget https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-amd64 -O /usr/local/bin/ctop
-sudo chmod +x /usr/local/bin/ctop
-curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/install_update_linux.sh | bash
-```
-  </summary>
-</details>
   
 ## Список моих проектов 
+
+#### Первым делом
+
+- Стартеркит. Установка софта. https://github.com/hightemp/hightemp/blob/main/starterkit.md
+- Каталог сайтов. https://github.com/hightemp/hightemp/blob/main/sites_catalog.csv
 
 #### Заметки и документация
 
