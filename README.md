@@ -40,6 +40,10 @@
 
 #### Текущие проекты
 
+| Ссылка   | Бэджик        |  Описание |
+|----------|:-------------:|----------:|
+| [capp_telegram_news_bot_nim ](https://github.com/hightemp/capp_telegram_news_bot_nim) |  ![main](https://github.com/hightemp/capp_telegram_news_bot_nim/actions/workflows/main.yml/badge.svg) | telegram бот |
+
 - [capp_telegram_news_bot_nim ](https://github.com/hightemp/capp_telegram_news_bot_nim) - ![main](https://github.com/hightemp/capp_telegram_news_bot_nim/actions/workflows/main.yml/badge.svg) telegram бот
 - [capp_commands_menu](https://github.com/hightemp/capp_commands_menu) - ![main](https://github.com/hightemp/capp_commands_menu/actions/workflows/main.yml/badge.svg) Меню комманд для удаленного выполнения на сервере (python -> bin)
 - [capp_get_ip_info_nim ](https://github.com/hightemp/capp_get_ip_info_nim ) - ![main](https://github.com/hightemp/capp_get_ip_info_nim/actions/workflows/main.yml/badge.svg) Получение информации об IPv4 (страна, хостинг)
