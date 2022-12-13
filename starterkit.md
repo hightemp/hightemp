@@ -85,6 +85,12 @@ sudo apt-get install -y docker-ce
 sudo docker run --rm hello-world
 ```
 
+```bash
+sudo groupadd docker
+sudo usermod -aG docker $USER
+sudo systemctl restart docker
+```
+
 ### Установка nvm
 
 ```bash
