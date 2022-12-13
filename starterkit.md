@@ -253,11 +253,13 @@ sudo openvpn --client --config /etc/openvpn/client.conf
 sudo systemctl start openvpn@client 
 ```
 
-### Установка мессенджера jami (используется в linux, windows, android, mac)
+### Установка мессенджера jami (используется в linux, windows, android, mac; bluetooth, wifi)
 
 - https://jami.net/download-jami-linux/
 - https://dl.jami.net/ring-manual/ubuntu_22.10/jami-all_amd64.deb
 - https://dl.jami.net/ring-manual/ubuntu_22.04/jami-all_amd64.deb
+
+![](https://jami.net/assets/images/messaging.png?v=fc9bccb559)
 
 ```bash
 sudo apt install gnupg dirmngr ca-certificates curl --no-install-recommends
@@ -268,7 +270,7 @@ sudo apt-get update && sudo apt-get install jami
 sudo snap install jami
 ```
 
-### Установка мессенджера briar
+### Установка мессенджера briar (используется в linux, windows, android, mac; bluetooth, wifi)
 
 - https://briarproject.org/download-briar-desktop/
 
