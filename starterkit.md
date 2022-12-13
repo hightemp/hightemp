@@ -210,7 +210,18 @@ cargo install kmon
 ### Установка OpenVPN
 
 - https://www.ovpn.com/en/guides/ubuntu-cli
+- https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/
+- https://openvpn.net/vpn-software-packages/ubuntu/
 
+```bash
+sudo apt-get install openvpn
 ```
-apt-get install openvpn
+
+```bash
+scp vivek@172.105.102.90:/home/vivek/desktopclient.ovpn .
+sudo cp desktopclient.ovpn /etc/openvpn/client.conf
+# Test connectivity from the CLI:
+sudo openvpn --client --config /etc/openvpn/client.conf
+# For systemd based system, use the following command:
+sudo systemctl start openvpn@client 
 ```
