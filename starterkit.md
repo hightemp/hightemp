@@ -272,6 +272,8 @@ sudo snap install jami
 
 - https://briarproject.org/download-briar-desktop/
 
+![](https://briarproject.org/img/screenshots/briar-desktop.png)
+
 ```bash
 # Generic Linux .jar: run using java -jar <file> and make sure to use JRE 17.
 wget https://desktop.briarproject.org/jars/linux/briar-desktop-linux.jar
