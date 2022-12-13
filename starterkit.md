@@ -94,6 +94,26 @@ sudo dpkg -i nim_1.6.10-1_amd64.deb
 sudo apt install nim
 ```
 
+### Установка virtualbox
+
+```bash
+# https://www-virtualbox-org.translate.goog/wiki/Linux_Downloads?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=sc
+sudo gpg --dearmor oracle_vbox_2016.asc --yes --output /usr/share/keyrings/oracle-virtualbox-2016.gpg
+wget -O- https://www.virtualbox.org/download/oracle_vbox_2016.asc | sudo gpg --dearmor --yes --output /usr/share/keyrings/oracle-virtualbox-2016.gpg
+sudo apt-get update
+sudo apt-get install virtualbox-6.1
+```
+
+### Установка vagrant
+
+```bash
+wget -O- https://apt.releases.hashicorp.com/gpg | gpg --dearmor | sudo tee /usr/share/keyrings/hashicorp-archive-keyring.gpg
+
+echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/hashicorp.list
+
+sudo apt update && sudo apt install vagrant
+```
+
 ### Установка docker
 
 ```bash
