@@ -282,6 +282,16 @@ services:
   nebula.daemon: simple, enabled, inactive
 ```
 
+```
+/etc/systemd/system/nebula.service
+[Unit]
+Description=Nebula
+[Service]
+ExecStart=/etc/nebula/nebula -config /etc/nebula/config.yaml
+[Install]
+WantedBy=multi-user.target
+```
+
 1. Бинарные файлы Nebula или дистрибутивы для вашей конкретной платформы. В частности, вам понадобится nebula-certи конкретный двоичный файл туманности для каждой используемой вами платформы.
 2. (Необязательно, но вам действительно следует...) Как минимум один узел обнаружения с маршрутизируемым IP-адресом, который мы называем маяком.
 
