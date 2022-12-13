@@ -40,9 +40,10 @@
 
 #### Текущие проекты
 
-| Ссылка   | Бэджик        |  Описание |
-|----------|:-------------:|----------:|
+| Ссылка | Бэджик  | Описание |
+|--------|---------|----------|
 | [capp_telegram_news_bot_nim ](https://github.com/hightemp/capp_telegram_news_bot_nim) |  ![main](https://github.com/hightemp/capp_telegram_news_bot_nim/actions/workflows/main.yml/badge.svg) | telegram бот |
+|[capp_commands_menu](https://github.com/hightemp/capp_commands_menu)|![main](https://github.com/hightemp/capp_commands_menu/actions/workflows/main.yml/badge.svg)|Меню комманд для удаленного выполнения на сервере (python -> bin)|
 
 - [capp_telegram_news_bot_nim ](https://github.com/hightemp/capp_telegram_news_bot_nim) - ![main](https://github.com/hightemp/capp_telegram_news_bot_nim/actions/workflows/main.yml/badge.svg) telegram бот
 - [capp_commands_menu](https://github.com/hightemp/capp_commands_menu) - ![main](https://github.com/hightemp/capp_commands_menu/actions/workflows/main.yml/badge.svg) Меню комманд для удаленного выполнения на сервере (python -> bin)
