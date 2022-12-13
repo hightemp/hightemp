@@ -41,6 +41,14 @@ sudo apt install -y \
   upx-ucl strip-nondeterminism binutils 
 ```
 
+### Mint - Установка snapd
+
+```bash
+sudo mv /etc/apt/preferences.d/nosnap.pref ~/Documents/nosnap.backup
+sudo apt update
+sudo apt install snapd
+```
+
 ### Установка rust
 
 ```bash
