@@ -40,6 +40,7 @@
 
 #### Текущие проекты
 
+- [wapp_file_manager](https://github.com/hightemp/wapp_file_manager) - Менеджер файлов на flask 
 - [capp_telegram_news_bot_nim ](https://github.com/hightemp/capp_telegram_news_bot_nim) - Telegram бот ![main](https://github.com/hightemp/capp_telegram_news_bot_nim/actions/workflows/main.yml/badge.svg)
 - [capp_commands_menu](https://github.com/hightemp/capp_commands_menu) - Меню комманд для удаленного выполнения на сервере (python -> bin) ![main](https://github.com/hightemp/capp_commands_menu/actions/workflows/main.yml/badge.svg)
 - [capp_get_ip_info_nim ](https://github.com/hightemp/capp_get_ip_info_nim ) - Получение информации об IPv4 (страна, хостинг) ![main](https://github.com/hightemp/capp_get_ip_info_nim/actions/workflows/main.yml/badge.svg)
