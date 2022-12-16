@@ -40,6 +40,7 @@
 
 #### Текущие проекты
 
+- [wapp_icons_manager](https://github.com/hightemp/wapp_icons_manager) - Менеджер иконок. Пока используются иконки из bootstrap. 
 - [wapp_file_manager](https://github.com/hightemp/wapp_file_manager) - Менеджер файлов на flask 
 - [capp_telegram_news_bot_nim ](https://github.com/hightemp/capp_telegram_news_bot_nim) - Telegram бот ![main](https://github.com/hightemp/capp_telegram_news_bot_nim/actions/workflows/main.yml/badge.svg)
 - [capp_commands_menu](https://github.com/hightemp/capp_commands_menu) - Меню комманд для удаленного выполнения на сервере (python -> bin) ![main](https://github.com/hightemp/capp_commands_menu/actions/workflows/main.yml/badge.svg)
