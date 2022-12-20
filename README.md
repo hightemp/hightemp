@@ -45,7 +45,7 @@
 - [wapp_file_manager](https://github.com/hightemp/wapp_file_manager) - flask - Менеджер файлов на flask 
 - [capp_telegram_news_bot_nim ](https://github.com/hightemp/capp_telegram_news_bot_nim) - nim - Telegram бот ![main](https://github.com/hightemp/capp_telegram_news_bot_nim/actions/workflows/main.yml/badge.svg)
 - [capp_commands_menu](https://github.com/hightemp/capp_commands_menu) - nim - Меню комманд для удаленного выполнения на сервере (python -> bin) ![main](https://github.com/hightemp/capp_commands_menu/actions/workflows/main.yml/badge.svg)
-- [capp_get_ip_info_nim ](https://github.com/hightemp/capp_get_ip_info_nim ) - nim -Получение информации об IPv4 (страна, хостинг) ![main](https://github.com/hightemp/capp_get_ip_info_nim/actions/workflows/main.yml/badge.svg)
+- [capp_get_ip_info_nim ](https://github.com/hightemp/capp_get_ip_info_nim ) - nim - Получение информации об IPv4 (страна, хостинг) ![main](https://github.com/hightemp/capp_get_ip_info_nim/actions/workflows/main.yml/badge.svg)
 - [wapp_html_templates](https://github.com/hightemp/wapp_html_templates) - nim - Страница с примерами html паттернов для частого использования в проектах. ![main](https://github.com/hightemp/wapp_html_templates/actions/workflows/main.yml/badge.svg)
 - [wapp_snanimage_server](https://github.com/hightemp/wapp_snanimage_server) - php - Веб-приложение для сканирования и менеджемента документов с помощью утилиты xsane. ![main](https://github.com/hightemp/wapp_snanimage_server/actions/workflows/main.yml/badge.svg)
 - [wapp_simple_stats](https://github.com/hightemp/wapp_simple_stats) - **статистика** - Простой скрипт статистики. (Sqlite, PHP 5,7)
