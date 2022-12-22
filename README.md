@@ -143,8 +143,10 @@
 #### Чужие полезные репо
 
 - Борды для рисования
+  - https://github.com/tldraw/tldraw
+    - DEMO: https://www.tldraw.com/
   - https://github.com/personalizedrefrigerator/js-draw
-    - https://personalizedrefrigerator.github.io/js-draw/example/example.html
+    - DEMO: https://personalizedrefrigerator.github.io/js-draw/example/example.html
 - https://tonejs.github.io/
 - [https://wavesjs.github.io/audio/](https://github.com/wavesjs)
 - https://github.com/luamfb/tempest-lcd
