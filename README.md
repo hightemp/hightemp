@@ -176,12 +176,12 @@
 - https://rruff.info/Enstatite/R040094
 - https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hightemp)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightemp)
-
 ## Telegram
 
 - rss linux.org.ru https://t.me/rss_linux_org_ru
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hightemp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightemp)
 
 📗 Готов, можно использовать
 📘 В процессе
