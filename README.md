@@ -7,6 +7,8 @@
 
 - Стартеркит. Установка софта. https://github.com/hightemp/hightemp/blob/main/starterkit.md
 - Каталог сайтов. https://github.com/hightemp/hightemp/blob/main/sites_catalog.csv
+- vim конфиги
+  - https://github.com/ashfinal/vimrc-config
 
 #### Заметки и документация
 
