@@ -394,3 +394,17 @@ sudo snap install jami
 wget https://desktop.briarproject.org/jars/linux/briar-desktop-linux.jar
 java -jar briar-desktop-linux.jar
 ```
+
+### Установка flutter
+
+- https://docs.flutter.dev/get-started/install
+
+```bash
+sudo snap install flutter --classic
+flutter sdk-path
+flutter doctor
+flutter doctor --android-licenses
+echo 'export PATH="$PATH:[PATH_OF_FLUTTER_GIT_DIRECTORY]/bin"' >> ~/.bashrc
+# Если директория в другом мемте, настройка
+flutter config --android-studio-dir <directory> 
+```
