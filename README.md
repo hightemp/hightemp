@@ -162,6 +162,10 @@
 - https://medium.com/mlearning-ai/stable-diffusion-v2-0-released-this-is-massive-718072bc57e1
 - https://huggingface.co/tasks/text-generation
 
+#### Радиоэлектронника
+
+- Умножитель частоты 5 ГГц https://gusbertianalog.com/5ghz-frequency-multiplier/
+
 #### Химия
 
 - http://www.bioinf.jku.at/research/DeepTox/
