@@ -31,6 +31,11 @@
 
 ## Предварительно
 
+### Альясы и доп скрипты
+
+- https://github.com/hightemp/hightemp/blob/main/aliases.sh
+- https://github.com/hightemp/col_bin_scripts
+
 ### Установка важных пакетов (для установки и сборки софта)
 
 - Менеджеры: python3-pip
