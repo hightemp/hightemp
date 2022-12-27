@@ -184,6 +184,10 @@
 - https://rruff.info/Enstatite/R040094
 - https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1
 
+#### Остальное
+
+- Инженерный справочник https://dpva.ru
+
 ## Telegram
 
 - rss linux.org.ru https://t.me/rss_linux_org_ru
