@@ -6,7 +6,7 @@
 #### Первым делом
 
 - Стартеркит. Установка софта. https://github.com/hightemp/hightemp/blob/main/starterkit.md
-- Каталог сайтов. https://github.com/hightemp/hightemp/blob/main/sites_catalog.csv
+- Каталог сайтов. https://github.com/hightemp/hightemp/blob/main/catalog_sites.csv
 - VIM
   - https://spacevim.org/quick-start-guide/
   - https://github.com/ashfinal/vimrc-config
