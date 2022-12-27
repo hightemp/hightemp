@@ -401,6 +401,7 @@ java -jar briar-desktop-linux.jar
 - https://docs.flutter.dev/get-started/install
 
 ```bash
+sudo apt-get install clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev
 sudo snap install flutter --classic
 flutter sdk-path
 flutter doctor
