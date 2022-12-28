@@ -44,6 +44,7 @@
 
 #### Текущие проекты
 
+- [wapp_password_manager_flask](https://github.com/hightemp/wapp_password_manager_flask) - flask - Менеджер паролей на flask. 
 - [wapp_youtube_wrapper](https://github.com/hightemp/wapp_youtube_wrapper) - flask - Wrapper для youtube для поиска роликов по ключевым словам. 
 - [wapp_images_collection_manager](https://github.com/hightemp/wapp_images_collection_manager) - flask - Менеджер изображений на flask. 
 - [wapp_icons_manager](https://github.com/hightemp/wapp_icons_manager) - flask - Менеджер иконок на flask. Пока используются иконки из bootstrap. 
