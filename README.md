@@ -125,6 +125,10 @@
 - https://github.com/hightemp/CoilChoice - Расчеты для катушек(соленойдов)
 - https://github.com/hightemp/google-apps-script-samples - Примеры js кода для google docs
 
+#### Скряпинг данных
+
+- 
+
 #### Остальное
 
 - https://github.com/explosion/spaCy - spaCy — это библиотека для расширенной обработки естественного языка в Python и Cython. Он основан на самых последних исследованиях и с самого начала разрабатывался для использования в реальных продуктах.
