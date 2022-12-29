@@ -125,7 +125,7 @@
 - https://github.com/hightemp/CoilChoice - Расчеты для катушек(соленойдов)
 - https://github.com/hightemp/google-apps-script-samples - Примеры js кода для google docs
 
-#### Скряпинг данных
+#### Скряпинг данных, работа с данными
 
 - 
 
