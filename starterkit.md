@@ -425,9 +425,9 @@ flutter config --android-studio-dir <directory>
 sudo apt-get install -y debian-keyring
 sudo apt-get install -y ubuntu-keyring
 sudo apt-get install -y --allow-unauthenticated linuxmint-keyring
-sudo gpg --no-default-keyring --keyring /home/mirrorkeyring/trustedkeys.gpg --import ./usr/share/keyrings/ubuntu-archive-keyring.gpg
-# ??
-sudo gpg --no-default-keyring --keyring /home/mirrorkeyring/trustedkeys.gpg --import ./usr/share/keyrings/debian-keyring.gpg
+sudo gpg --no-default-keyring --keyring /home/hightemp/.gnupg/trustedkeys.gpg --import ./usr/share/keyrings/ubuntu-archive-keyring.gpg
+sudo gpg --no-default-keyring --keyring /home/hightemp/.gnupg/trustedkeys.gpg --import ./usr/share/keyrings/debian-keyring.gpg
+sudo gpg --no-default-keyring --keyring /home/hightemp/.gnupg/trustedkeys.gpg --import /usr/share/keyrings/linuxmint-keyring.gpg
 ```
 
 **Демон-скрипт**
