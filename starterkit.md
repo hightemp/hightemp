@@ -422,12 +422,15 @@ flutter config --android-studio-dir <directory>
 ### Mint
 
 ```
+debmirror -p -v --method=http --dist=vanessa --root=. -a=amd64 --nosource --host=packages.linuxmint.com --section=main,upstream,import /mnt/disk01/mint/repo
+```
+
+```
 debmirror  \
         --keyring=/mnt/disk01/mint/repo/hightempRepo.gpg \
         -a amd64 --no-source \
         -s main,restricted,universe,multiverse \
         -h mirror.yandex.ru \
-        -d xenial,xenial-updates,xenial-backports \
         -r /linuxmint-packages/ \
         --progress \
         --method=rsync \
