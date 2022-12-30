@@ -419,6 +419,12 @@ flutter config --android-studio-dir <directory>
 
 ## Зеркала
 
+**Установка ключей для разработчиков**
+
+```
+sudo apt-get install debian-keyring
+```
+
 ### Mint
 
 ```
