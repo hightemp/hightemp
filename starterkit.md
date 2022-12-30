@@ -442,20 +442,26 @@ trap -- 'for i in `pgrep -P $$`; do kill -9 $i;done;exit;' SIGINT
 trap -- 'for i in `pgrep -P $$`; do kill -9 $i;done;exit;' SIGKILL
 trap -- 'for i in `pgrep -P $$`; do kill -9 $i;done;exit;' SIGTERM
 
+echo "0" > /tmp/dps1.pid
+echo "0" > /tmp/dps2.pid
+echo "0" > /tmp/dps3.pid
 
 while true; do
         S1_PID=$(cat /tmp/dps1.pid)
         if [ ! -d "/proc/$S1_PID" ]; then
+                echo start 1
                 debmirror -p -v --method=http --dist=vanessa --root=/linuxmint-packages/ -a=amd64 --nosource --host=mirror.yandex.ru --section=main,upstream,import /mnt/disk01/mint/repo &
                 echo $! > /tmp/dps1.pid
         fi
         S2_PID=$(cat /tmp/dps2.pid)
         if [ ! -d "/proc/$S2_PID" ]; then
+                echo start 2
                 debmirror -p -v --method=http --dist=focal --root=/ubuntu/ -a=amd64 --nosource --host=mirror.yandex.ru --section=main,upstream,import /mnt/disk01/ubuntu/repo &
                 echo $! > /tmp/dps2.pid
         fi
         S3_PID=$(cat /tmp/dps3.pid)
         if [ ! -d "/proc/$S3_PID" ]; then
+                echo start 3
                 debmirror -p -v --method=http --dist=jammy --root=/ubuntu/ -a=amd64 --nosource --host=mirror.yandex.ru --section=main,upstream,import /mnt/disk01/ubuntu/repo &
                 echo $! > /tmp/dps3.pid
         fi
