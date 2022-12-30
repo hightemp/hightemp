@@ -427,11 +427,11 @@ sudo apt-get install debian-keyring
 
 ### Mint
 
-```
+```bash
 debmirror -p -v --method=http --dist=vanessa --root=. -a=amd64 --nosource --host=packages.linuxmint.com --section=main,upstream,import /mnt/disk01/mint/repo
 ```
 
-```
+```bash
 debmirror  \
         --keyring=/mnt/disk01/mint/repo/hightempRepo.gpg \
         -a amd64 --no-source \
@@ -442,4 +442,12 @@ debmirror  \
         --method=rsync \
         --rsync-options="-az --delete --bwlimit=1000" \
         /mnt/disk01/mint/repo
+```
+
+### Ubuntu
+
+```bash
+# https://mirror.yandex.ru/ubuntu/
+debmirror -p -v --method=http --dist=focal --root=/ubuntu/ -a=amd64 --nosource --host=mirror.yandex.ru --section=main,upstream,import /mnt/disk01/ubuntu/repo
+debmirror -p -v --method=http --dist=jammy --root=/ubuntu/ -a=amd64 --nosource --host=mirror.yandex.ru --section=main,upstream,import /mnt/disk01/ubuntu/repo
 ```
