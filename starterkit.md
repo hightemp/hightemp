@@ -422,7 +422,11 @@ flutter config --android-studio-dir <directory>
 **Установка ключей для разработчиков**
 
 ```
-sudo apt-get install debian-keyring
+sudo apt-get install -y debian-keyring
+sudo apt-get install -y ubuntu-keyring
+sudo gpg --no-default-keyring --keyring /home/mirrorkeyring/trustedkeys.gpg --import ./usr/share/keyrings/ubuntu-archive-keyring.gpg
+# ??
+sudo gpg --no-default-keyring --keyring /home/mirrorkeyring/trustedkeys.gpg --import ./usr/share/keyrings/debian-keyring.gpg
 ```
 
 ### Mint
