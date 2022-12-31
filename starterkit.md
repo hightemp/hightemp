@@ -498,3 +498,21 @@ debmirror  \
 debmirror -p -v --method=http --dist=focal --root=/ubuntu/ -a=amd64 --nosource --host=mirror.yandex.ru --section=main,upstream,import /mnt/disk01/ubuntu/repo
 debmirror -p -v --method=http --dist=jammy --root=/ubuntu/ -a=amd64 --nosource --host=mirror.yandex.ru --section=main,upstream,import /mnt/disk01/ubuntu/repo
 ```
+
+## Создание сервисов
+
+```
+[Unit]
+Description=http servers
+
+[Service]
+Type=simple
+User=1000
+Group=1000
+WorkingDirectory=/srv/apps/
+ExecStart=/srv/apps/http_servers.sh
+
+[Install]
+WantedBy=multi-user.target
+```
+
