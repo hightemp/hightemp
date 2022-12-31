@@ -44,6 +44,7 @@
 
 #### Текущие проекты
 
+- [wapp_calendar](https://github.com/hightemp/wapp_calendar) - flask - календарь
 - [wapp_password_manager_flask](https://github.com/hightemp/wapp_password_manager_flask) - flask - Менеджер паролей на flask. 
 - [wapp_youtube_wrapper](https://github.com/hightemp/wapp_youtube_wrapper) - flask - Wrapper для youtube для поиска роликов по ключевым словам. 
 - [wapp_images_collection_manager](https://github.com/hightemp/wapp_images_collection_manager) - flask - Менеджер изображений на flask. 
