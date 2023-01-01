@@ -1,5 +1,5 @@
 [![](https://komarev.com/ghpvc/?username=hightemp)](http://canarytokens.com/articles/static/tags/iu6dr582h7e4ocf873r1j0cs8/post.jsp)
-[![](https://asdertasd.site/)](http://canarytokens.com/traffic/nut1mhyhj4f906yuftr72euwp/contact.php)
+[![](https://asdertasd.site/counter-link)](http://canarytokens.com/traffic/nut1mhyhj4f906yuftr72euwp/contact.php)
   
 ## Список моих проектов 
 
