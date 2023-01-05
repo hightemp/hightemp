@@ -44,6 +44,7 @@
 
 #### Текущие проекты
 
+- [wapp_links_database_flask](https://github.com/hightemp/wapp_links_database_flask) - **flask** - Менеджер ссылок
 - [wapp_task_manager_flask](https://github.com/hightemp/wapp_task_manager_flask) - **flask** - менеджер проектов (задачник, файлы, заметки)
 - [wapp_calendar](https://github.com/hightemp/wapp_calendar) - **flask** - календарь
 - [wapp_password_manager_flask](https://github.com/hightemp/wapp_password_manager_flask) - **flask** - Менеджер паролей на flask. 
