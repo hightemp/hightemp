@@ -44,14 +44,14 @@
 
 #### Текущие проекты
 
-- [wapp_links_database_flask](https://github.com/hightemp/wapp_links_database_flask) - **flask** - Менеджер ссылок
-- [wapp_task_manager_flask](https://github.com/hightemp/wapp_task_manager_flask) - **flask** - менеджер проектов (задачник, файлы, заметки)
+- [wapp_links_database_flask](https://github.com/hightemp/wapp_links_database_flask)⭐ - **flask** - Менеджер ссылок
+- [wapp_task_manager_flask](https://github.com/hightemp/wapp_task_manager_flask)⭐ - **flask** - менеджер проектов (задачник, файлы, заметки)
 - [wapp_calendar](https://github.com/hightemp/wapp_calendar) - **flask** - календарь
-- [wapp_password_manager_flask](https://github.com/hightemp/wapp_password_manager_flask) - **flask** - Менеджер паролей на flask. 
+- [wapp_password_manager_flask](https://github.com/hightemp/wapp_password_manager_flask)⭐ - **flask** - Менеджер паролей на flask. 
 - [wapp_youtube_wrapper](https://github.com/hightemp/wapp_youtube_wrapper) - **flask** - Wrapper для youtube для поиска роликов по ключевым словам. 
 - [wapp_images_collection_manager](https://github.com/hightemp/wapp_images_collection_manager) - **flask** - Менеджер изображений на flask. 
 - [wapp_icons_manager](https://github.com/hightemp/wapp_icons_manager) - **flask** - Менеджер иконок на flask. Пока используются иконки из bootstrap. 
-- [wapp_file_manager](https://github.com/hightemp/wapp_file_manager) - **flask** - Менеджер файлов на flask 
+- [wapp_file_manager](https://github.com/hightemp/wapp_file_manager)⭐ - **flask** - Менеджер файлов на flask 
 - [capp_telegram_news_bot_nim ](https://github.com/hightemp/capp_telegram_news_bot_nim) - **nim** - Telegram бот ![main](https://github.com/hightemp/capp_telegram_news_bot_nim/actions/workflows/main.yml/badge.svg)
 - [capp_commands_menu](https://github.com/hightemp/capp_commands_menu) - **nim** - Меню комманд для удаленного выполнения на сервере (python -> bin) ![main](https://github.com/hightemp/capp_commands_menu/actions/workflows/main.yml/badge.svg)
 - [capp_get_ip_info_nim ](https://github.com/hightemp/capp_get_ip_info_nim ) - **nim** - Получение информации об IPv4 (страна, хостинг) ![main](https://github.com/hightemp/capp_get_ip_info_nim/actions/workflows/main.yml/badge.svg)
