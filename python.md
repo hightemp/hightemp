@@ -17,6 +17,14 @@ del a[-1]
 del a[2:4]
 ```
 
+### Проврека
+
+```python
+7 in a
+```
+
+- https://stackoverflow.com/questions/7571635/fastest-way-to-check-if-a-value-exists-in-a-list
+
 ### Изменение
 
 ```python
