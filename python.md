@@ -140,7 +140,11 @@ GEEK = {'g', 'e', 'k'}
 ### Удаление
 
 ```python
+set1 = {0,1,2,3}
+set2 = {2,3,4,5}
 
+set1 - set2  # {0, 1}
+set2 - set1  # {4, 5}
 ```
 
 ### Изменение
@@ -148,6 +152,7 @@ GEEK = {'g', 'e', 'k'}
 ```python
 GEEK.add('s')
 
+s.update(set2)
 s.update(list)
 ```
 
