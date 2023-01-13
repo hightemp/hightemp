@@ -140,6 +140,8 @@ GEEK = {'g', 'e', 'k'}
 ### Удаление
 
 ```python
+s.remove(value)
+
 set1 = {0,1,2,3}
 set2 = {2,3,4,5}
 
