@@ -12,6 +12,7 @@ list.append(value)
 
 ```python
 list.remove(value)
+a.pop(1)
 del a[-1]
 del a[2:4]
 ```
