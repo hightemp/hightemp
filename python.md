@@ -135,6 +135,8 @@ for value in d.values(): # Iterates just through value, ignoring the keys
 
 ```python
 GEEK = {'g', 'e', 'k'}
+
+set([frozenset([1,2]), frozenset([2,3])])
 ```
 
 ### Удаление
