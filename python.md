@@ -25,7 +25,13 @@ list(map(lambda x: x.replace('Pant', 'Ishan'), list))
 ### Циклы
 
 ```python
-
+for x in thislist:
+  print(x)
+ 
+for i in range(len(thislist)):
+  print(thislist[i])
+  
+[print(x) for x in thislist]
 ```
 
 ### Фильтрация
