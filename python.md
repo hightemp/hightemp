@@ -178,7 +178,14 @@ s.update(list)
 ### Циклы
 
 ```python
+for val in test_set:
+    print(val)
 
+for counter, item in enumerate(my_set):
+    print(item)
+
+for item in iter(my_set):
+    print(item)
 ```
 
 ### Фильтрация
