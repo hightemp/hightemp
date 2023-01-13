@@ -44,6 +44,7 @@
 
 #### Текущие проекты
 
+- [wapp_markdown_server](https://github.com/hightemp/wapp_markdown_server)⭐ - **flask** - markdown сервер
 - [wapp_github_blog_engine](https://github.com/hightemp/wapp_github_blog_engine)⭐ - **js** - мини приложение для работы с текстовыми документами в репо github
 - [wapp_links_database_flask](https://github.com/hightemp/wapp_links_database_flask)⭐ - **flask** - Менеджер ссылок
 - [wapp_task_manager_flask](https://github.com/hightemp/wapp_task_manager_flask)⭐ - **flask** - менеджер проектов (задачник, файлы, заметки)
