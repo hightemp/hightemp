@@ -135,11 +135,30 @@ for value in d.values(): # Iterates just through value, ignoring the keys
 
 ```python
 GEEK = {'g', 'e', 'k'}
-
-GEEK.add('s')
 ```
 
 ### Удаление
+
+```python
+
+```
+
 ### Изменение
+
+```python
+GEEK.add('s')
+
+s.update(list)
+```
+
 ### Циклы
+
+```python
+
+```
+
 ### Фильтрация
+
+```python
+
+```
