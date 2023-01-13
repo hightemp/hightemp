@@ -25,6 +25,10 @@ list(map(lambda x: x.replace('Pant', 'Ishan'), list))
 ### Циклы
 ### Фильтрация
 
+```python
+list(filter(lambda age: age >= 18, ages))
+```
+
 ## Dictionaries (словари)
 
 ### Добавление
