@@ -63,6 +63,8 @@ data = {k: v for k, v in (('a', 1), ('b',2), ('c',3))}
 data = dict(zip(list_with_keys, list_with_values))
 ```
 
+- https://stackoverflow.com/questions/1024847/how-can-i-add-new-keys-to-a-dictionary
+
 ### Удаление
 
 ```python
