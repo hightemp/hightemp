@@ -132,6 +132,13 @@ for value in d.values(): # Iterates just through value, ignoring the keys
 ## Sets (множества)
 
 ### Добавление, Создание
+
+```python
+GEEK = {'g', 'e', 'k'}
+
+GEEK.add('s')
+```
+
 ### Удаление
 ### Изменение
 ### Циклы
