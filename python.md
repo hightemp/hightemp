@@ -152,6 +152,7 @@ set2 - set1  # {4, 5}
 ### Проверка
 
 ```python
+'a' in a_set
 set([2]) in s
 ```
 
