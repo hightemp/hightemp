@@ -11,7 +11,9 @@ list.append(value)
 ### Удаление
 
 ```python
-list.remove(index)
+list.remove(value)
+del a[-1]
+del a[2:4]
 ```
 
 ### Изменение
