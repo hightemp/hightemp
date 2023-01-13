@@ -3,8 +3,25 @@
 ## Lists (списки)
 
 ### Добавление
+
+```python
+list.append(value)
+```
+
 ### Удаление
+
+```python
+list.remove(index)
+```
+
 ### Изменение
+
+```python
+list.insert(index, value)
+
+list(map(lambda x: x.replace('Pant', 'Ishan'), list))
+```
+
 ### Циклы
 ### Фильтрация
 
