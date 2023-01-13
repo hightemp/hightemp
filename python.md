@@ -43,6 +43,9 @@ for x in thislist:
 for i in range(len(thislist)):
   print(thislist[i])
   
+for i, v in enumerate(a):
+  print(i, v)
+  
 [print(x) for x in thislist]
 ```
 
