@@ -36,6 +36,8 @@ list(filter(lambda age: age >= 18, ages))
 [age for age in ages if age >= 18]
 ```
 
+- https://www.codingem.com/python-filter-lists/
+
 ## Dictionaries (словари)
 
 ### Добавление
