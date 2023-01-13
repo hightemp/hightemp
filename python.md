@@ -186,6 +186,11 @@ for counter, item in enumerate(my_set):
 
 for item in iter(my_set):
     print(item)
+    
+i = 0
+while i < len(my_list):
+  print(my_list[i])
+  i = i + 1
 ```
 
 ### Фильтрация
