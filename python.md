@@ -20,7 +20,8 @@ del a[2:4]
 ### Проврека
 
 ```python
-7 in a
+value in list
+list.index(value)
 ```
 
 - https://stackoverflow.com/questions/7571635/fastest-way-to-check-if-a-value-exists-in-a-list
