@@ -153,7 +153,15 @@ set2 - set1  # {4, 5}
 
 ```python
 'a' in a_set
+
 set([2]) in s
+
+>>> k
+{'ip': '123.123.123.123', 'pw': 'test1234', 'port': 1234, 'debug': True}
+>>> set('ip,port,pw'.split(',')).issubset(set(k.keys()))
+True
+>>> set('ip,port,pw'.split(',')) in set(k.keys())
+False
 ```
 
 ### Изменение
