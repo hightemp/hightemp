@@ -32,3 +32,6 @@
       - en - https://github.com/francoisstamant/lyrics-generation-with-GPT2
 - Сыылки
   - https://www.kaggle.com/discussions/general/342887
+- Библиотеки
+  - python
+    - https://github.com/Maluuba/nlg-eval
