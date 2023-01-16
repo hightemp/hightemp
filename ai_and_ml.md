@@ -3,6 +3,8 @@
 - Перефразирование (paraphrase)
   - colab
     - https://colab.research.google.com/drive/1DGeF190gJ3DjRFQiwhFuZalp427iqJNQ?usp=sharing#scrollTo=WOVgxMvk_Gwt
+  - pip
+    - russian-paraphrasers https://pypi.org/project/russian-paraphrasers/
   - Датасеты
     - https://github.com/tamriq/paraphrase
       - https://github.com/tamriq/paraphrase/raw/master/data/zipped/backed.tsv.zip
