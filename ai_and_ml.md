@@ -15,6 +15,7 @@
 - Генерация текста (text generation)
   - gpt 2
     - colab
+      - https://colab.research.google.com/gist/hightemp/3507659f6e588c7abbfc71100c27d805/mgpt_generation_example.ipynb
       - https://colab.research.google.com/drive/1bwNxmVJMJ3x_N5ylS-nylkQpHUAF0DES?usp=sharing
       - https://colab.research.google.com/drive/1h6r6Qg9xwyIzz6-FXgB9tIjAzce0gc2d?usp=sharing
     - links
