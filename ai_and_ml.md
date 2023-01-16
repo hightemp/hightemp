@@ -12,6 +12,7 @@
   - links
     - en - https://huggingface.co/gpt2?text=A+long+time+ago%2C
     - https://towardsdatascience.com/how-to-fine-tune-gpt-2-for-text-generation-ae2ea53bc272
+    - Text generation with GPT-2 https://www.modeldifferently.com/en/2021/12/generaci%C3%B3n-de-fake-news-con-gpt-2/
   - notebooks
     - en - https://github.com/francoisstamant/lyrics-generation-with-GPT2
   
