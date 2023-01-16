@@ -11,6 +11,7 @@
 - Классификация текста (text classification)
   - Датасеты
     - https://github.com/FurkanArslan/twitter-text-classification
+    - https://raw.githubusercontent.com/balajibalasubramanian/Kaggle-Toxic-Comments-Challenge/master/data/train.csv
 - Генерация текста (text generation)
   - gpt 2
     - colab
