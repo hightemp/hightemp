@@ -28,4 +28,5 @@
       - https://www.kaggle.com/code/tuckerarrants/text-generation-with-huggingface-gpt2
     - notebooks
       - en - https://github.com/francoisstamant/lyrics-generation-with-GPT2
-  
+- Сыылки
+  - https://www.kaggle.com/discussions/general/342887
