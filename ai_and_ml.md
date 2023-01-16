@@ -15,14 +15,14 @@
 - Генерация текста (text generation)
   - gpt 2
     - colab
-      - https://colab.research.google.com/gist/hightemp/3507659f6e588c7abbfc71100c27d805/mgpt_generation_example.ipynb
+      - mgpt - https://colab.research.google.com/gist/hightemp/3507659f6e588c7abbfc71100c27d805/mgpt_generation_example.ipynb
       - https://colab.research.google.com/drive/1bwNxmVJMJ3x_N5ylS-nylkQpHUAF0DES?usp=sharing
       - https://colab.research.google.com/drive/1h6r6Qg9xwyIzz6-FXgB9tIjAzce0gc2d?usp=sharing
     - links
       - en - https://huggingface.co/gpt2?text=A+long+time+ago%2C
-      - https://github.com/ai-forever/mgpt
-      - https://huggingface.co/sberbank-ai/rugpt3large_based_on_gpt2
-      - https://huggingface.co/sberbank-ai/mGPT
+      - mgpt - https://github.com/ai-forever/mgpt
+      - rugpt - https://huggingface.co/sberbank-ai/rugpt3large_based_on_gpt2
+      - mgpt - https://huggingface.co/sberbank-ai/mGPT
       - https://towardsdatascience.com/how-to-fine-tune-gpt-2-for-text-generation-ae2ea53bc272
       - https://www.modeldifferently.com/en/2021/12/generaci%C3%B3n-de-fake-news-con-gpt-2/
       - https://www.kaggle.com/code/tuckerarrants/text-generation-with-huggingface-gpt2
