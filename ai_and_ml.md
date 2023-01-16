@@ -19,6 +19,7 @@
       - https://colab.research.google.com/drive/1h6r6Qg9xwyIzz6-FXgB9tIjAzce0gc2d?usp=sharing
     - links
       - en - https://huggingface.co/gpt2?text=A+long+time+ago%2C
+      - https://github.com/ai-forever/mgpt
       - https://huggingface.co/sberbank-ai/rugpt3large_based_on_gpt2
       - https://huggingface.co/sberbank-ai/mGPT
       - https://towardsdatascience.com/how-to-fine-tune-gpt-2-for-text-generation-ae2ea53bc272
