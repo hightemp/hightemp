@@ -3,6 +3,7 @@
 - Перефразирование (paraphrase)
   - ссылки
     - https://huggingface.co/cointegrated/rut5-base-paraphraser
+    - https://huggingface.co/alenusch/rugpt3-paraphraser
   - colab
     - https://colab.research.google.com/drive/1DGeF190gJ3DjRFQiwhFuZalp427iqJNQ?usp=sharing#scrollTo=WOVgxMvk_Gwt
   - pip
