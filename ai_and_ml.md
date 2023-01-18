@@ -2,6 +2,7 @@
 
 - Перефразирование (paraphrase)
   - ссылки
+    - https://github.com/hightemp/ru_paraphrase_gpt
     - https://huggingface.co/cointegrated/rut5-base-paraphraser
     - https://huggingface.co/alenusch/rugpt3-paraphraser
     - https://huggingface.co/cointegrated/rubert-base-cased-dp-paraphrase-detection
