@@ -1,3 +1,27 @@
+## Методички
+
+### Информатика
+
+- [Информатика и информационно-коммутационные технологии. Часть 1](http://e-biblio.ru/book/bib/01_informatika/informatica/sg/sg_part1.html)
+- [Информатика и информационно-коммутационные технологии. Часть 2](http://e-biblio.ru/book/bib/01_informatika/informatica/sg/sg_part2.html)
+- [Вычислительные системы, сети и телекоммуникации](http://e-biblio.ru/book/bib/01_informatika/vychislit_sistemy_&_seti/sg.html)
+- [Программная инженерия](http://e-biblio.ru/book/bib/01_informatika/prog_ingeneriya/sg.html)
+- [Информационные системы и технологии](http://e-biblio.ru/book/bib/01_informatika/informacionnye_sistemy_i_texnologii/sg.html)
+- [Интеоектуальные информационные системы](http://e-biblio.ru/book/bib/01_informatika/intellekt_inf_systems/sg.html)
+- [Сервисный подход в управлении ИТ](http://e-biblio.ru/book/bib/01_informatika/service_podhod_v_upravlenii_IT/sg.html)
+- [Теория программирования 1](http://e-biblio.ru/book/bib/01_informatika/ProgBK_pt2/Book_teria_prog_1.html)
+- [Теория программирования 2](http://e-biblio.ru/book/bib/01_informatika/ProgBK_pt2/Book_teria_prog_2.html)
+- [Технические средства информатизации](http://e-biblio.ru/book/bib/01_informatika/Tehnich_sredstva_inform/sg.htm)
+
+### Экономика
+
+- [Экономика](http://e-biblio.ru/book/bib/09_ekonomika/economica/sg.html)
+- [Иммитационное моделирование экономических процессов](http://e-biblio.ru/book/bib/09_ekonomika/imitac_modelir_econom_processov/sg.html)
+- [Теория экономических информационных систем](http://e-biblio.ru/book/bib/09_ekonomika/teor_econom_inform_system/sg.html)
+- [Финансовый менеджмент](http://e-biblio.ru/book/bib/09_ekonomika/finansovyj_menegment/sg.html)
+- [Сетевая экономика](http://www.e-biblio.ru/book/bib/09_ekonomika/setevaya_ekonomika/YP.html)
+- [Электронная коменрция](md/books/7cb0e2ceaab67895c7f03c42a467b97a.pdf)
+
 **1. Теоретические вопросы на знание базовых понятий и принципов**
 
 1. +- [Понятия: данные, информация, знания. Свойства информации.](#q1-1)
