@@ -21,6 +21,9 @@
 - [Финансовый менеджмент](http://e-biblio.ru/book/bib/09_ekonomika/finansovyj_menegment/sg.html)
 - [Сетевая экономика](http://www.e-biblio.ru/book/bib/09_ekonomika/setevaya_ekonomika/YP.html)
 - [Электронная коменрция](md/books/7cb0e2ceaab67895c7f03c42a467b97a.pdf)
+- [Мировая экономика](http://www.e-biblio.ru/book/bib/09_ekonomika/mir_econom/sg.html)
+- [Макроэкономика](http://www.e-biblio.ru/book/bib/09_ekonomika/Makroekonomika/new/sg.html)
+- [Экономика для менеджеров](http://e-biblio.ru/book/bib/Sinergia/ek-managment/sg.html)
 
 **1. Теоретические вопросы на знание базовых понятий и принципов**
 
