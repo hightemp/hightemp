@@ -127,7 +127,7 @@
     3.  Процессор Intel "Core i3-540" (3.06ГГц, 2x256КБ+4МБ, EM64T, GPU) Socket1156
 10. [Схема какой архитектуры приведена на рисунке?](#q4-10)
     
-    <img src="img/2.png" style="width:100px">
+    <img src="img/2.png" style="width:400px">
 
     A) SISD 
     B) SIMD
@@ -136,7 +136,7 @@
 
 11. [Схема какой архитектуры приведена на рисунке? ](#q4-11)
     
-    <img src="img/3.jpg" style="width:100px">
+    <img src="img/3.jpg" style="width:400px">
 
     1.  SISD 
     2.  SIMD
