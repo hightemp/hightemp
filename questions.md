@@ -24,6 +24,7 @@
 - [Мировая экономика](http://www.e-biblio.ru/book/bib/09_ekonomika/mir_econom/sg.html)
 - [Макроэкономика](http://www.e-biblio.ru/book/bib/09_ekonomika/Makroekonomika/new/sg.html)
 - [Экономика для менеджеров](http://e-biblio.ru/book/bib/Sinergia/ek-managment/sg.html)
+- [Банковское дело](http://e-biblio.ru/book/bib/05_finansy/bankovskoe_delo/sg.html)
 
 **1. Теоретические вопросы на знание базовых понятий и принципов**
 
