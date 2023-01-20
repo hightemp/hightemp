@@ -25,6 +25,7 @@
 - [Макроэкономика](http://www.e-biblio.ru/book/bib/09_ekonomika/Makroekonomika/new/sg.html)
 - [Экономика для менеджеров](http://e-biblio.ru/book/bib/Sinergia/ek-managment/sg.html)
 - [Банковское дело](http://e-biblio.ru/book/bib/05_finansy/bankovskoe_delo/sg.html)
+- [Банковское дело](http://www.e-biblio.ru/book/bib/13_UMK_5kurs/Bankovskoe%20delo/UP/UP.htm)
 
 **1. Теоретические вопросы на знание базовых понятий и принципов**
 
