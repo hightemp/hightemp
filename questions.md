@@ -126,7 +126,8 @@
     2.  Процессор Intel "Celeron G530" (2.40ГГц, 2x256КБ+2МБ, EM64T, GPU) Socket1155
     3.  Процессор Intel "Core i3-540" (3.06ГГц, 2x256КБ+4МБ, EM64T, GPU) Socket1156
 10. [Схема какой архитектуры приведена на рисунке?](#q4-10)
-    ![](img/2.png)
+    
+    <img src="img/2.png" style="width:100px">
 
     A) SISD 
     B) SIMD
@@ -134,7 +135,8 @@
     D) MIMD 
 
 11. [Схема какой архитектуры приведена на рисунке? ](#q4-11)
-    ![](img/3.jpg)
+    
+    <img src="img/3.jpg" style="width:100px">
 
     1.  SISD 
     2.  SIMD
