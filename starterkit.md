@@ -159,6 +159,8 @@ docker-compose --version
 
 **Установка nvidia-docker**
 
+- https://www.howtogeek.com/devops/how-to-run-docker-compose-containers-with-gpu-access/
+
 <table class="docutils align-default">
 <thead>
 <tr class="row-odd"><th class="head"><p>OS Name / Version</p></th>
