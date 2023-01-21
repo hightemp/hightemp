@@ -27,6 +27,7 @@
 - [Экономика для менеджеров](http://e-biblio.ru/book/bib/Sinergia/ek-managment/sg.html)
 - [Банковское дело](http://e-biblio.ru/book/bib/05_finansy/bankovskoe_delo/sg.html)
 - [Банковское дело](http://www.e-biblio.ru/book/bib/13_UMK_5kurs/Bankovskoe%20delo/UP/UP.htm)
+- [Теория отраслевых ранков](http://e-biblio.ru/book/bib/05_finansy/teory_otrasl_rynkov/sg.htm)
 
 **1. Теоретические вопросы на знание базовых понятий и принципов**
 
