@@ -24,6 +24,7 @@
 - [Мировая экономика](http://www.e-biblio.ru/book/bib/09_ekonomika/mir_econom/sg.html)
 - [Макроэкономика](http://www.e-biblio.ru/book/bib/09_ekonomika/Makroekonomika/new/sg.html)
 - [Макроэкономика](http://www.e-biblio.ru/book/bib/09_ekonomika/Ekonomika_BK/Macroeconomica.htm)
+- [Микроэкономика](http://www.e-biblio.ru/book/bib/09_ekonomika/microeconomika/prog2.html)
 - [Экономика для менеджеров](http://e-biblio.ru/book/bib/Sinergia/ek-managment/sg.html)
 - [Банковское дело](http://e-biblio.ru/book/bib/05_finansy/bankovskoe_delo/sg.html)
 - [Банковское дело](http://www.e-biblio.ru/book/bib/13_UMK_5kurs/Bankovskoe%20delo/UP/UP.htm)
