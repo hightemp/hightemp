@@ -214,3 +214,48 @@ def index():
 if __name__ == '__main__':
    app.run()
 ```
+
+## SQLAchimetry
+
+### INSERT one
+
+```python
+newToner = Toner(toner_id = 1,
+                    toner_color = 'blue',
+                    toner_hex = '#0F85FF')
+
+dbsession.add(newToner)   
+dbsession.commit()
+```
+
+### INSERT multiple
+
+```python
+newToner1 = Toner(toner_id = 1,
+                    toner_color = 'blue',
+                    toner_hex = '#0F85FF')
+
+newToner2 = Toner(toner_id = 2,
+                    toner_color = 'red',
+                    toner_hex = '#F01731')
+
+dbsession.add_all([newToner1, newToner2])   
+dbsession.commit()
+```
+
+### UPDATE
+
+```python
+q = dbsession.query(Toner)
+q = q.filter(Toner.toner_id==1)
+record = q.one()
+record.toner_color = 'Azure Radiance'
+
+dbsession.commit()
+```
+
+or using a fancy one-liner using MERGE
+
+```python
+record = dbsession.merge(Toner( **kwargs))
+```
