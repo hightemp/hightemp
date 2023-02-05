@@ -209,6 +209,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hightemp)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightemp)
 
+⭐ Важный проект
 📗 Готов, можно использовать
 📘 В процессе
 📙 Не работает, есть ошибки
