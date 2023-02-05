@@ -44,6 +44,8 @@
 
 #### Текущие проекты
 
+- [wapp_github_blog_engine_vue](https://github.com/hightemp/wapp_github_blog_engine_vue)⭐ - Переписал wapp_github_blog_engine на vue (менеджер статей и ссылок)
+- [wapp_simple_stats_rust](https://github.com/hightemp/wapp_simple_stats_rust) - Переписал счетчик посещений на rust со статистикой.
 - [ru_paraphrase_gpt](https://github.com/hightemp/ru_paraphrase_gpt) - Перефразатор
 - [wapp_markdown_server](https://github.com/hightemp/wapp_markdown_server)⭐ - **flask** - markdown сервер
 - [wapp_github_blog_engine](https://github.com/hightemp/wapp_github_blog_engine)⭐ - **js** - мини приложение для работы с текстовыми документами в репо github
