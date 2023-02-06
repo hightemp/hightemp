@@ -45,7 +45,7 @@
 #### Текущие проекты
 
 - [wapp_web_file_manager_vue](https://github.com/hightemp/wapp_web_file_manager_vue)⭐ [демо](https://hightemp.github.io/wapp_web_file_manager_vue/) - Менеджер файлов для webdav, github на vue.
-- [wapp_github_blog_engine_vue](https://github.com/hightemp/wapp_github_blog_engine_vue)⭐ - Переписал wapp_github_blog_engine на vue (менеджер статей и ссылок)
+- [wapp_github_blog_engine_vue](https://github.com/hightemp/wapp_github_blog_engine_vue)⭐ [демо](https://hightemp.github.io/wapp_github_blog_engine_vue/) - Переписал wapp_github_blog_engine на vue (менеджер статей и ссылок)
 - [wapp_simple_stats_rust](https://github.com/hightemp/wapp_simple_stats_rust) - Переписал счетчик посещений на rust со статистикой.
 - [ru_paraphrase_gpt](https://github.com/hightemp/ru_paraphrase_gpt) - Перефразатор
 - [wapp_markdown_server](https://github.com/hightemp/wapp_markdown_server)⭐ - **flask** - markdown сервер
