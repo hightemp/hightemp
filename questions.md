@@ -16,6 +16,7 @@
 - [Теория программирования 1](http://e-biblio.ru/book/bib/01_informatika/ProgBK_pt2/Book_teria_prog_1.html)
 - [Теория программирования 2](http://e-biblio.ru/book/bib/01_informatika/ProgBK_pt2/Book_teria_prog_2.html)
 - [Технические средства информатизации](http://e-biblio.ru/book/bib/01_informatika/Tehnich_sredstva_inform/sg.htm)
+- [Базы данных](http://www.e-biblio.ru/book/bib/01_informatika/BD/Book.html)
 
 ### Экономика
 
