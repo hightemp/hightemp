@@ -259,3 +259,21 @@ or using a fancy one-liner using MERGE
 ```python
 record = dbsession.merge(Toner( **kwargs))
 ```
+
+## Файловая система
+
+### Получить отсортированнные файлы
+
+```python
+import glob
+import os
+dir_name = '/home/user/dir'
+# Get list of all files in a given directory sorted by name
+list_of_files = sorted( filter( os.path.isfile,
+                        glob.glob(dir_name + '*') ) )
+# Iterate over sorted list of files and print the file paths 
+# one by one.
+for file_path in list_of_files:
+    print(file_path)
+```
+
