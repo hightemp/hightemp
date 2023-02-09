@@ -26,6 +26,7 @@
 - [docPrinciplesOfNeuralScience5th](https://github.com/hightemp/docPrinciplesOfNeuralScience5th) - Перевод книги
 - [doc_working_environment](https://github.com/hightemp/doc_working_environment) - Коллекции ссылок. Настройка рабочей среды
 - [cappTYGListCollector](https://github.com/hightemp/cappTYGListCollector) - Коллекции ссылок telegram, youtube
+- [шпоры - python](https://github.com/hightemp/hightemp/blob/main/python.md)
 
 #### Коллекции, awesome
 
