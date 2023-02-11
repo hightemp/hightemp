@@ -1,3 +1,7 @@
+# Вопросы к экзамену
+
+![](https://asdertasd.site/counter/exams)
+
 ## Методички
 
 ### pdf - конспекты лекции
@@ -5024,14 +5028,27 @@ HRM (Human Resource Management)
 ## CRM-системы.
 <a name="q2-29"></a>
 
+- https://studfile.net/preview/7856733/page:4/
+- https://studfile.net/preview/8583836/page:2/
+- https://studfile.net/preview/8927051/page:33/
+
 ## Информационные системы управления проектами.
 <a name="q2-30"></a>
+
+- https://studfile.net/preview/10028817/page:24/
+- https://studfile.net/preview/16875409/
+- https://studfile.net/preview/10028817/page:21/
 
 ## Система экономической документации.
 <a name="q2-31"></a>
 
+- https://studfile.net/preview/6489845/page:3/
+- https://studfile.net/preview/1825443/page:50/
+
 ## Модели представления знаний.
 <a name="q2-32"></a>
+
+- https://studfile.net/preview/8965175/page:6/
 
 ## Системы электронного документооборота.
 <a name="q2-33"></a>
