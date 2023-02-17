@@ -45,6 +45,7 @@
 
 #### Текущие проекты
 
+- 📗[wapp_text_transformer_vue](https://github.com/hightemp/wapp_text_transformer_vue)⭐ [демо](https://hightemp.github.io/wapp_text_transformer_vue/) - Преобразователь текста с помощью js скриптов с возможностью сохранять в локальное хранилище, webdav, github.
 - 📗[wapp_js_sandbox](https://github.com/hightemp/wapp_js_sandbox)⭐ [демо](https://hightemp.github.io/wapp_js_sandbox/) - Простая песочница для js,css,html.
 - 📗[wapp_simple_password_manager_vue](https://github.com/hightemp/wapp_simple_password_manager_vue)⭐ [демо](https://hightemp.github.io/wapp_simple_password_manager_vue/) - Простой менеджер паролей позволяющий хранить все в 3DES локальном хранилище, webdav, github.
 - 📘[lib_forms_vue](https://github.com/hightemp/lib_forms_vue) - библиотека компонентов для vue (таблицы, списки, формы)
