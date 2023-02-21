@@ -45,6 +45,7 @@
 
 #### Текущие проекты
 
+- 📗[wapp_jgraph](https://github.com/hightemp/wapp_jgraph) [демо](https://hightemp.github.io/wapp_jgraph/) - Редактор диаграм основанный на drawio с возможностью сохранять в локальное хранилище, webdav, github.
 - 📗[wapp_translator_vue](https://github.com/hightemp/wapp_translator_vue) [демо](https://hightemp.github.io/wapp_translator_vue/) - Простой интерфейс для перевода, использующий google, yandex.
 - 📗[wapp_text_transformer_vue](https://github.com/hightemp/wapp_text_transformer_vue)⭐ [демо](https://hightemp.github.io/wapp_text_transformer_vue/) - Преобразователь текста с помощью js скриптов с возможностью сохранять в локальное хранилище, webdav, github.
 - 📗[wapp_js_sandbox](https://github.com/hightemp/wapp_js_sandbox)⭐ [демо](https://hightemp.github.io/wapp_js_sandbox/) - Простая песочница для js,css,html.
