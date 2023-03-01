@@ -45,6 +45,7 @@
 
 #### Текущие проекты
 
+- 📘[obsidian-grid-view](https://github.com/hightemp/obsidian-grid-view) - расширение для Obsidian позволяющее работать с csv как с excel таблицами
 - 📗[wapp_links_database_vue](https://github.com/hightemp/wapp_links_database_vue) ⭐ [демо](https://hightemp.github.io/wapp_links_database_vue/) - Простая база ссылокв (PWA) с возможностью сохранять в локальное хранилище, webdav, github.
 - 📗[wapp_jgraph](https://github.com/hightemp/wapp_jgraph) [демо](https://hightemp.github.io/wapp_jgraph/) - Редактор диаграм основанный на drawio с возможностью сохранять в локальное хранилище, webdav, github.
 - 📗[wapp_translator_vue](https://github.com/hightemp/wapp_translator_vue) [демо](https://hightemp.github.io/wapp_translator_vue/) - Простой интерфейс для перевода, использующий google, yandex.
