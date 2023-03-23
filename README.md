@@ -45,6 +45,8 @@
 
 #### Текущие проекты
 
+- 📗[capp_telegram_news_bot_golang](https://github.com/hightemp/capp_telegram_news_bot_golang) - Простой телеграм бот читающий новости из rss ленты и постящий в telegram.
+- 📘[wapp_scrapping_manager_django](https://github.com/hightemp/wapp_scrapping_manager_django) - Менеджер пауков для scrapping на django
 - 📗[wapp_books_manager](https://github.com/hightemp/wapp_books_manager) - приложение на flask для менеджмента книг в формате pdf
 - 📗[obsidian-files-tree-toc](https://github.com/hightemp/obsidian-files-tree-toc) - расширение для Obsidian позволяющее создать TOC меню для дерева всех файлов в отдельном файле.
 - 📘[obsidian-grid-view](https://github.com/hightemp/obsidian-grid-view) - расширение для Obsidian позволяющее работать с csv как с excel таблицами
