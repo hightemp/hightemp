@@ -5,6 +5,7 @@
 - Vue-Ecommerce-App-with-Vuex [демо](http://sincere-wind.surge.sh/#/products) https://github.com/TheCoderDream/Vue-Ecommerce-App-with-Vuex
 - https://github.com/ivanlori/Vuemmerce
 - https://github.com/AntonMoskalchenko/nuxt-ecommerce
+- https://github.com/MartaBento/vue-pwa-ecommerce
 
 ## yii/php
 
