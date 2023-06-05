@@ -3,6 +3,7 @@
 ## vue/js
 
 - Vue-Ecommerce-App-with-Vuex [демо](http://sincere-wind.surge.sh/#/products) https://github.com/TheCoderDream/Vue-Ecommerce-App-with-Vuex
+- https://github.com/AntonMoskalchenko/nuxt-ecommerce
 
 ## yii/php
 
