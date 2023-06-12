@@ -47,7 +47,7 @@
 
 - 📗[capp_telegram_news_bot_golang](https://github.com/hightemp/capp_telegram_news_bot_golang) - Простой телеграм бот читающий новости из rss ленты и постящий в telegram.
 - 📗[wapp_books_manager](https://github.com/hightemp/wapp_books_manager) - приложение на flask для менеджмента книг в формате pdf
-- 📗[obsidian-files-tree-toc](https://github.com/hightemp/obsidian-files-tree-toc) - расширение для Obsidian позволяющее создать TOC меню для дерева всех файлов в отдельном файле.
+- 📗[obsidian-files-tree-toc](https://github.com/hightemp/obsidian-files-tree-toc) - расширение для Obsidian позволяющее создать TOC(Table of contents) меню для дерева всех файлов в отдельном файле.
 - 📘[obsidian-grid-view](https://github.com/hightemp/obsidian-grid-view) - расширение для Obsidian позволяющее работать с csv как с excel таблицами
 - 📗[wapp_links_database_vue](https://github.com/hightemp/wapp_links_database_vue) ⭐ [демо](https://hightemp.github.io/wapp_links_database_vue/) - Простая база ссылокв (PWA) с возможностью сохранять в локальное хранилище, webdav, github.
 - 📗[wapp_jgraph](https://github.com/hightemp/wapp_jgraph) [демо](https://hightemp.github.io/wapp_jgraph/) - Редактор диаграм основанный на drawio с возможностью сохранять в локальное хранилище, webdav, github.
