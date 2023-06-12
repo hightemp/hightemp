@@ -1,6 +1,6 @@
 # Список планов
 
-[![](https://asdertasd.site/counter/hightemp?a=1)](https://asdertasd.site/counter/hightemp)
+[![](https://asdertasd.site/counter/TODO.md?a=1)](https://asdertasd.site/counter/TODO.md)
 
 - [ ] Менеджер сервисов в linux на golang
       Это веб-приложение, показывающее список сервисов, дающее возможность создавать новые сервисы по шаблону.
