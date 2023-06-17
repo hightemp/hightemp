@@ -65,3 +65,7 @@
 ## ruby/ruby on rails
 
 - The future Redmine you can get today — yet another distribution of a flexible project management software named Redmine https://github.com/redmica/redmica
+
+## ruby
+
+- Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows automating (without admin access) daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. https://github.com/dgroup/lazylead
