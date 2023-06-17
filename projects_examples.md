@@ -24,6 +24,7 @@
 - Leantime is a strategic project management system for non-project managers https://github.com/leantime/leantime
 - open source project management software https://github.com/Orangescrum/orangescrum
 - Twake is a secure open source collaboration platform https://github.com/linagora/Twake
+- Kanban project management software https://github.com/kanboard/kanboard
 
 ## python 
 
