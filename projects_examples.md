@@ -1,5 +1,9 @@
 # Примеры стороних проектов для разных стеков
 
+## go/javascript
+
+- Таск менеджер taskcafe https://github.com/JordanKnott/taskcafe
+
 ## vue/js
 
 - Vue-Ecommerce-App-with-Vuex [демо](http://sincere-wind.surge.sh/#/products) https://github.com/TheCoderDream/Vue-Ecommerce-App-with-Vuex
