@@ -2,9 +2,13 @@
 
 ## go/javascript
 
-- CLI tool for projects management https://github.com/mactat/framed
 - Таск менеджер taskcafe https://github.com/JordanKnott/taskcafe
 - Чат, таск менеджер https://github.com/mattermost/mattermost
+
+## go
+
+- Fast and simple terminal based Kanban board manager https://github.com/singalhimanshu/taskgo
+- CLI tool for projects management https://github.com/mactat/framed
 
 ## vue/javascript
 
