@@ -39,6 +39,10 @@
 - Простой и эффективный инструмент управления проектами, основанный на гибкой разработке https://github.com/gopeak/masterlab
 - Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​ https://github.com/easysoft/zentaopms
 
+## python/vue
+
+- NearBeach is an open sourced project management tool, helping you keep track of your project. You can track requirements, projects and tasks https://github.com/robotichead/NearBeach
+
 ## python 
 
 - Free and Open Source Enterprise Resource Planning (ERP) https://github.com/frappe/erpnext
