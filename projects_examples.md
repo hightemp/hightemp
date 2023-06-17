@@ -19,6 +19,10 @@
 - humhub https://github.com/humhub/humhub
 - opensourcewebsite-org https://github.com/opensourcewebsite-org/opensourcewebsite-org/tree/master
 
+## php/vue
+
+- DooTask — это онлайн-инструмент для управления проектами с открытым исходным кодом, который предоставляет различные инструменты для совместной работы над документами, онлайн-карты разума, онлайн-блок-схемы, управление проектами, распределение задач, мгновенный обмен мгновенными сообщениями, управление файлами и другие инструменты; https://github.com/kuaifan/dootask
+
 ## php 
 
 - Leantime is a strategic project management system for non-project managers https://github.com/leantime/leantime
