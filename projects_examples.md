@@ -19,6 +19,10 @@
 - humhub https://github.com/humhub/humhub
 - opensourcewebsite-org https://github.com/opensourcewebsite-org/opensourcewebsite-org/tree/master
 
+## php/vue/laravel
+
+- OfficeLife is the first EmpOps platform. It manages everything employees do in a company. https://github.com/officelifehq/officelife
+
 ## php/vue
 
 - DooTask — это онлайн-инструмент для управления проектами с открытым исходным кодом, который предоставляет различные инструменты для совместной работы над документами, онлайн-карты разума, онлайн-блок-схемы, управление проектами, распределение задач, мгновенный обмен мгновенными сообщениями, управление файлами и другие инструменты; https://github.com/kuaifan/dootask
