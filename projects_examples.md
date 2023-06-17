@@ -72,5 +72,6 @@
 
 ## AI
 
+- Data-Centric FinGPT. Open-source for open finance! Revolutionize fire We'll soon release the trained model. https://github.com/AI4Finance-Foundation/FinGPT
 - Specify what you want it to build, the AI asks for clarification, and then builds it. https://github.com/AntonOsika/gpt-engineer
 
