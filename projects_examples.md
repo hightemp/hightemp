@@ -27,4 +27,5 @@
 
 ## python 
 
+- Open Source JIRA, Linear and Height Alternative https://github.com/makeplane/plane
 - WeKan ® - Open Source kanban https://github.com/wekan/wekan
