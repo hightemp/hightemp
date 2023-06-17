@@ -3,8 +3,9 @@
 ## go/javascript
 
 - Таск менеджер taskcafe https://github.com/JordanKnott/taskcafe
+- Чат, таск менеджер https://github.com/mattermost/mattermost
 
-## vue/js
+## vue/javascript
 
 - Vue-Ecommerce-App-with-Vuex [демо](http://sincere-wind.surge.sh/#/products) https://github.com/TheCoderDream/Vue-Ecommerce-App-with-Vuex
 - https://github.com/ivanlori/Vuemmerce
