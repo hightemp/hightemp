@@ -2,6 +2,7 @@
 
 ## go/javascript
 
+- CLI tool for projects management https://github.com/mactat/framed
 - Таск менеджер taskcafe https://github.com/JordanKnott/taskcafe
 - Чат, таск менеджер https://github.com/mattermost/mattermost
 
