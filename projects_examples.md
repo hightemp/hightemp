@@ -27,5 +27,6 @@
 
 ## python 
 
+- Free and Open Source Enterprise Resource Planning (ERP) https://github.com/frappe/erpnext
 - Open Source JIRA, Linear and Height Alternative https://github.com/makeplane/plane
 - WeKan ® - Open Source kanban https://github.com/wekan/wekan
