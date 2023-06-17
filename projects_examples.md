@@ -57,3 +57,7 @@
 
 - Application for Mind Mapping, Knowledge Management, Project Management https://github.com/freeplane/freeplane
 - An open source, free, high performance, stable and secure Java Application Business Platform of Project Management and Document https://github.com/MyCollab/mycollab
+
+## ruby/ruby on rails
+
+- The future Redmine you can get today — yet another distribution of a flexible project management software named Redmine https://github.com/redmica/redmica
