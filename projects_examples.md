@@ -31,6 +31,7 @@
 - Twake is a secure open source collaboration platform https://github.com/linagora/Twake
 - Kanban project management software https://github.com/kanboard/kanboard
 - Простой и эффективный инструмент управления проектами, основанный на гибкой разработке https://github.com/gopeak/masterlab
+- Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​ https://github.com/easysoft/zentaopms
 
 ## python 
 
