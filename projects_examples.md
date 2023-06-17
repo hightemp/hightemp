@@ -39,6 +39,10 @@
 - Простой и эффективный инструмент управления проектами, основанный на гибкой разработке https://github.com/gopeak/masterlab
 - Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​ https://github.com/easysoft/zentaopms
 
+## nodejs
+
+- Built with Holochain, Acorn is an open-source, peer-to-peer project management application. It is designed and built as a scrum-alternative, Agile Development Pattern for distributed software development teams. Acorn is currently in Alpha testing phase. https://github.com/lightningrodlabs/acorn
+
 ## python/vue
 
 - NearBeach is an open sourced project management tool, helping you keep track of your project. You can track requirements, projects and tasks https://github.com/robotichead/NearBeach
