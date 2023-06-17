@@ -69,3 +69,8 @@
 ## ruby
 
 - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows automating (without admin access) daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. https://github.com/dgroup/lazylead
+
+## AI
+
+- Specify what you want it to build, the AI asks for clarification, and then builds it. https://github.com/AntonOsika/gpt-engineer
+
