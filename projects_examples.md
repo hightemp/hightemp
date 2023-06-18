@@ -13,6 +13,7 @@
 - Fast and simple terminal based Kanban board manager https://github.com/singalhimanshu/taskgo
 - CLI tool for projects management https://github.com/mactat/framed
 - Download Youtube Video in Golang https://github.com/kkdai/youtube
+- Live Stream Recorder https://github.com/go-olive/olive
 
 ## vue/javascript
 
