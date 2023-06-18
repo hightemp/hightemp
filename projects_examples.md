@@ -49,6 +49,10 @@
 - Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​ https://github.com/easysoft/zentaopms
 - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager https://github.com/prasathmani/tinyfilemanager
 
+## nodejs/vue
+
+- ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. https://github.com/ViewTube/viewtube
+
 ## nodejs
 
 - Built with Holochain, Acorn is an open-source, peer-to-peer project management application. It is designed and built as a scrum-alternative, Agile Development Pattern for distributed software development teams. Acorn is currently in Alpha testing phase. https://github.com/lightningrodlabs/acorn
