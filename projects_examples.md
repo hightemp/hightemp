@@ -106,6 +106,10 @@
 
 - NearBeach is an open sourced project management tool, helping you keep track of your project. You can track requirements, projects and tasks https://github.com/robotichead/NearBeach
 
+## python/flask/javascript
+
+- Newspipe - это веб-агрегатор новостей, написанный на языке Python с использованием Flask, asyncio и SQLAlchemy. Он позволяет нескольким пользователям использовать один экземпляр Newspipe и имеет API для управления лентами новостей. Пользователи могут экспортировать и импортировать свои аккаунты и ленты с помощью JSON- и OPML-файлов. https://github.com/cedricbonhomme/newspipe
+
 ## python 
 
 - Free and Open Source Enterprise Resource Planning (ERP) https://github.com/frappe/erpnext
