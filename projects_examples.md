@@ -60,14 +60,18 @@
 - Laravel PHP Facade/Wrapper for the Youtube Data API https://github.com/alaouy/Youtube
 - Unmark - это бесплатное приложение для управления закладками, которое позволяет создавать списки задач и управлять ими. Приложение может быть использовано для сохранения ссылок на веб-страницы, заметок и другой информации, а также для организации этих данных и планирования задач. https://github.com/cdevroe/unmark
 
-## javascript/browser-extension/vue
+## browser-extension/javascript/vue
 
 - FavBox - это расширение для браузера, которое упрощает управление закладками без использования облачных хранилищ или сторонних сервисов. https://github.com/dd3v/favbox
 
-## javascript/browser-extension
+## browser-extension/javascript
 
 - osmos::memo - это менеджер закладок для браузера, оптимизированный для скорости сбора и поиска информации. Он может извлекать заголовок и URL страницы в короткий фрагмент markdown, одним кликом вставлять этот фрагмент в README.md на GitHub, добавлять новые теги или использовать ранее созданные теги и выполнять мгновенный поиск по фрагментам с помощью встроенной в браузер утилиты "найти на странице". https://github.com/osmoscraft/osmosmemo
 - Omni - это расширение для браузера Chrome и Firefox, которое позволяет управлять вкладками, закладками и историей браузера с помощью командного интерфейса. С помощью Omni вы можете выполнять различные действия, такие как открытие, закрытие и поиск вкладок, управление закладками, поиск в истории браузера и многое другое. https://github.com/alyssaxuu/omni
+
+## nodejs/next/react
+
+- Lynx - Link and bookmark manager and sharing platform for the wide web. Next.js, Node.js + Hyper Express, Nx https://github.com/net-runner/lynx
 
 ## nodejs/vue
 
