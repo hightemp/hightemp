@@ -48,6 +48,7 @@
 - Простой и эффективный инструмент управления проектами, основанный на гибкой разработке https://github.com/gopeak/masterlab
 - Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​ https://github.com/easysoft/zentaopms
 - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager https://github.com/prasathmani/tinyfilemanager
+- Laravel PHP Facade/Wrapper for the Youtube Data API https://github.com/alaouy/Youtube
 
 ## nodejs/vue
 
