@@ -4,6 +4,7 @@
 
 - Таск менеджер taskcafe https://github.com/JordanKnott/taskcafe
 - Чат, таск менеджер https://github.com/mattermost/mattermost
+- (Self-hosted file management and sharing system, supports multiple storage providers) https://github.com/cloudreve/Cloudreve
 
 ## go
 
