@@ -79,6 +79,9 @@
 
 - Lynx - Link and bookmark manager and sharing platform for the wide web. Next.js, Node.js + Hyper Express, Nx https://github.com/net-runner/lynx
 
+## react-native
+- Feeds - это бесплатный и независимый мобильный RSS-ридер с хронологической лентой новостей. Приложение позволяет следить за новостными сайтами и блогами (например, Wordpress, Ghost, Blogger) с помощью RSS, а также за Reddit-сабами, каналами Youtube, Tumblr, Twitter и Mastodon. Feeds не требует регистрации и не отслеживает пользователей, все действия происходят на устройстве. Приложение не содержит рекламы и не использует алгоритмическую ленту новостей. https://github.com/felfele/feeds
+
 ## nodejs/vue
 
 - ViewTube - это альтернативный фронтенд YouTube, который позволяет смотреть, искать и открывать YouTube-видео без рекламы или отслеживания. Он построен, чтобы быть удобным как для мобильных устройств, так и для настольных компьютеров, с темными и светлыми темами, а также с сенсорным видеоплеером с жестами.  https://github.com/ViewTube/viewtube
@@ -96,7 +99,6 @@
 - A wrapper around YouTube's internal API — reverse engineering InnerTube https://github.com/LuanRT/YouTube.js
 - Built with Holochain, Acorn is an open-source, peer-to-peer project management application. It is designed and built as a scrum-alternative, Agile Development Pattern for distributed software development teams. Acorn is currently in Alpha testing phase. https://github.com/lightningrodlabs/acorn
 - RSSHub is an open source, easy to use, and extensible RSS feed generator. https://github.com/DIYgod/RSSHub
-- Feeds - это бесплатный и независимый мобильный RSS-ридер с хронологической лентой новостей. Приложение позволяет следить за новостными сайтами и блогами (например, Wordpress, Ghost, Blogger) с помощью RSS, а также за Reddit-сабами, каналами Youtube, Tumblr, Twitter и Mastodon. Feeds не требует регистрации и не отслеживает пользователей, все действия происходят на устройстве. Приложение не содержит рекламы и не использует алгоритмическую ленту новостей. https://github.com/felfele/feeds
 
 ## python/javascript
 
