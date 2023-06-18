@@ -101,6 +101,7 @@
 ## electron
 
 - F-Curator is an offline application that comes at you all day long and curates your own web favorites https://github.com/xizon/F-Curator
+- massCode - это приложение для управления фрагментами кода (code snippets), построенное с использованием технологий Electron, Vue и Codemirror. Оно позволяет пользователям организовывать свои фрагменты кода с использованием многократных уровней папок и тегов. Каждый фрагмент кода может состоять из нескольких вкладок, что дает еще большую организационную гибкость. https://github.com/massCodeIO/massCode
 
 ## nodejs
 
