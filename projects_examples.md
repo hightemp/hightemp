@@ -16,6 +16,7 @@
 
 ## vue/javascript
 
+- Muffon - это браузер для потокового воспроизведения музыки на рабочем столе. Он получает аудио, видео и метаданные из различных интернет-источников и предоставляет возможность прослушивания, поиска, создания плейлистов, добавления в избранное, просмотра новых и грядущих релизов, поиска по тегам и просмотра рекомендаций на основе библиотеки. https://github.com/staniel359/muffon
 - Vue-Ecommerce-App-with-Vuex [демо](http://sincere-wind.surge.sh/#/products) https://github.com/TheCoderDream/Vue-Ecommerce-App-with-Vuex
 - https://github.com/ivanlori/Vuemmerce
 - https://github.com/AntonMoskalchenko/nuxt-ecommerce
