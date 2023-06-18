@@ -93,6 +93,10 @@
 
 - Codever - это менеджер закладок и фрагментов кода для разработчиков и других пользователей. Он позволяет сохранять закладки и фрагменты кода, организовывать их в категории и быстро их находить. Приложение предоставляет расширения для браузера и интеграцию с GitHub, а также поддерживает аутентификацию и авторизацию с помощью Keycloak.  https://github.com/CodeverDotDev/codever
 
+## nodejs/meteor
+
+- Приложение Sofie: The Modern TV News Studio Automation System (Sofie Core) - это веб-сервер, созданный на базе Meteor/Node.JS, который обслуживает веб-интерфейсы и обрабатывает бизнес-логику системы автоматизации телестудии Sofie. Оно используется для автоматизации процесса подготовки и вещания новостей на телеканалах. Sofie Core позволяет создавать, редактировать и управлять контентом, создавать графики и титры, а также управлять телевизионным эфиром. https://github.com/nrkno/sofie-core
+
 ## electron
 
 - F-Curator is an offline application that comes at you all day long and curates your own web favorites https://github.com/xizon/F-Curator
