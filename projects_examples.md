@@ -17,6 +17,10 @@
 - Download Youtube Video in Golang https://github.com/kkdai/youtube
 - Live Stream Recorder https://github.com/go-olive/olive
 
+## rust/javascript/tauri
+
+- Bookee is a simple app to store your bookmarks. It's written in React with Tauri. https://github.com/Alphinux/Bookee
+
 ## nuxt/vue/javascript
 
 - WebCrate - это приложение для организации ссылок, статей и другого контента из интернета в одном месте. Оно позволяет добавлять ссылки с любого устройства или непосредственно из браузера с помощью расширения для Firefox/Chrome и организовывать их в различные коллекции, называемые ящиками (crates) https://github.com/WebCrateApp/webcrate
