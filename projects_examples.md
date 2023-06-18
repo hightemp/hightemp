@@ -22,6 +22,7 @@
 ## rust/javascript/tauri
 
 - Bookee is a simple app to store your bookmarks. It's written in React with Tauri. https://github.com/Alphinux/Bookee
+- Cross-platform local file search engine. https://github.com/naaive/orange
 
 ## rust
 
