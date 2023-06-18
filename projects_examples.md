@@ -7,6 +7,7 @@
 
 ## go
 
+- "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files https://github.com/rclone/rclone
 - Fast and simple terminal based Kanban board manager https://github.com/singalhimanshu/taskgo
 - CLI tool for projects management https://github.com/mactat/framed
 
