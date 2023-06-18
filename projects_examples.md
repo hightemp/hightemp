@@ -53,6 +53,10 @@
 - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager https://github.com/prasathmani/tinyfilemanager
 - Laravel PHP Facade/Wrapper for the Youtube Data API https://github.com/alaouy/Youtube
 
+## javascript/browser-extension
+
+- Omni - это расширение для браузера Chrome и Firefox, которое позволяет управлять вкладками, закладками и историей браузера с помощью командного интерфейса. С помощью Omni вы можете выполнять различные действия, такие как открытие, закрытие и поиск вкладок, управление закладками, поиск в истории браузера и многое другое. https://github.com/alyssaxuu/omni
+
 ## nodejs/vue
 
 - ViewTube - это альтернативный фронтенд YouTube, который позволяет смотреть, искать и открывать YouTube-видео без рекламы или отслеживания. Он построен, чтобы быть удобным как для мобильных устройств, так и для настольных компьютеров, с темными и светлыми темами, а также с сенсорным видеоплеером с жестами.  https://github.com/ViewTube/viewtube
