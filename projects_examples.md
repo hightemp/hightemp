@@ -76,6 +76,10 @@
 
 - Codever - это менеджер закладок и фрагментов кода для разработчиков и других пользователей. Он позволяет сохранять закладки и фрагменты кода, организовывать их в категории и быстро их находить. Приложение предоставляет расширения для браузера и интеграцию с GitHub, а также поддерживает аутентификацию и авторизацию с помощью Keycloak.  https://github.com/CodeverDotDev/codever
 
+## electron
+
+- F-Curator is an offline application that comes at you all day long and curates your own web favorites https://github.com/xizon/F-Curator
+
 ## nodejs
 
 - A wrapper around YouTube's internal API — reverse engineering InnerTube https://github.com/LuanRT/YouTube.js
