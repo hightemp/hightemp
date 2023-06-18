@@ -103,6 +103,7 @@
 
 ## nodejs
 
+- Tinking - это расширение для браузера Google Chrome, которое позволяет извлекать данные с веб-страниц без необходимости писать код, а только с помощью мыши. Для этого пользователю нужно выделить нужные элементы на странице, и Tinking создаст скрапер, который может быть использован для извлечения аналогичных данных с других страниц. https://github.com/baptisteArno/tinking
 - A wrapper around YouTube's internal API — reverse engineering InnerTube https://github.com/LuanRT/YouTube.js
 - Built with Holochain, Acorn is an open-source, peer-to-peer project management application. It is designed and built as a scrum-alternative, Agile Development Pattern for distributed software development teams. Acorn is currently in Alpha testing phase. https://github.com/lightningrodlabs/acorn
 - RSSHub is an open source, easy to use, and extensible RSS feed generator. https://github.com/DIYgod/RSSHub
