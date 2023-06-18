@@ -51,7 +51,7 @@
 
 ## nodejs/vue
 
-- ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. https://github.com/ViewTube/viewtube
+- ViewTube - это альтернативный фронтенд YouTube, который позволяет смотреть, искать и открывать YouTube-видео без рекламы или отслеживания. Он построен, чтобы быть удобным как для мобильных устройств, так и для настольных компьютеров, с темными и светлыми темами, а также с сенсорным видеоплеером с жестами.  https://github.com/ViewTube/viewtube
 
 ## nodejs
 
