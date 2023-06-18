@@ -63,6 +63,7 @@
 ## python/javascript
 
 - Your self hosted YouTube media server https://github.com/tubearchivist/tubearchivist
+- A multi-user music server with a focus on participation https://github.com/raveberry/raveberry
 
 ## python/vue
 
