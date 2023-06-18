@@ -115,6 +115,7 @@
 - Free and Open Source Enterprise Resource Planning (ERP) https://github.com/frappe/erpnext
 - Open Source JIRA, Linear and Height Alternative https://github.com/makeplane/plane
 - WeKan ® - Open Source kanban https://github.com/wekan/wekan
+- A voice assistant which can be used to interact with your computer and controls your pc operations https://github.com/BolisettySujith/J.A.R.V.I.S
 
 ## java
 
