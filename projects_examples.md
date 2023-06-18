@@ -8,6 +8,7 @@
 - Go-fastdfs is a simple distributed file system (private cloud storage), with no center, high performance, high reliability, maintenance free and other advantages, support breakpoint continuation, block upload, small file merge, automatic synchronization https://github.com/sjqzhang/go-fastdfs
 - Shiori - это менеджер закладок, написанный на языке Go. Он предназначен для простого клонирования Pocket и может использоваться как в виде командной строки, так и в виде веб-приложения. Приложение распространяется в виде единого бинарного файла, что облегчает его установку и использование. https://github.com/techknowlogick/shiori
 - ShaarliGo - это простой менеджер закладок с возможностью самостоятельной публикации, написанный на языке Go. https://github.com/mro/ShaarliGo
+- Readflow - это сервис для чтения новостей из разных источников, предназначенный для обеспечения максимальной защиты данных и свободы. С помощью приложения можно читать статьи из любых источников в одном месте, сохранять статьи для оффлайн-чтения или локально на диске в нужном формате (HTML, EPUB, ZIP и т.д.), создавать категории и классифицировать новые статьи, настраивать интеграцию статей с помощью скриптового движка, связывать с внешними сервисами с помощью входящих и исходящих вебхуков (RSS, Keeper, Pocket, Shaarli, Wallabag, S3 bucket и другие), получать уведомления о новых статьях, иметь одинаковый пользовательский опыт на мобильных устройствах и настольных компьютерах благодаря поддержке Progressive Web App и не иметь рекламы и трекеров. https://github.com/ncarlier/readflow
 
 ## go
 
