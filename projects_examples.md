@@ -19,6 +19,7 @@
 - https://github.com/ivanlori/Vuemmerce
 - https://github.com/AntonMoskalchenko/nuxt-ecommerce
 - https://github.com/MartaBento/vue-pwa-ecommerce
+- An Open Source YouTube app for privacy https://github.com/FreeTubeApp/FreeTube
 
 ## yii/php
 
