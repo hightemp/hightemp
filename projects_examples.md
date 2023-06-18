@@ -77,6 +77,10 @@
 
 - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows automating (without admin access) daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. https://github.com/dgroup/lazylead
 
+## c++/javascript
+
+- Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! https://github.com/KRTirtho/spotube
+
 ## с++
 
 - Ceph is a distributed object, block, and file storage platform https://github.com/ceph/ceph
