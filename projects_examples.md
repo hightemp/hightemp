@@ -59,6 +59,7 @@
 - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager https://github.com/prasathmani/tinyfilemanager
 - Laravel PHP Facade/Wrapper for the Youtube Data API https://github.com/alaouy/Youtube
 - Unmark - это бесплатное приложение для управления закладками, которое позволяет создавать списки задач и управлять ими. Приложение может быть использовано для сохранения ссылок на веб-страницы, заметок и другой информации, а также для организации этих данных и планирования задач. https://github.com/cdevroe/unmark
+- Teikirize bookmarks - это приложение для сохранения закладок с возможностью самостоятельного хостинга. Оно позволяет вести список закладок, редактировать, удалять, поисковые запросы, тегирование, экспорт и импорт закладок в формате JSON. Также приложение имеет возможность отображения информации о медиа-контенте при сохранении закладки, а также режим приватности, когда информация доступна только администратору. https://github.com/giventofly/teikirize-bookmarks
 
 ## browser-extension/javascript/vue
 
