@@ -74,6 +74,10 @@
 
 - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows automating (without admin access) daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. https://github.com/dgroup/lazylead
 
+## с++
+
+- Ceph is a distributed object, block, and file storage platform https://github.com/ceph/ceph
+
 ## AI
 
 - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS).  https://github.com/Yidadaa/ChatGPT-Next-Web
