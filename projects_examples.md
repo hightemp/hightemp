@@ -7,6 +7,7 @@
 - (Self-hosted file management and sharing system, supports multiple storage providers) https://github.com/cloudreve/Cloudreve
 - Go-fastdfs is a simple distributed file system (private cloud storage), with no center, high performance, high reliability, maintenance free and other advantages, support breakpoint continuation, block upload, small file merge, automatic synchronization https://github.com/sjqzhang/go-fastdfs
 - Shiori - это менеджер закладок, написанный на языке Go. Он предназначен для простого клонирования Pocket и может использоваться как в виде командной строки, так и в виде веб-приложения. Приложение распространяется в виде единого бинарного файла, что облегчает его установку и использование. https://github.com/techknowlogick/shiori
+- ShaarliGo - это простой менеджер закладок с возможностью самостоятельной публикации, написанный на языке Go. https://github.com/mro/ShaarliGo
 
 ## go
 
