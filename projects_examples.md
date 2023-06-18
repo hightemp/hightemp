@@ -53,6 +53,10 @@
 - OfficeLife is the first EmpOps platform. It manages everything employees do in a company. https://github.com/officelifehq/officelife
 - Self-hosted platform to keep and share your content: web links, posts, passwords and pictures. https://github.com/MarceauKa/shaark
 
+## php/symfony
+
+- Personal Management System - это веб-приложение для управления личными данными, которые пользователь может организовать в различные модули, такие как задачи, заметки, контакты, пароли, достижения, расписания, проблемы, путешествия, платежи, покупки, работа, изображения, файлы и видео. https://github.com/Volmarg/personal-management-system
+
 ## php/vue
 
 - DooTask — это онлайн-инструмент для управления проектами с открытым исходным кодом, который предоставляет различные инструменты для совместной работы над документами, онлайн-карты разума, онлайн-блок-схемы, управление проектами, распределение задач, мгновенный обмен мгновенными сообщениями, управление файлами и другие инструменты; https://github.com/kuaifan/dootask
