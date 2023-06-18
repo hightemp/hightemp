@@ -43,6 +43,7 @@
 
 ## php/vue/laravel
 
+- A personal music streaming server that works. https://github.com/koel/koel
 - OfficeLife is the first EmpOps platform. It manages everything employees do in a company. https://github.com/officelifehq/officelife
 - Self-hosted platform to keep and share your content: web links, posts, passwords and pictures. https://github.com/MarceauKa/shaark
 
