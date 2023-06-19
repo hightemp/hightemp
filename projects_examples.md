@@ -129,6 +129,7 @@
 
 - Your self hosted YouTube media server https://github.com/tubearchivist/tubearchivist
 - A multi-user music server with a focus on participation https://github.com/raveberry/raveberry
+- Darkseal - это платформа для управления метаданными, которая включает в себя функции обнаружения данных, управления данными, контроля качества данных, сотрудничества пользователей и другие. Она предоставляет возможность задокументировать метаданные, связанные с различными типами данных и управлять ими. https://github.com/GuinsooLab/darkseal
 
 ## python/vue
 
