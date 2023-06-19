@@ -23,6 +23,7 @@
 - CLI tool for projects management https://github.com/mactat/framed
 - Download Youtube Video in Golang https://github.com/kkdai/youtube
 - Live Stream Recorder https://github.com/go-olive/olive
+- Dgraph - это горизонтально масштабируемая и распределенная база данных GraphQL с графовым backend'ом. Она обеспечивает ACID-транзакции, согласованную репликацию и линеаризуемые чтения. Dgraph специально разработана для выполнения богатого набора запросов и тесно контролирует, как данные организованы на диске для оптимизации производительности запросов и пропускной способности, уменьшая количество seeks на диске и сетевых вызовов в кластере. Она поддерживает синтаксис запросов GraphQL и отвечает в формате JSON и Protocol Buffers через GRPC и HTTP. Dgraph написана на языке программирования Go. https://github.com/dgraph-io/dgraph
 
 ## rust/javascript/tauri
 
