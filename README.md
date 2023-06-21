@@ -15,7 +15,7 @@
 #### Заметки и документация
 
 - [doc_notes](https://github.com/hightemp/doc_notes) - Заметки из Obsidian
-- [projects_examples](https://github.com/hightemp/hightemp/blob/main/projects_examples.md) - Список сторонних проектов
+- [projects_examples](https://github.com/hightemp/hightemp/blob/main/projects_examples.md) - Список проектов других разработчиков
 - [docLinux](https://github.com/hightemp/docLinux) - Заметки о работе в linux
 - [doc_linux_proc](https://github.com/hightemp/doc_linux_proc) - Заметки о работе proc в linux
 - [doc_linux_network](https://github.com/hightemp/doc_linux_network)
