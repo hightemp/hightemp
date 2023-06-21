@@ -191,4 +191,4 @@
 - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS).  https://github.com/Yidadaa/ChatGPT-Next-Web
 - Data-Centric FinGPT. Open-source for open finance! Revolutionize fire We'll soon release the trained model. https://github.com/AI4Finance-Foundation/FinGPT
 - Specify what you want it to build, the AI asks for clarification, and then builds it. https://github.com/AntonOsika/gpt-engineer
-
+- LangChain - это библиотека на языке Python для разработки приложений, использующих большие языковые модели (LLM) с возможностью комбинирования с другими источниками вычислений или знаний. У LangChain есть стандартный интерфейс для управления LLM, поддержка цепочек вызовов LLM и других утилит, возможность работы с внешними источниками данных, агентов, хранение состояния между вызовами и многое другое. LangChain может быть полезен для разработчиков, которые хотят использовать большие языковые модели для создания приложений, таких как чат-боты, агенты, роботы-вопросно-ответные системы и т.д. LangChain предоставляет удобный интерфейс и множество инструментов для создания таких приложений с использованием LLM. https://github.com/hwchase17/langchain
