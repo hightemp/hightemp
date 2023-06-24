@@ -26,6 +26,7 @@
 - Cloud Torrent - это удаленный торрент-клиент, который можно запустить на своем сервере. С помощью этого приложения вы можете запускать торренты удаленно, которые будут загружаться на локальный диск сервера в виде набора файлов. После этого эти файлы можно получить или воспроизвести через HTTP. https://github.com/jpillora/cloud-torrent
 - Steampipe - это универсальный интерфейс для работы с API. Он позволяет использовать SQL для запросов к облачной инфраструктуре, SaaS, коду, логам и многому другому. https://github.com/turbot/steampipe
 - A web-hosting control panel written in Go. https://github.com/kentonh/gPanel
+- The hackerspace friendly music player web client https://github.com/polyfloyd/trollibox
 
 ## go
 
