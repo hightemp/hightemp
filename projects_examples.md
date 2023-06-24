@@ -89,6 +89,7 @@
 - A personal music streaming server that works. https://github.com/koel/koel
 - OfficeLife is the first EmpOps platform. It manages everything employees do in a company. https://github.com/officelifehq/officelife
 - Self-hosted platform to keep and share your content: web links, posts, passwords and pictures. https://github.com/MarceauKa/shaark
+- Manage all your ebooks and send them to your reader https://github.com/Patrick-Vogt/bookery
 
 ## php/laravel
 
