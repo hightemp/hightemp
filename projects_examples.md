@@ -70,19 +70,6 @@
 
 - A hackable, minimal, fast TUI file explorer https://github.com/sayanarijit/xplr
 
-## nuxt/vue/javascript
-
-- WebCrate - это приложение для организации ссылок, статей и другого контента из интернета в одном месте. Оно позволяет добавлять ссылки с любого устройства или непосредственно из браузера с помощью расширения для Firefox/Chrome и организовывать их в различные коллекции, называемые ящиками (crates) https://github.com/WebCrateApp/webcrate
-
-## vue/javascript
-
-- Muffon - это браузер для потокового воспроизведения музыки на рабочем столе. Он получает аудио, видео и метаданные из различных интернет-источников и предоставляет возможность прослушивания, поиска, создания плейлистов, добавления в избранное, просмотра новых и грядущих релизов, поиска по тегам и просмотра рекомендаций на основе библиотеки. https://github.com/staniel359/muffon
-- Vue-Ecommerce-App-with-Vuex [демо](http://sincere-wind.surge.sh/#/products) https://github.com/TheCoderDream/Vue-Ecommerce-App-with-Vuex
-- https://github.com/ivanlori/Vuemmerce
-- https://github.com/AntonMoskalchenko/nuxt-ecommerce
-- https://github.com/MartaBento/vue-pwa-ecommerce
-- An Open Source YouTube app for privacy https://github.com/FreeTubeApp/FreeTube
-
 ## yii/php
 
 - yii2-easy-admin https://github.com/hgkmail/yii2-easy-admin
@@ -159,6 +146,20 @@
 
 ## react-native
 - Feeds - это бесплатный и независимый мобильный RSS-ридер с хронологической лентой новостей. Приложение позволяет следить за новостными сайтами и блогами (например, Wordpress, Ghost, Blogger) с помощью RSS, а также за Reddit-сабами, каналами Youtube, Tumblr, Twitter и Mastodon. Feeds не требует регистрации и не отслеживает пользователей, все действия происходят на устройстве. Приложение не содержит рекламы и не использует алгоритмическую ленту новостей. https://github.com/felfele/feeds
+
+## nuxt/vue/javascript
+
+- WebCrate - это приложение для организации ссылок, статей и другого контента из интернета в одном месте. Оно позволяет добавлять ссылки с любого устройства или непосредственно из браузера с помощью расширения для Firefox/Chrome и организовывать их в различные коллекции, называемые ящиками (crates) https://github.com/WebCrateApp/webcrate
+
+## vue/javascript
+
+- Muffon - это браузер для потокового воспроизведения музыки на рабочем столе. Он получает аудио, видео и метаданные из различных интернет-источников и предоставляет возможность прослушивания, поиска, создания плейлистов, добавления в избранное, просмотра новых и грядущих релизов, поиска по тегам и просмотра рекомендаций на основе библиотеки. https://github.com/staniel359/muffon
+- Vue-Ecommerce-App-with-Vuex [демо](http://sincere-wind.surge.sh/#/products) https://github.com/TheCoderDream/Vue-Ecommerce-App-with-Vuex
+- https://github.com/ivanlori/Vuemmerce
+- https://github.com/AntonMoskalchenko/nuxt-ecommerce
+- https://github.com/MartaBento/vue-pwa-ecommerce
+- An Open Source YouTube app for privacy https://github.com/FreeTubeApp/FreeTube
+- Homer - это статический дашборд на HTML/JS, основанный на простом конфигурационном файле YAML. Он предназначен для хранения ссылок на ваши сервисы в одном месте и легкого доступа к ним. Homer может быть установлен как PWA, настроен через конфигурационный файл и поддерживает поиск, группировку ссылок и настройку тем. Homer запускается на любом HTTP-сервере и не работает, если файл index.html открыт напрямую через протокол file://. Homer может быть использован как удобный инструмент для управления вашими сервисами и быстрого доступа к ним. https://github.com/bastienwirtz/homer
 
 ## nodejs/vue
 
