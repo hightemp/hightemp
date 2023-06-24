@@ -1,5 +1,7 @@
 # Примеры стороних проектов для разных стеков
 
+[![](https://asdertasd.site/counter/projects_examples?a=1)](https://asdertasd.site/counter/projects_examples)
+
 ## go/vue
 
 - PhotoPrism - это приложение для организации и просмотра фотографий, которое использует искусственный интеллект для автоматической категоризации и поиска изображений. Оно может быть запущено на домашнем компьютере, на частном сервере или в облаке. https://github.com/photoprism/photoprism
