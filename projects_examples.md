@@ -182,6 +182,7 @@
 ## python/vue
 
 - NearBeach is an open sourced project management tool, helping you keep track of your project. You can track requirements, projects and tasks https://github.com/robotichead/NearBeach
+- Yacht - это управление контейнерами с интерфейсом пользователя, основанным на шаблонах и удобных развертываниях в один клик. Это позволяет управлять контейнерами Docker, а также имеет функции создания и управления шаблонами для быстрого развертывания приложений. Можно управлять настройками объемов и другими функциями. Yacht может использоваться для мониторинга контейнеров и доступа к контейнерным интерфейсам. Планируется добавить управление пользователями и запланированные задания. Yacht совместим с шаблонами Portainer и может обновлять шаблоны одним нажатием кнопки. Установка доступна на Linux и возможно будет поддерживаться в будущем под Windows. Yacht распространяется под лицензией MIT. https://github.com/SelfhostedPro/Yacht
 
 ## python/flask/javascript
 
