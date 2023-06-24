@@ -5,6 +5,7 @@
 ## go/vue
 
 - PhotoPrism - это приложение для организации и просмотра фотографий, которое использует искусственный интеллект для автоматической категоризации и поиска изображений. Оно может быть запущено на домашнем компьютере, на частном сервере или в облаке. https://github.com/photoprism/photoprism
+- Web File Manager which can be used as a middleware or standalone app. https://github.com/maxux/filemanager
 
 ## go/javascript
 
