@@ -212,6 +212,10 @@
 - Calibre-Web - это веб-приложение, которое предоставляет чистый и интуитивно понятный интерфейс для просмотра, чтения и загрузки электронных книг, используя базу данных Calibre. Оно имеет современный и отзывчивый интерфейс на Bootstrap 3 HTML5, поддерживает мультиязычность, создание пользовательских коллекций книг, редактирование метаданных книги, конвертацию книг через Calibre, чтение книг в браузере, загрузку новых книг различных форматов, включая аудиоформаты, синхронизацию устройств Kobo с библиотекой Calibre, а также поддерживает LDAP, Google/GitHub OAuth и прокси-аутентификацию. Calibre-Web лицензирован под GPL v3 License. https://github.com/janeczku/calibre-web
 - LibrePhotos - это приложение для хранения и управления фотографиями с открытым исходным кодом. Оно предоставляет возможность загружать, хранить и организовывать фотографии, а также делиться ими с другими пользователями. https://github.com/LibrePhotos/librephotos
 
+## python/django
+
+- Self-Hosted Bookmark And Archive Manager https://github.com/kanishka-linux/reminiscence
+
 ## python/vue
 
 - NearBeach is an open sourced project management tool, helping you keep track of your project. You can track requirements, projects and tasks https://github.com/robotichead/NearBeach
