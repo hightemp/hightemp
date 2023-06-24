@@ -167,6 +167,7 @@
 - Built with Holochain, Acorn is an open-source, peer-to-peer project management application. It is designed and built as a scrum-alternative, Agile Development Pattern for distributed software development teams. Acorn is currently in Alpha testing phase. https://github.com/lightningrodlabs/acorn
 - RSSHub is an open source, easy to use, and extensible RSS feed generator. https://github.com/DIYgod/RSSHub
 - A simple personal library management application. https://github.com/bdTechies/book-manager
+- A basic node.js file manager https://github.com/serverwentdown/file-manager
 
 ## python/javascript
 
