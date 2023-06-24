@@ -176,6 +176,7 @@
 
 - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy. Available for Windows, Mac, Linux or online. https://github.com/manuelernestog/weektodo
 - A simple code snippet & gist manager for developers built with Electron & Vue.js https://github.com/lauthieb/code-notes
+- Sweet, simple epub reader https://github.com/Janglee123/eplee
 
 ## electron
 
