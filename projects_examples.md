@@ -245,6 +245,7 @@
 - WeKan ® - Open Source kanban https://github.com/wekan/wekan
 - A voice assistant which can be used to interact with your computer and controls your pc operations https://github.com/BolisettySujith/J.A.R.V.I.S
 - Tlogg - это инструмент командной строки для просмотра журналов событий в реальном времени. Он позволяет просматривать несколько файлов журналов одновременно и фильтровать события по текстовому запросу. Кроме того, Tlogg предоставляет возможность настройки цветовой схемы вывода журнала, а также сохранения фильтров и настроек в конфигурационных файлах. Это приложение может быть полезно для разработчиков и системных администраторов, которые хотят мониторить журналы приложений и быстро находить нужную информацию в режиме реального времени. https://github.com/ceccopierangiolieugenio/tlogg
+- The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification https://github.com/dgtlmoon/changedetection.io
 
 ## java
 
