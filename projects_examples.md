@@ -266,7 +266,7 @@
 ## ruby/ruby on rails
 
 - The future Redmine you can get today — yet another distribution of a flexible project management software named Redmine https://github.com/redmica/redmica
-- Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. https://github.com/chatwoot/chatwoot
+- Chatwoot - это открытое программное обеспечение для управления взаимодействием с клиентами, предоставляющее альтернативу таким платным сервисам, как Intercom, Zendesk, Salesforce Service Cloud и т.д. Chatwoot позволяет просматривать и управлять данными клиентов, общаться с ними независимо от того, какой канал они используют, и перезахватывать их на основе их профиля. Chatwoot поддерживает несколько каналов общения, таких как веб-сайт, Facebook, Instagram, Twitter, Telegram, WhatsApp, Line, SMS, API-канал и электронная почта. Он также имеет функции управления контактами и атрибутами, общих многоканальных ящиков входящей почты, заметок, готовых ответов, меток, автоматического назначения, сохранения цепочек переписки, поддержки нескольких языков и др. Chatwoot можно развернуть на сервере или в облаке, таком как Heroku или DigitalOcean. Он полезен для тех, кто хочет управлять связью с клиентами на своих условиях, не платя за платные сервисы. https://github.com/chatwoot/chatwoot
 
 ## ruby
 
