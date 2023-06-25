@@ -262,6 +262,7 @@
 ## ruby/ruby on rails
 
 - The future Redmine you can get today — yet another distribution of a flexible project management software named Redmine https://github.com/redmica/redmica
+- Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. https://github.com/chatwoot/chatwoot
 
 ## ruby
 
