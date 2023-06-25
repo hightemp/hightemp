@@ -73,6 +73,10 @@
 - Bookee is a simple app to store your bookmarks. It's written in React with Tauri. https://github.com/Alphinux/Bookee
 - Cross-platform local file search engine. https://github.com/naaive/orange
 
+## rust/javscript/svelte
+
+- Ballerine - это инфраструктура принятия решений на основе рисков для автоматизации процесса принятия решений при открытии счетов клиентов и бизнеса (KYC, KYB), а также для мониторинга транзакций. Она использует гибкий движок правил и рабочего процесса, плагинную систему сторонних разработчиков, интерфейс для ручного просмотра и сбора документов и информации. Ballerine позволяет создавать процессы принятия решений, которые отвечают уникальным требованиям компании и могут быть легко изменены. Она гибкая, легко реализуемая, защищенная и имеет поддержку от сильного сообщества. Ballerine полезна для управления идентификацией пользователей и рисков в соответствии с уникальными требованиями компании. https://github.com/ballerine-io/ballerine
+
 ## rust
 
 - A hackable, minimal, fast TUI file explorer https://github.com/sayanarijit/xplr
