@@ -212,6 +212,10 @@
 - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy. Available for Windows, Mac, Linux or online. https://github.com/manuelernestog/weektodo
 - A simple code snippet & gist manager for developers built with Electron & Vue.js https://github.com/lauthieb/code-notes
 - Sweet, simple epub reader https://github.com/Janglee123/eplee
+ 
+## electron/react
+
+- TagSpaces - это бесплатное, без привязки к поставщику, приложение с открытым исходным кодом для организации, аннотирования и управления локальными файлами с помощью тегов. Оно имеет расширенные функции для создания заметок и возможности приложений для списка задач. Приложение доступно для Windows, Linux, Mac OS и Android. TagSpaces также предоставляет расширение для браузеров Firefox, Edge и Chrome, чтобы легко собирать онлайн-контент в виде локальных файлов. Оно поддерживает управление файлами и папками, тегирование файлов, поиск, просмотр мультимедиа, создание заметок и управление задачами. TagSpaces не требует подключения к Интернету и регистрации в онлайн-сервисах. TagSpaces также может быть легко расширен с помощью расширений, чтобы поддерживать открытие и редактирование разных типов файлов в приложении.  https://github.com/tagspaces/tagspaces
 
 ## electron
 
