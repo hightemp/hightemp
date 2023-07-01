@@ -365,6 +365,10 @@
 - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows automating (without admin access) daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. https://github.com/dgroup/lazylead
 - Foreman (Foreman) - это бесплатный проект с открытым исходным кодом, который предоставляет возможность легко автоматизировать повторяющиеся задачи, быстро развертывать приложения и активно управлять жизненным циклом ваших серверов, находящихся как внутри предприятия, так и в облаке. От провиженирования и настройки до оркестрации и мониторинга, Foreman интегрируется с вашей существующей инфраструктурой, делая операции более простыми. https://github.com/theforeman/foreman
 
+## perl/javascript
+
+- This is a wiki engine using the Text::Amuse markup (based on and mostly compatible with Emacs Muse) and a Git backend. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. On a single instance you can run as many sites as you want. https://github.com/melmothx/amusewiki
+
 ## c/javascript
 
 - Cockpit (Cockpit) - это интерактивный интерфейс администратора сервера, доступный через веб-браузер. Он прост в использовании и очень легковесен. Cockpit напрямую взаимодействует с операционной системой из реальной сессии Linux в браузере. https://github.com/cockpit-project/cockpit
