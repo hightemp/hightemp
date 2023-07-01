@@ -140,6 +140,10 @@
 - pear легкая онлайн-система для совместной работы над проектами / задачами, совместная работа в удаленном офисе https://github.com/a54552239/pearProject
 - Project management and issue tracking system written in PHP. https://github.com/nirix/traq
 
+## php/react/graphql
+
+- API Platform - это современный веб-фреймворк, разработанный для создания проектов, сосредоточенных на API, с сохранением гибкости и расширяемости: вы можете разработать свою собственную модель данных на основе простых PHP-классов или импортировать существующую онтологию. За несколько минут вы сможете создать гипермедиа REST или GraphQL API с пагинацией, проверкой данных, контролем доступа, вложенными связями, фильтрами и обработкой ошибок. API Platform поддерживает различные форматы контента: GraphQL, JSON-LD, Hydra, HAL, JSON:API, YAML, JSON, XML и CSV. Кроме того, он предоставляет красиво сгенерированную документацию API (OpenAPI). Вы также можете добавить удобный административный интерфейс Material Design, построенный с использованием React, без написания дополнительного кода. https://github.com/api-platform/api-platform
+
 ## php 
 
 - Leantime is a strategic project management system for non-project managers https://github.com/leantime/leantime
