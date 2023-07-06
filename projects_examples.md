@@ -136,6 +136,7 @@
 - OfficeLife is the first EmpOps platform. It manages everything employees do in a company. https://github.com/officelifehq/officelife
 - Self-hosted platform to keep and share your content: web links, posts, passwords and pictures. https://github.com/MarceauKa/shaark
 - Manage all your ebooks and send them to your reader https://github.com/Patrick-Vogt/bookery
+- Laravel Compass - это элегантный помощник для работы с REST API в рамках фреймворка Laravel. Он позволяет тестировать вызовы API и создавать документацию к API. Компонент автоматически создает конечные точки для запросов GET, POST, PUT/PATCH, DELETE, а также предоставляет различные механизмы аутентификации и другие утилитарные конечные точки на основе маршрутов Laravel в вашем проекте. Кроме того, Laravel Compass предоставляет возможность создания документации к API, что упрощает работу с API для других разработчиков или пользователей системы. https://github.com/davidhsianturi/laravel-compass 
 
 ## php/laravel
 
