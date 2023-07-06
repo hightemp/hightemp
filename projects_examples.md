@@ -481,6 +481,7 @@
 
 ## AI
 
+- LibreChat - это платформа для чат-ботов, объединяющая будущее ассистентов и революционную технологию ChatGPT от OpenAI. LibreChat предоставляет возможность интегрировать несколько моделей искусственного интеллекта. Он также интегрирует и улучшает оригинальные функции клиента, такие как поиск сообщений и разговоров, шаблоны и плагины для ввода. С LibreChat вам больше не нужно использовать ChatGPT Plus, вы можете использовать бесплатные или платные API по вызову. Мы приветствуем вклады, клонирование и разветвление для расширения возможностей этой продвинутой платформы чат-ботов. https://github.com/danny-avila/LibreChat
 - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS).  https://github.com/Yidadaa/ChatGPT-Next-Web
 - Data-Centric FinGPT. Open-source for open finance! Revolutionize fire We'll soon release the trained model. https://github.com/AI4Finance-Foundation/FinGPT
 - Specify what you want it to build, the AI asks for clarification, and then builds it. https://github.com/AntonOsika/gpt-engineer
