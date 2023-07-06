@@ -142,6 +142,7 @@
 - Self-hosted platform to keep and share your content: web links, posts, passwords and pictures. https://github.com/MarceauKa/shaark
 - Manage all your ebooks and send them to your reader https://github.com/Patrick-Vogt/bookery
 - Laravel Compass - это элегантный помощник для работы с REST API в рамках фреймворка Laravel. Он позволяет тестировать вызовы API и создавать документацию к API. Компонент автоматически создает конечные точки для запросов GET, POST, PUT/PATCH, DELETE, а также предоставляет различные механизмы аутентификации и другие утилитарные конечные точки на основе маршрутов Laravel в вашем проекте. Кроме того, Laravel Compass предоставляет возможность создания документации к API, что упрощает работу с API для других разработчиков или пользователей системы. https://github.com/davidhsianturi/laravel-compass 
+- Bagisto (Багисто) - это специализированный фреймворк для электронной коммерции, разработанный на основе популярных открытых технологий, таких как Laravel (фреймворк на PHP) и Vue.js (прогрессивный фреймворк на JavaScript). Bagisto помогает сократить время, затраты и трудозатраты при создании онлайн-магазинов или переходе с физических магазинов в мир онлайн-торговли, который постоянно растет востребованностью. Багисто подходит для бизнеса любого масштаба - от малого до крупного. Особенностью является простота установки и настройки. https://github.com/bagisto/bagisto
 
 ## php/laravel
 
