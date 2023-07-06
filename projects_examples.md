@@ -117,6 +117,7 @@
 ## rust
 
 - A hackable, minimal, fast TUI file explorer https://github.com/sayanarijit/xplr
+- SWC (Speedy Web Compiler) - это быстрый компилятор TypeScript/JavaScript, написанный на языке Rust. Он представляет собой библиотеку, доступную как для Rust, так и для JavaScript. SWC разработан для ускорения процесса разработки веб-приложений. https://github.com/swc-project/swc
 
 ## yii/php
 
