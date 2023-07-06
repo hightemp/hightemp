@@ -125,6 +125,7 @@
 
 - A hackable, minimal, fast TUI file explorer https://github.com/sayanarijit/xplr
 - SWC (Speedy Web Compiler) - это быстрый компилятор TypeScript/JavaScript, написанный на языке Rust. Он представляет собой библиотеку, доступную как для Rust, так и для JavaScript. SWC разработан для ускорения процесса разработки веб-приложений. https://github.com/swc-project/swc
+- Cherrybomb - это инструмент командной строки, написанный на языке Rust, который помогает предотвратить неправильную реализацию кода на ранней стадии разработки. Он работает путем проверки и тестирования вашего API с использованием файла OpenAPI. Его основная цель - уменьшить ошибки безопасности и обеспечить правильную работу вашего API. https://github.com/blst-security/cherrybomb
 
 ## yii/php
 
