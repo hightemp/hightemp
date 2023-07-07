@@ -158,6 +158,7 @@
   6. Предопределенный controllerMap в конфигурации консоли - добавляет команды миграции.
   7. Помощник для конвенциональных коммитов - упрощает создание коммитов согласно заданному формату.
   Проект также использует следующие пакеты: Symfony VarDumper Component, User management, Powerful RBAC manager, The idea of the api key came from here (and the code as well), The dotenv we're using, A tool for conventional commits. https://github.com/hunwalk/yii2-basic-firestarter
+- Shopbay.org - это открытая платформа электронной коммерции с открытым исходным кодом, разработанная для B2B и решений SaaS. Она построена с использованием фреймворка Yii и популярного стека LAMP https://github.com/shopbay/shopbay.org
 
 ## php/vue/laravel
 
