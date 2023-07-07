@@ -134,6 +134,7 @@
 - economizzer https://github.com/gugoan/economizzer
 - humhub https://github.com/humhub/humhub
 - opensourcewebsite-org https://github.com/opensourcewebsite-org/opensourcewebsite-org/tree/master
+- Craft CMS (Крафт CMS) - гибкая и удобная система управления контентом для создания настраиваемых цифровых веб-проектов с интуитивной панелью управления, гибкой системой шаблонов, поддержкой GraphQL API, мощной платформой электронной коммерции, встроенным Plugin Store и активным сообществом. https://github.com/craftcms/cms
 
 ## php/vue/laravel
 
