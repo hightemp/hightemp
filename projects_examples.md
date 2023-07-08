@@ -13,6 +13,29 @@
 - https://github.com/zadam/trilium
 - https://github.com/Zettlr/Zettlr
 - https://github.com/nocodb/nocodb
+- https://github.com/logseq/logseq
+- https://github.com/toeverything/AFFiNE
+- https://github.com/xintrea/mytetra_dev
+- https://github.com/bram2w/baserow
+- https://github.com/churichard/notabase
+- https://github.com/AppFlowy-IO/AppFlowy
+- https://github.com/siyuan-note/siyuan
+- https://github.com/tagspaces/tagspaces
+- https://github.com/taniarascia/takenote
+- https://github.com/laurent22/joplin
+- https://github.com/batnoter/batnoter
+- https://github.com/athensresearch/athens
+- https://nota.md/
+- https://tana.inc/
+- https://www.craft.do/
+- https://supernotes.app/
+- https://heptabase.com/
+- https://get.mem.ai/
+- https://beamapp.co/
+- https://saga.so/
+- https://cloverapp.com/
+- https://reflect.app/
+- https://www.notion.so/
 
 ## go/react
 
