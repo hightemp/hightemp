@@ -13,10 +13,13 @@
 - https://github.com/zadam/trilium
 - https://github.com/Zettlr/Zettlr
 - https://github.com/nocodb/nocodb
+- https://github.com/Budibase/budibase
+- https://github.com/gristlabs/grist-core
+- https://github.com/bram2w/baserow
+- https://github.com/outline/outline
 - https://github.com/logseq/logseq
 - https://github.com/toeverything/AFFiNE
 - https://github.com/xintrea/mytetra_dev
-- https://github.com/bram2w/baserow
 - https://github.com/churichard/notabase
 - https://github.com/AppFlowy-IO/AppFlowy
 - https://github.com/siyuan-note/siyuan
