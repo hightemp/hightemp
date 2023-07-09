@@ -11,6 +11,7 @@
 
 <details>
     <summary>Список</summary>
+    
 - https://github.com/zotero/zotero
 - https://github.com/zadam/trilium
 - https://github.com/Zettlr/Zettlr
@@ -43,6 +44,7 @@
 - https://reflect.app/
 - https://www.notion.so/
 - https://hackmd.io/
+- 
 </details>
 
 ## go/react
