@@ -13,6 +13,7 @@
 - https://github.com/zadam/trilium
 - https://github.com/Zettlr/Zettlr
 - https://github.com/nocodb/nocodb
+- https://github.com/apitable/apitable
 - https://github.com/Budibase/budibase
 - https://github.com/gristlabs/grist-core
 - https://github.com/bram2w/baserow
