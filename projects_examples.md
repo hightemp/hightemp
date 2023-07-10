@@ -575,6 +575,10 @@
 
 - This is a wiki engine using the Text::Amuse markup (based on and mostly compatible with Emacs Muse) and a Git backend. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. On a single instance you can run as many sites as you want. https://github.com/melmothx/amusewiki
 
+## c/javascript/vue
+
+- "Sigma File Manager" - это бесплатное и открытое программное обеспечение для управления файлами (проводник / поиск) для операционных систем Windows и Linux. Он разрабатывается и поддерживается Алексеем Хоффманом. Основная цель проекта - создать один из лучших файловых менеджеров и продуктивных приложений, которое значительно ускорит ваш рабочий процесс, предоставит вам расширенные инструменты и обеспечит безопасность ваших данных. https://github.com/aleksey-hoffman/sigma-file-manager
+
 ## c/javascript
 
 - Cockpit (Cockpit) - это интерактивный интерфейс администратора сервера, доступный через веб-браузер. Он прост в использовании и очень легковесен. Cockpit напрямую взаимодействует с операционной системой из реальной сессии Linux в браузере. https://github.com/cockpit-project/cockpit
