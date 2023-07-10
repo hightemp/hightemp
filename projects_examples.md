@@ -32,6 +32,7 @@
 - https://github.com/laurent22/joplin
 - https://github.com/batnoter/batnoter
 - https://github.com/athensresearch/athens
+- https://www.remnote.com
 - https://nota.md/
 - https://tana.inc/
 - https://www.craft.do/
