@@ -33,6 +33,7 @@
 - https://github.com/batnoter/batnoter
 - https://github.com/athensresearch/athens
 - https://github.com/danobot/notorious
+- http://www.wjjsoft.com/mybase.html
 - https://www.remnote.com
 - https://nota.md/
 - https://tana.inc/
