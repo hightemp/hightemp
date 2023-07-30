@@ -591,6 +591,7 @@
 
 ## python 
 
+- Awesome Frappe - это кураторский список потрясающих вещей, связанных с фреймворком Frappe, включающий приложения, плагины, интеграции, темы, инструменты для разработчиков и другие ресурсы, которые могут быть полезны при создании баз данных и веб-приложений с использованием Frappe. https://github.com/gavindsouza/awesome-frappe
 - Free and Open Source Enterprise Resource Planning (ERP) https://github.com/frappe/erpnext
 - Open Source JIRA, Linear and Height Alternative https://github.com/makeplane/plane
 - WeKan ® - Open Source kanban https://github.com/wekan/wekan
