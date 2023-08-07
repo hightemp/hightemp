@@ -157,6 +157,7 @@
 - A Lodash-style Go library based on Go 1.18+ Generics https://github.com/samber/lo
 - DiscussionGo! - это простое форумное программное обеспечение, разработанное Маркусом Золлем с учетом простоты в развертывании и архитектуре, предназначенное для личного использования, с фокусом на конкретных потребностях разработчика, и предоставляющее конфигурируемые параметры через файлы JSON, а также поддержку баз данных SQLite и MySQL. https://github.com/Top-Ranger/discussiongo
 - Linkwallet - это самостоятельная база данных закладок с возможностью полнотекстового поиска по содержимому страниц. Он обеспечивает быстрый поиск по заголовкам и содержимому страниц, автоматическое обновление контента и возможность управления закладками с тегами, а также импорт и экспорт в массовом режиме. https://github.com/tardisx/linkwallet
+- z-scratchpad -- notes / wiki lightweight Go-based tool https://github.com/volution/z-scratchpad
 
 ## rust/javascript/tauri
 
