@@ -136,6 +136,11 @@
 - [cappSSHForwarderServiceCreator](https://github.com/hightemp/cappSSHForwarderServiceCreator) - Эксперимент форвардинг ssh
 - [cappBitrixCLI](https://github.com/hightemp/cappBitrixCLI) - Эксперимент по созданию cli для Битрикс 1С
 
+<details>
+  <summary> 
+## Полезные ссылки... 
+  </summary>
+
 #### Библиотеки
 
 - https://github.com/hightemp/MS17-010-EternalBlue-WinXP-Win10
@@ -172,8 +177,6 @@
 - https://github.com/hightemp/imagesloaded
 - https://github.com/hightemp/magento2
 - https://github.com/hightemp/htmlbeautifier
-
-## Полезные ссылки...
 
 #### Чужие полезные репо
 
@@ -218,6 +221,8 @@
 #### Остальное
 
 - Инженерный справочник https://dpva.ru
+
+</details>
 
 ## Telegram
 
