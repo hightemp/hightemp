@@ -97,7 +97,6 @@
 - [wapp-yaml-scheme-generator](https://github.com/hightemp/wapp-yaml-scheme-generator) - Генератор workflow-диаграмм из yaml (gojs, visjs)
 - [wappDBBrowser](https://github.com/hightemp/wappDBBrowser) - Попытка сделать менеджер БД
 - [capp_log_parser](https://github.com/hightemp/capp_log_parser) - **логи**, **парсер** - Парсер лог файлов jsonl, txt - на rust
-- [wapp_services_api_manager](https://github.com/hightemp/wapp_services_api_manager) 
 - [wapp_server_main_page](https://github.com/hightemp/wapp_server_main_page) - **заметки** - Главная страница(заметки о текущем сервере) в markdown
 
 #### Старые проекты
