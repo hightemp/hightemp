@@ -8,4 +8,5 @@
 ## Мок-сервера
 
 - https://github.com/mock-server/mockserver
-  - https://www.mock-server.com/  
+  - https://www.mock-server.com/
+- https://github.com/mocks-server/main
