@@ -20,8 +20,14 @@
 ### Логирующие прокси и mitm
 
 - https://github.com/fkantelberg/log-proxy
-- 
+- https://gist.github.com/owulveryck/d8d4e37cb4a905b70b080d441acf9b9a
+- https://github.com/mitmproxy/mitmproxy
 
 ## Hacking
 
 - https://github.com/Z4nzu/hackingtool
+
+## Анализ трафика
+
+- https://github.com/zeek/zeek
+- https://github.com/jpr5/ngrep
