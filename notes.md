@@ -16,3 +16,7 @@
 ### Менеджеры запросов (API)
 
 - https://github.com/hoppscotch/hoppscotch
+
+## Hacking
+
+- https://github.com/Z4nzu/hackingtool
