@@ -17,6 +17,11 @@
 
 - https://github.com/hoppscotch/hoppscotch
 
+### Логирующие прокси и mitm
+
+- https://github.com/fkantelberg/log-proxy
+- 
+
 ## Hacking
 
 - https://github.com/Z4nzu/hackingtool
