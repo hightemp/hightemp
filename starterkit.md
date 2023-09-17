@@ -45,7 +45,7 @@
 ### Установка lazyvim
 
 ```
-sudo snpa install nvim
+sudo snap install nvim
 ```
 
 ```
