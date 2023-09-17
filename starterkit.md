@@ -42,6 +42,28 @@
 
 - https://github.com/hightemp/col_bin_scripts
 
+### Установка lazyvim
+
+```
+sudo snpa install nvim
+```
+
+```
+# required
+mv ~/.config/nvim{,.bak}
+
+# optional but recommended
+mv ~/.local/share/nvim{,.bak}
+mv ~/.local/state/nvim{,.bak}
+mv ~/.cache/nvim{,.bak}
+
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+
+rm -rf ~/.config/nvim/.git
+
+nvim
+```
+
 ### Установка важных пакетов (для установки и сборки софта)
 
 - Менеджеры: python3-pip
