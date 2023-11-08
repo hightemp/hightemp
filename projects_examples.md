@@ -887,6 +887,7 @@
 - https://github.com/deepseek-ai/DeepSeek-Coder
 - https://github.com/jmorganca/ollama
 - https://github.com/imoneoi/openchat
+- https://github.com/langchain-ai/opengpts
 
 ## Остальное (и другое интересное)
 
