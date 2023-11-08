@@ -886,6 +886,7 @@
 - Проект AutoGen - это фреймворк, который позволяет разрабатывать приложения на основе языковых моделей с помощью мультиагентных разговоров, обеспечивая настраиваемость и автономность разговоров между агентами для решения задач различной сложности. https://github.com/microsoft/autogen
 - https://github.com/deepseek-ai/DeepSeek-Coder
 - https://github.com/jmorganca/ollama
+- https://github.com/imoneoi/openchat
 
 ## Остальное (и другое интересное)
 
