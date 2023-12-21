@@ -8,8 +8,8 @@
   а проект /etc/net нацелен на поддержку современных сетевых технологий, 
   избегая использования устаревших утилит и предоставляя полный функционал iproute2, включая контроль трафика.
 - **пакеты**
-  - **debian** sudo apt install iproute2
-  - **fedora** sudo dnf install iproute
+  - **debian:** sudo apt install iproute2
+  - **fedora:** sudo dnf install iproute
 - **что включает**
 
   ```
