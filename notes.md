@@ -7,6 +7,14 @@
 
 ## Тестирование
 
+### Проверка ip с помощью API
+
+- `curl 'https://api.ipify.org?format=json'`
+- `curl ipinfo.io/43.241.71.120/privacy?token=$TOKEN`
+- `curl http://ip-api.com/json/?fields=61439`
+- `curl http://ip-api.com/json/24.48.0.1`
+- `curl https://ipapi.co/8.8.8.8/json/`
+
 ### Проверка ботов(браузера)
 
 - bot.sannysoft.com - показывает общие параметры вашего клиента и проводит некоторые тесты;
