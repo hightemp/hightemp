@@ -7,6 +7,10 @@
 
 ## Тестирование
 
+### Поисковые системы
+
+- https://searx.thegpm.org/
+
 ### Проверка ip с помощью API
 
 - `curl 'https://api.ipify.org?format=json'`
