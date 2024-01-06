@@ -7,6 +7,10 @@
 
 ## Тестирование
 
+### Прокси
+
+- https://multiproxy.org/all_proxy.htm
+
 ### Поисковые системы
 
 - https://searx.thegpm.org/
