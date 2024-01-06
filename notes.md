@@ -14,6 +14,11 @@
 ### Поисковые системы
 
 - https://searx.thegpm.org/
+- https://search.brave.com/
+- https://duckduckgo.com/
+- https://www.startpage.com
+- https://www.ecosia.org/
+- https://metager.org/
 
 ### Проверка ip с помощью API
 
