@@ -83,3 +83,22 @@ fmt.Println(a) // [A B D E]
 var sessions = map[string] chan int{};
 delete(sessions, "moo");
 ```
+
+### Способ 2
+
+```go
+items := map[string]int{"apple": 5, "банан": 3, "апельсин": 4}
+var keysToDelete []string
+
+for key, value := range items {
+    if value < 4 {
+        keysToDelete = append(keysToDelete, key) // Собираем ключи для удаления
+    }
+}
+
+for _, key := range keysToDelete {
+    delete(items, key) // Безопасное удаление после итерации
+}
+
+fmt.Println(items) // Это безопасно изменит карту
+```
