@@ -34,3 +34,4 @@
 Разве EDM не забавны? (Нет. Это не так.)
 
 - https://www.emailonacid.com/blog/article/email-development/spacing-techniques-in-html-email/
+- https://maool.com/html-email-tips-and-tricks/outlook/
