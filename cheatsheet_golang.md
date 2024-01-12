@@ -1,3 +1,121 @@
+## Работа с каналами
+
+- https://go101.org/article/channel.html#:~:text=A%20non-nil%20channel%20value,its%20default%20value%20is%20zero.
+
+1. **Простой канал для передачи данных:**
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+    // Создаем канал
+    ch := make(chan int)
+
+    // Запускаем горутину для отправки данных в канал
+    go func() {
+        ch <- 42 // Помещаем значение 42 в канал
+    }()
+
+    // Читаем данные из канала
+    value := <-ch
+    fmt.Println(value) // Выводим значение 42
+}
+```
+
+2. **Буферизированный канал:**
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+    // Создаем буферизированный канал с размером 2
+    ch := make(chan string, 2)
+
+    // Запускаем горутину для отправки данных в канал
+    go func() {
+        ch <- "Hello"
+        ch <- "World"
+    }()
+
+    // Читаем данные из канала
+    fmt.Println(<-ch)
+    fmt.Println(<-ch)
+}
+```
+
+3. **Использование канала для синхронизации горутин:**
+
+```go
+package main
+
+import (
+    "fmt"
+    "sync"
+)
+
+func main() {
+    var wg sync.WaitGroup
+    ch := make(chan int)
+
+    // Горутина отправляет данные в канал
+    wg.Add(1)
+    go func() {
+        defer wg.Done()
+        ch <- 42
+    }()
+
+    // Горутина читает данные из канала
+    wg.Add(1)
+    go func() {
+        defer wg.Done()
+        value := <-ch
+        fmt.Println(value)
+    }()
+
+    wg.Wait()
+}
+```
+
+4. **Использование `select` для работы с несколькими каналами:**
+
+```go
+package main
+
+import (
+    "fmt"
+    "time"
+)
+
+func main() {
+    ch1 := make(chan string)
+    ch2 := make(chan string)
+
+    // Горутина отправляет данные в первый канал
+    go func() {
+        time.Sleep(time.Second)
+        ch1 <- "Hello"
+    }()
+
+    // Горутина отправляет данные во второй канал
+    go func() {
+        time.Sleep(2 * time.Second)
+        ch2 <- "World"
+    }()
+
+    // Используем select для чтения из нескольких каналов
+    select {
+    case msg1 := <-ch1:
+        fmt.Println(msg1)
+    case msg2 := <-ch2:
+        fmt.Println(msg2)
+    }
+}
+```
+
 ## Выделение памяти, создание объекта
 
 Go имеет несколько способов выделения памяти и инициализации значений:
