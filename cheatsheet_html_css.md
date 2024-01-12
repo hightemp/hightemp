@@ -35,3 +35,4 @@
 
 - https://www.emailonacid.com/blog/article/email-development/spacing-techniques-in-html-email/
 - https://maool.com/html-email-tips-and-tricks/outlook/
+- https://sendpulse.com/ru/blog/html-coding-for-email
