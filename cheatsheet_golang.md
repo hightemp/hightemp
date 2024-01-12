@@ -1,6 +1,7 @@
 ## Работа с каналами
 
-- https://go101.org/article/channel.html#:~:text=A%20non-nil%20channel%20value,its%20default%20value%20is%20zero.
+- https://go101.org/article/channel.html
+- https://go101.org/article/channel-use-cases.html
 
 1. **Простой канал для передачи данных:**
 
