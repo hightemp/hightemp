@@ -36,3 +36,17 @@
 - https://www.emailonacid.com/blog/article/email-development/spacing-techniques-in-html-email/
 - https://maool.com/html-email-tips-and-tricks/outlook/
 - https://sendpulse.com/ru/blog/html-coding-for-email
+
+## Base64 Encode of 1x1px Transparent GIF
+
+На всякий случай, если он вам понадобится. Вы можете растянуть его, чтобы заполнить пространство по мере необходимости.
+
+```html
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+```
+
+Или черного:
+
+```html
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=">
+```
