@@ -11,6 +11,7 @@
 
 - https://testi.at/ - проверка рендринга шаблона в разных движках
 - https://www.emailonacid.com/email-testing/
+- https://proofjump.com/dark-mode-simulator/
 
 ### Прокси
 
