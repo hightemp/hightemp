@@ -1,3 +1,33 @@
+## Удаление эдмента из массива/слайса
+
+### Способ 1
+
+```go
+func remove(slice []string, s int) []string {
+	return append(slice[:s], slice[s+1:]...)
+}
+```
+
+### Способ 2
+
+```go
+func removeItemFromArray(slice interface{}, index int) interface{} {
+	sliceValue := reflect.ValueOf(slice)
+
+	if sliceValue.Kind() != reflect.Slice {
+		panic("Input is not a slice")
+	}
+
+	length := sliceValue.Len()
+
+	if index < 0 || index >= length {
+		panic("Index out of range")
+	}
+
+	return reflect.AppendSlice(sliceValue.Slice(0, index), sliceValue.Slice(index+1, length)).Interface()
+}
+```
+
 ## Работа с каналами
 
 - https://go101.org/article/channel.html
