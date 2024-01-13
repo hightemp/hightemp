@@ -45,7 +45,11 @@
 - [otus-nn-python](https://github.com/hightemp/otus-nn-python)
 - [geeklinux-2019-02-01](https://github.com/hightemp/geeklinux-2019-02-01)
 
-#### Текущие проекты
+#### Текущие
+
+- [wapp_start_page_links](https://github.com/hightemp/wapp_start_page_links) - self-hosted стартовая страница с ссылками на сайты с возможностью менеджмента
+
+#### Старые
 
 - [ser_openconnect_proxy](https://github.com/hightemp/ser_openconnect_proxy) - Контейнер с прокси перенаправляющий трафик в VPN.
 - 📗[capp_telegram_news_bot_golang](https://github.com/hightemp/capp_telegram_news_bot_golang) - Простой телеграм бот читающий новости из rss ленты и постящий в telegram.
