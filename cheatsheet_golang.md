@@ -1,4 +1,4 @@
-## Удаление эдмента из массива/слайса
+## Удаление эделента из масива/слайса
 
 ### Способ 1
 
@@ -25,6 +25,27 @@ func removeItemFromArray(slice interface{}, index int) interface{} {
 	}
 
 	return reflect.AppendSlice(sliceValue.Slice(0, index), sliceValue.Slice(index+1, length)).Interface()
+}
+```
+
+## Создать директорию, если не нашлась
+
+```go
+func createDirectoryIfNotExists(dirPath string) error {
+	_, err := os.Stat(dirPath)
+
+	if os.IsNotExist(err) {
+		err := os.Mkdir(dirPath, os.ModePerm)
+		if err != nil {
+			return err
+		}
+	} else if err != nil {
+		return err
+	} else {
+		//
+	}
+
+	return nil
 }
 ```
 
