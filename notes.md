@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Golang headless browser
+
+- https://github.com/chromedp/chromedp
+
 ### Golang UI
 
 - https://gioui.org/ Gio - библиотека для написания кроссплатформенных GUI-приложений с использованием языка Go, поддерживающая все основные платформы: Linux, macOS, Windows, Android, iOS, FreeBSD, OpenBSD и WebAssembly.
