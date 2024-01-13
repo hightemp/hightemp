@@ -5,6 +5,10 @@
 
 - https://github.com/chromedp/chromedp
 
+### Golang санитайзер html
+
+- https://github.com/microcosm-cc/bluemonday
+
 ### Golang UI
 
 - https://gioui.org/ Gio - библиотека для написания кроссплатформенных GUI-приложений с использованием языка Go, поддерживающая все основные платформы: Linux, macOS, Windows, Android, iOS, FreeBSD, OpenBSD и WebAssembly.
