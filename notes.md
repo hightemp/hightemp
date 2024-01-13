@@ -19,6 +19,7 @@
 ### Golang proxy
 
 - https://github.com/elazarl/goproxy
+- Go and Proxy Servers: Part 1 - HTTP Proxies  https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/
 - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/#
 - Golang SSH Forward and Reverse Tunnel https://gist.github.com/hightemp/8dd52b757b8de46bd156866cc975003d
 - A simple HTTP proxy by Golang  https://gist.github.com/hightemp/59bc214a35bc681df104142baa8541dc
