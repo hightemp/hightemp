@@ -272,3 +272,110 @@ for _, key := range keysToDelete {
 
 fmt.Println(items) // Это безопасно изменит карту
 ```
+
+## Fiber - парсинг массива параметров
+
+### Form (application/x-www-form-urlencoded)
+
+После изучения go-fiberисходный код, который на данный момент имеет реализацию обработки данных пользовательской формы, которая, похоже, не поддерживает фрагмент пользовательского типа ([]Person{}).
+Для получения дополнительной информации вы можете проверить эти ссылки на go-fiberисходный код, который обрабатывает данные формы: 1 2 3
+
+Вместо этого мы можем использовать go-playground/formдля обработки данных формы
+
+Запрос на скручивание для нескольких параметров
+
+```
+curl -X POST -H "Content-Type: application/x-www-form-urlencoded" --data '[0].name=john&[0].pass=doe&[1].name=jack&[1].pass=jill' localhost:3000
+```
+
+Код:
+
+```go
+package main
+
+import (
+  "log"
+
+  "net/url"
+  "github.com/gofiber/fiber/v2"
+  "github.com/go-playground/form/v4"
+)
+
+type Person struct {
+  Name string `json:"name" xml:"name" form:"name"`
+  Pass string `json:"pass" xml:"pass" form:"pass"`
+}
+
+var decoder = form.NewDecoder()
+
+func main() {
+  app := fiber.New()
+
+  app.Post("/", func(c *fiber.Ctx) error {
+    persons := []Person{}
+
+    m, err := url.ParseQuery(string(c.Body()))
+    if err != nil {
+      return err
+    }
+    err = decoder.Decode(&persons, m)
+    if err != nil {
+      return err
+    }
+    log.Printf("%#v\n", persons)
+    // []main.Person{main.Person{Name:"john", Pass:"doe"}, main.Person{Name:"jack", Pass:"jill"}}
+    return c.SendString("Post Called")
+  })
+
+  app.Listen(":3000")
+}
+```
+
+Я поднял issueи PRв go-fiber githubрепозиторий, который был объединен, поэтому приведенный ниже запрос и код теперь будут работать.
+
+Запрос на скручивание для нескольких параметров
+
+```
+curl -X POST -H "Content-Type: application/x-www-form-urlencoded" --data 'persons[0].name=one&persons[0].pass=1&persons[1].name=two&persons[1].pass=2' localhost:3000
+```
+
+Код:
+
+```go
+package main
+
+import (
+    "log"
+
+    "github.com/gofiber/fiber/v2"
+)
+
+// recommendation -> name of the api and parameters
+type ApiParameters struct {
+    Persons []Person `query:"persons" json:"persons" xml:"persons" form:"persons"`
+}
+
+type Person struct {
+    Name string `query:"name" json:"name" xml:"name" form:"name"`
+    Pass string `query:"pass" json:"pass" xml:"pass" form:"pass"`
+}
+
+func main() {
+    app := fiber.New()
+
+    app.Post("/", func(c *fiber.Ctx) error {
+        parameters := ApiParameters{}
+
+        if err := c.BodyParser(&parameters); err != nil {
+            return err
+        }
+
+        log.Printf("POST: %#v\n", parameters)
+
+        return c.SendString("Post Called")
+    })
+
+    log.Fatalln(app.Listen(":3000"))
+}
+```
+
