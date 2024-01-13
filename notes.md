@@ -14,6 +14,11 @@
 - https://github.com/wailsapp/wails Wails - создавайте настольные приложения с использованием Go и веб-технологий, объединяя код на Go и веб-интерфейс в единый бинарный файл для удобства разработки и использования.
 - https://github.com/aarzilli/nucular Nucular - библиотека для создания GUI на Go с поддержкой mostly-immediate-mode, представляющая порт ранней версии nuklear. Важно учитывать, что проект подвержен изменениям, несовместимым с предыдущими версиями, и запросы функций без соответствующей реализации не обслуживаются.
 
+## Golang proxy
+
+- Golang SSH Forward and Reverse Tunnel https://gist.github.com/hightemp/8dd52b757b8de46bd156866cc975003d
+- A simple HTTP proxy by Golang  https://gist.github.com/hightemp/59bc214a35bc681df104142baa8541dc
+
 ### Тестирование почты
 
 - https://testi.at/ - проверка рендринга шаблона в разных движках
