@@ -47,7 +47,7 @@
 
 #### Текущие
 
-- [wapp_start_page_links](https://github.com/hightemp/wapp_start_page_links) - self-hosted стартовая страница с ссылками на сайты с возможностью менеджмента
+- [wapp_start_page_links](https://github.com/hightemp/wapp_start_page_links) - **golang** self-hosted стартовая страница с ссылками на сайты с возможностью менеджмента
 
 #### Старые
 
