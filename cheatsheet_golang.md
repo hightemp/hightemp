@@ -1,3 +1,51 @@
+## Ошибки
+
+### Вариант 1 - String-based errors
+
+```go
+// simple string-based error
+err1 := errors.New("math: square root of negative number")
+
+// with formatting
+err2 := fmt.Errorf("math: square root of negative number %g", x)
+```
+
+### Вариант 2 - Custom errors with data
+
+```go
+type error interface {
+	Error() string
+}
+
+type SyntaxError struct {
+	Line int
+	Col  int
+}
+
+func (e *SyntaxError) Error() string {
+	return fmt.Sprintf("%d:%d: syntax error", e.Line, e.Col)
+}
+
+type InternalError struct {
+	Path string
+}
+
+func (e *InternalError) Error() string {
+	return fmt.Sprintf("parse %v: internal error", e.Path)
+}
+
+if err := Foo(); err != nil {
+	switch e := err.(type) {
+	case *SyntaxError:
+		// Do something interesting with e.Line and e.Col.
+	case *InternalError:
+		// Abort and file an issue.
+	default:
+		log.Println(e)
+	}
+}
+```
+
 ## Циклы, for loops
 
 - https://yourbasic.org/golang/for-loop/
