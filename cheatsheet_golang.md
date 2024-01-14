@@ -1,3 +1,41 @@
+## Игнорирование полей в JSON парсинге
+
+```go
+package main
+
+import (
+        "encoding/json"
+        "fmt"
+        "os"
+)
+
+type Dummy struct {
+        Name    string  `json:"name"`
+        Number  int64   `json:"number"`
+        Pointer *string `json:"-"` // we want to ignore JSON for this one
+}
+
+func main() {
+        data := []byte(`
+            {
+                "name": "Mr Dummy",
+                "number": 4,
+                "pointer": "yes"
+            }
+        `)
+
+        var dummy Dummy
+        err := json.Unmarshal(data, &dummy)
+        if err != nil {
+                fmt.Println("An error occured: %v", err)
+                os.Exit(1)
+        }
+
+	// we want to print the field names as well
+        fmt.Printf("%+v\n", dummy)
+}
+```
+
 ## Создание файла
 
 ### Вариант 1
