@@ -1,3 +1,17 @@
+## GUID
+
+- go get github.com/beevik/guid
+
+```go
+g := guid.New()
+fmt.Println("guid: %s  GUID: %s\n", g.String(), g.StringUpper())
+
+s0 := "67a23ff3-20be-4420-9274-d16f2833d595"
+s1 := "67a23ff3-20be-4420-9274"
+fmt.Println("s0 a guid?  ", guid.IsGuid(s0))
+fmt.Println("s0 a guid?  ", guid.IsGuid(s1))
+```
+
 ## Ошибки
 
 ### Вариант 1 - String-based errors
