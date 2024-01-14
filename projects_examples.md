@@ -2,56 +2,6 @@
 
 [![](https://asdertasd.site/counter/projects_examples?a=1)](https://asdertasd.site/counter/projects_examples)
 
-## Важное
-
-- Сайт Fediverse.party содержит список социальных сетей, блогов и других приложений, которые работают на протоколах распределенных систем социальных сетей, таких как ActivityPub, OStatus и Zot. Все приложения разделены на категории: социальные сети, блоги и публикации, обмен медиа, обмен ссылками, события и встречи, хостинг файлов, открытые данные, обзоры, игры, разработка программного обеспечения, расширения, форумы и доски объявлений. Вы можете отсортировать все приложения по категориям, протоколам и языкам программирования. Fediverse.party помогает пользователям найти и опробовать новые приложения, которые работают на протоколах распределенных систем социальных сетей, и открыть для себя новые возможности в области социальных сетей. https://fediverse.party/en/miscellaneous/
-- https://github.com/BasixKOR/awesome-activitypub
-
-## Для работы над базой знаний
-
-<details>
-    <summary>Список</summary>
-    
-- https://github.com/zotero/zotero
-- https://github.com/zadam/trilium
-- https://github.com/Zettlr/Zettlr
-- https://github.com/nocodb/nocodb
-- https://github.com/apitable/apitable
-- https://github.com/Budibase/budibase
-- https://github.com/gristlabs/grist-core
-- https://github.com/bram2w/baserow
-- https://github.com/outline/outline
-- https://github.com/logseq/logseq
-- https://github.com/toeverything/AFFiNE
-- https://github.com/xintrea/mytetra_dev
-- https://github.com/churichard/notabase
-- https://github.com/AppFlowy-IO/AppFlowy
-- https://github.com/siyuan-note/siyuan
-- https://github.com/tagspaces/tagspaces
-- https://github.com/taniarascia/takenote
-- https://github.com/laurent22/joplin
-- https://github.com/batnoter/batnoter
-- https://github.com/athensresearch/athens
-- https://github.com/danobot/notorious
-- http://www.wjjsoft.com/mybase.html
-- https://www.remnote.com
-- https://nota.md/
-- https://tana.inc/
-- https://www.craft.do/
-- https://supernotes.app/
-- https://heptabase.com/
-- https://get.mem.ai/
-- https://beamapp.co/
-- https://saga.so/
-- https://cloverapp.com/
-- https://reflect.app/
-- https://www.notion.so/
-- https://hackmd.io/
-- https://www.wiz.cn/
-- https://www.dronahq.com/
-- https://noloco.io/
-</details>
-
 ## go/react
 
 - Memos - это легкий, самостоятельный хаб для заметок, доступный для самостоятельного хостинга. Проект является открытым и бесплатным навсегда. Memos предоставляет возможность создания и организации заметок, поддерживает форматирование текста с использованием языка разметки Markdown и предоставляет гибкий и настраиваемый RESTful API для самообслуживания. https://github.com/usememos/memos
