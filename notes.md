@@ -99,3 +99,53 @@
 **Пагинация смещением** - это подход, при котором данные разбиваются на страницы с определенным количеством элементов на странице. При переключении на следующую страницу происходит смещение (offset) на определенное количество элементов (limit).
 
 **Курсорная пагинация** - это подход, при котором каждый элемент списка имеет уникальный идентификатор (курсор), по которому можно определить его местоположение в списке. При переключении на следующую страницу используется курсор последнего элемента на текущей странице для получения следующих элементов. Важно, чтобы курсор был уникальным полем в таблице и элементы выводились в последовательности (были отстортированы по полю-курсору). Курсорная пагинация производительнее чем смещением, так как используется только limit и уникальное поле.
+
+## Важное
+
+- Сайт Fediverse.party содержит список социальных сетей, блогов и других приложений, которые работают на протоколах распределенных систем социальных сетей, таких как ActivityPub, OStatus и Zot. Все приложения разделены на категории: социальные сети, блоги и публикации, обмен медиа, обмен ссылками, события и встречи, хостинг файлов, открытые данные, обзоры, игры, разработка программного обеспечения, расширения, форумы и доски объявлений. Вы можете отсортировать все приложения по категориям, протоколам и языкам программирования. Fediverse.party помогает пользователям найти и опробовать новые приложения, которые работают на протоколах распределенных систем социальных сетей, и открыть для себя новые возможности в области социальных сетей. https://fediverse.party/en/miscellaneous/
+- https://github.com/BasixKOR/awesome-activitypub
+
+## Для работы над базой знаний
+
+<details>
+    <summary>Список</summary>
+    
+- https://github.com/zotero/zotero
+- https://github.com/zadam/trilium
+- https://github.com/Zettlr/Zettlr
+- https://github.com/nocodb/nocodb
+- https://github.com/apitable/apitable
+- https://github.com/Budibase/budibase
+- https://github.com/gristlabs/grist-core
+- https://github.com/bram2w/baserow
+- https://github.com/outline/outline
+- https://github.com/logseq/logseq
+- https://github.com/toeverything/AFFiNE
+- https://github.com/xintrea/mytetra_dev
+- https://github.com/churichard/notabase
+- https://github.com/AppFlowy-IO/AppFlowy
+- https://github.com/siyuan-note/siyuan
+- https://github.com/tagspaces/tagspaces
+- https://github.com/taniarascia/takenote
+- https://github.com/laurent22/joplin
+- https://github.com/batnoter/batnoter
+- https://github.com/athensresearch/athens
+- https://github.com/danobot/notorious
+- http://www.wjjsoft.com/mybase.html
+- https://www.remnote.com
+- https://nota.md/
+- https://tana.inc/
+- https://www.craft.do/
+- https://supernotes.app/
+- https://heptabase.com/
+- https://get.mem.ai/
+- https://beamapp.co/
+- https://saga.so/
+- https://cloverapp.com/
+- https://reflect.app/
+- https://www.notion.so/
+- https://hackmd.io/
+- https://www.wiz.cn/
+- https://www.dronahq.com/
+- https://noloco.io/
+</details>
