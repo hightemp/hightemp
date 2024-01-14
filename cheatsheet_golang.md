@@ -1,3 +1,29 @@
+## Суммирование строк пути
+
+```go
+/ Golang program to illustrate the usage of 
+// filepath.Join() function 
+  
+// Including the main package 
+package main 
+  
+// Importing fmt and path/filepath 
+import ( 
+    "fmt"
+    "path/filepath"
+) 
+  
+// Calling main 
+func main() { 
+  
+    // Calling the Join() function 
+    fmt.Println(filepath.Join("G", "F", "G")) 
+    fmt.Println(filepath.Join("G/F", "G")) 
+    fmt.Println(filepath.Join("gfg", "GFG")) 
+    fmt.Println(filepath.Join("Geeks", "for", "Geeks")) 
+} 
+```
+
 ## Hash
 
 ### Вариант 1
