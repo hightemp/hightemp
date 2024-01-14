@@ -1,3 +1,55 @@
+## Создание файла
+
+### Вариант 1
+
+```go
+package main
+
+import (
+    "io/ioutil"
+    "log"
+)
+
+func main() {
+    // create a byte array of a string
+    data := []byte("Hello Gopher!")
+
+    // write data to a hello file, with 0777 file permission
+    err := ioutil.WriteFile("hello.txt", data, 0777)
+
+    if err != nil {
+        log.Fatalf("%v", err)
+    }
+}
+```
+
+### Вариант 2
+
+```go
+package main
+
+import (
+    "log"
+    "os"
+)
+
+func main() {
+    // If the file doesn't exist, create it, or append to the file
+    file, err := os.OpenFile("hello.txt", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0777)
+
+    if err != nil {
+        log.Fatalf("error while opening the file. %v", err)
+    }
+
+    // close the file once program execution complete
+    defer file.Close()
+
+    if _, err := file.Write([]byte("\nappended data")); err != nil {
+        log.Fatalf("error while writing the file. %v", err)
+    }
+}
+```
+
 ## Суммирование строк пути
 
 ```go
@@ -24,7 +76,7 @@ func main() {
 } 
 ```
 
-## Hash
+## Нахождение Hash
 
 ### Вариант 1
 
