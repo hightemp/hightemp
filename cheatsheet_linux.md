@@ -107,5 +107,16 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -U root -u root
       2 ?        00:00:02 kthreadd
 ```
 
-### 
+### Групповые процессы отображения
+
+Если вы хотите составить список всех процессов, связанных с определенной группой, запустите
+`ps -fG group_name` Или `ps -fG groupID` Например `ps -fG root`
+
+```console
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -fG root
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0  2023 ?        00:01:25 /lib/systemd/systemd --system --deserialize 49 splash
+root           2       0  0  2023 ?        00:00:02 [kthreadd]
+root           3       2  0  2023 ?        00:00:00 [rcu_gp]
+```
 
