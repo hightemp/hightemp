@@ -1,6 +1,6 @@
 ## Изменить размер свопа `swap`
 
-```shell
+```console
 sudo swapoff -a
 sudo dd if=/dev/zero of=/swapfile bs=1G count=8
 sudo mkswap /swapfile
@@ -12,7 +12,7 @@ grep SwapTotal /proc/meminfo
 
 ### Просмотр всех запущенных процессов в различных форматах
 
-```bash
+```console
 apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -A
     PID TTY          TIME CMD
       1 ?        00:01:25 systemd
@@ -20,7 +20,7 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -A
       3 ?        00:00:00 rcu_gp
 ```
 
-```bash
+```console
 apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -e | tail
  854266 ?        00:00:00 kworker/u40:2-events_unbound
  854320 ?        00:00:04 yandex_browser
@@ -29,7 +29,7 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -e | tail
 
 ### Просмотр процессов, связанных с терминалом
 
-```bash
+```console
 apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -T
     PID    SPID TTY          TIME CMD
  804620  804620 pts/8    00:00:00 bash
@@ -38,7 +38,7 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -T
 
 ### Просмотр процессов, не связанных с терминалом
 
-```bash
+```console
 apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -a | tail
   10583 pts/7    00:00:00 ssh
   26799 pts/0    1-09:03:33 htop
@@ -47,7 +47,7 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -a | tail
 
 ### Показать все текущие запущенные процессы
 
-```bash
+```console
 apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -ax
     PID TTY      STAT   TIME COMMAND
       1 ?        Ss     1:25 /lib/systemd/systemd --system --deserialize 49 splash
