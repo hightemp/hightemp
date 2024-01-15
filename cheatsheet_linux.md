@@ -142,3 +142,30 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -fp 9200
 UID          PID    PPID  C STIME TTY          TIME CMD
 apanov      9200    2913  0  2023 pts/0    00:00:00 /bin/bash
 ```
+
+### Для отображения иерархии процессов в виде древовидной диаграммы
+
+Обычно большинство процессов разветвляются на родительские процессы. Знакомство с этой родительско-дочерней связью может оказаться полезным. Приведенная ниже команда выполняет поиск процессов с именем apache2 `ps -f --forest -C bash`
+
+```console
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -f --forest -C bash
+UID          PID    PPID  C STIME TTY          TIME CMD
+apanov    800047  799773  0 янв11 pts/2 00:00:00 /bin/bash --rcfile /snap/phpstorm/368/plugins/terminal/shell-integrations/bash/bash-integration.bash -i
+root      762660  762659  0 янв10 pts/1 00:00:00 -bash
+apanov    804620    2913  0 янв11 pts/8 00:00:00 /bin/bash
+apanov    445828    2913  0  2023 pts/22   00:00:00 /bin/bash
+apanov    445059    2913  0  2023 pts/21   00:00:00 /bin/bash
+```
+
+### Отображение дочерних процессов родительского процесса
+
+Например, если вы хотите отобразить все разветвленные процессы, принадлежащие apache, выполните
+`ps -o pid,uname,comm -C bash`
+
+```console
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -o pid,uname,comm -C bash
+    PID USER     COMMAND
+   9200 apanov   bash
+   9384 apanov   bash
+   9585 apanov   bash
+```
