@@ -1,3 +1,7 @@
+## Создание библиотеки
+
+- https://go.dev/doc/tutorial/create-module
+
 ## Игнорирование полей в JSON парсинге
 
 ```go
