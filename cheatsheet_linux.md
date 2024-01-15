@@ -90,7 +90,7 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -u apanov
    2125 ?        00:00:02 pipewire-media-
 ```
 
-### Фильтровать процесс по PID
+### Фильтровать процесс по потоку
 
 ```console
 apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -L 2117
@@ -169,3 +169,44 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -o pid,uname,comm -C bash
    9384 apanov   bash
    9585 apanov   bash
 ```
+
+```console
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps --ppid 9200
+    PID TTY          TIME CMD
+  26799 pts/0    1-09:04:02 htop
+```
+
+### Отображение потоков процесса
+
+Команда ps может использоваться для просмотра потоков вместе с процессами. Приведенная ниже команда отображает все потоки, принадлежащие процессу, с идентификатором pid_no
+`ps -p pid_no -L` Например `ps -p 1294 -L`
+
+### Отображение выбранного списка столбцов
+
+Вы можете использовать команду ps для отображения только необходимых вам столбцов. Например ,
+`ps -e -o pid,uname,pcpu,pmem,comm`
+
+### Переименование меток столбцов
+
+Чтобы переименовать метки столбцов, выполните приведенную ниже команду
+`ps -e -o pid=PID,uname=USERNAME,pcpu=CPU_USAGE,pmem=%MEM,comm=COMMAND`
+
+### Отображение прошедшего времени процессов
+
+Прошедшее время указывает на то, как долго выполнялся процесс
+`ps -e -o pid,comm,etime`
+
+```console
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -e -o pid,comm,etime
+    PID COMMAND             ELAPSED
+      1 systemd         56-02:04:02
+      2 kthreadd        56-02:04:02
+      3 rcu_gp          56-02:04:02
+```
+
+### Использование команды ps с grep
+
+команда ps может использоваться вместе с командой grep для поиска определенного процесса, например
+`ps -ef  | grep systemd`
+
+
