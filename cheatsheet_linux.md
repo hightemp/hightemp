@@ -8,6 +8,35 @@ sudo swapon /swapfile
 grep SwapTotal /proc/meminfo
 ```
 
+## Генерация ssh ключей git (Gitlab)
+
+Создайте пару ключей SSH
+Если нет существующей пары ключей SSH, сгенерируйте новую.
+
+Например, для ED25519:
+```
+ssh-keygen -t ed25519 -C "<comment>"
+```
+
+Для 2048-битного RSA:
+```
+ssh-keygen -t rsa -b 2048 -C "<comment>"
+```
+
+Нажмите Ввод. Отображается результат, подобный следующему:
+
+```
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/user/.ssh/id_rsa):
+```
+
+Добавьте SSH-ключ в учетную запись GitLab
+Чтобы использовать SSH с GitLab, скопируйте открытый ключ в учетную запись GitLab.
+
+```
+cat /home/user/.ssh/id_rsa.pub
+```
+
 ## Просмотр размера файлов
 
 ### Вариант 1
