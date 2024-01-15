@@ -69,4 +69,43 @@ root           5  0.0  0.0      0     0 ?        I<    2023   0:00 [slub_flushwq
 root           6  0.0  0.0      0     0 ?        I<    2023   0:00 [netns]
 ```
 
+### Для выполнения полноформатного листинга
+
+```console
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -eF
+UID          PID    PPID  C    SZ   RSS PSR STIME TTY          TIME CMD
+root           1       0  0 41841 11040  10  2023 ?        00:01:25 /lib/systemd/systemd --system --deserialize 49 splash
+root           2       0  0     0     0   8  2023 ?        00:00:02 [kthreadd]
+root           3       2  0     0     0   0  2023 ?        00:00:00 [rcu_gp]
+```
+
+### Фильтруйте процессы в соответствии с пользователем
+
+```console
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -u apanov
+    PID TTY          TIME CMD
+   2117 ?        00:00:08 systemd
+   2118 ?        00:00:00 (sd-pam)
+   2124 ?        00:00:00 pipewire
+   2125 ?        00:00:02 pipewire-media-
+```
+
+### Фильтровать процесс по PID
+
+```console
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -L 2117
+    PID     LWP TTY      STAT   TIME COMMAND
+   2117    2117 ?        Ss     0:08 /lib/systemd/systemd --user
+```
+
+### Показать каждый процесс, запущенный от имени root
+
+```console
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -U root -u root
+    PID TTY          TIME CMD
+      1 ?        00:01:25 systemd
+      2 ?        00:00:02 kthreadd
+```
+
+### 
 
