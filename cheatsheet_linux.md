@@ -39,10 +39,11 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -T
 ### Просмотр процессов, не связанных с терминалом
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -a | tail
-  10583 pts/7    00:00:00 ssh
-  26799 pts/0    1-09:03:33 htop
-  76590 pts/14   04:30:51 nvtop
+panov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -a
+    PID TTY          TIME CMD
+   2299 tty2     1-06:42:55 Xorg
+   2465 tty2     00:00:00 gnome-session-b
+   9583 pts/3    00:00:00 ssh
 ```
 
 ### Показать все текущие запущенные процессы
