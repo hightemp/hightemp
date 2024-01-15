@@ -61,6 +61,82 @@ iptraf-ng должен запускаться с правами root, поэто
 sudo iptraf-ng
 ```
 
+### Вариант 3
+
+Команда netstat - еще один универсальный инструмент для сбора сетевой информации.
+
+netstat установлен по умолчанию в большинстве современных систем, но вы можете установить его самостоятельно, загрузив из репозиториев пакетов вашего сервера по умолчанию. В большинстве систем Linux, включая Ubuntu, пакет, содержащий netstat является net-tools:
+
+```
+sudo apt install net-tools
+```
+
+По умолчанию команда netstat сама выводит список открытых сокетов:
+
+```console
+$ netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 192.241.187.204:ssh     ip223.hichina.com:50324 ESTABLISHED
+tcp        0      0 192.241.187.204:ssh     rrcs-72-43-115-18:50615 ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  5      [ ]         DGRAM                    6559     /dev/log
+unix  3      [ ]         STREAM     CONNECTED     9386     
+unix  3      [ ]         STREAM     CONNECTED     9385     
+. . .
+```
+
+Если вы добавите `-a` опцию, в ней будут перечислены все порты, прослушивающие и неподслушивающие:
+
+```console
+$ netstat -a
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 *:ssh                   *:*                     LISTEN     
+tcp        0      0 192.241.187.204:ssh     rrcs-72-43-115-18:50615 ESTABLISHED
+tcp6       0      0 [::]:ssh                [::]:*                  LISTEN     
+Active UNIX domain sockets (servers and established)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  2      [ ACC ]     STREAM     LISTENING     6195     @/com/ubuntu/upstart
+unix  2      [ ACC ]     STREAM     LISTENING     7762     /var/run/acpid.socket
+unix  2      [ ACC ]     STREAM     LISTENING     6503     /var/run/dbus/system_bus_socket
+. . .
+```
+
+Если вы хотите отфильтровать только TCP или UDP соединения, используйте флаги -t или -u соответственно:
+
+```
+$ netstat -at
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 *:ssh                   *:*                     LISTEN     
+tcp        0      0 192.241.187.204:ssh     rrcs-72-43-115-18:50615 ESTABLISHED
+tcp6       0      0 [::]:ssh                [::]:*                  LISTEN
+```
+
+Смотрите статистику, установив флаг “-s”:
+
+```console
+$ netstat -s
+Ip:
+    13500 total packets received
+    0 forwarded
+    0 incoming packets discarded
+    13500 incoming packets delivered
+    3078 requests sent out
+    16 dropped because of missing route
+Icmp:
+    41 ICMP messages received
+    0 input ICMP message failed.
+    ICMP input histogram:
+        echo requests: 1
+        echo replies: 40
+. . .
+```
+
+Если вы хотите постоянно обновлять выходные данные, вы можете использовать флаг -c. В netstat доступно множество других опций, о которых вы узнаете, просмотрев его страницу руководства.
+
 ## Как настроить приоритеты процессов
 
 Значения Nice могут варьироваться от -19 /-20 (наивысший приоритет) до 19/20 (низший приоритет) в зависимости от системы.
