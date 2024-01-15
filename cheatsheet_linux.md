@@ -131,3 +131,14 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -C bash
    9200 pts/0    00:00:00 bash
    9384 pts/3    00:00:00 bash
 ```
+
+### Список процессов по PID
+
+Вы можете отображать процессы по их PID, как показано на рисунке
+`ps -fp PID` Например `ps -fp 1294`
+
+```console
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -fp 9200
+UID          PID    PPID  C STIME TTY          TIME CMD
+apanov      9200    2913  0  2023 pts/0    00:00:00 /bin/bash
+```
