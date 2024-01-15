@@ -36,6 +36,10 @@
 - https://www.emailonacid.com/email-testing/
 - https://proofjump.com/dark-mode-simulator/
 
+### base64 img encoder
+
+- https://www.base64-image.de/
+
 ### Прокси
 
 - https://multiproxy.org/all_proxy.htm
