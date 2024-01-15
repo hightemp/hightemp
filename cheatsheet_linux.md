@@ -56,3 +56,17 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -ax
       3 ?        I<     0:00 [rcu_gp]
 ```
 
+### Отображать все процессы в формате BSD
+
+```console
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps aux
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0 167364 11040 ?        Ss    2023   1:25 /lib/systemd/systemd --system --deserialize 49 splash
+root           2  0.0  0.0      0     0 ?        S     2023   0:02 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<    2023   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<    2023   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<    2023   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<    2023   0:00 [netns]
+```
+
+
