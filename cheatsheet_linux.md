@@ -120,3 +120,14 @@ root           2       0  0  2023 ?        00:00:02 [kthreadd]
 root           3       2  0  2023 ?        00:00:00 [rcu_gp]
 ```
 
+### PID процесса поиска
+
+Скорее всего, вы обычно не знаете PID процесса. Вы можете выполнить поиск PID процесса, выполнив
+`ps -C process_name` Например `ps -C bash`
+
+```console
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -C bash
+    PID TTY          TIME CMD
+   9200 pts/0    00:00:00 bash
+   9384 pts/3    00:00:00 bash
+```
