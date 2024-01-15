@@ -35,3 +35,23 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -T
  804620  804620 pts/8    00:00:00 bash
  854641  854641 pts/8    00:00:00 ps
 ```
+
+### Просмотр процессов, не связанных с терминалом
+
+```bash
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -a | tail
+  10583 pts/7    00:00:00 ssh
+  26799 pts/0    1-09:03:33 htop
+  76590 pts/14   04:30:51 nvtop
+```
+
+### Показать все текущие запущенные процессы
+
+```bash
+apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -ax
+    PID TTY      STAT   TIME COMMAND
+      1 ?        Ss     1:25 /lib/systemd/systemd --system --deserialize 49 splash
+      2 ?        S      0:02 [kthreadd]
+      3 ?        I<     0:00 [rcu_gp]
+```
+
