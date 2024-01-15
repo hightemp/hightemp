@@ -157,6 +157,17 @@ Icmp:
 . . .
 ```
 
+Список всех активных прослушивающих портов UNIX с использованием netstat -lx.
+
+```console
+$ netstat -lx
+
+Active UNIX domain sockets (only servers)
+Proto RefCnt Flags Type State I-Node Path
+unix 2 [ ACC ] STREAM LISTENING 4171 @ISCSIADM_ABSTRACT_NAMESPACE
+unix 2 [ ACC ] STREAM LISTENING 5767 /var/run/cups/cups.sock
+```
+
 Если вы хотите постоянно обновлять выходные данные, вы можете использовать флаг -c. В netstat доступно множество других опций, о которых вы узнаете, просмотрев его страницу руководства.
 
 ## Как настроить приоритеты процессов
