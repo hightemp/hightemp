@@ -33,8 +33,9 @@
 
 ### Golang proxy
 
-- https://github.com/snail007/goproxy/tree/master
+- https://github.com/snail007/goproxy
 - https://github.com/elazarl/goproxy
+- https://github.com/google/martian
 - Go and Proxy Servers: Part 1 - HTTP Proxies  https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/
 - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/#
 - Simple HTTP proxy with authorization on golang https://gist.github.com/hightemp/403acfae29b41101a27d12d0c108fb49
