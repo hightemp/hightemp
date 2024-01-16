@@ -3,6 +3,7 @@
 
 ### Golang mitm proxy
 
+- https://github.com/lqqyt2423/go-mitmproxy
 - https://github.com/kardianos/mitmproxy
 - https://github.com/AdguardTeam/gomitmproxy
 
