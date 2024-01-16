@@ -1,6 +1,17 @@
 
 ## Остальное
 
+### Golang mitm proxy
+
+- https://github.com/kardianos/mitmproxy
+- https://github.com/AdguardTeam/gomitmproxy
+
+### Golang git
+
+- https://github.com/libgit2/git2go/
+- https://github.com/go-git/go-git
+- https://github.com/fluxcd/go-git-providers
+
 ### Golang headless browser
 
 - https://github.com/chromedp/chromedp
