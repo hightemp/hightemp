@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Просмотр страниц для llm агента
+
+- Simple web browsing for your Langchain agent. https://github.com/taivop/agentreader
+
 ### MITM proxy
 
 Установка сертификатов https://docs.mitmproxy.org/stable/concepts-certificates/
