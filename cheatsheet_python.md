@@ -316,6 +316,54 @@ or using a fancy one-liner using MERGE
 record = dbsession.merge(Toner( **kwargs))
 ```
 
+## SQLAlchemy
+
+### Получение данных
+
+```python
+from sqlalchemy import create_engine, Column, Integer, String, select
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import Session
+
+# Создаем объект для работы с базой данных (в данном случае, используем SQLite в памяти)
+engine = create_engine('sqlite:///:memory:', echo=True)
+
+# Создаем базовый класс для определения модели данных
+Base = declarative_base()
+
+# Определяем модель данных (в данном случае, таблицу 'users')
+class User(Base):
+    __tablename__ = 'users'
+
+    id = Column(Integer, primary_key=True)
+    name = Column(String)
+    age = Column(Integer)
+
+# Создаем таблицу в базе данных
+Base.metadata.create_all(engine)
+
+# Создаем сессию для взаимодействия с базой данных
+with Session(engine) as session:
+    # Добавляем несколько записей в таблицу 'users'
+    session.add_all([
+        User(name='Alice', age=25),
+        User(name='Bob', age=30),
+        User(name='Charlie', age=22)
+    ])
+
+    # Выполняем SELECT запрос для выборки данных из таблицы 'users'
+    stmt = select(User)
+    result = session.execute(stmt)
+
+    # Получаем результаты запроса
+    users = result.fetchall()
+
+    # Выводим результаты
+    for user in users:
+        print(f"User ID: {user.id}, Name: {user.name}, Age: {user.age}")
+
+```
+
 ## Файловая система
 
 ### Получить отсортированнные файлы
