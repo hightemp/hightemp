@@ -22,3 +22,4 @@
 ## Статьи
 
 - https://lilianweng.github.io/posts/2023-06-23-agent/
+- https://medium.com/@yulemoon/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792
