@@ -247,7 +247,12 @@ while i < len(my_list):
 ### Фильтрация
 
 ```python
+original_set = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
 
+# Фильтрация только четных чисел
+even_numbers = {num for num in original_set if num % 2 == 0}
+
+print(even_numbers)
 ```
 
 ## Flask
