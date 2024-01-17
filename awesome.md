@@ -1,6 +1,7 @@
 # Коллекции
 
-- A curated list of awesome ChatGPT and OpenAI software. https://github.com/korchasa/awesome-chatgpt
+- https://github.com/e2b-dev/awesome-ai-agents
+- https://github.com/korchasa/awesome-chatgpt
 - Awesome ChatGPT - это подборка потрясающих ресурсов, библиотек, SDK, API и других инструментов, связанных с ChatGPT, с целью создания самого обширного и всестороннего списка инструментов и ресурсов для ChatGPT. https://github.com/eon01/awesome-chatgpt
 - Awesome ChatGPT Resources - это собрание потрясающих инструментов и ресурсов, связанных с моделью ChatGPT, предназначенных для обмена опытом и внесения вклада в сообщество разработчиков. https://github.com/TarrySingh/Awesome-ChatGPT-Resources
 - awesome-ChatGPT-repositories - это отобранный список ресурсов, посвященных открытым репозиториям на GitHub, связанным с ChatGPT. В настоящее время доступен инструмент для поиска этих репозиториев на Hugging Face Spaces. Приветствуются ваши вклады! Перед внесением вклада, пожалуйста, ознакомьтесь с рекомендациями. https://github.com/taishi-i/awesome-ChatGPT-repositories
