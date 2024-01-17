@@ -124,10 +124,61 @@ for value in d.values(): # Iterates just through value, ignoring the keys
 ## Tuples (кортежи)
 
 ### Добавление, Создание
+
+```python
+# Создание пустого кортежа
+empty_tuple = ()
+
+# Создание кортежа с элементами
+my_tuple = (1, 2, 3, 'apple', 'banana')
+```
+
 ### Удаление
+
+```python
+my_tuple = (1, 2, 3)
+del my_tuple
+# Теперь my_tuple не существует
+```
+
+```python
+original_tuple = (1, 2, 3, 'apple', 'banana')
+
+# Создаем новый кортеж без элемента 'apple'
+new_tuple = tuple(item for item in original_tuple if item != 'apple')
+
+print(new_tuple)
+```
+
 ### Изменение
+
+```python
+original_tuple = (1, 2, 3)
+new_tuple = original_tuple + (4, 5)
+print(new_tuple)
+```
+
+```python
+original_tuple = (1, 2, 3)
+modified_tuple = original_tuple[:2] + (4,) + original_tuple[3:]
+print(modified_tuple)
+```
+
 ### Циклы
+
+```python
+my_tuple = (1, 2, 3, 'apple', 'banana')
+for item in my_tuple:
+    print(item)
+```
+
 ### Фильтрация
+
+```python
+numbers = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+even_numbers = tuple(filter(lambda x: x % 2 == 0, numbers))
+print(even_numbers)
+```
 
 ## Sets (множества)
 
