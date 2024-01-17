@@ -14,6 +14,14 @@
 - https://github.com/AdguardTeam/gomitmproxy
 - https://github.com/emanuele-em/proxelar
 
+### Golang - Примеры хорошего кода
+
+- https://github.com/spf13/cobra
+- https://github.com/go-gitea/gitea
+- https://github.com/mholt/archiver
+- https://github.com/grafana/grafana
+- https://github.com/pocketbase/pocketbase
+
 ### Golang git
 
 - https://github.com/libgit2/git2go/
