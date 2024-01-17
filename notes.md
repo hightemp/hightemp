@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Спецификация golang
+
+- https://go.dev/ref/spec
+
 ### Просмотр страниц для llm агента
 
 - Simple web browsing for your Langchain agent. https://github.com/taivop/agentreader
