@@ -1,7 +1,7 @@
 
 ## Остальное
 
-### Golang mitm proxy
+### MITM proxy
 
 Установка сертификатов https://docs.mitmproxy.org/stable/concepts-certificates/
 
