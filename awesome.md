@@ -1,4 +1,4 @@
-# Коллекции
+## Коллекции
 
 - https://github.com/e2b-dev/awesome-ai-agents
 - https://github.com/korchasa/awesome-chatgpt
@@ -17,3 +17,7 @@
 - Awesome AI Agents - кураторский список открытых и закрытых проектов и компаний, предоставляющих искусственных интеллектуальных агентов, сгруппированный на две части: открытые проекты и закрытые проекты и компании; структурирован по алфавиту и категориям, приглашает к обсуждению и предложениям, сфокусирован на AI-помощниках и агентах. https://github.com/e2b-dev/awesome-ai-agents
 - awesome-ChatGPT-repositories - Кураторский список ресурсов, посвященных открытым репозиториям на GitHub, связанным с ChatGPT. Доступен инструмент для поиска в этих репозиториях на Hugging Face Spaces. https://github.com/taishi-i/awesome-ChatGPT-repositories
 - Этот репозиторий - это сборник хорошо написанных пошаговых руководств по созданию наших любимых технологий с нуля. https://github.com/codecrafters-io/build-your-own-x
+
+## Статьи
+
+- https://lilianweng.github.io/posts/2023-06-23-agent/
