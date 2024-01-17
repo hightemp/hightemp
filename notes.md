@@ -1,7 +1,7 @@
 
 ## Остальное
 
-### Спецификация golang
+### Golang - Спецификация
 
 - https://go.dev/ref/spec
 
