@@ -1,5 +1,6 @@
 # Коллекции
 
+- "awesome-ChatGPT-repositories" - это отобранный список ресурсов, посвященных открытым репозиториям на GitHub, связанным с ChatGPT. В настоящее время доступен инструмент для поиска этих репозиториев на Hugging Face Spaces. Приветствуются ваши вклады! Перед внесением вклада, пожалуйста, ознакомьтесь с рекомендациями. https://github.com/taishi-i/awesome-ChatGPT-repositories
 - Awesome ChatGPT API - отобранный список приложений и инструментов, использующих новый API ChatGPT https://github.com/reorx/awesome-chatgpt-api
 - Awesome Penetration Testing - это собрание потрясающих ресурсов по тестированию на проникновение и в области атакующей кибербезопасности. https://github.com/enaqx/awesome-pentest
 - Awesome Frappe - это кураторский список потрясающих вещей, связанных с фреймворком Frappe, включающий приложения, плагины, интеграции, темы, инструменты для разработчиков и другие ресурсы, которые могут быть полезны при создании баз данных и веб-приложений с использованием Frappe. https://github.com/gavindsouza/awesome-frappe
