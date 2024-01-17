@@ -14,6 +14,10 @@
 - https://github.com/AdguardTeam/gomitmproxy
 - https://github.com/emanuele-em/proxelar
 
+### Golang - Подготовка к собеседованию
+
+- https://habr.com/ru/articles/786826/
+
 ### Golang - Примеры хорошего кода
 
 - https://github.com/spf13/cobra
