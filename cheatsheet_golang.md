@@ -1,3 +1,20 @@
+## Какие типы данных используются в Go?
+Go работает со следующими типами:
+
+- Method (метод)
+- Boolean (логический тип)
+- Numeric (численный)
+- String (строковый)
+- Array (массив)
+- Slice (срез)
+- Struct (структура)
+- Pointer (указатель)
+- Function (функция)
+- Interface (интерфейс)
+- Map (карта)
+- Channel (канал)
+
+
 ## Создание библиотеки
 
 - https://go.dev/doc/tutorial/create-module
