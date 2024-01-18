@@ -1,6 +1,16 @@
 
 ## Остальное
 
+### Установка NerdFonts
+
+```bash
+wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/DroidSansMono.zip
+# Alternative download link
+# https://www.nerdfonts.com/font-downloads
+unzip DroidSansMono.zip -d ~/.fonts
+fc-cache -fv
+```
+
 ### Golang - Логирование
 
 | Package                | Iterations | Time        | Objects Allocated |
