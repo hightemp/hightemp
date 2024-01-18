@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Rust - Обучающие материалы
+
+- https://github.com/rust-lang/rustlings
+
 ### Установка NerdFonts
 
 ```bash
