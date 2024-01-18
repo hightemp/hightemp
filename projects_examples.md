@@ -226,7 +226,8 @@
 - ranger-like terminal file manager written in Rust. https://github.com/kamiyaa/joshuto
 - Broot - это удобный способ навигации по директориям с возможностью получения обзора содержимого директории, быстрого поиска и манипуляции файлами, а также просмотра предварительных данных о файлах, что обеспечивает эффективное управление файловой системой через терминал. https://github.com/Canop/broot
 - Проект Servo - это прототип браузерного движка, написанного на языке Rust, предназначенный для современных операционных систем, таких как 64-битные macOS, Linux, Windows и Android, и приглашает к участию разработчиков с открытым исходным кодом, обеспечивая быструю и оптимизированную сборку и разработку с использованием инструментов Mach и Cargo. https://github.com/servo/servo
-- The minimal, blazing-fast, and infinitely customizable prompt for any shell! https://github.com/starship/starship
+- starship - The minimal, blazing-fast, and infinitely customizable prompt for any shell! https://github.com/starship/starship
+- fd - быстрый, простой и удобный инструмент для поиска файлов в файловой системе, предоставляющий интуитивный синтаксис, поддержку регулярных и глобальных шаблонов, параллельный поиск, поддержку цветов и интеграцию с .gitignore. https://github.com/sharkdp/fd
 
 ## shell
 
