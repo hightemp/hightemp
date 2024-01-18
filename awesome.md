@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/leptos-rs/awesome-leptos
 - https://github.com/Hannibal046/Awesome-LLM
 - https://github.com/sourcegraph/awesome-code-ai
 - https://github.com/wsxiaoys/awesome-ai-coding
