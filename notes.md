@@ -1,7 +1,7 @@
 
 ## Остальное
 
-### Golang - Логгирование
+### Golang - Логирование
 
 | Package                | Iterations | Time        | Objects Allocated |
 |------------------------|------------|-------------|-------------------|
@@ -17,7 +17,14 @@
 | Log15                  | 505850     | 21997 ns/op | 20 allocs/op      |
 
 - https://github.com/rs/zerolog
-- 
+- https://github.com/uber-go/zap
+- https://pkg.go.dev/golang.org/x/exp/slog https://cs.opensource.google/go/x/exp
+- https://github.com/phuslu/log
+- https://github.com/sirupsen/logrus
+- https://github.com/inconshreveable/log15
+- https://github.com/ssgreg/logf
+- https://github.com/apex/log
+- https://github.com/go-logr/logr
 
 ### Golang - Спецификация
 
