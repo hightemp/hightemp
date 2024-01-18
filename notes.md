@@ -1,6 +1,24 @@
 
 ## Остальное
 
+### Golang - Логгирование
+
+| Package                | Iterations | Time        | Objects Allocated |
+|------------------------|------------|-------------|-------------------|
+| Phuslu/log             | 44559532   | 27 ns/op    | 0 allocs/op       |
+| Zerolog                | 42537776   | 30 ns/op    | 0 allocs/op       |
+| Zap                    | 17901230   | 71 ns/op    | 0 allocs/op       |
+| Zap (sugared)          | 14898670   | 87 ns/op    | 1 allocs/op       |
+| Slog (with Zap Backend)| 1005426    | 121.9 ns/op | 0 allocs/op       |
+| Logf                   | 6770377    | 163.5 ns/op | 0 allocs/op       |
+| Slog                   | 7105790    | 174 ns/op   | 0 allocs/op       |
+| Apex/log               | 138122     | 870 ns/op   | 5 allocs/op       |
+| Logrus                 | 658953     | 2231 ns/op  | 23 allocs/op      |
+| Log15                  | 505850     | 21997 ns/op | 20 allocs/op      |
+
+- https://github.com/rs/zerolog
+- 
+
 ### Golang - Спецификация
 
 - https://go.dev/ref/spec
