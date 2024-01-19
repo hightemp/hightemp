@@ -369,7 +369,7 @@ sudo make install
 
 ```console
 $ cargo install coreutils
-$ ls ~/.cargo/bin/coreutils
+$ ~/.cargo/bin/coreutils
 ```
 
 ### Установка fd, fdfind
