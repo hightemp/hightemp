@@ -365,6 +365,13 @@ sudo make install
 
 ## Программы
 
+### Установка coreutils(аналог GNU - cp,ls...)
+
+```console
+$ cargo install coreutils
+$ ls ~/.cargo/bin/coreutils
+```
+
 ### Установка fd, fdfind
 
 ```console
