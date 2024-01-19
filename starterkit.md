@@ -365,6 +365,13 @@ sudo make install
 
 ## Программы
 
+### Установка fd, fdfind
+
+```console
+$ sudo apt install fd-find
+$ fdfind
+```
+
 ### Устанока менеджера задач Taskwarrior (задачник)
 
 - https://taskwarrior.org/
