@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/karanpratapsingh/system-design
 - https://github.com/rust-unofficial/awesome-rust
 - https://github.com/leptos-rs/awesome-leptos
 - https://github.com/Hannibal046/Awesome-LLM
