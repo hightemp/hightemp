@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/microsoft/generative-ai-for-beginners
 - https://github.com/karanpratapsingh/system-design
 - https://github.com/rust-unofficial/awesome-rust
 - https://github.com/leptos-rs/awesome-leptos
