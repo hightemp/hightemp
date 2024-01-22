@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/donnemartin/system-design-primer
 - https://github.com/microsoft/generative-ai-for-beginners
 - https://github.com/karanpratapsingh/system-design
 - https://github.com/rust-unofficial/awesome-rust
