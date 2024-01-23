@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://supertools.therundown.ai/
 - https://github.com/dair-ai/ML-Papers-of-the-Week
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/microsoft/generative-ai-for-beginners
