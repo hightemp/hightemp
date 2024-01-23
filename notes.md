@@ -9,6 +9,7 @@
 - https://services.vsegpt.ru:6400/Image_processing?model=vis-google%2Fgemini-pro-vision
 - https://services.vsegpt.ru:5002/
 - https://chat.vsegpt.ru/
+- https://www.blackbox.ai/
 
 ### Rust - Обучающие материалы
 
