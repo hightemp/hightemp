@@ -1,6 +1,15 @@
 
 ## Остальное
 
+### Чаты с ботами
+
+- https://openchat.team/
+- https://labs.perplexity.ai/
+- https://services.vsegpt.ru:6400/?model=openai%2Fgpt-3.5-turbo
+- https://services.vsegpt.ru:6400/Image_processing?model=vis-google%2Fgemini-pro-vision
+- https://services.vsegpt.ru:5002/
+- https://chat.vsegpt.ru/
+
 ### Rust - Обучающие материалы
 
 - https://github.com/rust-lang/rustlings
