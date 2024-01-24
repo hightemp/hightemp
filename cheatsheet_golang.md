@@ -849,4 +849,36 @@ func main() {
 }
 ```
 
+## Быстрая сортировка
+
+```go
+package main
+
+import "fmt"
+
+// QuickSort сортирует слайс любого сравнимого типа.
+func QuickSort[T any](data []T, compare func(a, b T) bool) {
+    if len(data) < 2 {
+        return
+    }
+    left, right := 0, len(data)-1
+    pivot := len(data) / 2
+    data[pivot], data[right] = data[right], data[pivot]
+    for i := range data {
+        if compare(data[i], data[right]) {
+            data[left], data[i] = data[i], data[left]
+            left++
+        }
+    }
+    data[left], data[right] = data[right], data[left]
+    QuickSort(data[:left], compare)
+    QuickSort(data[left+1:], compare)
+}
+
+func main() {
+    slice := []int{9, 4, 6, 2, 10, 3}
+    QuickSort(slice, func(a, b int) bool { return a < b })
+    fmt.Println(slice) // Выведет: [2 3 4 6 9 10]
+}
+```
 
