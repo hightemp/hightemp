@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/mlabonne/llm-course
 - https://supertools.therundown.ai/
 - https://github.com/dair-ai/ML-Papers-of-the-Week
 - https://github.com/donnemartin/system-design-primer
