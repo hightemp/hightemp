@@ -39,6 +39,7 @@
 - https://github.com/mlabonne/llm-course
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/karanpratapsingh/system-design
+- https://github.com/ByteByteGoHq/system-design-101
 
 ## Статьи
 
