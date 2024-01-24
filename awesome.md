@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/public-apis/public-apis
 - https://supertools.therundown.ai/
 - https://github.com/dair-ai/ML-Papers-of-the-Week
 - https://github.com/microsoft/generative-ai-for-beginners
