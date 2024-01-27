@@ -1,3 +1,64 @@
+## resolv.conf 
+
+/etc/NetworkManager/conf.d/DontTouchDNSResolution.conf
+
+```
+[main]
+dns=none
+systemd-resolved=false
+```
+
+Чтоб заставить NetworkManager перестать управлять резолвингом, создадим файл /etc/NetworkManager/conf.d/dns.conf со следующим содержанием:
+
+```
+[main]
+dns=none
+```
+
+Подробнее о конфигурации NetworkManager можно прочитать здесь. Убедимся, что опция dns нигде больше не задана
+
+```
+grep -r dns= /etc/NetworkManager
+```
+
+Если задана, то закомментируйте ее.
+
+Применим конфигурацию
+
+```
+systemctl reload NetworkManager.service
+```
+
+Теперь настроим локальный кеширующий dnsmasq, кстати, я уже писал о нем.
+
+Пропишем конфиг в /etc/dnsmasq.d/local.conf
+
+```
+server=1.1.1.1
+server=2606:4700:4700::1111
+listen-address=127.0.0.1
+cache-size=10000
+no-negcache
+no-resolv
+bind-interfaces
+```
+
+Я тут использую Cloudflare public DNS, но вы можете настроить любой на свой вкус.
+
+Пропишем в /etc/resolv.conf наш новый резолвер:
+
+```
+# generated manually
+nameserver 127.0.0.1
+```
+
+Включаем в загрузку и стартуем dnsmasq:
+
+```
+systemctl enable dnsmasq.service
+systemctl start dnsmasq.service
+```
+
 ## Изменить размер свопа `swap`
 
 ```bash
