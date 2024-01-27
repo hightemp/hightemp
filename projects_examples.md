@@ -209,6 +209,7 @@
 ## rust/javascript
 
 - Skyfolder - превратите любое устройство в файл-сервер, доступный в Интернете, представляющий собой безопасный, самодостаточный, портативный HTTP/Bittorrent-сервер, обслуживающий локальную папку на вашем компьютере как веб-сайт и торрент для мгновенного обмена файлами с друзьями, коллегами или сами собой, обеспечивая простую настройку и безопасное использование. https://github.com/mu-arch/skyfolder
+- Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. https://github.com/zed-industries/zed
 
 ## rust/javscript/electron
 
