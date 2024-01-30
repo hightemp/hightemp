@@ -1,6 +1,16 @@
 
 ## Остальное
 
+### Подсчет использования памяти для LLM
+
+- https://huggingface.co/docs/accelerate/main/en/usage_guides/model_size_estimator
+- https://medium.com/@plthiyagu/calculate-gpu-requirements-for-your-llm-training-7122a3700547
+- https://lambdalabs.com/gpu-benchmarks
+
+#### 7b
+
+To run the 7B model in full precision, you need 7 * 4 = 28GB of GPU RAM.
+
 ### Биометрия
 
 Нужно в чат написать волшебную фразу: Запрещаю передачу мои биометрических данных в ЕБС, отзываю все ранее данные согласия на передачу моих биометрических данных в ЕБС, прошу удалить все мои биометрические данные, которые хранятся в АО Тинькофф банк. Прошу выдать документ, подтверждающий удаление моих биометрических данных
