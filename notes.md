@@ -3,6 +3,7 @@
 
 ### Подсчет использования памяти для LLM
 
+- https://docs.nvidia.com/ai-enterprise/workflows-generative-ai/0.1.0/sizing-guide.html
 - https://huggingface.co/docs/accelerate/main/en/usage_guides/model_size_estimator
 - https://medium.com/@plthiyagu/calculate-gpu-requirements-for-your-llm-training-7122a3700547
 - https://lambdalabs.com/gpu-benchmarks
