@@ -41,6 +41,7 @@
 
 ## Курсы
 
+- https://github.com/DataTalksClub/data-engineering-zoomcamp
 - https://github.com/mlabonne/llm-course
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/karanpratapsingh/system-design
