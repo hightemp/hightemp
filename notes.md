@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### linux - Получить информацию о компьютере
+
+- https://github.com/lpereira/hardinfo
+
 ### Подсчет использования памяти для LLM
 
 - https://docs.nvidia.com/ai-enterprise/workflows-generative-ai/0.1.0/sizing-guide.html
