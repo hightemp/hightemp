@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Блоги, Заметки
+
+- https://ekamperi.github.io/
+
 ### linux - Получить информацию о компьютере
 
 - https://github.com/lpereira/hardinfo
