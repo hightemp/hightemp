@@ -121,6 +121,10 @@
 - Own webarchive service https://github.com/derfenix/webarchive
 - Wayback - инструмент для архивирования и воспроизведения веб-контента, предоставляющий возможность захвата и сохранения веб-страниц; предоставляет интерфейс в стиле мгновенных сообщений для получения и представления архивированного веб-контента, а также сервис поиска и воспроизведения для извлечения ранее архивированных страниц; предназначен для использования веб-архивариями, исследователями и всеми, кто хочет сохранить веб-контент и получить к нему доступ в будущем. https://github.com/wabarc/wayback
 
+## go/go-app/webassembly
+
+- Lofimusic.app - установочное веб-приложение (PWA), предоставляющее список и отображение популярных Lo-Fi радиостанций на YouTube. https://github.com/maxence-charriere/lofimusic
+
 ## go
 
 - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files https://github.com/rclone/rclone
