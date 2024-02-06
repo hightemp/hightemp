@@ -57,6 +57,10 @@ To run the 7B model in full precision, you need 7 * 4 = 28GB of GPU RAM.
 
 - https://github.com/rust-lang/rustlings
 
+### Rust - web frameworks
+
+- Yew - современный фреймворк на языке Rust для создания многопоточных веб-приложений с использованием WebAssembly, предоставляющий удобный макрос для объявления интерактивного HTML с выражениями Rust, обеспечивающий высокую производительность и поддерживающий взаимодействие с JavaScript для использования NPM-пакетов и интеграции с существующими JavaScript-приложениями. https://github.com/yewstack/yew
+
 ### Установка NerdFonts
 
 ```bash
