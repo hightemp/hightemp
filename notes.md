@@ -35,7 +35,65 @@
 
 - [freetype](https://github.com/golang/freetype) — это генератор шрифтов Freetype на языке программирования Go.
 - [golang.org/x/image/font/sfnt](https://godoc.org/golang.org/x/image/font/sfnt) анализирует форматы файлов шрифтов SFNT
+- [pixfont](https://github.com/pbnjay/pixfont) — это простой и легкий пакет Pixel Font (также известный как растровые шрифты) для Go, который работает со стандартным пакетом image/draw.
 
+#### native GUI
+
+- [dlgs](https://github.com/gen2brain/dlgs) — это кроссплатформенная библиотека для отображения окон и полей ввода.
+- [gform](https://github.com/AllenDang/gform) — это простой в использовании инструментарий Windows GUI для Go.
+- [winc](https://github.com/tadvi/winc) — это библиотека для приложений Go с графическим интерфейсом в Windows (на основе gform).
+- [glfw](https://github.com/go-gl/glfw) — это библиотека Go для GLFW 3.
+- [go-gtk](https://github.com/mattn/go-gtk) — библиотека для GTK2.
+- [RenderView](https://github.com/TheGrum/renderview) — это простая библиотека Go с графическим интерфейсом для интерактивного управления визуальными алгоритмами. Поддерживает go-gtk (по умолчанию) и gotk3.
+- [go-mobile](https://github.com/golang/mobile) добавляет поддержку мобильных платформ (Android и iOS) и предоставляет инструменты для создания мобильных приложений. ( Go для [OpenGL ES 2.0 и ES 3.0](https://godoc.org/golang.org/x/mobile/gl).)
+- [go-sdl2](https://github.com/veandco/go-sdl2) — это оболочка SDL2 для пользователей Go.
+- [go-sfml](https://github.com/teh-cmc/go-sfml) — это библиотека Go для SFML.
+- [Gothic](https://github.com/nsf/gothic) — это привязка tcl/tk.
+- [gotk3](https://github.com/gotk3/gotk3) предоставляет инструменты Go для GTK+3 и зависимых проектов (включая cairo).
+- [gotk4](https://github.com/diamondburned/gotk4) — это генератор GTK4 для Go.
+- [GoVCL](https://github.com/ying32/govcl) — это библиотека графического интерфейса пользователя, основанная на [Lazarus](https://www.lazarus-ide.org/).
+- [GXUI](https://github.com/google/gxui) — это кроссплатформенная библиотека пользовательского интерфейса Go.
+- [MacDriver](https://github.com/progrium/macdriver) — это набор инструментов для работы с Apple/Mac API и фреймворками в Go.
+- [qt](https://github.com/therecipe/qt) позволяет вам писать приложения Qt полностью на Go и упрощает их последующее развертывание.
+- [qt.go](https://github.com/kitech/qt.go) — это привязка Qt5, в которой вместо CGO используется FFI.
+- [Shiny](https://github.com/golang/exp/tree/master/shiny) — это кроссплатформенный пользовательский интерфейс Go.
+- [systray](https://github.com/getlantern/systray) — это кроссплатформенная библиотека Go для размещения окон и меню в области уведомлений. Протестировано на Windows 8, Mac OSX, Ubuntu 14.10 и Debian 7.6.
+- [Trayhost](https://github.com/shurcooL/trayhost) — это кроссплатформенная библиотека Go для разработки интерфейсов.
+- [ui](https://github.com/andlabs/ui) - библиотека обеспечивающая простую разработку программного обеспечения с графическим интерфейсом в Go на основе моего c lib libui.
+- [w32.go](https://gist.github.com/nathan-osman/18c2e227ad00a223b61c0b3c16d452c3) — это простой пример создания графического интерфейса Windows с помощью пакета syscall.
+- [Windigo](https://github.com/rodrigocfd/windigo) — Win32 API и графический интерфейс для Go.
+- [Walk](https://github.com/lxn/walk) — это «набор библиотек для приложений Windows» для языка программирования Go.
+- [wui](https://github.com/gonutz/wui) — это библиотека графического интерфейса Windows, использующая собственный Win32 API.
+- [XGB](https://github.com/BurntSushi/xgb) — это X Go Binding, низкоуровневый API для связи с основным протоколом X.
+- [xgbutil](https://github.com/BurntSushi/xgbutil) — это библиотека, предназначенная для работы с X Go Binding.
+- [zenity](https://github.com/shibukawa/nanovgo) — это кроссплатформенный пакет, предоставляющий диалоги в стиле Zenity.
+
+#### custom GUI
+
+- [duit](https://github.com/mjl-/duit) — это кроссплатформенный набор инструментов пользовательского интерфейса для разработчиков под лицензией MIT.
+- [Fyne](https://github.com/fyne-io/fyne) — это простой в использовании инструментарий пользовательского интерфейса и API приложений, написанные на Go. Мы используем OpenGL (через проекты go-gl и go-glfw) для обеспечения кроссплатформенной графики.
+- [gi](https://github.com/goki/gi) — это удобный инструмент для создания 2D и 3D GUI/графических интерфейсов.
+- [Gio](https://git.sr.ht/~eliasnaur/gio) — это изящно написанный инструмент для создания кроссплатформеннных программ с графическим интерфейсом.
+- [goey](https://github.com/Dc0d3r/goey) предоставляет декларативный кроссплатформенный графический интерфейс для языка Go. Предостаялет набор элементов управления и их поддерживаемых свойств и событий, который примерно соответствует тому, что доступно в HTML.
+- [go-flutter](https://github.com/go-flutter-desktop/go-flutter) — это пакет, для работы с Flutter.
+- [imgui-go](https://github.com/inkyblackness/imgui-go) — это оболочка Go для Dear ImGui.
+- [giu](https://github.com/AllenDang/giu) — это фреймворк с графическим интерфейсом, основанный на imgui-go. (Еще один аналогичный от того же автора, gimu,)
+- [NanoGUI.go](https://github.com/shibukawa/nanogui-go) — это порт NanoGUI на Golang.
+- [nk](https://github.com/golang-ui/nuklear) предоставляет инструбмент Go для работы с nuklear.h.
+
+#### 3D-графика
+
+- [d3d9](https://github.com/gonutz/d3d9) — это оболочка Go для Microsoft Direct3D9 API.
+- [gl](https://github.com/go-gl/gl) содержит пакеты Go к различным версиям OpenGL.
+- [vulkan](https://github.com/vulkan-go/vulkan) пакеет Go для Vulkan — кроссплатформенного API для трехмерной графики и вычислений с низкими расходами ресурсов.
+
+#### Библиотеки связанные с разработкой игр
+
+- [godot-go](https://github.com/ShadowApex/godot-go) — библиотека для GDNative API Godot Engine.
+
+#### Интерфейс терминала
+
+- Кстати, если вы заинтересованы в разработке программ Go для терминала, посмотрите на [tcell](https://github.com/gdamore/tcell), [tview](https://github.com/rivo/tview).
 
 ### Rust - web frameworks
 
