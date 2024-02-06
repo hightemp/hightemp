@@ -1,6 +1,42 @@
 
 ## Остальное
 
+### Golang frameworks
+
+#### Графический интерфейс на основе HTML
+
+- [Go-app](https://github.com/maxence-charriere/go-app) — это пакет для создания прогрессивных веб-приложений (PWA) с помощью языка программирования Go (Golang) и WebAssembly (Wasm).
+- [go-astilectron](https://github.com/asticode/go-astilectron) помогает создавать кроссплатформенные приложения с графическим интерфейсом с помощью GO и HTML/JS/CSS. Это официальный пакет GO от astilectron, работающий на Electron.
+- [go-sciter](https://github.com/sciter-sdk/go-sciter) — встраиваемый HTML/CSS/скриптовый движок для разработки современного пользовательского интерфейса.
+- [gowd](https://github.com/dtylman/gowd) поможет нам создавать кроссплатформенные приложения с графическим интерфейсом с помощью GO и HTML/JS/CSS (на базе nwjs).
+- [Gowut](https://github.com/icza/gowut) — это набор инструментов веб-интерфейса, написанный на чистом Go. Приложения отображаются как HTML-страницы.
+- [Lorca](https://github.com/zserge/lorca) — очень маленькая библиотека для создания современных приложений HTML5 на Go.
+- [Muon](https://github.com/ImVexed/muon) — это облегченная альтернатива Electron, написанная на Golang с использованием Ultralight вместо Chromium.
+- [Qlovaseed](https://github.com/qlova/seed) — это облегченная альтернатива Electron, написанная на Golang. Приложения отображаются как HTML-страницы.
+- [Wails](https://github.com/wailsapp/wails) — это фреймворк для создания приложений с использованием Go & Web Technologies.
+- [webview](https://github.com/webview/webview) — это крошечная кроссплатформенная библиотека для C/C++/Golang для создания современных кроссплатформенных графических интерфейсов.
+
+#### 2D-векторная графика
+
+- [draw2d](https://github.com/llgcode/draw2d) — это библиотека двумерной векторной графики Go с поддержкой нескольких выходных данных, таких как изображения (draw2d), документы в формате pdf (draw2dpdf), opengl (draw2dgl) и svg (draw2dsvg).
+- [gg](https://github.com/fogleman/gg) — это библиотека для рендеринга 2D-графики на чистом Go.
+- Проект [Gio](https://git.sr.ht/~eliasnaur/gio) включает эффективный векторный рендерер, основанный на проекте Pathfinder, реализованном на OpenGL ES и Direct3D 11.
+- [giocanvas](https://github.com/ajstarks/giocanvas) — это API, созданный поверх Gio.
+- [go-cairo](https://github.com/ungerik/go-cairo) — это пакет Go для графической библиотеки cairo.
+- [Go canvas](https://github.com/tfriedel6/canvas) — это библиотека Go, которая обеспечивает функциональность рисования, максимально похожую на API canvas HTML5, реализованную на бэкэнде OpenGL.
+- [go-chart](https://github.com/wcharczuk/go-chart) — это очень простая нативная библиотека Golang для построения диаграмм, которая поддерживает временные ряды и линейные диаграммы.
+- [gonum/plot](https://github.com/gonum/plot) предоставляет API для построения и рисования графиков в Go.
+- [go-p5](https://github.com/go-p5/p5) — это простой пакет, предоставляющий примитивы, похожие на те, которые предоставляются библиотекой p5/processing.
+- [go-skia](https://github.com/go101/go-skia) — это библиотека Go skia, основанная на библиотеке skia C через cgo.
+- [NanoVGo](https://github.com/shibukawa/nanovgo) — это чистая реализация NanoVG на Golang. Тот же автор поддерживает упомянутый выше проект NanoGUI.go.
+- [svgo](https://github.com/ajstarks/svgo) генерирует SVG в соответствии со спецификацией Scalable Vector Graphics 1.1.
+
+#### Еще полезные пакеты:
+
+- [freetype](https://github.com/golang/freetype) — это генератор шрифтов Freetype на языке программирования Go.
+- [golang.org/x/image/font/sfnt](https://godoc.org/golang.org/x/image/font/sfnt) анализирует форматы файлов шрифтов SFNT
+
+
 ### Rust - web frameworks
 
 - Yew - современный фреймворк на языке Rust для создания многопоточных веб-приложений с использованием WebAssembly, предоставляющий удобный макрос для объявления интерактивного HTML с выражениями Rust, обеспечивающий высокую производительность и поддерживающий взаимодействие с JavaScript для использования NPM-пакетов и интеграции с существующими JavaScript-приложениями. https://github.com/yewstack/yew
