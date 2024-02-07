@@ -17,7 +17,13 @@
   - https://bitbucket.org/
   - https://rhodecode.com/
   - https://launchpad.net/
-  - 
+  - https://about.gitlab.com/
+  - https://sourceforge.net/
+  - https://allura.apache.org/
+  - https://cloud.google.com/source-repositories/docs
+  - https://aws.amazon.com/ru/codecommit/
+  - https://beanstalkapp.com/
+  - https://www.gitkraken.com/
 
 ### Проверка shell скриптов
 
