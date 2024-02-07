@@ -12,8 +12,10 @@
   - 
 - Россия
   - https://gitflic.ru/
-  - 
+  - https://hub.mos.ru/users/sign_in
 - Остальное
+  - https://codeberg.org/
+  - https://notabug.org/
   - https://bitbucket.org/
   - https://rhodecode.com/
   - https://launchpad.net/
@@ -24,6 +26,7 @@
   - https://aws.amazon.com/ru/codecommit/
   - https://beanstalkapp.com/
   - https://www.gitkraken.com/
+  - https://www.inflectra.com/TaraVault/
 
 ### Проверка shell скриптов
 
