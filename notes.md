@@ -9,7 +9,7 @@
 
 - Китай
   - https://coding.net/
-  - 
+  - https://gitee.com/
 - Россия
   - https://gitflic.ru/
   - https://hub.mos.ru/users/sign_in
