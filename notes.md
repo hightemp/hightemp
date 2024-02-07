@@ -1,6 +1,24 @@
 
 ## Остальное
 
+### Новости open source
+
+- https://www.oschina.net/
+
+### Список git репозиториев
+
+- Китай
+  - https://coding.net/
+  - 
+- Россия
+  - https://gitflic.ru/
+  - 
+- Остальное
+  - https://bitbucket.org/
+  - https://rhodecode.com/
+  - https://launchpad.net/
+  - 
+
 ### Проверка shell скриптов
 
 - ShellCheck - инструмент статического анализа оболочечных скриптов (bash/sh) с лицензией GPLv3, предоставляющий предупреждения и рекомендации по устранению проблем в синтаксисе, семантике и потенциальных уязвимостях для пользователей на всех уровнях опыта. https://github.com/koalaman/shellcheck
