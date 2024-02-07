@@ -5,7 +5,7 @@
 
 - https://www.oschina.net/
 
-### Список git репозиториев
+### Список git площадок
 
 - Китай
   - https://coding.net/
