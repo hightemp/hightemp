@@ -12,6 +12,7 @@
 - https://github.com/antoyo/relm
 - https://github.com/fschutt/azul
 - https://docs.rs/egui
+- https://github.com/emilk/eframe_template/
 - https://github.com/yewstack/yew
 
 ### Новости open source
