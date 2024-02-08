@@ -1,6 +1,19 @@
 
 ## Остальное
 
+### The state of Rust GUI libraries
+
+- https://github.com/tauri-apps/tauri
+- https://github.com/linebender/druid
+- https://github.com/linebender/xilem
+- https://github.com/slint-ui/slint
+- https://github.com/fltk-rs/fltk-rs
+- https://github.com/iced-rs/iced
+- https://github.com/antoyo/relm
+- https://github.com/fschutt/azul
+- https://docs.rs/egui
+- https://github.com/yewstack/yew
+
 ### Новости open source
 
 - https://www.oschina.net/
