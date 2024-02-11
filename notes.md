@@ -342,6 +342,10 @@ fc-cache -fv
 
 - https://www.base64-image.de/
 
+### Проверка доступности сайтов
+
+- https://check-host.net/
+
 ### Прокси
 
 - https://multiproxy.org/all_proxy.htm
