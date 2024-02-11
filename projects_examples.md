@@ -194,7 +194,7 @@
 
 - Revolt is an open source user-first chat platform. You can find links to useful resources about the project below. https://github.com/revoltchat/backend https://github.com/revoltchat/frontend
 
-## rust/react/typescript
+## rust/react/svelte
 
 - AtomicServer - легкий, но мощный CMS / графовая база данных для создания, обмена, получения и моделирования Atomic Data (атомарных данных) с поддержкой пользовательских моделей данных, полнотекстового поиска и синхронизации в реальном времени. https://github.com/atomicdata-dev/atomic-server/
 
