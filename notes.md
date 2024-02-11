@@ -12,6 +12,7 @@
 - golang
   - https://github.com/gocolly/colly
   - https://github.com/geziyor/geziyor
+  - https://github.com/MontFerret/ferret
 
 ### The state of Rust GUI libraries
 
