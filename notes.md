@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### web scrapping сервисы
+
+- https://www.zenrows.com
+
 ### web-crawler
 
 - rust
