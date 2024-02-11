@@ -194,6 +194,10 @@
 
 - Revolt is an open source user-first chat platform. You can find links to useful resources about the project below. https://github.com/revoltchat/backend https://github.com/revoltchat/frontend
 
+## rust/react/typescript
+
+- AtomicServer - легкий, но мощный CMS / графовая база данных для создания, обмена, получения и моделирования Atomic Data (атомарных данных) с поддержкой пользовательских моделей данных, полнотекстового поиска и синхронизации в реальном времени. https://github.com/atomicdata-dev/atomic-server/
+
 ## rust/react/tauri
 
 - ChatGPT - Неофициальное приложение для настольных компьютеров (доступно на Mac, Windows и Linux), предоставляющее удобный доступ к ChatGPT, автоматизируя процесс продолжения генерации текста и предоставляя дополнительные функции, такие как текст в речь, экспорт истории чата, и уведомления о обновлениях. https://github.com/lencx/ChatGPT
