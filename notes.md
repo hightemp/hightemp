@@ -7,6 +7,7 @@
   - https://github.com/let4be/crusty-core
 - golang
   - https://github.com/gocolly/colly
+  - https://github.com/geziyor/geziyor
 
 ### The state of Rust GUI libraries
 
