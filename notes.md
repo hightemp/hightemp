@@ -1,6 +1,13 @@
 
 ## Остальное
 
+### web-crawler
+
+- rust
+  - https://github.com/let4be/crusty-core
+- golang
+  - https://github.com/gocolly/colly
+
 ### The state of Rust GUI libraries
 
 - https://github.com/tauri-apps/tauri
