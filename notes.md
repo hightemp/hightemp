@@ -4,6 +4,7 @@
 ### Мобильная разработка на vue
 
 - https://vue-native.io/
+- https://nativescript-vue.org/
 
 ### Golang webassembly
 
