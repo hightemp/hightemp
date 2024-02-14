@@ -1,6 +1,13 @@
 
 ## Остальное
 
+### Golang webassembly
+
+- https://github.com/hexops/vecty
+- https://github.com/vugu/vugu
+- https://github.com/enimatek-nl/tango
+- https://github.com/maxence-charriere/go-app
+
 ### web scrapping сервисы
 
 - https://www.zenrows.com
