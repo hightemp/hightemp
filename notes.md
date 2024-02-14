@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Мобильная разработка на vue
+
+- https://vue-native.io/
+
 ### Golang webassembly
 
 - https://github.com/hexops/vecty
