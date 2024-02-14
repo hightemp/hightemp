@@ -218,6 +218,7 @@ To run the 7B model in full precision, you need 7 * 4 = 28GB of GPU RAM.
 - https://services.vsegpt.ru:6400/?model=openai%2Fgpt-3.5-turbo
 - https://services.vsegpt.ru:6400/Image_processing?model=vis-google%2Fgemini-pro-vision
 - https://services.vsegpt.ru:5002/
+- https://llava.hliu.cc/
 - https://chat.vsegpt.ru/
 - https://www.blackbox.ai/
 - https://www.coze.com/
