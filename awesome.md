@@ -53,6 +53,7 @@
 
 ## Статьи
 
+- https://winitpro.ru/index.php/2019/11/19/oshibka-too-many-open-files-v-linux/
 - https://lilianweng.github.io/posts/2023-06-23-agent/
 - https://medium.com/@yulemoon/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792
 
