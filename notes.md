@@ -1,6 +1,29 @@
 
 ## Остальное
 
+### Фреймворки на vue
+
+- https://madewithvuejs.com/go/nuxt-js
+- https://madewithvuejs.com/go/vuepress
+- https://madewithvuejs.com/go/vue-storefront
+  - https://madewithvuejs.com/go/storefront-ui
+- https://madewithvuejs.com/go/vuetifyjs
+- https://madewithvuejs.com/go/quasar-framework
+- https://madewithvuejs.com/go/primevue
+- https://madewithvuejs.com/go/element-ui
+  - https://madewithvuejs.com/go/element-plus
+- https://madewithvuejs.com/go/naive-ui
+- https://madewithvuejs.com/go/headless-ui-vue
+  - https://madewithvuejs.com/go/nuxtlabs-ui
+- https://madewithvuejs.com/go/radix-vue
+  - https://madewithvuejs.com/go/shadcn-vue
+- https://madewithvuejs.com/go/vue-ant-design
+- https://madewithvuejs.com/go/buefy
+  - https://madewithvuejs.com/go/oruga
+- https://madewithvuejs.com/go/ionic-vue
+- https://madewithvuejs.com/go/framework-7
+- https://madewithvuejs.com/go/onsen-ui
+
 ### Мобильная разработка на vue
 
 - https://vue-native.io/
