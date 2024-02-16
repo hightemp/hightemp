@@ -7,3 +7,7 @@
   - Oxc - Oxidation Compiler, создающий коллекцию высокопроизводительных инструментов для JavaScript и TypeScript, включая парсер, линтер, форматтер, транспайлер, минификатор, резольвер и многое другое, все написанное на Rust.
   - Репозиторий: https://github.com/oxc-project/oxc
   - Сайт: https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html
+- **tailwind**
+  - A utility-first CSS framework for rapidly building custom user interfaces.
+  - Репозиторий: https://github.com/tailwindlabs/tailwindcss
+  - Сайт: https://tailwindcss.com/
