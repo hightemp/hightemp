@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/karimould/awesome-js-tooling-in-rust
 - https://github.com/Awesome-Windows/Awesome
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/public-apis/public-apis
