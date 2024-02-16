@@ -138,7 +138,6 @@ marin        soft nofile 1024
 
 ```
 lsof | awk '{print $1}' | sort | uniq -c | sort -nr | head
-lsof|awk '{print $9}'|sort|uniq|wc -l
 ```
 
 Эта команда:
