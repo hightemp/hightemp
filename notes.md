@@ -3,11 +3,21 @@
 
 ### SDR приемники
 
-- HackRF 300$
-- bladeRF 400$
-- UmTRX 675$
-- USRP B100 Starter/B200 1500$
+- HackRF - 300$
+- bladeRF - 400$  
+- UmTRX - 675$
+- USRP B100 Starter/B200 - 1500$
 - LimeSDR
+- XTRX CS  
+- XTRX Pro
+- USRP B2x0
+- bladeRF Micro 2.0
+- LimeSDR Mini
+- Red Pitaya SDRlab122-16
+- RTL-SDR R820T2
+- RTL-SDR E4000
+- ADALM-Pluto
+- New Horizons
 
 ### Rust - Frontend web frameworks and WebAssembly
 
