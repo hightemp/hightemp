@@ -1,6 +1,14 @@
 
 ## Остальное
 
+### SDR приемники
+
+- HackRF 300$
+- bladeRF 400$
+- UmTRX 675$
+- USRP B100 Starter/B200 1500$
+- LimeSDR
+
 ### Rust - Frontend web frameworks and WebAssembly
 
 - https://github.com/koute/stdweb
