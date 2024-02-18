@@ -1,7 +1,11 @@
 
 ## Остальное
 
-### RSS фиды
+### Новостные API
+
+- https://newsapi.org/
+
+### Новостные RSS фиды
 
 - https://reddit.com/r/programming.rss
 - https://www.theguardian.com/world/rss
