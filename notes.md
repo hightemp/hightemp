@@ -1,6 +1,16 @@
 
 ## Остальное
 
+### Rust - Frontend web frameworks and WebAssembly
+
+- https://github.com/koute/stdweb
+- https://yew.rs/
+- https://chinedufn.github.io/percy/
+- https://github.com/ivanceras/sauron
+- https://dioxuslabs.com/
+- https://iced.rs/
+- https://tauri.studio/
+
 ### Фреймворки на vue
 
 - https://madewithvuejs.com/go/nuxt-js
