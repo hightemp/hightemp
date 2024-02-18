@@ -1,7 +1,16 @@
 
 ## Остальное
 
-### Заметки
+### RSS фиды
+
+- https://reddit.com/r/programming.rss
+- https://www.theguardian.com/world/rss
+- https://feeds.a.dj.com/rss/RSSWorldNews.xml
+- http://rss.nytimes.com/services/xml/rss/nyt/World.xml
+- http://feeds.washingtonpost.com/rss/world
+- https://www.ft.com/?format=rss
+
+### Ведение заметок
 
 - https://notebooklm.google/
 
