@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/dair-ai/ML-YouTube-Courses
 - https://github.com/AboutRSS/ALL-about-RSS
 - https://github.com/uhub/awesome-javascript
 - https://github.com/sorrycc/awesome-javascript
