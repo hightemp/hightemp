@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Заметки
+
+- https://notebooklm.google/
+
 ### SDR приемники
 
 - HackRF - 300$
