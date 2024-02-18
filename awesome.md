@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/surrealdb/awesome-surreal
 - https://github.com/dair-ai/ML-YouTube-Courses
 - https://github.com/AboutRSS/ALL-about-RSS
 - https://github.com/uhub/awesome-javascript
