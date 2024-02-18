@@ -259,6 +259,7 @@ To run the 7B model in full precision, you need 7 * 4 = 28GB of GPU RAM.
 - https://www.coze.com/
 - http://cody.dev https://sourcegraph.com/cody/chat
 - https://www.together.ai/
+- https://app.nextchat.dev/#/chat
 
 ### Rust - Обучающие материалы
 
