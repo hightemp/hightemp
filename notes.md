@@ -4,6 +4,7 @@
 ### Новостные API
 
 - https://newsapi.org/
+- https://rapidapi.com/collection/news-article-extractor-api
 
 ### Новостные RSS фиды
 
