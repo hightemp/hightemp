@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/andreia/awesome-symfony
 - https://github.com/sitepoint-editors/awesome-symfony
 - https://github.com/uhub/awesome-php
 - https://github.com/ziadoz/awesome-php
