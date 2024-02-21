@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/uhub/awesome-php
 - https://github.com/ziadoz/awesome-php
 - https://github.com/jetli/awesome-yew
 - https://github.com/surrealdb/awesome-surreal
