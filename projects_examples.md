@@ -127,6 +127,10 @@
 
 - Lofimusic.app - установочное веб-приложение (PWA), предоставляющее список и отображение популярных Lo-Fi радиостанций на YouTube. https://github.com/maxence-charriere/lofimusic
 
+## go/c
+
+- FrankenPHP - это современный сервер приложений для PHP, построенный на основе веб-сервера Caddy, предоставляющий мощные функции, такие как Early Hints, режим worker, поддержка реального времени, автоматический HTTPS, поддержка HTTP/2 и HTTP/3, ускоряя проекты Symfony и Laravel. https://github.com/dunglas/frankenphp
+
 ## go
 
 - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files https://github.com/rclone/rclone
