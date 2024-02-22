@@ -1,3 +1,10 @@
+## Все функции, которые могут остановить горутину:
+
+runtime.Gosched
+runtime.gopark
+runtime.notesleep
+runtime.Goexit
+
 ## Какие типы данных используются в Go?
 Go работает со следующими типами:
 
