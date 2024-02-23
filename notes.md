@@ -9,6 +9,10 @@
 - https://github.com/imthaghost/goclone
 - https://github.com/pagecarton/website-downloader
 - https://github.com/cornelk/goscrape
+- https://github.com/Y2Z/monolith
+- https://github.com/gnir-work/node-site-downloader
+- https://github.com/jalagamv/Download-Website-Copier-Project-in-JAVA
+- https://github.com/badrshs/Website-Downloader
 
 ### Зеркалирование сайта
 
