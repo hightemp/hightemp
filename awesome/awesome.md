@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/lorien/awesome-web-scraping
 - https://github.com/andreia/awesome-symfony
 - https://github.com/sitepoint-editors/awesome-symfony
 - https://github.com/uhub/awesome-php
