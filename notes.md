@@ -18,6 +18,8 @@
 - https://github.com/bellingcat/auto-archiver
 - https://github.com/oduwsdl/archivenow
 - https://github.com/TarekJor/bookmark-archiver
+- https://github.com/davidfstr/Crystal-Web-Archiver
+- https://github.com/antsanchez/go-download-web
 
 ### Зеркалирование сайта
 
