@@ -1,6 +1,15 @@
 
 ## Остальное
 
+### Архиваторы сайтов(копирование сайтов)
+
+- https://github.com/ArchiveBox/ArchiveBox
+- https://sourceforge.net/projects/getleftdown/
+- https://github.com/AhmadIbrahiim/Website-downloader
+- https://github.com/imthaghost/goclone
+- https://github.com/pagecarton/website-downloader
+- https://github.com/cornelk/goscrape
+
 ### Зеркалирование сайта
 
 - `wget -mpkP ./local $URL`
