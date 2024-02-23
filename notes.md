@@ -13,6 +13,11 @@
 - https://github.com/gnir-work/node-site-downloader
 - https://github.com/jalagamv/Download-Website-Copier-Project-in-JAVA
 - https://github.com/badrshs/Website-Downloader
+- https://github.com/webrecorder/pywb
+- https://github.com/webrecorder/replayweb.page
+- https://github.com/bellingcat/auto-archiver
+- https://github.com/oduwsdl/archivenow
+- https://github.com/TarekJor/bookmark-archiver
 
 ### Зеркалирование сайта
 
