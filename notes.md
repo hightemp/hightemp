@@ -1,6 +1,11 @@
 
 ## Остальное
 
+### Зеркалирование сайта
+
+- `wget -mpkP ./local $URL`
+- `wget -E -H -k -K -nd -N -p -P . http://www.domain.com`
+
 ### Новостные API
 
 - https://newsapi.org/
