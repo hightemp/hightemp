@@ -769,7 +769,7 @@
 - SearXNG - это метапоиск с уважением к приватности https://github.com/searxng/searxng
 - Archivematica - это веб- и стандартное приложение с открытым исходным кодом от Artefactual, предназначенное для обеспечения долгосрочного доступа к надежному, аутентичному и надежному цифровому контенту, ориентированное на архивистов, библиотекарей и всех, кто занимается сохранением цифровых объектов. https://github.com/artefactual/archivematica
 
-# python/angular
+## python/angular
 
 - Ajenti (Ajenti) - это модульная панель администратора сервера для Linux и BSD. Ajenti 2 предоставляет новый интерфейс и лучшую архитектуру, разработанные на Python3 и AngularJS. https://github.com/ajenti/ajenti
 
