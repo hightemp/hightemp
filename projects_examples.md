@@ -28,6 +28,7 @@
 - CustomerOS - платформа для разработки приложений, ориентированных на клиента, которая обеспечивает простоту сбора, хранения и построения приложений на основе данных о клиентах. https://github.com/openline-ai/openline-customer-os
 - Encodarr - это самостоятельное веб-приложение, которое использует распределенные вычисления для преобразования видеофайлов в целевой формат. https://github.com/BrenekH/encodarr
 - Простая веб-платформа для продажи видео по запросу.  Создано на Go и React — NextJS https://github.com/polldo/govod
+- Динамичная многопользовательская аркадная игра, созданная с использованием Go, Javascript и WebSockets. https://github.com/ubclaunchpad/bumper
 
 ## go/react/python
 
