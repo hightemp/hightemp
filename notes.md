@@ -74,6 +74,7 @@
 
 ### Фреймворки на vue
 
+- https://github.com/radix-vue/radix-vue
 - https://madewithvuejs.com/go/nuxt-js
 - https://madewithvuejs.com/go/vuepress
 - https://madewithvuejs.com/go/vue-storefront
