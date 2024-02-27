@@ -257,6 +257,10 @@
 
 - Revolt is an open source user-first chat platform. You can find links to useful resources about the project below. https://github.com/revoltchat/backend https://github.com/revoltchat/frontend
 
+## rust/react
+
+- Delicate - это легковесная и распределенная платформа планирования задач, написанная на Rust, предлагающая гибкие операции с задачами, высокую доступность, производительность, наблюдаемость и управление разрешениями через функционал, такой как удобный пользовательский интерфейс, гибкие настройки задач, неограниченное горизонтальное масштабирование, и поддержка RESTful API для поддержки пользовательских задач. https://github.com/BinChengZhao/delicate
+
 ## rust/react/svelte
 
 - AtomicServer - легкий, но мощный CMS / графовая база данных для создания, обмена, получения и моделирования Atomic Data (атомарных данных) с поддержкой пользовательских моделей данных, полнотекстового поиска и синхронизации в реальном времени. https://github.com/atomicdata-dev/atomic-server/
