@@ -7,6 +7,7 @@
 - https://github.com/mafredri/cdp
 - https://github.com/sensepost/gowitness
 - https://github.com/kbinani/screenshot
+- https://github.com/chromedp/chromedp
 
 ### MySQL docker
 
