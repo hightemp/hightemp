@@ -21,3 +21,4 @@
 
 - https://github.com/CodelyTV/php-ddd-example
 - https://github.com/jorge07/ddd-playground
+- https://github.com/ilyachase/monolith-decoupling-example
