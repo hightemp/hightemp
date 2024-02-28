@@ -256,6 +256,7 @@
 ## rust/solidjs
 
 - Revolt is an open source user-first chat platform. You can find links to useful resources about the project below. https://github.com/revoltchat/backend https://github.com/revoltchat/frontend
+- Проект Learn-Anything.xyz представляет собой исследование связей и формирование обучающих путей для организации мирового знания, ставя перед собой целью стать лучшим инструментом для отслеживания имеющихся знаний, идей, желаемого усвоения новой информации, определения пробелов в знаниях и оптимального способа их заполнения, с акцентом на использовании технологий и совместном развитии со всеми участниками проекта через активное коммуникация на платформе Discord. https://github.com/learn-anything/learn-anything.xyz
 
 ## rust/react
 
