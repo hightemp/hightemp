@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Golang: Снимки веб-страницы
+
+- https://github.com/tebeka/selenium
+
 ### MySQL docker
 
 - https://colton68.medium.com/dockerizing-your-mysql-database-benefits-and-how-to-48677faca592
