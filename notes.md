@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### MySQL docker
+
+- https://colton68.medium.com/dockerizing-your-mysql-database-benefits-and-how-to-48677faca592
+
 ### Тема: база в докере
 
 - https://patrobinson.github.io/2016/11/07/thou-shalt-not-run-a-database-inside-a-container/
