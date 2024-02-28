@@ -3,6 +3,7 @@
 
 ### Тема: база в докере
 
+- https://devops.stackexchange.com/questions/1293/what-are-the-reasons-docker-should-not-be-used-for-databases
 - https://vsupalov.com/database-in-docker/
 - https://www.reddit.com/r/docker/comments/18an6oc/should_i_put_my_database_in_docker/
 
