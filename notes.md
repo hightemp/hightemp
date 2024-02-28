@@ -5,6 +5,8 @@
 
 - https://github.com/tebeka/selenium
 - https://github.com/mafredri/cdp
+- https://github.com/sensepost/gowitness
+- https://github.com/kbinani/screenshot
 
 ### MySQL docker
 
