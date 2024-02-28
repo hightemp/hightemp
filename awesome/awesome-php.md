@@ -16,3 +16,4 @@
 #### Примеры приложений
 
 - https://github.com/CodelyTV/php-ddd-example
+- https://github.com/jorge07/ddd-playground
