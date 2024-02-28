@@ -1,3 +1,6 @@
+### Коллекции
+
+- https://github.com/anikghosh256/laravel-best-practices
 
 ### Сайты со статьями
 
