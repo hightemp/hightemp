@@ -4,6 +4,7 @@
 ### Тема: база в докере
 
 - https://vsupalov.com/database-in-docker/
+- https://www.reddit.com/r/docker/comments/18an6oc/should_i_put_my_database_in_docker/
 
 ### Хелперы для переноса настроек
 
