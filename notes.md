@@ -4,6 +4,7 @@
 ### Golang: Снимки веб-страницы
 
 - https://github.com/tebeka/selenium
+- https://github.com/mafredri/cdp
 
 ### MySQL docker
 
