@@ -9,6 +9,7 @@
 #### Статьи
 
 - https://medium.com/@CleytonBonamigo/understanding-domain-driven-design-ddd-and-its-benefits-in-php-development-b4134fa312c
+- https://leanpub.com/ddd-in-php/read
 
 #### Примеры приложений
 
