@@ -1,6 +1,8 @@
 ### Коллекции
 
 - https://github.com/anikghosh256/laravel-best-practices
+- https://phptherightway.com/
+- https://github.com/codeguy/php-the-right-way
 
 ### Сайты со статьями
 
