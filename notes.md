@@ -68,6 +68,7 @@
 
 ### Rust - Frontend web frameworks and WebAssembly
 
+- https://github.com/leptos-rs/leptos
 - https://github.com/koute/stdweb
 - https://yew.rs/
 - https://chinedufn.github.io/percy/
