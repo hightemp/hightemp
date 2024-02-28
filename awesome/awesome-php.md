@@ -4,6 +4,7 @@
 
 ### Материалы для подготовки
 
+- https://backendinterview.ru/
 - https://phptherightway.com/
 - https://github.com/codeguy/php-the-right-way
 - https://getjump.github.io/ru-php-the-right-way/
