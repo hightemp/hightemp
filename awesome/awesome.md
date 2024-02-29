@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/stepci/awesome-api-clients
 - https://github.com/iipc/awesome-web-archiving
 - https://github.com/lorien/awesome-web-scraping
 - https://github.com/andreia/awesome-symfony
