@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Анализ сайтов
+
+- https://github.com/Lissy93/web-check
+
 ### Тестирование API
 
 - https://github.com/ArchGPT/insomnium
