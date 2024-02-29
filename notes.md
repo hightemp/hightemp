@@ -7,6 +7,10 @@
 - https://github.com/Kong/insomnia
 - https://github.com/hoppscotch/hoppscotch
 - https://github.com/httpie/desktop#linux
+- https://github.com/flawiddsouza/Restfox
+- https://github.com/TommyLemon/APIAuto
+- https://github.com/getezy/ezy
+- https://github.com/akto-api-security/akto
 
 ### Golang: Снимки веб-страницы
 
