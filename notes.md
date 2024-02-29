@@ -5,7 +5,13 @@
 
 - https://github.com/ArchGPT/insomnium
 - https://github.com/Kong/insomnia
+- https://github.com/firecamp-dev/firecamp
+- https://github.com/RecipeUI/RecipeUI
 - https://github.com/hoppscotch/hoppscotch
+- https://github.com/fullstorydev/grpcui
+- https://github.com/EsperoTech/yaade
+- https://github.com/usebruno/bruno
+- https://github.com/foss42/apidash
 - https://github.com/httpie/desktop#linux
 - https://github.com/flawiddsouza/Restfox
 - https://github.com/TommyLemon/APIAuto
@@ -14,7 +20,6 @@
 - https://github.com/sharat87/prestige
 - https://github.com/alexandrehtrb/Pororoca
 - https://github.com/rohinivsenthil/postcode
-- 
 
 ### Golang: Снимки веб-страницы
 
