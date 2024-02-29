@@ -1,6 +1,13 @@
 
 ## Остальное
 
+### Тестирование API
+
+- https://github.com/ArchGPT/insomnium
+- https://github.com/Kong/insomnia
+- https://github.com/hoppscotch/hoppscotch
+- https://github.com/httpie/desktop#linux
+
 ### Golang: Снимки веб-страницы
 
 - https://github.com/tebeka/selenium
@@ -513,6 +520,7 @@ fc-cache -fv
 - https://github.com/mock-server/mockserver
   - https://www.mock-server.com/
 - https://github.com/mocks-server/main
+- https://github.com/stoplightio/prism
 
 ### Менеджеры запросов (API)
 
