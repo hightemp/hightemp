@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Golang: Разработка приложений
+
+- https://habr.com/ru/articles/793166/
+
 ### Полезное по архитектуре разработки софта
 
 - https://github.com/mehdihadeli/awesome-software-architecture
