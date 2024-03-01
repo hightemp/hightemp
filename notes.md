@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Полезное по SecOps
+
+- https://github.com/microsoft/Security-101
+
 ### Windows в docker
 
 - https://github.com/dockur/windows
