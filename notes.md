@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Полезное по архитекторе софт разработки
+
+- https://github.com/mehdihadeli/awesome-software-architecture
+
 ### Полезное по SecOps
 
 - https://github.com/microsoft/Security-101
