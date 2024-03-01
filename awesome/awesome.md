@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/heynickc/awesome-ddd
 - https://github.com/andredesousa/devops-best-practices
 - https://github.com/stepci/awesome-api-clients
 - https://github.com/iipc/awesome-web-archiving
