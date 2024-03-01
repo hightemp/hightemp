@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Полезное по DevOps
+
+- https://github.com/andredesousa/devops-best-practices
+
 ### Анализ сайтов
 
 - https://github.com/Lissy93/web-check
