@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Windows в docker
+
+- https://github.com/dockur/windows
+
 ### Полезное по DevOps
 
 - https://github.com/milanm/DevOps-Roadmap
