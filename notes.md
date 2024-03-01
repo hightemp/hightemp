@@ -4,6 +4,7 @@
 ### Полезное по DevOps
 
 - https://github.com/andredesousa/devops-best-practices
+- https://github.com/PacktPublishing/Modern-DevOps-Practices
 
 ### Анализ сайтов
 
