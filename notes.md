@@ -5,6 +5,7 @@
 
 - https://github.com/mehdihadeli/awesome-software-architecture
 - https://github.com/Sairyss/backend-best-practices
+- https://github.com/heynickc/awesome-ddd
 
 ### Полезное по SecOps
 
