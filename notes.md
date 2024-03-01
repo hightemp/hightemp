@@ -1,9 +1,10 @@
 
 ## Остальное
 
-### Полезное по архитекторе софт разработки
+### Полезное по архитектуре разработки софта
 
 - https://github.com/mehdihadeli/awesome-software-architecture
+- https://github.com/Sairyss/backend-best-practices
 
 ### Полезное по SecOps
 
