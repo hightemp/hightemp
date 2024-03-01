@@ -583,6 +583,10 @@ fc-cache -fv
   - https://play.google.com/store/apps/details?id=net.defined.mobile_nebula&hl=en_US
   - https://github.com/slackhq/nebula
 
+## Сертификаты
+
+- https://github.com/cloudcommunity/Free-Certifications
+
 ## Пагинация
 
 **Пагинация смещением** - это подход, при котором данные разбиваются на страницы с определенным количеством элементов на странице. При переключении на следующую страницу происходит смещение (offset) на определенное количество элементов (limit).
