@@ -3,6 +3,7 @@
 
 ### Полезное по DevOps
 
+- https://github.com/wmariuss/awesome-devops
 - https://github.com/andredesousa/devops-best-practices
 - https://github.com/PacktPublishing/Modern-DevOps-Practices
 - https://github.com/PacktPublishing/Modern-DevOps-Practices-2e
