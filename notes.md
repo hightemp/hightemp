@@ -6,6 +6,7 @@
 - https://github.com/andredesousa/devops-best-practices
 - https://github.com/PacktPublishing/Modern-DevOps-Practices
 - https://github.com/PacktPublishing/Modern-DevOps-Practices-2e
+- https://github.com/AdamPaternostro/DevOps-Best-Practices
 - https://github.com/MicrosoftDocs/azure-devops-docs
 
 ### Анализ сайтов
