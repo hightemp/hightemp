@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Rust: материалы для обучения
+
+- https://github.com/ctjhoa/rust-learning
+
 ### Golang: Разработка приложений
 
 - https://habr.com/ru/articles/793166/
