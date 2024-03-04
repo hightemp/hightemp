@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/dictcp/awesome-git
 - https://theresanaiforthat.com/
 - https://github.com/uhub/awesome-css
 - https://github.com/aniftyco/awesome-tailwindcss
@@ -72,6 +73,11 @@
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/karanpratapsingh/system-design
 - https://github.com/ByteByteGoHq/system-design-101
+
+## Сайты со статьями, журналы
+
+- https://devops.com/
+- 
 
 ## Статьи
 
