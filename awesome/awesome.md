@@ -54,6 +54,7 @@
 
 ## Книги
 
+- https://github.com/EbookFoundation/free-programming-books
 - https://github.com/stas00/ml-engineering
 
 ## Курсы
