@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/kevindeasis/awesome-ui
 - https://github.com/freznicek/awesome-awk
 - https://github.com/heynickc/awesome-ddd
 - https://github.com/andredesousa/devops-best-practices
