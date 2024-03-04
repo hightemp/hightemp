@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/awesome-css-group/awesome-css
 - https://github.com/wasabeef/awesome-android-ui
 - https://github.com/kevindeasis/awesome-ui
 - https://github.com/freznicek/awesome-awk
