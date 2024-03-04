@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://theresanaiforthat.com/
 - https://github.com/uhub/awesome-css
 - https://github.com/aniftyco/awesome-tailwindcss
 - https://github.com/awesome-css-group/awesome-css
