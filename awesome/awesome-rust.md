@@ -11,6 +11,8 @@
 
 - Top 65 Rust Interview Questions
   - https://github.com/Devinterview-io/rust-interview-questions
+- Learning Rust through Interview Questions
+  - https://github.com/brianquinlan/learn-rust
 
 ### Сайты со статьями
 
