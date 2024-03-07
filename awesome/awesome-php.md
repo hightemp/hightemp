@@ -18,6 +18,11 @@
 
 - https://codeception.com/
 
+### Вопросы
+
+- Собеседование на PHP разработчика. Более 100 вопросов для Junior, Middle и Senior
+  - https://habr.com/ru/sandbox/151396/
+
 ### DDD
 
 #### Статьи
