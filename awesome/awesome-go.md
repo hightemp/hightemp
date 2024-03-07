@@ -1,1 +1,5 @@
-# Заметки для golang
+
+### Коллекции
+
+- https://github.com/avelino/awesome-go
+- https://awesome-go.com/
