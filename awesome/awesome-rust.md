@@ -7,6 +7,11 @@
 - https://awesomerank.github.io/lists/rust-unofficial/awesome-rust.html
 - https://awesome-rust.com/
 
+### Вопросы
+
+- Top 50 API Design Interview Questions
+  - https://github.com/Devinterview-io/rust-interview-questions
+
 ### Сайты со статьями
 
 - https://rust-trends.com/
