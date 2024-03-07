@@ -15,6 +15,8 @@
   - https://github.com/brianquinlan/learn-rust
 - Rust Interview Handbook
   - https://github.com/imhq/rust-interview-handbook
+- RUST GYM Rust Solutions
+  - https://github.com/warycat/rustgym
 
 ### Сайты со статьями
 
