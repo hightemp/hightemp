@@ -9,6 +9,8 @@
   - https://itvdn.com/ru/blog/article/300-js
 - JavaScript Interview Questions & Answers
   - https://github.com/sudheerj/javascript-interview-questions
+- Top 58 Express.js Interview Questions
+  - https://github.com/Devinterview-io/express-interview-questions
 - **react**
   - Вопросы для собеседования по базовым понятиям React
     - https://habr.com/ru/sandbox/154032/  
