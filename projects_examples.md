@@ -1158,3 +1158,4 @@
 - StreamDiffusion представляет собой инновационный конвейерный метод диффузии, разработанный для генерации изображений в режиме реального времени, существенно улучшающий производительность существующих техник генерации изображений на основе диффузии. https://github.com/cumulo-autumn/StreamDiffusion
 - Проект SonyTranslate представляет собой удобное и мощное веб-приложение, которое позволяет легко переводить видео на различные языки с синхронизированным аудио, основанное на библиотеке Gradio. https://github.com/R3gm/SoniTranslate
 - DUSt3R - официальная реализация проекта DUSt3R: Упрощенное создание геометрического 3D видения, представлен официальная реализация DUSt3R в виде реконструкции по двум изображениям с обзором его способностей и возможностей. https://github.com/naver/dust3r
+- Browser extension and cross-platform desktop application for translation based on ChatGPT API. https://github.com/openai-translator/openai-translator
