@@ -20,6 +20,8 @@
 
 ### Вопросы
 
+- 100 Must-Know PHP Interview Questions
+  - https://github.com/Devinterview-io/php-interview-questions
 - Собеседование на PHP разработчика. Более 100 вопросов для Junior, Middle и Senior
   - https://habr.com/ru/sandbox/151396/
 - Собеседование php-developer (вопросы и ответы)
