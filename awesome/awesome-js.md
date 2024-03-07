@@ -11,3 +11,5 @@
   - https://github.com/AndrewMosh/react_interview_cheatsheet
 - Вопросы на собеседовании фронтенд разработчика React.js
   - https://github.com/likezninjaz/react-ru-interview-questions
+- 70 лучших вопросов и ответов на собеседовании по React JS
+  - https://career.guru99.com/ru/reactjs-interview-questions/
