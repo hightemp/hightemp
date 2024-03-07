@@ -33,3 +33,7 @@
     - https://github.com/sudheerj/vuejs-interview-questions
   - 100 Front-end Interview Questions and Answers
     - https://blog.stackademic.com/100-front-end-interview-questions-and-answers-62169bd2a010
+  - Top 100 Vue.js Interview Questions
+    - https://github.com/Devinterview-io/vue-interview-questions
+  - Vue JS Interview Questions
+    - https://www.interviewbit.com/vue-js-interview-questions/
