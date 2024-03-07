@@ -26,6 +26,8 @@
   - https://habr.com/ru/sandbox/151396/
 - Собеседование php-developer (вопросы и ответы)
   - https://habr.com/ru/articles/520472/
+- PHP Developer Interview: What you should know
+  - https://gist.github.com/messified/6381844
 
 ### DDD
 
