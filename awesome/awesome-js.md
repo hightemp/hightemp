@@ -27,3 +27,5 @@
     - https://github.com/magisters-cc/vuejs-interview-questions-russian
   - 8 худших вопросов на собеседовании по Vue.js
     - https://habr.com/ru/companies/constanta/articles/435700/
+  - Vue.js interview questions and answers in 2024
+    - https://www.turing.com/interview-questions/vue-js
