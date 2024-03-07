@@ -25,3 +25,5 @@
     - https://itanddigital.ru/vuejs
   - Вопросы для собеседования VueJS разработчика
     - https://github.com/magisters-cc/vuejs-interview-questions-russian
+  - 8 худших вопросов на собеседовании по Vue.js
+    - https://habr.com/ru/companies/constanta/articles/435700/
