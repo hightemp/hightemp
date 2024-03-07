@@ -7,3 +7,5 @@
   - https://www.guru99.com/ru/javascript-interview-questions-answers.html
 - 300+ ВОПРОСОВ ПО JAVASCRIPT НА СОБЕСЕДОВАНИИ
   - https://itvdn.com/ru/blog/article/300-js
+- react_interview_cheatsheet
+  - https://github.com/AndrewMosh/react_interview_cheatsheet
