@@ -13,6 +13,8 @@
   - https://github.com/Devinterview-io/rust-interview-questions
 - Learning Rust through Interview Questions
   - https://github.com/brianquinlan/learn-rust
+- Rust Interview Handbook
+  - https://github.com/imhq/rust-interview-handbook
 
 ### Сайты со статьями
 
