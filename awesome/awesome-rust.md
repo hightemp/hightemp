@@ -10,3 +10,9 @@
 ### Сайты со статьями
 
 - https://rust-trends.com/
+
+### Книги
+
+### Курсы
+
+- https://google.github.io/comprehensive-rust/index.html
