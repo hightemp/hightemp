@@ -22,6 +22,8 @@
 
 - Собеседование на PHP разработчика. Более 100 вопросов для Junior, Middle и Senior
   - https://habr.com/ru/sandbox/151396/
+- Собеседование php-developer (вопросы и ответы)
+  - https://habr.com/ru/articles/520472/
 
 ### DDD
 
