@@ -11,6 +11,8 @@
   - https://github.com/sudheerj/javascript-interview-questions
 - Top 58 Express.js Interview Questions
   - https://github.com/Devinterview-io/express-interview-questions
+- JS Developer (Angular) interview
+  - https://github.com/vladborsh/js-developer-interview
 - **react**
   - Вопросы для собеседования по базовым понятиям React
     - https://habr.com/ru/sandbox/154032/  
