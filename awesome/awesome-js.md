@@ -23,3 +23,5 @@
 - **vue**
   - Главные вопросы на собеседовании по Vue.js
     - https://itanddigital.ru/vuejs
+  - Вопросы для собеседования VueJS разработчика
+    - https://github.com/magisters-cc/vuejs-interview-questions-russian
