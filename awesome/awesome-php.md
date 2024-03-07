@@ -30,6 +30,8 @@
   - https://habr.com/ru/articles/520472/
 - PHP Developer Interview: What you should know
   - https://gist.github.com/messified/6381844
+- Вопрос на собеседованиях на позицию PHP разработчика
+  - https://github.com/whdigger/interview-php/blob/main/README.md
 
 ### DDD
 
