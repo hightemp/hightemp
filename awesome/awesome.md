@@ -60,6 +60,7 @@
 ## Вопросы (интервью)
 
 - https://github.com/DopplerHQ/awesome-interview-questions
+- https://github.com/framgia/awesome-interviews
 
 ## Kickstart
 
