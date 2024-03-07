@@ -16,3 +16,5 @@
     - https://career.guru99.com/ru/reactjs-interview-questions/
   - Top 100+ React Interview Questions You Must Prepare In 2024
     - https://www.edureka.co/blog/interview-questions/react-interview-questions/
+  - 45 вопросов для подготовки к собеседованию по React
+    - https://proglib.io/p/45-voprosov-dlya-podgotovki-k-sobesedovaniyu-po-react-2023-11-27
