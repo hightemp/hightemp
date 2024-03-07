@@ -8,6 +8,8 @@
 - 300+ ВОПРОСОВ ПО JAVASCRIPT НА СОБЕСЕДОВАНИИ
   - https://itvdn.com/ru/blog/article/300-js
 - **react**
+  - Вопросы для собеседования по базовым понятиям React
+    - https://habr.com/ru/sandbox/154032/  
   - react_interview_cheatsheet
     - https://github.com/AndrewMosh/react_interview_cheatsheet
   - Вопросы на собеседовании фронтенд разработчика React.js
