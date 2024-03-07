@@ -44,6 +44,7 @@
 
 ### Коллекции
 
+- https://js.libhunt.com/
 - https://vk.com/love_frontend
 
 ### Видео
