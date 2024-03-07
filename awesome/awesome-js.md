@@ -31,3 +31,5 @@
     - https://www.turing.com/interview-questions/vue-js
   - vuejs-interview-questions
     - https://github.com/sudheerj/vuejs-interview-questions
+  - 100 Front-end Interview Questions and Answers
+    - https://blog.stackademic.com/100-front-end-interview-questions-and-answers-62169bd2a010
