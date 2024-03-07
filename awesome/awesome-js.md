@@ -37,3 +37,7 @@
     - https://github.com/Devinterview-io/vue-interview-questions
   - Vue JS Interview Questions
     - https://www.interviewbit.com/vue-js-interview-questions/
+
+### Коллекции
+
+- https://vk.com/love_frontend
