@@ -29,3 +29,5 @@
     - https://habr.com/ru/companies/constanta/articles/435700/
   - Vue.js interview questions and answers in 2024
     - https://www.turing.com/interview-questions/vue-js
+  - vuejs-interview-questions
+    - https://github.com/sudheerj/vuejs-interview-questions
