@@ -7,6 +7,8 @@
   - https://www.guru99.com/ru/javascript-interview-questions-answers.html
 - 300+ ВОПРОСОВ ПО JAVASCRIPT НА СОБЕСЕДОВАНИИ
   - https://itvdn.com/ru/blog/article/300-js
+- JavaScript Interview Questions & Answers
+  - https://github.com/sudheerj/javascript-interview-questions
 - **react**
   - Вопросы для собеседования по базовым понятиям React
     - https://habr.com/ru/sandbox/154032/  
