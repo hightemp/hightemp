@@ -20,3 +20,6 @@
     - https://www.edureka.co/blog/interview-questions/react-interview-questions/
   - 45 вопросов для подготовки к собеседованию по React
     - https://proglib.io/p/45-voprosov-dlya-podgotovki-k-sobesedovaniyu-po-react-2023-11-27
+- **vue**
+  - Главные вопросы на собеседовании по Vue.js
+    - https://itanddigital.ru/vuejs
