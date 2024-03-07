@@ -41,3 +41,7 @@
 ### Коллекции
 
 - https://vk.com/love_frontend
+
+### Видео
+
+- https://www.youtube.com/watch?v=SoS35UBc5dA
