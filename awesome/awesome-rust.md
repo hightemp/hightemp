@@ -9,7 +9,7 @@
 
 ### Вопросы
 
-- Top 50 API Design Interview Questions
+- Top 65 Rust Interview Questions
   - https://github.com/Devinterview-io/rust-interview-questions
 
 ### Сайты со статьями
