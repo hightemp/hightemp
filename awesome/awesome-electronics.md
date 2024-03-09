@@ -9,3 +9,13 @@
     - https://www.waveshare.com/w/upload/7/76/Cortex-M3-Definitive-Guide-EN.pdf
 - Encyclopedia of Electronic Components Volume 1: Resistors, Capacitors, Inductors, Switches, Encoders, Relays, Transistors by Charles Platt  (Author)
     - https://vk.com/wall363612015_5779
+- ELECTRICAL ENGINEERING HANDBOOKS
+    - Chen W.-K The electrical engineering handbook
+    - Electrical installation handbook. Protection and control devices
+    - Grigsby L.L Power Systems. Electric Power Engineering Handbook
+    - Maxfield С. Electrical Engineering: Know It All
+    - Wai-Kai Chen The VLSI Handbook
+    - Alexander D. Poularikas Handbook of Formulas and Tables for Signal Processing 
+    - Mohammad Ilyas The Handbook of Optical Communication Networks
+    - Richard Dorf Electrical Engineering Handbook, Second Edition
+    - https://vk.com/wall435034075_594
