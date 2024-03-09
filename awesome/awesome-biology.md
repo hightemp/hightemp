@@ -8,3 +8,4 @@
 ### Сайты
 
 - https://biokhimija.ru/gormony/vidy-receptorov.html
+- https://metabolicpathways.stanford.edu/
