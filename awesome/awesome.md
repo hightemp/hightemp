@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/raivivek/awesome-biology
 - https://www.trackawesomelist.com/
 - https://github.com/dictcp/awesome-git
 - https://theresanaiforthat.com/
