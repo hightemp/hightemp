@@ -25,3 +25,5 @@
     - https://vk.com/wall-111303811_4909
 - Biochemical Pathways: An Atlas of Biochemistry and Molecular Biology 2nd Edition
     - https://archive.org/details/biochemicalpathw0000unse/page/n9/mode/2up
+- Principles of Neural Science (2021) Учебник по нейробиологии от Нобелевского лауреата Эрика Кандела
+    - https://vk.com/wall-71770259_14751
