@@ -923,6 +923,10 @@
 
 - PlainApp - это приложение с открытым исходным кодом, которое позволяет управлять своим телефоном через веб-браузер. С помощью PlainApp вы можете получить доступ к файлам, видео, музыке, контактам, SMS, звонкам и многому другому с рабочего стола, используя безопасный и удобный веб-интерфейс. https://github.com/ismartcoding/plain-app
 
+## ruby/ruby on rails/vue
+
+- Re:Backlogs - это инструмент для управления проектами с открытым исходным кодом. Он простой и легко используемый. Описывает проект в стиле википедии. Проект содержит термины, такие как "Backlogs", "Sprints", "Story" и "Task", обозначающие места для хранения задач, период обработки задачи, ее описание и конкретные шаги для ее выполнения. Доступен для установки через docker-compose.yml. Проект относится к классу backlogs/redmine_backlogs и YouTrack by JetBrains. Разработка ориентирована на японский модуль README.ja.md. Демонстрационный сайт доступен для тестирования. https://github.com/kaishuu0123/rebacklogs
+
 ## ruby/ruby on rails
 
 - The future Redmine you can get today — yet another distribution of a flexible project management software named Redmine https://github.com/redmica/redmica
