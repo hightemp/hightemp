@@ -2,6 +2,8 @@
 ### Сайты
 
 - Справочники химических реакций
+    - https://chemequations.com/en/
+    - https://www.webqc.org/balance.php
     - Organic Chemistry Portal - Named Reactions:
         - https://www.organic-chemistry.org/namedreactions/
     - Organic Chemistry Portal - Reaction Map:
