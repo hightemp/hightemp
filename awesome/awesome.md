@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/componently-com/awesome-building-blocks-for-web-apps
 - https://github.com/sindresorhus/awesome
 - https://github.com/inoue0426/awesome-computational-biology
 - https://github.com/caufieldjh/awesome-bioie/
