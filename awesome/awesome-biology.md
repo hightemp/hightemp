@@ -23,3 +23,5 @@
     5. Lippincott Illustrated Reviews. Biochemistry (Ferrier) 7 ed (2017)
     6. Lippincott Illustrated Reviews Flash Cards. Biochemistry (Ferrier) 1 ed (2015)
     - https://vk.com/wall-111303811_4909
+- Biochemical Pathways: An Atlas of Biochemistry and Molecular Biology 2nd Edition
+    - https://archive.org/details/biochemicalpathw0000unse/page/n9/mode/2up
