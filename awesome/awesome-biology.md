@@ -27,3 +27,5 @@
     - https://archive.org/details/biochemicalpathw0000unse/page/n9/mode/2up
 - Principles of Neural Science (2021) Учебник по нейробиологии от Нобелевского лауреата Эрика Кандела
     - https://vk.com/wall-71770259_14751
+- Microbiology: Principles and Explorations, 8th Edition Jacquelyn G. Black
+    - https://vk.com/wall-36914872_21429
