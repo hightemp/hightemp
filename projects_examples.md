@@ -1175,3 +1175,4 @@
 - Browser extension and cross-platform desktop application for translation based on ChatGPT API. https://github.com/openai-translator/openai-translator
 - Nucleo AI Alpha - приложение-ассистент, объединяющее функции ИИ и продуктивность для эффективного использования информации и выполнения задач. https://github.com/AndrewVeee/nucleo-ai
 - Nucleo AI Researcher - это программа, предназначенная для проведения исследований на различные темы с использованием веб-ресурсов и языковой модели Nous Hermes Mistral DPO. https://github.com/AndrewVeee/nucleo-ai/blob/main/backend/app/ai_models/researcher_model.py [источник](https://www.reddit.com/r/LocalLLaMA/comments/1b8uvpw/does_free_will_exist_let_your_llm_do_the_research/)
+- OpenCodeInterpreter - учебно-исследовательский комплекс, использующий модели машинного обучения для генерации и исполнения кода. https://github.com/OpenCodeInterpreter/OpenCodeInterpreter
