@@ -52,3 +52,7 @@
 ### Видео
 
 - https://www.youtube.com/watch?v=SoS35UBc5dA
+
+### Статьи
+
+- Как работает компьютер - глубокое погружение (на примере Linux) https://my-js.org/blog/how-computer-work/#1-основы
