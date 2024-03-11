@@ -4,6 +4,10 @@
 ### Верстка писем
 
 - Инланер стилей https://templates.mailchimp.com/resources/inline-css/
+- Тестирование отправки писем
+  - https://putsmail.com/
+  - https://mailtrap.io/
+  - https://www.emailonacid.com/email-testing/
 
 ### Rust: материалы для обучения
 
