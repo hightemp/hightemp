@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/componently-com/awesome-building-blocks-for-web-apps
 - https://github.com/sindresorhus/awesome
