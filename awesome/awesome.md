@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/iamadamdev/bypass-paywalls-chrome
 - https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb
 - https://github.com/yokoffing/ChatGPT-Prompts
 - https://github.com/f/awesome-chatgpt-prompts
