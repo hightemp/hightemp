@@ -74,6 +74,10 @@
 - https://github.com/Devinterview-io/software-architecture-interview-questions
 - https://github.com/koddo/coding-interviews-prep-msk
 
+## Обход paywall
+
+- https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean
+
 ## Kickstart
 
 - https://github.com/nvim-lua/kickstart.nvim
