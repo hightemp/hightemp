@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Верстка писем
+
+- Инланер стилей https://templates.mailchimp.com/resources/inline-css/
+
 ### Rust: материалы для обучения
 
 - https://github.com/ctjhoa/rust-learning
