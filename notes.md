@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Операционная система на js
+
+- https://github.com/HeyPuter/puter
+
 ### Верстка писем
 
 - Инланер стилей https://templates.mailchimp.com/resources/inline-css/
