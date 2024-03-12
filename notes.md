@@ -16,7 +16,7 @@
 
 ### Верстка писем
 
-- Инланер стилей https://templates.mailchimp.com/resources/inline-css/
+- Инлайнер стилей https://templates.mailchimp.com/resources/inline-css/
 - Тестирование отправки писем
   - https://putsmail.com/
   - https://mailtrap.io/
