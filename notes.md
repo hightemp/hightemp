@@ -1,6 +1,11 @@
 
 ## Остальное
 
+### Биржи криптовалют
+
+- https://garantex.org/
+- https://www.bybit.com/en/
+
 ### Операционная система на js
 
 - https://github.com/HeyPuter/puter
