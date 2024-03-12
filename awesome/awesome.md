@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/public-apis/public-apis
 - https://github.com/mayakyler/link-shorteners
 - The One Billion Row Challenge https://github.com/gunnarmorling/1brc
 - https://github.com/iamadamdev/bypass-paywalls-chrome
