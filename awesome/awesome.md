@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/krishnaik06/Data-Science-Gen-AI-Playlist-2024
 - https://github.com/public-apis/public-apis
 - https://github.com/mayakyler/link-shorteners
 - The One Billion Row Challenge https://github.com/gunnarmorling/1brc
