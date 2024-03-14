@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Примеры редактора на react
+
+- https://github.com/ktsstudio/editor-react
+
 ### О микросервисах и паттернах
 
 - https://microservices.io/
