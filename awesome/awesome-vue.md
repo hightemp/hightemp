@@ -6,6 +6,7 @@
 - https://github.com/Cyanhall/awesome-vue
 - https://awesome-vue.js.org/resources/official-resources.html
 - https://github.com/iampaul83/awesome-vue
+- https://github.com/rmjordas/awesome-vue
 
 ### Фреймворки
 
