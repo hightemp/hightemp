@@ -2,6 +2,7 @@
 ### Коллекции
 
 - https://github.com/vuejs/awesome-vue
+- https://github.com/sonicoder86/awesome-vue-3
 
 ### Фреймворки
 
