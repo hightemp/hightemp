@@ -6,6 +6,7 @@
 - https://github.com/enaqx/awesome-react
 - https://github.com/brillout/awesome-react-components
 - https://github.com/huaize2020/awesome-react
+- https://github.com/toptaldev92/awesome-react
 
 ### Сайты
 
