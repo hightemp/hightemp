@@ -12,6 +12,8 @@
   - Android
     - https://github.com/2dust/v2rayNG
     - https://github.com/hiddify/HiddifyNG
+- Sing-box
+  - https://github.com/SagerNet/sing-box
 
 ### Примеры редактора на react
 
