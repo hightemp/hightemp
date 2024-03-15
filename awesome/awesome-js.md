@@ -1,3 +1,16 @@
+### Коллекции
+
+- https://awesomejs.dev/
+- https://js.libhunt.com/
+- https://vk.com/love_frontend
+
+### Видео
+
+- https://www.youtube.com/watch?v=SoS35UBc5dA
+
+### Статьи
+
+- Как работает компьютер - глубокое погружение (на примере Linux) https://my-js.org/blog/how-computer-work/#1-основы
 
 ### Вопросы
 
@@ -43,16 +56,3 @@
     - https://github.com/Devinterview-io/vue-interview-questions
   - Vue JS Interview Questions
     - https://www.interviewbit.com/vue-js-interview-questions/
-
-### Коллекции
-
-- https://js.libhunt.com/
-- https://vk.com/love_frontend
-
-### Видео
-
-- https://www.youtube.com/watch?v=SoS35UBc5dA
-
-### Статьи
-
-- Как работает компьютер - глубокое погружение (на примере Linux) https://my-js.org/blog/how-computer-work/#1-основы
