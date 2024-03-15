@@ -3,6 +3,7 @@
 - https://awesomejs.dev/
 - https://js.libhunt.com/
 - https://vk.com/love_frontend
+- https://habr.com/ru/articles/799099/
 
 ### Видео
 
