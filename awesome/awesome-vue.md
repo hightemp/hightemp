@@ -13,3 +13,7 @@
 - https://primevue.org/
 - https://quasar.dev/start/quick-start
 - https://vuetifyjs.com/en/
+
+### Слайдеры
+
+- https://github.surmon.me/vue-awesome-swiper
