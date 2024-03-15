@@ -1,6 +1,14 @@
 
 ## Остальное
 
+### Обходы блокировок
+
+- XRay
+  - Linux
+    - https://github.com/XTLS/Xray-core
+  - Android
+    - https://github.com/2dust/v2rayNG
+
 ### Примеры редактора на react
 
 - https://github.com/ktsstudio/editor-react
