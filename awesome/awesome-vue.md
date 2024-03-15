@@ -5,6 +5,7 @@
 - https://github.com/sonicoder86/awesome-vue-3
 - https://github.com/Cyanhall/awesome-vue
 - https://awesome-vue.js.org/resources/official-resources.html
+- https://github.com/iampaul83/awesome-vue
 
 ### Фреймворки
 
