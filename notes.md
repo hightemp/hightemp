@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### p2p библиотеки
+
+- https://libp2p.io/implementations/
+
 ### Диаграмы
 
 - https://dgrm.net/
