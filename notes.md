@@ -4,10 +4,14 @@
 ### Обходы блокировок
 
 - XRay
+  - https://github.com/XTLS/Xray-core
   - Linux
-    - https://github.com/XTLS/Xray-core
+    - https://github.com/v2rayA/v2rayA
+    - https://github.com/Matsuridayo/nekoray
+    - https://github.com/LorenEteval/Furious
   - Android
     - https://github.com/2dust/v2rayNG
+    - https://github.com/hiddify/HiddifyNG
 
 ### Примеры редактора на react
 
