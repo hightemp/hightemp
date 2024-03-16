@@ -1,6 +1,7 @@
 
 ### Коллекции
 
+- https://github.com/tauri-apps/awesome-tauri
 - https://github.com/ctjhoa/rust-learning
 - https://github.com/sger/RustBooks
 - https://github.com/rust-lang/rustlings
