@@ -78,6 +78,10 @@
 - https://github.com/Devinterview-io/software-architecture-interview-questions
 - https://github.com/koddo/coding-interviews-prep-msk
 
+## Заставки(Screensaver)
+
+- https://github.com/GTruf/SolarSystem-3D
+
 ## Обход paywall
 
 - https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean
