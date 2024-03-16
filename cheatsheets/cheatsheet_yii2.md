@@ -1276,3 +1276,95 @@ class TaskSearch extends Task
 
 Эта search модель может быть использована в контроллере для обработки поисковых запросов и передачи данных в представление для отображения результатов поиска задач.
 
+### Напиши все возможные примеры связей моделей (м-м, ...)
+
+Вот все возможные примеры связей моделей в Yii2:
+
+1. Один-к-одному (One-to-One):
+   ```php
+   class User extends ActiveRecord
+   {
+       public function getProfile()
+       {
+           return $this->hasOne(Profile::class, ['user_id' => 'id']);
+       }
+   }
+   ```
+
+2. Один-ко-многим (One-to-Many):
+   ```php
+   class User extends ActiveRecord
+   {
+       public function getPosts()
+       {
+           return $this->hasMany(Post::class, ['user_id' => 'id']);
+       }
+   }
+   ```
+
+3. Многие-к-одному (Many-to-One) или принадлежность (Belongs-to):
+   ```php
+   class Post extends ActiveRecord
+   {
+       public function getUser()
+       {
+           return $this->belongsTo(User::class, ['user_id' => 'id']);
+       }
+   }
+   ```
+
+4. Многие-ко-многим (Many-to-Many):
+   ```php
+   class User extends ActiveRecord
+   {
+       public function getRoles()
+       {
+           return $this->hasMany(Role::class, ['id' => 'role_id'])
+               ->viaTable('user_role', ['user_id' => 'id']);
+       }
+   }
+
+   class Role extends ActiveRecord
+   {
+       public function getUsers()
+       {
+           return $this->hasMany(User::class, ['id' => 'user_id'])
+               ->viaTable('user_role', ['role_id' => 'id']);
+       }
+   }
+   ```
+
+5. Связь Has-One-Through:
+   ```php
+   class Country extends ActiveRecord
+   {
+       public function getCurrentPresident()
+       {
+           return $this->hasOne(President::class, ['country_id' => 'id'])
+               ->via('capital');
+       }
+
+       public function getCapital()
+       {
+           return $this->hasOne(City::class, ['country_id' => 'id']);
+       }
+   }
+   ```
+
+6. Связь Has-Many-Through:
+   ```php
+   class Country extends ActiveRecord
+   {
+       public function getCities()
+       {
+           return $this->hasMany(City::class, ['country_id' => 'id']);
+       }
+
+       public function getPosts()
+       {
+           return $this->hasManyThrough(Post::class, City::class, ['country_id' => 'id'], ['city_id' => 'id']);
+       }
+   }
+   ```
+
+Это основные типы связей, доступные в Yii2. Каждый тип связи имеет свои особенности и параметры настройки. Связи позволяют легко получать связанные данные между моделями и упрощают работу с базой данных.
