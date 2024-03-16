@@ -289,3 +289,141 @@ class m230521_100000_create_example_table extends Migration
 
 Метод `safeDown()` описывает операцию отката миграции, которая удаляет созданную таблицу `example`.
 
+### Распиши по шагам пример создания компонента в yii2
+
+Вот пример создания компонента в Yii2 по шагам:
+
+1. Создайте новый класс компонента в директории `components/` вашего приложения. Например, создадим компонент `MyComponent`:
+
+```php
+<?php
+
+namespace app\components;
+
+use yii\base\Component;
+
+class MyComponent extends Component
+{
+    public $someProperty = 'default value';
+
+    public function someMethod($param)
+    {
+        // ...
+    }
+}
+```
+
+2. Объявите свойства и методы компонента в классе. В данном примере мы объявили свойство `$someProperty` и метод `someMethod()`.
+
+3. Сконфигурируйте компонент в конфигурационном файле приложения `config/web.php` или `config/main.php`:
+
+```php
+'components' => [
+    // ...
+    'myComponent' => [
+        'class' => 'app\components\MyComponent',
+        'someProperty' => 'custom value',
+    ],
+],
+```
+
+4. Теперь вы можете получить доступ к компоненту из любой части вашего приложения, используя выражение `Yii::$app->myComponent`. Например:
+
+```php
+echo Yii::$app->myComponent->someProperty;
+Yii::$app->myComponent->someMethod('some value');
+```
+
+5. При необходимости вы можете переопределить методы `init()` и `__construct()` в классе компонента для выполнения дополнительной инициализации:
+
+```php
+public function init()
+{
+    parent::init();
+    // Дополнительная инициализация
+}
+
+public function __construct($config = [])
+{
+    // ...
+    parent::__construct($config);
+}
+```
+
+6. Если ваш компонент должен реагировать на события, вы можете объявить методы-обработчики событий:
+
+```php
+public function beforeAction($event)
+{
+    // ...
+}
+```
+
+7. При необходимости вы также можете создать виджеты, поведения (behaviors) или другие артефакты, связанные с вашим компонентом, в соответствующих директориях.
+
+Это основные шаги для создания простого компонента в Yii2. Компоненты могут быть более сложными и включать дополнительную функциональность в зависимости от ваших потребностей.
+
+### Распиши по шагам пример создания виджета в yii2
+
+Вот пример создания виджета в Yii2 по шагам:
+
+1. Создайте новую директорию для вашего виджета в папке `widgets`, например, `widgets/MyWidget`.
+
+2. В директории `widgets/MyWidget` создайте файл `MyWidget.php` со следующим содержимым:
+
+```php
+<?php
+
+namespace app\widgets\MyWidget;
+
+use yii\base\Widget;
+
+class MyWidget extends Widget
+{
+    public $message;
+
+    public function init()
+    {
+        parent::init();
+        if ($this->message === null) {
+            $this->message = 'Hello World';
+        }
+    }
+
+    public function run()
+    {
+        return "<div>" . $this->message . "</div>";
+    }
+}
+```
+
+3. Теперь вы можете использовать ваш виджет в представлениях. Например, в файле `views/site/index.php`:
+
+```php
+<?php
+use app\widgets\MyWidget\MyWidget;
+?>
+
+<?= MyWidget::widget(['message' => 'Hello']); ?>
+```
+
+4. Если вы хотите использовать отдельный файл представления для вашего виджета, создайте файл `views/myWidget.php` в директории `widgets/MyWidget`:
+
+```php
+<div>
+    <?= $message ?>
+</div>
+```
+
+5. Измените метод `run()` в файле `MyWidget.php`:
+
+```php
+public function run()
+{
+    return $this->render('myWidget', ['message' => $this->message]);
+}
+```
+
+6. Теперь ваш виджет будет использовать отдельный файл представления.
+
+
