@@ -81,6 +81,7 @@
 ## Заставки(Screensaver)
 
 - https://github.com/GTruf/SolarSystem-3D
+- https://github.com/Learus/solar-system-opengl
 
 ## Обход paywall
 
