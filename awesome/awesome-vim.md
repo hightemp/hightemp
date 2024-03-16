@@ -3,6 +3,7 @@
 
 - https://vimawesome.com/
 - https://github.com/akrawchyk/awesome-vim
+- https://awesome-repos.ecp.plus/vim.html
 
 ## Plugins
 
