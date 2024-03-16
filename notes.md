@@ -1,6 +1,13 @@
 
 ## Остальное
 
+### Установка 3d библиотек в ubuntu linux
+
+```
+sudo apt install libglew-dev
+sudo apt install libglm-dev
+```
+
 ### p2p библиотеки
 
 - https://libp2p.io/implementations/
