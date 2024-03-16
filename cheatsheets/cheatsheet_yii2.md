@@ -898,5 +898,200 @@ public function attributeLabels()
 
 Это может быть полезно, если вы хотите использовать заголовок, отличный от метки атрибута, определенной в модели.
 
+### Как русифицировать подписи в GridView: Showing 1-1 of 1 item.?
+
+Для русификации подписей в GridView, таких как "Showing 1-1 of 1 item.", можно использовать параметр `pager` и настроить свойство `pagination` у провайдера данных (`dataProvider`). Вот пример:
+
+```php
+<?= GridView::widget([
+    'dataProvider' => $dataProvider,
+    'pager' => [
+        'firstPageLabel' => 'Первая',
+        'lastPageLabel' => 'Последняя',
+        'prevPageLabel' => '&laquo;',
+        'nextPageLabel' => '&raquo;',
+        'maxButtonCount' => 5,
+    ],
+    'columns' => [
+        // ...
+    ],
+]); ?>
+```
+
+Дополнительно, можно настроить свойство `pagination` у провайдера данных:
+
+```php
+$dataProvider = new ActiveDataProvider([
+    'query' => $query,
+    'pagination' => [
+        'pageSize' => 20,
+        'pageSizeParam' => false,
+        'forcePageParam' => false,
+    ],
+]);
+```
+
+Параметры `pageSizeParam` и `forcePageParam` позволяют убрать параметры `per-page` и `page` из URL.
+
+Также, можно изменить формат отображения общего количества записей с помощью свойства `summary` у `GridView`:
+
+```php
+<?= GridView::widget([
+    // ...
+    'summary' => 'Показано {begin}-{end} из {totalCount} записей',
+    // ...
+]); ?>
+```
+
+Это заменит стандартный текст "Showing 1-1 of 1 item." на "Показано 1-1 из 1 записей".
+
+Таким образом, используя параметры `pager`, `pagination` и `summary`, можно полностью русифицировать подписи в `GridView` во фреймворке Yii2.
+
+### как в GridView вывести форматировано created_at, который создан с типом integer()->notNull()?
+
+Чтобы отформатировать значение `created_at` типа `integer` в `GridView`, вы можете использовать анонимную функцию в определении столбца. Вот пример:
+
+```php
+use yii\grid\GridView;
+use yii\helpers\Html;
+
+echo GridView::widget([
+    'dataProvider' => $dataProvider,
+    'columns' => [
+        // ...
+        [
+            'attribute' => 'created_at',
+            'format' => 'raw',
+            'value' => function ($model) {
+                return Html::tag('span', Yii::$app->formatter->asDatetime($model->created_at, 'php:d.m.Y H:i:s'));
+            },
+        ],
+        // ...
+    ],
+]);
+```
+
+В этом примере:
+
+1. Мы используем массив для определения столбца `created_at`.
+
+2. Устанавливаем `'format' => 'raw'`, чтобы содержимое ячейки не экранировалось автоматически.
+
+3. В ключе `'value'` мы определяем анонимную функцию, которая будет вызываться для каждой строки данных.
+
+4. Внутри функции мы используем `Yii::$app->formatter->asDatetime()` для форматирования значения `created_at` в нужный формат даты и времени. В данном случае используется формат `'php:d.m.Y H:i:s'`, который выведет дату в виде "ДД.ММ.ГГГГ ЧЧ:ММ:СС".
+
+5. Мы обернули отформатированное значение в HTML-тег `<span>` с помощью `Html::tag()`, но вы можете использовать любой другой тег или стили по вашему усмотрению.
+
+Таким образом, значение `created_at` будет выведено в `GridView` в отформатированном виде согласно указанному формату даты и времени.
+
+### Напиши все случаи применения formatter
+
+Вот некоторые основные случаи применения компонента `formatter` во фреймворке Yii2:
+
+1. Форматирование дат и времени:
+   - `Yii::$app->formatter->asDate($timestamp)` - форматирование даты
+   - `Yii::$app->formatter->asTime($timestamp)` - форматирование времени
+   - `Yii::$app->formatter->asDatetime($timestamp)` - форматирование даты и времени
+
+2. Форматирование чисел:
+   - `Yii::$app->formatter->asDecimal($value)` - форматирование числа в десятичный формат
+   - `Yii::$app->formatter->asCurrency($value)` - форматирование числа в денежный формат
+   - `Yii::$app->formatter->asPercent($value)` - форматирование числа в процентный формат
+
+3. Форматирование размеров файлов:
+   - `Yii::$app->formatter->asSize($bytes)` - форматирование размера файла в удобочитаемый формат (например, "2 KB", "1.5 MB")
+
+4. Форматирование текста:
+   - `Yii::$app->formatter->asText($text)` - форматирование текста с преобразованием специальных символов в HTML-сущности
+   - `Yii::$app->formatter->asNtext($text)` - форматирование текста с преобразованием новых строк в тег `<br>`
+   - `Yii::$app->formatter->asParagraphs($text)` - форматирование текста с обертыванием абзацев в теги `<p>`
+
+5. Форматирование ссылок и email:
+   - `Yii::$app->formatter->asEmail($email)` - форматирование email-адреса в виде ссылки `mailto`
+   - `Yii::$app->formatter->asUrl($url)` - форматирование URL в виде гиперссылки
+
+6. Форматирование boolean-значений:
+   - `Yii::$app->formatter->asBoolean($value)` - форматирование boolean-значения в текстовое представление (например, "Yes" или "No")
+
+7. Форматирование массивов и объектов:
+   - `Yii::$app->formatter->asArray($array)` - форматирование массива в строковое представление
+   - `Yii::$app->formatter->asJson($data)` - форматирование данных в формат JSON
+
+8. Локализация и интернационализация:
+   - Форматтер учитывает локаль приложения (`Yii::$app->language`) при форматировании дат, чисел и валют в соответствии с локальными настройками.
+
+```php
+<?php
+// Пример контроллера
+
+namespace app\controllers;
+
+use Yii;
+use yii\web\Controller;
+
+class FormatterController extends Controller
+{
+    public function actionIndex()
+    {
+        $timestamp = time();
+        $value = 1234.56;
+        $bytes = 2048;
+        $text = "This is a sample text.\nIt contains multiple lines.";
+        $email = "example@example.com";
+        $url = "https://www.example.com";
+        $booleanValue = true;
+        $array = ['apple', 'banana', 'cherry'];
+        $data = ['name' => 'John', 'age' => 30];
+
+        return $this->render('index', [
+            'formattedDate' => Yii::$app->formatter->asDate($timestamp),
+            // Результат: дата в формате, соответствующем текущей локали, например, "05.06.2023"
+
+            'formattedTime' => Yii::$app->formatter->asTime($timestamp),
+            // Результат: время в формате, соответствующем текущей локали, например, "14:30"
+
+            'formattedDateTime' => Yii::$app->formatter->asDatetime($timestamp),
+            // Результат: дата и время в формате, соответствующем текущей локали, например, "05.06.2023 14:30"
+
+            'formattedDecimal' => Yii::$app->formatter->asDecimal($value),
+            // Результат: число в десятичном формате с учетом текущей локали, например, "1,234.56"
+
+            'formattedCurrency' => Yii::$app->formatter->asCurrency($value),
+            // Результат: число в денежном формате с учетом текущей локали, например, "$1,234.56"
+
+            'formattedPercent' => Yii::$app->formatter->asPercent($value),
+            // Результат: число в процентном формате с учетом текущей локали, например, "123,456%"
+
+            'formattedSize' => Yii::$app->formatter->asSize($bytes),
+            // Результат: размер в удобочитаемом формате, например, "2 KB"
+
+            'formattedText' => Yii::$app->formatter->asText($text),
+            // Результат: текст с преобразованием специальных символов в HTML-сущности, например, "This is a sample text.&lt;br&gt;It contains multiple lines."
+
+            'formattedNtext' => Yii::$app->formatter->asNtext($text),
+            // Результат: текст с преобразованием новых строк в тег <br>, например, "This is a sample text.<br>It contains multiple lines."
+
+            'formattedParagraphs' => Yii::$app->formatter->asParagraphs($text),
+            // Результат: текст с обертыванием абзацев в теги <p>, например, "<p>This is a sample text.</p><p>It contains multiple lines.</p>"
+
+            'formattedEmail' => Yii::$app->formatter->asEmail($email),
+            // Результат: email-адрес в виде ссылки mailto, например, "<a href="mailto:example@example.com">example@example.com</a>"
+
+            'formattedUrl' => Yii::$app->formatter->asUrl($url),
+            // Результат: URL в виде гиперссылки, например, "<a href="https://www.example.com">https://www.example.com</a>"
+
+            'formattedBoolean' => Yii::$app->formatter->asBoolean($booleanValue),
+            // Результат: boolean-значение в текстовом представлении, например, "Yes" или "No"
+
+            'formattedArray' => Yii::$app->formatter->asArray($array),
+            // Результат: массив в строковом представлении, например, "['apple', 'banana', 'cherry']"
+
+            'formattedJson' => Yii::$app->formatter->asJson($data),
+            // Результат: данные в формате JSON, например, "{"name":"John","age":30}"
+        ]);
+    }
+}
+```
 
 
