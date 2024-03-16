@@ -610,3 +610,60 @@ $removedValue = ArrayHelper::remove($array, '1.data'); // 'def'
 // Фильтрация массива
 $filteredArray = ArrayHelper::filter($array, ['id' => '123']);
 ```
+
+### Опиши зачем нужен и как работает Behavior в yii2
+
+В Yii2 Behavior (поведение) - это способ расширения функциональности существующих классов без изменения их исходного кода. Behavior позволяет инкапсулировать общую логику и переиспользовать ее в различных классах.
+
+Основные причины использования Behavior:
+
+1. **Расширение функциональности:** Behavior позволяет добавлять новые свойства, методы и события к существующим классам, не изменяя их напрямую.
+
+2. **Переиспользование кода:** Общая логика может быть вынесена в Behavior и подключена к различным классам, что уменьшает дублирование кода.
+
+3. **Улучшение читаемости и поддерживаемости:** Вынесение дополнительной функциональности в отдельные Behavior делает основной класс более чистым и focused.
+
+Как работает Behavior:
+
+1. **Создание класса Behavior:** Создается класс, который наследуется от `yii\base\Behavior` и реализует нужную функциональность.
+
+2. **Подключение Behavior к классу:** Behavior может быть подключен к классу статически (через свойство `behaviors()`) или динамически (через метод `attachBehavior()`).
+
+3. **Использование функциональности Behavior:** После подключения Behavior его свойства и методы становятся доступны в классе, к которому он подключен.
+
+Пример создания Behavior:
+
+```php
+class TimestampBehavior extends \yii\base\Behavior
+{
+    public function events()
+    {
+        return [
+            ActiveRecord::EVENT_BEFORE_INSERT => 'updateTimestamp',
+            ActiveRecord::EVENT_BEFORE_UPDATE => 'updateTimestamp',
+        ];
+    }
+
+    public function updateTimestamp($event)
+    {
+        $this->owner->updated_at = time();
+    }
+}
+```
+
+Подключение Behavior к модели:
+
+```php
+class Post extends \yii\db\ActiveRecord
+{
+    public function behaviors()
+    {
+        return [
+            TimestampBehavior::class,
+        ];
+    }
+}
+```
+
+В данном примере `TimestampBehavior` автоматически устанавливает значение поля `updated_at` при сохранении или обновлении модели `Post`.
+
