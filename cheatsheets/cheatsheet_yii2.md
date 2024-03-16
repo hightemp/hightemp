@@ -1127,3 +1127,152 @@ echo GridView::widget([
 3. Свойство `format` установлено в значение `'raw'`, чтобы содержимое ячейки не экранировалось автоматически и ссылка отображалась корректно.
 
 Убедитесь, что у вас есть действие `actionView($id)` в соответствующем контроллере, которое обрабатывает отображение страницы с описанием объекта на основе переданного `$id`.
+
+### Как в yii2 в Breadcrumbs руссифицировать надписи?
+
+Чтобы русифицировать надписи в хлебных крошках (Breadcrumbs) в Yii2, вы можете использовать компонент `i18n` для перевода. Вот шаги, которые нужно выполнить:
+
+1. Убедитесь, что в конфигурации приложения настроен компонент `i18n`. Например, в файле `config/web.php`:
+
+```php
+'components' => [
+    // ...
+    'i18n' => [
+        'translations' => [
+            'app*' => [
+                'class' => 'yii\i18n\PhpMessageSource',
+                'basePath' => '@app/messages',
+                'sourceLanguage' => 'en-US',
+                'fileMap' => [
+                    'app' => 'app.php',
+                ],
+            ],
+        ],
+    ],
+    // ...
+],
+```
+
+2. Создайте файл перевода для русского языка. Например, создайте файл `messages/ru-RU/app.php` и добавьте в него переводы для надписей хлебных крошек:
+
+```php
+return [
+    'Home' => 'Главная',
+    'About' => 'О нас',
+    'Contact' => 'Контакты',
+    // ...
+];
+```
+
+3. В коде, где вы определяете хлебные крошки, используйте функцию `Yii::t()` для перевода надписей. Например:
+
+```php
+$this->breadcrumbs = [
+    Yii::t('app', 'Home') => ['site/index'],
+    Yii::t('app', 'About'),
+];
+```
+
+4. Установите язык приложения на русский. Вы можете сделать это в конфигурации приложения или динамически в коде. Например, в файле `config/web.php`:
+
+```php
+'language' => 'ru-RU',
+```
+
+Теперь надписи в хлебных крошках будут отображаться на русском языке, используя соответствующие переводы из файла `messages/ru-RU/app.php`.
+
+Не забудьте очистить кеш приложения после внесения изменений в файлы перевода.
+
+### Напиши мне search model для модели Task(задачи)
+
+Вот пример search модели для модели `Task` (задачи) в Yii2:
+
+```php
+<?php
+
+namespace app\models;
+
+use yii\base\Model;
+use yii\data\ActiveDataProvider;
+use app\models\Task;
+
+class TaskSearch extends Task
+{
+    /**
+     * {@inheritdoc}
+     */
+    public function rules()
+    {
+        return [
+            [['id', 'status', 'created_by', 'updated_by'], 'integer'],
+            [['title', 'description', 'created_at', 'updated_at', 'deadline'], 'safe'],
+        ];
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function scenarios()
+    {
+        // bypass scenarios() implementation in the parent class
+        return Model::scenarios();
+    }
+
+    /**
+     * Creates data provider instance with search query applied
+     *
+     * @param array $params
+     *
+     * @return ActiveDataProvider
+     */
+    public function search($params)
+    {
+        $query = Task::find();
+
+        // add conditions that should always apply here
+
+        $dataProvider = new ActiveDataProvider([
+            'query' => $query,
+        ]);
+
+        $this->load($params);
+
+        if (!$this->validate()) {
+            // uncomment the following line if you do not want to return any records when validation fails
+            // $query->where('0=1');
+            return $dataProvider;
+        }
+
+        // grid filtering conditions
+        $query->andFilterWhere([
+            'id' => $this->id,
+            'status' => $this->status,
+            'created_at' => $this->created_at,
+            'updated_at' => $this->updated_at,
+            'deadline' => $this->deadline,
+            'created_by' => $this->created_by,
+            'updated_by' => $this->updated_by,
+        ]);
+
+        $query->andFilterWhere(['like', 'title', $this->title])
+            ->andFilterWhere(['like', 'description', $this->description]);
+
+        return $dataProvider;
+    }
+}
+```
+
+В этой модели:
+
+1. Определены правила валидации для атрибутов модели `Task` в методе `rules()`.
+
+2. Метод `scenarios()` переопределен, чтобы использовать сценарии из родительского класса `Model`.
+
+3. Метод `search()` создает экземпляр `ActiveDataProvider` с примененным поисковым запросом. Он загружает параметры поиска, проверяет их валидность и применяет соответствующие условия фильтрации к запросу.
+
+4. Условия фильтрации применяются с помощью методов `andFilterWhere()` для точного совпадения и `andFilterWhere(['like', ...])` для частичного совпадения.
+
+5. Метод возвращает настроенный экземпляр `ActiveDataProvider`, который можно использовать для отображения результатов поиска в виде таблицы или списка.
+
+Эта search модель может быть использована в контроллере для обработки поисковых запросов и передачи данных в представление для отображения результатов поиска задач.
+
