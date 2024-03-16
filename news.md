@@ -1,4 +1,7 @@
 
+- **WinterJS**
+  - WinterJS - это высокопроизводительный JavaScript-сервер, который выполняет скрипты Service Workers в соответствии со спецификацией Winter Community Group, способный обрабатывать до 100  000 запросов в секунду на одном ноутбуке.
+  - Репозиторий: https://github.com/wasmerio/winterjs
 - **laravel 11** 12.03.2024
   - https://blog.laravel.com/laravel-11-now-available 
 - **Biome**
