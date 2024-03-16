@@ -4,7 +4,9 @@
 - https://vimawesome.com/
 - https://github.com/akrawchyk/awesome-vim
 
-## Библиотеки
+## Plugins
+
+- https://github.com/folke/lazy.nvim
 
 ## vimrc
 
