@@ -721,3 +721,65 @@ class Post extends \yii\db\ActiveRecord
 - Yii2 заменит `%` на префикс таблицы, указанный в конфигурации, например, `prefix_user`.
 - Yii2 экранирует имя таблицы в соответствии с используемой СУБД, например, для MySQL это будет `` `prefix_user` ``.
 
+### Раскажи как работать с ActiveForm в yii2
+
+Для работы с ActiveForm в Yii2 нужно выполнить следующие шаги:
+
+1. Создать модель формы или использовать существующую модель ActiveRecord.
+
+2. В представлении (view) создать экземпляр ActiveForm с помощью метода `begin()`:
+
+```php
+<?php $form = ActiveForm::begin(); ?>
+```
+
+3. Добавить поля формы, используя методы `$form->field()`. Например:
+
+```php
+<?= $form->field($model, 'username') ?>
+<?= $form->field($model, 'email') ?>
+<?= $form->field($model, 'password')->passwordInput() ?>
+```
+
+4. Добавить кнопку отправки формы:
+
+```php
+<?= Html::submitButton('Submit', ['class' => 'btn btn-primary']) ?>
+```
+
+5. Закрыть форму методом `end()`:
+
+```php
+<?php ActiveForm::end(); ?>
+```
+
+6. В контроллере получить данные из модели и выполнить нужные действия:
+
+```php
+if ($model->load(Yii::$app->request->post()) && $model->validate()) {
+    // Данные прошли валидацию, можно сохранить их в базу данных
+    $model->save();
+    return $this->redirect(['view', 'id' => $model->id]);
+}
+```
+
+Пример полного кода формы:
+
+```php
+<?php $form = ActiveForm::begin(); ?>
+
+    <?= $form->field($model, 'username') ?>
+    <?= $form->field($model, 'email') ?>
+    <?= $form->field($model, 'password')->passwordInput() ?>
+
+    <div class="form-group">
+        <?= Html::submitButton('Submit', ['class' => 'btn btn-primary']) ?>
+    </div>
+
+<?php ActiveForm::end(); ?>
+```
+
+ActiveForm автоматически генерирует HTML-код формы, выполняет валидацию данных на стороне клиента с помощью JavaScript и обеспечивает защиту от CSRF-атак.
+
+Для настройки внешнего вида полей формы можно использовать темы оформления, например, Bootstrap, передавая соответствующие классы в параметр `options` метода `$form->field()`.
+
