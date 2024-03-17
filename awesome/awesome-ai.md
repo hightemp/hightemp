@@ -5,6 +5,7 @@
 - https://github.com/yokoffing/ChatGPT-Prompts
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/ai-boost/awesome-prompts
+- https://github.com/aishwaryanr/awesome-generative-ai-guide
 
 ### Остальное
 
