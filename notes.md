@@ -1,6 +1,12 @@
 
 ## Остальное
 
+### sms-bomber
+
+- https://github.com/TheSpeedX/TBomb
+- https://github.com/bhattsameer/Bombers
+- https://github.com/un1cum/Beast_Bomber
+
 ### Установка 3d библиотек в ubuntu linux
 
 ```
