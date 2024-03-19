@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Data-science
+
+- https://ods.ai/
+
 ### sms-bomber
 
 - https://github.com/TheSpeedX/TBomb
