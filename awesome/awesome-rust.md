@@ -27,6 +27,8 @@
 ### Статьи
 
 - Практическое руководство по Rust. 1/4 https://habr.com/ru/companies/timeweb/articles/790556/
+- Практическое руководство по Rust. 2/4 https://habr.com/ru/companies/timeweb/articles/794941/
+- Практическое руководство по Rust. 3/4 https://habr.com/ru/companies/timeweb/articles/796567/
 
 ### Книги
 
