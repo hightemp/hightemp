@@ -24,6 +24,10 @@
 
 - https://rust-trends.com/
 
+### Статьи
+
+- Практическое руководство по Rust. 1/4 https://habr.com/ru/companies/timeweb/articles/790556/
+
 ### Книги
 
 ### Курсы
