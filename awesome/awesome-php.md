@@ -51,3 +51,4 @@
 ### Библиотеки
 
 - Подсветка синтаксиса PHP с html рендрингом на стороне сервера, а так же в терминале. https://github.com/tempestphp/highlight
+- PHP library for the Stripe API. https://github.com/stripe/stripe-php
