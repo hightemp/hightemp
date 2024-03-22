@@ -47,3 +47,7 @@
 - https://github.com/CodelyTV/php-ddd-example
 - https://github.com/jorge07/ddd-playground
 - https://github.com/ilyachase/monolith-decoupling-example
+
+### Библиотеки
+
+- Подсветка синтаксиса PHP с html рендрингом на стороне сервера, а так же в терминале. https://github.com/tempestphp/highlight
