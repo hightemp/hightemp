@@ -1864,3 +1864,143 @@ public function behaviors()
 В этом примере AccessControl применяется только к действиям `create`, `update` и `delete`. Правило доступа указывает, что только авторизованные пользователи (`roles` => ['@']) могут получить доступ к этим действиям.
 
 Таким образом, AccessControl является мощным инструментом для управления доступом к действиям контроллера в Yii2, обеспечивая безопасность и разграничение прав доступа в веб-приложении.
+
+### Напиши пример для всех правил валидации в yii2
+
+```php
+<?php
+
+namespace app\models;
+
+use yii\db\ActiveRecord;
+use yii\web\IdentityInterface;
+
+class User extends ActiveRecord implements IdentityInterface
+{
+    public $password_repeat;
+    public $agree;
+
+    public function rules()
+    {
+        return [
+            // Атрибуты username, email, password обязательны для заполнения
+            [['username', 'email', 'password'], 'required'],
+            
+            // Обрезаем пробелы для атрибутов username и email
+            [['username', 'email'], 'trim'],
+            
+            // Атрибут status по умолчанию будет иметь значение 10 (активный)
+            ['status', 'default', 'value' => 10],
+            
+            // Атрибут is_admin безопасен для массового присвоения
+            ['is_admin', 'safe'],
+            
+            // Значение password_repeat должно совпадать со значением password
+            ['password_repeat', 'compare', 'compareAttribute' => 'password'],
+            
+            // Атрибут email должен быть корректным email адресом
+            ['email', 'email'],
+            
+            // Атрибут website должен быть корректным URL
+            ['website', 'url', 'defaultScheme' => 'http'],
+            
+            // Атрибут captcha должен проходить проверку CAPTCHA
+            ['captcha', 'captcha'],
+            
+            // Атрибут ip_address должен быть корректным IP адресом
+            ['ip_address', 'ip'],
+            
+            // Атрибут post_count должен быть целым числом
+            ['post_count', 'integer'],
+            
+            // Атрибут rating должен быть числом
+            ['rating', 'number'],
+            
+            // Атрибут phone должен соответствовать регулярному выражению
+            ['phone', 'match', 'pattern' => '/^\+?\d{10,14}$/'],
+            
+            // Атрибут username должен быть строкой длиной от 2 до 20 символов
+            ['username', 'string', 'length' => [2, 20]],
+            
+            // Значение email должно быть уникальным в таблице user
+            ['email', 'unique'],
+            
+            // Значение username должно существовать в таблице user
+            ['username', 'exist'],
+            
+            // Атрибут birthday должен быть корректной датой
+            ['birthday', 'date', 'format' => 'php:Y-m-d'],
+            
+            // Атрибуты created_at и updated_at должны быть датой и временем
+            [['created_at', 'updated_at'], 'datetime', 'format' => 'php:Y-m-d H:i:s'],
+            
+            // Атрибут last_login_time должен быть временем
+            ['last_login_time', 'time', 'format' => 'php:H:i:s'],
+            
+            // Атрибут avatar должен быть загруженным файлом изображения
+            ['avatar', 'image', 'extensions' => 'png, jpg, gif'],
+            
+            // Атрибут doc должен быть загруженным файлом
+            ['doc', 'file', 'extensions' => 'doc, docx, pdf', 'maxSize' => 1024*1024],
+            
+            // Каждый элемент массива phones должен быть строкой
+            ['phones', 'each', 'rule' => ['string']],
+            
+            // Атрибут gender должен быть одним из значений: 1, 2 или 3
+            ['gender', 'in', 'range' => [1, 2, 3]],
+            
+            // Атрибут age должен быть в диапазоне от 18 до 100
+            ['age', 'range', 'min' => 18, 'max' => 100],
+            
+            // Проверка, что пользователь согласен с условиями (своя inline-валидация)
+            ['agree', function($attribute, $params) {
+                if (!$this->agree) {
+                    $this->addError($attribute, 'You must agree to the terms and conditions');
+                }
+            }],
+            
+            // Проверка значения атрибута своим валидатором (класс)  
+            ['username', 'app\validators\UsernameValidator'],
+        ];
+    }
+
+    // ... остальные методы модели ...
+}
+```
+
+- Правило `required` гарантирует, что атрибуты `username`, `email`, `password` будут заполнены.
+- Правило `unique` проверяет, что значение `email` уникально в таблице user.
+- Правило `image` проверяет, что `avatar` является загруженным файлом изображения.
+- Inline-валидация проверяет, что пользователь согласился с условиями.
+- Используется пользовательский валидатор `UsernameValidator` для атрибута `username`.
+
+```php
+<?php
+
+namespace app\validators;
+
+use yii\validators\Validator;
+
+class UsernameValidator extends Validator
+{
+    public $pattern = '/^[a-zA-Z0-9_-]{2,20}$/';
+    public $message = 'Username can only contain letters, numbers, underscores and dashes.';
+
+    public function validateAttribute($model, $attribute)
+    {
+        $value = $model->$attribute;
+
+        if (!preg_match($this->pattern, $value)) {
+            $model->addError($attribute, $this->message);
+        }
+    }
+}
+```
+
+Этот класс расширяет базовый класс `yii\validators\Validator` и реализует свою логику валидации.
+
+- Свойство `$pattern` содержит регулярное выражение, которому должно соответствовать значение атрибута `username`. В данном случае оно требует, чтобы username содержал только буквы, цифры, подчеркивания и дефисы, и имел длину от 2 до 20 символов.
+
+- Свойство `$message` содержит сообщение об ошибке, которое будет добавлено к модели, если значение не пройдет валидацию.
+
+- Метод `validateAttribute()` выполняет саму валидацию. Он получает модель и имя валидируемого атрибута. Значение атрибута получается через динамическое свойство `$model->$attribute`. 
