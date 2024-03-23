@@ -1,4 +1,25 @@
 
+### Расширение window, global
+
+```typescript
+/*
+ * нужно, т.к. будет ошибка
+ * Augmentations for the global scope can only be directly nested in external modules or ambient module declarations.ts(2669)
+ */
+export {};
+
+interface ApiMethods {
+  loadProjects: () => void;
+}
+
+declare global {
+  interface Window {
+    API: ApiMethods;
+  }
+}
+
+```
+
 ### Множественное наследование 
 
 #### Mixin
