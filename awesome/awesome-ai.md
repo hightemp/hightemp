@@ -16,6 +16,10 @@
 
 - https://www.phind.com/search?home=true
 
+### Чаты c pdf
+
+- https://www.chatpdf.com
+
 ### Чаты с ботами
 
 - https://openchat.team/
