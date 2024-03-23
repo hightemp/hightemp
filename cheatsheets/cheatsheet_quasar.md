@@ -23,5 +23,19 @@ $ quasar dev
 $ yarn quasar dev # or: npx quasar dev
 ```
 
+### Работа с electron
+
+#### Установка
+
+```bash
+quasar mode add electron
+```
+
+#### Запуск
+
+```bash
+quasar dev -m electron
+```
+
 ### Структура layout
 
