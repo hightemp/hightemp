@@ -65,3 +65,46 @@ class C extends Mixin1(Mixin2(S)) {
 
 new C().foo();
 ```
+
+### Add custom typings file in a JavaScript VSCode project
+
+#### ES6 import syntax solution for those who are using babel
+
+Create next files (names should be the same):
+
+lib.js 
+lib.d.ts
+Inside lib.js write some code, lets say this one:
+
+```typescript
+export const testMethod = (name, params) => params && params.age ? `hello ${name} with age: ${params.age}` : `hello ${name}`;
+export const myConst = {
+     name: 'test',
+     age: 5
+ };
+```
+
+Inside lib.d.ts write this:
+```typescript
+declare namespace MyModule {
+    interface IParams { age: number; }
+
+    function testMethod(name: string, params: IParams): string;
+
+    const myConst: {
+        name: string,
+        age: number
+    }
+}
+export = MyModule;
+```
+
+Then, create somewhere file to consume newly created function and put this code:
+
+```js
+import { testMethod } from "./lib/lib";
+
+const name = 'drag13';
+const r = testMethod(name, { age: 5 });
+console.log(r);
+```
