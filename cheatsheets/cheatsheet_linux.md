@@ -1,3 +1,10 @@
+## Запуск десктопного приложения по ssh
+
+```
+ssh user@server
+DISPLAY=:0 gedit
+```
+
 ## Vim: Сохранить с sudo
 
 ```
