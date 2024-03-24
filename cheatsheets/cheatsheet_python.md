@@ -5,7 +5,7 @@
 env - название
 
 ```bash
-python3.8 -m venv env
+python -m venv env
 source env/bin/activate
 # Установка зависимостей
 pip install -r requirements.txt
