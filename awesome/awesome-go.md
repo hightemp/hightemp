@@ -15,6 +15,7 @@
 
 - https://github.com/gopher-os/gopher-os
 - https://github.com/SanseroGames/LetsGo-OS
+- https://github.com/mit-pdos/biscuit
 
 ### Статьи
 
