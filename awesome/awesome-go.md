@@ -13,9 +13,11 @@
 
 ### Операционные системы
 
+- https://github.com/google/gvisor
 - https://github.com/gopher-os/gopher-os
 - https://github.com/SanseroGames/LetsGo-OS
 - https://github.com/mit-pdos/biscuit
+- https://github.com/fjballest/clive
 
 ### Статьи
 
