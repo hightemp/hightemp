@@ -11,6 +11,11 @@
 - Go — 100 вопросов/заданий с собеседований
   - https://habr.com/ru/articles/786826/
 
+### Операционные системы
+
+- https://github.com/gopher-os/gopher-os
+- https://github.com/SanseroGames/LetsGo-OS
+
 ### Статьи
 
 - Writing an OS in Go: The Bootloader https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader
