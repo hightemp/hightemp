@@ -1,5 +1,8 @@
 ## Коллекции
 
+- https://github.com/kgoralski/personal-wiki-and-learning-resources/blob/master/microservices.md
+- https://github.com/mehdihadeli/awesome-software-architecture
+- https://github.com/Sairyss/backend-best-practices
 - https://github.com/krishnaik06/Data-Science-Gen-AI-Playlist-2024
 - https://github.com/public-apis/public-apis
 - https://github.com/mayakyler/link-shorteners
