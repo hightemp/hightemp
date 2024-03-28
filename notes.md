@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### PHP Docker от Сергея
+
+- https://github.com/abdelalitouil/lepp-rabbitmq-elk
+
 ### Data-science
 
 - https://ods.ai/
