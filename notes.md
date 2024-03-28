@@ -5,7 +5,9 @@
 
 - от Сергея https://github.com/abdelalitouil/lepp-rabbitmq-elk
 - https://github.com/chialab/docker-php
-- https://medium.com/@emmanuelmerali/a-lean-base-docker-image-for-php-63ded6c13733
+- Статьи
+  - https://medium.com/@emmanuelmerali/a-lean-base-docker-image-for-php-63ded6c13733
+  - https://thecodingmachine.io/building_the_ultimate_general_purpose_php_docker_image
 
 ### Data-science
 
