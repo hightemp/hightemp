@@ -1,4 +1,7 @@
-# Symfony
+## Коллекции
+
+- https://github.com/andreia/awesome-symfony
+- https://github.com/sitepoint-editors/awesome-symfony
 
 ## Админки
 
