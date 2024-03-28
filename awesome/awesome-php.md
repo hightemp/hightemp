@@ -9,6 +9,7 @@
 - https://github.com/codeguy/php-the-right-way
 - https://getjump.github.io/ru-php-the-right-way/
 - https://docs.php.earth/ This is a living repository of courses, articles, and frequently asked questions about PHP and development.
+- https://github.com/maxdmyers/php-style-guide A style guide for writing PHP code
 
 ### Сайты со статьями
 
