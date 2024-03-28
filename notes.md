@@ -4,6 +4,7 @@
 ### PHP Docker
 
 - от Сергея https://github.com/abdelalitouil/lepp-rabbitmq-elk
+- https://github.com/chialab/docker-php
 - https://medium.com/@emmanuelmerali/a-lean-base-docker-image-for-php-63ded6c13733
 
 ### Data-science
