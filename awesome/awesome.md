@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/systemdesign42/system-design
 - https://github.com/dereknguyen269/programing-best-practices-in-2024
 - https://github.com/kgoralski/personal-wiki-and-learning-resources/blob/master/microservices.md
 - https://github.com/mehdihadeli/awesome-software-architecture
