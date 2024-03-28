@@ -1,6 +1,10 @@
 
 ## Остальное
 
+### Книги вопросы интервью
+
+- LINUX Operating System: 100 Interview Questions (Advanced Topics in Technologies) https://www.amazon.com/LINUX-Operating-System-Interview-Technologies/dp/B0C12DCSXP/ref=pd_sim_d_sccl_2_5/141-9873290-7445443?pd_rd_w=TwolP&content-id=amzn1.sym.807772be-f817-4c8d-8a9d-04ee37f7ad33&pf_rd_p=807772be-f817-4c8d-8a9d-04ee37f7ad33&pf_rd_r=P9J1Q6475MQGHNFGXYGH&pd_rd_wg=xosBh&pd_rd_r=46a1db56-6c21-4397-a06d-fc7f0fa33ea0&pd_rd_i=B0C12DCSXP&psc=1
+
 ### PHP Docker
 
 - от Сергея https://github.com/abdelalitouil/lepp-rabbitmq-elk
