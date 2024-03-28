@@ -2,6 +2,7 @@
 
 - https://github.com/anikghosh256/laravel-best-practices
 - https://github.com/sitepoint-editors/awesome-symfony
+- https://github.com/andreia/awesome-symfony
 
 ### Материалы для подготовки
 
