@@ -8,6 +8,7 @@
 - Статьи
   - https://medium.com/@emmanuelmerali/a-lean-base-docker-image-for-php-63ded6c13733
   - https://thecodingmachine.io/building_the_ultimate_general_purpose_php_docker_image
+  - https://www.pascallandau.com/blog/docker-from-scratch-for-php-applications-in-2022/
 
 ### Data-science
 
