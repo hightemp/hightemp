@@ -4,6 +4,7 @@
 ### AI - Генерация изображений
 
 - https://assistant.stability.ai/login
+- https://aitestkitchen.withgoogle.com/tools/image-fx
 
 ### Книги вопросы интервью
 
