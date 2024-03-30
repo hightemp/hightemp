@@ -44,6 +44,11 @@ func Paginate(pageNum int, pageSize int, sliceLength int) (int, int) {
 }
 ```
 
+```go
+start, end := Paginate(pageNum, pageSize, len(someSlice))
+pagedSlice := someSlice[start:end]
+```
+
 ## Дефолтные значения в методах
 
 ### Вариант 1. Вызывающий абонент выбирает значения по умолчанию.
