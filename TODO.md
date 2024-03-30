@@ -26,3 +26,30 @@
 
 - подключение библиотек golang (динамическое)
 - использование c++ и golang
+
+
+### Описать
+
+top
+vmstat
+w
+ps
+iostat
+sar
+pmap
+netstat
+ss
+iptraf
+tcpdump
+iotop
+htop
+strace
+/proc/ файловая система
+Nagios
+Cacti
+ntop
+Conky
+GKrellM
+mtr
+vtop
+gtop
