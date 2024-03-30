@@ -24,30 +24,29 @@ await this.$nextTick();
 
 ```javascript
 export default {
-expose: ['makeItPublic'],
-data() {
- return {
- privateData: 'Keep me a secret!',
- };
-},
-computed: {
- makeItPublic() {
- return this.privateData.toUpperCase();
- },
-},
+  expose: ['makeItPublic'],
+  data() {
+    return {
+      privateData: 'Keep me a secret!',
+    };
+  },
+  computed: {
+    makeItPublic() {
+      return this.privateData.toUpperCase();
+    },
+  },
 };
 ```
 
 ```vue
 <script setup>
-import { ref, computed } from 'vue';
+import { ref, computed, defineExpose } from 'vue';
+
 const privateData = ref('Keep me a secret!');
-const makeItPublic = computed(
- () => privateData.value.toUpperCase()
-);
+const makeItPublic = computed(() => privateData.value.toUpperCase());
+
 // We don't need to import this because it's a compiler macro
-defineExpose({
- makeItPublic
-});
+defineExpose({ makeItPublic });
 </script>
+
 ```
