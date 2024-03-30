@@ -8,6 +8,7 @@
 - https://github.com/nikitaignatov/awesome-rust-talks
 - https://awesomerank.github.io/lists/rust-unofficial/awesome-rust.html
 - https://awesome-rust.com/
+- Rust web framework comparison https://github.com/flosse/rust-web-framework-comparison
 
 ### Вопросы
 
