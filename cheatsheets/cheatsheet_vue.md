@@ -123,3 +123,44 @@ const render = () => h(MyComponent, {}, [
 
 Это только малая часть того, что могут сделать функции **render** и **h**. Прочтите больше об этом онлайн.
 
+### Директивы в функциях рендеринга
+
+Vue поставляется со специальными методами, которые помогают вам использовать пользовательские директивы на ваших узлах VNodes:
+
+```javascript
+<script setup>
+import { resolveDirective, withDirectives, h } from 'vue';
+// Найдите уже зарегистрированную директиву по имени
+const focusDirective = resolveDirective('focus');
+// Оберните кнопку директивой
+const render = () => withDirectives(
+  h('button', {}, []),
+  // Массив директив для применения
+  [
+    [focusDirective]
+  ]
+);
+</script>
+```
+
+Функции рендеринга определяются немного по-другому при использовании API Опций:
+
+```javascript
+import { resolveDirective, withDirectives, h } from 'vue';
+export default {
+  render() {
+    // Найдите уже зарегистрированную директиву по имени
+    const focusDirective = resolveDirective('focus');
+    // Оберните кнопку директивой
+    return withDirectives(
+      h('button', {}, []),
+      // Массив директив для применения
+      [
+        [focusDirective]
+      ]
+    );
+  }
+}
+```
+
+Дополнительную информацию о использовании `withDirectives` вы можете найти в документации.
