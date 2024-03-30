@@ -1,3 +1,23 @@
+## Получить список всех открытых файлов для всех процессов
+
+```bash
+#!/bin/bash
+
+# Получаем список всех идентификаторов процессов (PID)
+for pid in $(ls -1 /proc | egrep '^[0-9]+$'); do
+  # Проверяем, доступен ли каталог /proc/$pid/fd
+  if [ -r /proc/$pid/fd ]; then
+    for fd in /proc/$pid/fd/*; do
+      # Читаем символическую ссылку на файл
+      if [ -r "${fd}" ]; then
+        link=$(readlink -f "${fd}")
+        echo "PID: $pid, File: ${link}"
+      fi
+    done
+  fi
+done
+```
+
 ## Мониторинг отрытых файлов в системе
 
 ```bash
