@@ -25,6 +25,25 @@ Go работает со следующими типами:
 
 - https://go.dev/doc/tutorial/create-module
 
+## Paginating a slice
+
+```go
+func Paginate(pageNum int, pageSize int, sliceLength int) (int, int) {
+    start := pageNum * pageSize
+
+    if start > sliceLength {
+        start = sliceLength
+    }
+
+    end := start + pageSize
+    if end > sliceLength {
+        end = sliceLength
+    }
+
+    return start, end
+}
+```
+
 ## Дефолтные значения в методах
 
 ### Вариант 1. Вызывающий абонент выбирает значения по умолчанию.
