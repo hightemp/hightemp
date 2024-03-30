@@ -50,3 +50,76 @@ defineExpose({ makeItPublic });
 </script>
 
 ```
+
+### Функции h и Render
+При использовании функции **render** вместо шаблонов, вы будете часто использовать функцию **h**:
+
+```html
+<script setup>
+import { h } from 'vue';
+const render = () => h('div', {}, 'Hello Wurld');
+</script>
+```
+
+С **Options API**, функция **render** работает точно так же, просто немного иначе определяется:
+
+```html
+<script>
+import { h } from 'vue';
+export default {
+  render() {
+    return h('div', {}, 'Hello Wurld');
+  }
+}
+</script>
+```
+
+Она создает VNode (виртуальный узел), объект, который Vue внутренне использует для отслеживания обновлений и того, что он должен отрисовывать.
+
+Первый аргумент - это имя элемента HTML или компонент (который может быть асинхронным, если вы хотите):
+
+```html
+<script setup>
+import { h } from 'vue';
+import MyComponent from './MyComponent.vue';
+const render = () => h(MyComponent, {}, []);
+</script>
+```
+
+#### 5 Забытых особенностей
+
+Второй аргумент - это список свойств, атрибутов и обработчиков событий:
+
+```html
+<script setup>
+import { h } from 'vue';
+import MyComponent from './MyComponent.vue';
+const render = () => h(MyComponent, {
+  class: 'text-blue-400',
+  title: 'Компонент - великий',
+  onClick() {
+    console.log('Кликнули!');
+  },
+}, []);
+</script>
+```
+
+Третий аргумент - это либо строка для текстового узла, массив дочерних VNodes, либо объект для определения слотов:
+
+```html
+<script setup>
+import { h } from 'vue';
+import MyComponent from './MyComponent.vue';
+const render = () => h(MyComponent, {}, [
+  'Простой текстовый узел',
+  h('span', {}, 'Текст внутри элемента <span>'),
+]);
+</script>
+```
+
+Эти функции **render** по сути то, что происходит "под капотом", когда Vue компилирует ваши компоненты с одиночным файлом для выполнения в браузере.
+
+Но, написав функцию **render** самостоятельно, вы больше не ограничены тем, что можно сделать в шаблоне. У вас есть полная мощь JavaScript у вас на пальцах.
+
+Это только малая часть того, что могут сделать функции **render** и **h**. Прочтите больше об этом онлайн.
+
