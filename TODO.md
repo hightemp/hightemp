@@ -6,7 +6,7 @@
 - [ ] webapp, менеджер списка проектов
       база синронизируется с выьраными папками хранилищ проектов
       записи содержат: название, описание, срендренный README, тэги, дата модиф. и созд.
-- глянуть https://github.com/DioxusLabs/dioxus, https://github.com/iced-rs/iced, https://github.com/lapce/floem
+- [ ] глянуть https://github.com/DioxusLabs/dioxus https://github.com/iced-rs/iced https://github.com/lapce/floem
   
 ---
 
