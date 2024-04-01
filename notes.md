@@ -1,6 +1,11 @@
 
 ## Остальное
 
+### Редакторы
+
+- https://lapce.dev/
+- https://zed.dev/
+
 ### AI - Генерация изображений
 
 - https://assistant.stability.ai/login
