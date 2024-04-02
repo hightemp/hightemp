@@ -52,6 +52,12 @@
 
 ### Книги
 
+- Учебник на русском https://doc.rust-lang.ru/book/ch01-02-hello-world.html
+
+### Шпаргалки
+
+- https://my-js.org/docs/cheatsheet/rust/
+
 ### Курсы
 
 - https://github.com/google/comprehensive-rust
