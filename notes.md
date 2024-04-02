@@ -74,6 +74,7 @@ sudo apt install libglm-dev
 
 ### Биржи криптовалют
 
+- https://www.coinbase.com/ru/
 - https://garantex.org/
 - https://www.bybit.com/en/
 
