@@ -49,10 +49,6 @@
 
 - https://github.com/serversideup/docker-php/
 
-### Статьи
-
-- Best practices for building a production-ready Dockerfile for PHP applications https://snyk.io/blog/building-production-ready-dockerfile-php/
-
 ### Библиотеки
 
 - Подсветка синтаксиса PHP с html рендрингом на стороне сервера, а так же в терминале. https://github.com/tempestphp/highlight
@@ -73,3 +69,8 @@
 - https://github.com/CodelyTV/php-ddd-example
 - https://github.com/jorge07/ddd-playground
 - https://github.com/ilyachase/monolith-decoupling-example
+
+### Статьи
+
+- Best practices for building a production-ready Dockerfile for PHP applications https://snyk.io/blog/building-production-ready-dockerfile-php/
+- Mocking APIs in Laravel Tests With Wiremock https://laravel-news.com/mocking-apis-in-laravel-tests-with-wiremock
