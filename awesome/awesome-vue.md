@@ -14,6 +14,10 @@
 - https://quasar.dev/start/quick-start
 - https://vuetifyjs.com/en/
 
+### Библиотеки
+
+- vxe-table https://gitee.com/xuliangzhan_admin/vxe-table https://github.com/x-extends/vxe-table/tree/master
+
 ### Слайдеры
 
 - https://github.surmon.me/vue-awesome-swiper
