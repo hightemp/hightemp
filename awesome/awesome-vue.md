@@ -18,6 +18,10 @@
 
 - vxe-table https://gitee.com/xuliangzhan_admin/vxe-table https://github.com/x-extends/vxe-table/tree/master
 
+### Курсы
+
+- https://www.youtube.com/watch?v=I_xLMmNeLDY
+
 ### Слайдеры
 
 - https://github.surmon.me/vue-awesome-swiper
