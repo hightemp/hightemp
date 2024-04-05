@@ -1,3 +1,10 @@
+### Папка composer в системе
+
+```
+/home/user/.config/composer
+/home/user/.config/composer/vendor/bin/
+```
+
 ### Последний день месяца
 
 #### Вариант 1
