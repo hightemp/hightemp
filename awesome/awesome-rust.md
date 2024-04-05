@@ -60,6 +60,7 @@
 
 ### Курсы
 
+- https://github.com/matklad/rust-course
 - https://github.com/google/comprehensive-rust
 - https://google.github.io/comprehensive-rust/index.html
 - https://www.youtube.com/playlist?list=PLlcnQQJK8SUjApd95LIcd3K9XXmE-IeCS
