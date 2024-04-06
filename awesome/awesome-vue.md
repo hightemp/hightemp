@@ -16,7 +16,10 @@
 
 ### Библиотеки
 
-- vxe-table https://gitee.com/xuliangzhan_admin/vxe-table https://github.com/x-extends/vxe-table/tree/master
+- Таблицы
+    - vxe-table https://gitee.com/xuliangzhan_admin/vxe-table https://github.com/x-extends/vxe-table/tree/master
+- Сплиттеры
+    - https://antoniandre.github.io/splitpanes/
 
 ### Курсы
 
