@@ -57,3 +57,9 @@
     - https://github.com/Devinterview-io/vue-interview-questions
   - Vue JS Interview Questions
     - https://www.interviewbit.com/vue-js-interview-questions/
+
+
+### Библиотеки
+
+- markdown
+  - https://www.npmjs.com/package/marked
