@@ -863,6 +863,10 @@
 - Paperless-ngx - это система управления документами, которая преобразует ваши физические документы в поисковый онлайн-архив, чтобы вы могли хранить меньше бумаги. https://github.com/paperless-ngx/paperless-ngx
 - Papermerge DMS - это открытая система управления документами, разработанная для работы со сканированными документами и обеспечивающая извлечение текста с помощью OCR, индексацию и полнотекстовый поиск, обладающая современным интерфейсом, функциями такими как двухпанельный браузер документов, перетаскивание файлов, теги, иерархические папки и поддержку форматов PDF, TIFF, JPEG и PNG для эффективного хранения и организации документов. https://github.com/ciur/papermerge
 
+## python/vue/vuetify
+
+- CodeChecker - инфраструктура статического анализа на основе инструментов LLVM/Clang Static Analyzer, заменяющая scan-build в Linux или macOS и предоставляющая веб-интерфейс для хранения и визуализации отчетов анализа тысяч проектов на разных языках программирования. https://github.com/Ericsson/codechecker
+
 ## python/vue
 
 - NearBeach is an open sourced project management tool, helping you keep track of your project. You can track requirements, projects and tasks https://github.com/robotichead/NearBeach
