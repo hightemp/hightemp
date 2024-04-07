@@ -21,6 +21,10 @@
 - RUST GYM Rust Solutions
   - https://github.com/warycat/rustgym
 
+### Boilerplate
+
+- https://github.com/cdorsey/rust-vue-boilerplate
+
 ### Сайты со статьями
 
 - https://rust-trends.com/
