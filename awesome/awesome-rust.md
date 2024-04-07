@@ -1,7 +1,6 @@
 
 ### Коллекции
 
-- https://github.com/tauri-apps/awesome-tauri
 - https://github.com/ctjhoa/rust-learning
 - https://github.com/sger/RustBooks
 - https://github.com/rust-lang/rustlings
@@ -9,6 +8,8 @@
 - https://awesomerank.github.io/lists/rust-unofficial/awesome-rust.html
 - https://awesome-rust.com/
 - Rust web framework comparison https://github.com/flosse/rust-web-framework-comparison
+- https://github.com/tauri-apps/awesome-tauri
+- https://github.com/DioxusLabs/awesome-dioxus
 
 ### Вопросы
 
