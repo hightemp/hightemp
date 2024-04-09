@@ -1,5 +1,8 @@
 ### ES что было введено
 
+- 2024 - https://medium.com/@yourfuse/javascript-whats-new-with-ecmascript-2024-es15-ef056d2f4bf1
+- 2023 - https://medium.com/version-1/es2023-whats-new-plus-a-sneak-peek-into-es2024-b2fe487a6c23
+
 - ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*4zyZPa1uSiD-SU7qzaGPAQ.png)
 
 ## Nodejs
