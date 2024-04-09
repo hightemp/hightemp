@@ -1,6 +1,6 @@
 ### ES что было введено
 
-- [](https://miro.medium.com/v2/resize:fit:720/format:webp/1*4zyZPa1uSiD-SU7qzaGPAQ.png)
+- ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*4zyZPa1uSiD-SU7qzaGPAQ.png)
 
 ## Nodejs
 
