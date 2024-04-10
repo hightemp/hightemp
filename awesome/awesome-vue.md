@@ -20,6 +20,8 @@
     - vxe-table https://gitee.com/xuliangzhan_admin/vxe-table https://github.com/x-extends/vxe-table/tree/master
 - Сплиттеры
     - https://antoniandre.github.io/splitpanes/
+- Чаты
+    - MChat - библиотека компонентов чата на Vue.js, которая предоставляет базовые компоненты для быстрой разработки веб-чатов с возможностью расширения функциональности. https://gitee.com/july-meteor/vue-mchat
 
 ### Курсы
 
@@ -28,3 +30,7 @@
 ### Слайдеры
 
 - https://github.surmon.me/vue-awesome-swiper
+
+### Термины
+
+- composables - это логика повторного использования, которая позволяет группировать и использовать повторяющиеся функциональные части вашего кода во всём приложении Vue.
