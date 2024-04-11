@@ -1,4 +1,4 @@
 
 - Разная музыка «чувствуется» в разных участках нашего тела. Новое исследование показало, что музыка с разным гармонически звучанием по-разному «чувствуется» в нашем теле. Так, неожиданная гармония «ощущается» в сердце, а та, которая соответствует нашим ожиданиям, — в животе. При этом первая связана с удовольствием, а вторая — со спокойствием. Звучание, которое вызывает тревожность, вызывало ощущения в голове. Работа опубликована в журнале iScience.
- - [Источник](https://neuronovosti.ru/raznaya-muzyka-chuvstvuetsya-v-raznyh-uchastkah-nashego-tela/) |
- - [Статья](https://www.cell.com/iscience/fulltext/S2589-0042(24)00719-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004224007193%3Fshowall%3Dtrue)
+    - [Источник](https://neuronovosti.ru/raznaya-muzyka-chuvstvuetsya-v-raznyh-uchastkah-nashego-tela/) |
+    - [Статья](https://www.cell.com/iscience/fulltext/S2589-0042(24)00719-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004224007193%3Fshowall%3Dtrue)
