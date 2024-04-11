@@ -6,4 +6,4 @@
     Глобальная исследовательская группа, в которую входит 131 исследователь из 105 лабораторий семи стран представила революционную исследовательскую работу, в которой проливает свет на изменение энергетического метаболизма мозга как ключевого фактора возникновения различных нервно-психических и нейродегенеративных расстройств, включая умственную отсталость, расстройства аутистического спектра, шизофрению, биполярное и депрессивные расстройства, а также болезнь Альцгеймера.
     - [Источник](https://chemrar.ru/masshtabnoe-issledovanie-vpervye-svyazalo-izmenenie-ph-mozga-s-shirokim-spektrom-kognitivnyx-problem/?utm_source=telegram&utm_medium=post&utm_campaign=354)
     - [Статья](https://www.eurekalert.org/news-releases/551874)
-    - ![](https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/687dc97d-e174-482d-8ee7-b31ca7a8b80e/Rendition/low-res/Content/Public)
+    - ![](https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/687dc97d-e174-482d-8ee7-b31ca7a8b80e/Rendition/low-res/Content/Public =100x20)
