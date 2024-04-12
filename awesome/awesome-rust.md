@@ -37,6 +37,7 @@
 - Упаковка файлов в исполняемый файл
   - https://crates.io/crates/rust-embed
   - https://docs.rs/axum-embed/latest/axum_embed/
+  - https://docs.rs/actix-embed/latest/actix_embed/
   - https://crates.io/crates/static_dir
   - https://github.com/static-files-rs/static-files
 
