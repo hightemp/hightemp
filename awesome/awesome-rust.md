@@ -62,6 +62,10 @@
 - https://google.github.io/comprehensive-rust/index.html
 - https://www.youtube.com/playlist?list=PLlcnQQJK8SUjApd95LIcd3K9XXmE-IeCS
 
+### Видео
+
+- Next.js 14, Rust, Docker: Build a fullstack rest API in typeScript and Rust https://youtu.be/77RjzJtC_g4
+
 ### web frameworks
 
 - Yew - современный фреймворк на языке Rust для создания многопоточных веб-приложений с использованием WebAssembly, предоставляющий удобный макрос для объявления интерактивного HTML с выражениями Rust, обеспечивающий высокую производительность и поддерживающий взаимодействие с JavaScript для использования NPM-пакетов и интеграции с существующими JavaScript-приложениями. https://github.com/yewstack/yew
