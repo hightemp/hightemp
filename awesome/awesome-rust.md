@@ -25,6 +25,7 @@
 ### Boilerplate
 
 - https://github.com/cdorsey/rust-vue-boilerplate
+- https://github.com/mondeja/actix-react-starter-template
 
 ### Сайты со статьями
 
