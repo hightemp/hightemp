@@ -48,6 +48,8 @@
     - https://github.com/Nozbe/WatermelonDB
 - Остальное
     - https://github.com/facebook/create-react-app
+    - https://github.com/ReactTraining/react-router
+    - https://github.com/visgl/react-map-gl
     - https://github.com/JedWatson/react-select
     - https://github.com/react-spring/react-spring
 
