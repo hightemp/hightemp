@@ -57,6 +57,7 @@
 - Практическое руководство по Rust. 2/4 https://habr.com/ru/companies/timeweb/articles/794941/
 - Практическое руководство по Rust. 3/4 https://habr.com/ru/companies/timeweb/articles/796567/
 - Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
+- Improving performance with React, WASM & Rust https://medium.com/@davidkelley87/improving-performance-with-react-wasm-rust-4c70f027b2c8
 
 ### Книги
 
