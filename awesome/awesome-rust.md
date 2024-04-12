@@ -22,10 +22,11 @@
 - RUST GYM Rust Solutions
   - https://github.com/warycat/rustgym
 
-### Boilerplate
+### Шаблоны проектов
 
 - https://github.com/cdorsey/rust-vue-boilerplate
 - https://github.com/mondeja/actix-react-starter-template
+- https://crates.io/crates/create-rust-app/11.0.0
 
 ### Сайты со статьями
 
