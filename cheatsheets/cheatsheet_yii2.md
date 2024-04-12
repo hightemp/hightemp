@@ -10,36 +10,21 @@ Table::find()->where(['like', 'name', $_GET['q'] . '%', false]);
 
 Вот пример реализации редактируемого списка на HTMX с использованием Yii2 на бэкенде:
 
-Представление (view) Yii2:
-
-```php
-<?php
-use yii\helpers\Html;
-use yii\widgets\Pjax;
-?>
-
+```html
 <div id="item-list">
-    <?php Pjax::begin(['id' => 'item-list-pjax']); ?>
-    <ul>
-        <?php foreach ($items as $item): ?>
-            <li>
-                <span class="item-title"><?= Html::encode($item->title) ?></span>
-                <span class="item-desc"><?= Html::encode($item->description) ?></span>
-                <span class="item-price"><?= Html::encode($item->price) ?></span>
-                <?= Html::a('Edit', ['item/edit', 'id' => $item->id], ['class' => 'edit-item', 'hx-get' => '', 'hx-target' => '#edit-form']) ?>
-                <?= Html::a('Delete', ['item/delete', 'id' => $item->id], ['class' => 'delete-item', 'hx-delete' => '', 'hx-confirm' => 'Are you sure?', 'hx-target' => '#item-list-pjax']) ?>
-            </li>
-        <?php endforeach; ?>
-    </ul>
-    <?php Pjax::end(); ?>
+    <?php foreach ($items as $item): ?>
+        <div class="item" hx-target="this" hx-swap="outerHTML">
+            <span class="title"><?= $item->title ?></span>
+            <span class="desc"><?= $item->desc ?></span>
+            <span class="price"><?= $item->price ?></span>
+            <button hx-get="<?= Url::to(['item/edit', 'id' => $item->id]) ?>">Edit</button>
+            <button hx-delete="<?= Url::to(['item/delete', 'id' => $item->id]) ?>" hx-confirm="Are you sure?">Delete</button>
+        </div>
+    <?php endforeach; ?>
 </div>
 
-<div id="edit-form"></div>
-
-<?= Html::a('Add Item', ['item/create'], ['class' => 'add-item', 'hx-get' => '', 'hx-target' => '#edit-form']) ?>
+<button hx-get="<?= Url::to(['item/create']) ?>" hx-target="#item-list" hx-swap="beforeend">Add Item</button>
 ```
-
-Контроллер Yii2:
 
 ```php
 class ItemController extends Controller
@@ -53,59 +38,70 @@ class ItemController extends Controller
     public function actionCreate()
     {
         $model = new Item();
-        if ($model->load(Yii::$app->request->post()) && $model->save()) {
-            return $this->redirect(['index']);
-        }
-        return $this->renderAjax('_form', ['model' => $model]);
+        return $this->renderPartial('_form', ['model' => $model]);
     }
 
     public function actionEdit($id)
     {
         $model = Item::findOne($id);
+        return $this->renderPartial('_form', ['model' => $model]);
+    }
+
+    public function actionSave()
+    {
+        $model = new Item();
         if ($model->load(Yii::$app->request->post()) && $model->save()) {
-            return $this->redirect(['index']);
+            return $this->renderPartial('_item', ['item' => $model]);
         }
-        return $this->renderAjax('_form', ['model' => $model]);
+        return $this->renderPartial('_form', ['model' => $model]);
+    }
+
+    public function actionUpdate($id)
+    {
+        $model = Item::findOne($id);
+        if ($model->load(Yii::$app->request->post()) && $model->save()) {
+            return $this->renderPartial('_item', ['item' => $model]);
+        }
+        return $this->renderPartial('_form', ['model' => $model]);
     }
 
     public function actionDelete($id)
     {
         $model = Item::findOne($id);
         $model->delete();
-        return $this->redirect(['index']);
+        return '';
     }
 }
 ```
 
-Форма редактирования (`_form.php`):
+_form.php
 
-```php
-<?php
-use yii\helpers\Html;
-use yii\widgets\ActiveForm;
-?>
-
-<?php $form = ActiveForm::begin(['id' => 'item-form', 'options' => ['hx-post' => ['item/create'], 'hx-target' => '#item-list-pjax']]); ?>
+```html
+<?php $form = ActiveForm::begin([
+    'id' => 'item-form',
+    'options' => ['hx-post' => Url::to(['item/save']), 'hx-target' => '#item-list', 'hx-swap' => 'beforeend'],
+]); ?>
 
 <?= $form->field($model, 'title')->textInput() ?>
-<?= $form->field($model, 'description')->textarea() ?>
+<?= $form->field($model, 'desc')->textarea() ?>
 <?= $form->field($model, 'price')->textInput() ?>
 
-<div class="form-group">
-    <?= Html::submitButton('Save', ['class' => 'btn btn-primary']) ?>
-</div>
+<button type="submit">Save</button>
 
 <?php ActiveForm::end(); ?>
 ```
 
-В этом примере:
+_item.php
 
-- В представлении используется виджет `Pjax` для обновления списка элементов без перезагрузки страницы.
-- При нажатии на ссылку "Edit" отправляется HTMX-запрос на экшен `item/edit` контроллера, который возвращает форму редактирования элемента.
-- При нажатии на ссылку "Delete" отправляется HTMX-запрос на экшен `item/delete` контроллера для удаления элемента.
-- При нажатии на ссылку "Add Item" отправляется HTMX-запрос на экшен `item/create` контроллера, который возвращает форму создания нового элемента.
-- Форма редактирования/создания элемента отправляется с помощью HTMX-запроса на соответствующий экшен контроллера.
-
+```html
+<div class="item" hx-target="this" hx-swap="outerHTML">
+    <span class="title"><?= $item->title ?></span>
+    <span class="desc"><?= $item->desc ?></span>
+    <span class="price"><?= $item->price ?></span>
+    <button hx-get="<?= Url::to(['item/edit', 'id' => $item->id]) ?>">Edit</button>
+    <button hx-delete="<?= Url::to(['item/delete', 'id' => $item->id]) ?>" hx-confirm="Are you sure?">Delete</button>
+</div>
+```
 
 ## FAQ
 
