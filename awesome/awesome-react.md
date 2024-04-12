@@ -22,6 +22,7 @@
     - https://github.com/react-bootstrap/react-bootstrap
     - https://github.com/primefaces/primereact
     - https://github.com/nextui-org/nextui
+    - https://github.com/Semantic-Org/Semantic-UI-React
 - Формы
     - https://react-hook-form.com/
 - Таблицы
