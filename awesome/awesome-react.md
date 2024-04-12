@@ -12,3 +12,8 @@
 ### Сайты
 
 - https://awesomereact.com/
+
+### Библиотеки
+
+- Формы
+    - https://react-hook-form.com/
