@@ -63,3 +63,7 @@
 
 - markdown
   - https://www.npmjs.com/package/marked
+
+### Демо
+
+- Пример использования execCommand в WYSIWYG редакторе https://codepen.io/netsi1964/pen/QbLLGW
