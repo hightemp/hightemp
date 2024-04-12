@@ -23,6 +23,14 @@
     - https://github.com/primefaces/primereact
     - https://github.com/nextui-org/nextui
     - https://github.com/Semantic-Org/Semantic-UI-React
+    - https://github.com/grommet/grommet
+    - https://github.com/OnsenUI/OnsenUI
+    - https://github.com/tailwindlabs/tailwindui
+    - https://github.com/coreui/coreui-react/
+    - https://github.com/palantir/blueprint
+    - https://github.com/rsuite/rsuite
+    - https://github.com/mantinedev/mantine
+    - https://github.com/marmelab/react-admin
 - Формы
     - https://react-hook-form.com/
 - Таблицы
