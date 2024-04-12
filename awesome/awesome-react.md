@@ -15,7 +15,7 @@
 
 ### Библиотеки
 
-- UI
+- UI Библиотеки
     - https://github.com/mui/material-ui
     - https://github.com/chakra-ui/chakra-ui
     - https://github.com/ant-design/ant-design
@@ -31,6 +31,7 @@
     - https://github.com/rsuite/rsuite
     - https://github.com/mantinedev/mantine
     - https://github.com/marmelab/react-admin
+    - https://github.com/segmentio/evergreen
 - Формы
     - https://react-hook-form.com/
 - Таблицы
@@ -42,6 +43,13 @@
         - https://github.com/mdx-editor/editor
         - https://www.npmjs.com/package/@uiw/react-markdown-editor
         - https://ui.toast.com/tui-editor
+    - https://github.com/facebook/draft-js
+- Базы данных
+    - https://github.com/Nozbe/WatermelonDB
+- Остальное
+    - https://github.com/facebook/create-react-app
+    - https://github.com/JedWatson/react-select
+    - https://github.com/react-spring/react-spring
 
 ### Статьи
 
