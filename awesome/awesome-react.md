@@ -34,6 +34,7 @@
     - https://github.com/segmentio/evergreen
 - Формы
     - https://react-hook-form.com/
+    - https://github.com/jaredpalmer/formik
 - Таблицы
     - https://github.com/adazzle/react-data-grid
     - https://github.com/AllenFang/react-bootstrap-table
