@@ -106,7 +106,7 @@
 - [capp_log_parser](https://github.com/hightemp/capp_log_parser) - **логи**, **парсер** - Парсер лог файлов jsonl, txt - на rust
 - [wapp_server_main_page](https://github.com/hightemp/wapp_server_main_page) - **заметки** - Главная страница(заметки о текущем сервере) в markdown
 
-#### Старые проекты
+#### Старые
 
 - [appPasswordManager](https://github.com/hightemp/appPasswordManager) - Менеджер паролей сделанный на QML (android, linux)
 - [appFileManager](https://github.com/hightemp/appFileManager) - Менеджер файлов сделанный на QML (android, linux)
