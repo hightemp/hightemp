@@ -35,6 +35,7 @@
 ### Библиотеки
 
 - Упаковка файлов в исполняемый файл
+  - https://crates.io/crates/rust-embed
   - https://crates.io/crates/static_dir
   - https://github.com/static-files-rs/static-files
 
