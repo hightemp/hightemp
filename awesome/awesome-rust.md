@@ -56,6 +56,7 @@
 
 ### Курсы
 
+- Building a Movie Collection Manager - Full Stack Workshop with Rust, Actix, SQLx, Dioxus, and Shuttle https://bcnrust.github.io/devbcn-workshop/index.html
 - https://github.com/matklad/rust-course
 - https://github.com/google/comprehensive-rust
 - https://google.github.io/comprehensive-rust/index.html
