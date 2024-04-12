@@ -14,7 +14,6 @@
 
 #### Заметки и документация
 
-- [doc_notes](https://github.com/hightemp/doc_notes) - Заметки из Obsidian
 - [projects_examples](https://github.com/hightemp/hightemp/blob/main/projects_examples.md) - Коллекция репозиториев сторонних разработчиков (как примеры проектов)
 - [docLinux](https://github.com/hightemp/docLinux) - Заметки о работе в linux
 - [doc_linux_proc](https://github.com/hightemp/doc_linux_proc) - Заметки о работе proc в linux
@@ -29,6 +28,7 @@
 - [doc_working_environment](https://github.com/hightemp/doc_working_environment) - Коллекции ссылок. Настройка рабочей среды
 - [cappTYGListCollector](https://github.com/hightemp/cappTYGListCollector) - Коллекции ссылок telegram, youtube
 - [шпоры - python](https://github.com/hightemp/hightemp/blob/main/python.md)
+- [doc_notes](https://github.com/hightemp/doc_notes) - Заметки из Obsidian
 
 #### Коллекции, awesome
 
@@ -47,7 +47,9 @@
 
 #### Текущие
 
+- [app_github_project_description_agent](https://github.com/hightemp/app_github_project_description_agent) - **nodejs** В проекте реализован GPT-агент, задача котрого получить информацию о проекте по ссылке(github).
 - [wapp_start_page_links](https://github.com/hightemp/wapp_start_page_links) - **golang** - self-hosted стартовая страница с ссылками на сайты с возможностью менеджмента
+- [sandbox](https://github.com/hightemp/sandbox) - репозиторий с экспериментами
 
 #### Старые
 
