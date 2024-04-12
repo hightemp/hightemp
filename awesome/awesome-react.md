@@ -24,6 +24,8 @@
     - Markdown
         - https://github.com/uiwjs/react-md-editor
         - https://github.com/mdx-editor/editor
+        - https://www.npmjs.com/package/@uiw/react-markdown-editor
+        - https://ui.toast.com/tui-editor
 
 ### Статьи
 
