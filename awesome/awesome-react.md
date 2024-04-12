@@ -54,6 +54,10 @@
     - https://github.com/JedWatson/react-select
     - https://github.com/react-spring/react-spring
 
+### Шаблоны
+
+- https://github.com/electron-react-boilerplate/electron-react-boilerplate
+
 ### Статьи
 
 - How to Build Forms in React https://www.freecodecamp.org/news/how-to-build-forms-in-react/
