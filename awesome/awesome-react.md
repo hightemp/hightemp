@@ -17,3 +17,7 @@
 
 - Формы
     - https://react-hook-form.com/
+
+### Статьи
+
+- How to Build Forms in React https://www.freecodecamp.org/news/how-to-build-forms-in-react/
