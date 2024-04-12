@@ -6,6 +6,107 @@
 Table::find()->where(['like', 'name', $_GET['q'] . '%', false]);
 ```
 
+## Пример реализации списка на htmx и yii2
+
+Вот пример реализации редактируемого списка на HTMX с использованием Yii2 на бэкенде:
+
+Представление (view) Yii2:
+
+```php
+<?php
+use yii\helpers\Html;
+use yii\widgets\Pjax;
+?>
+
+<div id="item-list">
+    <?php Pjax::begin(['id' => 'item-list-pjax']); ?>
+    <ul>
+        <?php foreach ($items as $item): ?>
+            <li>
+                <span class="item-title"><?= Html::encode($item->title) ?></span>
+                <span class="item-desc"><?= Html::encode($item->description) ?></span>
+                <span class="item-price"><?= Html::encode($item->price) ?></span>
+                <?= Html::a('Edit', ['item/edit', 'id' => $item->id], ['class' => 'edit-item', 'hx-get' => '', 'hx-target' => '#edit-form']) ?>
+                <?= Html::a('Delete', ['item/delete', 'id' => $item->id], ['class' => 'delete-item', 'hx-delete' => '', 'hx-confirm' => 'Are you sure?', 'hx-target' => '#item-list-pjax']) ?>
+            </li>
+        <?php endforeach; ?>
+    </ul>
+    <?php Pjax::end(); ?>
+</div>
+
+<div id="edit-form"></div>
+
+<?= Html::a('Add Item', ['item/create'], ['class' => 'add-item', 'hx-get' => '', 'hx-target' => '#edit-form']) ?>
+```
+
+Контроллер Yii2:
+
+```php
+class ItemController extends Controller
+{
+    public function actionIndex()
+    {
+        $items = Item::find()->all();
+        return $this->render('index', ['items' => $items]);
+    }
+
+    public function actionCreate()
+    {
+        $model = new Item();
+        if ($model->load(Yii::$app->request->post()) && $model->save()) {
+            return $this->redirect(['index']);
+        }
+        return $this->renderAjax('_form', ['model' => $model]);
+    }
+
+    public function actionEdit($id)
+    {
+        $model = Item::findOne($id);
+        if ($model->load(Yii::$app->request->post()) && $model->save()) {
+            return $this->redirect(['index']);
+        }
+        return $this->renderAjax('_form', ['model' => $model]);
+    }
+
+    public function actionDelete($id)
+    {
+        $model = Item::findOne($id);
+        $model->delete();
+        return $this->redirect(['index']);
+    }
+}
+```
+
+Форма редактирования (`_form.php`):
+
+```php
+<?php
+use yii\helpers\Html;
+use yii\widgets\ActiveForm;
+?>
+
+<?php $form = ActiveForm::begin(['id' => 'item-form', 'options' => ['hx-post' => ['item/create'], 'hx-target' => '#item-list-pjax']]); ?>
+
+<?= $form->field($model, 'title')->textInput() ?>
+<?= $form->field($model, 'description')->textarea() ?>
+<?= $form->field($model, 'price')->textInput() ?>
+
+<div class="form-group">
+    <?= Html::submitButton('Save', ['class' => 'btn btn-primary']) ?>
+</div>
+
+<?php ActiveForm::end(); ?>
+```
+
+В этом примере:
+
+- В представлении используется виджет `Pjax` для обновления списка элементов без перезагрузки страницы.
+- При нажатии на ссылку "Edit" отправляется HTMX-запрос на экшен `item/edit` контроллера, который возвращает форму редактирования элемента.
+- При нажатии на ссылку "Delete" отправляется HTMX-запрос на экшен `item/delete` контроллера для удаления элемента.
+- При нажатии на ссылку "Add Item" отправляется HTMX-запрос на экшен `item/create` контроллера, который возвращает форму создания нового элемента.
+- Форма редактирования/создания элемента отправляется с помощью HTMX-запроса на соответствующий экшен контроллера.
+
+
 ## FAQ
 
 ### Опиши по шагам (с описанием кода) как создать REST API для книгохранилища в yii2
