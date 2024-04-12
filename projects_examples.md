@@ -322,6 +322,7 @@
 - Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. https://github.com/zed-industries/zed
 - Rolldown – это JavaScript-бандлер, написанный на Rust, предназначенный для использования в проекте Vite и ориентированный на обеспечение совместимости с Rollup, но с бóльшим функционалом, похожим на esbuild. https://github.com/rolldown/rolldown
 - Hyperswitch - это управляемый сообществом открытый платежный коммутатор, предназначенный для предоставления любому цифровому бизнесу доступа к лучшей платежной инфраструктуре. https://github.com/juspay/hyperswitch
+- mCaptcha - это бесплатная система CAPTCHA с упором на приватность и удобство использования, которая использует метод доказательства выполнения работы (Proof-of-Work) на основе SHA256 для ограничения количества запросов от пользователей. https://github.com/mCaptcha/mCaptcha
 
 ## rust/javscript/electron
 
