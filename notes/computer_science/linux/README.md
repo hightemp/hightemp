@@ -1,8 +1,8 @@
 # linux
 
 - Сетевые сервисы
-  - [ldap](./ldap/INDEX.md)
+  - [ldap](./ldap/README.md)
 - Системные процессы
-  - [proc](./proc/INDEX.md)
+  - [proc](./proc/README.md)
 - Утилиты
-  - [Описание утилит](./utils/INDEX.md)
+  - [Описание утилит](./utils/README.md)
