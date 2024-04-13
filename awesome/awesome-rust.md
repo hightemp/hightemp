@@ -40,6 +40,10 @@
   - https://docs.rs/actix-embed/latest/actix_embed/
   - https://crates.io/crates/static_dir
   - https://github.com/static-files-rs/static-files
+- Парсинг
+  - html
+    - аналогично jquery, css selectors
+      - https://github.com/fefit/visdom
 
 ### Статьи
 
