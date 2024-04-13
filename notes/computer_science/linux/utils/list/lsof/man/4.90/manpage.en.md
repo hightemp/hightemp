@@ -1,4 +1,4 @@
-```
+```manpage
 
 
 Maintenance Procedures                                    LSOF(8)
