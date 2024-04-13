@@ -9,7 +9,7 @@ lsof - это команда, которая позволяет просматр
 - https://github.com/lsof-org/lsof
 - https://github.com/lsof-org/lsof-linux
 
-## Маны
+## Документация
 
 - [[en] 4.90](./man/4.90/manpage.en.md)
 - [[en] 4.99.3](./man/4.99.3/manpage.en.md)
