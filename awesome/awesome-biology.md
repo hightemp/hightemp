@@ -9,6 +9,7 @@
 
 - https://biokhimija.ru/gormony/vidy-receptorov.html
 - https://metabolicpathways.stanford.edu/
+- https://www.proteinatlas.org/
 
 ### Книги
 
