@@ -4,6 +4,15 @@
 
 lsof - это команда, которая позволяет просматривать список открытых файлов на компьютере.
 
+## Репозитории
+
+- https://github.com/lsof-org/lsof
+- https://github.com/lsof-org/lsof-linux
+
+## Маны
+
+- [[en] lsof](./man/lsof.en.md)
+
 ## Пример
 
 ```
@@ -26,6 +35,3 @@ cat     18083 yamato    1w   REG   0,44         0 54550934 /tmp/LOG
 cat     18083 yamato    2u   CHR  136,3       0t0        6 /dev/pts/3
 ```
 
-## Репозитории
-
-- https://github.com/lsof-org/lsof
