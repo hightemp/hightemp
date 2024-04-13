@@ -12,6 +12,8 @@ Groff (GNU troff) - это система форматирования доку�
 
 ## Документация
 
+- https://man7.org/linux/man-pages/man1/groff.1.html
+
 ## Сайт
 
 - https://www.gnu.org/software/groff/
