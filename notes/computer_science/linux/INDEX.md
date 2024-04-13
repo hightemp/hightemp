@@ -1,4 +1,4 @@
-# Все о linux
+# linux
 
 - [ldap](./ldap/INDEX.md)
 - [proc](./proc/INDEX.md)
