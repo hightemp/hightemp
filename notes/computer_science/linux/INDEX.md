@@ -1,5 +1,8 @@
 # linux
 
-- [ldap](./ldap/INDEX.md)
-- [proc](./proc/INDEX.md)
-- [Утилиты](./utils/INDEX.md)
+- Сетевые сервисы
+  - [ldap](./ldap/INDEX.md)
+- Системные процессы
+  - [proc](./proc/INDEX.md)
+- Утилиты
+  - [Описание всех утилит](./utils/INDEX.md)
