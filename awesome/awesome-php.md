@@ -30,6 +30,7 @@
 6. **SimpleTest:** Это ещё один фреймворк для unit-тестирования в PHP. Он меньше и проще, чем PHPUnit, но все еще предоставляет все необходимые функции для успешного проведения unit-тестирования. [SimpleTest](https://simpletest.sourceforge.io/)
 7. **Codeception:** представляет собой современную полнофункциональную систему для тестирования PHP-приложений. Инструмент поддерживает широкий спектр тестов, включая unit-тесты, функциональные тесты и приемочные тесты, и позволяет автоматизировать тестирование веб-приложений, API и даже бизнес-процессов. Codeception интегрируется с PHPUnit и Behat, обеспечивая удобный и гибкий подход к тестированию. [Codeception](https://codeception.com/)
 8. https://github.com/Codeception/VisualCeption
+9. architecture testing tool for PHP https://www.phpat.dev/
 
 ### Вопросы
 
