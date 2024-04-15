@@ -8,3 +8,12 @@
 - Gnome
     - https://github.com/Kazhnuz/awesome-gnome
 
+### Утилиты
+
+- Поиск
+    - По содержимому в файлах
+        - `ag` The Silver Searcher - это инструмент поиска кода, аналогичный ack, с фокусом на скорость. 
+            - https://github.com/ggreer/the_silver_searcher
+            - `apt-get install silversearcher-ag`
+
+### Статьи
