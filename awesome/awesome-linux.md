@@ -17,3 +17,5 @@
             - `apt-get install silversearcher-ag`
 
 ### Статьи
+
+- How to supercharge string search through a directory hierarchy on a Linux/Unix https://www.cyberciti.biz/open-source/command-line-hacks/ag-supercharge-string-search-through-directory-hierarchy/
