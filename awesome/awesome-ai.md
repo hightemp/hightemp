@@ -16,6 +16,9 @@
 ### Поиск
 
 - https://www.phind.com/search?home=true
+- https://you.com
+- https://kagi.com/
+- https://www.perplexity.ai/
 
 ### Чаты c pdf
 
