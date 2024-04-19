@@ -15,6 +15,7 @@
 - Встраиваемые БД
   - Key-Value
     - https://github.com/facebook/rocksdb
+    - https://github.com/google/leveldb
 
 ### Статьи
 
