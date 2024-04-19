@@ -11,7 +11,10 @@
 - HTTP Серверы
   - https://github.com/yhirose/cpp-httplib
 - JSON
-  - https://github.com/nlohmann/json 
+  - https://github.com/nlohmann/json
+- Встраиваемые БД
+  - Key-Value
+    - https://github.com/facebook/rocksdb
 
 ### Статьи
 
