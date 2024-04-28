@@ -1,6 +1,7 @@
 
 ### Коллекции
 
+- https://github.com/unicodeveloper/awesome-nextjs
 - https://react.libhunt.com/
 - https://github.com/LukasMasuch/best-of-react
 - https://awesome-web-react.js.org/
