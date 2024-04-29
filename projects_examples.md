@@ -931,7 +931,7 @@
 ## python 
 
 - Проект proxy.py - это быстрый, масштабируемый, легковесный и программируемый прокси-сервер, поддерживающий HTTP/HTTPS, обеспечивающий возможность настройки поведения с использованием плагинов, имеющий реально-временную панель управления, поддерживающий конфиденциальность и безопасность, а также способный к прослушиванию множества протоколов через один порт. https://github.com/abhinavsingh/proxy.py
-- Free and Open Source Enterprise Resource Planning (ERP) https://github.com/frappe/erpnext
+- ERPNext - это бесплатная и открытая ERP-система, включающая в себя различные модули для управления бизнесом, построенная на фреймворке Frappe с использованием Python и JavaScript. https://github.com/frappe/erpnext
 - Open Source JIRA, Linear and Height Alternative https://github.com/makeplane/plane
 - WeKan ® - Open Source kanban https://github.com/wekan/wekan
 - A voice assistant which can be used to interact with your computer and controls your pc operations https://github.com/BolisettySujith/J.A.R.V.I.S
