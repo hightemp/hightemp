@@ -42,6 +42,7 @@
 - https://app.nextchat.dev/#/chat
 - https://flowgpt.com/
 - https://huggingface.co/chat/
+- https://llama3.replicate.dev/
 
 ### Генерация изображений
 
