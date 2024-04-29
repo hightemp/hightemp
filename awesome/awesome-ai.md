@@ -27,7 +27,6 @@
 ### Чаты с ботами
 
 - https://openrouter.ai/
-- https://www.together.ai/
 - https://groq.com/
 - https://openchat.team/
 - https://labs.perplexity.ai/
