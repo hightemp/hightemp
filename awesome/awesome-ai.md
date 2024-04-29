@@ -43,6 +43,7 @@
 - https://flowgpt.com/
 - https://huggingface.co/chat/
 - https://llama3.replicate.dev/
+- https://chat.reka.ai/chat
 
 ### Генерация изображений
 
