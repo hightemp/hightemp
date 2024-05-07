@@ -30,6 +30,7 @@
 ### Статьи
 
 - Writing an OS in Go: The Bootloader https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader
+- О массивах и слайсах в Go https://habr.com/ru/articles/739754/
 
 ### Видео
 
