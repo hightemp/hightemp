@@ -6,3 +6,7 @@
 - https://www.mygreatlearning.com/blog/docker-interview-question-and-answers/
 - https://medium.com/@sushantkapare1717/docker-interview-questions-74b517ee8943
 - https://www.geeksforgeeks.org/docker-interview-questions/
+
+### Остальное
+
+- Windows in a Docker container. https://github.com/dockur/windows
