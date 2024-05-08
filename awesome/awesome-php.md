@@ -21,6 +21,10 @@
 - https://thephp.cc/
 - https://php.libhunt.com/ - агрегатор
 
+### Онлайн редакторы/интерпретаторы
+
+- https://onlinephp.io/
+
 ### Вопросы
 
 - 100 Must-Know PHP Interview Questions
