@@ -17,6 +17,7 @@
 
 ### Сайты со статьями
 
+- https://php.watch
 - https://thephp.cc/
 - https://php.libhunt.com/ - агрегатор
 
