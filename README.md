@@ -47,6 +47,7 @@
 
 #### Текущие
 
+- [app_docker_compose_list](https://github.com/hightemp/app_docker_compose_list) - **golang** утилита нужная для того чтобы показать, где запушены контейнеры docker compose
 - [app_github_project_description_agent](https://github.com/hightemp/app_github_project_description_agent) - **nodejs** В проекте реализован GPT-агент, задача котрого получить информацию о проекте по ссылке(github).
 - [wapp_start_page_links](https://github.com/hightemp/wapp_start_page_links) - **golang** - self-hosted стартовая страница с ссылками на сайты с возможностью менеджмента
 - [sandbox](https://github.com/hightemp/sandbox) - репозиторий с экспериментами
