@@ -7,6 +7,15 @@
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/ai-boost/awesome-prompts
 - https://github.com/aishwaryanr/awesome-generative-ai-guide
+- https://www.futuretools.io
+- https://arktan.com
+- https://aicenter.ai
+- https://www.aitoolnet.com
+- https://topai.tools
+- https://supertools.therundown.ai
+- https://domore.ai
+- https://news.bensbites.co/trending
+- https://www.gptshunter.com
 
 ### Остальное
 
