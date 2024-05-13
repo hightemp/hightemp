@@ -318,6 +318,7 @@ sudo apt install libglm-dev
   - https://gitflic.ru/
   - https://hub.mos.ru/users/sign_in
 - Остальное
+  - https://gitgud.io
   - https://codeberg.org/
   - https://notabug.org/
   - https://bitbucket.org/
