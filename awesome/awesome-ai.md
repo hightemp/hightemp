@@ -71,6 +71,7 @@
 ### Книги
 
 - Build a Large Language Model (From Scratch) https://github.com/rasbt/LLMs-from-scratch/
+- Учебник, где собрана коллекция задачек о нейросетях, параллельно даётся необходимая теория с объяснением https://fulyankin.github.io/deep_learning_masha_book/intro.html
 
 ### Остальное
 
