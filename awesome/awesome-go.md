@@ -32,6 +32,7 @@
 - Writing an OS in Go: The Bootloader https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader
 - О массивах и слайсах в Go https://habr.com/ru/articles/739754/
 - Советы Golang: почему указатели на срезы полезны и как их игнорирование может привести к хитрым ошибкам https://habr.com/ru/articles/525940/
+- Суслик и пингвин: кодим на Go под Linux https://habr.com/ru/articles/811587/
 
 ### Видео
 
