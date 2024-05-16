@@ -72,11 +72,12 @@ sudo apt install libglm-dev
 
 - https://microservices.io/
 
-### Биржи криптовалют
+### Биржы криптовалют
 
 - https://www.coinbase.com/ru/
 - https://garantex.org/
 - https://www.bybit.com/en/
+- https://www.bybit.nl/
 
 ### Операционная система на js
 
