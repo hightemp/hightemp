@@ -78,6 +78,12 @@ sudo apt install libglm-dev
 - https://garantex.org/
 - https://www.bybit.com/en/
 - https://www.bybit.nl/
+- https://www.binance.com/en
+- https://www.okx.com/
+- https://www.kucoin.com/
+- https://bitgate.io/en/
+- https://www.bitfinex.com/
+- https://www.gate.io/
 
 ### Операционная система на js
 
