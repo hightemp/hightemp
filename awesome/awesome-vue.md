@@ -23,10 +23,6 @@
 - Чаты
     - MChat - библиотека компонентов чата на Vue.js, которая предоставляет базовые компоненты для быстрой разработки веб-чатов с возможностью расширения функциональности. https://gitee.com/july-meteor/vue-mchat
 
-### Курсы
-
-- https://www.youtube.com/watch?v=I_xLMmNeLDY
-
 ### Слайдеры
 
 - https://github.surmon.me/vue-awesome-swiper
@@ -42,3 +38,7 @@
 ### Видео
 
 - Vue 3 для начинающих / Разработка интернет-магазина Vue Sneakers https://www.youtube.com/watch?v=U_-Ht_v-oAs
+
+### Курсы
+
+- https://www.youtube.com/watch?v=I_xLMmNeLDY
