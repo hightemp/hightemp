@@ -35,6 +35,10 @@
 
 - composables - это логика повторного использования, которая позволяет группировать и использовать повторяющиеся функциональные части вашего кода во всём приложении Vue.
 
+### Статьи
+
+- Vue.js + Vuex — JWT аутентификация (руководство и примеры) https://emackovenko.ru/vue-js-vuex-jwt-autentifikaciya-instrukciya-prime/
+
 ### Видео
 
 - Vue 3 для начинающих / Разработка интернет-магазина Vue Sneakers https://www.youtube.com/watch?v=U_-Ht_v-oAs
