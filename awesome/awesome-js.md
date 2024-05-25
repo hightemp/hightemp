@@ -1,5 +1,6 @@
 ### Коллекции
 
+- Список библиотек для отображения табличных данных https://jsgrids.statico.io/
 - https://awesomejs.dev/
 - https://js.libhunt.com/
 - https://vk.com/love_frontend
