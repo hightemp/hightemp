@@ -341,6 +341,10 @@
 
 - WEAVER - простой, удобный и кроссплатформенный инструмент для работы с API, созданный с использованием библиотеки Rust egui и вдохновленный hoppscotch. https://github.com/willser/weaver
 
+## rust/gtk
+
+- Rnote — это приложение для рисования с открытым исходным кодом, предназначенное для создания эскизов, рукописных заметок и аннотирования документов и изображений, написанное на языке Rust с использованием GTK4. https://github.com/flxzt/rnote
+
 ## rust
 
 - A hackable, minimal, fast TUI file explorer https://github.com/sayanarijit/xplr
