@@ -40,6 +40,7 @@
 - Таблицы
     - https://github.com/adazzle/react-data-grid
     - https://github.com/AllenFang/react-bootstrap-table
+    - https://github.com/silevis/reactgrid
 - Редакторы
     - Markdown
         - https://github.com/uiwjs/react-md-editor
