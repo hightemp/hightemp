@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/siyuan-note/awesome-siyuan
 - https://github.com/vala-lang/awesome-vala
 - https://github.com/fstanis/awesome-webdav
 - https://github.com/gdcmarinho/awesome-project/blob/master/LINKS.md
