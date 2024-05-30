@@ -1,5 +1,6 @@
 ## Коллекции
 
+- Шаблоны масштабируемых, надежных и производительных крупномасштабных систем. https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/siyuan-note/awesome-siyuan
 - https://github.com/vala-lang/awesome-vala
 - https://github.com/fstanis/awesome-webdav
