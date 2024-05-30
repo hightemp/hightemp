@@ -1,3 +1,9 @@
+## Монтирование samba/cifs
+
+```
+sudo mount.cifs //host.com/ru /mnt/share -o user='user@host.com'
+```
+
 ## Запустить из под root но под другим пользователем
 
 ```
