@@ -1,3 +1,46 @@
+### PHP: how to start a detached process?
+
+If you have the pcntl extension installed, it would be:
+
+```php
+function detached_exec($cmd) {
+    $pid = pcntl_fork();
+    switch($pid) {
+         // fork errror
+         case -1 : return false;
+
+         // this code runs in child process
+         case 0 :
+             // obtain a new process group
+             posix_setsid();
+             // exec the command
+             exec($cmd);
+             break;
+
+         // return the child pid in father
+         default: 
+             return $pid;
+    }
+}
+```
+
+Call it like this:
+
+```php
+$pid = detached_exec($cmd);
+if($pid === FALSE) {
+    echo 'exec failed';
+}
+
+// ... do some work ...
+
+// Optionally, kill child process (if no longer required).
+posix_kill($pid, SIGINT);
+waitpid($pid, $status);
+
+echo 'Child exited with ' . $status;
+```
+
 ### Папка composer в системе
 
 ```
