@@ -83,6 +83,12 @@ sudo apt install -y \
   upx-ucl strip-nondeterminism binutils 
 ```
 
+### Установка пакетного менеджера nala
+
+```
+sudo apt install nala
+```
+
 ### Mint - Установка snapd
 
 ```bash
