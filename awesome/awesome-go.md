@@ -35,7 +35,7 @@
 - https://github.com/mit-pdos/biscuit
 - https://github.com/fjballest/clive
 
-### Полезное
+### Полезные ссылки
 
 - Схема golang проекта https://github.com/golang-standards/project-layout/blob/master/README_ru.md
 
