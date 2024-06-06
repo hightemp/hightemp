@@ -65,6 +65,8 @@
 
 - markdown
   - https://www.npmjs.com/package/marked
+- query string
+  - https://www.npmjs.com/package/qs  
 
 ### Демо
 
