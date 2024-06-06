@@ -35,6 +35,10 @@
 - https://github.com/mit-pdos/biscuit
 - https://github.com/fjballest/clive
 
+### Полезное
+
+- Схема golang проекта https://github.com/golang-standards/project-layout/blob/master/README_ru.md
+
 ### Статьи
 
 - Writing an OS in Go: The Bootloader https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader
