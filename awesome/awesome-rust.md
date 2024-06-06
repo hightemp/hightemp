@@ -45,6 +45,10 @@
     - аналогично jquery, css selectors
       - https://github.com/fefit/visdom
 
+### Полезные ссылки
+
+- 100 Exercises To Learn Rust https://rust-exercises.com/
+
 ### Статьи
 
 - Практическое руководство по Rust. 1/4 https://habr.com/ru/companies/timeweb/articles/790556/
