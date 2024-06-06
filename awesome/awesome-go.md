@@ -19,6 +19,10 @@
 
 - Домен для Go пакетов для gitflic.ru https://gohome.4gophers.ru/
 
+### Утилиты
+
+- Альтернатива makefile https://taskfile.dev/
+
 ### Генераторы проекта
 
 - https://autostrada.dev/#generate
