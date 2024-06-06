@@ -21,7 +21,7 @@
 
 ### Утилиты
 
-- Альтернатива makefile https://taskfile.dev/
+- Альтернатива makefile - go-task https://taskfile.dev/
 
 ### Генераторы проекта
 
