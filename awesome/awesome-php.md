@@ -56,6 +56,10 @@
   - Composer
     - Генератор репозитория https://github.com/composer/satis
 
+### Полезные ссылки
+
+- https://refactoringguru.cn/
+
 ### Статьи
 
 - Best practices for building a production-ready Dockerfile for PHP applications https://snyk.io/blog/building-production-ready-dockerfile-php/
