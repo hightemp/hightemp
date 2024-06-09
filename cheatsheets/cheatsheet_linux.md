@@ -1,3 +1,12 @@
+## Зеркалирование сайтов
+
+```bash
+wget -mpckE -rH --level=2 --convert-links -D[comma list of domains to include;example.org] \
+-P ./backup/ --user-agent="" -e robots=off --wait 2 \
+--restrict-file-names=ascii,windows \
+https://www.example.org/
+```
+
 ## Монтирование samba/cifs
 
 ```
