@@ -44,6 +44,24 @@
 - [amiunique.org/fingerprint](https://amiunique.org/fingerprint) - проверка уникальности fingerprints.
 - [witch.valdikss.org.ru](http://witch.valdikss.org.ru) - проверка MTU.
 
+### Популярные подборки с OSINT-инструментами 
+
+- [osintframework.com](https://osintframework.com)
+- [map.malfrats.industries](https://map.malfrats.industries)
+- [metaosint.github.io/chart](https://metaosint.github.io/chart)
+- [github.com/wddadk/Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools)
+- [github.com/ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
+- [github.com/sinwindie/OSINT](https://github.com/sinwindie/OSINT)
+- [github.com/Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
+- [github.com/jivoi/awesome-osint#social-media-tools](https://github.com/jivoi/awesome-osint#social-media-tools)
+- [inventory.raw.pm/tools.html#title-tools-osint](https://inventory.raw.pm/tools.html#title-tools-osint)
+- [abhijithb200.github.io/investigator](https://abhijithb200.github.io/investigator)
+- [start.me/p/DPYPMz/the-ultimate-osint-collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+- [start.me/p/ZGAzN7/verification-toolset](https://start.me/p/ZGAzN7/verification-toolset)
+- [start.me/p/rx6Qj8/nixintel-s-osint-resource-list](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)
+- [start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
+- [start.me/p/L1rEYQ/osint4all](https://start.me/p/L1rEYQ/osint4all)
+
 ### Проверка IP/веб-сайта на абьюз и жалобы
 
 - https://www.abuseipdb.com - информация о  (https://t.me/russian_osint)вредоносной активности с различных IP. Проект борется с вредоносной активностью в Интернете.
