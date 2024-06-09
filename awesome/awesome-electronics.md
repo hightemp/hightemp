@@ -19,3 +19,7 @@
     - Mohammad Ilyas The Handbook of Optical Communication Networks
     - Richard Dorf Electrical Engineering Handbook, Second Edition
     - https://vk.com/wall435034075_594
+
+### Видео
+
+- Learn how to design your own computer chips! The Zero to ASIC course covers everything you need to design your own chip using the open source tools. You can even get it manufactured into a real chip! https://www.youtube.com/@ZeroToASICcourse
