@@ -3,3 +3,9 @@
 ```console
 $ git stash --include-untracked
 ```
+
+## alias
+
+```
+alias gcm='git commit -am'
+```
