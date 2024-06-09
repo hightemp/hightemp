@@ -27,6 +27,23 @@
 - https://github.com/chm0dx/creepyCrawler - кроулер для  (https://t.me/russian_osint)разведки (href, robots.txt, sitemap).
 - https://github.com/Moham3dRiahi/Th3inspector -   (https://t.me/russian_osint)универсальный фреймворк для сбора информации.
 
+### Проверка браузера | IP, DNS, fingerprints | Конфиденциальность | Цифровые отпечатки
+
+- [browserleaks.com](https://browserleaks.com) - отличный сайт для проверки отпечатков браузера.
+- [webbrowsertools.com](https://webbrowsertools.com) - проверка fingerprints.
+- [pixelscan.net](https://pixelscan.net) - выявляет попытки подмены fingerprints.
+- [diafygi.github.io/webrtc-ips](https://diafygi.github.io/webrtc-ips) - проверка на утечку WebRTC.
+- [whoer.net](https://whoer.net) - показывает IP и общую информацию о браузере.
+- [whoer.net/port-scanner-online](https://whoer.net/port-scanner-online) - проверка открытых портов.
+- [panopticlick.eff.org](https://panopticlick.eff.org) - проект от EFF для проверки трекинга.
+- [dnsleaktest.com](https://www.dnsleaktest.com) - показывает DNS.
+- [2ip.io/ru/privacy](https://2ip.io/ru/privacy) - проверка анонимности.
+- [criminalip.io](https://www.criminalip.io/) - IP Scoring.
+- [themarkup.org/blacklight](https://themarkup.org/blacklight) - оценивает конфиденциальность при посещении сайта.
+- [reports.exodus-privacy.eu.org](https://reports.exodus-privacy.eu.org) - сканирование приложений на Android для выявления трекеров.
+- [amiunique.org/fingerprint](https://amiunique.org/fingerprint) - проверка уникальности fingerprints.
+- [witch.valdikss.org.ru](http://witch.valdikss.org.ru) - проверка MTU.
+
 ### Проверка IP/веб-сайта на абьюз и жалобы
 
 - https://www.abuseipdb.com - информация о  (https://t.me/russian_osint)вредоносной активности с различных IP. Проект борется с вредоносной активностью в Интернете.
