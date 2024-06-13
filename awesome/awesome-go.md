@@ -5,7 +5,7 @@
 - https://github.com/avelino/awesome-go
 - https://awesome-go.com/
 - https://github.com/uhub/awesome-go
-- design patterns https://github.com/tmrts/go-patterns
+- Design patterns https://github.com/tmrts/go-patterns
 
 ### Вопросы
 
