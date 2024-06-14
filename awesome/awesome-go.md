@@ -47,6 +47,7 @@
 - Советы Golang: почему указатели на срезы полезны и как их игнорирование может привести к хитрым ошибкам https://habr.com/ru/articles/525940/
 - Суслик и пингвин: кодим на Go под Linux https://habr.com/ru/articles/811587/
 - Structured concurrency в языке Go https://habr.com/ru/companies/karuna/articles/816677/
+- Go 1.22: Интерактивные заметки к релизу https://habr.com/ru/articles/792242/
 
 ### Видео
 
