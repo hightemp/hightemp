@@ -29,11 +29,6 @@
 - https://github.com/mondeja/actix-react-starter-template
 - https://crates.io/crates/create-rust-app/11.0.0
 
-### Полезное 
-
-- promt
-  - https://starship.rs/ https://github.com/starship/starship
-
 ### Сайты со статьями
 
 - https://rust-trends.com/
@@ -54,6 +49,7 @@
 ### Полезные ссылки
 
 - 100 Exercises To Learn Rust https://rust-exercises.com/
+- Starship — это минималистичная, невероятно быстрая и бесконечно настраиваемая командная строка для любых оболочек и операционных систем, показывающая актуальную информацию одним взглядом и поддерживающая множество инструментов. https://starship.rs/ https://github.com/starship/starship
 
 ### Статьи
 
