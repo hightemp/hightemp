@@ -29,6 +29,11 @@
 - https://github.com/mondeja/actix-react-starter-template
 - https://crates.io/crates/create-rust-app/11.0.0
 
+### Полезное 
+
+- promt
+  - https://starship.rs/ https://github.com/starship/starship
+
 ### Сайты со статьями
 
 - https://rust-trends.com/
