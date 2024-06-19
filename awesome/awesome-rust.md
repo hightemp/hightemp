@@ -10,6 +10,7 @@
 - Rust web framework comparison https://github.com/flosse/rust-web-framework-comparison
 - https://github.com/tauri-apps/awesome-tauri
 - https://github.com/DioxusLabs/awesome-dioxus
+- https://github.com/unpluggedcoder/awesome-rust-tools
 
 ### Вопросы
 
