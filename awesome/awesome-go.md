@@ -39,8 +39,6 @@
 ### Полезные ссылки
 
 - Схема golang проекта https://github.com/golang-standards/project-layout/blob/master/README_ru.md
-- Tracking io.Copy Progress in Go https://hjr265.me/blog/tracking-io-copy-progress-in-go/
-- How to connect to SFTP in Go https://sftptogo.com/blog/go-sftp/
 
 ### Статьи
 
@@ -51,6 +49,9 @@
 - Structured concurrency в языке Go https://habr.com/ru/companies/karuna/articles/816677/
 - Go 1.22: Интерактивные заметки к релизу https://habr.com/ru/articles/792242/
 - Оптимизация Go: как повысить скорость и эффективность кода https://habr.com/ru/companies/simbirsoft/articles/819015/
+- Tracking io.Copy Progress in Go https://hjr265.me/blog/tracking-io-copy-progress-in-go/
+- How to connect to SFTP in Go https://sftptogo.com/blog/go-sftp/
+- Golang Thread Pool And Scheduler https://medium.com/@ahmet9417/golang-thread-pool-and-scheduler-434dd094715a
 
 ### Видео
 
