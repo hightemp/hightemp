@@ -18,6 +18,8 @@ fi
 exit
 ```
 
+#### /etc/logrotate.d/logs
+
 ```
 /var/log/syslog {
         daily
