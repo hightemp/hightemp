@@ -1,7 +1,8 @@
 ## Ротация логов syslog
 
+#### /var/log/clearlog.sh
+
 ```bash
-# /var/log/clearlog.sh
 #!/bin/sh
 LINECOUNTS=(`cat /var/log/syslog | wc -l`)
 
