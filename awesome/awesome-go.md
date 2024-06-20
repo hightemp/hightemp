@@ -48,6 +48,7 @@
 - Суслик и пингвин: кодим на Go под Linux https://habr.com/ru/articles/811587/
 - Structured concurrency в языке Go https://habr.com/ru/companies/karuna/articles/816677/
 - Go 1.22: Интерактивные заметки к релизу https://habr.com/ru/articles/792242/
+- Оптимизация Go: как повысить скорость и эффективность кода https://habr.com/ru/companies/simbirsoft/articles/819015/
 
 ### Видео
 
