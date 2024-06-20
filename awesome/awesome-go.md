@@ -40,7 +40,7 @@
 
 - Схема golang проекта https://github.com/golang-standards/project-layout/blob/master/README_ru.md
 - Tracking io.Copy Progress in Go https://hjr265.me/blog/tracking-io-copy-progress-in-go/
-- (Go) Async SFTP Progress Info https://www.example-code.com/golang/async_sftp_progressInfo.asp
+- How to connect to SFTP in Go https://sftptogo.com/blog/go-sftp/
 
 ### Статьи
 
