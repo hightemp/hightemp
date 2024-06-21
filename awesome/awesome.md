@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/mrmykey/awesome-http-clients
 - Шаблоны масштабируемых, надежных и производительных крупномасштабных систем. https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/siyuan-note/awesome-siyuan
 - https://github.com/vala-lang/awesome-vala
