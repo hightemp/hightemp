@@ -10,6 +10,7 @@
 - Rust web framework comparison https://github.com/flosse/rust-web-framework-comparison
 - https://github.com/tauri-apps/awesome-tauri
 - https://github.com/DioxusLabs/awesome-dioxus
+- https://github.com/unpluggedcoder/awesome-rust-tools
 
 ### Вопросы
 
@@ -48,6 +49,7 @@
 ### Полезные ссылки
 
 - 100 Exercises To Learn Rust https://rust-exercises.com/
+- Starship — это минималистичная, невероятно быстрая и бесконечно настраиваемая командная строка для любых оболочек и операционных систем, показывающая актуальную информацию одним взглядом и поддерживающая множество инструментов. https://starship.rs/ https://github.com/starship/starship
 
 ### Статьи
 
