@@ -11,13 +11,6 @@
 - https://metabolicpathways.stanford.edu/
 - https://www.proteinatlas.org/
 
-### Биохимия
-
-- Б. Преобразование сигнала G-белками https://www.drau.ru/article/523.html
-- Механизм действия G-белок-связанных рецепторов https://sportwiki.to/Рецепторы,_связанные_с_G-белками
-- Инозитолтрифосфат и ДАГ тоже являются вторичными мессенджерами https://biokhimija.ru/gormony/fosfolipaza.html
-- Механизм действия гидрофильных гормонов https://www.chem.msu.ru/rus/teaching/kolman/372.htm
-
 ### Книги
 
 - Lehninger Principles of Biochemistry (Nelson) 8 ed (2022) Культовое издание по биохимии в последней версии. 
@@ -37,3 +30,11 @@
     - https://vk.com/wall-71770259_14751
 - Microbiology: Principles and Explorations, 8th Edition Jacquelyn G. Black
     - https://vk.com/wall-36914872_21429
+
+### Биохимия
+
+- Б. Преобразование сигнала G-белками https://www.drau.ru/article/523.html
+- Механизм действия G-белок-связанных рецепторов https://sportwiki.to/Рецепторы,_связанные_с_G-белками
+- Инозитолтрифосфат и ДАГ тоже являются вторичными мессенджерами https://biokhimija.ru/gormony/fosfolipaza.html
+- Механизм действия гидрофильных гормонов https://www.chem.msu.ru/rus/teaching/kolman/372.htm
+- Механизмы передачи информации от внешних сигналов на внутриклеточные процессы. Роль ионов кальция в механизмах трансформации внешних сигналов. Калмодулин. https://infopedia.su/28xaa55.html
