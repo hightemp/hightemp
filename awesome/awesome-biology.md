@@ -11,6 +11,12 @@
 - https://metabolicpathways.stanford.edu/
 - https://www.proteinatlas.org/
 
+### Биохимия
+
+- Б. Преобразование сигнала G-белками https://www.drau.ru/article/523.html
+- Механизм действия G-белок-связанных рецепторов https://sportwiki.to/Рецепторы,_связанные_с_G-белками
+- Инозитолтрифосфат и ДАГ тоже являются вторичными мессенджерами https://biokhimija.ru/gormony/fosfolipaza.html
+
 ### Книги
 
 - Lehninger Principles of Biochemistry (Nelson) 8 ed (2022) Культовое издание по биохимии в последней версии. 
