@@ -16,6 +16,7 @@
 - Б. Преобразование сигнала G-белками https://www.drau.ru/article/523.html
 - Механизм действия G-белок-связанных рецепторов https://sportwiki.to/Рецепторы,_связанные_с_G-белками
 - Инозитолтрифосфат и ДАГ тоже являются вторичными мессенджерами https://biokhimija.ru/gormony/fosfolipaza.html
+- Механизм действия гидрофильных гормонов https://www.chem.msu.ru/rus/teaching/kolman/372.htm
 
 ### Книги
 
