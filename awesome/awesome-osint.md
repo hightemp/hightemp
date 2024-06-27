@@ -73,6 +73,7 @@
 ### Полезные ссылки
 
 - Бразуер в браузере для проверки сомнительных ссылок https://browser.lol/create
+- https://www.fakeimagedetector.com/
 
 ### Статьи
 
