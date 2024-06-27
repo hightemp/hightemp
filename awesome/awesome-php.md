@@ -57,6 +57,8 @@
 - Репозитории
   - Composer
     - Генератор репозитория https://github.com/composer/satis
+- SSH
+  - https://github.com/Herzult/php-ssh
 
 ### Полезные ссылки
 
