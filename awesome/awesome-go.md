@@ -20,6 +20,7 @@
 ### Репозитории
 
 - Домен для Go пакетов для gitflic.ru https://gohome.4gophers.ru/
+- DBWeb - это веб-инструмент администрирования баз данных, подобный phpMyAdmin, написанный с использованием xorm, tango и nodb, поддерживающий MySQL, PostgreSQL и SQLite3. https://gitea.com/xorm/dbweb
 
 ### Утилиты
 
