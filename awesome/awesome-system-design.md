@@ -8,6 +8,7 @@
 
 - https://github.com/black-shadows/System-Design
 - https://github.com/Sairyss/backend-best-practices
+- https://github.com/donnemartin/system-design-primer
 
 ### Шпоры
 
