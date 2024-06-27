@@ -2,6 +2,7 @@
 ### Коллекции
 
 - https://github.com/systemdesign42/system-design
+- https://github.com/madd86/awesome-system-design
 
 ### Мануалы
 
