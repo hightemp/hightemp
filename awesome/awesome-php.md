@@ -1,5 +1,6 @@
 ### Коллекции
 
+- https://gist.github.com/llbbl/7607016
 - https://github.com/anikghosh256/laravel-best-practices
 - https://github.com/sitepoint-editors/awesome-symfony
 - https://github.com/andreia/awesome-symfony
