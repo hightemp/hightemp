@@ -1,3 +1,17 @@
+## Форвардинг socket'ов по ssh
+
+### Ваоиант 1
+
+```
+ssh -nNT -L $(pwd)/docker.sock:/var/run/docker.sock user@someremote
+```
+
+### Вариант 2
+
+```
+socat "UNIX-LISTEN:./mysqld.sock,reuseaddr,fork" EXEC:'ssh user@server socat STDIO UNIX-CONNECT\:/var/run/mysqld/mysqld.sock'
+```
+
 ## Ротация логов syslog
 
 #### /var/log/clearlog.sh
