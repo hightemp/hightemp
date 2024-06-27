@@ -74,6 +74,7 @@
 
 - Бразуер в браузере для проверки сомнительных ссылок https://browser.lol/create
 - https://www.fakeimagedetector.com/
+- http://imageedited.com/
 
 ### Статьи
 
