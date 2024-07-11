@@ -131,6 +131,7 @@
 - Oh My God Git — прикольная игра с открытым исходным кодом, которая с помощью карточек поможет понять логику работы GIT и, собственно, научит с ним работать. https://ohmygit.org/
 - На GitHub собрали сборник из 300 вопросов, которые помогут выяснить, насколько вы хороший сисадмин. https://github.com/trimstray/test-your-sysadmin-skills
 - Аналог figma https://pixso.net
+- Anna's Archive org https://annas-archive.gs
 
 ## Статьи
 

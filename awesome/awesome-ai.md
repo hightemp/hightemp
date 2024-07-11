@@ -81,6 +81,10 @@
 - Build a Large Language Model (From Scratch) https://github.com/rasbt/LLMs-from-scratch/
 - Учебник, где собрана коллекция задачек о нейросетях, параллельно даётся необходимая теория с объяснением https://fulyankin.github.io/deep_learning_masha_book/intro.html
 
+### Видео
+
+- Let's build the GPT Tokenizer https://www.youtube.com/watch?v=zduSFxRajkE
+
 ### Остальное
 
 - Coral ai — проект, который позволяет поговорить с файлами. https://www.getcoralai.com/
