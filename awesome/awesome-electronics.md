@@ -23,3 +23,7 @@
 ### Видео
 
 - Learn how to design your own computer chips! The Zero to ASIC course covers everything you need to design your own chip using the open source tools. You can even get it manufactured into a real chip! https://www.youtube.com/@ZeroToASICcourse
+
+### Статьи
+
+- Энтузиаст за 2 недели создал собственный GPU с нуля https://tproger.ru/news/entuziast-za-2-nedeli-sozdal-sobstvennyj-gpu-s-nulya
