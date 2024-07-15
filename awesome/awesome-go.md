@@ -59,3 +59,4 @@
 ### Видео
 
 - nextjs 14, Go, Docker: Build a fullstack rest API in TypeScript and Go https://www.youtube.com/watch?v=429-r55KFmM
+- Golang 100 вопросов с собеседований. Подготовка Go разработчика Часть 1 https://www.youtube.com/watch?v=ZvaD-G5_3vQ
