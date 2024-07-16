@@ -39,6 +39,7 @@
 
 ### Чаты с ботами
 
+- https://www.aiuncensored.info/
 - https://openrouter.ai/
 - https://groq.com/
 - https://openchat.team/
