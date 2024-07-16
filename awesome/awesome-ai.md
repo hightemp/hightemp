@@ -33,9 +33,10 @@
 - https://kagi.com/
 - https://www.perplexity.ai/
 
-### Чаты c pdf
+### Чаты c документами
 
 - https://www.chatpdf.com
+- https://chatdoc.com/
 
 ### Чаты с ботами
 
