@@ -3,6 +3,7 @@
 - https://github.com/andreia/awesome-symfony
 - https://github.com/sitepoint-editors/awesome-symfony
 - https://github.com/rozehnal/awesome-symfony
+- https://github.com/pehapkari/awesome-symfony-education
 
 ## Админки
 
