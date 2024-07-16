@@ -28,6 +28,7 @@
 
 ### Поиск
 
+- https://bagoodex.io/
 - https://www.phind.com/search?home=true
 - https://you.com
 - https://kagi.com/
