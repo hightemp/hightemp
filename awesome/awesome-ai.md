@@ -70,6 +70,10 @@
 - Сервисы
     - https://www.udio.com/
 
+### Базы промтов
+
+- https://smith.langchain.com/hub/
+
 ### Курсы
 
 - Курс "Машинное обучение" на ФКН ВШЭ https://github.com/esokolov/ml-course-hse
