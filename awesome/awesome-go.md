@@ -57,6 +57,7 @@
 - Tracking io.Copy Progress in Go https://hjr265.me/blog/tracking-io-copy-progress-in-go/
 - How to connect to SFTP in Go https://sftptogo.com/blog/go-sftp/
 - Golang Thread Pool And Scheduler https://medium.com/@ahmet9417/golang-thread-pool-and-scheduler-434dd094715a
+- Unlocking the Power of Functional Options Pattern in Go https://matheuspolitano.medium.com/unlocking-the-power-of-functional-options-pattern-in-go-087478f57be9
 
 ### Видео
 
