@@ -23,6 +23,10 @@
 - Домен для Go пакетов для gitflic.ru https://gohome.4gophers.ru/
 - DBWeb - это веб-инструмент администрирования баз данных, подобный phpMyAdmin, написанный с использованием xorm, tango и nodb, поддерживающий MySQL, PostgreSQL и SQLite3. https://gitea.com/xorm/dbweb
 
+### Фреймворки
+
+- Goravel - это полнофункциональный и масштабируемый веб-фреймворк для Go, вдохновленный Laravel, который помогает разработчикам быстро создавать приложения, облегчая переход с PHP и приветствуя вклад сообщества в виде звезд, PR и issues на GitHub. https://www.goravel.dev/ https://github.com/goravel/framework
+
 ### Утилиты
 
 - Альтернатива makefile - go-task https://taskfile.dev/
