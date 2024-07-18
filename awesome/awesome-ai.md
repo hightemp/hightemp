@@ -87,6 +87,9 @@
 - CodeGPT: Chat & AI Agents
     - https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt&ssr=false#overview
     - https://codegpt.co/
+- Claude Dev VSCode Extension
+    - https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
+    - https://github.com/saoudrizwan/claude-dev
 
 ### Курсы
 
