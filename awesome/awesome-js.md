@@ -15,6 +15,21 @@
 - Как работает компьютер - глубокое погружение (на примере Linux) https://my-js.org/blog/how-computer-work/#1-основы
 - Убийцы оптимизации https://frontender.info/optimization-killers/
 
+### Полезные ссылки
+
+- Сайт о регулярных выражениях https://www.regular-expressions.info/tutorial.html
+
+### Библиотеки
+
+- markdown
+  - https://www.npmjs.com/package/marked
+- query string
+  - https://www.npmjs.com/package/qs  
+
+### Демо
+
+- Пример использования execCommand в WYSIWYG редакторе https://codepen.io/netsi1964/pen/QbLLGW
+
 ### Вопросы
 
 - 70 вопросов по JavaScript для подготовки к собеседованию
@@ -59,15 +74,3 @@
     - https://github.com/Devinterview-io/vue-interview-questions
   - Vue JS Interview Questions
     - https://www.interviewbit.com/vue-js-interview-questions/
-
-
-### Библиотеки
-
-- markdown
-  - https://www.npmjs.com/package/marked
-- query string
-  - https://www.npmjs.com/package/qs  
-
-### Демо
-
-- Пример использования execCommand в WYSIWYG редакторе https://codepen.io/netsi1964/pen/QbLLGW
