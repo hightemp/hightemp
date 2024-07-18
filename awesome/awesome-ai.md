@@ -71,6 +71,10 @@
 - Сервисы
     - https://www.udio.com/
 
+### Тренеры
+
+- https://aitutorpro.ca/
+
 ### Базы промтов
 
 - https://smith.langchain.com/hub/
