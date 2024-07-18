@@ -65,6 +65,7 @@
 - Unlocking the Power of Functional Options Pattern in Go https://matheuspolitano.medium.com/unlocking-the-power-of-functional-options-pattern-in-go-087478f57be9
 - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/
 - Как отправлять SMS через МТС Exolve и Go https://habr.com/ru/companies/exolve/articles/828370/
+- Why People are Angry over Go 1.23 Iterators https://www.gingerbill.org/article/2024/06/17/go-iterator-design/
 
 ### Видео
 
