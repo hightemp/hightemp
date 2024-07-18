@@ -79,6 +79,12 @@
 
 - https://smith.langchain.com/hub/
 
+### Расширения для кодинга
+
+- Cody: AI Coding Assistant with Autocomplete & Chat
+    - https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai
+    - https://sourcegraph.com/docs/cody/clients/install-vscode
+
 ### Курсы
 
 - Курс "Машинное обучение" на ФКН ВШЭ https://github.com/esokolov/ml-course-hse
