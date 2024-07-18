@@ -63,6 +63,7 @@
 - Golang Thread Pool And Scheduler https://medium.com/@ahmet9417/golang-thread-pool-and-scheduler-434dd094715a
 - Unlocking the Power of Functional Options Pattern in Go https://matheuspolitano.medium.com/unlocking-the-power-of-functional-options-pattern-in-go-087478f57be9
 - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/
+- Как отправлять SMS через МТС Exolve и Go https://habr.com/ru/companies/exolve/articles/828370/
 
 ### Видео
 
