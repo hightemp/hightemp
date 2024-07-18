@@ -84,6 +84,9 @@
 - Cody: AI Coding Assistant with Autocomplete & Chat
     - https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai
     - https://sourcegraph.com/docs/cody/clients/install-vscode
+- CodeGPT: Chat & AI Agents
+    - https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt&ssr=false#overview
+    - https://codegpt.co/
 
 ### Курсы
 
