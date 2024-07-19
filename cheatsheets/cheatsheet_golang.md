@@ -14,6 +14,15 @@ fmt.Println("Second time before first?", secondTime.Before(firstTime))
 fmt.Println("Second time after first?", secondTime.After(firstTime))
 ```
 
+```
+The first time is 2021-08-15 14:30:45.0000001 +0000 UTC
+The second time is 2021-12-25 16:40:55.0000002 +0000 UTC
+First time before second? true
+First time after second? false
+Second time before first? false
+Second time after first? true
+```
+
 ## Формула роста слайсов
 
 ```
