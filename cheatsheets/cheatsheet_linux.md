@@ -915,4 +915,41 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -e -o pid,comm,etime
 команда ps может использоваться вместе с командой grep для поиска определенного процесса, например
 `ps -ef  | grep systemd`
 
+### Добавить группу в системе
 
+```
+sudo groupadd demo
+```
+
+с определенным id 
+
+```
+sudo groupadd -g 1009 demo1
+```
+
+### Поменять id группы
+
+```
+sudo groupmod -g 1011 demo1
+```
+
+### Добавить пользователя в группу
+
+```
+sudo usermod --append --groups demo user1
+sudo usermod -aG demo user2
+```
+
+### Удалить пользователя из группы
+
+```
+sudo gpasswd --delete user1 demo
+```
+
+Так же можно удалить из `/etc/group`
+
+### Удалить группу в системе
+
+```
+sudo groupdel mygroup
+```
