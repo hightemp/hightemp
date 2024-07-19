@@ -48,6 +48,7 @@
 
 ### Полезные ссылки
 
+- Блог разработчиков https://go.dev/blog/all
 - Схема golang проекта https://github.com/golang-standards/project-layout/blob/master/README_ru.md
 - Golang как пройти собеседование. Полный разбор 100 вопросов https://pikabu.ru/story/golang_kak_proyti_sobesedovanie_polnyiy_razbor_100_voprosov_11074799
 
