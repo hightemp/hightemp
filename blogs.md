@@ -1,4 +1,7 @@
 
+- https://nyadgar.com/
+  - golang
+  - Hi, my name is Noam Yadgar. I am a software engineer and the creator of this blog, a free educational platform aimed at providing information for developers and software engineers. Anything from design patterns to concepts to code examples—you’ll find it here. I’ve created this blog because I believe that information should be free for anyone. Sharing is always a win-win for both the provider and the consumer. Thank you for coming, and I hope you’ll enjoy reading.
 - https://www.gingerbill.org/article/
   - golang
 - https://sazak.io/
