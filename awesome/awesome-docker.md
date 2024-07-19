@@ -14,3 +14,4 @@
 ### Базы данных
 
 - https://github.com/treetips/docker-compose-all-mysql
+- https://github.com/studiomitte/docker-compose-mariadb
