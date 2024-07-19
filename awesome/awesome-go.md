@@ -72,6 +72,9 @@
 - Как отправлять SMS через МТС Exolve и Go https://habr.com/ru/companies/exolve/articles/828370/
 - Why People are Angry over Go 1.23 Iterators https://www.gingerbill.org/article/2024/06/17/go-iterator-design/
 - Profiling in Go: A Practical Guide https://nyadgar.com/posts/go-profiling-like-a-pro/
+- Building my own Redis in Go - Part 1 https://sathwikreddygv.blog/building-my-own-redis-in-go-part-1
+  - Building my own Redis in Go - Part 2 https://sathwikreddygv.blog/building-my-own-redis-in-go-part-2
+  - Building my own Redis in Go - Part 3 https://sathwikreddygv.blog/building-my-own-redis-in-go-part-3
 
 ### Видео
 
