@@ -1,5 +1,7 @@
 ## Как сравнить время
 
+### Вариант 1
+
 ```golang
 firstTime := time.Date(2021, 8, 15, 14, 30, 45, 100, time.UTC)
 fmt.Println("The first time is", firstTime)
@@ -21,6 +23,26 @@ First time before second? true
 First time after second? false
 Second time before first? false
 Second time after first? true
+```
+
+### Вариант 2
+
+```
+firstTime := time.Date(2021, 8, 15, 14, 30, 45, 100, time.UTC)
+fmt.Println("The first time is", firstTime)
+
+secondTime := time.Date(2021, 12, 25, 16, 40, 55, 200, time.UTC)
+fmt.Println("The second time is", secondTime)
+
+fmt.Println("Duration between first and second time is", firstTime.Sub(secondTime))
+fmt.Println("Duration between second and first time is", secondTime.Sub(firstTime))
+```
+
+```
+The first time is 2021-08-15 14:30:45.0000001 +0000 UTC
+The second time is 2021-12-25 16:40:55.0000002 +0000 UTC
+Duration between first and second time is -3170h10m10.0000001s
+Duration between second and first time is 3170h10m10.0000001s
 ```
 
 ## Формула роста слайсов
