@@ -67,6 +67,7 @@
 - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/
 - Как отправлять SMS через МТС Exolve и Go https://habr.com/ru/companies/exolve/articles/828370/
 - Why People are Angry over Go 1.23 Iterators https://www.gingerbill.org/article/2024/06/17/go-iterator-design/
+- Profiling in Go: A Practical Guide https://nyadgar.com/posts/go-profiling-like-a-pro/
 
 ### Видео
 
