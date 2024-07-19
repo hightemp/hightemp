@@ -54,6 +54,7 @@
 
 ### Статьи
 
+- How To Use Contexts in Go https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go
 - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
 - Writing an OS in Go: The Bootloader https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader
 - О массивах и слайсах в Go https://habr.com/ru/articles/739754/
