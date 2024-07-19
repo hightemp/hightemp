@@ -1,3 +1,16 @@
+## Сложение времени 
+
+```
+theTime := time.Date(2021, 8, 15, 14, 30, 45, 100, time.UTC)
+fmt.Println("The time is", theTime)
+
+toAdd := 24 * time.Hour
+fmt.Println("Adding", toAdd)
+
+newTime := theTime.Add(toAdd)
+fmt.Println("The new time is", newTime)
+```
+
 ## Как сравнить время
 
 ### Вариант 1
