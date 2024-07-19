@@ -107,6 +107,7 @@
 - https://samypesse.gitbook.io/how-to-create-an-operating-system
 - https://github.com/EbookFoundation/free-programming-books
 - https://github.com/stas00/ml-engineering
+- https://coollib.in/g/comp_soft_dev_oop
 
 ## Курсы
 
