@@ -6,6 +6,7 @@
 - https://awesome-go.com/
 - https://github.com/uhub/awesome-go
 - Design patterns https://github.com/tmrts/go-patterns
+- https://github.com/wangrenjun/awesome-go-blogs
 
 ### Вопросы
 
