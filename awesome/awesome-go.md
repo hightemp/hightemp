@@ -53,6 +53,7 @@
 - Golang как пройти собеседование. Полный разбор 100 вопросов https://pikabu.ru/story/golang_kak_proyti_sobesedovanie_polnyiy_razbor_100_voprosov_11074799
 - https://hashnode.com/n/go
 - https://draft.dev/learn/golang-blogs
+- TOP 50 project ideas to become a golang hero https://dev.to/kumarkalyan/top-50-project-ideas-to-become-a-golang-hero-98k
 
 ### Статьи
 
