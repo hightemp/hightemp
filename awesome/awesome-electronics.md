@@ -28,6 +28,7 @@
 
 - Learn how to design your own computer chips! The Zero to ASIC course covers everything you need to design your own chip using the open source tools. You can even get it manufactured into a real chip! https://www.youtube.com/@ZeroToASICcourse
 - How To Design and Manufacture Your Own Chip https://www.youtube.com/watch?v=caXwuuXSB-A
+- Build Your Own Drone Tracking Radar: Part 1 https://www.youtube.com/watch?v=igrN_wd_g74
 
 ### Статьи
 
