@@ -95,6 +95,7 @@
 
 - Курс "Машинное обучение" на ФКН ВШЭ https://github.com/esokolov/ml-course-hse
 - Реализации LLaMa-3 с нуля https://github.com/naklecha/llama3-from-scratch
+- Материалы продвинутого Сколтеховского курса по трансформерам https://github.com/s-nlp/transformers-course
 
 ### Статьи
 
