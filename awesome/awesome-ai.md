@@ -65,6 +65,7 @@
 ### Генерация изображений
 
 - https://openxlab.org.cn/apps/detail/PixArt-alpha/PixArt-alpha
+- Телеграм бот для midjourney https://t.me/midjourney_midjourney/112858/134798
 
 ### Генерация музыки
 
@@ -110,6 +111,10 @@
 ### Видео
 
 - Let's build the GPT Tokenizer https://www.youtube.com/watch?v=zduSFxRajkE
+
+### Полезные ссылки
+
+- Midlibrary собрал 5300+ стилей художников, архитекторов, дизайнеров, иллюстраторов и фотографов https://midlibrary.io/styles
 
 ### Остальное
 
