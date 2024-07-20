@@ -12,7 +12,7 @@
   - https://spacevim.org/quick-start-guide/
   - https://github.com/ashfinal/vimrc-config
 
-#### Заметки и документация
+#### Заметки, шпоры и документация
 
 - [projects_examples](https://github.com/hightemp/hightemp/blob/main/projects_examples.md) - Коллекция репозиториев сторонних разработчиков (как примеры проектов)
 - [docLinux](https://github.com/hightemp/docLinux) - Заметки о работе в linux
@@ -30,23 +30,10 @@
 - [шпоры - python](https://github.com/hightemp/hightemp/blob/main/python.md)
 - [doc_notes](https://github.com/hightemp/doc_notes) - Заметки из Obsidian
 
-#### Коллекции, awesome
-
-- [col_links_catalog](https://github.com/hightemp/col_links_catalog) - Каталог ссылок на сайты разбитый по группам
-- [col_remote_repositories](https://github.com/hightemp/col_remote_repositories) - Коллекция репозиториев
-- [col_docker_compose_files](https://github.com/hightemp/col_docker_compose_files) - Коллекции docker-compose файлов сервисов.
-- [col_config_files](https://github.com/hightemp/col_config_files) - Конфиги
-- [col_diagrams](https://github.com/hightemp/col_diagrams) - Кол-ция диаграмм - drawio
-
-#### Курсы
-
-- [geekbrains_algorithms](https://github.com/hightemp/geekbrains_algorithms)
-- [otus-linux](https://github.com/hightemp/otus-linux)
-- [otus-nn-python](https://github.com/hightemp/otus-nn-python)
-- [geeklinux-2019-02-01](https://github.com/hightemp/geeklinux-2019-02-01)
-
 #### Текущие
 
+- [http_ssh_proxy](https://github.com/hightemp/http_ssh_proxy) - **golang** простой http прокси перенаправляющий траффик через ssh туннель и yaml конфигом
+- [https_proxy](https://github.com/hightemp/https_proxy) - **golang** https прокси с авторизацией и yaml конфигом
 - [files_backuper](https://github.com/hightemp/files_backuper)⭐ - **golang** инструмент для бэкапа файлов с разных серверов, так же есть возможность отслеживать изменения в файлах
 - [app_docker_compose_list](https://github.com/hightemp/app_docker_compose_list)⭐ - **golang** утилита нужная для того чтобы показать, где запушены контейнеры docker compose
 - [app_github_project_description_agent](https://github.com/hightemp/app_github_project_description_agent) - **nodejs** В проекте реализован GPT-агент, задача котрого получить информацию о проекте по ссылке(github).
@@ -146,8 +133,23 @@
 
 <details>
   <summary> 
-  <h2>Полезные ссылки...</h2>
+  <h2>Остальное</h2>
   </summary>
+
+#### Коллекции, awesome
+
+- [col_links_catalog](https://github.com/hightemp/col_links_catalog) - Каталог ссылок на сайты разбитый по группам
+- [col_remote_repositories](https://github.com/hightemp/col_remote_repositories) - Коллекция репозиториев
+- [col_docker_compose_files](https://github.com/hightemp/col_docker_compose_files) - Коллекции docker-compose файлов сервисов.
+- [col_config_files](https://github.com/hightemp/col_config_files) - Конфиги
+- [col_diagrams](https://github.com/hightemp/col_diagrams) - Кол-ция диаграмм - drawio
+
+#### Курсы
+
+- [geekbrains_algorithms](https://github.com/hightemp/geekbrains_algorithms)
+- [otus-linux](https://github.com/hightemp/otus-linux)
+- [otus-nn-python](https://github.com/hightemp/otus-nn-python)
+- [geeklinux-2019-02-01](https://github.com/hightemp/geeklinux-2019-02-01)
 
 #### Библиотеки
 

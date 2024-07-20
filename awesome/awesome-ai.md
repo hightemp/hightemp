@@ -74,6 +74,10 @@
 - Новая нейросеть MARS5 озвучит текст любым голосом, обучившись на вашем референсе https://camb.ai/ https://github.com/Camb-ai/MARS5-TTS
 - Whisper WebGPU моментально распознает текст из аудио и видео и переведет на нужный язык https://huggingface.co/spaces/Xenova/whisper-webgpu https://github.com/xenova/transformers.js/tree/v3/examples/webgpu-whisper
 
+### Генерация 3D-моделей 
+
+- CAD — нейронка генерирует трехмерные модели САПР из текстовых запросов. Можно облегчить работу и не проектировать шестеренки, детали и запчасти вручную https://zoo.dev/text-to-cad
+
 ### Тренеры
 
 - https://aitutorpro.ca/
