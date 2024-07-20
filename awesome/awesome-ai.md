@@ -67,10 +67,11 @@
 - https://openxlab.org.cn/apps/detail/PixArt-alpha/PixArt-alpha
 - Телеграм бот для midjourney https://t.me/midjourney_midjourney/112858/134798
 
-### Генерация музыки
+### Генерация музыки и аудио
 
 - Сервисы
     - https://www.udio.com/
+- Новая нейросеть MARS5 озвучит текст любым голосом, обучившись на вашем референсе https://camb.ai/ https://github.com/Camb-ai/MARS5-TTS
 
 ### Тренеры
 
