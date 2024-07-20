@@ -66,6 +66,7 @@
 
 - https://openxlab.org.cn/apps/detail/PixArt-alpha/PixArt-alpha
 - Телеграм бот для midjourney https://t.me/midjourney_midjourney/112858/134798
+- Consistent Character by fofr — быстрое создание изображения персонажа в разных положениях https://replicate.com/fofr/consistent-character https://github.com/fofr/cog-consistent-character
 
 ### Генерация музыки и аудио
 
