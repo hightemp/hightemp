@@ -126,6 +126,10 @@
 - разработка и описание устройства ОС https://wiki.osdev.org/Main_Page
 - https://booktracker.org/
 
+## Инструменты
+
+- https://onlineyamltools.com/
+
 ## Полезные ссылки
 
 - это GPT для Reddit. Сервис дает быстрый способ получить самые полезные ответы от реальных людей, а так же находит самые полезные посты на Reddit https://thegigabrain.com/
