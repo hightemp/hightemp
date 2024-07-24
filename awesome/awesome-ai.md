@@ -62,6 +62,7 @@
 - https://llama3.replicate.dev/
 - https://chat.reka.ai/chat
 - https://www.nvidia.com/en-us/ai/
+- https://fireworks.ai/
 
 ### Генерация изображений
 
