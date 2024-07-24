@@ -61,6 +61,7 @@
 - https://huggingface.co/chat/
 - https://llama3.replicate.dev/
 - https://chat.reka.ai/chat
+- https://www.nvidia.com/en-us/ai/
 
 ### Генерация изображений
 
