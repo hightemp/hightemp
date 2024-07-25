@@ -66,6 +66,7 @@
 
 ### Статьи
 
+- Where and When to use Iota in Go https://www.gopherguides.com/articles/how-to-use-iota-in-golang
 - 4 iota enum examples https://yourbasic.org/golang/iota/
 - Golang: context изнутри https://habr.com/ru/articles/827544/
 - How To Use Contexts in Go https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go
@@ -98,3 +99,4 @@
 ### Сайты со статьями
 
 - https://yourbasic.org/
+- https://www.gopherguides.com/
