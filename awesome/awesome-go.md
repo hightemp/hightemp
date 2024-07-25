@@ -11,6 +11,7 @@
 ### Roadmaps
 
 - https://roadmap.sh/golang
+- https://github.com/darius-khll/golang-developer-roadmap
 
 ### Вопросы
 
