@@ -56,6 +56,7 @@
 
 ### Полезные ссылки
 
+- Go Wiki: Iota https://go.dev/wiki/Iota
 - Блог разработчиков https://go.dev/blog/all
 - Схема golang проекта https://github.com/golang-standards/project-layout/blob/master/README_ru.md
 - Golang как пройти собеседование. Полный разбор 100 вопросов https://pikabu.ru/story/golang_kak_proyti_sobesedovanie_polnyiy_razbor_100_voprosov_11074799
@@ -65,7 +66,6 @@
 
 ### Статьи
 
-- Go Wiki: Iota https://go.dev/wiki/Iota
 - Golang: context изнутри https://habr.com/ru/articles/827544/
 - How To Use Contexts in Go https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go
 - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
