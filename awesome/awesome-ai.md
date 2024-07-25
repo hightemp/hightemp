@@ -118,6 +118,21 @@
 - Maybe's AI Art Detector — это модель, разработанная энтузиастом и выложенная в открытый доступ на портале Hugging Face. https://huggingface.co/spaces/umm-maybe/AI-image-detector
 - Hive AI Detector — инструмент разработан учеными и инженерами Hive. Они создали свою модель с нуля и обучили ее более чем на 1млн реальных фотографий. https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi
 
+### Перевод
+
+- DeepL Translate (https://www.deepl.com/translator) — популярный онлайн-переводчик, работающий на ИИ.
+- Stepes (https://www.stepes.com/ai-powered-translation-managment-system/) — сервис переводит не только текст, но и целые файлы, в котором 2 варианта перевода (AI-powered и Automated)
+- Reverso Context (https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/) — онлайн-переводчик с поиском синонимов и перевода по контексту.
+- LanguageTool (https://languagetool.org/ru) — проверит грамматику и пунктуацию в тексте.
+- SimplyTranslate Mobile (https://f-droid.org/packages/com.simplytranslate_mobile/) — переводчик от гугла в виде приложения на Android. Есть функция распознавания текста через камеру.
+- PDNob Image Translator — (https://www.pdnob.com/) захват, распознавание и перевод текста из изображений и PDF одним щелчком мыши. 
+- LibreTranslate (https://libretranslate.com/) — еще переводчик, работающий на основе ИИ.
+- Taia (https://taia.io/) — ИИ-переводчик, бесплатный, но требует регистрации.
+- Translate.ru (https://www.translate.ru/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4) — промт переводчик.
+- Firefox Translations (https://addons.mozilla.org/ru/firefox/addon/firefox-translations/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) — переводит страницу целиком. 
+- Machine Translation (https://www.machinetranslation.com/) — умный переводчик. Использует в себя разные переводчики: DeepL, Google, Amazon и другие.
+- Image Translator (https://chromewebstore.google.com/detail/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/pbhpcbdjngblklnibanbkgkogjmbjeoe?pli=1) - перевод изображений на 30 языков с помощью ИИ.
+
 ### Тренеры
 
 - https://aitutorpro.ca/
