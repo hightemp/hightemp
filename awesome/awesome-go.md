@@ -65,6 +65,7 @@
 
 ### Статьи
 
+- Go Wiki: Iota https://go.dev/wiki/Iota
 - Golang: context изнутри https://habr.com/ru/articles/827544/
 - How To Use Contexts in Go https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go
 - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
