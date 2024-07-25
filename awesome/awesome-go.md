@@ -8,6 +8,10 @@
 - Design patterns https://github.com/tmrts/go-patterns
 - https://github.com/wangrenjun/awesome-go-blogs
 
+### Roadmaps
+
+- https://roadmap.sh/golang
+
 ### Вопросы
 
 - Go — 100 вопросов/заданий с собеседований
