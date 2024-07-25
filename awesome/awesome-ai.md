@@ -63,12 +63,39 @@
 - https://chat.reka.ai/chat
 - https://www.nvidia.com/en-us/ai/
 - https://fireworks.ai/
+- [https://chat.kuki.ai/](https://chat.kuki.ai/) (простой чат)
+- [https://chatdoc.com/](https://chatdoc.com/) (аналогично ChatPDF)
+- [https://chatgpt.com/auth/login?sso=&oaid=dm=1](https://chatgpt.com/auth/login?sso=&oaid=dm=1) (ChatGPT)
+- [https://you.com/](https://you.com/) (может использоваться без входа)
+- [https://www.chatpdf.com/](https://www.chatpdf.com/) (чат с PDF-документами)
+- [https://chatspot.ai/](https://chatspot.ai/) (на основе языковой модели GPT-3)
+- [https://claude.ai/](https://claude.ai/) (помощник по ИИ, предназначенный для работы)
+- [https://clova-x.naver.com/](https://clova-x.naver.com/) (корейский чат-бот с искусственным интеллектом)
+- [https://copilot.microsoft.com/](https://copilot.microsoft.com/)
+- [https://doc.tock.ai/en/](https://doc.tock.ai/en/) (строительный разговорный бот)
+
 
 ### Генерация изображений
 
 - https://openxlab.org.cn/apps/detail/PixArt-alpha/PixArt-alpha
 - Телеграм бот для midjourney https://t.me/midjourney_midjourney/112858/134798
 - Consistent Character by fofr — быстрое создание изображения персонажа в разных положениях https://replicate.com/fofr/consistent-character https://github.com/fofr/cog-consistent-character
+- [https://www.craiyon.com/](https://www.craiyon.com/)
+- [https://leonardo.ai/](https://leonardo.ai/)
+- [https://openart.ai/](https://openart.ai/)
+- [https://www.freepik.com/pikaso/sketch](https://www.freepik.com/pikaso/sketch)
+- [https://invoke-ai.github.io/InvokeAI/](https://invoke-ai.github.io/InvokeAI/)
+- [https://aigreem.com/](https://aigreem.com/)
+- [https://deepai.org/](https://deepai.org/)
+- [https://www.bluewillow.ai/](https://www.bluewillow.ai/)
+- [https://pixai.art/](https://pixai.art/)
+- [https://hypnogram.xyz/](https://hypnogram.xyz/)
+- [https://www.canva.com/ai-image-generator/](https://www.canva.com/ai-image-generator/)
+- [https://designer.microsoft.com/image-creator](https://designer.microsoft.com/image-creator)
+- [https://app.artflow.ai/](https://app.artflow.ai/)
+- [https://sdai.moroz.cc/](https://sdai.moroz.cc/) (для телефонов Android)
+- [https://diffusionbee.com/](https://diffusionbee.com/) (для MacOS)
+- [https://www.fotor.com/](https://www.fotor.com/)
 
 ### Генерация музыки и аудио
 
