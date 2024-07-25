@@ -96,6 +96,8 @@
 - [https://sdai.moroz.cc/](https://sdai.moroz.cc/) (для телефонов Android)
 - [https://diffusionbee.com/](https://diffusionbee.com/) (для MacOS)
 - [https://www.fotor.com/](https://www.fotor.com/)
+- https://perchance.org/zg2eivefxf
+- https://huggingface.co/spaces/KingNish/SDXL-Flash
 
 ### Генерация музыки и аудио
 
