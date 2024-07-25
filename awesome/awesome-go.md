@@ -66,6 +66,7 @@
 
 ### Статьи
 
+- 4 iota enum examples https://yourbasic.org/golang/iota/
 - Golang: context изнутри https://habr.com/ru/articles/827544/
 - How To Use Contexts in Go https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go
 - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
@@ -93,3 +94,7 @@
 
 - nextjs 14, Go, Docker: Build a fullstack rest API in TypeScript and Go https://www.youtube.com/watch?v=429-r55KFmM
 - Golang 100 вопросов с собеседований. Подготовка Go разработчика Часть 1 https://www.youtube.com/watch?v=ZvaD-G5_3vQ
+
+### Сайты со статьями
+
+- https://yourbasic.org/
