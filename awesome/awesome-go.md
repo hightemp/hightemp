@@ -7,6 +7,7 @@
 - https://github.com/uhub/awesome-go
 - Design patterns https://github.com/tmrts/go-patterns
 - https://github.com/wangrenjun/awesome-go-blogs
+- GoDS (Go Data Structures) https://github.com/emirpasic/gods
 
 ### Roadmaps
 
