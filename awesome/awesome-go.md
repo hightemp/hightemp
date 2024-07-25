@@ -12,6 +12,7 @@
 
 - https://roadmap.sh/golang
 - https://github.com/darius-khll/golang-developer-roadmap
+- https://github.com/baselrabia/Golang-Roadmap
 
 ### Вопросы
 
