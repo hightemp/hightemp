@@ -34,6 +34,7 @@
 - https://you.com
 - https://kagi.com/
 - https://www.perplexity.ai/
+- https://andisearch.com/
 
 ### Чаты c документами
 
