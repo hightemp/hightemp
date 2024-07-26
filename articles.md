@@ -1,3 +1,5 @@
+- Разоблачаем магию DiffUtil
+  - https://habr.com/ru/companies/redmadrobot/articles/460673/
 - The best database pagination technique is ...
   - https://dev.to/appwrite/this-is-why-you-should-use-cursor-pagination-4nh5
 - CI/CD with github actions: an end-to-end guide on how to automatically generate release notes from commits.
