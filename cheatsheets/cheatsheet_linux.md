@@ -1,3 +1,52 @@
+## Как составить список текущих вошедших в систему пользователей в Linux
+
+```
+hduser@mahesh-Inspiron-3543:~$ who
+hduser   tty7         2018-03-18 19:08 (:0)
+```
+
+### Чтобы отобразить список пользователей, вошедших в систему
+
+```
+hduser@mahesh-Inspiron-3543:~$ who -u
+hduser   tty7         2018-03-18 19:08 01:16        3357 (:0)
+```
+
+### Чтобы показать время, когда система загружалась в последний раз
+
+```
+hduser@mahesh-Inspiron-3543:~$ who -b -H
+NAME     LINE         TIME                    PID COMMENT
+         system boot  2018-03-18 19:07
+```
+
+### Подсчитать количество пользователей, вошедших в систему
+
+```
+hduser@mahesh-Inspiron-3543:~$ who -q -H
+hduser
+# users=1
+```
+
+### Для отображения всех сведений о текущем вошедшем в систему пользователе
+
+```
+hduser@mahesh-Inspiron-3543:~$ who -a
+           system boot  2018-03-18 19:07
+LOGIN      tty1         2018-03-18 19:07              3073 id=tty1
+           run-level 5  2018-03-18 19:07
+hduser   + tty7         2018-03-18 19:08 01:13        3357 (:0)
+```
+
+### Для отображения списка пользователей и их действий
+
+```
+hduser@mahesh-Inspiron-3543:~$ w
+ 20:39:20 up  1:32,  1 user,  load average: 0.09, 0.06, 0.07
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+hduser   tty7     :0               19:08    1:32m 38.95s  0.19s /sbin/upstart -
+```
+
 ## Форвардинг socket'ов по ssh
 
 ### Ваоиант 1
