@@ -66,6 +66,7 @@
 
 ### Статьи
 
+- Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
 - Where and When to use Iota in Go https://www.gopherguides.com/articles/how-to-use-iota-in-golang
 - 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
 - Golang: context изнутри https://habr.com/ru/articles/827544/
