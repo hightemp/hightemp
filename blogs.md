@@ -1,4 +1,7 @@
-
+- https://research.swtch.com/
+  - golang
+  - EN
+  - Russ Cox https://swtch.com/~rsc/
 - https://kovardin.ru/
   - golang, flutter
   - RU
