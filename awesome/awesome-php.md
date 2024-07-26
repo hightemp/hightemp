@@ -68,6 +68,7 @@
 
 ### Полезные ссылки
 
+- https://www.php-fig.org/psr/
 - https://refactoringguru.cn/
 
 ### Статьи
