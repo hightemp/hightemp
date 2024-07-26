@@ -69,3 +69,83 @@ auxv         comm        cwd                 fdinfo   ksm_stat           maps   
 
 - [Документация proc(5)](https://man7.org/linux/man-pages/man5/proc.5.html)
 - [Kernel.org: The /proc Filesystem](https://www.kernel.org/doc/html/latest/filesystems/proc.html)
+
+#### Описание объектов директории
+
+**Файлы и директории, общие для всех процессов:**
+
+* **arch_status:** Содержит информацию о состоянии архитектурно-зависимых возможностей процесса. *Нет стандартной документации.*
+* **attr:**  Используется для установки дополнительных атрибутов безопасности для процесса. Подробнее: [man chattr](https://man7.org/linux/man-pages/man1/chattr.1.html)
+* **autogroup:**  Показывает информацию о группах, к которым процесс принадлежит автоматически. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/autogroup`)
+* **auxv:**  Содержит вспомогательные векторы, переданные процессу при запуске. *Нет стандартной документации.*
+* **cgroup:**  Отображает информацию о группах контроля (cgroups), к которым принадлежит процесс. Подробнее: [man cgroups](https://man7.org/linux/man-pages/man7/cgroups.7.html)
+* **cmdline:**  Содержит полную командную строку, использованную для запуска процесса. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/cmdline`)
+* **comm:**  Позволяет читать и записывать имя команды процесса. Подробнее: [man prctl](https://man7.org/linux/man-pages/man2/prctl.2.html) (опция `PR_SET_NAME` и `PR_GET_NAME`)
+* **coredump_filter:**  Контролирует, какие области памяти процесса включаются в дамп ядра. Подробнее: [man core](https://man7.org/linux/man-pages/man5/core.5.html)
+* **cpu_resctrl_groups:**  Подобна **cgroup**, но для подсистемы управления ресурсами процессора (resctrl). Подробнее: [Kernel Documentation](https://www.kernel.org/doc/Documentation/x86/intel_rdt.txt)
+* **cpuset:**  Показывает информацию о наборах процессоров и узлов NUMA, к которым привязан процесс. Подробнее: [man cpuset](https://man7.org/linux/man-pages/man7/cpuset.7.html)
+* **cwd:**  Символическая ссылка на текущий рабочий каталог процесса. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/cwd`)
+* **environ:**  Содержит переменные окружения процесса. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/environ`)
+* **exe:**  Символическая ссылка на исполняемый файл процесса. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/exe`)
+* **fd:**  Директория, содержащая записи для каждого открытого файлового дескриптора процесса. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/fd`)
+* **fdinfo:**  Содержит информацию об открытых файловых дескрипторах процесса. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/fdinfo`)
+* **gid_map:**  Отображает сопоставление идентификаторов групп процесса между пространствами имён пользовательских и системных идентификаторов. Подробнее: [man user_namespaces](https://man7.org/linux/man-pages/man7/user_namespaces.7.html)
+* **io:**  Предоставляет информацию о вводе-выводе процесса. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/io`)
+* **ksm:**  Директория, содержащая информацию о системе объединения страниц ядра (Kernel Samepage Merging). 
+    * **ksm_merging_pages:** Содержит количество страниц памяти, которые ядро пытается объединить. 
+    * **ksm_stat:** Предоставляет статистику по KSM.
+* **limits:**  Отображает текущие ограничения ресурсов для процесса. Подробнее: [man getrlimit](https://man7.org/linux/man-pages/man2/getrlimit.2.html)
+* **loginuid:**  Содержит идентификатор пользователя, используемый для входа в систему. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/loginuid`)
+
+**Файлы и директории, относящиеся к памяти:** 
+
+* **map_files:**  Содержит информацию о сопоставлениях файлов с памятью процесса. *Нет стандартной документации.*
+* **maps:**  Отображает области памяти, используемые процессом. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/maps`)
+* **mem:**  Позволяет читать и записывать содержимое адресного пространства процесса. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/mem`)
+* **mountinfo:**  Содержит информацию о точках монтирования, видимых процессу. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/mountinfo`)
+* **mounts:**  Отображает список точек монтирования, видимых процессу, в формате /proc/mounts. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/mounts`)
+* **numa_maps:** Похож на **maps**, но также отображает информацию о политиках NUMA. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/numa_maps`)
+* **oom_adj:**  Устаревшая настройка для регулировки оценки склонности процесса к нехватке памяти (OOM). Используйте **oom_score_adj**. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/oom_adj`)
+
+**Файлы и директории, связанные с планировщиком и ресурсами:** 
+
+* **net:**  Директория, содержащая информацию о сетевых настройках и статистике. Содержимое зависит от сетевых протоколов. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/net`)
+* **ns:**  Директория, содержащая символические ссылки на пространства имен, связанные с процессом. Подробнее: [man namespaces](https://man7.org/linux/man-pages/man7/namespaces.7.html)
+* **oom_score:**  Отображает оценку склонности процесса к нехватке памяти (OOM). Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/oom_score`)
+* **oom_score_adj:**  Позволяет регулировать оценку OOM процесса. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/oom_score_adj`)
+* **pagemap:**  Предоставляет информацию о сопоставлении виртуальных адресов процесса с физическими страницами памяти. *Нет стандартной документации.*
+* **personality:**  Позволяет узнать и изменить индивидуальность выполнения процесса. Подробнее: [man personality](https://man7.org/linux/man-pages/man2/personality.2.html)  
+* **projid_map:**  Отображает сопоставление идентификаторов проектов процесса между пространствами имён пользовательских и системных идентификаторов. Подробнее: [man project](https://man7.org/linux/man-pages/man7/project.7.html)
+* **root:**  Символическая ссылка на корневой каталог файловой системы процесса. Подробнее: [man chroot](https://man7.org/linux/man-pages/man2/chroot.2.html)
+* **sched:**  Отображает информацию о планировании процесса. *Нет стандартной документации.*
+* **schedstat:**  Предоставляет статистику планирования процесса. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/schedstat`)
+* **sessionid:**  Содержит идентификатор сеанса, к которому принадлежит процесс. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/sessionid`)
+* **setgroups:**  Показывает, может ли процесс устанавливать дополнительные группы. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/setgroups`)
+* **smaps:**  Отображает подробную информацию об использовании памяти (подобна **maps**, но с дополнительной статистикой). Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/smaps`)
+* **smaps_rollup:** Агрегированная информация об использовании памяти процессом (объединение данных из **smaps**). Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/smaps_rollup`)
+* **stack:**  Отображает содержимое стека ядра процесса. *Нет стандартной документации.*
+* **stat:**   Содержит различную информацию о процессе, такую как состояние, использование ресурсов и время работы. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/stat`)
+* **statm:**  Предоставляет информацию об использовании памяти в страницах. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/statm`)
+* **status:**  Содержит различную информацию о текущем состоянии процесса. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/status`)
+* **syscall:**  Отображает текущий системный вызов, выполняемый процессом. *Нет стандартной документации.*
+
+**Файлы и директории, отвечающие за время:**
+
+* **task:**  Директория, содержащая поддиректории для каждого потока процесса. Подробнее: [man proc](https://man7.org/linux/man-pages/man5/proc.5.html) (раздел `/proc/[pid]/task`)
+* **timens_offsets:** Содержит смещения таймеров процесса относительно часов ядра. *Нет стандартной документации.*
+* **timers:**  Предоставляет информацию о таймерах, установленных процессом (POSIX timers). Подробнее: [man timer_create](https://man7.org/linux/man-pages/man2/timer_create.2.html)
+* **timerslack_ns:**  Позволяет настраивать параметр slack таймеров POSIX для процесса. Подробнее: [man prctl](https://man7.org/linux/man-pages/man2/prctl.2.html) (опция `PR_TIMER_SETSLACK`)
+
+**Файлы и директории, связанные с пользователем и процессами:**
+
+* **uid_map:**  Отображает сопоставление идентификаторов пользователей процесса между пространствами имён пользовательских и системных идентификаторов. Подробнее: [man user_namespaces](https://man7.org/linux/man-pages/man7/user_namespaces.7.html)
+* **wchan:**  Показывает, на каком объекте ядра ожидает процесс (например, семафор, мьютекс).  *Нет стандартной документации.*
+
+
+**Дополнительные замечания:**
+
+*  Некоторые из этих файлов и директорий доступны только пользователю root или владельцу процесса.
+*  Содержимое некоторых файлов может быть представлено в шестнадцатеричном или другом нечитаемом формате.
+*  Для получения более подробной информации о конкретном файле или директории рекомендуется обратиться к документации ядра Linux или использовать команду `man proc`.
+*  Наличие и поведение некоторых файлов и директорий  зависит от конфигурации ядра и  версии Linux. 
+
