@@ -78,6 +78,7 @@
 
 ### Статьи
 
+- An Applied Introduction to eBPF with Go https://sazak.io/articles/an-applied-introduction-to-ebpf-with-go-2024-06-06
 - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
 - Where and When to use Iota in Go https://www.gopherguides.com/articles/how-to-use-iota-in-golang
 - 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
