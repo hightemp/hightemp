@@ -159,6 +159,14 @@
 - Реализации LLaMa-3 с нуля https://github.com/naklecha/llama3-from-scratch
 - Материалы продвинутого Сколтеховского курса по трансформерам https://github.com/s-nlp/transformers-course
 - https://stepik.org/course/177280/
+- Введение Google в генеративный искусственный интеллект, его применение, а также знакомство с инструментами Google для создания собственных приложений. https://www.cloudskillsboost.google/course_templates/536
+- Генеративный ИИ DeepLearning AI для всех. https://www.deeplearning.ai/courses/generative-ai-for-everyone/
+- Гарвардский университет CS50: Введение в искусственный интеллект с помощью Python. Получите базу в области ИИ с использованием Python, включая машинное обучение, нейронные сети и многое другое, в этом гарвардском курсе. https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python/2023-05
+- DeepLearning AI’s ChatGPT Prompt Engineering для разработчиков. Курс, сделан DeepLearning AI и OpenAI. https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+- Microsoft «Что такое генеративный искусственный интеллект?» https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanityd
+- Работа с промт. Этот курс поможет пройти путь от новичка до босса промтов. Курс включает более 60 модулей содержания. https://learnprompting.org/
+- Microsoft — курс по работе с ИИ. https://microsoft.github.io/AI-For-Beginners/
+- Nvidiа — базированный 2-часовой курс, который подробно объяснит устройство нейронок, их применения. https://courses.nvidia.com/courses/course-v1:DLI+S-FX-07+V1/
 
 ### Статьи
 
