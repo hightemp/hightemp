@@ -34,6 +34,7 @@
     - https://github.com/mantinedev/mantine
     - https://github.com/marmelab/react-admin
     - https://github.com/segmentio/evergreen
+    - https://github.com/shadcn-ui/ui
 - Формы
     - https://react-hook-form.com/
     - https://github.com/jaredpalmer/formik
