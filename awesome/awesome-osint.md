@@ -76,6 +76,7 @@
 - https://www.fakeimagedetector.com/
 - http://imageedited.com/
 - мониторинг наиболее обсуждаемых CVE https://cvecrowd.com
+- Реестр адвокатов Российской Федерации при Минюсте РФ для ✅проверки текущего статуса и номера удостоверения.  https://minjust.gov.ru/ru/pages/advokaty-rossijskoj-federacii/
 
 ### Статьи
 
