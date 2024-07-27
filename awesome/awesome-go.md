@@ -38,6 +38,15 @@
 - Goravel - это полнофункциональный и масштабируемый веб-фреймворк для Go, вдохновленный Laravel, который помогает разработчикам быстро создавать приложения, облегчая переход с PHP и приветствуя вклад сообщества в виде звезд, PR и issues на GitHub. https://www.goravel.dev/ https://github.com/goravel/framework
 - The enterprise Golang REST API framework. Goyave is an opinionated all-in-one Golang web framework focused on REST APIs, with emphasis on code reliability, maintainability and developer experience. https://goyave.dev/
 
+#### GUI
+
+- https://github.com/guark/guark Guark - это open-source фреймворк для создания кроссплатформенных настольных приложений с графическим интерфейсом, позволяющий разрабатывать логику на Go, а пользовательский интерфейс - с использованием современных веб-технологий, таких как Vue.js и React.js.
+- https://gioui.org/ Gio - библиотека для написания кроссплатформенных GUI-приложений с использованием языка Go, поддерживающая все основные платформы: Linux, macOS, Windows, Android, iOS, FreeBSD, OpenBSD и WebAssembly.
+- https://github.com/fyne-io/fyne Fyne - простой в использовании набор инструментов для создания пользовательского интерфейса и API приложений, написанный на Go. Предназначен для разработки приложений, работающих на рабочих столах и мобильных устройствах с использованием единого исходного кода.
+- https://github.com/wailsapp/wails Wails - создавайте настольные приложения с использованием Go и веб-технологий, объединяя код на Go и веб-интерфейс в единый бинарный файл для удобства разработки и использования.
+- https://github.com/aarzilli/nucular Nucular - библиотека для создания GUI на Go с поддержкой mostly-immediate-mode, представляющая порт ранней версии nuklear. Важно учитывать, что проект подвержен изменениям, несовместимым с предыдущими версиями, и запросы функций без соответствующей реализации не обслуживаются.
+
+
 ### Утилиты
 
 - Альтернатива makefile - go-task https://taskfile.dev/
