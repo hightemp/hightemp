@@ -101,6 +101,10 @@
 - https://huggingface.co/spaces/KingNish/SDXL-Flash
 - https://huggingface.co/fal/AuraFlow https://fal.ai/models/fal-ai/aura-flow/playground?ref=blog.fal.ai
 
+### Анимация изображений
+
+- https://svgartista.net/ Исходный файл загружается в SVG-формате. Результат генерации копируется в виде SVG-кода и CSS-стилей. Регистрация не нужна.
+
 ### Генерация музыки и аудио
 
 - Сервисы
