@@ -183,6 +183,20 @@
 
 - Build a Large Language Model (From Scratch) https://github.com/rasbt/LLMs-from-scratch/
 - Учебник, где собрана коллекция задачек о нейросетях, параллельно даётся необходимая теория с объяснением https://fulyankin.github.io/deep_learning_masha_book/intro.html
+- Deep Learning: Foundations and Concepts (Bishop & Bishop, 2023)
+- Deep Learning (Goodfellow, Bengio, Courville, 2016)
+- The Little Book of Deep Learning (Fleuret, 2023)
+- Mathematics for Machine Learning (Deisenroth, Faisal, Ong, 2020)
+- Probabilistic Machine Learning (Murphy, 2012-2023)
+- Linear Algebra and Learning from Data (Strang, 2019)
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition (Géron, 2022)
+- Dive into Deep Learning (Zhang et al., 2023)
+- Designing Machine Learning Systems (Huyen, 2022)
+- Fundamentals of Data Engineering (Reis & Housley, 2022)
+- Natural Language Processing with Transformers, Revised Edition (Tunstall, von Werra, Wolf, 2023)
+- Hands-On Large Language Models (Alammar and Grootendorst, 2024 - WIP)
+- Generative Deep Learning, 2nd Edition (Foster, 2023)
+- Hands-On Generative AI with Transformers and Diffusion Models (Cuenca et al., 2024 - WIP)
 
 ### Видео
 
@@ -201,6 +215,7 @@ aios.network — получите бесплатный доступ ко все�
 - http://temp-mail.org — получайте электронные письма на временный адрес, который самоуничтожается по истечении определенного времени.
 - http://remove.bg — загрузите свое изображение и легко удалите любой фон с помощью ИИ.
 - http://pdfescape.com — редактируйте PDF-файлы онлайн без какого-либо дополнительного ПО.
+- https://Gptunnel.ru
 
 ### Остальное
 
