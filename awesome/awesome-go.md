@@ -78,6 +78,7 @@
 
 ### Статьи
 
+- Avoiding Beginner Mistakes Hampering You to Scale Backend (Пример оптимизации #golang сервиса на 2 GB памяти и 1 CPU) https://dev.to/rikenshah/scaling-backend-to-1m-requests-with-just-2gb-ram-4m0c#optimization-7-avoid-overloading-goroutines
 - An Applied Introduction to eBPF with Go https://sazak.io/articles/an-applied-introduction-to-ebpf-with-go-2024-06-06
 - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
 - Where and When to use Iota in Go https://www.gopherguides.com/articles/how-to-use-iota-in-golang
