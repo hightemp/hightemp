@@ -137,6 +137,7 @@
 - На GitHub собрали сборник из 300 вопросов, которые помогут выяснить, насколько вы хороший сисадмин. https://github.com/trimstray/test-your-sysadmin-skills
 - Аналог figma https://pixso.net
 - Anna's Archive org https://annas-archive.gs
+- Темы для bootstrap https://bootswatch.com/
 
 ## Статьи
 
