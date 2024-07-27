@@ -62,6 +62,20 @@
 - [start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
 - [start.me/p/L1rEYQ/osint4all](https://start.me/p/L1rEYQ/osint4all)
 
+### Отслеживание самолётов и авиаперевозок по открытым данным
+
+- https://flightradar24.com - отслеживание полётов в режиме реального времени.
+- https://planefinder.net - полеты и другая информация о воздушных судах.
+- https://www.radarbox.com - полеты и другая информация о воздушных судах.
+- https://flightaware.com - отслеживание полетов и информация о статусе рейсов.
+- https://aviationstack.com - рейсы и расписание в аэропортах.
+- https://globe.adsbexchange.com -  глобальное  отслеживание полетов на основе данных  ADS-B.
+- https://planefinder.net -  сервис для отслеживания полетов и информации о воздушных судах.
+- https://www.planespotters.net/ - информация по самолетам.
+- https://opensky-network.org - некоммерческий волонтерский проект по  отслеживанию рейсов.
+- https://skyvector.com - планировщик для авиарейсов.
+- https://github.com/ANG13T/skytrack - OSINT-инструмент  для сбора данных о полетах и генерации отчётности.
+
 ### Проверка IP/веб-сайта на абьюз и жалобы
 
 - https://www.abuseipdb.com - информация о  вредоносной активности с различных IP. Проект борется с вредоносной активностью в Интернете.
