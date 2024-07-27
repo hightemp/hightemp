@@ -99,6 +99,7 @@
 - [https://www.fotor.com/](https://www.fotor.com/)
 - https://perchance.org/zg2eivefxf
 - https://huggingface.co/spaces/KingNish/SDXL-Flash
+- https://huggingface.co/fal/AuraFlow https://fal.ai/models/fal-ai/aura-flow/playground?ref=blog.fal.ai
 
 ### Генерация музыки и аудио
 
