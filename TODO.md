@@ -16,39 +16,16 @@
 - [ ] Менеджер задач на golang
   - Список задач, избранное, история
 - [ ] Менеджер файлов на сервере на golang
-- [ ] Найти прокси-2-vpn
-  - https://github.com/xjasonlyu/tun2socks
-- [ ] Найти прокси-2-ssh-proxy
 - [ ] Найти софт для менеджмента серверов
+  - https://coolify.io/
 - [ ] Найти софт для менеджмента данных
+  - https://github.com/mayneyao/eidos
+
+---
+
+- [x] ~Найти прокси-2-ssh-proxy~ Написал свой https://github.com/hightemp/http_ssh_proxy
 
 ### Посмотреть
 
-- [ ] использование c++ и golang
 - [ ] глянуть https://github.com/DioxusLabs/dioxus https://github.com/iced-rs/iced https://github.com/lapce/floem
 
-### Описать
-
-top
-vmstat
-w
-ps
-iostat
-sar
-pmap
-netstat
-ss
-iptraf
-tcpdump
-iotop
-htop
-strace
-/proc/ файловая система
-Nagios
-Cacti
-ntop
-Conky
-GKrellM
-mtr
-vtop
-gtop
