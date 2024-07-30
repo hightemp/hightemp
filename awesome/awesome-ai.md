@@ -35,6 +35,7 @@
 - https://kagi.com/
 - https://www.perplexity.ai/
 - https://andisearch.com/
+- https://chatgpt.com/search
 
 ### Чаты c документами
 
