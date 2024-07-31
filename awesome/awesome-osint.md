@@ -86,6 +86,7 @@
 
 ### Полезные ссылки
 
+- Агрегатор новостных сайтов с фильтрами https://emm.newsbrief.eu/
 - Бразуер в браузере для проверки сомнительных ссылок https://browser.lol/create
 - https://www.fakeimagedetector.com/
 - http://imageedited.com/
