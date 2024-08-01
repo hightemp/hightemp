@@ -6,4 +6,4 @@
 
 ### Статьи
 
-- 
+- Протокол QUIC в деле: как его внедрял Uber, чтобы оптимизировать производительность https://habr.com/ru/companies/Voximplant/articles/463073/
