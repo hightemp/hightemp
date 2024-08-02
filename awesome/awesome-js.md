@@ -25,7 +25,10 @@
 - markdown
   - https://www.npmjs.com/package/marked
 - query string
-  - https://www.npmjs.com/package/qs  
+  - https://www.npmjs.com/package/qs
+- Торговля
+  - NFT
+    - https://github.com/NFTGo/GoTrading
 
 ### Демо
 
