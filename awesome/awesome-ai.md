@@ -166,6 +166,10 @@
     - https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
     - https://github.com/saoudrizwan/claude-dev
 
+### collab
+
+- Файнтюним LLaMa 3.1 8B бесплатно в Google Collab https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing
+
 ### Курсы
 
 - Курс "Машинное обучение" на ФКН ВШЭ https://github.com/esokolov/ml-course-hse
