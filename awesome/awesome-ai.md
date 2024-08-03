@@ -126,6 +126,10 @@
 - Maybe's AI Art Detector — это модель, разработанная энтузиастом и выложенная в открытый доступ на портале Hugging Face. https://huggingface.co/spaces/umm-maybe/AI-image-detector
 - Hive AI Detector — инструмент разработан учеными и инженерами Hive. Они создали свою модель с нуля и обучили ее более чем на 1млн реальных фотографий. https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi
 
+### Преобразование текста в речь
+
+- https://github.com/snakers4/silero-models https://huggingface.co/spaces/NeuroSenko/tts-silero
+
 ### Перевод
 
 - DeepL Translate (https://www.deepl.com/translator) — популярный онлайн-переводчик, работающий на ИИ.
