@@ -75,7 +75,8 @@
 - [https://clova-x.naver.com/](https://clova-x.naver.com/) (корейский чат-бот с искусственным интеллектом)
 - [https://copilot.microsoft.com/](https://copilot.microsoft.com/)
 - [https://doc.tock.ai/en/](https://doc.tock.ai/en/) (строительный разговорный бот)
-
+- android
+    - chatgpt неофиц. клиент https://github.com/skydoves/chatgpt-android/releases
 
 ### Генерация изображений
 

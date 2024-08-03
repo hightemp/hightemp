@@ -2,6 +2,11 @@
 ### Инвестиции
 
 - https://brainbox.vc/
+- https://bizmall.ru
+- https://aktivo.ru/realty
+- https://jetlend.ru/
+- https://my.first-am.ru
+
 
 ### Книги
 
