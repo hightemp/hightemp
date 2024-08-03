@@ -1,3 +1,5 @@
+- Postgres is all you need, even for vectors
+  - https://anyblockers.com/posts/postgres-is-all-you-need-even-for-vectors
 - Разоблачаем магию DiffUtil
   - https://habr.com/ru/companies/redmadrobot/articles/460673/
 - The best database pagination technique is ...
