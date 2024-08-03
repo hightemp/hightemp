@@ -22,7 +22,11 @@
 - Using VIM for React, Rails & Node development https://byteable.medium.com/using-vim-for-react-rails-node-development-80cc27bdd80b
 - My Neovim setup for React, TypeScript, Tailwind CSS, etc https://medium.com/prodhacker/my-neovim-setup-for-react-typescript-tailwind-css-etc-in-2022-a7405862c9a4
 
-### Плагины, Dev as Life, Takuya Matsuyama
+### Видео
+
+- Neovim настройка | Плагины | LazyVim https://www.youtube.com/watch?v=MS9ZAQTMpKg
+
+#### Плагины, Dev as Life, Takuya Matsuyama
 
 ```
 Neovim >= 0.7
