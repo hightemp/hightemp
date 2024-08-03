@@ -6,3 +6,4 @@
 | https://github.com/yccheok/jstock | JStock is a free stock market software for 28 countries |
 | https://github.com/StockSharp/StockSharp | |
 | https://github.com/mayneyao/eidos | Селфхостед замена Notion |
+| https://tabletool.io/ | TableTool — идеальное средство просмотра CSV-файлов. |
