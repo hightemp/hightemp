@@ -270,6 +270,16 @@ ulimit -n 8192
 sudo sh -c "ulimit -n 8192"
 ```
 
+## Еще один способ повысить лимиты на открытые файлы для пользователя
+
+```console
+$ echo -e "*               soft    nofile          1000000\n*               hard    nofile          1000000" | sudo tee /etc/security/limits.d/custom.conf
+$ echo "session required pam_limits.so" | sudo tee -a /etc/pam.d/common-session
+# Перезайти
+$ exec su - $USER
+$ ulimit -n
+```
+
 ## Как увеличить лимит открытых файлов в Linux
 
 ### Поиск лимита открытых файлов в Linux

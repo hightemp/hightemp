@@ -199,6 +199,7 @@
 - Hands-On Large Language Models (Alammar and Grootendorst, 2024 - WIP)
 - Generative Deep Learning, 2nd Edition (Foster, 2023)
 - Hands-On Generative AI with Transformers and Diffusion Models (Cuenca et al., 2024 - WIP)
+- Accelerate Model Training with PyTorch 2.X https://github.com/PacktPublishing/Accelerate-Model-Training-with-PyTorch-2.X/tree/main
 
 ### Видео
 
