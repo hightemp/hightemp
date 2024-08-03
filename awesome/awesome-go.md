@@ -78,6 +78,10 @@
 - https://draft.dev/learn/golang-blogs
 - TOP 50 project ideas to become a golang hero https://dev.to/kumarkalyan/top-50-project-ideas-to-become-a-golang-hero-98k
 
+### Книги
+
+- Full-Stack Web Development with Go. Nanik Tolaram, 2023 https://t.me/code_storage/756
+
 ### Статьи
 
 - Рассматриваем #golang каналы в комплексе https://www.dolthub.com/blog/2024-06-21-channel-three-ways/
