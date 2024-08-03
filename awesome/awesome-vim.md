@@ -10,6 +10,7 @@
 ### Plugins
 
 - https://github.com/folke/lazy.nvim
+- https://github.com/nvim-neo-tree/neo-tree.nvim
 
 ### vimrc
 
