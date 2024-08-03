@@ -63,6 +63,7 @@
 ### Книги
 
 - Учебник на русском https://doc.rust-lang.ru/book/ch01-02-hello-world.html
+- Rust Web Programming Maxwell Flitton, 2023 https://t.me/code_storage/755
 
 ### Шпаргалки
 
