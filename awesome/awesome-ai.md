@@ -170,6 +170,10 @@
 
 - Файнтюним LLaMa 3.1 8B бесплатно в Google Collab https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing
 
+### Репозитории
+
+- Проект ComfyUI - это мощный и модульный графический интерфейс с открытым исходным кодом для Stable Diffusion, позволяющий создавать сложные рабочие процессы генерации изображений с помощью визуального программирования на основе узлов и диаграмм, поддерживающий широкий спектр моделей и оптимизаций. https://github.com/comfyanonymous/ComfyUI
+
 ### Курсы
 
 - Курс "Машинное обучение" на ФКН ВШЭ https://github.com/esokolov/ml-course-hse
