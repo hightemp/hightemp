@@ -1,5 +1,6 @@
 ## Коллекции
 
+- Проект "Every Programmer Should Know" - это коллекция преимущественно технических ресурсов, которые, по мнению автора, должен знать каждый разработчик программного обеспечения, независимо от уровня навыков или технологического стека. https://github.com/mtdvio/every-programmer-should-know
 - https://github.com/kamranahmedse/developer-roadmap
 - https://github.com/mrmykey/awesome-http-clients
 - Шаблоны масштабируемых, надежных и производительных крупномасштабных систем. https://github.com/binhnguyennus/awesome-scalability
