@@ -22,6 +22,8 @@
     - https://antoniandre.github.io/splitpanes/
 - Чаты
     - MChat - библиотека компонентов чата на Vue.js, которая предоставляет базовые компоненты для быстрой разработки веб-чатов с возможностью расширения функциональности. https://gitee.com/july-meteor/vue-mchat
+- Админки
+    - https://github.com/vbenjs/vue-vben-admin
 
 ### Слайдеры
 
