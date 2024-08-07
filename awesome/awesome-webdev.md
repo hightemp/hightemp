@@ -1,4 +1,5 @@
 
 ### Сайты песочницы 
 
-- https://playcode.io/react
+- https://playcode.io/
+- https://codesandbox.io/
