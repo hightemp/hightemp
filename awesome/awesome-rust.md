@@ -38,6 +38,7 @@
 ### Сайты со статьями
 
 - https://rust-trends.com/
+- https://brson.github.io/rust-anthology/1/index.html
 
 ### Библиотеки
 
