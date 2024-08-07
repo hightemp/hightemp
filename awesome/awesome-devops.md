@@ -8,6 +8,7 @@
 - https://awesome.ecosyste.ms/lists/awesome-foss%2Fawesome-sysadmin
 - https://awesome.ecosyste.ms/lists/trimstray%2Fthe-book-of-secret-knowledge
 - https://awesome.ecosyste.ms/lists/moul%2Fawesome-ssh
+- https://gitee.com/awesome-lib/awesome-devops
 
 ### Статьи
 
