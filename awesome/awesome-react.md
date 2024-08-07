@@ -57,6 +57,8 @@
     - https://github.com/visgl/react-map-gl
     - https://github.com/JedWatson/react-select
     - https://github.com/react-spring/react-spring
+- dnd panel
+    - https://github.com/react-grid-layout/react-grid-layout
 
 ### Шаблоны
 
