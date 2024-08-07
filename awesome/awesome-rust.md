@@ -96,6 +96,9 @@
 - https://fasterthanli.me/
 - https://smallcultfollowing.com/babysteps/
 - https://www.lpalmieri.com/
+- https://llogiq.github.io/
+- https://www.ralfj.de/blog/
+- https://seanmonstar.com/
 
 ### Видео
 
