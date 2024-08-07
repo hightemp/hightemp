@@ -91,6 +91,10 @@
 - https://github.com/google/comprehensive-rust
 - https://google.github.io/comprehensive-rust/index.html
 - https://www.youtube.com/playlist?list=PLlcnQQJK8SUjApd95LIcd3K9XXmE-IeCS
+- https://teach-rs.trifectatech.org
+- https://teach-rs.trifectatech.org/rust-intro/
+- https://teach-rs.trifectatech.org/rust-for-systems/
+- https://teach-rs.trifectatech.org/rust-for-web/
 
 ### Блоги
 
