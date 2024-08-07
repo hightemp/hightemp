@@ -2,6 +2,8 @@
 ### Коллекции
 
 - https://github.com/mre/idiomatic-rust
+- https://rust-unofficial.github.io/patterns/
+- https://doc.rust-lang.org/rust-by-example/
 - https://github.com/ctjhoa/rust-learning
 - https://github.com/sger/RustBooks
 - https://github.com/rust-lang/rustlings
