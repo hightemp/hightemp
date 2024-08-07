@@ -1,3 +1,7 @@
+- https://hmarr.com/blog/
+  - golang, other
+  - EN
+  - I'm a programmer and technology leader from London, currently based in Brooklyn, NY. In the past, I've helped build GitHub, Dependabot, Monzo and GoCardless. I go by @hmarr on GitHub and most other places on the internet.
 - https://blog.stribik.technology/
   - admin
   - EN
