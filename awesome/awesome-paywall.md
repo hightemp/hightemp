@@ -1,4 +1,5 @@
 - Medium
   - https://freedium.cfd/
 - Остальное
+  - Hover, расширение для chrome https://github.com/nang-dev/hover-paywalls-browser-extension
   - https://archive.ph/
