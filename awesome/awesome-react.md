@@ -67,6 +67,8 @@
     - markdown
         - https://github.com/remarkjs/react-markdown
 - Интерфейс
+    - Подсветка слов
+        - https://github.com/bvaughn/react-highlight-words
     - Сплит панели
         - https://github.com/tomkp/react-split-pane
     - Контекстное меню (правая кнопка мыши)
