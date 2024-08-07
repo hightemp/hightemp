@@ -100,6 +100,8 @@
 - https://www.ralfj.de/blog/
 - https://seanmonstar.com/
 - https://rust-osdev.com/
+- https://blog.m-ou.se/
+- https://cliffle.com/
 
 ### Видео
 
