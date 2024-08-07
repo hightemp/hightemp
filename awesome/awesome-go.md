@@ -85,6 +85,7 @@
 
 ### Статьи
 
+- Making a Go program run 1.7x faster with a one character change 2022-11-13 https://hmarr.com/blog/go-allocation-hunting/?ref=refind
 - Кратко про сетевые протоколы в Golang: TCP, QUIC и UDP https://habr.com/ru/companies/otus/articles/830096/
 - Рассматриваем #golang каналы в комплексе https://www.dolthub.com/blog/2024-06-21-channel-three-ways/
 - No sleep until we build the ideal pub/sub library in Go; Автор рассматривает разные подходы к написанию pub/sub библиотеки на #golang; https://rauljordan.com/no-sleep-until-we-build-the-perfect-library-in-go/
@@ -126,3 +127,7 @@
 
 - https://yourbasic.org/
 - https://www.gopherguides.com/
+
+### Telegram
+
+- https://t.me/kodikapusta
