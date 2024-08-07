@@ -86,6 +86,7 @@
 
 ### Статьи
 
+- Go best practices, six years in https://peter.bourgon.org/go-best-practices-2016/?ref=refind
 - Server-side I/O Performance: Node vs. PHP vs. Java vs. Go https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go?ref=refind
 - Rubbing control theory on the Go scheduler https://www.cockroachlabs.com/blog/rubbing-control-theory/?ref=refind
 - Interactive Go programming with Jupyter https://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1
