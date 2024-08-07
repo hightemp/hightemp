@@ -12,3 +12,4 @@
 ### Статьи
 
 - SSH: Best practices https://blog.0xbadc0de.be/archives/300
+- Secure Secure Shell https://blog.stribik.technology/2015/01/04/secure-secure-shell.html
