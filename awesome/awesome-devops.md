@@ -11,6 +11,10 @@
 - https://awesome.ecosyste.ms/lists/moul%2Fawesome-ssh
 - https://gitee.com/awesome-lib/awesome-devops
 
+### Утилиты
+
+- Command-line DNS client for humans https://doggo.mrkaran.dev/docs/
+
 ### Управление кодом
 
 - [Git](https://git-scm.com/) — самый популярный инструмент управления версиями.
