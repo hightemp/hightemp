@@ -1,0 +1,2 @@
+- https://freedium.cfd/
+- https://archive.ph/
