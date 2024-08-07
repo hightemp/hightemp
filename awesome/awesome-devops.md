@@ -1,5 +1,6 @@
 ### Коллекции, списки
 
+- https://github.com/palark/awesome-devops-telegram
 - https://github.com/wmariuss/awesome-devops
 - https://awesome-devops.xyz/
 - https://github.com/awesome-soft/awesome-devops
