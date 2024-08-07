@@ -86,6 +86,7 @@
 
 ### Статьи
 
+- Rubbing control theory on the Go scheduler https://www.cockroachlabs.com/blog/rubbing-control-theory/?ref=refind
 - Interactive Go programming with Jupyter https://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1
 - Why Go and not Rust? https://kristoff.it/blog/why-go-and-not-rust/?ref=refind
 - Maps and memory leaks https://100go.co/28-maps-memory-leaks/
