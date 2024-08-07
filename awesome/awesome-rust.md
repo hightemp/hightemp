@@ -69,6 +69,8 @@
 - How much does Rust's bounds checking actually cost? https://readyset.io/blog/bounds-checks?ref=refind
 - Hard Mode Rust https://matklad.github.io/2022/10/06/hard-mode-rust.html?ref=refind
 - Almost Rules https://matklad.github.io/2022/07/10/almost-rules.html?ref=refind
+- Implementing truly safe semaphores in rust https://neosmart.net/blog/implementing-truly-safe-semaphores-in-rust/?ref=refind
+- Rust basics, from the perspective of a high level programmer https://danbulant.eu/posts/rust-basics?ref=refind
 
 ### Книги
 
