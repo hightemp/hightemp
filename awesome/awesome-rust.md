@@ -66,6 +66,9 @@
 - Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
 - Improving performance with React, WASM & Rust https://medium.com/@davidkelley87/improving-performance-with-react-wasm-rust-4c70f027b2c8
 - Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
+- How much does Rust's bounds checking actually cost? https://readyset.io/blog/bounds-checks?ref=refind
+- Hard Mode Rust https://matklad.github.io/2022/10/06/hard-mode-rust.html?ref=refind
+- Almost Rules https://matklad.github.io/2022/07/10/almost-rules.html?ref=refind
 
 ### Книги
 
