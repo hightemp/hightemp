@@ -23,14 +23,36 @@
 
 ### Блоги
 
-- https://devopscube.com/category/devops/
+- https://www.arresteddevops.com/
+- https://azure.microsoft.com/en-us/blog/
+- https://www.theregister.com/devops/
+- https://cloud.google.com/blog/products/devops-sre
+- https://devops.com/
+- https://puppet.com/resources/
+- https://codeascraft.com/
+- https://www.devopsweekly.com/
+- https://www.docker.com/blog/
 - https://www.atlassian.com/blog/devops
+- https://dev.to/t/devops
+- https://highscalability.com/
+- https://itrevolution.com/
+- https://devops.stackexchange.com/
+- https://www.reddit.com/user/obitechnobi/m/devops/
+- https://digital.ai/learn/resources/?_resource_topic=devops
+- https://tanzu.vmware.com/content/devops
+- https://aws.amazon.com/blogs/devops/
+- https://blog.cloudflare.com/
+- https://www.accenture.com/us-en/blogs/software-engineering-blog/devops-index
+- https://devopscube.com/
+- https://www.quora.com/topic/DevOps
+- https://devblogs.microsoft.com/devops/
+- https://netflixtechblog.com/tagged/devops
+- https://www.reddit.com/r/devops/
+- https://www.alldaydevops.com/blog
+- https://www.sourcedgroup.com/resources/
 - https://www.iheavy.com/category/devops/
-- https://devops.com/category/blogs/
 - https://thenewstack.io/
 - https://dzone.com/devops-and-cicd
-- https://www.reddit.com/r/devops/
-- https://devblogs.microsoft.com/devops/
 - https://blog.bytebytego.com/
 
 ### Статьи
