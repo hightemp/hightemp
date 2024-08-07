@@ -59,6 +59,8 @@
     - https://github.com/react-spring/react-spring
 - dnd panel
     - https://github.com/react-grid-layout/react-grid-layout
+- clipboard, буфер обмена
+    - https://github.com/nkbt/react-copy-to-clipboard
 
 ### Шаблоны
 
