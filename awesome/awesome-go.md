@@ -130,31 +130,72 @@
 
 ### Блоги
 
-- A Journey With Go | https://medium.com/a-journey-with-go
-- Applied Go | https://appliedgo.net/
-- Ardan Labs' Blog | https://ardanlabs.com/blog
-- Dave Cheney's Blog | https://dave.cheney.net/
-- DEV's Go Tag | https://dev.to/t/go
-- Digital Ocean's Go Series | https://digitalocean.com/community/tutorial_series/how-to-code-in-go
-- Eli Bendersky's Blog | https://eli.thegreenplace.net/tag/go
-- Go By Example | https://gobyexample.com/
-- Go Web Examples | https://gowebexamples.com/
-- Go's Articles Wiki | https://github.com/golang/go/wiki/Articles
-- Golang Bot | https://golangbot.com/
-- Golang Programs | https://golangprograms.com/
-- GolangCode | https://golangcode.com/
-- Gopher Academy Blog | https://blog.gopheracademy.com/
-- Gopher Guides | https://gopherguides.com/articles
-- Hashnode's Go Tag | https://hashnode.com/n/go
-- Ilija Eftimov's Blog | https://ieftimov.com/
-- ITNEXT's Blog | https://itnext.io/tagged/golang
-- Just For Func | https://medium.com/justforfunc
-- Learn The Go Programming Language | https://medium.com/learning-the-go-programming-language
-- Official Go Blog | https://blog.golang.org/
-- Russ Cox's Blog | https://research.swtch.com/
-- Tit Petric's Blog | https://scene-si.org/
-- Tutorial Edge | https://tutorialedge.net/course/golang
-- Wandering Thoughts' Go Topic | https://utcc.utoronto.ca/~cks/space/blog/__TopicGo
+- A Journey With Go https://medium.com/a-journey-with-go
+- Alex Edwards https://www.alexedwards.net/blog/
+- Alex Pliutau https://pliutau.com/
+- Applied Go https://appliedgo.net/
+- Ardan Labs https://www.ardanlabs.com/blog/
+- Attila Olah https://attilaolah.eu/
+- Brad Fitzpatrick http://bradfitz.com/
+- Dave Cheney https://dave.cheney.net/
+- DEV's Go Tag https://dev.to/t/go
+- Digital Ocean's Go Series https://digitalocean.com/community/tutorial_series/how-to-code-in-go
+- Dmitri Shuralyov https://dmitri.shuralyov.com/blog
+- Eli Bendersky https://eli.thegreenplace.net/
+- Fatih Arslan https://arslan.io/
+- Gary Burd https://gary.burd.info/
+- Go Ahead https://jbrandhorst.com/
+- Go By Example https://gobyexample.com/
+- Go Web Examples https://gowebexamples.com/
+- Go Wiki Blogs https://github.com/golang/go/wiki/Blogs
+- Go's Articles Wiki https://github.com/golang/go/wiki/Articles
+- Goland https://blog.jetbrains.com/go/
+- Golang Bot https://golangbot.com/
+- Golang Code https://golangcode.com/
+- Golang Programs https://golangprograms.com/
+- Golang Weekly https://golangweekly.com/
+- Golang.ch https://golang.ch/
+- GolangNews https://golangnews.com/
+- golangspec https://medium.com/golangspec
+- Gopher Academy Blog https://blog.gopheracademy.com/
+- Gopher Guides https://gopherguides.com/articles
+- Hashnode's Go Tag https://hashnode.com/n/go
+- Ian Lance Taylor https://www.airs.com/blog/
+- Ilija Eftimov's Blog https://ieftimov.com/
+- ITNEXT's Blog https://itnext.io/tagged/golang
+- James Bowen https://blog.jbowen.dev/
+- Janos Pasztor https://pasztor.at/
+- junegunn https://junegunn.kr/
+- Just For Func https://medium.com/justforfunc
+- Katrina Owen http://whipperstacker.com/
+- Ken Thompson https://github.com/ken
+- Learn Go Programming https://blog.learngoprogramming.com/
+- Learning the Go Programming Language https://medium.com/learning-the-go-programming-language
+- Marcio Castilho http://marcio.io/
+- Mark McGranaghan https://markmcgranaghan.com/
+- Matt Layher https://mdlayher.com/blog/
+- Matt Silverlock https://blog.questionable.services/
+- mattn https://mattn.kaoriya.net/
+- Miek Gieben https://miek.nl/
+- Miki Tebeka https://www.353solutions.com/
+- Mitchell Hashimoto http://mitchellh.com/
+- Nate Finch https://npf.io/blog/
+- Owen Ou https://owenou.com/
+- Rob Pike https://github.com/robpike
+- Robert Griesemer https://github.com/griesemer
+- Russ Cox https://swtch.com/~rsc/
+- Scott Mansfield http://blog.sgmansfield.com/
+- Shubham Chadokar https://schadokar.dev/
+- Sokohaka http://tdoc.info/en/blog/
+- Steve Francia https://spf13.com/
+- The Official Blog https://blog.golang.org/
+- Tit Petric's Blog https://scene-si.org/
+- Tutorial Edge https://tutorialedge.net/course/golang
+- Various Stuff https://tidwall.com/
+- Victor Vrantchan https://groob.io/
+- Vincent Bernat https://vincent.bernat.ch/en
+- Wandering Thoughts' Go Topic https://utcc.utoronto.ca/~cks/space/blog/__TopicGo
+- William Kennedy http://www.goinggo.net/
 
 ### Видео
 
