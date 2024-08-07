@@ -83,6 +83,19 @@
 - https://google.github.io/comprehensive-rust/index.html
 - https://www.youtube.com/playlist?list=PLlcnQQJK8SUjApd95LIcd3K9XXmE-IeCS
 
+### Блоги
+
+- https://www.christopherbiscardi.com/garden
+- https://lucumr.pocoo.org/
+- https://domenicoluciani.com/
+- https://steveklabnik.com/writing
+- https://without.boats/blog/
+- https://ultrasaurus.com/
+- https://hoverbear.org/blog/
+- https://fasterthanli.me/
+- https://smallcultfollowing.com/babysteps/
+- https://www.lpalmieri.com/
+
 ### Видео
 
 - Next.js 14, Rust, Docker: Build a fullstack rest API in typeScript and Rust https://youtu.be/77RjzJtC_g4
