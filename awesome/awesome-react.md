@@ -67,6 +67,8 @@
     - markdown
         - https://github.com/remarkjs/react-markdown
 - Интерфейс
+    - Сплит панели
+        - https://github.com/tomkp/react-split-pane
     - Контекстное меню (правая кнопка мыши)
         - https://github.com/fkhadra/react-contexify
     - Бесконечная прокрутка
