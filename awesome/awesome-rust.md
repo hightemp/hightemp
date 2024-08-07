@@ -11,6 +11,7 @@
 - https://github.com/tauri-apps/awesome-tauri
 - https://github.com/DioxusLabs/awesome-dioxus
 - https://github.com/unpluggedcoder/awesome-rust-tools
+- https://github.com/brson/rust-anthology/blob/master/master-list.md
 
 ### Roadmap
 
