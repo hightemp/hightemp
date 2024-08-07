@@ -12,6 +12,7 @@
   - iphone, ipad, ios
     - https://routinehub.co/shortcut/4988/
   - Сайты
+    - https://paywallhub.com/
     - https://archive.ph/
     - https://web.archive.org/
     - https://12ft.io/
