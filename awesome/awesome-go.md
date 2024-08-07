@@ -85,6 +85,10 @@
 
 ### Статьи
 
+- Interactive Go programming with Jupyter https://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1
+- Why Go and not Rust? https://kristoff.it/blog/why-go-and-not-rust/?ref=refind
+- Maps and memory leaks https://100go.co/28-maps-memory-leaks/
+- The Best Go framework: no framework? https://threedots.tech/post/best-go-framework?ref=refind
 - Making a Go program run 1.7x faster with a one character change 2022-11-13 https://hmarr.com/blog/go-allocation-hunting/?ref=refind
 - Кратко про сетевые протоколы в Golang: TCP, QUIC и UDP https://habr.com/ru/companies/otus/articles/830096/
 - Рассматриваем #golang каналы в комплексе https://www.dolthub.com/blog/2024-06-21-channel-three-ways/
