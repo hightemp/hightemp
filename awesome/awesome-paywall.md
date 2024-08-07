@@ -1,2 +1,4 @@
-- https://freedium.cfd/
-- https://archive.ph/
+- Medium
+  - https://freedium.cfd/
+- Остальное
+  - https://archive.ph/
