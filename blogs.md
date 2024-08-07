@@ -1,3 +1,7 @@
+- https://blog.0xbadc0de.be/
+  - admin
+  - EN
+  - I am an information security professional based in Belgium. I studied computer science at the Free University of Brussels. I spent a few years working as a pentester and tech lead  in Switzerland. I’m also the founder of Badcode SPRL, that’s the platform for my freelance activities, and cofounder and CTO of ICON NGO, an nongovernmental organization federating a community around important topics in cybersecurity. Last but certainly not the least, I’m the founder of libssh, a Free and Opensource library implementation of the SSH protocol.
 - https://research.swtch.com/
   - golang
   - EN
