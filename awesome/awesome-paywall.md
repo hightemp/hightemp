@@ -8,6 +8,7 @@
     - https://bardeen.ai/?utm_source=blog&utm_campaign=bypass_paywall
     - https://chromewebstore.google.com/detail/reader-mode/llimhhconnjiflfimocjggfjdlmlhblm?pli=1
     - https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha/related
+    - https://reader.postlight.com/
   - Сайты
     - https://archive.ph/
     - https://web.archive.org/
