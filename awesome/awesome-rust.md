@@ -99,6 +99,7 @@
 - https://llogiq.github.io/
 - https://www.ralfj.de/blog/
 - https://seanmonstar.com/
+- https://rust-osdev.com/
 
 ### Видео
 
