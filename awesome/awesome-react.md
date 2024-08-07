@@ -61,6 +61,8 @@
     - https://github.com/react-grid-layout/react-grid-layout
 - clipboard, буфер обмена
     - https://github.com/nkbt/react-copy-to-clipboard
+- Подсветка синтаксиса
+   - https://github.com/react-syntax-highlighter/react-syntax-highlighter 
 
 ### Шаблоны
 
