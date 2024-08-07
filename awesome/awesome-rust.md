@@ -12,6 +12,11 @@
 - https://github.com/DioxusLabs/awesome-dioxus
 - https://github.com/unpluggedcoder/awesome-rust-tools
 
+### Roadmap
+
+- https://roadmap.sh/rust
+- https://blog.rust-lang.org/inside-rust/2022/04/04/lang-roadmap-2024.html
+
 ### Вопросы
 
 - Top 65 Rust Interview Questions
