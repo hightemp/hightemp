@@ -128,6 +128,34 @@
   - Building my own Redis in Go - Part 3 https://sathwikreddygv.blog/building-my-own-redis-in-go-part-3
     - https://github.com/sathwikreddygv/redis-written-in-go
 
+### Блоги
+
+- A Journey With Go | https://medium.com/a-journey-with-go
+- Applied Go | https://appliedgo.net/
+- Ardan Labs' Blog | https://ardanlabs.com/blog
+- Dave Cheney's Blog | https://dave.cheney.net/
+- DEV's Go Tag | https://dev.to/t/go
+- Digital Ocean's Go Series | https://digitalocean.com/community/tutorial_series/how-to-code-in-go
+- Eli Bendersky's Blog | https://eli.thegreenplace.net/tag/go
+- Go By Example | https://gobyexample.com/
+- Go Web Examples | https://gowebexamples.com/
+- Go's Articles Wiki | https://github.com/golang/go/wiki/Articles
+- Golang Bot | https://golangbot.com/
+- Golang Programs | https://golangprograms.com/
+- GolangCode | https://golangcode.com/
+- Gopher Academy Blog | https://blog.gopheracademy.com/
+- Gopher Guides | https://gopherguides.com/articles
+- Hashnode's Go Tag | https://hashnode.com/n/go
+- Ilija Eftimov's Blog | https://ieftimov.com/
+- ITNEXT's Blog | https://itnext.io/tagged/golang
+- Just For Func | https://medium.com/justforfunc
+- Learn The Go Programming Language | https://medium.com/learning-the-go-programming-language
+- Official Go Blog | https://blog.golang.org/
+- Russ Cox's Blog | https://research.swtch.com/
+- Tit Petric's Blog | https://scene-si.org/
+- Tutorial Edge | https://tutorialedge.net/course/golang
+- Wandering Thoughts' Go Topic | https://utcc.utoronto.ca/~cks/space/blog/__TopicGo
+
 ### Видео
 
 - nextjs 14, Go, Docker: Build a fullstack rest API in TypeScript and Go https://www.youtube.com/watch?v=429-r55KFmM
