@@ -67,6 +67,8 @@
     - markdown
         - https://github.com/remarkjs/react-markdown
 - Интерфейс
+    - Контекстное меню (правая кнопка мыши)
+        - https://github.com/fkhadra/react-contexify
     - Бесконечная прокрутка
         - https://github.com/ankeetmaini/react-infinite-scroll-component
 - Карты
