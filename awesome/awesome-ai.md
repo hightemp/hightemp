@@ -177,6 +177,8 @@
 
 ### Курсы
 
+- Машинное обучение (курс лекций, К.В.Воронцов) http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29
+- NLP Course | For You, Lena Voita https://lena-voita.github.io/nlp_course.html
 - Курс "Машинное обучение" на ФКН ВШЭ https://github.com/esokolov/ml-course-hse
 - Реализации LLaMa-3 с нуля https://github.com/naklecha/llama3-from-scratch
 - Материалы продвинутого Сколтеховского курса по трансформерам https://github.com/s-nlp/transformers-course
