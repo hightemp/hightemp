@@ -8,3 +8,7 @@
 - https://awesome.ecosyste.ms/lists/awesome-foss%2Fawesome-sysadmin
 - https://awesome.ecosyste.ms/lists/trimstray%2Fthe-book-of-secret-knowledge
 - https://awesome.ecosyste.ms/lists/moul%2Fawesome-ssh
+
+### Статьи
+
+- SSH: Best practices https://blog.0xbadc0de.be/archives/300
