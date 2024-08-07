@@ -9,6 +9,8 @@
     - https://chromewebstore.google.com/detail/reader-mode/llimhhconnjiflfimocjggfjdlmlhblm?pli=1
     - https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha/related
     - https://reader.postlight.com/
+  - iphone, ipad, ios
+    - https://routinehub.co/shortcut/4988/
   - Сайты
     - https://archive.ph/
     - https://web.archive.org/
