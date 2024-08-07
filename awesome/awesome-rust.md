@@ -61,20 +61,6 @@
 - 100 Exercises To Learn Rust https://rust-exercises.com/
 - Starship — это минималистичная, невероятно быстрая и бесконечно настраиваемая командная строка для любых оболочек и операционных систем, показывающая актуальную информацию одним взглядом и поддерживающая множество инструментов. https://starship.rs/ https://github.com/starship/starship
 
-### Статьи
-
-- Практическое руководство по Rust. 1/4 https://habr.com/ru/companies/timeweb/articles/790556/
-- Практическое руководство по Rust. 2/4 https://habr.com/ru/companies/timeweb/articles/794941/
-- Практическое руководство по Rust. 3/4 https://habr.com/ru/companies/timeweb/articles/796567/
-- Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
-- Improving performance with React, WASM & Rust https://medium.com/@davidkelley87/improving-performance-with-react-wasm-rust-4c70f027b2c8
-- Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
-- How much does Rust's bounds checking actually cost? https://readyset.io/blog/bounds-checks?ref=refind
-- Hard Mode Rust https://matklad.github.io/2022/10/06/hard-mode-rust.html?ref=refind
-- Almost Rules https://matklad.github.io/2022/07/10/almost-rules.html?ref=refind
-- Implementing truly safe semaphores in rust https://neosmart.net/blog/implementing-truly-safe-semaphores-in-rust/?ref=refind
-- Rust basics, from the perspective of a high level programmer https://danbulant.eu/posts/rust-basics?ref=refind
-
 ### Книги
 
 - Учебник на русском https://doc.rust-lang.ru/book/ch01-02-hello-world.html
@@ -121,6 +107,22 @@
 ### Видео
 
 - Next.js 14, Rust, Docker: Build a fullstack rest API in typeScript and Rust https://youtu.be/77RjzJtC_g4
+
+### Статьи
+
+- Практическое руководство по Rust. 1/4 https://habr.com/ru/companies/timeweb/articles/790556/
+- Практическое руководство по Rust. 2/4 https://habr.com/ru/companies/timeweb/articles/794941/
+- Практическое руководство по Rust. 3/4 https://habr.com/ru/companies/timeweb/articles/796567/
+- Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
+- Improving performance with React, WASM & Rust https://medium.com/@davidkelley87/improving-performance-with-react-wasm-rust-4c70f027b2c8
+- Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
+- How much does Rust's bounds checking actually cost? https://readyset.io/blog/bounds-checks?ref=refind
+- Hard Mode Rust https://matklad.github.io/2022/10/06/hard-mode-rust.html?ref=refind
+- Almost Rules https://matklad.github.io/2022/07/10/almost-rules.html?ref=refind
+- Implementing truly safe semaphores in rust https://neosmart.net/blog/implementing-truly-safe-semaphores-in-rust/?ref=refind
+- Rust basics, from the perspective of a high level programmer https://danbulant.eu/posts/rust-basics?ref=refind
+- Async in depth https://tokio.rs/tokio/tutorial/async
+- Getting Started with Async Rust https://medium.com/@kinxyo/getting-started-with-async-rust-420f5828ccec
 
 ### GUI frameworks
 
