@@ -63,6 +63,9 @@
     - https://github.com/nkbt/react-copy-to-clipboard
 - Подсветка синтаксиса
    - https://github.com/react-syntax-highlighter/react-syntax-highlighter 
+- Форматирование
+    - markdown
+        - https://github.com/remarkjs/react-markdown
 
 ### Шаблоны
 
