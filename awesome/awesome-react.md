@@ -71,6 +71,8 @@
         - https://github.com/ankeetmaini/react-infinite-scroll-component
 - Карты
     - https://github.com/google-map-react/google-map-react
+- Плееры
+    - https://github.com/cookpete/react-player
 
 ### Шаблоны
 
