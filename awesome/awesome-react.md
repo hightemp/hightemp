@@ -66,6 +66,11 @@
 - Форматирование
     - markdown
         - https://github.com/remarkjs/react-markdown
+- Интерфейс
+    - Бесконечная прокрутка
+        - https://github.com/ankeetmaini/react-infinite-scroll-component
+- Карты
+    - https://github.com/google-map-react/google-map-react
 
 ### Шаблоны
 
