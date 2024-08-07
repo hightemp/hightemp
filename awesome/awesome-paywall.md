@@ -18,3 +18,4 @@
 
 - How to bypass a paywall in 2024 (simple with 18 solutions) https://www.bardeen.ai/posts/how-to-bypass-a-paywall
 - 5 Best Chrome extensions to bypass a paywall https://www.bardeen.ai/posts/extensions-to-bypass-paywall
+- Paywall, несколько способов как обойти блокировку и получить бесплатный доступ к новостным изданиям https://vc.ru/u/235417-artem-ziborov/122762-paywall-neskolko-sposobov-kak-oboiti-blokirovku-i-poluchit-besplatnyi-dostup-k-novostnym-izdaniyam
