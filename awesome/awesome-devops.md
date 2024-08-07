@@ -21,6 +21,18 @@
 - [Gogs](https://gogs.io/) — Git-сервис самообслуживания, который чрезвычайно легко настроить.
 - [Mercurial](https://www.mercurial-scm.org/) - Распределенная система контроля версий
 
+### Блоги
+
+- https://devopscube.com/category/devops/
+- https://www.atlassian.com/blog/devops
+- https://www.iheavy.com/category/devops/
+- https://devops.com/category/blogs/
+- https://thenewstack.io/
+- https://dzone.com/devops-and-cicd
+- https://www.reddit.com/r/devops/
+- https://devblogs.microsoft.com/devops/
+- https://blog.bytebytego.com/
+
 ### Статьи
 
 - SSH: Best practices https://blog.0xbadc0de.be/archives/300
