@@ -102,6 +102,7 @@
 
 ### Статьи
 
+- Probabilistic Data Structures for Go https://blog.gopheracademy.com/advent-2014/go-probably/
 - How to optimize garbage collection in Go https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/
 - GopherCon 2019 - Optimizing Go Code without a blindfold https://sourcegraph.com/blog/go/gophercon-2019-optimizing-go-code-without-a-blindfold
 - Разработка веб-серверов на Go https://tproger.ru/translations/go-web-server
