@@ -33,5 +33,6 @@
 ### Статьи
 
 - x86 Assembly Guide https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html
+- NASM Tutorial https://cs.lmu.edu/~ray/notes/nasmtutorial/
 - 19+ Assembly Project Ideas for Beginners to Advanced https://topexceltips.com/assembly-project-ideas/
 - 20 Best Assembly Books of All Time https://bookauthority.org/books/best-assembly-books
