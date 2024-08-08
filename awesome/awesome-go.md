@@ -106,6 +106,7 @@
 
 ### Статьи
 
+- Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
 - Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
 - Raft Consensus — leader election with Golang https://medium.com/@govinda.attal/raft-consensus-leader-election-with-golang-89bfdbd471cb
 - Write a time-series database engine from scratch https://nakabonne.dev/posts/write-tsdb-from-scratch/
