@@ -107,6 +107,7 @@
 ### Статьи
 
 - Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
+- Raft Consensus — leader election with Golang https://medium.com/@govinda.attal/raft-consensus-leader-election-with-golang-89bfdbd471cb
 - Write a time-series database engine from scratch https://nakabonne.dev/posts/write-tsdb-from-scratch/
 - Software Transactional Memory: a stairway to lock-free programming heaven? https://medium.com/@talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-9ca1f4dce23f
 - Mastering Contexts in Go https://hackernoon.com/mastering-contexts-in-go
