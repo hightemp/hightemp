@@ -102,6 +102,7 @@
 
 ### Статьи
 
+- Understanding Concurrency Patterns in Go https://hackernoon.com/understanding-concurrency-patterns-in-go
 - Building a high performance JSON parser https://dave.cheney.net/high-performance-json.html
 - Distributed Locking In Go https://blogs.halodoc.io/distributed-locking-in-go/
 - Probabilistic Data Structures for Go https://blog.gopheracademy.com/advent-2014/go-probably/
