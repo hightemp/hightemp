@@ -38,6 +38,7 @@
 - Домен для Go пакетов для gitflic.ru https://gohome.4gophers.ru/
 - DBWeb - это веб-инструмент администрирования баз данных, подобный phpMyAdmin, написанный с использованием xorm, tango и nodb, поддерживающий MySQL, PostgreSQL и SQLite3. https://gitea.com/xorm/dbweb
 - Проект "Glance" представляет собой легковесное и быстрое веб-приложение для создания персонализированной домашней страницы с различными виджетами, включая RSS-ленты, погоду, закладки, новости и другие полезные функции, оптимизированное для мобильных устройств и настраиваемое с помощью тем. https://github.com/glanceapp/glance
+- Compiler written in Go for the Monkey language https://github.com/SaladinoBelisario/Compiler_Go
 
 ### Фреймворки
 
