@@ -98,6 +98,7 @@
 
 ### Статьи
 
+- How to Use Maps Safely in Go https://hackernoon.com/how-to-use-maps-safely-in-go
 - Hash-Based Bisect Debugging in Compilers and Runtimes https://research.swtch.com/bisect
 - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
 - Go best practices, six years in https://peter.bourgon.org/go-best-practices-2016/?ref=refind
