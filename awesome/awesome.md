@@ -123,6 +123,7 @@
 ## Сайты со статьями, журналы
 
 - https://devops.com/
+- https://hackernoon.com/
 
 ## Сайты
 
