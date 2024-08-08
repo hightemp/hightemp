@@ -1,3 +1,6 @@
+- https://h0mbre.github.io/
+  - cpp, rust, system-programming
+  - EN
 - https://dave.cheney.net/
   - golang
   - EN
