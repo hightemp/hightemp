@@ -84,7 +84,7 @@
 
 - https://www.boot.dev/courses/learn-golang
 - https://www.classcentral.com/report/best-go-courses/
-
+- Top 10 Udemy Courses for Golang Developers in 2024 https://medium.com/javarevisited/top-10-udemy-courses-for-golang-developers-in-2023-fa157cceff8
 
 ### Книги
 
