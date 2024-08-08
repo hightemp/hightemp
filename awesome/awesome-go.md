@@ -148,6 +148,7 @@
 - List all files (recursively) in a directory https://yourbasic.org/golang/list-files-in-directory/
 - Weird things about GOLANG — Part 1 https://medium.com/@adityasonel/weird-things-about-golang-part-1-4139e97f2bd4
 - Weird things about GOLANG — Part 2 https://medium.com/@adityasonel/weird-things-about-golang-part-2-b2f1aa8d61e1
+- A Pattern for Optimizing Go https://www.splunk.com/en_us/blog/devops/a-pattern-for-optimizing-go-2.html
 
 ### Блоги
 
