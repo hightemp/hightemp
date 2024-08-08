@@ -9,6 +9,7 @@
 - https://github.com/wangrenjun/awesome-go-blogs
 - GoDS (Go Data Structures) https://github.com/emirpasic/gods
 - https://github.com/betty200744/ultimate-go
+- Reverse Engineering Golang https://gist.github.com/0xdevalias/4e430914124c3fd2c51cb7ac2801acba
 
 ### Roadmaps
 
