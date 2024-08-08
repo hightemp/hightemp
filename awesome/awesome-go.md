@@ -102,6 +102,7 @@
 
 ### Статьи
 
+- GopherCon 2019 - Optimizing Go Code without a blindfold https://sourcegraph.com/blog/go/gophercon-2019-optimizing-go-code-without-a-blindfold
 - Разработка веб-серверов на Go https://tproger.ru/translations/go-web-server
 - Создание веб-приложения с помощью Go и React https://bestcode.su/frontend/sozdanie-veb-prilozheniya-s-pomoschyu-go-i-react/
 - How to Use Maps Safely in Go https://hackernoon.com/how-to-use-maps-safely-in-go
