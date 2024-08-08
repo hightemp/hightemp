@@ -102,6 +102,7 @@
 
 ### Статьи
 
+- Building a high performance JSON parser https://dave.cheney.net/high-performance-json.html
 - Distributed Locking In Go https://blogs.halodoc.io/distributed-locking-in-go/
 - Probabilistic Data Structures for Go https://blog.gopheracademy.com/advent-2014/go-probably/
 - How to optimize garbage collection in Go https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/
