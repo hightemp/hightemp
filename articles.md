@@ -1,3 +1,5 @@
+- Write your Own Virtual Machine
+  - https://www.jmeiners.com/lc3-vm/
 - How to Control Concurrency in Distributed Systems with Distributed Lock Manager
   - https://codeboulevard.com/2023/11/how-to-control-concurrency-in-distributed-systems-with-distributed-lock-manager/
 - How to do distributed locking
