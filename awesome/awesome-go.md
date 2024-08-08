@@ -86,6 +86,7 @@
 - https://www.boot.dev/courses/learn-golang
 - https://www.classcentral.com/report/best-go-courses/
 - Top 10 Udemy Courses for Golang Developers in 2024 https://medium.com/javarevisited/top-10-udemy-courses-for-golang-developers-in-2023-fa157cceff8
+- Go Class Matt KØDVB https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
 
 ### Гайды
 
@@ -95,7 +96,6 @@
 
 - Full-Stack Web Development with Go. Nanik Tolaram, 2023 https://t.me/code_storage/756
 - Practical Go Lessons https://www.practical-go-lessons.com/
-- Go Class Matt KØDVB https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
 - This document outlines best practices for writing high-performance Go code. https://github.com/dgryski/go-perfbook
 
 ### Статьи
