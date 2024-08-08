@@ -6,6 +6,19 @@
 - https://awesome.ecosyste.ms/lists/hack-labs%2Fawesome-assembler
 - https://canyoupwn.me/awesome-learn-assembly/
 
+### Ассемблеры
+
+- NASM (Netwide Assembler) - [https://www.nasm.us/](https://www.nasm.us/)
+- MASM (Microsoft Macro Assembler) - [https://learn.microsoft.com/en-us/cpp/assembler/masm/microsoft-macro-assembler-reference](https://learn.microsoft.com/en-us/cpp/assembler/masm/microsoft-macro-assembler-reference)
+- GAS (GNU Assembler) - [https://www.gnu.org/software/binutils/](https://www.gnu.org/software/binutils/)
+- YASM - [https://yasm.tortall.net/](https://yasm.tortall.net/)
+- FASM (Flat Assembler) - [https://flatassembler.net/](https://flatassembler.net/)
+- TASM (Turbo Assembler) - [https://sourceforge.net/projects/guitasm8086/](https://sourceforge.net/projects/guitasm8086/)
+- JWASM (JWasm) - [https://github.com/JWasm/JWasm](https://github.com/JWasm/JWasm)
+- AS (ARM Assembly) - [https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-a](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-a)
+- MIPS Assembler - [https://www.mips.com/develop/tools/](https://www.mips.com/develop/tools/)
+- SPIM (MIPS Simulator) - [http://spimsimulator.sourceforge.net/](http://spimsimulator.sourceforge.net/)
+
 ### Книги
 
 - Modern X86 Assembly Language Programming http://www.apress.com/9781484200650
