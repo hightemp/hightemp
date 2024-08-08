@@ -29,3 +29,7 @@
 - Modern X86 Assembly Language Programming http://www.apress.com/9781484200650
 - Assembly Language for x86 Processors, 7th edition https://www.amazon.com/Assembly-Language-x86-Processors-7th/dp/0133769402
 - Hackers Delight https://www.oreilly.com/library/view/hackers-delight-second/9780133084993/
+
+### Статьи
+
+- 19+ Assembly Project Ideas for Beginners to Advanced https://topexceltips.com/assembly-project-ideas/
