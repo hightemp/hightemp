@@ -15,6 +15,7 @@
 - Как работает компьютер - глубокое погружение (на примере Linux) https://my-js.org/blog/how-computer-work/#1-основы
 - Убийцы оптимизации https://frontender.info/optimization-killers/
 - Tutorial: Create multi-container apps with MySQL and Docker Compose https://learn.microsoft.com/en-us/visualstudio/docker/tutorials/tutorial-multi-container-app-mysql
+- Distributed Locks in Node.js https://bpaulino.com/entries/distributed-lock-in-node-js
 
 ### Полезные ссылки
 
