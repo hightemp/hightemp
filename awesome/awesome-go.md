@@ -101,6 +101,7 @@
 - Practical Go Lessons https://www.practical-go-lessons.com/
 - This document outlines best practices for writing high-performance Go code. https://github.com/dgryski/go-perfbook
 - Go Optimizations 101 https://go101.org/optimizations/101.html
+- Writing A Compiler In Go https://compilerbook.com/
 
 ### Статьи
 
