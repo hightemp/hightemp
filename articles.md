@@ -1,3 +1,5 @@
+- How to Control Concurrency in Distributed Systems with Distributed Lock Manager
+  - https://codeboulevard.com/2023/11/how-to-control-concurrency-in-distributed-systems-with-distributed-lock-manager/
 - How to do distributed locking
   - https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
 - Postgres is all you need, even for vectors
