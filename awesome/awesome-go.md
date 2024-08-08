@@ -221,6 +221,7 @@
 - Vincent Bernat https://vincent.bernat.ch/en
 - Wandering Thoughts' Go Topic https://utcc.utoronto.ca/~cks/space/blog/__TopicGo
 - William Kennedy http://www.goinggo.net/
+- https://reintech.io/blog?technology=go
 
 ### Видео
 
