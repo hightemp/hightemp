@@ -1,3 +1,5 @@
+- How to do distributed locking
+  - https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
 - Postgres is all you need, even for vectors
   - https://anyblockers.com/posts/postgres-is-all-you-need-even-for-vectors
 - Разоблачаем магию DiffUtil
