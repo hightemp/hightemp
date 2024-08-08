@@ -98,6 +98,7 @@
 
 ### Статьи
 
+- Создание веб-приложения с помощью Go и React https://bestcode.su/frontend/sozdanie-veb-prilozheniya-s-pomoschyu-go-i-react/
 - How to Use Maps Safely in Go https://hackernoon.com/how-to-use-maps-safely-in-go
 - Hash-Based Bisect Debugging in Compilers and Runtimes https://research.swtch.com/bisect
 - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
