@@ -124,6 +124,7 @@
 - Rust basics, from the perspective of a high level programmer https://danbulant.eu/posts/rust-basics?ref=refind
 - Async in depth https://tokio.rs/tokio/tutorial/async
 - Getting Started with Async Rust https://medium.com/@kinxyo/getting-started-with-async-rust-420f5828ccec
+- Программируем микроконтроллер STM32 на Rust https://habr.com/ru/companies/piter/articles/833344/
 
 ### GUI frameworks
 
