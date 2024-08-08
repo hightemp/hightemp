@@ -8,3 +8,7 @@
 - https://codesandbox.io/
 - https://snack.expo.dev/?
 - https://nextleap.app/online-compiler/reactjs-programming
+
+### Статьи
+
+- 6 Essential Website Performance Optimization Tips to Implement https://storychief.io/blog/website-performance-optimization-tips
