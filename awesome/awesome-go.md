@@ -157,6 +157,7 @@
 - Weird things about GOLANG — Part 2 https://medium.com/@adityasonel/weird-things-about-golang-part-2-b2f1aa8d61e1
 - A Pattern for Optimizing Go https://www.splunk.com/en_us/blog/devops/a-pattern-for-optimizing-go-2.html
 - How to make Golang Zero Allocation Log Library https://medium.com/@muroon/the-reason-why-zap-and-zerolog-make-it-zero-allocation-3ee8f69f660
+- Поднимаем TLS для gRPC в Go https://tproger.ru/articles/podnimaem-tls-dlya-grpc-v-go
 
 ### Блоги
 
