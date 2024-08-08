@@ -128,6 +128,7 @@
   - Building my own Redis in Go - Part 3 https://sathwikreddygv.blog/building-my-own-redis-in-go-part-3
     - https://github.com/sathwikreddygv/redis-written-in-go
 - A comprehensive guide to file operations in Go https://www.honeybadger.io/blog/comprehensive-guide-to-file-operations-in-go/
+- List all files (recursively) in a directory https://yourbasic.org/golang/list-files-in-directory/
 
 ### Блоги
 
