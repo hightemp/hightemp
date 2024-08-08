@@ -166,6 +166,8 @@
 - Поднимаем TLS для gRPC в Go https://tproger.ru/articles/podnimaem-tls-dlya-grpc-v-go
 - Golang - Goroutine, Channel, Worker Pool, Select, Mutex https://mgleon08.github.io/blog/2018/05/17/golang-goroutine-channel-worker-pool-select-mutex/
 - A Complete Guide to Logging in Go with Zerolog https://betterstack.com/community/guides/logging/zerolog/
+- WebAssembly and Go: A Guide to Getting Started (Part 1) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-1/
+- WebAssembly and Go: A Guide to Getting Started (Part 2) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-2/
 
 ### Блоги
 
