@@ -96,6 +96,7 @@
 - Full-Stack Web Development with Go. Nanik Tolaram, 2023 https://t.me/code_storage/756
 - Practical Go Lessons https://www.practical-go-lessons.com/
 - Go Class Matt KØDVB https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
+- This document outlines best practices for writing high-performance Go code. https://github.com/dgryski/go-perfbook
 
 ### Статьи
 
