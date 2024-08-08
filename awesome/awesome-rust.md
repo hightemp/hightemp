@@ -84,6 +84,7 @@
 - https://teach-rs.trifectatech.org/rust-intro/
 - https://teach-rs.trifectatech.org/rust-for-systems/
 - https://teach-rs.trifectatech.org/rust-for-web/
+- https://course.rs/about-book.html
 
 ### Блоги
 
