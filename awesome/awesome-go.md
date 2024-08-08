@@ -83,6 +83,8 @@
 ### Курсы
 
 - https://www.boot.dev/courses/learn-golang
+- https://www.classcentral.com/report/best-go-courses/
+
 
 ### Книги
 
