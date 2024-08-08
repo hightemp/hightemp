@@ -106,6 +106,7 @@
 
 ### Статьи
 
+- Write a time-series database engine from scratch https://nakabonne.dev/posts/write-tsdb-from-scratch/
 - Software Transactional Memory: a stairway to lock-free programming heaven? https://medium.com/@talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-9ca1f4dce23f
 - Mastering Contexts in Go https://hackernoon.com/mastering-contexts-in-go
 - Understanding Concurrency Patterns in Go https://hackernoon.com/understanding-concurrency-patterns-in-go
