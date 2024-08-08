@@ -58,6 +58,7 @@
 - https://thenewstack.io/
 - https://dzone.com/devops-and-cicd
 - https://blog.bytebytego.com/
+- https://www.splunk.com/en_us/blog/devops.html
 
 ### Статьи
 
