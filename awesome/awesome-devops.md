@@ -60,6 +60,10 @@
 - https://blog.bytebytego.com/
 - https://www.splunk.com/en_us/blog/devops.html
 
+### Wiki
+
+- https://www.dremio.com/wiki/
+
 ### Статьи
 
 - SSH: Best practices https://blog.0xbadc0de.be/archives/300
