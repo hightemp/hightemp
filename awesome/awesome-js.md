@@ -9,6 +9,7 @@
 ### Видео
 
 - https://www.youtube.com/watch?v=SoS35UBc5dA
+- Стыкуем React + Node.js. Пишем приложение файловый менеджер, фронт react.js, бек - node.js https://www.youtube.com/watch?v=-l3KdDWrKQY
 
 ### Статьи
 
