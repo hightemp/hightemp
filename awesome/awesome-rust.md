@@ -125,6 +125,7 @@
 - Async in depth https://tokio.rs/tokio/tutorial/async
 - Getting Started with Async Rust https://medium.com/@kinxyo/getting-started-with-async-rust-420f5828ccec
 - Программируем микроконтроллер STM32 на Rust https://habr.com/ru/companies/piter/articles/833344/
+- Implementing Distributed Locks (Mutex and Semaphore) with Databases https://shahbhat.medium.com/implementing-distributed-locks-mutex-and-semaphore-with-databases-b02545cef47a
 
 ### GUI frameworks
 
