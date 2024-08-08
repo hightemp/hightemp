@@ -168,6 +168,7 @@
 - A Complete Guide to Logging in Go with Zerolog https://betterstack.com/community/guides/logging/zerolog/
 - WebAssembly and Go: A Guide to Getting Started (Part 1) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-1/
 - WebAssembly and Go: A Guide to Getting Started (Part 2) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-2/
+- Running WebAssembly code in Go https://dev.to/eminetto/running-webassembly-code-in-go-35k9
 
 ### Блоги
 
