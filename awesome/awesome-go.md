@@ -86,6 +86,10 @@
 - https://www.classcentral.com/report/best-go-courses/
 - Top 10 Udemy Courses for Golang Developers in 2024 https://medium.com/javarevisited/top-10-udemy-courses-for-golang-developers-in-2023-fa157cceff8
 
+### Гайды
+
+- Go Concurrency Guide https://github.com/luk4z7/go-concurrency-guide
+
 ### Книги
 
 - Full-Stack Web Development with Go. Nanik Tolaram, 2023 https://t.me/code_storage/756
