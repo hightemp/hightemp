@@ -80,6 +80,7 @@
 - https://draft.dev/learn/golang-blogs
 - TOP 50 project ideas to become a golang hero https://dev.to/kumarkalyan/top-50-project-ideas-to-become-a-golang-hero-98k
 - An example of a reasonably complex web server in Go. https://github.com/jordan-wright/http-boilerplate
+- https://go101.org/
 
 ### Курсы
 
