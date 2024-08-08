@@ -82,7 +82,7 @@
 
 ### Курсы
 
--
+- https://www.boot.dev/courses/learn-golang
 
 ### Книги
 
