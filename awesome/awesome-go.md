@@ -80,9 +80,14 @@
 - https://draft.dev/learn/golang-blogs
 - TOP 50 project ideas to become a golang hero https://dev.to/kumarkalyan/top-50-project-ideas-to-become-a-golang-hero-98k
 
+### Курсы
+
+-
+
 ### Книги
 
 - Full-Stack Web Development with Go. Nanik Tolaram, 2023 https://t.me/code_storage/756
+- Practical Go Lessons https://www.practical-go-lessons.com/
 
 ### Статьи
 
