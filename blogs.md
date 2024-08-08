@@ -1,3 +1,7 @@
+- https://dave.cheney.net/
+  - golang
+  - EN
+  - David is an open source contributor and project member for the Go programming language. David is a well-respected voice within the tech community, speaking on a variety of topics such as software design, performance, and the Go programming language.
 - https://martin.kleppmann.com/
   - admin
   - EN
