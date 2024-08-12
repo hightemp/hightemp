@@ -37,6 +37,7 @@
 - https://andisearch.com/
 - https://chatgpt.com/search
 - https://askhackers.com/
+- https://askhackers.com/
 
 ### Чаты c документами
 
