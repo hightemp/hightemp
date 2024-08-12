@@ -80,6 +80,10 @@
 - android
     - chatgpt неофиц. клиент https://github.com/skydoves/chatgpt-android/releases
 
+### Смарт-библиотеки
+
+- https://iki.ai/
+
 ### Генерация изображений
 
 - https://openxlab.org.cn/apps/detail/PixArt-alpha/PixArt-alpha
