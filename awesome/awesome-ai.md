@@ -36,6 +36,7 @@
 - https://www.perplexity.ai/
 - https://andisearch.com/
 - https://chatgpt.com/search
+- https://askhackers.com/
 
 ### Чаты c документами
 
