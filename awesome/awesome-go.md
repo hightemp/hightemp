@@ -21,7 +21,9 @@
 ### Вопросы
 
 - Go — 100 вопросов/заданий с собеседований
-  - https://habr.com/ru/articles/786826/ https://web.archive.org/web/20240201014633/https://habr.com/ru/articles/786826/
+  - https://habr.com/ru/articles/786826/ 
+      - https://web.archive.org/web/20240201014633/https://habr.com/ru/articles/786826/
+      - https://github.com/hightemp/hightemp/blob/main/notes/computer_science/backend/golang/articles/go-100-interview-questions-and-tasks.md
 
 ### Библиотеки
 
