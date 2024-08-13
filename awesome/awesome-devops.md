@@ -71,16 +71,18 @@
 
 ### Статьи
 
-- SSH: Best practices https://blog.0xbadc0de.be/archives/300
-- Secure Secure Shell https://blog.stribik.technology/2015/01/04/secure-secure-shell.html
+- SSH
+    - SSH: Best practices https://blog.0xbadc0de.be/archives/300
+    - Secure Secure Shell https://blog.stribik.technology/2015/01/04/secure-secure-shell.html
 - TCP/UDP https://awesome-devops.pages.dev/networking/tcp-udp
 - Как избежать 10 частых ошибок в настройке NGINX https://habr.com/ru/companies/nixys/articles/661233/
-- Как настроить Nginx в качестве балансировщика нагрузки https://habr.com/ru/companies/first/articles/683870/
-- Nginx Performance Tuning: Benchmarking and Optimization Techniques https://codedamn.com/news/backend/performance-tuning-benchmarking-optimization
-- Ускоряем Nginx за 5 минут https://habr.com/ru/articles/198982/
-- Масштабируемая конфигурация nginx https://highload.guide/blog/scalable-configuration-nginx.html
-- Избавляемся от сообщения upstream response is buffered to a temporary file в логах nginx https://valynkin.ru/izbavlyaemsya-ot-soobsheniya-upstream-response-buffered-temporary-file-v-logah-nginx.html
-- Nginx Security Hardening Guide https://www.secopsolution.com/blog/nginx-security-hardening-guide
-- Nginx Server Security: Nginx Hardening Guide https://beaglesecurity.com/blog/article/nginx-server-security.html
-- Nginx security hardening guide https://linux-audit.com/web/nginx-security-configuration-hardening-guide/
-- Did you Missed Nginx Secure Configuration https://8gwifi.org/docs/nginx-secure.jsp
+- nginx
+    - Как настроить Nginx в качестве балансировщика нагрузки https://habr.com/ru/companies/first/articles/683870/
+    - Nginx Performance Tuning: Benchmarking and Optimization Techniques https://codedamn.com/news/backend/performance-tuning-benchmarking-optimization
+    - Ускоряем Nginx за 5 минут https://habr.com/ru/articles/198982/
+    - Масштабируемая конфигурация nginx https://highload.guide/blog/scalable-configuration-nginx.html
+    - Избавляемся от сообщения upstream response is buffered to a temporary file в логах nginx https://valynkin.ru/izbavlyaemsya-ot-soobsheniya-upstream-response-buffered-temporary-file-v-logah-nginx.html
+    - Nginx Security Hardening Guide https://www.secopsolution.com/blog/nginx-security-hardening-guide
+    - Nginx Server Security: Nginx Hardening Guide https://beaglesecurity.com/blog/article/nginx-server-security.html
+    - Nginx security hardening guide https://linux-audit.com/web/nginx-security-configuration-hardening-guide/
+    - Did you Missed Nginx Secure Configuration https://8gwifi.org/docs/nginx-secure.jsp
