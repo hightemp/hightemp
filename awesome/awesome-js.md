@@ -6,10 +6,24 @@
 - https://vk.com/love_frontend
 - https://habr.com/ru/articles/799099/
 
+### Библиотеки
+
+- markdown
+  - https://www.npmjs.com/package/marked
+- query string
+  - https://www.npmjs.com/package/qs
+- Торговля
+  - NFT
+    - https://github.com/NFTGo/GoTrading
+
 ### Видео
 
 - https://www.youtube.com/watch?v=SoS35UBc5dA
 - Стыкуем React + Node.js. Пишем приложение файловый менеджер, фронт react.js, бек - node.js https://www.youtube.com/watch?v=-l3KdDWrKQY
+
+### Книги
+
+- Learning JavaScript Design Patterns, Addy Osmani https://patterns.addy.ie/
 
 ### Статьи
 
@@ -21,16 +35,7 @@
 ### Полезные ссылки
 
 - Сайт о регулярных выражениях https://www.regular-expressions.info/tutorial.html
-
-### Библиотеки
-
-- markdown
-  - https://www.npmjs.com/package/marked
-- query string
-  - https://www.npmjs.com/package/qs
-- Торговля
-  - NFT
-    - https://github.com/NFTGo/GoTrading
+- https://www.patterns.dev/
 
 ### Демо
 
