@@ -5,3 +5,7 @@
 - https://github.com/mehdihadeli/awesome-software-architecture
 - https://github.com/Sairyss/backend-best-practices
 - https://github.com/futurice/backend-best-practices
+
+### Статьи
+
+- https://habr.com/ru/companies/nixys/articles/661233/

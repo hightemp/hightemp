@@ -1,6 +1,21 @@
+## Использование прокси в http.Client
+
+```golang
+url_i := url.URL{}
+url_proxy, _ := url_i.Parse(proxy_addr)
+
+transport := http.Transport{}    
+transport.Proxy = http.ProxyURL(url_proxy)// set proxy 
+transport.TLSClientConfig = &tls.Config{InsecureSkipVerify: true} //set ssl
+
+client := &http.Client{}
+client.Transport = transport
+resp, err := client.Get("http://example.com") // do request through proxy
+```
+
 ## Сложение времени 
 
-```
+```golang
 theTime := time.Date(2021, 8, 15, 14, 30, 45, 100, time.UTC)
 fmt.Println("The time is", theTime)
 
