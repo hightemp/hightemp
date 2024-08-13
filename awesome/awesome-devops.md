@@ -77,6 +77,7 @@
 - TCP/UDP https://awesome-devops.pages.dev/networking/tcp-udp
 - Как избежать 10 частых ошибок в настройке NGINX https://habr.com/ru/companies/nixys/articles/661233/
 - nginx
+    - Nginx: шпаргалка https://habr.com/ru/articles/789360/
     - Как настроить Nginx в качестве балансировщика нагрузки https://habr.com/ru/companies/first/articles/683870/
     - Nginx Performance Tuning: Benchmarking and Optimization Techniques https://codedamn.com/news/backend/performance-tuning-benchmarking-optimization
     - Ускоряем Nginx за 5 минут https://habr.com/ru/articles/198982/
