@@ -78,3 +78,4 @@
 - Как настроить Nginx в качестве балансировщика нагрузки https://habr.com/ru/companies/first/articles/683870/
 - Nginx Performance Tuning: Benchmarking and Optimization Techniques https://codedamn.com/news/backend/performance-tuning-benchmarking-optimization
 - Ускоряем Nginx за 5 минут https://habr.com/ru/articles/198982/
+- Масштабируемая конфигурация nginx https://highload.guide/blog/scalable-configuration-nginx.html
