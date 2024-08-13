@@ -83,3 +83,4 @@
 - Nginx Security Hardening Guide https://www.secopsolution.com/blog/nginx-security-hardening-guide
 - Nginx Server Security: Nginx Hardening Guide https://beaglesecurity.com/blog/article/nginx-server-security.html
 - Nginx security hardening guide https://linux-audit.com/web/nginx-security-configuration-hardening-guide/
+- Did you Missed Nginx Secure Configuration https://8gwifi.org/docs/nginx-secure.jsp
