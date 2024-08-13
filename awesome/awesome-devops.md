@@ -63,6 +63,7 @@
 
 ### Генераторы конфигов
 
+- nginx https://www.digitalocean.com/community/tools/nginx#?
 - nginx ssl https://ssl-config.mozilla.org/
 
 ### Проверки сретификатов
