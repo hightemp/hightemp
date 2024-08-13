@@ -61,6 +61,10 @@
 - https://blog.bytebytego.com/
 - https://www.splunk.com/en_us/blog/devops.html
 
+### Полезные ссылки
+
+- https://github.com/denji/nginx-tuning
+
 ### Wiki
 
 - https://www.dremio.com/wiki/
