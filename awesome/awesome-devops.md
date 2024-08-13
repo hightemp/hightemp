@@ -80,3 +80,6 @@
 - Ускоряем Nginx за 5 минут https://habr.com/ru/articles/198982/
 - Масштабируемая конфигурация nginx https://highload.guide/blog/scalable-configuration-nginx.html
 - Избавляемся от сообщения upstream response is buffered to a temporary file в логах nginx https://valynkin.ru/izbavlyaemsya-ot-soobsheniya-upstream-response-buffered-temporary-file-v-logah-nginx.html
+- Nginx Security Hardening Guide https://www.secopsolution.com/blog/nginx-security-hardening-guide
+- Nginx Server Security: Nginx Hardening Guide https://beaglesecurity.com/blog/article/nginx-server-security.html
+- Nginx security hardening guide https://linux-audit.com/web/nginx-security-configuration-hardening-guide/
