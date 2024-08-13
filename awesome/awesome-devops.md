@@ -71,3 +71,4 @@
 - Secure Secure Shell https://blog.stribik.technology/2015/01/04/secure-secure-shell.html
 - TCP/UDP https://awesome-devops.pages.dev/networking/tcp-udp
 - Как избежать 10 частых ошибок в настройке NGINX https://habr.com/ru/companies/nixys/articles/661233/
+- Как настроить Nginx в качестве балансировщика нагрузки https://habr.com/ru/companies/first/articles/683870/
