@@ -131,6 +131,7 @@
 
 - разработка и описание устройства ОС https://wiki.osdev.org/Main_Page
 - https://booktracker.org/
+- https://onticolist.ru/
 
 ## Инструменты
 

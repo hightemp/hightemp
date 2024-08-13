@@ -79,3 +79,4 @@
 - Nginx Performance Tuning: Benchmarking and Optimization Techniques https://codedamn.com/news/backend/performance-tuning-benchmarking-optimization
 - Ускоряем Nginx за 5 минут https://habr.com/ru/articles/198982/
 - Масштабируемая конфигурация nginx https://highload.guide/blog/scalable-configuration-nginx.html
+- Избавляемся от сообщения upstream response is buffered to a temporary file в логах nginx https://valynkin.ru/izbavlyaemsya-ot-soobsheniya-upstream-response-buffered-temporary-file-v-logah-nginx.html
