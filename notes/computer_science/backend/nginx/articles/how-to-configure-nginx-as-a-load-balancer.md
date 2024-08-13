@@ -78,7 +78,29 @@ cd /etc/nginx/sites-available/sudo nano default
   
 
 ```
-http {   upstream app{      server 10.2.0.100;      server 10.2.0.101;      server 10.2.0.102;   }   # Этот сервер принимает весь трафик на порт 80 и передает его вышестоящему потоку.   # Обратите внимание, что имя вышестоящего потока и proxy_pass должны совпадать.   server {      listen 80;            server_name mydomain.com;      location / {          include proxy_params;                    proxy_pass http://app;                    proxy_redirect off;          proxy_http_version 1.1;          proxy_set_header Upgrade $http_upgrade;          proxy_set_header Connection "upgrade";      }   }}
+http {
+    upstream app {
+        server 10.2.0.100;
+        server 10.2.0.101;
+        server 10.2.0.102;
+    }
+
+    # Этот сервер принимает весь трафик на порт 80 и передает его вышестоящему потоку.
+    # Обратите внимание, что имя вышестоящего потока и proxy_pass должны совпадать.
+    server {
+        listen 80;
+        server_name mydomain.com;
+
+        location / {
+            include proxy_params;
+            proxy_pass http://app;
+            proxy_redirect off;
+            proxy_http_version 1.1;
+            proxy_set_header Upgrade $http_upgrade;
+            proxy_set_header Connection "upgrade";
+        }
+    }
+}
 ```
 
   
@@ -120,7 +142,20 @@ http {   upstream app{      server 10.2.0.100;      server 10.2.0.101;      serv
   
 
 ```
-http {   upstream app{      server 10.2.0.100 weight=5;      server 10.2.0.101 weight=3;      server 10.2.0.102 weight=1;   }  server {      listen 80;      location / {          proxy_pass http://app;      }   }}
+http {
+   upstream app {
+      server 10.2.0.100 weight=5;
+      server 10.2.0.101 weight=3;
+      server 10.2.0.102 weight=1;
+   }
+
+   server {
+      listen 80;
+      location / {
+          proxy_pass http://app;
+      }
+   }
+}
 ```
 
   
@@ -132,7 +167,21 @@ http {   upstream app{      server 10.2.0.100 weight=5;      server 10.2.0.101 w
   
 
 ```
-http {   upstream app{      least_conn;      server 10.2.0.100;      server 10.2.0.101;      server 10.2.0.102;   }   server {      listen 80;      location / {          proxy_pass http://app;      }   }}
+http {
+    upstream app {
+        least_conn;
+        server 10.2.0.100;
+        server 10.2.0.101;
+        server 10.2.0.102;
+    }
+
+    server {
+        listen 80;
+        location / {
+            proxy_pass http://app;
+        }
+    }
+}
 ```
 
   
@@ -144,7 +193,21 @@ http {   upstream app{      least_conn;      server 10.2.0.100;      server 10.2
   
 
 ```
-http {   upstream app{      least_conn;      server 10.2.0.100 weight=5;      server 10.2.0.101 weight=4;      server 10.2.0.102 weight=1;   }   server {      listen 80;      location / {          proxy_pass http://app;      }   }}
+http {
+    upstream app {
+        least_conn;
+        server 10.2.0.100 weight=5;
+        server 10.2.0.101 weight=4;
+        server 10.2.0.102 weight=1;
+    }
+    
+    server {
+        listen 80;
+        location / {
+            proxy_pass http://app;
+        }
+    }
+}
 ```
 
   
@@ -160,7 +223,21 @@ http {   upstream app{      least_conn;      server 10.2.0.100 weight=5;      se
   
 
 ```
-http {   upstream app{      ip_hash;      server 10.2.0.100;      server 10.2.0.101;      server 10.2.0.102;   }   server {      listen 80;      location / {          proxy_pass http://app;      }   }}
+http {
+    upstream app {
+        ip_hash;
+        server 10.2.0.100;
+        server 10.2.0.101;
+        server 10.2.0.102;
+    }
+
+    server {
+        listen 80;
+        location / {
+            proxy_pass http://app;
+        }
+    }
+}
 ```
 
   
@@ -238,7 +315,11 @@ Nginx анализирует операции по мере их выполне�
   
 
 ```
-upstream app{      server 10.2.0.100 max_fails=3 fail_timeout=60s;      server 10.2.0.101;      server 10.2.0.102;   }
+upstream app {
+    server 10.2.0.100 max_fails=3 fail_timeout=60s;
+    server 10.2.0.101;
+    server 10.2.0.102;
+}
 ```
 
   
@@ -250,7 +331,12 @@ Nginx может периодически проверять здоровье в
   
 
 ```
-server {    location / {        proxy_pass http://app;        health_check;    }}
+server {
+    location / {
+        proxy_pass http://app;
+        health_check;
+    }
+}
 ```
 
   
