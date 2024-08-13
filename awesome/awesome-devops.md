@@ -61,6 +61,10 @@
 - https://blog.bytebytego.com/
 - https://www.splunk.com/en_us/blog/devops.html
 
+### Генераторы конфигов
+
+- nginx ssl https://ssl-config.mozilla.org/
+
 ### Проверки сретификатов
 
 - https://proverator.ru/
