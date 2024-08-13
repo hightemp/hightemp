@@ -61,6 +61,11 @@
 - https://blog.bytebytego.com/
 - https://www.splunk.com/en_us/blog/devops.html
 
+### Проверки сретификатов
+
+- https://proverator.ru/
+- https://www.ssllabs.com/ssltest/
+
 ### Полезные ссылки
 
 - https://github.com/denji/nginx-tuning
