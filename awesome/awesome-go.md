@@ -125,6 +125,8 @@
 - Архитектура
   - Чистая архитектура
     - How to implement clean architecture in Golang (EN) https://medium.com/@rayato159/how-to-implement-clean-architecture-in-golang-en-f50d66378ebf
+  - Паттерны
+    - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
 - Выжимаем из Go максимум производительности https://habr.com/ru/companies/vk/articles/824484/
 - Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
 - Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
