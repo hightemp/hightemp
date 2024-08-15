@@ -1,3 +1,107 @@
+## Все виды валидаторов `go-playground/validator`
+
+### Общие валидаторы
+
+```go
+`validate:"required"` // Поле обязательно для заполнения
+`validate:"omitempty"` // Пропустить валидацию, если поле пустое
+`validate:"len=10"` // Точная длина
+`validate:"min=5"` // Минимальная длина или значение
+`validate:"max=10"` // Максимальная длина или значение
+`validate:"eq=10"` // Равно значению
+`validate:"ne=10"` // Не равно значению
+`validate:"oneof=red green blue"` // Значение должно быть одним из списка
+```
+
+### Числовые валидаторы
+
+```go
+`validate:"gt=0"` // Больше чем
+`validate:"gte=0"` // Больше или равно
+`validate:"lt=10"` // Меньше чем
+`validate:"lte=10"` // Меньше или равно
+`validate:"multiple=3"` // Кратно числу
+```
+
+### Строковые валидаторы
+
+```go
+`validate:"alpha"` // Только буквы
+`validate:"alphanum"` // Буквы и цифры
+`validate:"numeric"` // Только цифры
+`validate:"hexadecimal"` // Шестнадцатеричное значение
+`validate:"lowercase"` // Только нижний регистр
+`validate:"uppercase"` // Только верхний регистр
+`validate:"contains=substring"` // Содержит подстроку
+`validate:"containsany=abcd"` // Содержит любой из символов
+`validate:"excludes=substring"` // Не содержит подстроку
+`validate:"excludesall=0123456789"` // Не содержит ни одного из символов
+`validate:"startswith=prefix"` // Начинается с префикса
+`validate:"endswith=suffix"` // Заканчивается суффиксом
+```
+
+### Форматные валидаторы
+
+```go
+`validate:"email"` // Валидный email
+`validate:"url"` // Валидный URL
+`validate:"uri"` // Валидный URI
+`validate:"base64"` // Валидная Base64 строка
+`validate:"json"` // Валидный JSON
+`validate:"jwt"` // Валидный JWT токен
+`validate:"uuid"` // Валидный UUID
+`validate:"uuid3"` // Валидный UUID версии 3
+`validate:"uuid4"` // Валидный UUID версии 4
+`validate:"uuid5"` // Валидный UUID версии 5
+`validate:"isbn"` // Валидный ISBN
+`validate:"isbn10"` // Валидный ISBN10
+`validate:"isbn13"` // Валидный ISBN13
+```
+
+### Сравнительные валидаторы
+
+```go
+`validate:"eqfield=ConfirmPassword"` // Равно другому полю
+`validate:"nefield=Password"` // Не равно другому полю
+`validate:"gtfield=MinAge"` // Больше чем другое поле
+`validate:"ltfield=MaxAge"` // Меньше чем другое поле
+```
+
+### Временные валидаторы
+
+```go
+`validate:"datetime=2006-01-02"` // Соответствует формату даты/времени
+`validate:"date"` // Валидная дата
+`validate:"time"` // Валидное время
+```
+
+### Слайсы и карты
+
+```go
+`validate:"dive"` // Применить валидацию к элементам слайса или карты
+`validate:"unique"` // Все элементы должны быть уникальными
+`validate:"min=3,max=10,dive,required"` // Комбинированная валидация для слайса
+```
+
+### Файловые валидаторы
+
+```go
+`validate:"file"` // Существующий файл
+`validate:"dir"` // Существующая директория
+`validate:"isdefault"` // Значение по умолчанию для типа
+```
+
+### Условные валидаторы
+
+```go
+`validate:"required_if=Field1 value1 Field2 value2"` // Обязательно, если другие поля имеют определенные значения
+`validate:"required_unless=Field1 value1 Field2 value2"` // Обязательно, если другие поля НЕ имеют определенных значений
+`validate:"required_with=Field1 Field2"` // Обязательно, если одно из указанных полей присутствует
+`validate:"required_without=Field1 Field2"` // Обязательно, если одно из указанных полей отсутствует
+`validate:"excluded_with=Field1 Field2"` // Должно быть пустым, если указанные поля присутствуют
+`validate:"excluded_without=Field1 Field2"` // Должно быть пустым, если указанные поля отсутствуют
+```
+
 ## Использование прокси в http.Client
 
 ```golang
