@@ -258,6 +258,7 @@
 - https://reintech.io/blog?technology=go
 - https://www.codingexplorations.com/blog/category/golang
 - https://nakabonne.dev/
+- https://blog.gkomninos.com/series/webapp-using-golang
 
 ### Видео
 
