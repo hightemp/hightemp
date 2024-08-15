@@ -1,3 +1,58 @@
+## golang-migrate
+
+`golang-migrate` - это инструмент для управления миграциями базы данных, который поддерживает автоматическую генерацию миграций и их выполнение. Вот основные особенности:
+
+1. Поддержка множества баз данных (PostgreSQL, MySQL, SQLite и др.)
+2. CLI инструмент для управления миграциями
+3. Программный API для интеграции миграций в ваше приложение
+4. Поддержка миграций вверх и вниз (up and down)
+5. Поддержка различных источников миграций (файловая система, GitHub, AWS S3 и др.)
+
+#### Установка
+
+```bash
+go install -tags 'postgres' github.com/golang-migrate/migrate/v4/cmd/migrate@latest
+```
+
+#### Создание миграций
+
+```bash
+migrate create -ext sql -dir db/migrations -seq create_users_table
+```
+
+Это создаст два файла:
+- `db/migrations/000001_create_users_table.up.sql`
+- `db/migrations/000001_create_users_table.down.sql`
+
+#### Пример миграции
+
+`000001_create_users_table.up.sql`:
+```sql
+CREATE TABLE users (
+    id SERIAL PRIMARY KEY,
+    username VARCHAR(50) NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+```
+
+`000001_create_users_table.down.sql`:
+```sql
+DROP TABLE users;
+```
+
+#### Выполнение миграций
+
+```bash
+migrate -database "postgresql://username:password@localhost:5432/database?sslmode=disable" -path db/migrations up
+```
+
+#### Откат миграций
+
+```bash
+migrate -database "postgresql://username:password@localhost:5432/database?sslmode=disable" -path db/migrations down
+```
+
 ## Все виды валидаторов `go-playground/validator`
 
 ### Общие валидаторы
