@@ -111,7 +111,10 @@
 
 ### Статьи
 
-- go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
+- Валидация данных
+  - Using Go Validator for Efficient Data Validation in Go Applications https://www.codingexplorations.com/blog/using-go-validator-for-efficient-data-validation-in-go-applications
+- Сигналы SIG**
+  - go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
 - Выжимаем из Go максимум производительности https://habr.com/ru/companies/vk/articles/824484/
 - Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
 - Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
