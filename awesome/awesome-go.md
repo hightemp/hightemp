@@ -117,6 +117,9 @@
   - go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
 - Пример приложения
   - How I write HTTP services in Go after 13 years https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/
+- Работа с траффиком
+  - pcap
+    - How to Read and Extract Information from a PCAP File in Go https://byteshiva.medium.com/how-to-read-and-extract-information-from-a-pcap-file-in-go-287c0bd66561
 - Выжимаем из Go максимум производительности https://habr.com/ru/companies/vk/articles/824484/
 - Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
 - Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
