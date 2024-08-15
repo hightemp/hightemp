@@ -1,3 +1,6 @@
+- https://mrturkmen.com/
+  - golang, python, devops
+  - EN
 - https://valynkin.ru/
   - admin, perl
   - RU
