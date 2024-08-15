@@ -48,6 +48,7 @@
 
 - Goravel - это полнофункциональный и масштабируемый веб-фреймворк для Go, вдохновленный Laravel, который помогает разработчикам быстро создавать приложения, облегчая переход с PHP и приветствуя вклад сообщества в виде звезд, PR и issues на GitHub. https://www.goravel.dev/ https://github.com/goravel/framework
 - The enterprise Golang REST API framework. Goyave is an opinionated all-in-one Golang web framework focused on REST APIs, with emphasis on code reliability, maintainability and developer experience. https://goyave.dev/
+- Проект Go Micro представляет собой фреймворк для разработки распределенных систем, предоставляющий ключевые компоненты, такие как RPC и событийно-ориентированное взаимодействие, с философией разумных настроек по умолчанию и подключаемой архитектурой. https://github.com/micro/go-micro
 
 #### GUI
 
