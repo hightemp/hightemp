@@ -1,3 +1,73 @@
+## Пример использования валидатора
+
+```golang
+package main
+
+import (
+	"encoding/json"
+	"fmt"
+	"net/http"
+
+	"github.com/go-playground/validator/v10"
+)
+
+// User структура для хранения данных пользователя
+type User struct {
+	Username string `json:"username" validate:"required,min=3,max=20"`
+	Email    string `json:"email" validate:"required,email"`
+	Age      int    `json:"age" validate:"required,gte=18,lte=120"`
+}
+
+var validate *validator.Validate
+
+func init() {
+	validate = validator.New()
+}
+
+func userHandler(w http.ResponseWriter, r *http.Request) {
+	var user User
+
+	// Декодирование JSON из тела запроса
+	err := json.NewDecoder(r.Body).Decode(&user)
+	if err != nil {
+		http.Error(w, "Invalid JSON", http.StatusBadRequest)
+		return
+	}
+
+	// Валидация структуры
+	err = validate.Struct(user)
+	if err != nil {
+		// Если есть ошибки валидации
+		if _, ok := err.(*validator.InvalidValidationError); ok {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			return
+		}
+
+		var errorMessages []string
+		for _, err := range err.(validator.ValidationErrors) {
+			errorMessages = append(errorMessages, fmt.Sprintf("Field: %s, Error: %s", err.Field(), err.Tag()))
+		}
+
+		// Отправка ошибок валидации клиенту
+		w.WriteHeader(http.StatusBadRequest)
+		json.NewEncoder(w).Encode(map[string]interface{}{
+			"errors": errorMessages,
+		})
+		return
+	}
+
+	// Если валидация прошла успешно
+	w.WriteHeader(http.StatusOK)
+	json.NewEncoder(w).Encode(map[string]string{"message": "User data is valid"})
+}
+
+func main() {
+	http.HandleFunc("/user", userHandler)
+	fmt.Println("Server is running on :8080")
+	http.ListenAndServe(":8080", nil)
+}
+```
+
 ## goose
 
 `goose` - это простой в использовании инструмент для миграции баз данных, написанный на Go. Он поддерживает создание, применение и откат миграций для различных баз данных.
