@@ -1,3 +1,151 @@
+## goose
+
+`goose` - это простой в использовании инструмент для миграции баз данных, написанный на Go. Он поддерживает создание, применение и откат миграций для различных баз данных.
+
+#### Основные характеристики:
+
+1. Поддержка нескольких СУБД (PostgreSQL, MySQL, SQLite и др.)
+2. CLI для управления миграциями
+3. Программный API для интеграции в Go-приложения
+4. Поддержка миграций на SQL и Go
+5. Возможность создания, применения и отката миграций
+
+#### Установка
+
+```bash
+go install github.com/pressly/goose/v3/cmd/goose@latest
+```
+
+#### Создание миграций
+
+Создание SQL-миграции:
+
+```bash
+goose create add_users_table sql
+```
+
+Это создаст файл с именем вроде `20230515120000_add_users_table.sql` в текущей директории.
+
+Создание Go-миграции:
+
+```bash
+goose create add_users_table go
+```
+
+Это создаст файл с именем вроде `20230515120000_add_users_table.go`.
+
+#### Пример SQL-миграции
+
+`20230515120000_add_users_table.sql`:
+
+```sql
+-- +goose Up
+-- +goose StatementBegin
+CREATE TABLE users (
+    id SERIAL PRIMARY KEY,
+    username VARCHAR(50) NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+-- +goose StatementEnd
+
+-- +goose Down
+-- +goose StatementBegin
+DROP TABLE users;
+-- +goose StatementEnd
+```
+
+#### Пример Go-миграции
+
+`20230515120000_add_users_table.go`:
+
+```go
+package main
+
+import (
+    "database/sql"
+    "github.com/pressly/goose/v3"
+)
+
+func init() {
+    goose.AddMigration(upAddUsersTable, downAddUsersTable)
+}
+
+func upAddUsersTable(tx *sql.Tx) error {
+    _, err := tx.Exec(`
+        CREATE TABLE users (
+            id SERIAL PRIMARY KEY,
+            username VARCHAR(50) NOT NULL,
+            email VARCHAR(100) NOT NULL,
+            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        );
+    `)
+    if err != nil {
+        return err
+    }
+    return nil
+}
+
+func downAddUsersTable(tx *sql.Tx) error {
+    _, err := tx.Exec("DROP TABLE users;")
+    if err != nil {
+        return err
+    }
+    return nil
+}
+```
+
+#### Выполнение миграций
+
+Применение всех миграций:
+
+```bash
+goose postgres "user=username password=password dbname=mydb sslmode=disable" up
+```
+
+Применение определенного количества миграций:
+
+```bash
+goose postgres "user=username password=password dbname=mydb sslmode=disable" up-by-one
+```
+
+или
+
+```bash
+goose postgres "user=username password=password dbname=mydb sslmode=disable" up-to VERSION
+```
+
+#### Откат миграций
+
+Откат последней миграции:
+
+```bash
+goose postgres "user=username password=password dbname=mydb sslmode=disable" down
+```
+
+Откат всех миграций:
+
+```bash
+goose postgres "user=username password=password dbname=mydb sslmode=disable" reset
+```
+
+#### Статус миграций
+
+Просмотр статуса миграций:
+
+```bash
+goose postgres "user=username password=password dbname=mydb sslmode=disable" status
+```
+
+### Особенности goose
+
+1. **Простота использования**: goose имеет простой и понятный CLI интерфейс.
+2. **Go и SQL миграции**: Поддерживает миграции, написанные как на SQL, так и на Go.
+3. **Транзакции**: Каждая миграция выполняется в отдельной транзакции.
+4. **Версионирование**: Использует временные метки для версионирования миграций.
+5. **Интеграция с приложением**: Легко интегрируется в Go-приложения через программный API.
+6. **Гибкость**: Позволяет выполнять миграции до определенной версии, применять только одну миграцию и т.д.
+
 ## golang-migrate
 
 `golang-migrate` - это инструмент для управления миграциями базы данных, который поддерживает автоматическую генерацию миграций и их выполнение. Вот основные особенности:
