@@ -201,6 +201,107 @@ migrate -database "postgresql://username:password@localhost:5432/database?sslmod
 migrate -database "postgresql://username:password@localhost:5432/database?sslmode=disable" -path db/migrations down
 ```
 
+
+
+## gormigrate
+
+`gormigrate` позволяет определять миграции с использованием GORM и предоставляет простой способ управления версиями базы данных.
+
+#### Установка
+
+```bash
+go get -u github.com/go-gormigrate/gormigrate/v2
+```
+
+#### Основные особенности
+
+1. Интеграция с GORM
+2. Поддержка миграций вверх и вниз
+3. Возможность использования Go-кода для определения миграций
+4. Автоматическое управление версиями миграций
+5. Поддержка всех баз данных, которые поддерживает GORM
+
+#### Пример использования
+
+```go
+package main
+
+import (
+	"log"
+
+	"github.com/go-gormigrate/gormigrate/v2"
+	"gorm.io/gorm"
+	"gorm.io/driver/postgres"
+)
+
+func main() {
+	db, err := gorm.Open(postgres.Open("host=localhost user=gorm password=gorm dbname=gorm port=9920 sslmode=disable TimeZone=Asia/Shanghai"), &gorm.Config{})
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	m := gormigrate.New(db, gormigrate.DefaultOptions, []*gormigrate.Migration{
+		{
+			ID: "202106010001",
+			Migrate: func(tx *gorm.DB) error {
+				// Создание таблицы
+				return tx.AutoMigrate(&User{})
+			},
+			Rollback: func(tx *gorm.DB) error {
+				// Откат изменений
+				return tx.Migrator().DropTable("users")
+			},
+		},
+		{
+			ID: "202106010002",
+			Migrate: func(tx *gorm.DB) error {
+				// Добавление колонки
+				return tx.Migrator().AddColumn(&User{}, "Email")
+			},
+			Rollback: func(tx *gorm.DB) error {
+				// Удаление колонки
+				return tx.Migrator().DropColumn(&User{}, "Email")
+			},
+		},
+	})
+
+	if err = m.Migrate(); err != nil {
+		log.Fatalf("Could not migrate: %v", err)
+	}
+	log.Printf("Migration did run successfully")
+}
+
+type User struct {
+	gorm.Model
+	Name  string
+	Email string // Добавлено во второй миграции
+}
+```
+
+#### Особенности использования
+
+1. **Определение миграций**: Каждая миграция определяется как структура `gormigrate.Migration` с уникальным ID, функциями Migrate и Rollback.
+2. **Выполнение миграций**: Используйте метод `Migrate()` для применения всех миграций.
+3. **Откат миграций**: Метод `RollbackLast()` откатывает последнюю миграцию.
+4. **Выполнение до определенной версии**: Метод `MigrateTo()` позволяет мигрировать до конкретной версии.
+5. **Интеграция с GORM**: Вы можете использовать все возможности GORM внутри функций миграции.
+
+#### Преимущества gormigrate
+
+1. **Тесная интеграция с GORM**: Если вы уже используете GORM, gormigrate будет естественным выбором.
+2. **Использование Go-кода**: Вместо SQL вы пишете миграции на Go, что может быть более удобным и типобезопасным.
+3. **Автоматическое управление версиями**: gormigrate автоматически отслеживает, какие миграции были применены.
+4. **Простота использования**: API очень прост и интуитивно понятен.
+
+#### Ограничения
+
+1. **Зависимость от GORM**: Если вы не используете GORM, этот инструмент может быть излишним.
+2. **Нет CLI-инструмента**: В отличие от некоторых других решений, gormigrate не предоставляет отдельного CLI-инструмента.
+3. **Нет автогенерации миграций**: Вам нужно вручную писать каждую миграцию.
+
+
+
+
 ## Все виды валидаторов `go-playground/validator`
 
 ### Общие валидаторы
