@@ -198,6 +198,8 @@
 - Работа с промт. Этот курс поможет пройти путь от новичка до босса промтов. Курс включает более 60 модулей содержания. https://learnprompting.org/
 - Microsoft — курс по работе с ИИ. https://microsoft.github.io/AI-For-Beginners/
 - Nvidiа — базированный 2-часовой курс, который подробно объяснит устройство нейронок, их применения. https://courses.nvidia.com/courses/course-v1:DLI+S-FX-07+V1/
+- туториал об Instruction Tuning LlaMa-2 https://www.philschmid.de/instruction-tune-llama-2
+- Это набор лекций, которые покрывают такие прикладные темы как RAG (https://t.me/ai_newz/2566), файн-тюнинг, промпт-инжиниринг, оценка качества моделей и прочее. Курс уникальный, потому что лекции ведут 25+ разных опытных чуваков из индустрии, которые являются экспертами по соответсвующим темам. Там ребята из Pytorch (Meta), Anthropic, Mistral, Fireworks-ai и других компаний. https://parlance-labs.com/education/
 
 ### Учебники
 
@@ -234,6 +236,7 @@
 ### Видео
 
 - Let's build the GPT Tokenizer https://www.youtube.com/watch?v=zduSFxRajkE
+- A Hacker’s Guide to LLMs от Джереми Ховарда https://www.youtube.com/watch?v=jkrNMKz9pWU
 
 ### Полезные ссылки
 
