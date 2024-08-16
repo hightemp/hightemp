@@ -147,6 +147,7 @@
   - CQRS (использование разных моделей для чтения и записи)
     - How to use basic CQRS in Go https://threedots.tech/post/basic-cqrs-in-go/
   - Чистая архитектура
+    - How to implement Clean Architecture in Go https://threedots.tech/post/introducing-clean-architecture/
     - How to implement clean architecture in Golang (EN) https://medium.com/@rayato159/how-to-implement-clean-architecture-in-golang-en-f50d66378ebf
   - Паттерны
     - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
