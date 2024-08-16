@@ -113,6 +113,8 @@
 - This document outlines best practices for writing high-performance Go code. https://github.com/dgryski/go-perfbook
 - Go Optimizations 101 https://go101.org/optimizations/101.html
 - Writing A Compiler In Go https://compilerbook.com/
+- Go Web Programming. (2016) Sau Sheong Chang
+  - https://edu.anarcho-copy.org/Programming%20Languages/Go/Go%20Web%20Programming.pdf
 
 ### Статьи
 
