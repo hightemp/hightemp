@@ -1,5 +1,30 @@
 ## Отключение сессий и куки
 
+```php
+namespace app\controllers;
+
+use yii\web\Controller;
+use Yii;
+
+class MyController extends Controller
+{
+    public function init()
+    {
+        parent::init();
+
+        // Отключение сессий
+        Yii::$app->set('session', null);
+        
+        // Отключение валидации куки
+        Yii::$app->request->enableCookieValidation = false;
+    }
+
+    public function actionIndex()
+    {
+        return 'Сессии и куки отключены для данного контроллера.';
+    }
+}
+```
 
 ## Использование LIKE в условии
 
