@@ -14,6 +14,9 @@ class MyController extends Controller
 
         // Отключение сессий
         Yii::$app->set('session', null);
+
+        \Yii::$app->user->enableSession = false;
+        \Yii::$app->user->enableAutoLogin = false;
         
         // Отключение валидации куки
         Yii::$app->request->enableCookieValidation = false;
