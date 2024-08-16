@@ -43,6 +43,8 @@
     - SQLBoiler - это инструмент для генерации ORM на Go, адаптированного под схему вашей базы данных, который использует подход "сначала база данных" и предлагает производительность, типобезопасность и удобство использования, сравнимое с ActiveRecord. https://github.com/volatiletech/sqlboiler
 - Конверторы
   - https://github.com/JohannesKaufmann/html-to-markdown
+- Конфигурация
+  - https://github.com/Mansiper/GoConfiguration
 
 ### Репозитории
 
