@@ -137,6 +137,8 @@
     - pcap
       - How to Read and Extract Information from a PCAP File in Go https://byteshiva.medium.com/how-to-read-and-extract-information-from-a-pcap-file-in-go-287c0bd66561
       - Programmatically Analyze Packet Captures with GoPacket https://www.akitasoftware.com/blog-posts/programmatically-analyze-packet-captures-with-gopacket
+- Лучшие практики
+  - Go best practices, six years in https://peter.bourgon.org/go-best-practices-2016/?ref=refind
 - Архитектура
   - Чистая архитектура
     - How to implement clean architecture in Golang (EN) https://medium.com/@rayato159/how-to-implement-clean-architecture-in-golang-en-f50d66378ebf
@@ -145,27 +147,32 @@
 - Внутреннее устройство
   - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
 - Оптимизация
+  - How to Use Maps Safely in Go https://hackernoon.com/how-to-use-maps-safely-in-go
   - Выжимаем из Go максимум производительности https://habr.com/ru/companies/vk/articles/824484/
+  - How to optimize garbage collection in Go https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/
+  - GopherCon 2019 - Optimizing Go Code without a blindfold https://sourcegraph.com/blog/go/gophercon-2019-optimizing-go-code-without-a-blindfold
 - Конкурентное программирование
+  - Concurrency, Параллелизм
+    - Understanding Concurrency Patterns in Go https://hackernoon.com/understanding-concurrency-patterns-in-go
   - Синхронизация
     - Примитивы синхронизации
       - Mutex
         - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
-- Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
-- Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
-- Raft Consensus — leader election with Golang https://medium.com/@govinda.attal/raft-consensus-leader-election-with-golang-89bfdbd471cb
+- Кэширование
+  - Go High-Performance Cache with TTL and Disk Persistence https://dev.to/leoantony72/go-high-performance-cache-with-ttl-and-disk-persistence-4a4m
+- Distributed Systems, Распределенные системы
+  - Consensus Algorithms, Алгоритмы консенсуса
+    - Raft Consensus Algorithm, Алгоритм консенсуса Raft
+      - Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
+      - Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
+      - Raft Consensus — leader election with Golang https://medium.com/@govinda.attal/raft-consensus-leader-election-with-golang-89bfdbd471cb
 - Write a time-series database engine from scratch https://nakabonne.dev/posts/write-tsdb-from-scratch/
 - Software Transactional Memory: a stairway to lock-free programming heaven? https://medium.com/@talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-9ca1f4dce23f
 - Mastering Contexts in Go https://hackernoon.com/mastering-contexts-in-go
-- Understanding Concurrency Patterns in Go https://hackernoon.com/understanding-concurrency-patterns-in-go
 - Building a high performance JSON parser https://dave.cheney.net/high-performance-json.html
 - Distributed Locking In Go https://blogs.halodoc.io/distributed-locking-in-go/
 - Probabilistic Data Structures for Go https://blog.gopheracademy.com/advent-2014/go-probably/
-- How to optimize garbage collection in Go https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/
-- GopherCon 2019 - Optimizing Go Code without a blindfold https://sourcegraph.com/blog/go/gophercon-2019-optimizing-go-code-without-a-blindfold
-- How to Use Maps Safely in Go https://hackernoon.com/how-to-use-maps-safely-in-go
 - Hash-Based Bisect Debugging in Compilers and Runtimes https://research.swtch.com/bisect
-- Go best practices, six years in https://peter.bourgon.org/go-best-practices-2016/?ref=refind
 - Server-side I/O Performance: Node vs. PHP vs. Java vs. Go https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go?ref=refind
 - Rubbing control theory on the Go scheduler https://www.cockroachlabs.com/blog/rubbing-control-theory/?ref=refind
 - Interactive Go programming with Jupyter https://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1
