@@ -93,6 +93,7 @@
 - TOP 50 project ideas to become a golang hero https://dev.to/kumarkalyan/top-50-project-ideas-to-become-a-golang-hero-98k
 - An example of a reasonably complex web server in Go. https://github.com/jordan-wright/http-boilerplate
 - https://go101.org/
+- 43 ресурса для изучения Golang в 2021 году: сайты, блоги, сообщества, курсы, каналы и книги https://proglib.io/p/43-resursa-dlya-izucheniya-golang-v-2021-godu-sayty-blogi-soobshchestva-kursy-kanaly-i-knigi-2021-07-20
 
 ### Курсы
 
