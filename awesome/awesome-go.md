@@ -44,7 +44,7 @@
 - Конверторы
   - https://github.com/JohannesKaufmann/html-to-markdown
 - Конфигурация
-  - https://github.com/Mansiper/GoConfiguration
+  - Allows to read configurations from different sources and combine all together in one structure. https://github.com/Mansiper/GoConfiguration
 
 ### Репозитории
 
