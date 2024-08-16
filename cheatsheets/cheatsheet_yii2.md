@@ -17,6 +17,7 @@ class MyController extends Controller
         
         // Отключение валидации куки
         Yii::$app->request->enableCookieValidation = false;
+        Yii::$app->request->enableCsrfValidation = false;
     }
 
     public function actionIndex()
