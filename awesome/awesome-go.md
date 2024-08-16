@@ -11,6 +11,7 @@
 - https://github.com/betty200744/ultimate-go
 - Reverse Engineering Golang https://gist.github.com/0xdevalias/4e430914124c3fd2c51cb7ac2801acba
 - Go Lang Reverse Engineering Resources/Links https://gist.github.com/alexander-hanel/59af86b0154df44a2c9cebfba4996073
+- https://github.com/dariubs/GoBooks
 
 ### Roadmaps
 
