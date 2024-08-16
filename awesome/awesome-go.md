@@ -122,16 +122,27 @@
 - Пример создания приложения
   - How I write HTTP services in Go after 13 years https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/
   - Deploying a Golang RESTful API with Gin, SQLC and PostgreSQL https://dev.to/geoff89/deploying-a-golang-restful-api-with-gin-sqlc-and-postgresql-1lbl
-- Работа с траффиком
-  - pcap
-    - How to Read and Extract Information from a PCAP File in Go https://byteshiva.medium.com/how-to-read-and-extract-information-from-a-pcap-file-in-go-287c0bd66561
-    - Programmatically Analyze Packet Captures with GoPacket https://www.akitasoftware.com/blog-posts/programmatically-analyze-packet-captures-with-gopacket
+  - Разработка веб-серверов на Go https://tproger.ru/translations/go-web-server
+  - Создание веб-приложения с помощью Go и React https://bestcode.su/frontend/sozdanie-veb-prilozheniya-s-pomoschyu-go-i-react/
+- Сеть
+  - Работа с траффиком
+    - pcap
+      - How to Read and Extract Information from a PCAP File in Go https://byteshiva.medium.com/how-to-read-and-extract-information-from-a-pcap-file-in-go-287c0bd66561
+      - Programmatically Analyze Packet Captures with GoPacket https://www.akitasoftware.com/blog-posts/programmatically-analyze-packet-captures-with-gopacket
 - Архитектура
   - Чистая архитектура
     - How to implement clean architecture in Golang (EN) https://medium.com/@rayato159/how-to-implement-clean-architecture-in-golang-en-f50d66378ebf
   - Паттерны
     - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
-- Выжимаем из Go максимум производительности https://habr.com/ru/companies/vk/articles/824484/
+- Внутреннее устройство
+  - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
+- Оптимизация
+  - Выжимаем из Go максимум производительности https://habr.com/ru/companies/vk/articles/824484/
+- Конкурентное программирование
+  - Синхронизация
+    - Примитивы синхронизации
+      - Mutex
+        - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
 - Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
 - Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
 - Raft Consensus — leader election with Golang https://medium.com/@govinda.attal/raft-consensus-leader-election-with-golang-89bfdbd471cb
@@ -144,11 +155,8 @@
 - Probabilistic Data Structures for Go https://blog.gopheracademy.com/advent-2014/go-probably/
 - How to optimize garbage collection in Go https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/
 - GopherCon 2019 - Optimizing Go Code without a blindfold https://sourcegraph.com/blog/go/gophercon-2019-optimizing-go-code-without-a-blindfold
-- Разработка веб-серверов на Go https://tproger.ru/translations/go-web-server
-- Создание веб-приложения с помощью Go и React https://bestcode.su/frontend/sozdanie-veb-prilozheniya-s-pomoschyu-go-i-react/
 - How to Use Maps Safely in Go https://hackernoon.com/how-to-use-maps-safely-in-go
 - Hash-Based Bisect Debugging in Compilers and Runtimes https://research.swtch.com/bisect
-- Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
 - Go best practices, six years in https://peter.bourgon.org/go-best-practices-2016/?ref=refind
 - Server-side I/O Performance: Node vs. PHP vs. Java vs. Go https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go?ref=refind
 - Rubbing control theory on the Go scheduler https://www.cockroachlabs.com/blog/rubbing-control-theory/?ref=refind
