@@ -144,6 +144,8 @@
 - Лучшие практики
   - Go best practices, six years in https://peter.bourgon.org/go-best-practices-2016/?ref=refind
 - Архитектура
+  - CQRS (использование разных моделей для чтения и записи)
+    - How to use basic CQRS in Go https://threedots.tech/post/basic-cqrs-in-go/
   - Чистая архитектура
     - How to implement clean architecture in Golang (EN) https://medium.com/@rayato159/how-to-implement-clean-architecture-in-golang-en-f50d66378ebf
   - Паттерны
