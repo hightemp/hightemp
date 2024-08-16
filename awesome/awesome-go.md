@@ -133,6 +133,8 @@
   - Разработка веб-серверов на Go https://tproger.ru/translations/go-web-server
   - Создание веб-приложения с помощью Go и React https://bestcode.su/frontend/sozdanie-veb-prilozheniya-s-pomoschyu-go-i-react/
 - Сеть
+  - Proxy, Прокси
+    - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
   - Работа с траффиком
     - pcap
       - How to Read and Extract Information from a PCAP File in Go https://byteshiva.medium.com/how-to-read-and-extract-information-from-a-pcap-file-in-go-287c0bd66561
@@ -191,7 +193,6 @@
 - 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
 - Golang: context изнутри https://habr.com/ru/articles/827544/
 - How To Use Contexts in Go https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go
-- HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
 - Writing an OS in Go: The Bootloader https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader
 - О массивах и слайсах в Go https://habr.com/ru/articles/739754/
 - Советы Golang: почему указатели на срезы полезны и как их игнорирование может привести к хитрым ошибкам https://habr.com/ru/articles/525940/
