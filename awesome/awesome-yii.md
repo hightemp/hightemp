@@ -8,3 +8,7 @@
 - Авторизация
   - JWT
     - https://github.com/sizeg/yii2-jwt
+
+### Полезные ссылки
+
+- https://www.yiiframework.ru/forum/index.php
