@@ -1,6 +1,9 @@
 ### Колекции
 
 - yiigist is a directory of Packages https://yiigist.com/
+- https://github.com/awesome-yii/list
+- https://github.com/hauntd/awesome-yii2
+- https://awesome.ecosyste.ms/lists/goke-epapa%2Fawesome-yii2
 
 ### Репозитории
 
