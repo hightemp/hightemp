@@ -154,6 +154,7 @@
     - How to implement clean architecture in Golang (EN) https://medium.com/@rayato159/how-to-implement-clean-architecture-in-golang-en-f50d66378ebf
   - Паттерны
     - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
+    - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
 - Внутреннее устройство
   - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
 - Оптимизация
