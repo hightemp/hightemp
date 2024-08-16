@@ -119,6 +119,7 @@
 - Writing A Compiler In Go https://compilerbook.com/
 - Go Web Programming. (2016) Sau Sheong Chang
   - https://edu.anarcho-copy.org/Programming%20Languages/Go/Go%20Web%20Programming.pdf
+- Go from the beginning https://github.com/softchris/golang-book/
 
 ### Статьи
 
