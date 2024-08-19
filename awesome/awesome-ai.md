@@ -125,6 +125,31 @@
 
 - CAD — нейронка генерирует трехмерные модели САПР из текстовых запросов. Можно облегчить работу и не проектировать шестеренки, детали и запчасти вручную https://zoo.dev/text-to-cad
 
+
+### Распознать дипфейки - Видео 
+
+- https://scanner.deepware.ai
+- https://deepfakedetector.ai/
+- https://sensity.ai/
+- https://hivemoderation.com/ai-generated-content-detection
+  
+### Распознать дипфейки  - Аудио
+
+- https://elevenlabs.io/ai-speech-classifier
+- https://aivoicedetector.com/
+- https://www.aiornot.com/ 
+- https://hivemoderation.com/ai-generated-content-detection
+  
+### Распознать дипфейки -  Изображения
+
+- https://www.fakeimagedetector.com
+- https://www.aiornot.com
+- https://trial.nuanced.dev
+- https://app.illuminarty.ai/ 
+- https://contentatscale.ai/ai-image-detector
+- https://app.illuminarty.ai/
+- https://hivemoderation.com/ai-generated-content-detection
+
 ### Определение кем создано изображение
 
 - aiornot.com — онлайн-сервис детектирования ИИ-картинок. Отлично распознаёт изображения, созданные генеративными моделями (включая MidJourney). https://aiornot.com
