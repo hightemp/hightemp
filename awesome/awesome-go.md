@@ -151,6 +151,8 @@
       - Programmatically Analyze Packet Captures with GoPacket https://www.akitasoftware.com/blog-posts/programmatically-analyze-packet-captures-with-gopacket
 - Лучшие практики
   - Go best practices, six years in https://peter.bourgon.org/go-best-practices-2016/?ref=refind
+- Описание языка
+  - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
 - Архитектура
   - DDD
     - Introduction to DDD Lite: When microservices in Go are not enough https://threedots.tech/post/ddd-lite-in-go-introduction/
