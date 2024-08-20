@@ -1,3 +1,5 @@
+- GEOMYS, A BLUEPRINT FOR A SUSTAINABLE OPEN SOURCE MAINTENANCE FIRM
+  - https://words.filippo.io/dispatches/geomys/
 - Building and scaling Notion’s data lake
   - https://www.notion.so/blog/building-and-scaling-notions-data-lake
 - Write your Own Virtual Machine
