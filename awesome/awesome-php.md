@@ -76,6 +76,7 @@
 - Многопоточность
   - pthreads
     - How to use Multithreading in php https://medium.com/@codingpanel/how-to-use-multithreading-in-php-55b4e3ad69ee
+    - PHP and Threads: Multithreading and Parallel Execution in PHP https://reintech.io/blog/php-and-threads-multithreading-and-parallel-execution
 - Лучшие практики
   - Best practices for building a production-ready Dockerfile for PHP applications https://snyk.io/blog/building-production-ready-dockerfile-php/
 - Тестирование
