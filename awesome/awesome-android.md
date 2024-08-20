@@ -7,6 +7,7 @@
 
 - Сеть
     - SSH
+        - Tutorial: SSH-Tunneled VPN on Stock Android https://airvpn.org/forums/topic/13486-ssh-tunneled-vpn-on-stock-android/
         - How to connect with SSH tunnel on Android using SagerNet https://torguard.net/indexori.php?rp=/knowledgebase/313/How-to-connect-with-SSH-tunnel-on-Android-using-SagerNet.html
     - VPN    
         - Develop a VPN App in Java using Android Studio https://gayanvoice.medium.com/develop-a-vpn-app-in-java-using-android-studio-6f1f2d66031e
