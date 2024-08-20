@@ -174,6 +174,7 @@
   - Выжимаем из Go максимум производительности https://habr.com/ru/companies/vk/articles/824484/
   - How to optimize garbage collection in Go https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/
   - GopherCon 2019 - Optimizing Go Code without a blindfold https://sourcegraph.com/blog/go/gophercon-2019-optimizing-go-code-without-a-blindfold
+  - Оптимизация Go: как повысить скорость и эффективность кода https://habr.com/ru/companies/simbirsoft/articles/819015/
 - Конкурентное программирование
   - Concurrency, Параллелизм
     - Understanding Concurrency Patterns in Go https://hackernoon.com/understanding-concurrency-patterns-in-go
@@ -222,7 +223,6 @@
   - https://web.archive.org/web/20240501135306/https://habr.com/ru/articles/811587/
 - Structured concurrency в языке Go https://habr.com/ru/companies/karuna/articles/816677/
 - Go 1.22: Интерактивные заметки к релизу https://habr.com/ru/articles/792242/
-- Оптимизация Go: как повысить скорость и эффективность кода https://habr.com/ru/companies/simbirsoft/articles/819015/
 - Tracking io.Copy Progress in Go https://hjr265.me/blog/tracking-io-copy-progress-in-go/
 - How to connect to SFTP in Go https://sftptogo.com/blog/go-sftp/
 - Golang Thread Pool And Scheduler https://medium.com/@ahmet9417/golang-thread-pool-and-scheduler-434dd094715a
