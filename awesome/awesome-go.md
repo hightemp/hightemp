@@ -14,6 +14,10 @@
 - https://github.com/dariubs/GoBooks
 - https://bitfieldconsulting.com/posts/best-go-books
 
+### Песочницы
+
+- https://goplay.space/
+
 ### Roadmaps
 
 - https://roadmap.sh/golang
