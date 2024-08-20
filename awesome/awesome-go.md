@@ -145,6 +145,8 @@
   - Разработка веб-серверов на Go https://tproger.ru/translations/go-web-server
   - Создание веб-приложения с помощью Go и React https://bestcode.su/frontend/sozdanie-veb-prilozheniya-s-pomoschyu-go-i-react/
 - Сеть
+  - HTTP/3
+    - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
   - DNS
     - Building a DNS Resolver in Golang: A Step-by-Step Guide https://harshagarwal29.hashnode.dev/building-a-dns-resolver-in-golang-a-step-by-step-guide
   - Proxy, Прокси
