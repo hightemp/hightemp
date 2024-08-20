@@ -18,3 +18,4 @@
 ### Приложения
 
 - ProxyAuth for Android https://play.google.com/store/apps/details?id=in.silverstonelabs.proxyauth&hl=en_US
+- SocksHttp. SocksHttp можно использовать для обхода локальных ограничений и сетевой цензуры через SSH-туннель. На данный момент поддерживаются следующие методы подключения: SSH DIRECT, SSH + PROXY и SSH + SSL. https://play.google.com/store/apps/details?id=com.slipkprojects.sockshttp
