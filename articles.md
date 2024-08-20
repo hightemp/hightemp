@@ -1,3 +1,5 @@
+- Building and scaling Notion’s data lake
+  - https://www.notion.so/blog/building-and-scaling-notions-data-lake
 - Write your Own Virtual Machine
   - https://www.jmeiners.com/lc3-vm/
 - How to Control Concurrency in Distributed Systems with Distributed Lock Manager
