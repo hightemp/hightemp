@@ -147,6 +147,7 @@
   - Разработка веб-серверов на Go https://tproger.ru/translations/go-web-server
   - Создание веб-приложения с помощью Go и React https://bestcode.su/frontend/sozdanie-veb-prilozheniya-s-pomoschyu-go-i-react/
   - Creating a Simple Web Application with HTML Templates(Part-15) https://medium.com/@kamruljpi/creating-a-simple-web-application-with-html-templates-part-15-d47490bcdbed
+  - Writing Web Applications https://go.dev/doc/articles/wiki/
 - Сеть
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
