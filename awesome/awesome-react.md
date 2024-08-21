@@ -88,6 +88,7 @@
 
 - Примеры приложений
     - Building a Progressive Web App (PWA) with React: A Comprehensive Guide https://dev.to/raajaryan/building-a-progressive-web-app-pwa-with-react-a-comprehensive-guide-3kcb
+    - How to create a Weather App in Reason and React https://dev.to/kelvinmai/how-to-create-a-weather-app-in-reason-and-react-406a
 - Формы
     - How to Build Forms in React https://www.freecodecamp.org/news/how-to-build-forms-in-react/
 - Коллекции
