@@ -92,6 +92,8 @@
     - Submit Form Data To REST API In A React App https://codeariv.com/submit-a-form-data-to-rest-api-in-a-react-app/
     - Building a Progressive Web App (PWA) with React: A Comprehensive Guide https://dev.to/raajaryan/building-a-progressive-web-app-pwa-with-react-a-comprehensive-guide-3kcb
     - How to create a Weather App in Reason and React https://dev.to/kelvinmai/how-to-create-a-weather-app-in-reason-and-react-406a
+- Таблицы
+    - How to Create Tables Using the React-Data-Table-Component Library in React & TypeScript https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/
 - Формы
     - How to Build Forms in React https://www.freecodecamp.org/news/how-to-build-forms-in-react/
 - Коллекции
