@@ -1,6 +1,7 @@
 
 ### Коллекции
 
+- https://dev.to/t/rust
 - https://medium.com/tag/rust/archive
 - https://github.com/mre/idiomatic-rust
 - https://rust-unofficial.github.io/patterns/
