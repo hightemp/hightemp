@@ -901,6 +901,10 @@
 
 - CodeChecker - инфраструктура статического анализа на основе инструментов LLVM/Clang Static Analyzer, заменяющая scan-build в Linux или macOS и предоставляющая веб-интерфейс для хранения и визуализации отчетов анализа тысяч проектов на разных языках программирования. https://github.com/Ericsson/codechecker
 
+## python/fastapi/vue
+
+- Mealie - это самостоятельно размещаемый менеджер рецептов с открытым исходным кодом, который предлагает функции планирования питания, составления списков покупок и автоматического импорта рецептов, а также API для интеграции с другими приложениями. https://github.com/mealie-recipes/mealie
+
 ## python/vue
 
 - NearBeach is an open sourced project management tool, helping you keep track of your project. You can track requirements, projects and tasks https://github.com/robotichead/NearBeach
