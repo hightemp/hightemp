@@ -19,6 +19,7 @@
 ### Песочницы
 
 - https://goplay.space/
+- https://go.dev/play/
 
 ### Roadmaps
 
