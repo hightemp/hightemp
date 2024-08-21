@@ -1,6 +1,8 @@
 
 ### Коллекции
 
+- https://dev.to/t/go
+- https://medium.com/tag/golang/archive
 - https://go.libhunt.com/
 - https://github.com/avelino/awesome-go
 - https://awesome-go.com/
