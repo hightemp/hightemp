@@ -193,6 +193,8 @@
   - Concurrency, Параллелизм
     - Understanding Concurrency Patterns in Go https://hackernoon.com/understanding-concurrency-patterns-in-go
   - Синхронизация
+    - Атомарные операции
+      - Go: жарим общие данные. Атомно, быстро и без мьютексов https://habr.com/ru/companies/ruvds/articles/833264/
     - Примитивы синхронизации
       - Mutex
         - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
