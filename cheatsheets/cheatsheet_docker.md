@@ -48,7 +48,7 @@ services:
       - './docker/db/sql:/docker-entrypoint-initdb.d'
 ```
 
-### Приведи пример docker-compose файла для PHP
+### Приведи пример docker-compose файла для PHP с nginx, mysql
 
 ```yaml
 version: '3'
