@@ -142,6 +142,7 @@
 - Сигналы SIG**
   - go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
 - Пример создания приложения
+  - Learn the Basics of Go by Building a Full Stack Web App with React and Go https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/
   - How I write HTTP services in Go after 13 years https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/
   - Deploying a Golang RESTful API with Gin, SQLC and PostgreSQL https://dev.to/geoff89/deploying-a-golang-restful-api-with-gin-sqlc-and-postgresql-1lbl
   - Разработка веб-серверов на Go https://tproger.ru/translations/go-web-server
