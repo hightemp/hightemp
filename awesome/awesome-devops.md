@@ -81,6 +81,8 @@
 
 ### Статьи
 
+- VPN
+    - Building Your Own VPN for Free https://dev.to/baptistsec/building-your-own-vpn-for-free-3o9h
 - SSH
     - SSH: Best practices https://blog.0xbadc0de.be/archives/300
     - Secure Secure Shell https://blog.stribik.technology/2015/01/04/secure-secure-shell.html
