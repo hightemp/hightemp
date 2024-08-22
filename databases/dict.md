@@ -3,3 +3,4 @@
 - mux - мултиплексор, https://en.wikipedia.org/wiki/Multiplexer
 - invoice - счет
 - Hijacker - угонщик, захватчик
+- MTU - Maximum Transmission Unit, это максимальный размер пакета данных, который может быть передан по сети в одном фрейме. 
