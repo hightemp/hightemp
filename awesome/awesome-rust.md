@@ -119,6 +119,8 @@
 
 - Сеть
   - VPN
+    - A SIMPLE VPN PROTOTYPE IN RUST https://ragoragino.dev/blog/softwareengineering/2022-03-27-rust-vpn/index.html
+    - Write a Toy VPN in Rust https://write.yiransheng.com/vpn
     - Implementing a VPN Server in Rust 
       - https://www.linkedin.com/pulse/implementing-vpn-server-inrust-luis-soares-m-sc--sqvkf
       - https://web.archive.org/web/20240822082513/https://www.linkedin.com/pulse/implementing-vpn-server-inrust-luis-soares-m-sc--sqvkf
