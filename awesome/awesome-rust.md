@@ -115,7 +115,9 @@
 
 - Сеть
   - VPN
-    - Implementing a VPN Server in Rust https://www.linkedin.com/pulse/implementing-vpn-server-inrust-luis-soares-m-sc--sqvkf
+    - Implementing a VPN Server in Rust 
+      - https://www.linkedin.com/pulse/implementing-vpn-server-inrust-luis-soares-m-sc--sqvkf
+      - https://web.archive.org/web/20240822082513/https://www.linkedin.com/pulse/implementing-vpn-server-inrust-luis-soares-m-sc--sqvkf
 - Основы языка
   - Практическое руководство по Rust. 1/4 https://habr.com/ru/companies/timeweb/articles/790556/
   - Практическое руководство по Rust. 2/4 https://habr.com/ru/companies/timeweb/articles/794941/
