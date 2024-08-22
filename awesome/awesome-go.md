@@ -159,6 +159,9 @@
     - Building a DNS Resolver in Golang: A Step-by-Step Guide https://harshagarwal29.hashnode.dev/building-a-dns-resolver-in-golang-a-step-by-step-guide
   - Proxy, Прокси
     - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
+  - VPN
+    - Writing VPN with Go — 1. Server https://bdemirpolat.medium.com/go-ile-vpn-1-server-323bbda85b8b
+    - Writing VPN with Go — 2. Client https://bdemirpolat.medium.com/go-ile-vpn-2-client-b6bc5848db29
   - Работа с траффиком
     - pcap
       - How to Read and Extract Information from a PCAP File in Go https://byteshiva.medium.com/how-to-read-and-extract-information-from-a-pcap-file-in-go-287c0bd66561
