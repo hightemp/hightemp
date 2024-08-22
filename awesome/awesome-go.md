@@ -161,6 +161,7 @@
   - Proxy, Прокси
     - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
   - VPN
+    - Simple VPN in Golang https://taoshu.in/go/simple-vpn.html
     - Writing VPN with Go — 1. Server https://bdemirpolat.medium.com/go-ile-vpn-1-server-323bbda85b8b
     - Writing VPN with Go — 2. Client https://bdemirpolat.medium.com/go-ile-vpn-2-client-b6bc5848db29
   - Работа с траффиком
