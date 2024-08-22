@@ -58,6 +58,10 @@
     - аналогично jquery, css selectors
       - https://github.com/fefit/visdom
 
+### Репозитории
+
+- Rust-vpn - это простой проект на языке Rust, реализующий базовый VPN-туннель с функциями сервера и клиента, шифрованием AES-256-GCM, настройкой TUN-интерфейса и удобным интерфейсом командной строки. https://github.com/luishsr/rust-vpn
+
 ### Полезные ссылки
 
 - 100 Exercises To Learn Rust https://rust-exercises.com/
