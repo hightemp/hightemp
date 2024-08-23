@@ -175,6 +175,9 @@
 - Авторизация
   - JWT
     - API Login using echo framework Golang, Postgres and JWT https://martinyonathann.medium.com/api-login-with-echo-framework-golang-postgres-and-jwt-dca330357020
+- net/http
+  - Примеры
+    - How to Parse a JSON Request Body in Go https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
 - Фреймворки
   - Echo
     - REST API
