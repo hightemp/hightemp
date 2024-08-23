@@ -98,6 +98,11 @@
 - https://fakeapi.platzi.com/
 - https://fakestoreapi.in/
 
+## Шлюзы для СМС
+
+- https://rocketsms.by/
+- https://smsc.ru/
+
 ## Вопросы (интервью)
 
 - https://github.com/DopplerHQ/awesome-interview-questions
