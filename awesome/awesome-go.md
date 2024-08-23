@@ -381,7 +381,7 @@
 - https://www.atharvapandey.com/tags/golang
 - https://www.sohamkamani.com/golang/
 - https://alextonkonogov.ru/?cat=2
-- https://kovardin.ru/tags/golang/
+- Artem Kovardin https://kovardin.ru/tags/golang/
 
 ### Видео
 
