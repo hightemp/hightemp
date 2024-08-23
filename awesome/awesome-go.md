@@ -354,6 +354,7 @@
 - https://www.codingexplorations.com/blog/category/golang
 - https://nakabonne.dev/
 - https://blog.gkomninos.com/series/webapp-using-golang
+- https://webdevstation.com/
 
 ### Видео
 
