@@ -201,6 +201,7 @@
 - Конкурентное программирование
   - Concurrency, Параллелизм
     - Understanding Concurrency Patterns in Go https://hackernoon.com/understanding-concurrency-patterns-in-go
+    - Mastering Concurrent Processing: A Step-by-Step Guide to Building a Scalable Worker Pool in Go https://medium.com/@souravchoudhary0306/mastering-concurrent-processing-a-step-by-step-guide-to-building-a-scalable-worker-pool-in-go-54093074c612
   - Синхронизация
     - Атомарные операции
       - Go: жарим общие данные. Атомно, быстро и без мьютексов https://habr.com/ru/companies/ruvds/articles/833264/
