@@ -178,6 +178,8 @@
 - net/http
   - Примеры
     - How to Parse a JSON Request Body in Go https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
+- API
+  - Откажитесь уже наконец от gin, echo и <иной ваш фреймворк> https://habr.com/ru/companies/ozonbank/articles/817381/
 - Фреймворки
   - Echo
     - REST API
