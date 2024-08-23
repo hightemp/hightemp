@@ -176,6 +176,8 @@
   - JWT
     - API Login using echo framework Golang, Postgres and JWT https://martinyonathann.medium.com/api-login-with-echo-framework-golang-postgres-and-jwt-dca330357020
 - net/http
+  - client
+    - Making REST API Requests in Golang using the HTTP Client https://www.sohamkamani.com/golang/http-client/
   - Примеры
     - How to Parse a JSON Request Body in Go https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
 - API
