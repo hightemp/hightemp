@@ -375,6 +375,7 @@
 - https://webdevstation.com/
 - https://www.atharvapandey.com/tags/golang
 - https://www.sohamkamani.com/golang/
+- https://alextonkonogov.ru/?cat=2
 
 ### Видео
 
