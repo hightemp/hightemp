@@ -171,8 +171,12 @@
     - pcap
       - How to Read and Extract Information from a PCAP File in Go https://byteshiva.medium.com/how-to-read-and-extract-information-from-a-pcap-file-in-go-287c0bd66561
       - Programmatically Analyze Packet Captures with GoPacket https://www.akitasoftware.com/blog-posts/programmatically-analyze-packet-captures-with-gopacket
+- Фреймворки
+  - Echo
+    - Шаблоны
+      - How To Set Up Nested HTML Templates In The Go Echo Web Framework https://www.bomberbot.com/web-development/how-to-set-up-nested-html-templates-in-the-go-echo-web-framework/
 - API
-  - echo
+  - Echo
     - Go Echo API Server Development https://dev.to/nrikiji/go-echo-api-server-development-4008
     - Golang Echo Tutorial: REST API with PostgreSQL https://www.kelche.co/blog/go/golang-echo-tutorial/
 - Лучшие практики
