@@ -181,6 +181,7 @@
     - Сайт на Golang. Авторизация. Часть 1 https://alextonkonogov.ru/?p=572
     - Сайт на Golang. Авторизация. Часть 2 https://alextonkonogov.ru/?p=601 
   - JWT
+    - Авторизация в Go с использованием JWT https://kovardin.ru/articles/go/avtorizaciya-v-go-s-ispolzovaniem-jwt/?ysclid=m06qqbjia1238948380
     - API Login using echo framework Golang, Postgres and JWT https://martinyonathann.medium.com/api-login-with-echo-framework-golang-postgres-and-jwt-dca330357020
 - net/http
   - client
