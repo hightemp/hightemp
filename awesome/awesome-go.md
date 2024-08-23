@@ -363,6 +363,7 @@
 - https://nakabonne.dev/
 - https://blog.gkomninos.com/series/webapp-using-golang
 - https://webdevstation.com/
+- https://www.atharvapandey.com/tags/golang
 
 ### Видео
 
