@@ -172,7 +172,8 @@
       - How to Read and Extract Information from a PCAP File in Go https://byteshiva.medium.com/how-to-read-and-extract-information-from-a-pcap-file-in-go-287c0bd66561
       - Programmatically Analyze Packet Captures with GoPacket https://www.akitasoftware.com/blog-posts/programmatically-analyze-packet-captures-with-gopacket
 - API
-  - REST
+  - echo
+    - Go Echo API Server Development https://dev.to/nrikiji/go-echo-api-server-development-4008
     - Golang Echo Tutorial: REST API with PostgreSQL https://www.kelche.co/blog/go/golang-echo-tutorial/
 - Лучшие практики
   - Go best practices, six years in https://peter.bourgon.org/go-best-practices-2016/?ref=refind
