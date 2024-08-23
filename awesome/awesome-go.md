@@ -178,6 +178,7 @@
       - Programmatically Analyze Packet Captures with GoPacket https://www.akitasoftware.com/blog-posts/programmatically-analyze-packet-captures-with-gopacket
 - Авторизация
   - Обычная
+    - Сайт на Golang. Авторизация. Часть 1 https://alextonkonogov.ru/?p=572
     - Сайт на Golang. Авторизация. Часть 2 https://alextonkonogov.ru/?p=601 
   - JWT
     - API Login using echo framework Golang, Postgres and JWT https://martinyonathann.medium.com/api-login-with-echo-framework-golang-postgres-and-jwt-dca330357020
