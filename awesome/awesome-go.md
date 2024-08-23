@@ -184,7 +184,6 @@
     - Сайт на Golang. Авторизация. Часть 1 https://alextonkonogov.ru/?p=572
     - Сайт на Golang. Авторизация. Часть 2 https://alextonkonogov.ru/?p=601 
   - JWT
-    - Authentication in Golang with JWTs. Practice Go and React by building and authenticating a RESTful API with JSON Web Tokens (JWTs). https://auth0.com/blog/authentication-in-golang/
     - Авторизация в Go с использованием JWT https://kovardin.ru/articles/go/avtorizaciya-v-go-s-ispolzovaniem-jwt/?ysclid=m06qqbjia1238948380
     - API Login using echo framework Golang, Postgres and JWT https://martinyonathann.medium.com/api-login-with-echo-framework-golang-postgres-and-jwt-dca330357020
 - net/http
