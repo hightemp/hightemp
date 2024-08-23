@@ -186,6 +186,7 @@
   - JWT
     - Авторизация в Go с использованием JWT https://kovardin.ru/articles/go/avtorizaciya-v-go-s-ispolzovaniem-jwt/?ysclid=m06qqbjia1238948380
     - API Login using echo framework Golang, Postgres and JWT https://martinyonathann.medium.com/api-login-with-echo-framework-golang-postgres-and-jwt-dca330357020
+    - A guide to JWT authentication in Go https://blog.logrocket.com/jwt-authentication-go/
 - net/http
   - client
     - Making REST API Requests in Golang using the HTTP Client https://www.sohamkamani.com/golang/http-client/
@@ -382,6 +383,7 @@
 - https://www.sohamkamani.com/golang/
 - https://alextonkonogov.ru/?cat=2
 - Artem Kovardin https://kovardin.ru/tags/golang/
+- https://blog.logrocket.com/tag/go/
 
 ### Видео
 
