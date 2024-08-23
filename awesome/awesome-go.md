@@ -179,6 +179,8 @@
     - pcap
       - How to Read and Extract Information from a PCAP File in Go https://byteshiva.medium.com/how-to-read-and-extract-information-from-a-pcap-file-in-go-287c0bd66561
       - Programmatically Analyze Packet Captures with GoPacket https://www.akitasoftware.com/blog-posts/programmatically-analyze-packet-captures-with-gopacket
+- Аунтификация
+  - Authentication for Go Applications: The Secure Way https://www.jetbrains.com/guide/go/tutorials/authentication-for-go-apps/auth/?ysclid=m06r9cxvkn600024780
 - Авторизация
   - Обычная
     - Сайт на Golang. Авторизация. Часть 1 https://alextonkonogov.ru/?p=572
