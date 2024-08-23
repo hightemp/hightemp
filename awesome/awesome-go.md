@@ -368,6 +368,7 @@
 - https://blog.gkomninos.com/series/webapp-using-golang
 - https://webdevstation.com/
 - https://www.atharvapandey.com/tags/golang
+- https://www.sohamkamani.com/golang/
 
 ### Видео
 
