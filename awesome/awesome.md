@@ -92,6 +92,10 @@
 
 - https://edu.anarcho-copy.org/
 
+## Демо данные
+
+- FakeStoreAPI - это бесплатный онлайн REST API, предоставляющий псевдо-реальные данные для прототипов e-commerce сайтов, включая информацию о товарах, корзинах, пользователях и авторизации, что делает его полезным инструментом для обучения, тестирования и разработки. https://fakestoreapi.com/ https://github.com/keikaavousi/fake-store-api
+
 ## Вопросы (интервью)
 
 - https://github.com/DopplerHQ/awesome-interview-questions
