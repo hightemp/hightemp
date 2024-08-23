@@ -363,6 +363,7 @@
 - Golang 100 вопросов с собеседований. Подготовка Go разработчика Часть 1 https://www.youtube.com/watch?v=ZvaD-G5_3vQ
 - Golang Tutorial for Beginners | Full Go Course https://www.youtube.com/watch?v=yyUHQIec83I
 - Synchronization in Golang - Complete Guide https://www.youtube.com/watch?v=Xf1j0FGAYUY
+- Creating Golang WebServer With Echo https://www.youtube.com/watch?v=_pww3NJuWnk&list=PLFmONUGpIk0YwlJMZOo21a9Q1juVrk4YY
 
 ### Сайты со статьями
 
