@@ -386,6 +386,7 @@
 - https://alextonkonogov.ru/?cat=2
 - Artem Kovardin https://kovardin.ru/tags/golang/
 - https://blog.logrocket.com/tag/go/
+- https://www.jetbrains.com/guide/tags/go/
 
 ### Видео
 
