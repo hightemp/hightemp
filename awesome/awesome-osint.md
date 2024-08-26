@@ -27,6 +27,25 @@
 - https://github.com/chm0dx/creepyCrawler - кроулер для  разведки (href, robots.txt, sitemap).
 - https://github.com/Moham3dRiahi/Th3inspector -   универсальный фреймворк для сбора информации.
 
+### Мониторинг киберугроз
+
+- [https://cybermap.kaspersky.com](https://cybermap.kaspersky.com) - интерактивная карта киберугроз от Kaspersky Lab.
+- [https://malwarehunters.org](https://malwarehunters.org) - веб-ресурс для обнаружения и исследования вредоносных програм c дашбордом.
+- [https://www.fireeye.com/cyber-map/threat-map.html](https://www.fireeye.com/cyber-map/threat-map.html) - интерактивная карта мировых киберугроз от FireEye.
+- [https://www.netscout.com/ddos-attack-map](https://www.netscout.com/ddos-attack-map) - интерактивная карта, отображающая DDoS-атаки в режиме реального времени.
+- [https://threatmap.checkpoint.com](https://threatmap.checkpoint.com) - интерактивная глобальная карта кибератак от Check Point Software.
+- [https://threatmap.bitdefender.com](https://threatmap.bitdefender.com) - карта киберугроз в реальном времени от Bitdefender.
+- [https://livethreatmap.radware.com](https://livethreatmap.radware.com) - карта актуальных угроз в сети от Radware.
+- [https://securitycenter.sonicwall.com/m/page/worldwide-attacks](https://securitycenter.sonicwall.com/m/page/worldwide-attacks) - карта актуальных угроз от SonicWall.
+- [https://threatmap.checkpoint.com/](https://threatmap.checkpoint.com/) - карта актуальных угроз от Checkpoint.
+- [https://threatmap.fortiguard.com/](https://threatmap.fortiguard.com/) - карта актуальных угроз от Fortiguard.
+- [https://www.sicherheitstacho.eu/#/en/tacho](https://www.sicherheitstacho.eu/#/en/tacho) - дашборд кибератак от Deutsche Telekom.
+- [https://www.talosintelligence.com/reputation_center](https://www.talosintelligence.com/reputation_center) - дашборд от CISCO Talos с общей информацией о киберугрозах.
+- [https://www.spamhaus.com/threat-map](https://www.spamhaus.com/threat-map) - информация по ботнетам от Spamhaus.
+- [https://threats.a10networks.com/](https://threats.a10networks.com/) - DDoS attack map от A10.
+- [https://threatbutt.com/map/](https://threatbutt.com/map/) - карта атрибуции хакерских атак в Интернете от Threatbutt.
+- [https://www.comparitech.com/blog/information-security/global-ransomware-attacks/](https://www.comparitech.com/blog/information-security/global-ransomware-attacks/) - интерактивная карта ransomware-атак от comparitech.
+
 ### Проверка браузера | IP, DNS, fingerprints | Конфиденциальность | Цифровые отпечатки
 
 - [browserleaks.com](https://browserleaks.com) - отличный сайт для проверки отпечатков браузера.
