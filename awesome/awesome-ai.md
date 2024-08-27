@@ -16,6 +16,7 @@
 - https://domore.ai
 - https://news.bensbites.co/trending
 - https://www.gptshunter.com
+- https://github.com/alternbits/awesome-ai-newsletters
 
 ### Остальное
 
