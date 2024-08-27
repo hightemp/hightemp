@@ -398,6 +398,10 @@
 - https://www.jetbrains.com/guide/tags/go/
 - https://hashnode.com/n/go
 - https://antonz.org/
+- https://www.willem.dev
+- https://boldlygo.tech
+- https://bitfieldconsulting.com/posts
+- https://threedots.tech/post/
 
 ### Подкасты
 
