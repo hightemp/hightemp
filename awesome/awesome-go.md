@@ -402,6 +402,7 @@
 ### Подкасты
 
 - https://cupogo.dev/
+- https://changelog.com/gotime
 
 ### Видео
 
