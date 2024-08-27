@@ -17,6 +17,7 @@
 - https://news.bensbites.co/trending
 - https://www.gptshunter.com
 - https://github.com/alternbits/awesome-ai-newsletters
+- https://github.com/ai-update/ai-news
 
 ### Трекеры новостей
 
