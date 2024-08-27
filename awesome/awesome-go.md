@@ -158,7 +158,7 @@
   - Using Go Validator for Efficient Data Validation in Go Applications https://www.codingexplorations.com/blog/using-go-validator-for-efficient-data-validation-in-go-applications
 - Сигналы SIG**
   - go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
-- Пример создания приложения
+- Пример создания приложения или сервиса
   - Learn the Basics of Go by Building a Full Stack Web App with React and Go https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/
   - How I write HTTP services in Go after 13 years https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/
   - Deploying a Golang RESTful API with Gin, SQLC and PostgreSQL https://dev.to/geoff89/deploying-a-golang-restful-api-with-gin-sqlc-and-postgresql-1lbl
@@ -167,6 +167,7 @@
   - Creating a Simple Web Application with HTML Templates(Part-15) https://medium.com/@kamruljpi/creating-a-simple-web-application-with-html-templates-part-15-d47490bcdbed
   - Writing Web Applications https://go.dev/doc/articles/wiki/
   - How to build a fullstack application with Go, Templ, and HTMX https://dev.to/hackmamba/how-to-build-a-fullstack-application-with-go-templ-and-htmx-4444
+  - Шаблон Go-микросервиса для начинающих от .NET разработчика. Часть 2 https://habr.com/ru/articles/820385/
 - Сеть
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
