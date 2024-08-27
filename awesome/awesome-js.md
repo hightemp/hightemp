@@ -32,6 +32,7 @@
 - Tutorial: Create multi-container apps with MySQL and Docker Compose https://learn.microsoft.com/en-us/visualstudio/docker/tutorials/tutorial-multi-container-app-mysql
 - Distributed Locks in Node.js https://bpaulino.com/entries/distributed-lock-in-node-js
 - Mastering Microservices: A Hands-On Tutorial with Node.js, RabbitMQ, Nginx, and Docker https://dev.to/davydocsurg/mastering-microservices-a-hands-on-tutorial-with-nodejs-rabbitmq-nginx-and-docker-m4f
+- Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
 
 ### Полезные ссылки
 
