@@ -168,6 +168,7 @@
   - How to build a fullstack application with Go, Templ, and HTMX https://dev.to/hackmamba/how-to-build-a-fullstack-application-with-go-templ-and-htmx-4444
   - Шаблон Go-микросервиса для начинающих от .NET разработчика. Часть 2 https://habr.com/ru/articles/820385/
   - Consuming A RESTful API With Go https://tutorialedge.net/golang/consuming-restful-api-with-go/
+  - Go and MongoDB: Building a CRUD API from Scratch https://dev.to/aquibpy/go-and-mongodb-building-a-crud-api-from-scratch-10p6
 - Сеть
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
