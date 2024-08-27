@@ -167,6 +167,7 @@
   - Writing Web Applications https://go.dev/doc/articles/wiki/
   - How to build a fullstack application with Go, Templ, and HTMX https://dev.to/hackmamba/how-to-build-a-fullstack-application-with-go-templ-and-htmx-4444
   - Шаблон Go-микросервиса для начинающих от .NET разработчика. Часть 2 https://habr.com/ru/articles/820385/
+  - Consuming A RESTful API With Go https://tutorialedge.net/golang/consuming-restful-api-with-go/
 - Сеть
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
