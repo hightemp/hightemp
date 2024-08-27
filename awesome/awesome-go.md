@@ -397,6 +397,7 @@
 - https://blog.logrocket.com/tag/go/
 - https://www.jetbrains.com/guide/tags/go/
 - https://hashnode.com/n/go
+- https://antonz.org/
 
 ### Видео
 
