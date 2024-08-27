@@ -18,6 +18,10 @@
 - https://www.gptshunter.com
 - https://github.com/alternbits/awesome-ai-newsletters
 
+### Трекеры новостей
+
+- https://github.com/fabiochiusano/ai-news-tracker
+
 ### Остальное
 
 - https://github.com/xenova/transformers.js
