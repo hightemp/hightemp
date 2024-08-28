@@ -5,6 +5,7 @@
 - https://js.libhunt.com/
 - https://vk.com/love_frontend
 - https://habr.com/ru/articles/799099/
+- 10 Best Javascript Newsletters in 2024 https://medium.com/@bigtechdigest/10-best-javascript-newsletters-in-2024-59a2fcf253e9
 
 ### Библиотеки
 
