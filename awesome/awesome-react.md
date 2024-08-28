@@ -94,6 +94,8 @@
     - Building a Progressive Web App (PWA) with React: A Comprehensive Guide https://dev.to/raajaryan/building-a-progressive-web-app-pwa-with-react-a-comprehensive-guide-3kcb
     - How to create a Weather App in Reason and React https://dev.to/kelvinmai/how-to-create-a-weather-app-in-reason-and-react-406a
     - How to Create a Figma / Miro Style Canvas with React and TypeScript https://www.freecodecamp.org/news/how-to-create-a-figma-miro-style-canvas-with-react-and-typescript/
+- Лучшие практики
+    - React Architecture Pattern and Best Practices in 2024 https://www.geeksforgeeks.org/react-architecture-pattern-and-best-practices/
 - Таблицы
     - How to Create Tables Using the React-Data-Table-Component Library in React & TypeScript https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/
 - Формы
