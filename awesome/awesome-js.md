@@ -28,11 +28,14 @@
 ### Статьи
 
 - Как работает компьютер - глубокое погружение (на примере Linux) https://my-js.org/blog/how-computer-work/#1-основы
-- Убийцы оптимизации https://frontender.info/optimization-killers/
-- Tutorial: Create multi-container apps with MySQL and Docker Compose https://learn.microsoft.com/en-us/visualstudio/docker/tutorials/tutorial-multi-container-app-mysql
 - Distributed Locks in Node.js https://bpaulino.com/entries/distributed-lock-in-node-js
-- Mastering Microservices: A Hands-On Tutorial with Node.js, RabbitMQ, Nginx, and Docker https://dev.to/davydocsurg/mastering-microservices-a-hands-on-tutorial-with-nodejs-rabbitmq-nginx-and-docker-m4f
-- Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
+- Примеры приложений
+  - Tutorial: Create multi-container apps with MySQL and Docker Compose https://learn.microsoft.com/en-us/visualstudio/docker/tutorials/tutorial-multi-container-app-mysql
+  - Mastering Microservices: A Hands-On Tutorial with Node.js, RabbitMQ, Nginx, and Docker https://dev.to/davydocsurg/mastering-microservices-a-hands-on-tutorial-with-nodejs-rabbitmq-nginx-and-docker-m4f
+- Базы данных
+  - Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
+- Оптимизация
+  - Убийцы оптимизации https://frontender.info/optimization-killers/
 - Генераторы
   - JavaScript Generators Explained, But On A Senior-Level https://www.reactsquad.io/blog/understanding-generators-in-javascript
 
