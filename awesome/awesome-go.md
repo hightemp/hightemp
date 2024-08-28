@@ -214,6 +214,7 @@
       - How To Set Up Nested HTML Templates In The Go Echo Web Framework https://www.bomberbot.com/web-development/how-to-set-up-nested-html-templates-in-the-go-echo-web-framework/
 - Лучшие практики
   - Go best practices, six years in https://peter.bourgon.org/go-best-practices-2016/?ref=refind
+  - Применения Continuation-passing style в Go https://habr.com/ru/articles/836702/
 - Таймеры
   - Resetting timers in Go https://antonz.org/timer-reset/
 - Архитектура
