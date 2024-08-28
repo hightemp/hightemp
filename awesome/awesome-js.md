@@ -39,6 +39,8 @@
   - Убийцы оптимизации https://frontender.info/optimization-killers/
 - Генераторы
   - JavaScript Generators Explained, But On A Senior-Level https://www.reactsquad.io/blog/understanding-generators-in-javascript
+- Дата
+  - JS Dates Are About to Be Fixed https://docs.timetime.in/blog/js-dates-finally-fixed/
 
 ### Полезные ссылки
 
