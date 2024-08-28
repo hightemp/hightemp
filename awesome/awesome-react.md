@@ -98,6 +98,7 @@
     - React Architecture Pattern and Best Practices in 2024 https://www.geeksforgeeks.org/react-architecture-pattern-and-best-practices/
     - React Like a Pro: Mastering Best Practices in 2024 https://medium.com/@apicraft/react-like-a-pro-mastering-best-practices-in-2024-8f9eaad4fa25
     - React Best Practices to Improve Your Code https://medium.com/@onix_react/react-best-practices-to-improve-your-code-a4c68962d5dd
+    - React Best Practices Every Developer Have to Follow in 2024 https://technostacks.com/blog/react-best-practices/
 - Хуки
     - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
 - Таблицы
