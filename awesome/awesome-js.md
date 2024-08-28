@@ -48,6 +48,10 @@
 
 - Пример использования execCommand в WYSIWYG редакторе https://codepen.io/netsi1964/pen/QbLLGW
 
+### Блоги
+
+- https://www.reactsquad.io/blog
+
 ### Вопросы
 
 - 70 вопросов по JavaScript для подготовки к собеседованию
