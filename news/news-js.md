@@ -1,6 +1,7 @@
 
 ### Новшества в ECMAScript 2024
 
+- https://2ality.com/2024/06/ecmascript-2024.html
 - https://exploringjs.com/js/downloads/exploring-js-screen-preview.pdf
 
 - `Map.groupBy()` и `Object.groupBy()` группируют элементы итерируемого объекта по ключам, предоставляемым callback-функцией.
