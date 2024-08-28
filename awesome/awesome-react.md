@@ -42,6 +42,7 @@
     - https://github.com/adazzle/react-data-grid
     - https://github.com/AllenFang/react-bootstrap-table
     - https://github.com/silevis/reactgrid
+    - https://react-data-table-component.netlify.app/ https://github.com/jbetancur/react-data-table-component
 - Редакторы
     - Markdown
         - https://github.com/uiwjs/react-md-editor
