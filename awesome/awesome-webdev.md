@@ -9,6 +9,33 @@
 - https://snack.expo.dev/?
 - https://nextleap.app/online-compiler/reactjs-programming
 
+### Брокеры сообщений
+
+- **RabbitMQ**
+   - Сайт: https://www.rabbitmq.com/
+   - Описание: Один из самых популярных открытых брокеров сообщений, поддерживающий протокол AMQP.
+- **Apache Kafka**
+   - Сайт: https://kafka.apache.org/
+   - Описание: Распределенная потоковая платформа, разработанная Apache, для обработки потоков записей в реальном времени.
+- **Apache ActiveMQ**
+   - Сайт: https://activemq.apache.org/
+   - Описание: Мощный открытый брокер сообщений, поддерживающий различные протоколы, такие как AMQP, MQTT, OpenWire и др.
+- **Amazon SQS (Simple Queue Service)**
+   - Сайт: https://aws.amazon.com/sqs/
+   - Описание: Полностью управляемый сервис очередей сообщений от Amazon Web Services (AWS).
+- **Google Cloud Pub/Sub**
+   - Сайт: https://cloud.google.com/pubsub
+   - Описание: Полностью управляемый сервис для публикации и подписки на сообщения от Google Cloud Platform.
+- **Azure Service Bus**
+   - Сайт: https://azure.microsoft.com/en-us/services/service-bus/
+   - Описание: Уровень сообщений от Microsoft Azure, включающий в себя очереди, темы/подписки и передачу больших двоичных объектов.
+- **RabbitMQ**
+   - Сайт: https://www.rabbitmq.com/
+   - Описание: Один из самых популярных открытых брокеров сообщений, поддерживающий протокол AMQP.
+- **Redis**
+   - Сайт: https://redis.io/
+   - Описание: Открытая система кэширования данных и брокер сообщений, поддерживающий pub/sub-модель.
+
 ### Статьи
 
 - 6 Essential Website Performance Optimization Tips to Implement https://storychief.io/blog/website-performance-optimization-tips
