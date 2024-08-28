@@ -212,8 +212,6 @@
     - Шаблоны
       - How to Show Flash Messages in Go web applications (with Echo framework) https://webdevstation.com/posts/how-to-show-flash-messages-in-go-echo/
       - How To Set Up Nested HTML Templates In The Go Echo Web Framework https://www.bomberbot.com/web-development/how-to-set-up-nested-html-templates-in-the-go-echo-web-framework/
-- Каналы
-  - Анатомия каналов в Go https://habr.com/ru/articles/490336/
 - Лучшие практики
   - Go best practices, six years in https://peter.bourgon.org/go-best-practices-2016/?ref=refind
   - Применения Continuation-passing style в Go https://habr.com/ru/articles/836702/
@@ -238,6 +236,8 @@
     - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
   - Внутреннее устройство
     - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
+  - Каналы
+    - Анатомия каналов в Go https://habr.com/ru/articles/490336/
 - Оптимизация
   - How to Use Maps Safely in Go https://hackernoon.com/how-to-use-maps-safely-in-go
   - Выжимаем из Go максимум производительности https://habr.com/ru/companies/vk/articles/824484/
@@ -254,6 +254,8 @@
     - Примитивы синхронизации
       - Mutex
         - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
+  - Пулы
+    - Go sync.Pool and the Mechanics Behind It https://victoriametrics.com/blog/go-sync-pool/index.html
 - Кэширование
   - Go High-Performance Cache with TTL and Disk Persistence https://dev.to/leoantony72/go-high-performance-cache-with-ttl-and-disk-persistence-4a4m
 - Distributed Systems, Распределенные системы
