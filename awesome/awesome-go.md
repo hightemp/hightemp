@@ -411,6 +411,7 @@
 - https://boldlygo.tech
 - https://bitfieldconsulting.com/posts
 - https://threedots.tech/post/
+- https://matttproud.com/blog/tags/go.html
 
 ### Подкасты
 
