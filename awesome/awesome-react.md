@@ -96,6 +96,8 @@
     - How to Create a Figma / Miro Style Canvas with React and TypeScript https://www.freecodecamp.org/news/how-to-create-a-figma-miro-style-canvas-with-react-and-typescript/
 - Лучшие практики
     - React Architecture Pattern and Best Practices in 2024 https://www.geeksforgeeks.org/react-architecture-pattern-and-best-practices/
+    - React Like a Pro: Mastering Best Practices in 2024 https://medium.com/@apicraft/react-like-a-pro-mastering-best-practices-in-2024-8f9eaad4fa25
+    - React Best Practices to Improve Your Code https://medium.com/@onix_react/react-best-practices-to-improve-your-code-a4c68962d5dd
 - Хуки
     - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
 - Таблицы
