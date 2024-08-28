@@ -246,6 +246,7 @@
 - Списки для чтения
     - "Road to Sora" Paper Reading List https://ghost.oxen.ai/road-to-sora-reading-list/ 
     - Understanding Large Language Models -- A Transformative Reading List https://sebastianraschka.com/blog/2023/llm-reading-list.html
+    - Outline of Reading List https://www.advtopicsindeeplearning.com/reading-list.html
 
 ### Книги
 
