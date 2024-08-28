@@ -243,7 +243,9 @@
 - Как мы создали GPT Researcher https://docs.tavily.com/blog/building-gpt-researcher
 - Postgres is all you need, even for vectors https://anyblockers.com/posts/postgres-is-all-you-need-even-for-vectors
 - Эффективное моделирование длинных последовательностей с использованием структурированных моделей состояния (Аннотированный S4) https://srush.github.io/annotated-s4/
-- "Road to Sora" Paper Reading List https://ghost.oxen.ai/road-to-sora-reading-list/ 
+- Списки для чтения
+    - "Road to Sora" Paper Reading List https://ghost.oxen.ai/road-to-sora-reading-list/ 
+    - Understanding Large Language Models -- A Transformative Reading List https://sebastianraschka.com/blog/2023/llm-reading-list.html
 
 ### Книги
 
