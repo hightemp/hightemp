@@ -97,6 +97,18 @@
 - Feross' Blog [https://feross.org/]
 - Human Who Codes [https://humanwhocodes.com/]
 - Ben Nadel's Blog [https://www.bennadel.com/]
+- Reginald Braithwaite [http://raganwald.com/]
+- Michael Herman [http://mherman.org/]
+- Addy Osmani [https://medium.com/@addyosmani]
+- Ponyfoo [https://ponyfoo.com/]
+- Dave Ceddia [https://daveceddia.com/archives/]
+- Todd Motto [https://toddmotto.com/]
+- Tyler McGinnis [https://tylermcginnis.com/blog/]
+- John Papa [https://johnpapa.net/]
+- Valentino G. [https://www.valentinog.com/blog/]
+- Bram Van Damme [https://www.bram.us/]
+- Ivan Akulov [https://iamakulov.com/notes/]
+- Robin Wieruch [https://www.robinwieruch.de/]
 
 ### Вопросы
 
