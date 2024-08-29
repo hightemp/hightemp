@@ -66,6 +66,7 @@
 
 - 100 Exercises To Learn Rust https://rust-exercises.com/
 - Starship — это минималистичная, невероятно быстрая и бесконечно настраиваемая командная строка для любых оболочек и операционных систем, показывающая актуальную информацию одним взглядом и поддерживающая множество инструментов. https://starship.rs/ https://github.com/starship/starship
+- Let's Get Rusty Learning Guide https://learn.letsgetrusty.com/further-learning/systems-programming-in-rust.html
 
 ### Книги
 
@@ -77,6 +78,8 @@
 - The Rust Performance Book https://nnethercote.github.io/perf-book/general-tips.html
 - Practical System Programming for Rust Developers: Build fast and secure software for Linux/Unix systems with the help of practical examples https://www.packtpub.com/en-us/product/practical-system-programming-for-rust-developers-9781800560963
   - https://github.com/PacktPublishing/Practical-System-Programming-for-Rust-Developers?tab=readme-ov-file
+- Rust in action https://www.rustinaction.com/
+  - https://www.cb-india.com/index.php?dispatch=attachments.getfile&attachment_id=1575&__cf_chl_tk=XlB75x5iXEvL01vfWGp1YEXf0qY51ZZFQYIyB66wLfo-1724923057-0.0.1.1-4926
 
 ### Шпаргалки
 
