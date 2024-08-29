@@ -1,17 +1,28 @@
-## Коллекции
+### Коллекции
 
 - https://github.com/andreia/awesome-symfony
 - https://github.com/sitepoint-editors/awesome-symfony
 - https://github.com/rozehnal/awesome-symfony
 - https://github.com/pehapkari/awesome-symfony-education
 
-## Админки
+### Админки
 
 - EasyAdmin - это быстрый, красивый и современный генератор административного интерфейса для приложений Symfony, позволяющий легко создавать и настраивать административные панели для управления данными в приложении.
   - https://github.com/EasyCorp/EasyAdminBundle
 - SonataAdminBundle - это инструмент для генерации административного интерфейса в Symfony, который позволяет легко создавать и настраивать административные панели для управления данными в приложении.
   - https://github.com/sonata-project/SonataAdminBundle
 
-## Полезные ссылки
+### Полезные ссылки
 
 - Symfony Demo Application https://github.com/symfony/demo
+
+### Блоги
+
+- https://matthiasnoback.nl/archives/
+
+### Статьи
+
+- service container
+  - Diving into Symfony’s DependencyInjection — Part 1: First steps with the container https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first-steps-with-the-container-2fad0593c052
+  - Experiment: How I replaced Symfony DI with Laravel Container in ECS https://tomasvotruba.com/blog/experiment-how-i-replaced-symfony-di-with-laravel-container-in-ecs
+- A Year With Symfony https://matthiasnoback.nl/book/a-year-with-symfony/

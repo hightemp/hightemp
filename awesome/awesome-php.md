@@ -71,6 +71,10 @@
 - https://www.php-fig.org/psr/
 - https://refactoringguru.cn/
 
+### Блоги
+
+- https://matthiasnoback.nl/archives/
+
 ### Статьи
 
 - Многопоточность
