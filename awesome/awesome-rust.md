@@ -149,6 +149,7 @@
   - Rust Kernel Programming https://coderjoshdk.github.io/posts/Rust-Kernel-Programming.html
   - INTRODUCTION TO WINDOWS KERNEL DEVELOPMENT ON RUST (PART 1) https://stofu.io/en/blog/view_post.php?id=15
   - Rust in the Linux kernel https://security.googleblog.com/2021/04/rust-in-linux-kernel.html
+  - Linux Kernel Rust Development Environment https://tomcat0x42.me/linux/rust/2023/04/01/linux-kernel-rust-dev-environment.html
 - Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
 - Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
 - How much does Rust's bounds checking actually cost? https://readyset.io/blog/bounds-checks?ref=refind
