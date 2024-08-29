@@ -235,6 +235,7 @@
     - Clean Architecture in Go [2024 Updated] https://pkritiotis.io/clean-architecture-in-golang/
     - How to implement Clean Architecture in Go (Golang) https://threedots.tech/post/introducing-clean-architecture/
     - Dive to Clean Architecture with Golang https://dev.to/bmf_san/dive-to-clean-architecture-with-golang-cd4
+    - Golang and clean architecture https://itnext.io/golang-and-clean-architecture-19ae9aae5683
     - Applying Clean Architecture in GoLang https://bytegoblin.io/blog/applying-clean-architecture-in-golang
   - Паттерны
     - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
