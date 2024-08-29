@@ -153,6 +153,7 @@
 - Конкурентность, параллелизм
   - lock-free
     - Exploring lock-free Rust 1: Locks https://morestina.net/blog/742/exploring-lock-free-rust-1-locks
+    - Exploring lock-free Rust 3: Crossbeam https://morestina.net/blog/784/exploring-lock-free-rust-3-crossbeam
 - Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
 - Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
 - How much does Rust's bounds checking actually cost? https://readyset.io/blog/bounds-checks?ref=refind
