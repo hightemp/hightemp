@@ -25,11 +25,13 @@
 - https://matthiasnoback.nl/archives/
 - http://fabien.potencier.org/
 - https://davegebler.com/category/php
+- https://jolicode.com/blog/tag/php
 
 ### Статьи
 
 - Пример приложения
   - Build your own OAuth2 Server with PHP and Symfony https://davegebler.com/post/coding/build-oauth2-server-php-symfony
+  - Making a Single-Page Application with HTMX and Symfony https://jolicode.com/blog/making-a-single-page-application-with-htmx-and-symfony
 - Service container
   - Diving into Symfony’s DependencyInjection — Part 1: First steps with the container https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first-steps-with-the-container-2fad0593c052
   - Experiment: How I replaced Symfony DI with Laravel Container in ECS https://tomasvotruba.com/blog/experiment-how-i-replaced-symfony-di-with-laravel-container-in-ecs
