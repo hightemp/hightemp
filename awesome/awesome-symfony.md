@@ -30,6 +30,7 @@
   - Diving into Symfony’s DependencyInjection — Part 1: First steps with the container https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first-steps-with-the-container-2fad0593c052
   - Experiment: How I replaced Symfony DI with Laravel Container in ECS https://tomasvotruba.com/blog/experiment-how-i-replaced-symfony-di-with-laravel-container-in-ecs
   - Mastering Symfony’s Service Container: With Real-life Examples https://tuhinbepari.medium.com/symfony-service-container-eda6612f793c
+  - Understanding Symfony’s Dependency Injection Container https://clouddevs.com/symfony/dependency-injection-container/
 - Оптимизации
   - Battle log: a deep dive in Symfony stack in search of optimizations 2/n https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n
 - Остальное
