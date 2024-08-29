@@ -81,6 +81,7 @@
   - https://github.com/PacktPublishing/Practical-System-Programming-for-Rust-Developers?tab=readme-ov-file
 - Rust in action https://www.rustinaction.com/
   - https://www.cb-india.com/index.php?dispatch=attachments.getfile&attachment_id=1575&__cf_chl_tk=XlB75x5iXEvL01vfWGp1YEXf0qY51ZZFQYIyB66wLfo-1724923057-0.0.1.1-4926
+- The Embedded Rust Book https://doc.rust-lang.org/stable/embedded-book/start/index.html
 
 ### Шпаргалки
 
