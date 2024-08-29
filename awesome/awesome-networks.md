@@ -11,3 +11,4 @@
 ### Статьи
 
 - Протокол QUIC в деле: как его внедрял Uber, чтобы оптимизировать производительность https://habr.com/ru/companies/Voximplant/articles/463073/
+- Ищем альтернативу Ngrok в России https://habr.com/ru/articles/833884/
