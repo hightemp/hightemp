@@ -38,6 +38,7 @@
   - Service Container and Dependency Injection in Symfony framework https://folkprog.net/service-container-and-dependency-injection-in-symfony-framework
 - Messenger
   - Handle asynchronous tasks in Symfony with Messenger https://aicha-fatrah.medium.com/handle-asynchronous-tasks-in-symfony-with-messenger-bbaf6ed36dbf
+  - Messaging in Symfony https://franciscogiraldo.com/blog/async-messsaging-symfony/
 - Оптимизации
   - Battle log: a deep dive in Symfony stack in search of optimizations 2/n https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n
 - Остальное
