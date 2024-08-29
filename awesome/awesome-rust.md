@@ -118,6 +118,7 @@
 - https://rust-osdev.com/
 - https://blog.m-ou.se/
 - https://cliffle.com/
+- https://os.phil-opp.com/
 
 ### Видео
 
