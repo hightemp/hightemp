@@ -135,6 +135,7 @@
 - Оптимизация
   - On Maximizing Your Rust Code's Performance https://jbecker.dev/research/on-writing-performant-rust
   - Web Apps with Rust: Enhancing App Performance Through Optimization https://bitskingdom.com/blog/web-apps-rust-performance-optimization/
+  - Achieving warp speed with Rust https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1
 - Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
 - Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
 - How much does Rust's bounds checking actually cost? https://readyset.io/blog/bounds-checks?ref=refind
