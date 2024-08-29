@@ -16,6 +16,10 @@
 
 - Symfony Demo Application https://github.com/symfony/demo
 
+### Курсы
+
+- https://symfonycasts.com/
+
 ### Блоги
 
 - https://matthiasnoback.nl/archives/
