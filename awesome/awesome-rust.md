@@ -132,6 +132,8 @@
   - Rust basics, from the perspective of a high level programmer https://danbulant.eu/posts/rust-basics?ref=refind
 - WASM
   - Improving performance with React, WASM & Rust https://medium.com/@davidkelley87/improving-performance-with-react-wasm-rust-4c70f027b2c8
+- Оптимизация
+  - On Maximizing Your Rust Code's Performance https://jbecker.dev/research/on-writing-performant-rust
 - Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
 - Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
 - How much does Rust's bounds checking actually cost? https://readyset.io/blog/bounds-checks?ref=refind
