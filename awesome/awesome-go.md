@@ -169,6 +169,7 @@
   - Шаблон Go-микросервиса для начинающих от .NET разработчика. Часть 2 https://habr.com/ru/articles/820385/
   - Consuming A RESTful API With Go https://tutorialedge.net/golang/consuming-restful-api-with-go/
   - Go and MongoDB: Building a CRUD API from Scratch https://dev.to/aquibpy/go-and-mongodb-building-a-crud-api-from-scratch-10p6
+  - Let’s Build a Movie API With Separated Layered Architecture Using Go https://betterprogramming.pub/lets-build-a-movie-api-with-clean-architecture-ef1f555b563d
 - Сеть
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
