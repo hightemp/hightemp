@@ -418,6 +418,7 @@
 - https://bitfieldconsulting.com/posts
 - https://threedots.tech/post/
 - https://matttproud.com/blog/tags/go.html
+- https://masteringbackend.com/posts/
 
 ### Подкасты
 
