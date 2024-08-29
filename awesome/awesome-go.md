@@ -261,6 +261,7 @@
   - Go High-Performance Cache with TTL and Disk Persistence https://dev.to/leoantony72/go-high-performance-cache-with-ttl-and-disk-persistence-4a4m
 - Тестирование
   - Go: How the Testing Harness Works https://matttproud.com/blog/posts/go-testing-harness.html
+  - How to do unit testing + mock function in Golang within clean architecture https://medium.com/@rayato159/how-to-do-unit-testing-mock-function-in-golang-within-clean-architecture-2a674c42dfc4
 - Distributed Systems, Распределенные системы
   - Consensus Algorithms, Алгоритмы консенсуса
     - Raft Consensus Algorithm, Алгоритм консенсуса Raft
