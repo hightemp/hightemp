@@ -17,3 +17,7 @@
 ### Полезные ссылки
 
 - https://www.yiiframework.ru/forum/index.php
+
+### Статьи
+
+- Create a Cross-Platform REST API in Yii2 https://www.cloudways.com/blog/rest-api-yii2/
