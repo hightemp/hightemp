@@ -38,4 +38,5 @@
 - Остальное
   - A Year With Symfony https://matthiasnoback.nl/book/a-year-with-symfony/
   - An introduction to Symfony | The foundation of modern PHP applications https://brunopaz.dev/blog/an-introduction-to-symfony/
+  - Unveiling Mind-Blowing Symfony Features https://medium.com/@selieshjksofficial/unveiling-mind-blowing-symfony-features-3207bcde388b
   
