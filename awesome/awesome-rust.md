@@ -75,6 +75,7 @@
 - https://rust-lang-nursery.github.io/rust-cookbook/
 - https://rust-lang.github.io/async-book/
 - The Rust Performance Book https://nnethercote.github.io/perf-book/general-tips.html
+- Practical System Programming for Rust Developers: Build fast and secure software for Linux/Unix systems with the help of practical examples https://www.packtpub.com/en-us/product/practical-system-programming-for-rust-developers-9781800560963
 
 ### Шпаргалки
 
