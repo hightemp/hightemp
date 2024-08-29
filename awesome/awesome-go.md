@@ -232,6 +232,7 @@
     - Trying Clean Architecture on Golang https://medium.easyread.co/golang-clean-archithecture-efd6d7c43047 https://github.com/bxcodec/go-clean-arch
     - Trying Clean Architecture on Golang — 2 https://medium.easyread.co/trying-clean-architecture-on-golang-2-44d615bf8fdf
     - Clean Architecture in Go [2024 Updated] https://pkritiotis.io/clean-architecture-in-golang/
+    - How to implement Clean Architecture in Go (Golang) https://threedots.tech/post/introducing-clean-architecture/
   - Паттерны
     - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
     - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
