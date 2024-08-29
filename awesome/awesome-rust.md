@@ -74,6 +74,7 @@
 - https://highassurance.rs/
 - https://rust-lang-nursery.github.io/rust-cookbook/
 - https://rust-lang.github.io/async-book/
+- The Rust Performance Book https://nnethercote.github.io/perf-book/general-tips.html
 
 ### Шпаргалки
 
