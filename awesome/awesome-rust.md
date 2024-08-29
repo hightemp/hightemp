@@ -119,6 +119,7 @@
 - https://blog.m-ou.se/
 - https://cliffle.com/
 - Writing an OS in Rust https://os.phil-opp.com/
+- https://morestina.net/blog/
 
 ### Видео
 
