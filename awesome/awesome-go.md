@@ -229,6 +229,8 @@
   - Паттерны
     - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
     - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
+  - Остальное
+    - Definitive Guide to Software Architecture with Golang https://masteringbackend.com/posts/software-architecture-with-golang
 - PDF
   - How To Create a PDF in Go: a Step-by-Step Tutorial https://medium.com/the-godev-corner/how-to-create-a-pdf-in-go-157355429a94
 - Описание языка
