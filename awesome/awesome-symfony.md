@@ -32,3 +32,4 @@
   - Mastering Symfony’s Service Container: With Real-life Examples https://tuhinbepari.medium.com/symfony-service-container-eda6612f793c
 - Остальное
   - A Year With Symfony https://matthiasnoback.nl/book/a-year-with-symfony/
+  - Battle log: a deep dive in Symfony stack in search of optimizations 2/n https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n
