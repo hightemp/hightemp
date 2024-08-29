@@ -30,12 +30,14 @@
 
 - Пример приложения
   - Build your own OAuth2 Server with PHP and Symfony https://davegebler.com/post/coding/build-oauth2-server-php-symfony
-- service container
+- Service container
   - Diving into Symfony’s DependencyInjection — Part 1: First steps with the container https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first-steps-with-the-container-2fad0593c052
   - Experiment: How I replaced Symfony DI with Laravel Container in ECS https://tomasvotruba.com/blog/experiment-how-i-replaced-symfony-di-with-laravel-container-in-ecs
   - Mastering Symfony’s Service Container: With Real-life Examples https://tuhinbepari.medium.com/symfony-service-container-eda6612f793c
   - Understanding Symfony’s Dependency Injection Container https://clouddevs.com/symfony/dependency-injection-container/
   - Service Container and Dependency Injection in Symfony framework https://folkprog.net/service-container-and-dependency-injection-in-symfony-framework
+- Messenger
+  - Handle asynchronous tasks in Symfony with Messenger https://aicha-fatrah.medium.com/handle-asynchronous-tasks-in-symfony-with-messenger-bbaf6ed36dbf
 - Оптимизации
   - Battle log: a deep dive in Symfony stack in search of optimizations 2/n https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n
 - Остальное
