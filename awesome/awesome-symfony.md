@@ -23,6 +23,7 @@
 ### Блоги
 
 - https://matthiasnoback.nl/archives/
+- http://fabien.potencier.org/
 
 ### Статьи
 
