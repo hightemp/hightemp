@@ -239,6 +239,7 @@
     - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
   - Остальное
     - Definitive Guide to Software Architecture with Golang https://masteringbackend.com/posts/software-architecture-with-golang
+    - Structuring your Golang app: Flat structure vs. layered architecture https://blog.logrocket.com/flat-structure-vs-layered-architecture-structuring-your-go-app/
 - PDF
   - How To Create a PDF in Go: a Step-by-Step Tutorial https://medium.com/the-godev-corner/how-to-create-a-pdf-in-go-157355429a94
 - Описание языка
