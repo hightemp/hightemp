@@ -146,6 +146,7 @@
   - Achieving warp speed with Rust https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1
 - Системное программирование
   - SYSTEMS PROGRAMMING WITH RUST https://www.rozmichelle.com/systems-programming-with-rust/
+  - Rust Kernel Programming https://coderjoshdk.github.io/posts/Rust-Kernel-Programming.html
 - Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
 - Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
 - How much does Rust's bounds checking actually cost? https://readyset.io/blog/bounds-checks?ref=refind
