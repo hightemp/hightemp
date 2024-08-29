@@ -223,6 +223,7 @@
   - CQRS (использование разных моделей для чтения и записи)
     - How to use basic CQRS in Go https://threedots.tech/post/basic-cqrs-in-go/
   - Чистая архитектура
+    - Building a CRUD App with Clean Architecture in Go https://dev.to/michinoins/building-a-crud-app-with-mysql-gorm-echo-and-clean-architecture-in-go-h6d
     - How to implement Clean Architecture in Go https://threedots.tech/post/introducing-clean-architecture/
     - How to implement clean architecture in Golang (EN) https://medium.com/@rayato159/how-to-implement-clean-architecture-in-golang-en-f50d66378ebf
     - Clean Architecture in Go (Golang): A Comprehensive Guide https://medium.com/@omidahn/clean-architecture-in-go-golang-a-comprehensive-guide-f8e422b7bfae
