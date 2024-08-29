@@ -36,6 +36,10 @@
    - Сайт: https://redis.io/
    - Описание: Открытая система кэширования данных и брокер сообщений, поддерживающий pub/sub-модель.
 
+### Книги
+
+- https://hypermedia.systems/book/contents/
+
 ### Статьи
 
 - 6 Essential Website Performance Optimization Tips to Implement https://storychief.io/blog/website-performance-optimization-tips
