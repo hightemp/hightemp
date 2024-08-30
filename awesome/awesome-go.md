@@ -456,6 +456,11 @@
 - https://cupogo.dev/
 - https://changelog.com/gotime
 
+### Примеры приложений
+
+- [WIP] E-Commerce project using Hexagonal Architecture (Ports-and-adapters) as a proof-of-concept applying DDD in Go https://github.com/charly3pins/eShop
+- Golang Clean Architecture REST API example https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API
+
 ### Видео
 
 - nextjs 14, Go, Docker: Build a fullstack rest API in TypeScript and Go https://www.youtube.com/watch?v=429-r55KFmM
