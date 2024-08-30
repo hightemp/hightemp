@@ -15,6 +15,7 @@
 - Go Lang Reverse Engineering Resources/Links https://gist.github.com/alexander-hanel/59af86b0154df44a2c9cebfba4996073
 - https://github.com/dariubs/GoBooks
 - https://bitfieldconsulting.com/posts/best-go-books
+- https://mehdihadeli.github.io/awesome-go-education/clean-architecture/
 
 ### Песочницы
 
