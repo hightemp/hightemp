@@ -429,6 +429,7 @@
 - https://threedots.tech/post/
 - https://matttproud.com/blog/tags/go.html
 - https://masteringbackend.com/posts/
+- https://bytegoblin.io/?tag=GOLANG
 
 ### Подкасты
 
