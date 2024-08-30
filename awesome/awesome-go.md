@@ -240,6 +240,7 @@
   - Паттерны
     - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
     - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
+    - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/
   - Остальное
     - Definitive Guide to Software Architecture with Golang https://masteringbackend.com/posts/software-architecture-with-golang
     - Structuring your Golang app: Flat structure vs. layered architecture https://blog.logrocket.com/flat-structure-vs-layered-architecture-structuring-your-go-app/
@@ -284,63 +285,64 @@
       - Raft Consensus — leader election with Golang https://medium.com/@govinda.attal/raft-consensus-leader-election-with-golang-89bfdbd471cb
 - Компилятор
   - Building static binaries with Go on Linux https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/
-- Write a time-series database engine from scratch https://nakabonne.dev/posts/write-tsdb-from-scratch/
-- Software Transactional Memory: a stairway to lock-free programming heaven? https://medium.com/@talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-9ca1f4dce23f
-- Mastering Contexts in Go https://hackernoon.com/mastering-contexts-in-go
-- Building a high performance JSON parser https://dave.cheney.net/high-performance-json.html
-- Distributed Locking In Go https://blogs.halodoc.io/distributed-locking-in-go/
-- Probabilistic Data Structures for Go https://blog.gopheracademy.com/advent-2014/go-probably/
-- Hash-Based Bisect Debugging in Compilers and Runtimes https://research.swtch.com/bisect
-- Server-side I/O Performance: Node vs. PHP vs. Java vs. Go https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go?ref=refind
-- Rubbing control theory on the Go scheduler https://www.cockroachlabs.com/blog/rubbing-control-theory/?ref=refind
-- Interactive Go programming with Jupyter https://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1
-- Why Go and not Rust? https://kristoff.it/blog/why-go-and-not-rust/?ref=refind
-- Maps and memory leaks https://100go.co/28-maps-memory-leaks/
-- The Best Go framework: no framework? https://threedots.tech/post/best-go-framework?ref=refind
-- Making a Go program run 1.7x faster with a one character change 2022-11-13 https://hmarr.com/blog/go-allocation-hunting/?ref=refind
-- Кратко про сетевые протоколы в Golang: TCP, QUIC и UDP https://habr.com/ru/companies/otus/articles/830096/
-- Рассматриваем #golang каналы в комплексе https://www.dolthub.com/blog/2024-06-21-channel-three-ways/
-- No sleep until we build the ideal pub/sub library in Go; Автор рассматривает разные подходы к написанию pub/sub библиотеки на #golang; https://rauljordan.com/no-sleep-until-we-build-the-perfect-library-in-go/
-- Пишем сайт с риалтайм обновлениями с помощью Server-Sent Events, #golang и htmx https://threedots.tech/post/live-website-updates-go-sse-htmx
-- Avoiding Beginner Mistakes Hampering You to Scale Backend (Пример оптимизации #golang сервиса на 2 GB памяти и 1 CPU) https://dev.to/rikenshah/scaling-backend-to-1m-requests-with-just-2gb-ram-4m0c#optimization-7-avoid-overloading-goroutines
-- An Applied Introduction to eBPF with Go https://sazak.io/articles/an-applied-introduction-to-ebpf-with-go-2024-06-06
-- Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
-- Where and When to use Iota in Go https://www.gopherguides.com/articles/how-to-use-iota-in-golang
-- 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
-- Golang: context изнутри https://habr.com/ru/articles/827544/
-- How To Use Contexts in Go https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go
-- Writing an OS in Go: The Bootloader https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader
-- О массивах и слайсах в Go https://habr.com/ru/articles/739754/
-- Советы Golang: почему указатели на срезы полезны и как их игнорирование может привести к хитрым ошибкам https://habr.com/ru/articles/525940/
-- Суслик и пингвин: кодим на Go под Linux 
-  - https://habr.com/ru/articles/811587/ 
-  - https://web.archive.org/web/20240501135306/https://habr.com/ru/articles/811587/
-- Structured concurrency в языке Go https://habr.com/ru/companies/karuna/articles/816677/
-- Go 1.22: Интерактивные заметки к релизу https://habr.com/ru/articles/792242/
-- Tracking io.Copy Progress in Go https://hjr265.me/blog/tracking-io-copy-progress-in-go/
-- How to connect to SFTP in Go https://sftptogo.com/blog/go-sftp/
-- Golang Thread Pool And Scheduler https://medium.com/@ahmet9417/golang-thread-pool-and-scheduler-434dd094715a
-- Unlocking the Power of Functional Options Pattern in Go https://matheuspolitano.medium.com/unlocking-the-power-of-functional-options-pattern-in-go-087478f57be9
-- SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/
-- Как отправлять SMS через МТС Exolve и Go https://habr.com/ru/companies/exolve/articles/828370/
-- Why People are Angry over Go 1.23 Iterators https://www.gingerbill.org/article/2024/06/17/go-iterator-design/
-- Profiling in Go: A Practical Guide https://nyadgar.com/posts/go-profiling-like-a-pro/
-- Building my own Redis in Go - Part 1 https://sathwikreddygv.blog/building-my-own-redis-in-go-part-1
-  - Building my own Redis in Go - Part 2 https://sathwikreddygv.blog/building-my-own-redis-in-go-part-2
-  - Building my own Redis in Go - Part 3 https://sathwikreddygv.blog/building-my-own-redis-in-go-part-3
-    - https://github.com/sathwikreddygv/redis-written-in-go
-- A comprehensive guide to file operations in Go https://www.honeybadger.io/blog/comprehensive-guide-to-file-operations-in-go/
-- List all files (recursively) in a directory https://yourbasic.org/golang/list-files-in-directory/
-- Weird things about GOLANG — Part 1 https://medium.com/@adityasonel/weird-things-about-golang-part-1-4139e97f2bd4
-- Weird things about GOLANG — Part 2 https://medium.com/@adityasonel/weird-things-about-golang-part-2-b2f1aa8d61e1
-- A Pattern for Optimizing Go https://www.splunk.com/en_us/blog/devops/a-pattern-for-optimizing-go-2.html
-- How to make Golang Zero Allocation Log Library https://medium.com/@muroon/the-reason-why-zap-and-zerolog-make-it-zero-allocation-3ee8f69f660
-- Поднимаем TLS для gRPC в Go https://tproger.ru/articles/podnimaem-tls-dlya-grpc-v-go
-- Golang - Goroutine, Channel, Worker Pool, Select, Mutex https://mgleon08.github.io/blog/2018/05/17/golang-goroutine-channel-worker-pool-select-mutex/
-- A Complete Guide to Logging in Go with Zerolog https://betterstack.com/community/guides/logging/zerolog/
-- WebAssembly and Go: A Guide to Getting Started (Part 1) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-1/
-- WebAssembly and Go: A Guide to Getting Started (Part 2) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-2/
-- Running WebAssembly code in Go https://dev.to/eminetto/running-webassembly-code-in-go-35k9
+- WebAssembly
+  - WebAssembly and Go: A Guide to Getting Started (Part 1) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-1/
+  - WebAssembly and Go: A Guide to Getting Started (Part 2) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-2/
+  - Running WebAssembly code in Go https://dev.to/eminetto/running-webassembly-code-in-go-35k9
+- Остальное
+  - Write a time-series database engine from scratch https://nakabonne.dev/posts/write-tsdb-from-scratch/
+  - Software Transactional Memory: a stairway to lock-free programming heaven? https://medium.com/@talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-9ca1f4dce23f
+  - Mastering Contexts in Go https://hackernoon.com/mastering-contexts-in-go
+  - Building a high performance JSON parser https://dave.cheney.net/high-performance-json.html
+  - Distributed Locking In Go https://blogs.halodoc.io/distributed-locking-in-go/
+  - Probabilistic Data Structures for Go https://blog.gopheracademy.com/advent-2014/go-probably/
+  - Hash-Based Bisect Debugging in Compilers and Runtimes https://research.swtch.com/bisect
+  - Server-side I/O Performance: Node vs. PHP vs. Java vs. Go https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go?ref=refind
+  - Rubbing control theory on the Go scheduler https://www.cockroachlabs.com/blog/rubbing-control-theory/?ref=refind
+  - Interactive Go programming with Jupyter https://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1
+  - Why Go and not Rust? https://kristoff.it/blog/why-go-and-not-rust/?ref=refind
+  - Maps and memory leaks https://100go.co/28-maps-memory-leaks/
+  - The Best Go framework: no framework? https://threedots.tech/post/best-go-framework?ref=refind
+  - Making a Go program run 1.7x faster with a one character change 2022-11-13 https://hmarr.com/blog/go-allocation-hunting/?ref=refind
+  - Кратко про сетевые протоколы в Golang: TCP, QUIC и UDP https://habr.com/ru/companies/otus/articles/830096/
+  - Рассматриваем #golang каналы в комплексе https://www.dolthub.com/blog/2024-06-21-channel-three-ways/
+  - No sleep until we build the ideal pub/sub library in Go; Автор рассматривает разные подходы к написанию pub/sub библиотеки на #golang; https://rauljordan.com/no-sleep-until-we-build-the-perfect-library-in-go/
+  - Пишем сайт с риалтайм обновлениями с помощью Server-Sent Events, #golang и htmx https://threedots.tech/post/live-website-updates-go-sse-htmx
+  - Avoiding Beginner Mistakes Hampering You to Scale Backend (Пример оптимизации #golang сервиса на 2 GB памяти и 1 CPU) https://dev.to/rikenshah/scaling-backend-to-1m-requests-with-just-2gb-ram-4m0c#optimization-7-avoid-overloading-goroutines
+  - An Applied Introduction to eBPF with Go https://sazak.io/articles/an-applied-introduction-to-ebpf-with-go-2024-06-06
+  - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
+  - Where and When to use Iota in Go https://www.gopherguides.com/articles/how-to-use-iota-in-golang
+  - 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
+  - Golang: context изнутри https://habr.com/ru/articles/827544/
+  - How To Use Contexts in Go https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go
+  - Writing an OS in Go: The Bootloader https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader
+  - О массивах и слайсах в Go https://habr.com/ru/articles/739754/
+  - Советы Golang: почему указатели на срезы полезны и как их игнорирование может привести к хитрым ошибкам https://habr.com/ru/articles/525940/
+  - Суслик и пингвин: кодим на Go под Linux 
+    - https://habr.com/ru/articles/811587/ 
+    - https://web.archive.org/web/20240501135306/https://habr.com/ru/articles/811587/
+  - Structured concurrency в языке Go https://habr.com/ru/companies/karuna/articles/816677/
+  - Go 1.22: Интерактивные заметки к релизу https://habr.com/ru/articles/792242/
+  - Tracking io.Copy Progress in Go https://hjr265.me/blog/tracking-io-copy-progress-in-go/
+  - How to connect to SFTP in Go https://sftptogo.com/blog/go-sftp/
+  - Golang Thread Pool And Scheduler https://medium.com/@ahmet9417/golang-thread-pool-and-scheduler-434dd094715a
+  - Unlocking the Power of Functional Options Pattern in Go https://matheuspolitano.medium.com/unlocking-the-power-of-functional-options-pattern-in-go-087478f57be9
+  - Как отправлять SMS через МТС Exolve и Go https://habr.com/ru/companies/exolve/articles/828370/
+  - Why People are Angry over Go 1.23 Iterators https://www.gingerbill.org/article/2024/06/17/go-iterator-design/
+  - Profiling in Go: A Practical Guide https://nyadgar.com/posts/go-profiling-like-a-pro/
+  - Building my own Redis in Go - Part 1 https://sathwikreddygv.blog/building-my-own-redis-in-go-part-1
+    - Building my own Redis in Go - Part 2 https://sathwikreddygv.blog/building-my-own-redis-in-go-part-2
+    - Building my own Redis in Go - Part 3 https://sathwikreddygv.blog/building-my-own-redis-in-go-part-3
+      - https://github.com/sathwikreddygv/redis-written-in-go
+  - A comprehensive guide to file operations in Go https://www.honeybadger.io/blog/comprehensive-guide-to-file-operations-in-go/
+  - List all files (recursively) in a directory https://yourbasic.org/golang/list-files-in-directory/
+  - Weird things about GOLANG — Part 1 https://medium.com/@adityasonel/weird-things-about-golang-part-1-4139e97f2bd4
+  - Weird things about GOLANG — Part 2 https://medium.com/@adityasonel/weird-things-about-golang-part-2-b2f1aa8d61e1
+  - A Pattern for Optimizing Go https://www.splunk.com/en_us/blog/devops/a-pattern-for-optimizing-go-2.html
+  - How to make Golang Zero Allocation Log Library https://medium.com/@muroon/the-reason-why-zap-and-zerolog-make-it-zero-allocation-3ee8f69f660
+  - Поднимаем TLS для gRPC в Go https://tproger.ru/articles/podnimaem-tls-dlya-grpc-v-go
+  - Golang - Goroutine, Channel, Worker Pool, Select, Mutex https://mgleon08.github.io/blog/2018/05/17/golang-goroutine-channel-worker-pool-select-mutex/
+  - A Complete Guide to Logging in Go with Zerolog https://betterstack.com/community/guides/logging/zerolog/
 
 ### Блоги
 
