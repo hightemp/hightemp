@@ -458,6 +458,7 @@
 
 ### Примеры приложений
 
+- Clean Architecture Golang Example (kinda) https://github.com/ruslantsyganok/clean_arcitecture_golang_example
 - [WIP] E-Commerce project using Hexagonal Architecture (Ports-and-adapters) as a proof-of-concept applying DDD in Go https://github.com/charly3pins/eShop
 - Golang Clean Architecture REST API example https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API
 
