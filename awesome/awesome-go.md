@@ -173,6 +173,7 @@
   - Consuming A RESTful API With Go https://tutorialedge.net/golang/consuming-restful-api-with-go/
   - Go and MongoDB: Building a CRUD API from Scratch https://dev.to/aquibpy/go-and-mongodb-building-a-crud-api-from-scratch-10p6
   - Let’s Build a Movie API With Separated Layered Architecture Using Go https://betterprogramming.pub/lets-build-a-movie-api-with-clean-architecture-ef1f555b563d
+  - Go and Gin - Building a Task Manager REST API https://bytegoblin.io/blog/mastering-rest-apis-with-the-go-gin-framework.mdx
 - Сеть
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
