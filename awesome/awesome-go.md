@@ -64,6 +64,9 @@
   - Allows to read configurations from different sources and combine all together in one structure. https://github.com/Mansiper/GoConfiguration
 - Внедрение зависимостей
   - Fx - это система внедрения зависимостей для Go, предлагающая ряд преимуществ, включая устранение глобальных переменных, повышение переиспользуемости кода и надежность, подтвержденную широким использованием в сервисах Uber. https://github.com/uber-go/fx
+- Безопасность
+  - Санитайзеры
+    - bluemonday - это быстрый и гибко настраиваемый HTML-санитайзер, реализованный на Go, который очищает пользовательский контент от потенциально опасных элементов, делая его безопасным для включения в веб-страницы. https://github.com/microcosm-cc/bluemonday
 
 ### Репозитории
 
