@@ -251,6 +251,7 @@
     - When using Microservices or Modular Monolith in Go can be just a detail? https://threedots.tech/post/microservices-or-monolith-its-detail/
     - Clean Architecture, 2 years later https://dev.to/eminetto/clean-architecture-2-years-later-4een
     - Go, Kafka and gRPC clean architecture CQRS microservices with Jaeger tracing https://dev.to/aleksk1ng/go-kafka-and-grpc-clean-architecture-cqrs-microservices-with-jaeger-tracing-45bj
+    - Go, NATS, gRPC and PostgreSQL clean architecture microservice with monitoring and tracing https://dev.to/aleksk1ng/go-nats-grpc-and-postgresql-clean-architecture-microservice-with-monitoring-and-tracing-2kka
   - Паттерны
     - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
     - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
