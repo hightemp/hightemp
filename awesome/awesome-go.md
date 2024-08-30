@@ -463,6 +463,12 @@
 - Golang Tutorial for Beginners | Full Go Course https://www.youtube.com/watch?v=yyUHQIec83I
 - Synchronization in Golang - Complete Guide https://www.youtube.com/watch?v=Xf1j0FGAYUY
 - Creating Golang WebServer With Echo https://www.youtube.com/watch?v=_pww3NJuWnk&list=PLFmONUGpIk0YwlJMZOo21a9Q1juVrk4YY
+- Clean architecture in Go. How to organize a project structure? https://www.youtube.com/watch?v=goC-gCNWhS4
+- GO - Clean Architecture https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB
+- How To Structure Your Go App - Full Course [ Hex Arch + Tests ] https://www.youtube.com/watch?v=MpFog2kZsHk
+- Go Programming - Hexagonal Architecture https://www.youtube.com/watch?v=k3JZI-sQs2k
+- Golang / Go Crash Course 03 | Implementing Clean Architecture principles in our REST API https://www.youtube.com/watch?v=Yg_ae0UvCv4
+- dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture https://www.youtube.com/watch?v=vKbVrsMnhDc
 
 ### Сайты со статьями
 
