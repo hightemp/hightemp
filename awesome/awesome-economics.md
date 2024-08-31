@@ -8,6 +8,23 @@
 - https://my.first-am.ru
 - https://invest-intelion.com/
 
+### Сервисы для открытия виртуальных иностранных карт
+
+- https://pst.net/
+- https://wanttopay.net/
+- https://epayservices.com/ru/virtual-cards.html
+- https://www.pyypl.com/
+- https://n26.com/en-at/virtual-card
+- https://flexcard.cards/
+- https://e.pn/
+- https://mybrocard.com/
+- https://cashinout.io/
+- https://www.yescard.io/ru/home
+- https://virtualcards.shopping/
+- https://nowall.eu/card
+- https://www.redotpay.com/en/home/
+- https://xcards.net/?domain=xcards.net&lang=ru
+- https://business.wallester.com/atrk
 
 ### Книги
 
