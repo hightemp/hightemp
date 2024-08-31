@@ -25,6 +25,8 @@
 - https://www.redotpay.com/en/home/
 - https://xcards.net/?domain=xcards.net&lang=ru
 - https://business.wallester.com/atrk
+- Казахстан
+    - https://kartakz.oplatym.ru/
 
 ### Книги
 
