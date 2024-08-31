@@ -43,6 +43,10 @@
 
 - https://github.com/hightemp/col_bin_scripts
 
+### VIM
+  - https://spacevim.org/quick-start-guide/
+  - https://github.com/ashfinal/vimrc-config
+
 ### Установка lazyvim
 
 ```
