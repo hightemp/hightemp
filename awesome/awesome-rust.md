@@ -18,6 +18,7 @@
 - https://github.com/unpluggedcoder/awesome-rust-tools
 - https://github.com/brson/rust-anthology/blob/master/master-list.md
 - https://github.com/rust-embedded/awesome-embedded-rust
+- https://github.com/ImplFerris/LearnRust
 
 ### Roadmap
 
