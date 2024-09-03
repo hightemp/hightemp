@@ -36,6 +36,10 @@
 - RUST GYM Rust Solutions
   - https://github.com/warycat/rustgym
 
+### Style-guides
+
+- https://github.com/thanos-io/thanos/blob/main/docs/contributing/coding-style-guide.md
+
 ### Шаблоны проектов
 
 - https://github.com/cdorsey/rust-vue-boilerplate
