@@ -22,6 +22,10 @@
 - https://goplay.space/
 - https://go.dev/play/
 
+### Style-guides
+
+- https://github.com/thanos-io/thanos/blob/main/docs/contributing/coding-style-guide.md
+
 ### Roadmaps
 
 - https://roadmap.sh/golang
