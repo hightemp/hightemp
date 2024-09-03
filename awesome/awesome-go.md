@@ -90,6 +90,7 @@
 
 ### Фреймворки
 
+- Echo - это высокопроизводительный, расширяемый и минималистичный веб-фреймворк на Go, предоставляющий оптимизированный HTTP-роутер, поддержку RESTful API, группировку маршрутов, гибкую систему middleware, привязку данных, удобные функции для HTTP-ответов, централизованную обработку ошибок, рендеринг шаблонов и множество других возможностей для разработки современных веб-приложений. https://github.com/labstack/echo
 - GoFr - это opinionated фреймворк для разработки микросервисов на Go, который упрощает создание API, обеспечивает соблюдение REST-стандартов, предоставляет встроенную наблюдаемость и поддерживает различные функции, включая аутентификацию, gRPC, публикацию/подписку и миграцию баз данных. https://github.com/gofr-dev/gofr
 - Goravel - это полнофункциональный и масштабируемый веб-фреймворк для Go, вдохновленный Laravel, который помогает разработчикам быстро создавать приложения, облегчая переход с PHP и приветствуя вклад сообщества в виде звезд, PR и issues на GitHub. https://www.goravel.dev/ https://github.com/goravel/framework
 - The enterprise Golang REST API framework. Goyave is an opinionated all-in-one Golang web framework focused on REST APIs, with emphasis on code reliability, maintainability and developer experience. https://goyave.dev/
