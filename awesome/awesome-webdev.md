@@ -42,5 +42,7 @@
 
 ### Статьи
 
-- 6 Essential Website Performance Optimization Tips to Implement https://storychief.io/blog/website-performance-optimization-tips
-- Настраиваем Windows WSL для локальной разработки Laravel https://habr.com/ru/articles/807859/
+- Остальное
+    - 6 Essential Website Performance Optimization Tips to Implement https://storychief.io/blog/website-performance-optimization-tips
+    - Настраиваем Windows WSL для локальной разработки Laravel https://habr.com/ru/articles/807859/
+    - How HLS Works https://jazco.dev/2024/07/05/hls/
