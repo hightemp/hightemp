@@ -23,6 +23,10 @@
 - https://goplay.space/
 - https://go.dev/play/
 
+### VIM
+
+- https://github.com/fatih/vim-go
+
 ### Style-guides
 
 - https://github.com/thanos-io/thanos/blob/main/docs/contributing/coding-style-guide.md
