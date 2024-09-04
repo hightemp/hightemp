@@ -40,6 +40,12 @@
 
 - https://hypermedia.systems/book/contents/
 
+### Полезные ссылки
+
+- amber - язык программирования, написанный на #rust, который компилируется(транспилируется?) в bash 
+    - Сайт https://amber-lang.com/
+    - Репа https://github.com/amber-lang/amber
+
 ### Статьи
 
 - Остальное
