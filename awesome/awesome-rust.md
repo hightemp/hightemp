@@ -121,6 +121,7 @@
 - https://cliffle.com/
 - Writing an OS in Rust https://os.phil-opp.com/
 - https://morestina.net/blog/
+- https://www.freecodecamp.org/news/tag/rust/
 
 ### Видео
 
