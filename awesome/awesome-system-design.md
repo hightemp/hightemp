@@ -4,6 +4,7 @@
 - https://github.com/systemdesign42/system-design
 - https://github.com/madd86/awesome-system-design
 - https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+- https://github.com/javabuddy/best-system-design-resources
 
 ### Мануалы
 
