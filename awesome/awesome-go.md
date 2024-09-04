@@ -463,6 +463,7 @@
 - https://matttproud.com/blog/tags/go.html
 - https://masteringbackend.com/posts/
 - https://bytegoblin.io/?tag=GOLANG
+- https://www.freecodecamp.org/news/tag/golang/
 
 ### Подкасты
 
