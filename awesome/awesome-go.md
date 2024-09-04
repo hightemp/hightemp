@@ -206,6 +206,9 @@
   - Веб-сервер
     - Файлы
       - Go Tips & Common Mistakes - Go HTTP File Upload and Download https://bytegoblin.io/blog/go-tips-common-mistakes.mdx
+  - Работа с траффиком
+    - pcap
+      - Capture traffic with Golang https://dev.to/aohorodnyk/capture-traffic-with-golang-2nmo
 - Аунтификация
   - Authentication for Go Applications: The Secure Way https://www.jetbrains.com/guide/go/tutorials/authentication-for-go-apps/auth/?ysclid=m06r9cxvkn600024780
 - Авторизация
