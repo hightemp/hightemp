@@ -16,6 +16,7 @@
 - https://github.com/dariubs/GoBooks
 - https://bitfieldconsulting.com/posts/best-go-books
 - https://mehdihadeli.github.io/awesome-go-education/clean-architecture/
+- https://github.com/gostor/awesome-go-storage
 
 ### Песочницы
 
