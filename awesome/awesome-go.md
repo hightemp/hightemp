@@ -258,6 +258,8 @@
 - Таймеры
   - Resetting timers in Go https://antonz.org/timer-reset/
 - Архитектура
+  - Кэширование
+    - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
   - DDD
     - Introduction to DDD Lite: When microservices in Go are not enough https://threedots.tech/post/ddd-lite-in-go-introduction/
   - CQRS (использование разных моделей для чтения и записи)
