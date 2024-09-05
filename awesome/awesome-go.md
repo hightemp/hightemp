@@ -185,13 +185,14 @@
   - https://vk.com/wall-69839157_767
 - Go in Action (William Kennedy, Brian Ketelsen, Erik St. Martin)
   - https://books.awesee.cn/Go%2FGo%20In%20Action.pdf
+- Go Web Programming. (2016) Sau Sheong Chang
+  - https://edu.anarcho-copy.org/Programming%20Languages/Go/Go%20Web%20Programming.pdf
+- Mastering Go (Mihalis Tsoukalos)
 - Full-Stack Web Development with Go. Nanik Tolaram, 2023 https://t.me/code_storage/756
 - Practical Go Lessons https://www.practical-go-lessons.com/
 - This document outlines best practices for writing high-performance Go code. https://github.com/dgryski/go-perfbook
 - Go Optimizations 101 https://go101.org/optimizations/101.html
 - Writing A Compiler In Go https://compilerbook.com/
-- Go Web Programming. (2016) Sau Sheong Chang
-  - https://edu.anarcho-copy.org/Programming%20Languages/Go/Go%20Web%20Programming.pdf
 - Go from the beginning https://github.com/softchris/golang-book/
 
 ### Статьи
