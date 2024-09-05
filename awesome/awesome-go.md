@@ -183,6 +183,8 @@
 - The Go Programming Language (Alan A. A. Donovan, Brian W. Kernighan) 
   - http://www.cs.uniroma2.it/upload/2017/TSC/The%20Go%20Programming%20Language.pdf
   - https://vk.com/wall-69839157_767
+- Go in Action (William Kennedy, Brian Ketelsen, Erik St. Martin)
+  - https://books.awesee.cn/Go%2FGo%20In%20Action.pdf
 - Full-Stack Web Development with Go. Nanik Tolaram, 2023 https://t.me/code_storage/756
 - Practical Go Lessons https://www.practical-go-lessons.com/
 - This document outlines best practices for writing high-performance Go code. https://github.com/dgryski/go-perfbook
