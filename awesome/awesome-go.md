@@ -188,6 +188,7 @@
 - Go Web Programming. (2016) Sau Sheong Chang
   - https://edu.anarcho-copy.org/Programming%20Languages/Go/Go%20Web%20Programming.pdf
 - Mastering Go (Mihalis Tsoukalos)
+  - https://rutracker.org/forum/viewtopic.php?t=5929666
 - Full-Stack Web Development with Go. Nanik Tolaram, 2023 https://t.me/code_storage/756
 - Practical Go Lessons https://www.practical-go-lessons.com/
 - This document outlines best practices for writing high-performance Go code. https://github.com/dgryski/go-perfbook
