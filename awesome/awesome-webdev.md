@@ -50,6 +50,7 @@
 
 - Балансировщики
     - Введение в современную сетевую балансировку и проксирование https://habr.com/ru/companies/vk/articles/347026/
+    - The power of two random choices https://brooker.co.za/blog/2012/01/17/two-random.html
 - Базы данных
     - Gotchas with SQLite in Production https://blog.pecar.me/sqlite-prod
 - Остальное
