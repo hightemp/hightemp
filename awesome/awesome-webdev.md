@@ -48,6 +48,8 @@
 
 ### Статьи
 
+- Балансировщики
+    - Введение в современную сетевую балансировку и проксирование https://habr.com/ru/companies/vk/articles/347026/
 - Базы данных
     - Gotchas with SQLite in Production https://blog.pecar.me/sqlite-prod
 - Остальное
