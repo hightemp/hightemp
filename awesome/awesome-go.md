@@ -257,6 +257,9 @@
   - Применения Continuation-passing style в Go https://habr.com/ru/articles/836702/
 - Таймеры
   - Resetting timers in Go https://antonz.org/timer-reset/
+- Отладка
+  - Трассировщики
+    - Jaeger для трассировки в микросервисной архитектуре https://habr.com/ru/companies/yandex_praktikum/articles/729906/
 - Архитектура
   - Кэширование
     - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
