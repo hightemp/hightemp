@@ -363,6 +363,7 @@
   - WebAssembly and Go: A Guide to Getting Started (Part 2) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-2/
   - Running WebAssembly code in Go https://dev.to/eminetto/running-webassembly-code-in-go-35k9
 - Остальное
+  - Quick Sort in Go https://thedevelopercafe.com/articles/quick-sort-in-go-1c4ef4b5
   - Write a time-series database engine from scratch https://nakabonne.dev/posts/write-tsdb-from-scratch/
   - Software Transactional Memory: a stairway to lock-free programming heaven? https://medium.com/@talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-9ca1f4dce23f
   - Mastering Contexts in Go https://hackernoon.com/mastering-contexts-in-go
