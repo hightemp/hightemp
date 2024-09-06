@@ -545,3 +545,8 @@
 ### Telegram
 
 - https://t.me/kodikapusta
+
+### Облачные хранилища, аналоги s3
+
+- https://github.com/storj/storj
+- https://github.com/minio/minio
