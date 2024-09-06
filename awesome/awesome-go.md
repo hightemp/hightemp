@@ -324,6 +324,8 @@
     - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
   - Каналы
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
+  - Слайсы
+    - Slices in Go: Grow Big or Go Home https://victoriametrics.com/blog/go-slice/index.html
 - Оптимизация
   - Maps and memory leaks https://100go.co/28-maps-memory-leaks/
   - How to Use Maps Safely in Go https://hackernoon.com/how-to-use-maps-safely-in-go
