@@ -416,6 +416,7 @@
   - Поднимаем TLS для gRPC в Go https://tproger.ru/articles/podnimaem-tls-dlya-grpc-v-go
   - Golang - Goroutine, Channel, Worker Pool, Select, Mutex https://mgleon08.github.io/blog/2018/05/17/golang-goroutine-channel-worker-pool-select-mutex/
   - A Complete Guide to Logging in Go with Zerolog https://betterstack.com/community/guides/logging/zerolog/
+  - Dockerizing a Golang API with MySQL and adding Docker Compose Support https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1
 
 ### Блоги
 
