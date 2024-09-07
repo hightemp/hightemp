@@ -15,6 +15,11 @@
         - https://github.com/ggreer/the_silver_searcher
         - `apt-get install silversearcher-ag`
 
+### Аналоги утилит на rust
+
+- tree
+    - https://github.com/solidiquis/erdtree
+
 ### Статьи
 
 - How to supercharge string search through a directory hierarchy on a Linux/Unix [статья](https://www.cyberciti.biz/open-source/command-line-hacks/ag-supercharge-string-search-through-directory-hierarchy/)
