@@ -6,8 +6,6 @@
 #### Первым делом
 
 - Стартеркит. Установка софта. https://github.com/hightemp/hightemp/blob/main/starterkit.md
-- Каталог сайтов. https://github.com/hightemp/hightemp/blob/main/catalog_sites.csv
-- Каталог софта, пакетов. https://github.com/hightemp/hightemp/blob/main/catalog_soft.csv
 
 #### Заметки, шпоры и документация
 
