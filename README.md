@@ -15,9 +15,9 @@
 - [doc_linux_network](https://github.com/hightemp/doc_linux_network)
 - [doc_bio](https://github.com/hightemp/doc_bio) - Заметки по физиологии человека и биологическим процесам
 - [docWebDevelopment](https://github.com/hightemp/docWebDevelopment) - Заметки о веб разработке
-- [docNN](https://github.com/hightemp/docNN) - Заметки
-- [docGit](https://github.com/hightemp/docGit) - Заметки
-- [docWindows](https://github.com/hightemp/docWindows) - Заметки
+- [docNN](https://github.com/hightemp/docNN) - Заметки о нейросетях
+- [docGit](https://github.com/hightemp/docGit) - Заметки о git
+- [docWindows](https://github.com/hightemp/docWindows) - Заметки про администрирование windows
 - [docWiki](https://github.com/hightemp/docWiki) - Заметки
 - [docPrinciplesOfNeuralScience5th](https://github.com/hightemp/docPrinciplesOfNeuralScience5th) - Перевод книги
 - [cappTYGListCollector](https://github.com/hightemp/cappTYGListCollector) - Коллекции ссылок telegram, youtube
