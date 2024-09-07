@@ -20,7 +20,6 @@
 - [docWindows](https://github.com/hightemp/docWindows) - Заметки
 - [docWiki](https://github.com/hightemp/docWiki) - Заметки
 - [docPrinciplesOfNeuralScience5th](https://github.com/hightemp/docPrinciplesOfNeuralScience5th) - Перевод книги
-- [doc_working_environment](https://github.com/hightemp/doc_working_environment) - Коллекции ссылок. Настройка рабочей среды
 - [cappTYGListCollector](https://github.com/hightemp/cappTYGListCollector) - Коллекции ссылок telegram, youtube
 - [doc_notes](https://github.com/hightemp/doc_notes) - Заметки из Obsidian
 
