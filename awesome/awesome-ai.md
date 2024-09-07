@@ -156,6 +156,10 @@
 - https://app.illuminarty.ai/
 - https://hivemoderation.com/ai-generated-content-detection
 
+### Распознавание речи
+
+- https://huggingface.co/spaces/Xenova/whisper-web
+
 ### Определение кем создано изображение
 
 - aiornot.com — онлайн-сервис детектирования ИИ-картинок. Отлично распознаёт изображения, созданные генеративными моделями (включая MidJourney). https://aiornot.com
