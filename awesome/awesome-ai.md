@@ -44,6 +44,7 @@
 - https://chatgpt.com/search
 - https://askhackers.com/
 - https://getliner.com/main
+- https://devv.ai/
 
 ### Чаты c документами
 
