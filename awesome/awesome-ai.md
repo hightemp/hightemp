@@ -43,6 +43,7 @@
 - https://andisearch.com/
 - https://chatgpt.com/search
 - https://askhackers.com/
+- https://getliner.com/main
 
 ### Чаты c документами
 
