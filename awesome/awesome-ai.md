@@ -55,6 +55,7 @@
 - https://openrouter.ai/
 - https://groq.com/
 - https://openchat.team/
+- https://lambda.chat/chatui/
 - https://labs.perplexity.ai/
 - https://services.vsegpt.ru:6400/?model=openai%2Fgpt-3.5-turbo
 - https://services.vsegpt.ru:6400/Image_processing?model=vis-google%2Fgemini-pro-vision
