@@ -112,6 +112,7 @@
 - Ivan Akulov [https://iamakulov.com/notes/]
 - Robin Wieruch [https://www.robinwieruch.de/]
 - https://codewithstyle.info/
+- https://medium.com/dailyjs
 
 ### Вопросы
 
