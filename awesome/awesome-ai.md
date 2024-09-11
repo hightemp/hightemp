@@ -92,6 +92,10 @@
 - android
     - chatgpt неофиц. клиент https://github.com/skydoves/chatgpt-android/releases
 
+### ai-редакторы
+
+- https://www.cursor.com/
+
 ### Смарт-библиотеки
 
 - https://iki.ai/
