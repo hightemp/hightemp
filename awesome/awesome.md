@@ -1,5 +1,6 @@
 ## Коллекции
 
+- Software Engineering Blogs https://github.com/kilimchoi/engineering-blogs
 - A delightful list of personal tech blogs https://github.com/jkup/awesome-personal-blogs
 - https://github.com/ParanoidUser/awesome-practices
 - "Project Based Learning" - это репозиторий на GitHub, содержащий подборку обучающих материалов по программированию, которые помогают начинающим разработчикам научиться создавать приложения с нуля, используя различные языки и технологии. https://github.com/practical-tutorials/project-based-learning
