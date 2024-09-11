@@ -46,6 +46,10 @@
 - https://getliner.com/main
 - https://devv.ai/
 
+### Ресерч
+
+- https://forecast.safe.ai/
+
 ### Чаты c документами
 
 - https://www.chatpdf.com
