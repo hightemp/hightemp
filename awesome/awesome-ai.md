@@ -1,6 +1,7 @@
 
 ### Коллекции
 
+- https://github.com/dair-ai/ML-YouTube-Courses
 - https://github.com/e2b-dev/awesome-ai-agents
 - https://github.com/fr0gger/Awesome-GPT-Agents
 - https://github.com/yokoffing/ChatGPT-Prompts
