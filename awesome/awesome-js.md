@@ -111,6 +111,7 @@
 - Bram Van Damme [https://www.bram.us/]
 - Ivan Akulov [https://iamakulov.com/notes/]
 - Robin Wieruch [https://www.robinwieruch.de/]
+- https://codewithstyle.info/
 
 ### Вопросы
 
