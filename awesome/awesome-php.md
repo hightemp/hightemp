@@ -74,6 +74,7 @@
 ### Блоги
 
 - https://matthiasnoback.nl/archives/
+- https://www.amitmerchant.com/
 
 ### Статьи
 
