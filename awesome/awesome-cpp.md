@@ -17,6 +17,10 @@
     - https://github.com/facebook/rocksdb
     - https://github.com/google/leveldb
 
+### Блоги
+
+- https://www.cppstories.com/
+
 ### Статьи
 
 - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
