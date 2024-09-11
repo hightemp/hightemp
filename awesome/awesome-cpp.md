@@ -20,6 +20,7 @@
 ### Блоги
 
 - https://www.cppstories.com/
+- https://nullprogram.com/
 
 ### Статьи
 
