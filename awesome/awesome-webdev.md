@@ -36,6 +36,34 @@
    - Сайт: https://redis.io/
    - Описание: Открытая система кэширования данных и брокер сообщений, поддерживающий pub/sub-модель.
 
+### Хранилища секретов
+
+- HashiCorp Vault
+   - Репозиторий: https://github.com/hashicorp/vault
+- Consul
+   - Репозиторий: https://github.com/hashicorp/consul
+- etcd
+   - Репозиторий: https://github.com/etcd-io/etcd
+- Kubernetes Secrets (Часть Kubernetes)
+   - Репозиторий: https://github.com/kubernetes/kubernetes
+- Docker Secrets (Часть Docker)
+   - Репозиторий: https://github.com/moby/moby
+- Keywhiz
+   - Репозиторий: https://github.com/square/keywhiz
+- Vault Project (не путать с HashiCorp Vault)
+   - Репозиторий: https://github.com/joemccann/dillinger
+- Secrets OPerationS (SOPS)
+   - Репозиторий: https://github.com/mozilla/sops
+- Confidant
+   - Репозиторий: https://github.com/lyft/confidant
+- Vault (by CoreOS)
+   - Репозиторий: https://github.com/coreos/vault
+- Kamus
+   - Репозиторий: https://github.com/Soluto/kamus
+- Chamber
+   - Репозиторий: https://github.com/segmentio/chamber
+
+
 ### Книги
 
 - https://hypermedia.systems/book/contents/
