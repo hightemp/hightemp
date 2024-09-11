@@ -1,5 +1,6 @@
 ## Коллекции
 
+- A delightful list of personal tech blogs https://github.com/jkup/awesome-personal-blogs
 - https://github.com/ParanoidUser/awesome-practices
 - "Project Based Learning" - это репозиторий на GitHub, содержащий подборку обучающих материалов по программированию, которые помогают начинающим разработчикам научиться создавать приложения с нуля, используя различные языки и технологии. https://github.com/practical-tutorials/project-based-learning
 - Проект "Every Programmer Should Know" - это коллекция преимущественно технических ресурсов, которые, по мнению автора, должен знать каждый разработчик программного обеспечения, независимо от уровня навыков или технологического стека. https://github.com/mtdvio/every-programmer-should-know
