@@ -131,6 +131,10 @@
 
 - https://github.com/nvim-lua/kickstart.nvim
 
+## Приложения
+
+- Портативные приложения https://portableapps.com/apps
+
 ## Книги
 
 - https://samypesse.gitbook.io/how-to-create-an-operating-system
