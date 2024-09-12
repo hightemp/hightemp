@@ -98,6 +98,10 @@
 
 - https://www.cursor.com/
 
+### Пересказ
+
+- https://sobrief.com/
+
 ### Смарт-библиотеки
 
 - https://iki.ai/
