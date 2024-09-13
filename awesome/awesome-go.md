@@ -23,6 +23,10 @@
 - https://goplay.space/
 - https://go.dev/play/
 
+### Упражнения
+
+- https://github.com/cblte/100-golang-exercises
+
 ### VIM
 
 - https://github.com/fatih/vim-go
