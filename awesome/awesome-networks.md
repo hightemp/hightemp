@@ -13,6 +13,10 @@
 - Self-hosted ngrok alternative https://docs.ssi.sh/
 - tcp/http self-hosted tunnel https://telebit.cloud/
 
+### VPN
+
+- https://www.vpnbook.com/
+
 ### Полезные ссылки
 
 - https://ntc.party/
