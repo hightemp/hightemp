@@ -27,3 +27,5 @@
 - Ищем альтернативу Ngrok в России https://habr.com/ru/articles/833884/
 - VPN
     - Развёртывание IPsec VPN в Yandex Cloud с помощью шлюза безопасности https://github.com/yandex-cloud-examples/yc-site-to-site-vpn-with-ipsec-strongswan
+- Вирутальные коммутаторы
+    - О настройке Open vSwitch непростым языком https://habr.com/ru/articles/325560/ 
