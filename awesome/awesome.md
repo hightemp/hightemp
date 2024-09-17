@@ -94,6 +94,7 @@
 ## Поиски альтернатив
 
 - https://www.opensourcealternative.to/
+- https://productradar.ru/
 
 ## Сайты с уроками
 
