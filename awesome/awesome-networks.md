@@ -29,3 +29,5 @@
     - Развёртывание IPsec VPN в Yandex Cloud с помощью шлюза безопасности https://github.com/yandex-cloud-examples/yc-site-to-site-vpn-with-ipsec-strongswan
 - Вирутальные коммутаторы
     - О настройке Open vSwitch непростым языком https://habr.com/ru/articles/325560/ 
+- Multicast
+    - Multicast IP Address to MAC address mapping https://networklessons.com/multicast/multicast-ip-address-to-mac-address-mapping
