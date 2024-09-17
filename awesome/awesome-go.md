@@ -28,6 +28,8 @@
 - https://github.com/cblte/100-golang-exercises
 - Проект представляет собой сборник задач по программированию на языке Go, где участники решают различные алгоритмические и практические задачи, реализуя функции, проходя тесты и соревнуясь за наиболее элегантные и эффективные решения. https://github.com/plutov/practice-go
 - https://github.com/bregman-arie/go-exercises
+- https://github.com/inancgumus/learngo
+  - https://github.com/inancgumus/gobyexample
 
 ### VIM
 
