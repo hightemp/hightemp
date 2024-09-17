@@ -324,9 +324,10 @@
 - PDF
   - How To Create a PDF in Go: a Step-by-Step Tutorial https://medium.com/the-godev-corner/how-to-create-a-pdf-in-go-157355429a94
   - Go long by generating PDFs in Golang with Maroto https://dev.to/logrocket/go-long-by-generating-pdfs-in-golang-with-maroto-1g25
+- Компилятор
+  - Statically and Dynamically Linked Go Binaries https://itnext.io/statically-and-dynamically-linked-go-binaries-5a3c0313b3a4
+  - Building static binaries with Go on Linux https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/
 - Описание языка
-  - Компилятор
-    - Statically and Dynamically Linked Go Binaries https://itnext.io/statically-and-dynamically-linked-go-binaries-5a3c0313b3a4
   - Основное
     - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
     - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
@@ -374,8 +375,6 @@
       - Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
       - Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
       - Raft Consensus — leader election with Golang https://medium.com/@govinda.attal/raft-consensus-leader-election-with-golang-89bfdbd471cb
-- Компилятор
-  - Building static binaries with Go on Linux https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/
 - WebAssembly
   - WebAssembly and Go: A Guide to Getting Started (Part 1) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-1/
   - WebAssembly and Go: A Guide to Getting Started (Part 2) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-2/
