@@ -331,6 +331,8 @@
   - Основное
     - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
     - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
+  - Struct
+    - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
   - Внутреннее устройство
     - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
   - Каналы
