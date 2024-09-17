@@ -325,6 +325,8 @@
   - How To Create a PDF in Go: a Step-by-Step Tutorial https://medium.com/the-godev-corner/how-to-create-a-pdf-in-go-157355429a94
   - Go long by generating PDFs in Golang with Maroto https://dev.to/logrocket/go-long-by-generating-pdfs-in-golang-with-maroto-1g25
 - Описание языка
+  - Компилятор
+    - Statically and Dynamically Linked Go Binaries https://itnext.io/statically-and-dynamically-linked-go-binaries-5a3c0313b3a4
   - Основное
     - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
     - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
