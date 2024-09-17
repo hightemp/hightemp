@@ -26,6 +26,7 @@
 ### Упражнения
 
 - https://github.com/cblte/100-golang-exercises
+- https://github.com/plutov/practice-go
 
 ### VIM
 
