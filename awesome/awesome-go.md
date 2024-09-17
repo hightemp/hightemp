@@ -375,6 +375,8 @@
       - Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
       - Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
       - Raft Consensus — leader election with Golang https://medium.com/@govinda.attal/raft-consensus-leader-election-with-golang-89bfdbd471cb
+- Kafka
+  - Connect Kafka with Golang https://dev.to/chauhoangminhnguyen/connect-kafka-with-golang-3h4d
 - WebAssembly
   - WebAssembly and Go: A Guide to Getting Started (Part 1) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-1/
   - WebAssembly and Go: A Guide to Getting Started (Part 2) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-2/
