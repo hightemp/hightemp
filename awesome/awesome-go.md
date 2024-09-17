@@ -332,6 +332,8 @@
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
   - Слайсы
     - Slices in Go: Grow Big or Go Home https://victoriametrics.com/blog/go-slice/index.html
+  - defer
+    - Golang Defer: From Basic To Traps https://victoriametrics.com/blog/defer-in-go/index.html
 - Оптимизация
   - Maps and memory leaks https://100go.co/28-maps-memory-leaks/
   - How to Use Maps Safely in Go https://hackernoon.com/how-to-use-maps-safely-in-go
