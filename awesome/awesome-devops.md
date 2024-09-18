@@ -79,6 +79,10 @@
 
 - https://www.dremio.com/wiki/
 
+### Репозитории
+
+- https://github.com/ClusterLabs/pacemaker
+
 ### Статьи
 
 - VPN
