@@ -69,6 +69,7 @@
     - Nginx Server Security: Nginx Hardening Guide https://beaglesecurity.com/blog/article/nginx-server-security.html
     - Nginx security hardening guide https://linux-audit.com/web/nginx-security-configuration-hardening-guide/
     - Did you Missed Nginx Secure Configuration https://8gwifi.org/docs/nginx-secure.jsp
+    - How to Protect from DDoS Attacks with Nginx https://gcore.com/learning/nginx-for-ddos-protection/
 - pacemaker
     - How to Set Up Nginx High Availability Cluster using Pacemaker on CentOS 7 https://www.rosehosting.com/blog/how-to-set-up-nginx-high-availability-cluster-using-pacemaker-on-centos-7/
     - How to Configure Nginx High Availability Cluster Using Pacemaker on Ubuntu 16.04 https://www.alibabacloud.com/blog/how-to-configure-nginx-high-availability-cluster-using-pacemaker-on-ubuntu-16-04_593708
