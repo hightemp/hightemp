@@ -162,6 +162,15 @@
 - https://bestcode.su/
 - https://tproger.ru/
 
+## Приложения для базы знаний (аналоги Notion)
+
+- self-hosted
+    - https://github.com/toeverything/AFFiNE
+    - https://github.com/siyuan-note/siyuan
+    - https://github.com/outline/outline
+    - https://github.com/docmost/docmost
+    - https://github.com/anyproto/anytype-ts
+
 ## Сервисы
 
 - "Give Me Public" - это ИИ-сервис для автоматизированного ведения каналов в социальных сетях, который самостоятельно создает и публикует контент по заданному расписанию, решая проблему нехватки времени и ресурсов для управления соцсетями. https://productradar.ru/product/give-me-public/
