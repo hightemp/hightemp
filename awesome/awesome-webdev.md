@@ -90,6 +90,7 @@
 - Тестирование
    - Jetbrains http client
       - Convenient API Testing – IntelliJ IDEA’s HTTP Client https://digital.interhyp.de/2022/01/27/convenient-api-testing-intellij-ideas-http-client/
+      - Exploring the HTTP request syntax https://www.jetbrains.com/help/idea/exploring-http-syntax.html#environment-variables
 
 ### Блоги
 
