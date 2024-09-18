@@ -87,6 +87,9 @@
     - 6 Essential Website Performance Optimization Tips to Implement https://storychief.io/blog/website-performance-optimization-tips
     - Настраиваем Windows WSL для локальной разработки Laravel https://habr.com/ru/articles/807859/
     - How HLS Works https://jazco.dev/2024/07/05/hls/
+- Тестирование
+   - Jetbrains http client
+      - Convenient API Testing – IntelliJ IDEA’s HTTP Client https://digital.interhyp.de/2022/01/27/convenient-api-testing-intellij-ideas-http-client/
 
 ### Блоги
 
