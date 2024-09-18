@@ -35,6 +35,7 @@
     - https://github.com/marmelab/react-admin
     - https://github.com/segmentio/evergreen
     - https://github.com/shadcn-ui/ui
+    - https://github.com/radix-ui/themes https://www.radix-ui.com/
 - Формы
     - https://react-hook-form.com/
     - https://github.com/jaredpalmer/formik
