@@ -868,6 +868,7 @@
 ## typescript/javascript/web assembly
 
 - PGlite - это проект, который позволяет запускать PostgreSQL в браузере, Node.js, Bun и Deno с помощью WebAssembly, предоставляя легковесную (3 МБ в сжатом виде) TypeScript-библиотеку с поддержкой многих расширений Postgres, включая pgvector. https://github.com/electric-sql/pglite
+- Проект postgres.new представляет собой интерактивную песочницу PostgreSQL в браузере с поддержкой искусственного интеллекта, позволяющую мгновенно создавать неограниченное количество баз данных, выполнять запросы, импортировать CSV-файлы, генерировать отчеты и диаграммы, а также предоставляющую возможность развертывания в S3. https://github.com/supabase-community/postgres-new
 
 ## javascript
 
