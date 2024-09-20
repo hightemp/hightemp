@@ -253,6 +253,8 @@
       - Building a simple load balancer in Go https://dev.to/vivekalhat/building-a-simple-load-balancer-in-go-70d
     - Файлы
       - Go Tips & Common Mistakes - Go HTTP File Upload and Download https://bytegoblin.io/blog/go-tips-common-mistakes.mdx
+    - Остальное
+      - Golang HTTP server: basics https://medium.com/@bartosz.piekny/golang-http-server-basics-6936ddab7474
   - Работа с траффиком
     - pcap
       - Capture traffic with Golang https://dev.to/aohorodnyk/capture-traffic-with-golang-2nmo
@@ -391,6 +393,8 @@
   - WebAssembly and Go: A Guide to Getting Started (Part 1) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-1/
   - WebAssembly and Go: A Guide to Getting Started (Part 2) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-2/
   - Running WebAssembly code in Go https://dev.to/eminetto/running-webassembly-code-in-go-35k9
+- Мониторинг
+  - Monitoring the Golang App with Prometheus, Grafana, New Relic and Sentry https://medium.com/@mertcakmak2/monitoring-the-golang-app-with-prometheus-grafana-new-relic-and-sentry-fce1ca6980b5
 - Остальное
   - Quick Sort in Go https://thedevelopercafe.com/articles/quick-sort-in-go-1c4ef4b5
   - Write a time-series database engine from scratch https://nakabonne.dev/posts/write-tsdb-from-scratch/
