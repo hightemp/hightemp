@@ -24,6 +24,7 @@
 
 #### Текущие
 
+- [hyper-markdown](https://github.com/hightemp/hyper-markdown)⭐ - **ts/js** расширение для vscode дающее возможность просматривать markdown в редакторе, с возможностью вставки html(с конвертацией в markdown) из буфера обмена
 - [http_ssh_proxy](https://github.com/hightemp/http_ssh_proxy) - **golang** простой http прокси перенаправляющий траффик через ssh туннель и yaml конфигом
 - [https_proxy](https://github.com/hightemp/https_proxy) - **golang** https прокси с авторизацией и yaml конфигом
 - [files_backuper](https://github.com/hightemp/files_backuper)⭐ - **golang** инструмент для бэкапа файлов с разных серверов, так же есть возможность отслеживать изменения в файлах
