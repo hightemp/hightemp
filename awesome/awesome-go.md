@@ -560,6 +560,7 @@
 
 ### Видео
 
+- Go Clean Template | Чистая Архитектура и как её готовить, Михаил Непряхин https://www.youtube.com/watch?v=V6lQG6d5LgU
 - nextjs 14, Go, Docker: Build a fullstack rest API in TypeScript and Go https://www.youtube.com/watch?v=429-r55KFmM
 - Golang 100 вопросов с собеседований. Подготовка Go разработчика Часть 1 https://www.youtube.com/watch?v=ZvaD-G5_3vQ
 - Golang Tutorial for Beginners | Full Go Course https://www.youtube.com/watch?v=yyUHQIec83I
