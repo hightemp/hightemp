@@ -290,6 +290,7 @@
 - Лучшие практики
   - Go best practices, six years in https://peter.bourgon.org/go-best-practices-2016/?ref=refind
   - Применения Continuation-passing style в Go https://habr.com/ru/articles/836702/
+  - Практические советы по устранению утечек памяти в Go https://habr.com/ru/articles/724402/
 - Таймеры
   - Resetting timers in Go https://antonz.org/timer-reset/
 - Отладка
