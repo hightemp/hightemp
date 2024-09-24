@@ -282,6 +282,9 @@
 - API
   - Откажитесь уже наконец от gin, echo и <иной ваш фреймворк> https://habr.com/ru/companies/ozonbank/articles/817381/
 - Фреймворки
+  - Fiber
+    - Остальное
+      - HTTP-серверы на Fiber в Golang https://habr.com/ru/companies/otus/articles/841194/
   - Echo
     - REST API
       - Golang CRUD REST API with Echo https://blog.stackademic.com/golang-crud-rest-api-with-echo-a1599b35fe4f
