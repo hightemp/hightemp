@@ -190,6 +190,10 @@
 
 - Go Concurrency Guide https://github.com/luk4z7/go-concurrency-guide
 
+### Шпаргалки
+
+- https://quickref.me/go
+
 ### Книги
 
 - Архивы книг
