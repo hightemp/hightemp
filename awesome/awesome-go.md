@@ -360,6 +360,8 @@
     - How Go Arrays Work and Get Tricky with For-Range https://victoriametrics.com/blog/go-array/index.html
   - Waitgroup
     - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
+  - JSON
+    - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
 - Оптимизация
   - Maps and memory leaks https://100go.co/28-maps-memory-leaks/
   - How to Use Maps Safely in Go https://hackernoon.com/how-to-use-maps-safely-in-go
