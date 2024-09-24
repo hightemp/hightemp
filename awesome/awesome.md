@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/ashishps1/awesome-low-level-design
 - Software Engineering Blogs https://github.com/kilimchoi/engineering-blogs
 - A delightful list of personal tech blogs https://github.com/jkup/awesome-personal-blogs
 - https://github.com/ParanoidUser/awesome-practices
