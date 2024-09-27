@@ -196,6 +196,7 @@
 - Аналог figma https://pixso.net
 - Anna's Archive org https://annas-archive.gs
 - Темы для bootstrap https://bootswatch.com/
+- Шпора по разным языкам пр., linux https://overapi.com/
 
 ## Статьи
 
