@@ -198,6 +198,7 @@
 - Темы для bootstrap https://bootswatch.com/
 - Аналог Notion https://yonote.ru
 - Шпора по разным языкам пр., linux https://overapi.com/
+- Master Any Topic 2x Faster with AI-powered Learning Tools https://overapi.com/
 
 ## Статьи
 
