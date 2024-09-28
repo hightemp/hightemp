@@ -1,4 +1,3 @@
-
 ### Коллекции
 
 - https://vimawesome.com/
@@ -22,6 +21,11 @@
 - Using VIM for React, Rails & Node development https://byteable.medium.com/using-vim-for-react-rails-node-development-80cc27bdd80b
 - My Neovim setup for React, TypeScript, Tailwind CSS, etc https://medium.com/prodhacker/my-neovim-setup-for-react-typescript-tailwind-css-etc-in-2022-a7405862c9a4
 
+### Полезные ссылки
+
+- Practical Vim, Second Edition https://pragprog.com/titles/dnvim2/practical-vim-second-edition/
+  - Practical Vim: Edit Text at the Speed of Thought (2015) https://vk.com/wall-54530371_246047
+  
 ### Видео
 
 - Neovim настройка | Плагины | LazyVim https://www.youtube.com/watch?v=MS9ZAQTMpKg
