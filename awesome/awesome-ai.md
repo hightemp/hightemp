@@ -95,6 +95,10 @@
 - android
     - chatgpt неофиц. клиент https://github.com/skydoves/chatgpt-android/releases
 
+### Приложения
+
+- https://chatboxai.app/en
+
 ### ai-редакторы
 
 - https://www.cursor.com/
