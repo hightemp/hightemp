@@ -164,6 +164,8 @@
 - Фреймворки
   - Axum
     - Axum Framework: The Ultimate Guide (2023) https://masteringbackend.com/posts/axum-framework
+- Хэши
+  - What’s So Hard About Hashing Data? https://www.dfns.co/article/unambiguous-hashing
 - Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
 - Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
 - How much does Rust's bounds checking actually cost? https://readyset.io/blog/bounds-checks?ref=refind
