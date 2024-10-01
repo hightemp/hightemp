@@ -69,6 +69,7 @@
 - 100 Exercises To Learn Rust https://rust-exercises.com/
 - Starship — это минималистичная, невероятно быстрая и бесконечно настраиваемая командная строка для любых оболочек и операционных систем, показывающая актуальную информацию одним взглядом и поддерживающая множество инструментов. https://starship.rs/ https://github.com/starship/starship
 - Let's Get Rusty Learning Guide https://learn.letsgetrusty.com/further-learning/systems-programming-in-rust.html
+- Индекс ошибок https://doc.rust-lang.org/error_codes/error-index.html
 
 ### Книги
 
