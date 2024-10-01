@@ -167,16 +167,17 @@
     - Axum Framework: The Ultimate Guide (2023) https://masteringbackend.com/posts/axum-framework
 - Хэши
   - What’s So Hard About Hashing Data? https://www.dfns.co/article/unambiguous-hashing
-- Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
-- Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
-- How much does Rust's bounds checking actually cost? https://readyset.io/blog/bounds-checks?ref=refind
-- Hard Mode Rust https://matklad.github.io/2022/10/06/hard-mode-rust.html?ref=refind
-- Almost Rules https://matklad.github.io/2022/07/10/almost-rules.html?ref=refind
-- Implementing truly safe semaphores in rust https://neosmart.net/blog/implementing-truly-safe-semaphores-in-rust/?ref=refind
-- Async in depth https://tokio.rs/tokio/tutorial/async
-- Getting Started with Async Rust https://medium.com/@kinxyo/getting-started-with-async-rust-420f5828ccec
-- Программируем микроконтроллер STM32 на Rust https://habr.com/ru/companies/piter/articles/833344/
-- Implementing Distributed Locks (Mutex and Semaphore) with Databases https://shahbhat.medium.com/implementing-distributed-locks-mutex-and-semaphore-with-databases-b02545cef47a
+- Остальное
+  - Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
+  - Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
+  - How much does Rust's bounds checking actually cost? https://readyset.io/blog/bounds-checks?ref=refind
+  - Hard Mode Rust https://matklad.github.io/2022/10/06/hard-mode-rust.html?ref=refind
+  - Almost Rules https://matklad.github.io/2022/07/10/almost-rules.html?ref=refind
+  - Implementing truly safe semaphores in rust https://neosmart.net/blog/implementing-truly-safe-semaphores-in-rust/?ref=refind
+  - Async in depth https://tokio.rs/tokio/tutorial/async
+  - Getting Started with Async Rust https://medium.com/@kinxyo/getting-started-with-async-rust-420f5828ccec
+  - Программируем микроконтроллер STM32 на Rust https://habr.com/ru/companies/piter/articles/833344/
+  - Implementing Distributed Locks (Mutex and Semaphore) with Databases https://shahbhat.medium.com/implementing-distributed-locks-mutex-and-semaphore-with-databases-b02545cef47a
 
 ### GUI frameworks
 
