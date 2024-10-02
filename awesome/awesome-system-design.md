@@ -5,6 +5,7 @@
 - https://github.com/madd86/awesome-system-design
 - https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
 - https://github.com/javabuddy/best-system-design-resources
+- Этот проект представляет собой репозиторий, содержащий информацию и ресурсы по системным паттернам проектирования, распределенным системам, микросервисам и масштабируемости, а также ссылки на другие полезные репозитории автора по темам разработки программного обеспечения. https://github.com/Sairyss/system-design-patterns
 
 ### Мануалы
 
