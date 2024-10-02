@@ -20,6 +20,7 @@
 - Modern TypeScript and React Development in Vim https://thoughtbot.com/blog/modern-typescript-and-react-development-in-vim
 - Using VIM for React, Rails & Node development https://byteable.medium.com/using-vim-for-react-rails-node-development-80cc27bdd80b
 - My Neovim setup for React, TypeScript, Tailwind CSS, etc https://medium.com/prodhacker/my-neovim-setup-for-react-typescript-tailwind-css-etc-in-2022-a7405862c9a4
+- The Best of My Neovim Config 2024 https://andrewcourter.substack.com/p/the-best-of-my-neovim-config-2024
 
 ### Полезные ссылки
 
