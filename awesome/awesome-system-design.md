@@ -6,6 +6,7 @@
 - https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
 - https://github.com/javabuddy/best-system-design-resources
 - Этот проект представляет собой репозиторий, содержащий информацию и ресурсы по системным паттернам проектирования, распределенным системам, микросервисам и масштабируемости, а также ссылки на другие полезные репозитории автора по темам разработки программного обеспечения. https://github.com/Sairyss/system-design-patterns
+- "Front End System Design Guidebook" - это тщательно отобранный сборник ценных ресурсов по проектированию фронтенд-систем, предназначенный как для подготовки к собеседованиям, так и для общего обучения в области, где подобные материалы встречаются редко. https://github.com/greatfrontend/awesome-front-end-system-design
 
 ### Мануалы
 
