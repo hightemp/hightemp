@@ -26,6 +26,7 @@
 
 - Practical Vim, Second Edition https://pragprog.com/titles/dnvim2/practical-vim-second-edition/
   - Practical Vim: Edit Text at the Speed of Thought (2015) https://vk.com/wall-54530371_246047
+- Утилита для установки Nerd Fonts https://github.com/getnf/getnf
   
 ### Видео
 
