@@ -148,6 +148,7 @@
   - Практическое руководство по Rust. 2/4 https://habr.com/ru/companies/timeweb/articles/794941/
   - Практическое руководство по Rust. 3/4 https://habr.com/ru/companies/timeweb/articles/796567/
   - Rust basics, from the perspective of a high level programmer https://danbulant.eu/posts/rust-basics?ref=refind
+  - Большая шпаргалка по Rust. 1/2 https://habr.com/ru/companies/timeweb/articles/785096/
   - Большая шпаргалка по Rust. 2/2 https://habr.com/ru/companies/timeweb/articles/787924/
 - WASM
   - Improving performance with React, WASM & Rust https://medium.com/@davidkelley87/improving-performance-with-react-wasm-rust-4c70f027b2c8
