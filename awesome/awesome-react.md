@@ -109,3 +109,5 @@
     - How to Build Forms in React https://www.freecodecamp.org/news/how-to-build-forms-in-react/
 - Коллекции
     - Top 20 React Component Libraries You Need to Explore https://medium.com/@Choco23/top-20-react-component-libraries-you-need-to-explore-f1293c424068
+- Остальное
+    - Что нового в React 19 https://habr.com/ru/companies/timeweb/articles/843016/
