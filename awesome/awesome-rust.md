@@ -77,6 +77,7 @@
 
 ### Книги
 
+- Руководство по rust https://my-js.org/docs/guide/rust/
 - Rust на примерах https://doc.rust-lang.ru/stable/rust-by-example/
 - Учебник на русском https://doc.rust-lang.ru/book/ch01-02-hello-world.html
 - Rust Web Programming Maxwell Flitton, 2023 https://t.me/code_storage/755
@@ -89,7 +90,6 @@
 - Rust in action https://www.rustinaction.com/
   - https://www.cb-india.com/index.php?dispatch=attachments.getfile&attachment_id=1575&__cf_chl_tk=XlB75x5iXEvL01vfWGp1YEXf0qY51ZZFQYIyB66wLfo-1724923057-0.0.1.1-4926
 - The Embedded Rust Book https://doc.rust-lang.org/stable/embedded-book/start/index.html
-- Руководство по rust https://my-js.org/docs/guide/rust/
 
 ### Шпаргалки
 
