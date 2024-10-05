@@ -1,0 +1,2 @@
+### Решатели капчи
+- Проект "Puppeteer Recaptcha Solver" представляет собой расширенный инструмент для автоматического решения различных типов капчи, включая reCAPTCHA V2, reCAPTCHA V3, hCaptcha, FunCaptcha, DataDome, AWS Captcha, Geetest, Cloudflare Captcha/Challenge 5s, Imperva/Incapsula и другие, с помощью искусственного интеллекта и интеграции с браузерами через специальное API. https://github.com/danielgatis/puppeteer-recaptcha-solver
