@@ -29,6 +29,7 @@
 - VPN
     - Развёртывание IPsec VPN в Yandex Cloud с помощью шлюза безопасности https://github.com/yandex-cloud-examples/yc-site-to-site-vpn-with-ipsec-strongswan
     - Поднимаем OpenConnect SSL VPN сервер (ocserv) в docker для внутренних проектов https://dzen.ru/a/ZjP3xxLRw0ucW3dh
+    - OpenConnect: недетектируемый VPN, который вам понравится https://habr.com/ru/articles/776256/
 - Вирутальные коммутаторы
     - О настройке Open vSwitch непростым языком https://habr.com/ru/articles/325560/ 
 - Multicast
