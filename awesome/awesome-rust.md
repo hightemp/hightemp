@@ -174,6 +174,8 @@
     - Axum Framework: The Ultimate Guide (2023) https://masteringbackend.com/posts/axum-framework
 - Хэши
   - What’s So Hard About Hashing Data? https://www.dfns.co/article/unambiguous-hashing
+- Примеры приложений
+  - A Basic Algo Trading System In Rust: Part I https://medium.com/rustaceans/a-basic-algo-trading-system-in-rust-26a1c5488d47
 - Остальное
   - Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
   - Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
