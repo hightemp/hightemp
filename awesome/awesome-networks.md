@@ -21,6 +21,7 @@
 
 - Форум про сетевые технологии https://ntc.party/
 - GoodbyeDPI — это утилита для обхода систем глубокой проверки пакетов (DPI), которая позволяет пользователям Windows получить доступ к заблокированным веб-сайтам, обходя блокировки, установленные интернет-провайдерами. https://github.com/ValdikSS/GoodbyeDPI
+- Global Ping Statistics https://wondernetwork.com/pings
 
 ### Статьи
 
