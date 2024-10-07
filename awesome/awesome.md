@@ -183,6 +183,11 @@
 - https://booktracker.org/
 - https://onticolist.ru/
 
+## Изучение языков
+
+- Английский
+    - https://makeheadway.com/
+
 ## Инструменты
 
 - https://onlineyamltools.com/
