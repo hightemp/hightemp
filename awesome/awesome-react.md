@@ -40,6 +40,8 @@
     - https://react-hook-form.com/
     - https://github.com/jaredpalmer/formik
 - Таблицы
+    - https://github.com/TanStack/table/tree/main Демо: https://tanstack.com/table/v8/docs/framework/react/examples/custom-features
+    - https://github.com/KevinVandy/mantine-react-table Built with Mantine V7 and TanStack Table Демо: https://www.mantine-react-table.com/docs/examples/basic
     - https://github.com/adazzle/react-data-grid Демо: https://adazzle.github.io/react-data-grid/#/CommonFeatures
     - https://github.com/AllenFang/react-bootstrap-table
     - https://github.com/silevis/reactgrid
