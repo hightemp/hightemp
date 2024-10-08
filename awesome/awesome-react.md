@@ -43,6 +43,7 @@
     - https://github.com/TanStack/table/tree/main Демо: https://tanstack.com/table/v8/docs/framework/react/examples/custom-features
     - https://github.com/KevinVandy/mantine-react-table Built with Mantine V7 and TanStack Table. Демо: https://www.mantine-react-table.com/docs/examples/basic
     - https://github.com/adazzle/react-data-grid Демо: https://adazzle.github.io/react-data-grid/#/CommonFeatures
+    - https://github.com/react-bootstrap-table/react-bootstrap-table2 Демо: https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html
     - https://github.com/AllenFang/react-bootstrap-table
     - https://github.com/silevis/reactgrid
     - https://react-data-table-component.netlify.app/ https://github.com/jbetancur/react-data-table-component
