@@ -40,7 +40,7 @@
     - https://react-hook-form.com/
     - https://github.com/jaredpalmer/formik
 - Таблицы
-    - https://github.com/adazzle/react-data-grid
+    - https://github.com/adazzle/react-data-grid демо: https://adazzle.github.io/react-data-grid/#/CommonFeatures
     - https://github.com/AllenFang/react-bootstrap-table
     - https://github.com/silevis/reactgrid
     - https://react-data-table-component.netlify.app/ https://github.com/jbetancur/react-data-table-component
