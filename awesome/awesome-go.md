@@ -416,6 +416,7 @@
 - Мониторинг
   - Monitoring the Golang App with Prometheus, Grafana, New Relic and Sentry https://medium.com/@mertcakmak2/monitoring-the-golang-app-with-prometheus-grafana-new-relic-and-sentry-fce1ca6980b5
 - Остальное
+  - Parsing Protobuf Definitions with Tree-sitter https://relistan.com/parsing-protobuf-files-with-treesitter
   - Quick Sort in Go https://thedevelopercafe.com/articles/quick-sort-in-go-1c4ef4b5
   - Write a time-series database engine from scratch https://nakabonne.dev/posts/write-tsdb-from-scratch/
   - Software Transactional Memory: a stairway to lock-free programming heaven? https://medium.com/@talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-9ca1f4dce23f
