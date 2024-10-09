@@ -100,3 +100,4 @@
 ### Блоги
 
 - https://brooker.co.za/blog/
+- https://clement-jean.github.io/
