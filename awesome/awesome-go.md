@@ -276,6 +276,9 @@
 - Сеть
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
+  - HTTP
+    - HTTP/0.9 From Scratch https://kmcd.dev/posts/http0.9-from-scratch/
+    - HTTP/1.0 From Scratch https://kmcd.dev/posts/http1.0-from-scratch/
   - DNS
     - Building a DNS Resolver in Golang: A Step-by-Step Guide https://harshagarwal29.hashnode.dev/building-a-dns-resolver-in-golang-a-step-by-step-guide
   - Proxy, Прокси
