@@ -86,6 +86,8 @@
     - The power of two random choices https://brooker.co.za/blog/2012/01/17/two-random.html
 - Базы данных
     - Gotchas with SQLite in Production https://blog.pecar.me/sqlite-prod
+- WebAssembly
+   - How we sped up Notion in the browser with WASM SQLite https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite
 - Остальное
     - 6 Essential Website Performance Optimization Tips to Implement https://storychief.io/blog/website-performance-optimization-tips
     - Настраиваем Windows WSL для локальной разработки Laravel https://habr.com/ru/articles/807859/
