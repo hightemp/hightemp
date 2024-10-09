@@ -570,6 +570,7 @@
 - https://www.freecodecamp.org/news/tag/golang/
 - https://thedevelopercafe.com/?category=go
 - https://www.dolthub.com/blog/
+- https://kmcd.dev/tags/golang/
 
 ### Подкасты
 
