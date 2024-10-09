@@ -195,6 +195,7 @@
 ### Шпаргалки
 
 - https://quickref.me/go
+- Go features by version https://antonz.org/which-go/
 
 ### Книги
 

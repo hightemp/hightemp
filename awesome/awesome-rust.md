@@ -94,7 +94,6 @@
 ### Шпаргалки
 
 - https://my-js.org/docs/cheatsheet/rust/
-- Go features by version https://antonz.org/which-go/
 
 ### Курсы
 
