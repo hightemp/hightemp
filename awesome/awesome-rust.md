@@ -130,6 +130,7 @@
 - https://morestina.net/blog/
 - https://www.freecodecamp.org/news/tag/rust/
 - https://blog.orhun.dev/
+- https://blog.sylver.dev/?source=top_nav_blog_home
 
 ### Видео
 
