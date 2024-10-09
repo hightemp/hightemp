@@ -178,6 +178,7 @@
 - Примеры приложений
   - A Basic Algo Trading System In Rust: Part I https://medium.com/rustaceans/a-basic-algo-trading-system-in-rust-26a1c5488d47
   - Build your own SQLite, Part 1: Listing tables https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables
+  - Build your own SQLite, Part 2: Scanning large tables https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables
 - Остальное
   - Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
   - Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
