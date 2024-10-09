@@ -103,6 +103,10 @@
 
 - https://aws.amazon.com/ru/q/developer/
 
+### Ассистенты для консоли
+
+- https://github.com/ErikBjare/gptme
+
 ### ai-редакторы
 
 - https://www.cursor.com/
