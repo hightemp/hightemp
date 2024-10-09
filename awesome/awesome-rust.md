@@ -180,6 +180,7 @@
   - Build your own SQLite, Part 1: Listing tables https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables
   - Build your own SQLite, Part 2: Scanning large tables https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables
 - Остальное
+  - Rust - Implementing WebSocket https://www.thespatula.io/rust/rust_websocket/
   - Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
   - Single Rust Binary with Vite+Svelte https://fdeantoni.medium.com/single-rust-binary-with-vite-svelte-66944f9ac561
   - How much does Rust's bounds checking actually cost? https://readyset.io/blog/bounds-checks?ref=refind
