@@ -218,6 +218,27 @@
 
 ### Статьи
 
+- Описание языка
+  - Основное
+    - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
+    - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
+    - Go range iterators demystified https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/
+  - Struct
+    - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
+  - Внутреннее устройство
+    - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
+  - Каналы
+    - Анатомия каналов в Go https://habr.com/ru/articles/490336/
+  - Слайсы
+    - Slices in Go: Grow Big or Go Home https://victoriametrics.com/blog/go-slice/index.html
+  - Defer
+    - Golang Defer: From Basic To Traps https://victoriametrics.com/blog/defer-in-go/index.html
+  - Массивы
+    - How Go Arrays Work and Get Tricky with For-Range https://victoriametrics.com/blog/go-array/index.html
+  - Waitgroup
+    - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
+  - JSON
+    - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
 - vim, nvim
   - My NeoVim Go(lang) setup — As good as Intellj/Goland IDE https://medium.com/@suyash10581108/my-neovim-go-lang-setup-as-good-as-intellj-goland-ide-d48dd765f6de
   - Configure Neovim for Golang https://andrewcourter.substack.com/p/configure-neovim-for-golang
@@ -350,27 +371,6 @@
 - Компилятор
   - Statically and Dynamically Linked Go Binaries https://itnext.io/statically-and-dynamically-linked-go-binaries-5a3c0313b3a4
   - Building static binaries with Go on Linux https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/
-- Описание языка
-  - Основное
-    - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
-    - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
-    - Go range iterators demystified https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/
-  - Struct
-    - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
-  - Внутреннее устройство
-    - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
-  - Каналы
-    - Анатомия каналов в Go https://habr.com/ru/articles/490336/
-  - Слайсы
-    - Slices in Go: Grow Big or Go Home https://victoriametrics.com/blog/go-slice/index.html
-  - Defer
-    - Golang Defer: From Basic To Traps https://victoriametrics.com/blog/defer-in-go/index.html
-  - Массивы
-    - How Go Arrays Work and Get Tricky with For-Range https://victoriametrics.com/blog/go-array/index.html
-  - Waitgroup
-    - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
-  - JSON
-    - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
 - Оптимизация
   - Maps and memory leaks https://100go.co/28-maps-memory-leaks/
   - How to Use Maps Safely in Go https://hackernoon.com/how-to-use-maps-safely-in-go
