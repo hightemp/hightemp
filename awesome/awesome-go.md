@@ -354,6 +354,7 @@
   - Основное
     - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
     - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
+    - Go range iterators demystified https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/
   - Struct
     - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
   - Внутреннее устройство
@@ -556,6 +557,7 @@
 - https://bytegoblin.io/?tag=GOLANG
 - https://www.freecodecamp.org/news/tag/golang/
 - https://thedevelopercafe.com/?category=go
+- https://www.dolthub.com/blog/
 
 ### Подкасты
 
