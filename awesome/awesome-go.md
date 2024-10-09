@@ -272,6 +272,7 @@
   - Let’s Build a Movie API With Separated Layered Architecture Using Go https://betterprogramming.pub/lets-build-a-movie-api-with-clean-architecture-ef1f555b563d
   - Go and Gin - Building a Task Manager REST API https://bytegoblin.io/blog/mastering-rest-apis-with-the-go-gin-framework.mdx
   - Deep Dive into Go: Crafting a CRUD RESTful API Without Frameworks https://medium.com/@bensatriya3/deep-dive-into-go-crafting-a-crud-restful-api-without-frameworks-920cd6eab3be
+  - Build Your Own SMTP Server in Go https://valyent.substack.com/p/build-your-own-smtp-server-in-go
 - Сеть
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
