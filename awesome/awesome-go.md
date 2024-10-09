@@ -371,6 +371,7 @@
     - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
     - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
     - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/
+    - Safeguarding changes using the plan-execute pattern https://tn1ck.com/blog/update-plans
   - Остальное
     - Definitive Guide to Software Architecture with Golang https://masteringbackend.com/posts/software-architecture-with-golang
     - Structuring your Golang app: Flat structure vs. layered architecture https://blog.logrocket.com/flat-structure-vs-layered-architecture-structuring-your-go-app/

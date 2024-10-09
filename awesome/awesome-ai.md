@@ -99,6 +99,10 @@
 
 - https://chatboxai.app/en
 
+### Ассистенты для кода
+
+- https://aws.amazon.com/ru/q/developer/
+
 ### ai-редакторы
 
 - https://www.cursor.com/
