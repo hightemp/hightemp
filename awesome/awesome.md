@@ -191,6 +191,8 @@
 
 - Английский
     - https://makeheadway.com/
+    - https://www.ef.com/wwen/english-resources/english-idioms/
+    - https://www.cambridge.es/en/catalogue/grammar-vocabulary-and-pronunciation/vocabulary/english-idioms-in-use-second-edition
 
 ## Инструменты
 
