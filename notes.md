@@ -327,6 +327,7 @@ sudo apt install libglm-dev
   - https://gitee.com/
 - Россия
   - https://gitflic.ru/
+  - https://gitverse.ru/home/
   - https://hub.mos.ru/users/sign_in
 - Остальное
   - https://gitgud.io
