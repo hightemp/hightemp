@@ -24,7 +24,7 @@
 
 - OpenLane - это автоматизированный поток от RTL до GDSII, работающий на основе нескольких компонентов, включая OpenROAD, Yosys, Magic, Netgen, CVC, SPEF-Extractor, KLayout и ряда пользовательских скриптов для исследования и оптимизации проектирования. https://github.com/The-OpenROAD-Project/OpenLane
 
-### Эмуляторы
+### Симулятор
 
 - https://lushprojects.com/circuitjs/circuitjs.html
 
