@@ -24,6 +24,10 @@
 
 - OpenLane - это автоматизированный поток от RTL до GDSII, работающий на основе нескольких компонентов, включая OpenROAD, Yosys, Magic, Netgen, CVC, SPEF-Extractor, KLayout и ряда пользовательских скриптов для исследования и оптимизации проектирования. https://github.com/The-OpenROAD-Project/OpenLane
 
+### Эмуляторы
+
+- https://lushprojects.com/circuitjs/circuitjs.html
+
 ### Видео
 
 - Learn how to design your own computer chips! The Zero to ASIC course covers everything you need to design your own chip using the open source tools. You can even get it manufactured into a real chip! https://www.youtube.com/@ZeroToASICcourse
