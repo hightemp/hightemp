@@ -326,6 +326,8 @@
   - Mastering io.Pipe in Go https://bytegoblin.io/blog/mastering-io-pipe-in-go
 - API
   - Откажитесь уже наконец от gin, echo и <иной ваш фреймворк> https://habr.com/ru/companies/ozonbank/articles/817381/
+- OpenAPI
+  - Parsing OpenAPI files using go https://quobix.com/articles/parsing-openapi-using-go/
 - Фреймворки
   - Fiber
     - Остальное
