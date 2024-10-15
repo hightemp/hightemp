@@ -82,16 +82,17 @@
 ### Статьи
 
 - Балансировщики
-    - Введение в современную сетевую балансировку и проксирование https://habr.com/ru/companies/vk/articles/347026/
-    - The power of two random choices https://brooker.co.za/blog/2012/01/17/two-random.html
+   - Введение в современную сетевую балансировку и проксирование https://habr.com/ru/companies/vk/articles/347026/
+   - The power of two random choices https://brooker.co.za/blog/2012/01/17/two-random.html
 - Базы данных
-    - Gotchas with SQLite in Production https://blog.pecar.me/sqlite-prod
+   - Gotchas with SQLite in Production https://blog.pecar.me/sqlite-prod
 - WebAssembly
    - How we sped up Notion in the browser with WASM SQLite https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite
 - Остальное
-    - 6 Essential Website Performance Optimization Tips to Implement https://storychief.io/blog/website-performance-optimization-tips
-    - Настраиваем Windows WSL для локальной разработки Laravel https://habr.com/ru/articles/807859/
-    - How HLS Works https://jazco.dev/2024/07/05/hls/
+   - Data Replication Design Spectrum (В статье рассматривается спектр алгоритмов репликации данных, коассифицированных в зависимости от того, как они справляются со сбоями реплик — от репликации без участия лидера на основе кворума до репликации на основе реконфигурации и консенсуса с участием лидера.) https://transactional.blog/blog/2024-data-replication-design-spectrum
+   - 6 Essential Website Performance Optimization Tips to Implement https://storychief.io/blog/website-performance-optimization-tips
+   - Настраиваем Windows WSL для локальной разработки Laravel https://habr.com/ru/articles/807859/
+   - How HLS Works https://jazco.dev/2024/07/05/hls/
 - Тестирование
    - Jetbrains http client
       - Convenient API Testing – IntelliJ IDEA’s HTTP Client https://digital.interhyp.de/2022/01/27/convenient-api-testing-intellij-ideas-http-client/
