@@ -310,6 +310,10 @@
 - Clash Verge — это Clash Meta GUI, основанный на Tauri, представляющий собой продолжение проекта Clash Verge, обладающий улучшенным интерфейсом, возможностью управления профилями и темами оформления, а также поддержкой ядра Clash Meta; проект предоставляет инструкции по установке и поддерживает операционные системы Windows (x64/x86), Linux (x64/arm64) и macOS 10.15+ (intel/apple). https://github.com/clash-verge-rev/clash-verge-rev
 - Wealthfolio - это красивое и простое приложение для отслеживания инвестиций с локальным хранением данных, без подписок и облачных сервисов, разработанное с использованием современных технологий, включая React, Tailwind CSS и Tauri. https://github.com/afadil/wealthfolio
 
+## rust/solidjs/tauri
+
+- dwata - это приватное приложение с открытым исходным кодом, использующее ИИ для организации, поиска и анализа ваших электронных писем, файлов, календарей и контактов, работающее локально на вашем компьютере без отправки данных куда-либо. https://github.com/pixlie/dwata
+
 ## rust/javascript/tauri
 
 - Bookee is a simple app to store your bookmarks. It's written in React with Tauri. https://github.com/Alphinux/Bookee
