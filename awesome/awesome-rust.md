@@ -183,6 +183,7 @@
   - Build your own SQLite, Part 2: Scanning large tables https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables
 - Остальное
   - Crafting Interpreters with Rust: On Garbage Collection https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/
+  - A Tour of Safe Tracing GC Designs in Rust https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
   - Learning Rust: Bare Threading https://levelup.gitconnected.com/learning-rust-bare-threading-1defb65038c9
   - Rust - Implementing WebSocket https://www.thespatula.io/rust/rust_websocket/
   - Non-lexical lifetimes (NLL) fully stable https://blog.rust-lang.org/2022/08/05/nll-by-default.html
