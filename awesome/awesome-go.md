@@ -262,6 +262,7 @@
   - go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
   - Terminating Elegantly: A Guide to Graceful Shutdowns https://itnext.io/terminating-elegantly-a-guide-to-graceful-shutdowns-e0dcd9940f4b
 - Пример создания приложения или сервиса
+  - Escape JavaScript hell and write everything in Go https://oblivion.keyruu.de/Web-Development/Everything-in-Go
   - Golang Project with Kafka, MongoDB, Using Hexagonal Architecture https://medium.com/@mike_polo/creating-a-golang-project-with-kafka-mongodb-using-hexagonal-architecture-e4bd54d12347
   - Learn the Basics of Go by Building a Full Stack Web App with React and Go https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/
   - How I write HTTP services in Go after 13 years https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/
