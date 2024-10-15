@@ -153,6 +153,7 @@
   - Rust basics, from the perspective of a high level programmer https://danbulant.eu/posts/rust-basics?ref=refind
   - Большая шпаргалка по Rust. 1/2 https://habr.com/ru/companies/timeweb/articles/785096/
   - Большая шпаргалка по Rust. 2/2 https://habr.com/ru/companies/timeweb/articles/787924/
+  - Effective substring in Rust https://letmutex.com/article/effective-substring-in-rust
 - WASM
   - Improving performance with React, WASM & Rust https://medium.com/@davidkelley87/improving-performance-with-react-wasm-rust-4c70f027b2c8
 - Оптимизация
