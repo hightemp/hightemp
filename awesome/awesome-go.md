@@ -616,6 +616,7 @@
 - Golang / Go Crash Course 03 | Implementing Clean Architecture principles in our REST API https://www.youtube.com/watch?v=Yg_ae0UvCv4
 - dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture https://www.youtube.com/watch?v=vKbVrsMnhDc
 - Configure Golang in Neovim https://www.youtube.com/watch?v=EgwiPok2nbU
+- Буквально 4 минуты про гуся. Goose - тулза для миграций на #golang https://www.youtube.com/watch?v=tyDan_pFUHE
 
 ### Сайты со статьями
 
