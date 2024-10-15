@@ -220,6 +220,7 @@
 - Go Optimizations 101 https://go101.org/optimizations/101.html
 - Writing A Compiler In Go https://compilerbook.com/
 - Go from the beginning https://github.com/softchris/golang-book/
+- Common Go Mistakes https://100go.co/
 
 ### Статьи
 
