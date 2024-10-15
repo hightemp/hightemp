@@ -159,6 +159,7 @@
   - On Maximizing Your Rust Code's Performance https://jbecker.dev/research/on-writing-performant-rust
   - Web Apps with Rust: Enhancing App Performance Through Optimization https://bitskingdom.com/blog/web-apps-rust-performance-optimization/
   - Achieving warp speed with Rust https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1
+  - How-to compile rust faster https://blog.rust.careers/post/compile_rust_faster/
 - Системное программирование
   - SYSTEMS PROGRAMMING WITH RUST https://www.rozmichelle.com/systems-programming-with-rust/
   - Rust Kernel Programming https://coderjoshdk.github.io/posts/Rust-Kernel-Programming.html
