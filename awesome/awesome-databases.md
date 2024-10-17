@@ -6,6 +6,10 @@
 
 - DBOS - это серверлесс-платформа, которая радикально упрощает разработку бэкенда, позволяя создавать приложения в 10 раз быстрее и масштабировать их до миллионов пользователей одним кликом. https://www.dbos.dev/  https://github.com/dbos-inc/
 
+### Гайды
+
+- MySQL 8.0. Полное руководство https://www.rldp.ru/mysql/mysql80/
+
 ### Книги
 
 - PostgreSQL изнутри. Егор Рогов https://edu.postgrespro.ru/postgresql_internals-15.pdf
