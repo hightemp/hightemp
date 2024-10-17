@@ -277,6 +277,7 @@
 
 ### Статьи
 
+- Advanced Prompt Engineering Techniques https://www.mercity.ai/blog-post/advanced-prompt-engineering-techniques
 - Can LLMs Critique and Iterate on Their Own Outputs? https://evjang.com/2023/03/26/self-reflection.html
 - Reflexion https://www.promptingguide.ai/techniques/reflexion
 - Step-Based Cascading Prompts: Deterministic Signals from the LLM Vibe Space https://shelbyjenkins.github.io/blog/cascade-prompt/
