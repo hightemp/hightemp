@@ -28,3 +28,7 @@
 ### Блоги
 
 - https://highscalability.com/
+
+### Статьи
+
+- Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
