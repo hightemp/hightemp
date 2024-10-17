@@ -30,3 +30,7 @@
         - Как устроена MySQL-репликация https://highload.guide/blog/mysql_replication_2015.html
 - Остальное
     - Масштабирование базы данных через шардирование и партиционирование https://habr.com/ru/companies/oleg-bunin/articles/309330/
+
+### Блоги
+
+- https://www.percona.com/blog/category/mysql/
