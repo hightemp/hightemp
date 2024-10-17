@@ -248,6 +248,8 @@
     - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
   - Sync
     - Sync Package: What Are New Features in Golang sync.Once? https://reliasoftware.com/blog/new-features-in-golang-sync-once
+  - Mutex
+    - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
   - Unique
     - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
 - vim, nvim
