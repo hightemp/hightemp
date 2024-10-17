@@ -276,6 +276,7 @@
 
 ### Статьи
 
+- Step-Based Cascading Prompts: Deterministic Signals from the LLM Vibe Space https://shelbyjenkins.github.io/blog/cascade-prompt/
 - How to Create Diagrams with ChatGPT and draw.io [link](https://medium.com/@paritoshraval100/how-to-create-diagrams-with-chatgpt-and-draw-io-851efb626f08?source=email-89e31b1a2a97-1712706638855-digest.reader-4e2c1156667e-851efb626f08----9-98------------------73380b94_ed6c_4216_9065_a1583eaf002e-1)
 - Как мы создали GPT Researcher https://docs.tavily.com/blog/building-gpt-researcher
 - Postgres is all you need, even for vectors https://anyblockers.com/posts/postgres-is-all-you-need-even-for-vectors
