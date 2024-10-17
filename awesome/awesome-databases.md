@@ -22,3 +22,4 @@
     - How Postgres stores data on disk – this one's a page turner https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/
 - MySQL
     - Кластерные и «обычные» индексы MySQL (InnoDB) https://habr.com/ru/articles/141767/
+    - Кластерные и некластерные индексы реляционных баз данных https://wp-yoda.com/bazy-dannyh/klasternye-i-neklasternye-indeksy/
