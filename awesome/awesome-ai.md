@@ -119,6 +119,10 @@
 
 - https://iki.ai/
 
+### Замена лиц
+
+- https://github.com/hacksider/Deep-Live-Cam
+
 ### Генерация изображений
 
 - https://openxlab.org.cn/apps/detail/PixArt-alpha/PixArt-alpha
