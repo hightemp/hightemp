@@ -24,3 +24,7 @@
 
 - https://github.com/ByteByteGoHq/system-design-101
 - https://github.com/karanpratapsingh/system-design
+
+### Блоги
+
+- https://highscalability.com/
