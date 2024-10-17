@@ -23,3 +23,4 @@
 - MySQL
     - Кластерные и «обычные» индексы MySQL (InnoDB) https://habr.com/ru/articles/141767/
     - Кластерные и некластерные индексы реляционных баз данных https://wp-yoda.com/bazy-dannyh/klasternye-i-neklasternye-indeksy/
+    - Партиционирование таблиц в MySql https://easy-code.ru/lesson/partitioning-mysql
