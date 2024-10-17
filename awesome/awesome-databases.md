@@ -21,6 +21,12 @@
     - How to Get or Create in PostgreSQL And why it is so easy to get wrong... https://hakibenita.com/postgresql-get-or-create
     - How Postgres stores data on disk – this one's a page turner https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/
 - MySQL
-    - Кластерные и «обычные» индексы MySQL (InnoDB) https://habr.com/ru/articles/141767/
-    - Кластерные и некластерные индексы реляционных баз данных https://wp-yoda.com/bazy-dannyh/klasternye-i-neklasternye-indeksy/
-    - Партиционирование таблиц в MySql https://easy-code.ru/lesson/partitioning-mysql
+    - Индексы
+        - Кластерные и «обычные» индексы MySQL (InnoDB) https://habr.com/ru/articles/141767/
+        - Кластерные и некластерные индексы реляционных баз данных https://wp-yoda.com/bazy-dannyh/klasternye-i-neklasternye-indeksy/
+    - Партицинирование
+        - Партиционирование таблиц в MySql https://easy-code.ru/lesson/partitioning-mysql
+    - Репликация
+        - Как устроена MySQL-репликация https://highload.guide/blog/mysql_replication_2015.html
+- Остальное
+    - Масштабирование базы данных через шардирование и партиционирование https://habr.com/ru/companies/oleg-bunin/articles/309330/
