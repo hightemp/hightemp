@@ -605,6 +605,7 @@
 - https://thedevelopercafe.com/?category=go
 - https://www.dolthub.com/blog/
 - https://kmcd.dev/tags/golang/
+- https://unskilled.blog/posts/
 
 ### Подкасты
 
