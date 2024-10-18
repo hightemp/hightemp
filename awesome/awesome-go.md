@@ -360,6 +360,7 @@
   - Применения Continuation-passing style в Go https://habr.com/ru/articles/836702/
   - Практические советы по устранению утечек памяти в Go https://habr.com/ru/articles/724402/
   - Go structs are copied on assignment (and other things about Go I'd missed) https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/
+  - Securing Your Go Backend: Encryption, Vulnerability Prevention, and More! https://senowijayanto.medium.com/securing-your-go-backend-encryption-vulnerability-prevention-and-more-3fc980f45a8f
 - Таймеры
   - Resetting timers in Go https://antonz.org/timer-reset/
 - Отладка
