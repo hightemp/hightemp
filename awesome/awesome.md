@@ -1,6 +1,7 @@
 ## Коллекции
 
 - https://github.com/KenneyNL/Adobe-Alternatives
+- https://github.com/shahednasser/awesome-resources
 - https://github.com/ashishps1/awesome-low-level-design
 - Software Engineering Blogs https://github.com/kilimchoi/engineering-blogs
 - A delightful list of personal tech blogs https://github.com/jkup/awesome-personal-blogs
