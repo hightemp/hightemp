@@ -433,6 +433,7 @@
   - How to do unit testing + mock function in Golang within clean architecture https://medium.com/@rayato159/how-to-do-unit-testing-mock-function-in-golang-within-clean-architecture-2a674c42dfc4
   - f-tests as a replacement for table-driven tests in Go https://itnext.io/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e
   - Testing in Go - a crash article to get you going https://thedevelopercafe.com/articles/testing-in-go-929e2ad2
+  - Emulating real dependencies in Integration Tests using Testcontainers https://itnext.io/emulating-real-dependencies-in-integration-tests-using-testcontainers-6244f0cbe027
 - Distributed Systems, Распределенные системы
   - Consensus Algorithms, Алгоритмы консенсуса
     - Raft Consensus Algorithm, Алгоритм консенсуса Raft
