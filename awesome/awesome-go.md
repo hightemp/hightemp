@@ -254,6 +254,8 @@
     - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
   - Unique
     - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
+  - Остальное
+    - Preemption in Go: an introduction https://unskilled.blog/posts/preemption-in-go-an-introduction/
 - vim, nvim
   - My NeoVim Go(lang) setup — As good as Intellj/Goland IDE https://medium.com/@suyash10581108/my-neovim-go-lang-setup-as-good-as-intellj-goland-ide-d48dd765f6de
   - Configure Neovim for Golang https://andrewcourter.substack.com/p/configure-neovim-for-golang
