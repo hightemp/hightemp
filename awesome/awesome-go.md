@@ -401,6 +401,7 @@
     - Safeguarding changes using the plan-execute pattern https://tn1ck.com/blog/update-plans
     - Golang Design Patterns: Creational Patterns https://medium.com/@asgrr/golang-design-patterns-creational-patterns-5b8fdb4f5ae4
     - Golang Design Patterns — Overview https://medium.com/@MTrax/golang-design-patterns-overview-4a40a66db204
+    - Mastering 6 Golang Concurrency Patterns to Level Up Your Apps https://reliasoftware.com/blog/golang-concurrency-patterns
   - Остальное
     - Definitive Guide to Software Architecture with Golang https://masteringbackend.com/posts/software-architecture-with-golang
     - Structuring your Golang app: Flat structure vs. layered architecture https://blog.logrocket.com/flat-structure-vs-layered-architecture-structuring-your-go-app/
