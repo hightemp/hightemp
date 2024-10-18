@@ -290,6 +290,7 @@
   - Go and Gin - Building a Task Manager REST API https://bytegoblin.io/blog/mastering-rest-apis-with-the-go-gin-framework.mdx
   - Deep Dive into Go: Crafting a CRUD RESTful API Without Frameworks https://medium.com/@bensatriya3/deep-dive-into-go-crafting-a-crud-restful-api-without-frameworks-920cd6eab3be
   - Build Your Own SMTP Server in Go https://valyent.substack.com/p/build-your-own-smtp-server-in-go
+    - Пишем свой SMTP сервер на Go https://kovardin.ru/articles/go/smtp-server/
 - Сеть
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
