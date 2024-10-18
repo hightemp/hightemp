@@ -400,6 +400,7 @@
     - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/
     - Safeguarding changes using the plan-execute pattern https://tn1ck.com/blog/update-plans
     - Golang Design Patterns: Creational Patterns https://medium.com/@asgrr/golang-design-patterns-creational-patterns-5b8fdb4f5ae4
+    - Golang Design Patterns — Overview https://medium.com/@MTrax/golang-design-patterns-overview-4a40a66db204
   - Остальное
     - Definitive Guide to Software Architecture with Golang https://masteringbackend.com/posts/software-architecture-with-golang
     - Structuring your Golang app: Flat structure vs. layered architecture https://blog.logrocket.com/flat-structure-vs-layered-architecture-structuring-your-go-app/
