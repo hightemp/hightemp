@@ -60,6 +60,7 @@
 
 ### Чаты с ботами
 
+- https://www.typingmind.com/
 - https://www.aiuncensored.info/
 - https://openrouter.ai/
 - https://groq.com/
