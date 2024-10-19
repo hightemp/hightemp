@@ -28,6 +28,8 @@
 
 - Поиск поддоменов для ip
     - https://github.com/jonluca/anubis
+- Прокси чекер
+    - https://github.com/monosans/proxy-scraper-checker
 
 ### Инструменты для пентестинга:
 
