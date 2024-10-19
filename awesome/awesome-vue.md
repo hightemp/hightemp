@@ -37,6 +37,7 @@
 ### Статьи
 
 - Vue.js + Vuex — JWT аутентификация (руководство и примеры) https://emackovenko.ru/vue-js-vuex-jwt-autentifikaciya-instrukciya-prime/
+- Building an LLM chat interface using Ollama and Vue https://medium.com/@mpalmerlee/building-an-llm-chat-interface-using-ollama-and-vue-5bf4e2fc65fd
 
 ### Видео
 
