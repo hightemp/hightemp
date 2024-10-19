@@ -1,4 +1,8 @@
 
+### Коллекции
+
+- https://github.com/edoardottt/awesome-hacker-search-engines
+
 ### Проверка файлов
 
 - https://virustest.gov.ru/
