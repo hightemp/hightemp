@@ -1,6 +1,7 @@
 ### Коллекции
 
 - https://github.com/The-Osint-Toolbox/Geolocation-OSINT
+- https://github.com/OhShINT/ohshint.gitbook.io
 
 ## Репозитории
 
