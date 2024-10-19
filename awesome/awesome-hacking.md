@@ -24,6 +24,11 @@
 
 - https://github.com/xvzc/SpoofDPI
 
+### Инструменты
+
+- Поиск поддоменов для ip
+    - https://github.com/jonluca/anubis
+
 ### Инструменты для пентестинга:
 
 **Сканирование:**
