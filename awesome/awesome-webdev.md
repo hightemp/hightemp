@@ -102,3 +102,7 @@
 
 - https://brooker.co.za/blog/
 - https://clement-jean.github.io/
+
+### Youtube Каналы
+
+- https://www.youtube.com/@webstandards_ru
