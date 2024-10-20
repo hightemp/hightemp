@@ -58,6 +58,11 @@
 - https://www.chatpdf.com
 - https://chatdoc.com/
 
+### Интерфейсы для чатов
+
+- https://github.com/ivanfioravanti/chatbot-ollama
+- https://github.com/mckaywrigley/chatbot-ui
+
 ### Чаты с ботами
 
 - https://www.typingmind.com/
