@@ -10,7 +10,8 @@
 - https://quizlet.com/
 
 ### Платформы для изучения языков
-- https://vznaniya.ru/
+- ОБРАЗОВАТЕЛЬНАЯ ПЛАТФОРМА ДЛЯ УЧИТЕЛЕЙ И РЕПЕТИТОРОВ https://vznaniya.ru/
+- A.I. Powered Tools  For English Teachers https://twee.com/
 
 ### Полезные ссылки
 - https://quizizz.com/?lng=en
