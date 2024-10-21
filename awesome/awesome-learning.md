@@ -9,7 +9,8 @@
 ### Карточки
 - https://quizlet.com/
 
-### Языки
+### Платформы для изучения языков
+- https://vznaniya.ru/
 
 ### Полезные ссылки
 - https://quizizz.com/?lng=en
