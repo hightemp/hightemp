@@ -1,5 +1,6 @@
 ## Коллекции
 
+   - https://github.com/tayllan/awesome-algorithms
 - https://github.com/KenneyNL/Adobe-Alternatives
 - https://github.com/shahednasser/awesome-resources
 - https://github.com/ashishps1/awesome-low-level-design
