@@ -59,7 +59,7 @@
 - Web Security Testing Guide (Ellie Saad and Rick Mitchell v4.2) - owasp.org/www-project-web-security-testing-guide/v42/
 - Zseano's Methodology - bugbountyhunter.com/methodology/zseanos-methodology.pdf
 - Wiki Book Pentest Living Document - github.com/nixawk/pentest-wiki
-- HackTRICKS - book.hacktricks.xyz
+- HackTRICKS - https://book.hacktricks.xyz
 
 ### Онлайн-платформы и обучающие ресурсы
 
