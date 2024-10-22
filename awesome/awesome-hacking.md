@@ -53,6 +53,27 @@
 * **Tcpdump:** [https://www.tcpdump.org/](https://www.tcpdump.org/) - Инструмент командной строки для захвата и анализа сетевого трафика.
 * **Burp Suite Proxy:** [https://portswigger.net/burp/proxy](https://portswigger.net/burp/proxy)
 
+### Книги
+
+- Web Application Hacker's Handbook 2 - buymeacoffee.com/verylazytech/e/304591
+- Real World Bug Hunting - buymeacoffee.com/verylazytech/e/304600
+- Bug Bounty Bootcamp - buymeacoffee.com/verylazytech/e/304596
+- Red Team Field Manual - buymeacoffee.com/verylazytech/e/304597
+- Red Team Development and Operations: A Practical Guide - buymeacoffee.com/verylazytech/e/304601
+- Operator Handbook: Red Team + OSINT + Blue Team Reference - buymeacoffee.com/verylazytech/e/304604
+- Tribe of Hackers Red Team - buymeacoffee.com/verylazytech/e/304618
+- The Pentester Blueprint - buymeacoffee.com/verylazytech/e/304619
+- OSINT Techniques: Resources for Uncovering Online Information - buymeacoffee.com/verylazytech/e/304622
+- Evading EDR - buymeacoffee.com/verylazytech/e/304621
+- Attacking Network Protocols - buymeacoffee.com/verylazytech/e/304623
+- Black Hat GraphQL - buymeacoffee.com/verylazytech/e/304626
+- Hacking APIs - buymeacoffee.com/verylazytech/e/304631
+- Black Hat Go - buymeacoffee.com/verylazytech/e/304635
+- Black Hat Python - buymeacoffee.com/verylazytech/e/304633
+- Black Hat Bash - buymeacoffee.com/verylazytech/e/304637
+- Breaking into Information Security - buymeacoffee.com/verylazytech/e/304640
+- Expanding Your Security Horizons - amzn.to/3GU07Iq
+
 ### Статьи
 
 - Burp Suite: швейцарский армейский нож для тестирования веб-приложений https://habr.com/ru/articles/328382/
