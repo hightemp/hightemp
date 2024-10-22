@@ -53,6 +53,17 @@
 * **Tcpdump:** [https://www.tcpdump.org/](https://www.tcpdump.org/) - Инструмент командной строки для захвата и анализа сетевого трафика.
 * **Burp Suite Proxy:** [https://portswigger.net/burp/proxy](https://portswigger.net/burp/proxy)
 
+### Онлайн-платформы и обучающие ресурсы
+
+- Web Security Academy by PortSwigger - portswigger.net/web-security
+- APISEC University - https://www.apisecuniversity.com/
+- Pentester Lab - https://pentesterlab.com
+- HTB Academy - https://academy.hackthebox.com
+- Cybrary - https://cybrary.it
+- Offensive Security Training - https://offensive-security.com
+- SANS Institute - https://sans.org
+- TryHackMe - https://tryhackme.com
+
 ### Книги
 
 - Web Application Hacker's Handbook 2 - buymeacoffee.com/verylazytech/e/304591
