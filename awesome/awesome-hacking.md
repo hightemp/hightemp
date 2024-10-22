@@ -53,6 +53,14 @@
 * **Tcpdump:** [https://www.tcpdump.org/](https://www.tcpdump.org/) - Инструмент командной строки для захвата и анализа сетевого трафика.
 * **Burp Suite Proxy:** [https://portswigger.net/burp/proxy](https://portswigger.net/burp/proxy)
 
+### Руководства и справочники
+
+- OWASP Web Security Testing Guide - owasp.org/www-project-web-security-testing-guide/
+- Web Security Testing Guide (Ellie Saad and Rick Mitchell v4.2) - owasp.org/www-project-web-security-testing-guide/v42/
+- Zseano's Methodology - bugbountyhunter.com/methodology/zseanos-methodology.pdf
+- Wiki Book Pentest Living Document - github.com/nixawk/pentest-wiki
+- HackTRICKS - book.hacktricks.xyz
+
 ### Онлайн-платформы и обучающие ресурсы
 
 - Web Security Academy by PortSwigger - portswigger.net/web-security
