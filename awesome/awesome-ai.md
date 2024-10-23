@@ -63,6 +63,7 @@
 - https://github.com/ivanfioravanti/chatbot-ollama
 - https://github.com/mckaywrigley/chatbot-ui
 - https://github.com/jakobhoeg/nextjs-ollama-llm-ui
+- https://github.com/open-webui/open-webui
 
 ### Чаты с ботами
 
