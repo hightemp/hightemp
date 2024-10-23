@@ -53,6 +53,15 @@
 * **Tcpdump:** [https://www.tcpdump.org/](https://www.tcpdump.org/) - Инструмент командной строки для захвата и анализа сетевого трафика.
 * **Burp Suite Proxy:** [https://portswigger.net/burp/proxy](https://portswigger.net/burp/proxy)
 
+### Прокси
+
+- https://github.com/ErcinDedeoglu/proxies
+  - https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt
+- https://github.com/TheSpeedX/PROXY-List
+  - https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt
+- https://geonode.com/free-proxy-list 
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=1&sort_by=lastChecked&sort_type=desc
+  
 ### Руководства и справочники
 
 - OWASP Web Security Testing Guide - owasp.org/www-project-web-security-testing-guide/
