@@ -1,6 +1,7 @@
 
 ### Коллекции
 
+- https://awclub.github.io/catalog/
 - https://github.com/logikon-ai/awesome-deliberative-prompting
 - https://github.com/dair-ai/ML-YouTube-Courses
 - https://github.com/e2b-dev/awesome-ai-agents
