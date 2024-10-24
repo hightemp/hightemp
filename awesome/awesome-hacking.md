@@ -2,6 +2,7 @@
 ### Коллекции
 
 - https://github.com/edoardottt/awesome-hacker-search-engines
+- https://github.com/xairy/linux-kernel-exploitation
 
 ### Проверка файлов
 
