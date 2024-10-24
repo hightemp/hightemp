@@ -32,6 +32,14 @@
 - Прокси чекер
     - https://github.com/monosans/proxy-scraper-checker
 
+### linux privilege escalation
+
+- https://cloudfuzz.github.io/android-kernel-exploitation/chapters/linux-privilege-escalation.html
+- https://swisskyrepo.github.io/InternalAllTheThings/redteam/escalation/linux-privilege-escalation/#checklists
+- https://champlain-cyberlabs.github.io/cyberlabs/linux/privilege-escalation/privilege-escalation.html
+- https://johnermac.github.io/notes/pnpt/linuxprivesc/
+
+
 ### Инструменты для пентестинга:
 
 - Сканирование
