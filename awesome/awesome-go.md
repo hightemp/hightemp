@@ -257,6 +257,7 @@
   - Unique
     - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
   - Остальное
+    - Введение в систему модулей Go https://habr.com/ru/articles/421411/
     - Range Over Function Types https://go.dev/blog/range-functions
     - Preemption in Go: an introduction https://unskilled.blog/posts/preemption-in-go-an-introduction/
     - Пример создания Makefile для Go-приложений https://habr.com/ru/articles/461467/
