@@ -1012,3 +1012,32 @@ sudo gpasswd --delete user1 demo
 ```
 sudo groupdel mygroup
 ```
+
+### Проверка статической сборки Go приложения
+
+#### Использование `ldd`
+```bash
+ldd your_binary
+```
+
+##### Результат для статической сборки:
+```
+not a dynamic executable
+```
+
+##### Результат для динамической сборки:
+```
+linux-vdso.so.1 (0x00007fff31dd9000)
+libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f01b1ba4000)
+...
+```
+
+#### Использование `file`
+```bash
+file your_binary
+```
+
+##### Ожидаемый вывод для статической сборки:
+```
+your_binary: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, ...
+```
