@@ -1,3 +1,171 @@
+## Напиши на net/http пример http сервера
+
+```golang
+package main
+
+import (
+	"encoding/json"
+	"fmt"
+	"log"
+	"net/http"
+	"time"
+)
+
+// User структура для примера
+type User struct {
+	ID       int    `json:"id"`
+	Username string `json:"username"`
+	Email    string `json:"email"`
+}
+
+// Middleware для логирования
+func loggingMiddleware(next http.Handler) http.Handler {
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		start := time.Now()
+		next.ServeHTTP(w, r)
+		log.Printf(
+			"%s %s %s %v",
+			r.Method,
+			r.RequestURI,
+			r.RemoteAddr,
+			time.Since(start),
+		)
+	})
+}
+
+// Обработчик для GET /users
+func getUsersHandler(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodGet {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	users := []User{
+		{ID: 1, Username: "john_doe", Email: "john@example.com"},
+		{ID: 2, Username: "jane_doe", Email: "jane@example.com"},
+	}
+
+	w.Header().Set("Content-Type", "application/json")
+	json.NewEncoder(w).Encode(users)
+}
+
+// Обработчик для POST /user
+func createUserHandler(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodPost {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	var user User
+	if err := json.NewDecoder(r.Body).Decode(&user); err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		return
+	}
+
+	// Здесь могла бы быть логика сохранения в БД
+	
+	w.Header().Set("Content-Type", "application/json")
+	w.WriteHeader(http.StatusCreated)
+	json.NewEncoder(w).Encode(user)
+}
+
+// Обработчик здоровья сервера
+func healthCheckHandler(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json")
+	fmt.Fprintf(w, `{"status": "ok", "timestamp": "%s"}`, time.Now().Format(time.RFC3339))
+}
+
+func main() {
+	// Создаем новый mux (маршрутизатор)
+	mux := http.NewServeMux()
+
+	// Регистрируем обработчики
+	mux.HandleFunc("/users", getUsersHandler)
+	mux.HandleFunc("/user", createUserHandler)
+	mux.HandleFunc("/health", healthCheckHandler)
+
+	// Создаем сервер
+	server := &http.Server{
+		Addr:         ":8080",
+		Handler:      loggingMiddleware(mux),
+		ReadTimeout:  10 * time.Second,
+		WriteTimeout: 10 * time.Second,
+		IdleTimeout:  15 * time.Second,
+	}
+
+	// Запускаем сервер
+	log.Printf("Starting server on :8080")
+	if err := server.ListenAndServe(); err != nil {
+		log.Fatal(err)
+	}
+}
+```
+
+## Напиши пример кода где на fasthttp и golang делается запрос проверки прокси
+
+```golang
+package main
+
+import (
+	"fmt"
+	"time"
+
+	"github.com/valyala/fasthttp"
+)
+
+func main() {
+	// Прокси адрес
+	proxyURL := "http://proxy_ip:proxy_port"
+	
+	// URL для проверки 
+	testURL := "https://api.ipify.org?format=json"
+
+	// Создаем клиент с настройками
+	client := &fasthttp.Client{
+		// Максимальное время ожидания ответа
+		ReadTimeout: 5 * time.Second,
+		WriteTimeout: 5 * time.Second,
+		MaxIdleConnDuration: 5 * time.Second,
+		
+		// Устанавливаем прокси
+		Dial: fasthttp.CreateDialer(proxyURL),
+	}
+
+	// Создаем запрос
+	req := fasthttp.AcquireRequest()
+	defer fasthttp.ReleaseRequest(req)
+
+	req.SetRequestURI(testURL)
+	req.Header.SetMethod("GET")
+
+	// Создаем объект для ответа
+	resp := fasthttp.AcquireResponse()
+	defer fasthttp.ReleaseResponse(resp)
+
+	// Делаем запрос
+	err := client.Do(req, resp)
+	if err != nil {
+		fmt.Printf("Error: %s\n", err)
+		return
+	}
+
+	// Получаем статус код
+	statusCode := resp.StatusCode()
+
+	// Получаем тело ответа
+	body := resp.Body()
+
+	fmt.Printf("Status code: %d\n", statusCode)
+	fmt.Printf("Response body: %s\n", body)
+
+	if statusCode == 200 {
+		fmt.Println("Proxy is working!")
+	} else {
+		fmt.Println("Proxy is not working!")
+	}
+}
+```
+
 ## Напиши список всех спецификаторов в golang
 
 | Спецификатор | Описание |
