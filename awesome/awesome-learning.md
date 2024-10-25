@@ -26,3 +26,6 @@
   
 ### Полезные ссылки
 - https://quizizz.com/?lng=en
+
+### Сайты с туториалами
+- https://learn.typecraft.dev/tutorials/
