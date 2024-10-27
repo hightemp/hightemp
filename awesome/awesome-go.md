@@ -350,6 +350,8 @@
 - OpenAPI
   - Parsing OpenAPI files using go https://quobix.com/articles/parsing-openapi-using-go/
   - OpenAPI 3 with Go https://medium.com/@bbakla/open-api-with-go-d75eb3afac19
+- Обработка ошибок
+  - Go: Управление обработкой множественных ошибок https://habr.com/ru/companies/otus/articles/558404/
 - Фреймворки
   - Fiber
     - Остальное
