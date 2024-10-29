@@ -121,6 +121,7 @@
 ### ai-редакторы
 
 - https://www.cursor.com/
+- https://trypear.ai/
 
 ### Пересказ
 
