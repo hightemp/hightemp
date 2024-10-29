@@ -7,6 +7,10 @@
 - https://github.com/Ventsislav-Yordanov/Learning-English
 - https://github.com/abkfenris/awesome-education
 
+### Сервисы для сохранения статей
+
+- https://omnivore.app
+
 ### Карточки
 - https://quizlet.com/
 
