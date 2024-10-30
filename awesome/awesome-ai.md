@@ -122,7 +122,7 @@
 
 - https://www.cursor.com/
 - https://trypear.ai/
-- https://www.continue.dev/
+- Расширение для vscode https://www.continue.dev/
 
 ### Пересказ
 
