@@ -122,6 +122,7 @@
 
 - https://www.cursor.com/
 - https://trypear.ai/
+- https://www.continue.dev/
 
 ### Пересказ
 
