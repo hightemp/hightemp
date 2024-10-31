@@ -1041,3 +1041,15 @@ file your_binary
 ```
 your_binary: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, ...
 ```
+
+### Как исправить ошибку AppImage
+
+```
+[34887:1031/194412.255476:FATAL:setuid_sandbox_host.cc(158)] The SUID sandbox helper binary was found, but is not configured correctly. Rather than run without sandboxing I'm aborting now. You need to make sure that /tmp/.mount_cursorDmV1BJ/chrome-sandbox is owned by root and has mode 4755.
+```
+
+#### Решение 1
+
+```bash
+sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
+```
