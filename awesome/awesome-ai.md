@@ -123,6 +123,7 @@
 - https://www.cursor.com/
 - https://trypear.ai/
 - Расширение для vscode https://www.continue.dev/
+- Расширение для vscode https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
 
 ### Пересказ
 
