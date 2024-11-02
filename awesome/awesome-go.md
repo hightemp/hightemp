@@ -343,6 +343,9 @@
     - Making REST API Requests in Golang using the HTTP Client https://www.sohamkamani.com/golang/http-client/
   - Примеры
     - How to Parse a JSON Request Body in Go https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
+- Telegram
+  - Telegram на go: часть 1, парсим схему https://habr.com/ru/articles/535076/
+  - Telegram на go, часть 2: бинарный протокол https://habr.com/ru/articles/541920/
 - pipe
   - Mastering io.Pipe in Go https://bytegoblin.io/blog/mastering-io-pipe-in-go
 - API
