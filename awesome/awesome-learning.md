@@ -7,6 +7,10 @@
 - https://github.com/Ventsislav-Yordanov/Learning-English
 - https://github.com/abkfenris/awesome-education
 
+### Сервисы для сохранения ссылок на статьи
+
+- https://paperpile.com/
+
 ### Сервисы для сохранения статей
 
 - https://omnivore.app
