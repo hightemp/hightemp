@@ -53,6 +53,20 @@
 
 - https://github.com/jeremy-ww/awesome-english
 
+### Замена Notion
+
+- https://yonote.ru/
+- https://weeek.net/ru
+- https://www.leadertask.ru/
+- https://striveapp.ru/
+- https://teamly.ru/
+- https://www.evateam.ru/evawiki/
+- https://aspro.cloud/
+- https://wiki.yandex.ru/
+- https://minervasoft.ru/kms
+- https://kaiten.ru/
+
+
 ### Книги
 
 - Raymond Murphy – English Grammar in Use (5th Edition)  
@@ -60,9 +74,11 @@
   - https://vk.com/wall-29362812_9109
   
 ### Полезные ссылки
+
 - https://quizizz.com/?lng=en
 
 ### Сайты с туториалами
+
 - https://learn.typecraft.dev/tutorials/
 
 ### Статьи
