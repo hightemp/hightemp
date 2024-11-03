@@ -44,4 +44,6 @@
 
 ### Видео
 
+- How to Remember Everything You Read https://www.youtube.com/watch?v=okHkUIW46ks
 - 3 Levels of Mind Maps Every Student MUST Master https://www.youtube.com/watch?v=V8RxHtoLVTk
+- How To Read Papers Effectively 2024 | Scanning like a Scientist https://www.youtube.com/watch?v=Cv262mV4Mig
