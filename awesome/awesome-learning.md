@@ -30,6 +30,7 @@
   - https://www.englishspeak.com
   - На ресурсе English as a second language (ESL) представлены тесты по английскому языку для начинающих. С помощью этих заданий вы проверите, насколько хорошо знаете базовые слова, и сможете изучить новую лексику. 
     https://www.internationalschooltutors.de/English/activities/vocabulary/index.html
+  - https://langeek.co/en-RU/vocab/category/6/a2-level
 
 ### Учимся понимать английский язык на слух
 
@@ -46,6 +47,7 @@
 
 - Англиийский
   - Слова для уровня английского A2 Pre-Intermediate https://tefl-tesol-certificate.com/blog/slova-dlya-urovnya-anglijskogo-a2-pre-intermediate
+  - https://word-by-word.ru/ratings/cefr-a2
 
 ### Инструменты
 
