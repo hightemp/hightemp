@@ -16,11 +16,19 @@
 - https://omnivore.app
 
 ### Карточки
+
 - https://quizlet.com/
 
 ### Платформы для изучения языков
+
 - ОБРАЗОВАТЕЛЬНАЯ ПЛАТФОРМА ДЛЯ УЧИТЕЛЕЙ И РЕПЕТИТОРОВ https://vznaniya.ru/
 - A.I. Powered Tools  For English Teachers https://twee.com/
+- https://www.memrise.com
+- Английский
+  - https://www.bistroenglish.com
+  - https://www.englishspeak.com
+  - На ресурсе English as a second language (ESL) представлены тесты по английскому языку для начинающих. С помощью этих заданий вы проверите, насколько хорошо знаете базовые слова, и сможете изучить новую лексику. 
+    https://www.internationalschooltutors.de/English/activities/vocabulary/index.html
 
 ### Инструменты
 
