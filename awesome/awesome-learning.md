@@ -69,6 +69,8 @@
 
 - ТОП-25 сайтов для изучения английского языка для начинающих https://englex.ru/top-22-websites-for-beginners/
 - Обзор платформ искусственного интеллекта (AI) для изучения английского языка https://vc.ru/u/1961240-legend-lingua/747111-obzor-platform-iskusstvennogo-intellekta-ai-dlya-izucheniya-angliiskogo-yazyka
+- Топ-7 лучших ресурсов для практики программирования в 2023 году https://robotdreams.cc/blog/323-7-naykrashchih-resursiv-dlya-praktiki-programuvannya-u-2023-roci
+- 27 сайтов с задачками для оттачивания навыков программирования https://proglib.io/p/27-puzzle-websites-to-sharpen-your-skills
 
 ### Видео
 
