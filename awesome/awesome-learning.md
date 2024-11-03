@@ -68,6 +68,7 @@
 ### Статьи
 
 - ТОП-25 сайтов для изучения английского языка для начинающих https://englex.ru/top-22-websites-for-beginners/
+- Обзор платформ искусственного интеллекта (AI) для изучения английского языка https://vc.ru/u/1961240-legend-lingua/747111-obzor-platform-iskusstvennogo-intellekta-ai-dlya-izucheniya-angliiskogo-yazyka
 
 ### Видео
 
