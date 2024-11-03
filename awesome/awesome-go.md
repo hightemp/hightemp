@@ -330,6 +330,8 @@
   - Работа с траффиком
     - pcap
       - Capture traffic with Golang https://dev.to/aohorodnyk/capture-traffic-with-golang-2nmo
+- Файлы
+  - Read File in Golang https://www.scaler.com/topics/golang/golang-read-file/
 - Аунтификация
   - Authentication for Go Applications: The Secure Way https://www.jetbrains.com/guide/go/tutorials/authentication-for-go-apps/auth/?ysclid=m06r9cxvkn600024780
 - Авторизация
