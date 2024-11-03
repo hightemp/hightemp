@@ -207,6 +207,8 @@
 
 ### Книги
 
+- Книга Калеба Докси «Введение в программирование на Go»
+  - https://golang-book.ru/chapter-03-types.html
 - Архивы книг
   - https://edu.anarcho-copy.org/Programming%20Languages/Go/
 - The Go Programming Language (Alan A. A. Donovan, Brian W. Kernighan) 
@@ -631,6 +633,7 @@
 
 ### Видео
 
+- https://vk.com/video/playlist/-211870343_13
 - [s5 | 2024] Программирование на Go, Панасюк И.А., практика 7 https://www.youtube.com/watch?v=XQWxOIzGJlQ
 - Go Clean Template | Чистая Архитектура и как её готовить, Михаил Непряхин https://www.youtube.com/watch?v=V6lQG6d5LgU
 - nextjs 14, Go, Docker: Build a fullstack rest API in TypeScript and Go https://www.youtube.com/watch?v=429-r55KFmM
