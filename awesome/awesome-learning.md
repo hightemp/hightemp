@@ -1,5 +1,6 @@
 
 ### Коллекции
+
 - https://github.com/yvoronoy/awesome-english
 - https://github.com/nachologic/awesome-language-learning
 - https://github.com/jhonndabi/english-learning-tools
@@ -29,6 +30,13 @@
   - https://www.englishspeak.com
   - На ресурсе English as a second language (ESL) представлены тесты по английскому языку для начинающих. С помощью этих заданий вы проверите, насколько хорошо знаете базовые слова, и сможете изучить новую лексику. 
     https://www.internationalschooltutors.de/English/activities/vocabulary/index.html
+
+### Учимся понимать английский язык на слух
+
+- Этот англоязычный сайт удобен тем, что предлагает прослушивать группы слов, классифицированные по темам. Перевод нужно будет находить самостоятельно, но работа со словарем полезна — так лексика быстрее запоминается. С помощью ресурса Audioenglish.org вы будете привыкать к английской речи и сможете научиться произносить слова правильно.
+  http://www.audioenglish.org/english-learning/efl_basic_for_beginners.htm
+- ESL Fast — бесплатный онлайн-ресурс для изучения английского языка с нуля. Под заголовком For Beginners вы найдете сборники легких коротких текстов с аудиодорожкой к ним.
+  http://www.eslfast.com/?roistat_visit=58130902
 
 ### Инструменты
 
