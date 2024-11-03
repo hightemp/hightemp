@@ -37,3 +37,7 @@
 
 ### Сайты с туториалами
 - https://learn.typecraft.dev/tutorials/
+
+### Статьи
+
+- ТОП-25 сайтов для изучения английского языка для начинающих https://englex.ru/top-22-websites-for-beginners/
