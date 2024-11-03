@@ -42,6 +42,11 @@
 - Breaking News English — ресурс будет интересен тем, кто хочет повышать уровень владения английским и быть в курсе последних событий. К каждой новости есть упражнения на развитие навыков аудирования, чтения и письма.
   https://breakingnewsenglish.com/2008/200809-shaving-0.html
 
+### Слова
+
+- Англиийский
+  - Слова для уровня английского A2 Pre-Intermediate https://tefl-tesol-certificate.com/blog/slova-dlya-urovnya-anglijskogo-a2-pre-intermediate
+
 ### Инструменты
 
 - https://github.com/jeremy-ww/awesome-english
