@@ -24,6 +24,11 @@
 
 - https://www.brendangregg.com/blog/
 
+### Пакетные менеджеры
+
+- https://nix.dev/install-nix#install-nix
+- https://docs.brew.sh/Homebrew-on-Linux
+
 ### Статьи
 
 - Немного о NixOS. Часть 1. Общая информация и установка https://habr.com/ru/articles/826148/
