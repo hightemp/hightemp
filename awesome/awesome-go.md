@@ -645,6 +645,8 @@
 
 ### Видео
 
+- Функциональное программирование и #golang. Доклад с GopherCon UK 2024 https://www.youtube.com/watch?v=OKlhUv8R1ag
+- GopherCon UK 2024 https://www.youtube.com/watch?v=hIKRmIotkhw&list=PLDWZ5uzn69ezR6D6FUj_iBSOyRc9xaZFP
 - https://vk.com/video/playlist/-211870343_13
 - [s5 | 2024] Программирование на Go, Панасюк И.А., практика 7 https://www.youtube.com/watch?v=XQWxOIzGJlQ
 - Go Clean Template | Чистая Архитектура и как её готовить, Михаил Непряхин https://www.youtube.com/watch?v=V6lQG6d5LgU
