@@ -97,6 +97,8 @@
    - Jetbrains http client
       - Convenient API Testing – IntelliJ IDEA’s HTTP Client https://digital.interhyp.de/2022/01/27/convenient-api-testing-intellij-ideas-http-client/
       - Exploring the HTTP request syntax https://www.jetbrains.com/help/idea/exploring-http-syntax.html#environment-variables
+   - Остальное
+      - Shifting E2E Testing Left at Uber https://www.uber.com/en-IN/blog/shifting-e2e-testing-left/
 
 ### Блоги
 
