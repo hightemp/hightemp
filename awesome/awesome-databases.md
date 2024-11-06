@@ -40,4 +40,7 @@
 
 ### Блоги
 
-- https://www.percona.com/blog/category/mysql/
+- MySQL
+    - https://www.percona.com/blog/category/mysql/
+- PostgreSQL
+    - https://habr.com/ru/companies/postgrespro/articles/
