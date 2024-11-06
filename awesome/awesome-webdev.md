@@ -79,6 +79,17 @@
 
 - Проект LocalStack представляет собой локальный эмулятор облачных сервисов AWS, позволяющий разработчикам тестировать и разрабатывать приложения для AWS на своих компьютерах без подключения к удаленным облачным провайдерам. https://github.com/localstack/localstack
 
+### Прокси dockerhub
+
+- https://dockerhub.timeweb.cloud/
+
+### Registry
+
+- Docker
+   - https://docs.gitflic.space/registry/docker
+- Go
+   - https://docs.gitflic.space/registry/go
+
 ### Статьи
 
 - Балансировщики
