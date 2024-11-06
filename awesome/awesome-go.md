@@ -292,6 +292,7 @@
   - Listening to OS signals in Golang https://dev.to/lautarojayat/listening-to-os-signals-in-golang-nkh
   - Signal handling and graceful shutdown in Go https://riad.run/go-signals-and-graceful-shutdown
   - Go Tidbit: Handling Signals, Exiting Gracefully https://hjr265.me/blog/go-tidbit-handling-signals-exitting-gracefully/
+  - Catching Multiple SIGINTs in Go - Confirming if You Really Want to Quit https://vlads.me/post/catching-multiple-sigints-in-go-confirming-if-you-really-want-to-quit/
 - Пример создания приложения или сервиса
   - Приложение на Go шаг за шагом. Часть первая: скелет, НТТР-сервер и конфигурация https://habr.com/ru/companies/yandex_praktikum/articles/854482/
   - Escape JavaScript hell and write everything in Go https://oblivion.keyruu.de/Web-Development/Everything-in-Go
