@@ -17,6 +17,10 @@
     - https://github.com/facebook/rocksdb
     - https://github.com/google/leveldb
 
+### Книги
+
+- https://craftinginterpreters.com/
+
 ### Блоги
 
 - https://www.cppstories.com/
