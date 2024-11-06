@@ -487,6 +487,7 @@
 - Мониторинг
   - Monitoring the Golang App with Prometheus, Grafana, New Relic and Sentry https://medium.com/@mertcakmak2/monitoring-the-golang-app-with-prometheus-grafana-new-relic-and-sentry-fce1ca6980b5
 - Остальное
+  - Multi-threaded Downloads in Go https://hjr265.me/blog/multi-threaded-downloads-in-go/
   - Scanning a Website for Broken Links in Go https://hjr265.me/blog/scanning-a-website-for-broken-links-in-go/
   - The 4-chan Go programmer https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/
   - Свой артефактори для Android библиотек https://kovardin.ru/articles/miniservices/depot/
