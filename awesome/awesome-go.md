@@ -637,6 +637,7 @@
 - https://www.dolthub.com/blog/
 - https://kmcd.dev/tags/golang/
 - https://unskilled.blog/posts/
+- https://riad.run/
 
 ### Подкасты
 
