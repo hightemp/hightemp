@@ -33,6 +33,7 @@
     - OpenConnect: недетектируемый VPN, который вам понравится https://habr.com/ru/articles/776256/
 - Wireguard
     - WireGuard inside WireGuard: Accessing my homelab through my VPN provider https://sidhion.com/blog/posts/wireguard-inside-wireguard-homelab/
+    - Check If a WireGuard Connection Is Up https://hjr265.me/blog/check-if-a-wireguard-connection-is-up/
 - Вирутальные коммутаторы
     - О настройке Open vSwitch непростым языком https://habr.com/ru/articles/325560/ 
 - Multicast
