@@ -1,3 +1,67 @@
+## Способы отправки HTTP запросов в Go
+
+### 1. Стандартная библиотека `net/http`
+
+#### 1.1 Простой GET запрос
+```go
+resp, err := http.Get("https://api.example.com/data")
+if err != nil {
+    log.Fatal(err)
+}
+defer resp.Body.Close()
+```
+
+#### 1.2 Использование http.Client
+```go
+client := &http.Client{}
+req, err := http.NewRequest("GET", "https://api.example.com/data", nil)
+resp, err := client.Do(req)
+```
+
+#### 1.3 POST запрос с данными
+```go
+data := strings.NewReader(`{"name": "John"}`)
+resp, err := http.Post("https://api.example.com/data", "application/json", data)
+```
+
+#### 1.4 Кастомный клиент с таймаутом
+```go
+client := &http.Client{
+    Timeout: time.Second * 10,
+}
+```
+
+### 2. Популярные HTTP клиенты
+
+#### 2.1 [go-resty](https://github.com/go-resty/resty)
+```go
+// GET
+resp, err := resty.New().R().Get("https://api.example.com")
+
+// POST
+resp, err := resty.New().R().
+    SetBody(map[string]interface{}{"name": "John"}).
+    Post("https://api.example.com")
+```
+
+#### 2.2 [fasthttp](https://github.com/valyala/fasthttp)
+```go
+req := fasthttp.AcquireRequest()
+resp := fasthttp.AcquireResponse()
+defer fasthttp.ReleaseRequest(req)
+defer fasthttp.ReleaseResponse(resp)
+
+req.SetRequestURI("https://api.example.com")
+err := fasthttp.Do(req, resp)
+```
+
+#### 2.3 [heimdall](https://github.com/gojek/heimdall)
+```go
+timeout := 1000 * time.Millisecond
+client := heimdall.NewHTTPClient(timeout)
+res, err := client.Get("https://api.example.com", nil)
+```
+
 ## Напиши на net/http пример http сервера
 
 ```golang
