@@ -22,6 +22,8 @@
     - How to Get or Create in PostgreSQL And why it is so easy to get wrong... https://hakibenita.com/postgresql-get-or-create
     - How Postgres stores data on disk – this one's a page turner https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/
     - Postgres as a search engine https://anyblockers.com/posts/postgres-as-a-search-engine
+    - PostgreSQL Logs Explained: Logging Configuration Tutorial https://sematext.com/blog/postgresql-logs/
+    - Как включить журналы базы данных https://habr.com/ru/companies/otus/articles/691502/
 - MySQL
     - Индексы
         - Кластерные и «обычные» индексы MySQL (InnoDB) https://habr.com/ru/articles/141767/
