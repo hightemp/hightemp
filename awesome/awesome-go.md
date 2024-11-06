@@ -641,6 +641,7 @@
 - https://kmcd.dev/tags/golang/
 - https://unskilled.blog/posts/
 - https://riad.run/
+- https://hjr265.me/tags/go/
 
 ### Подкасты
 
