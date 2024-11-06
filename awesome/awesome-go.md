@@ -651,6 +651,7 @@
 - https://unskilled.blog/posts/
 - https://riad.run/
 - https://hjr265.me/tags/go/
+- https://nathanleclaire.com/post/
 
 ### Подкасты
 
