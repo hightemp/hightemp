@@ -654,6 +654,7 @@
 - https://riad.run/
 - https://hjr265.me/tags/go/
 - https://nathanleclaire.com/post/
+- https://coffeebytes.dev/en/categories/go
 
 ### Подкасты
 
