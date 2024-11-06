@@ -24,6 +24,7 @@
     - Postgres as a search engine https://anyblockers.com/posts/postgres-as-a-search-engine
     - PostgreSQL Logs Explained: Logging Configuration Tutorial https://sematext.com/blog/postgresql-logs/
     - Как включить журналы базы данных https://habr.com/ru/companies/otus/articles/691502/
+    - Состояние PostgreSQL 2022: 13 инструментов, отличных от psql https://habr.com/ru/companies/otus/articles/690266/
 - MySQL
     - Индексы
         - Кластерные и «обычные» индексы MySQL (InnoDB) https://habr.com/ru/articles/141767/
