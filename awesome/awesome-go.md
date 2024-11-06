@@ -265,6 +265,8 @@
     - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
   - Unique
     - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
+  - Утилиты
+    - Let's stop editing go.mod manually https://tpaschalis.me/go-mod-edit/
   - Остальное
     - Введение в систему модулей Go https://habr.com/ru/articles/421411/
     - Range Over Function Types https://go.dev/blog/range-functions
