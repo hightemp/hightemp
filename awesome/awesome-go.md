@@ -181,7 +181,7 @@
 
 ### Полезные ссылки
 
-- https://gobyexample.com.ru/
+- Go в примерах https://gobyexample.com.ru/
 - Go Wiki: Iota https://go.dev/wiki/Iota
 - Блог разработчиков https://go.dev/blog/all
 - Схема golang проекта https://github.com/golang-standards/project-layout/blob/master/README_ru.md
