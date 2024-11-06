@@ -460,6 +460,8 @@
     - Go sync.Pool and the Mechanics Behind It https://victoriametrics.com/blog/go-sync-pool/index.html
 - Кэширование
   - Go High-Performance Cache with TTL and Disk Persistence https://dev.to/leoantony72/go-high-performance-cache-with-ttl-and-disk-persistence-4a4m
+- Логгирование
+  - Trace Log in Golang https://riad.run/trace-in-golang
 - Тестирование
   - Go: How the Testing Harness Works https://matttproud.com/blog/posts/go-testing-harness.html
   - How to do unit testing + mock function in Golang within clean architecture https://medium.com/@rayato159/how-to-do-unit-testing-mock-function-in-golang-within-clean-architecture-2a674c42dfc4
