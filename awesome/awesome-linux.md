@@ -39,5 +39,6 @@
     - Nix: воспроизводимая сборка https://habr.com/ru/companies/typeable/articles/556828/
     - Воспроизводимая среда разработки с Nix https://archercreat.github.io/build-environment-with-nix-shell/
     - NixOS is a good server OS, except when it isn't https://sidhion.com/blog/posts/nixos_server_issues/
+    - NixOS — установка и настройка https://vk.com/@linuxsovet-nixos-ustanovka-i-nastroika
 - How to supercharge string search through a directory hierarchy on a Linux/Unix [статья](https://www.cyberciti.biz/open-source/command-line-hacks/ag-supercharge-string-search-through-directory-hierarchy/)
 - You can list a directory containing 8 million files! But not with ls. [статья](http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html)
