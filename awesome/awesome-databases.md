@@ -47,3 +47,4 @@
     - https://www.percona.com/blog/category/mysql/
 - PostgreSQL
     - https://habr.com/ru/companies/postgrespro/articles/
+    - https://devmark.ru/articles/tag/postgresql
