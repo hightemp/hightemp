@@ -243,6 +243,8 @@
     - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
     - Go range iterators demystified https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/
     - Go 1.23 Iterators Tutorial https://tutorialedge.net/golang/go-123-iterators-tutorial/
+  - Типы
+    - The differences between "Type Alias" and "New Types" in Go https://perfects.engineering/blog/go_alias_vs_new_types
   - Struct
     - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
   - Внутреннее устройство
