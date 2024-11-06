@@ -473,6 +473,7 @@
 - Мониторинг
   - Monitoring the Golang App with Prometheus, Grafana, New Relic and Sentry https://medium.com/@mertcakmak2/monitoring-the-golang-app-with-prometheus-grafana-new-relic-and-sentry-fce1ca6980b5
 - Остальное
+  - The 4-chan Go programmer https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/
   - Свой артефактори для Android библиотек https://kovardin.ru/articles/miniservices/depot/
   - SCALING ONE MILLION CHECKBOXES TO 650,000,000 CHECKS https://eieio.games/essays/scaling-one-million-checkboxes/
   - Enums in Go: A Practical Guide https://blog.stackademic.com/enums-in-go-a-practical-guide-aa26d0cb3e22
