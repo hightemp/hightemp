@@ -290,6 +290,7 @@
   - go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
   - Terminating Elegantly: A Guide to Graceful Shutdowns https://itnext.io/terminating-elegantly-a-guide-to-graceful-shutdowns-e0dcd9940f4b
   - Listening to OS signals in Golang https://dev.to/lautarojayat/listening-to-os-signals-in-golang-nkh
+  - Signal handling and graceful shutdown in Go https://riad.run/go-signals-and-graceful-shutdown
 - Пример создания приложения или сервиса
   - Приложение на Go шаг за шагом. Часть первая: скелет, НТТР-сервер и конфигурация https://habr.com/ru/companies/yandex_praktikum/articles/854482/
   - Escape JavaScript hell and write everything in Go https://oblivion.keyruu.de/Web-Development/Everything-in-Go
