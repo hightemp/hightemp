@@ -79,6 +79,10 @@
 
 - Проект LocalStack представляет собой локальный эмулятор облачных сервисов AWS, позволяющий разработчикам тестировать и разрабатывать приложения для AWS на своих компьютерах без подключения к удаленным облачным провайдерам. https://github.com/localstack/localstack
 
+### Репозитории vagrant
+
+- https://vagrant.elab.pro/downloads/
+
 ### Прокси dockerhub
 
 - https://dockerhub.timeweb.cloud/
