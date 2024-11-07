@@ -81,7 +81,13 @@
 
 ### Поисковые движки
 
-- https://opensearch.org/
+- https://github.com/swirlai/swirl-search
+- https://github.com/apache/solr
+- https://github.com/apache/lucene
+- https://github.com/elastic/elasticsearch
+- https://github.com/meilisearch/meilisearch
+- https://github.com/typesense/typesense
+- https://github.com/opensearch-project/OpenSearch https://opensearch.org/
 
 ### Репозитории vagrant
 
