@@ -125,6 +125,7 @@
    - Остальное
       - Shifting E2E Testing Left at Uber https://www.uber.com/en-IN/blog/shifting-e2e-testing-left/
 - Поиск
+   - Алгоритм BM25 https://habr.com/ru/articles/162937/
    - 7 Open-Source Search Engines for your Enterprise and Startups you MUST know. https://dev.to/swirl/7-open-source-search-engines-for-your-enterprise-and-startups-you-must-know-4504
 
 ### Блоги
