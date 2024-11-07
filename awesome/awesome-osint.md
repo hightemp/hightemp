@@ -118,6 +118,51 @@
 
 - Определение положения по фотографии https://geospy.web.app/
 
+## 📝 Перевод текстов
+- https://www.deepl.com/translator — перевод от Deepl (AI)
+- https://www.deepl.com/translator/files — перевод файлов
+- https://translate.google.com — перевод Google Translate
+- https://translate.yandex.ru — Яндекс.Переводчик
+- https://translate.yandex.ru/doc — перевод документов Яндекс 
+- https://context.reverso.net — перевод с контекстом
+- https://www.translate.ru/ — перевод PROMPT
+- https://spokenai.io — ИИ переводчик
+
+## 📝 Рерайт текста
+- https://retext.ai
+- https://www.deepl.com/write
+- https://killer-antiplagiat.ru/rerajt-teksta-onlajn  
+- https://text-humanizer.com
+- https://humbot.ai
+- https://robotext.io/write/synonymizer
+- https://app.writesonic.com/ru
+- https://bypassgpt.net
+- https://aihumanize.ai
+- https://aithor.com
+- https://paraphrasingtool.ai/
+
+## 📝 Пересказ статей
+- https://300.ya.ru
+
+## 📝 Проверка грамматики и орфографии
+- https://orfogrammka.ru — умная проверка пунктуации, грамматики и стилистики на основе машинного обучения
+- https://languagetool.org — онлайн-сервис для проверки орфографии и грамматики в текстах
+- https://glvrd.ru — коррекция и оценка "читаемости" русскоязычных текстов
+
+## 📝 Подсчет символов и слов
+- https://apihost.ru/textcalc
+
+## 📝 Распознавание шрифтов
+- https://www.myfonts.com/pages/whatthefont
+- https://github.com/Storia-AI/font-classify
+
+## 📝 ПО для ведения заметок
+- https://www.giuspen.com/cherrytree
+- https://standardnotes.com
+
+## 📝 Имитация рукописного текста
+- https://github.com/hsfzxjy/handwriter.ttf
+
 ### Полезные ссылки
 
 - Агрегатор новостных сайтов с фильтрами https://emm.newsbrief.eu/
