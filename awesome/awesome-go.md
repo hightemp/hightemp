@@ -493,6 +493,7 @@
 - Мониторинг
   - Monitoring the Golang App with Prometheus, Grafana, New Relic and Sentry https://medium.com/@mertcakmak2/monitoring-the-golang-app-with-prometheus-grafana-new-relic-and-sentry-fce1ca6980b5
 - Остальное
+  - Using OpenSearch with Golang https://www.inanzzz.com/index.php/post/7e0s/using-opensearch-with-golang
   - Simple Fixed-window Rate Limiter With Redis https://hjr265.me/blog/simple-rate-limiter-with-redis/
   - Multi-threaded Downloads in Go https://hjr265.me/blog/multi-threaded-downloads-in-go/
   - Scanning a Website for Broken Links in Go https://hjr265.me/blog/scanning-a-website-for-broken-links-in-go/
