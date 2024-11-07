@@ -79,6 +79,10 @@
 
 - Проект LocalStack представляет собой локальный эмулятор облачных сервисов AWS, позволяющий разработчикам тестировать и разрабатывать приложения для AWS на своих компьютерах без подключения к удаленным облачным провайдерам. https://github.com/localstack/localstack
 
+### Поисковые движки
+
+- https://opensearch.org/
+
 ### Репозитории vagrant
 
 - https://vagrant.elab.pro/downloads/
@@ -114,6 +118,8 @@
       - Exploring the HTTP request syntax https://www.jetbrains.com/help/idea/exploring-http-syntax.html#environment-variables
    - Остальное
       - Shifting E2E Testing Left at Uber https://www.uber.com/en-IN/blog/shifting-e2e-testing-left/
+- Поиск
+   - 7 Open-Source Search Engines for your Enterprise and Startups you MUST know. https://dev.to/swirl/7-open-source-search-engines-for-your-enterprise-and-startups-you-must-know-4504
 
 ### Блоги
 
