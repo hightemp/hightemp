@@ -333,6 +333,7 @@
   - Proxy, Прокси
     - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
     - Go and Proxy Servers: Part 1 - HTTP Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/
+    - Go and Proxy Servers: Part 2 - HTTPS Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-2-https-proxies/
   - VPN
     - Using TUN/TAP in go or how to write VPN https://nsl.cz/using-tun-tap-in-go-or-how-to-write-vpn/
     - Simple VPN in Golang https://taoshu.in/go/simple-vpn.html
