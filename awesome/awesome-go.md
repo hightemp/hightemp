@@ -667,6 +667,7 @@
 - https://nathanleclaire.com/post/
 - https://coffeebytes.dev/en/categories/go
 - https://www.inanzzz.com/index.php/posts/go
+- https://chettriyuvraj.github.io/blog
 
 ### Подкасты
 
