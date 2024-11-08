@@ -332,6 +332,7 @@
     - Building a DNS Resolver in Golang: A Step-by-Step Guide https://harshagarwal29.hashnode.dev/building-a-dns-resolver-in-golang-a-step-by-step-guide
   - Proxy, Прокси
     - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
+    - Go and Proxy Servers: Part 1 - HTTP Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/
   - VPN
     - Using TUN/TAP in go or how to write VPN https://nsl.cz/using-tun-tap-in-go-or-how-to-write-vpn/
     - Simple VPN in Golang https://taoshu.in/go/simple-vpn.html
