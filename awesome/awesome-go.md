@@ -412,6 +412,8 @@
 - Отладка
   - Трассировщики
     - Jaeger для трассировки в микросервисной архитектуре https://habr.com/ru/companies/yandex_praktikum/articles/729906/
+- Android
+  - Разработка мобильных приложений на Go https://habr.com/ru/companies/otus/articles/698140/
 - Архитектура
   - Кэширование
     - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
