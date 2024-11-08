@@ -321,6 +321,7 @@
 - Сеть
   - net/http
     - Diving deep into net/http : A look at http.RoundTripper https://lanre.wtf/blog/2017/07/24/roundtripper-go
+    - Adding middleware to Go HTTP client requests https://jonfriesen.ca/articles/go-http-client-middleware/
     - Go: Dump HTTP Request https://blog.cubieserver.de/2016/go-dump-http-request/
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
