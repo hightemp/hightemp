@@ -132,6 +132,8 @@
    - Сравнительный анализ методов определения нечетких дубликатов Сегалович http://download.yandex.ru/company/paper_65_v1.rtf
    - Алгоритм BM25 https://habr.com/ru/articles/162937/
    - 7 Open-Source Search Engines for your Enterprise and Startups you MUST know. https://dev.to/swirl/7-open-source-search-engines-for-your-enterprise-and-startups-you-must-know-4504
+- SSH
+   - Автор делится опытом разработки SSH-сервера для проекта Sdump, описывая проблему безопасности, связанную с тем, что SSH-серверы по умолчанию позволяют перебирать разные ключи при аутентификации, и предлагает решение через настройку файла ~/.ssh/config для использования определённых ключей, а также рассматривает методы идентификации пользователей для предотвращения злоупотребления сервисом. https://lanre.wtf/blog/2024/02/13/ssh-notes
 
 ### Блоги
 
