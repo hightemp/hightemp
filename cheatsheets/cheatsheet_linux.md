@@ -1,3 +1,9 @@
+## Увеличить instances inotify
+
+```bash
+sudo sh -c "echo 256 > /proc/sys/fs/inotify/max_user_instances"
+```
+
 ## Как составить список текущих вошедших в систему пользователей в Linux
 
 ```
