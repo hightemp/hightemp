@@ -319,6 +319,8 @@
   - Build Your Own SMTP Server in Go https://valyent.substack.com/p/build-your-own-smtp-server-in-go
     - Пишем свой SMTP сервер на Go https://kovardin.ru/articles/go/smtp-server/
 - Сеть
+  - net/http
+    - Diving deep into net/http : A look at http.RoundTripper https://lanre.wtf/blog/2017/07/24/roundtripper-go
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
   - HTTP
