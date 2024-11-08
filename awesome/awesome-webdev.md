@@ -63,6 +63,10 @@
 - Chamber
    - Репозиторий: https://github.com/segmentio/chamber
 
+### Сертификаты (SSL,TLS)
+
+- mkcert - это простой инструмент для создания локально доверенных SSL-сертификатов, предназначенных для разработки, который не требует дополнительной настройки. https://github.com/FiloSottile/mkcert
+
 ### Книги
 
 - https://hypermedia.systems/book/contents/
