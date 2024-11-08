@@ -669,6 +669,7 @@
 - https://www.inanzzz.com/index.php/posts/go
 - https://chettriyuvraj.github.io/blog
 - https://lanre.wtf/blog
+- https://jonfriesen.ca/articles/
 
 ### Подкасты
 
