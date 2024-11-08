@@ -413,6 +413,7 @@
   - Трассировщики
     - Jaeger для трассировки в микросервисной архитектуре https://habr.com/ru/companies/yandex_praktikum/articles/729906/
 - Android
+  - Using Golang + Gomobile To Build Android Application (with code) https://dev.to/nikl/using-golang-gomobile-to-build-android-application-with-code-18jo
   - Разработка мобильных приложений на Go https://habr.com/ru/companies/otus/articles/698140/
 - Архитектура
   - Кэширование
