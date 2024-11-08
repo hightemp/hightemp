@@ -321,6 +321,7 @@
 - Сеть
   - net/http
     - Diving deep into net/http : A look at http.RoundTripper https://lanre.wtf/blog/2017/07/24/roundtripper-go
+    - Go: Dump HTTP Request https://blog.cubieserver.de/2016/go-dump-http-request/
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
   - HTTP
