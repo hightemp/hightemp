@@ -33,6 +33,7 @@
 ### Видео
 
 - Neovim настройка | Плагины | LazyVim https://www.youtube.com/watch?v=MS9ZAQTMpKg
+- The Cursor Experience, With Neovim's Magic https://www.youtube.com/watch?v=r-3o35-5hlg
 
 #### Плагины, Dev as Life, Takuya Matsuyama
 
