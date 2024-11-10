@@ -14,6 +14,8 @@
     - `ag` The Silver Searcher - это инструмент поиска кода, аналогичный ack, с фокусом на скорость. 
         - https://github.com/ggreer/the_silver_searcher
         - `apt-get install silversearcher-ag`
+- NixOs
+    - https://github.com/nix-community/nixos-anywhere
 
 ### Аналоги утилит на rust
 
