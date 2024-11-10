@@ -22,6 +22,10 @@
 - https://github.com/alternbits/awesome-ai-newsletters
 - https://github.com/ai-update/ai-news
 
+### Данные для обучения
+
+- https://github.com/Zjh-819/LLMDataHub?tab=readme-ov-file
+
 ### Трекеры новостей
 
 - https://github.com/fabiochiusano/ai-news-tracker
