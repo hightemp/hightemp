@@ -26,6 +26,8 @@
 
 - https://github.com/Zjh-819/LLMDataHub?tab=readme-ov-file
 - https://huggingface.co/datasets/Open-Orca/OpenOrca
+- https://github.com/glgh/awesome-llm-human-preference-datasets?tab=readme-ov-file
+- https://github.com/jianzhnie/awesome-instruction-datasets
 
 ### Трекеры новостей
 
