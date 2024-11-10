@@ -78,6 +78,7 @@
     - Репа https://github.com/amber-lang/amber
 - Tocas UI - это проект, предоставляющий инструменты для быстрого и интуитивного создания разнообразных веб-сайтов и прогрессивных веб-приложений с использованием компонентов пользовательского интерфейса, разработанных в Тайване. https://tocas-ui.com/5.0/en-us/index.html
 - Полезные инструменты для разработки(генератор хэш суммы и др.) https://it-tools.tech/
+- Scripting Course. Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim. https://learnbyexample.github.io/scripting_course/
 
 ### Репозитории
 
