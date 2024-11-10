@@ -25,6 +25,7 @@
 ### Данные для обучения
 
 - https://github.com/Zjh-819/LLMDataHub?tab=readme-ov-file
+- https://huggingface.co/datasets/Open-Orca/OpenOrca
 
 ### Трекеры новостей
 
