@@ -1,8 +1,6 @@
 
 ### Полезные ссылки
 
-- pure bash bible https://github.com/dylanaraps/pure-bash-bible
-
 ### Блоги
 
 ### Статьи
@@ -15,3 +13,5 @@
 - Гайды
     - Bash Guide for Beginners https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html
     - Advanced Bash-Scripting Guide: Chapter 29. /dev and /proc https://tldp.org/LDP/abs/html/devref1.html
+    - pure bash bible https://github.com/dylanaraps/pure-bash-bible
+    - BASH Frequently Asked Questions https://mywiki.wooledge.org/BashFAQ
