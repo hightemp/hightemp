@@ -36,6 +36,7 @@
 - Linux
     - Introduction to Linux A Hands on Guide https://tldp.org/LDP/intro-linux/html/index.html
     - The Linux Kernel Module Programming Guide https://tldp.org/LDP/lkmpg/2.6/html/index.html
+    - The Linux System Administrator's Guide https://tldp.org/LDP/sag/html/index.html
 - NixOs
     - Немного о NixOS. Часть 1. Общая информация и установка https://habr.com/ru/articles/826148/
     - Мои приключения с NixOS, часть 1: начало работы https://setser.github.io/2019/02/01/nixos-part-1.html
