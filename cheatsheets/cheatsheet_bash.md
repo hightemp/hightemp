@@ -1,4 +1,10 @@
 
+### Просканировать порты локально
+
+```bash
+seq 1 65535 | while read port; do echo $port 2>/dev/null >/dev/tcp/127.0.0.1/$port && echo $port open; done
+```
+
 ### Как в bash разбить строку по символу?
 
 1. Разбить строку по пробелу:
