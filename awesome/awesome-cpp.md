@@ -37,4 +37,5 @@
   - Understanding the .gcc_except_table section in ELF binaries (GCC) https://martin.uy/blog/understanding-the-gcc_except_table-section-in-elf-binaries-gcc/
   - How to Handle Exceptions in C++ https://rollbar.com/guides/cpp/how-to-handle-exceptions-in-cpp/
   - How McSema Handles C++ Exceptions https://blog.trailofbits.com/2019/01/21/how-mcsema-handles-c-exceptions/
+  - The Secret Life of C++: Exceptions https://web.mit.edu/tibbetts/Public/inside-c/www/exceptions.html
 
