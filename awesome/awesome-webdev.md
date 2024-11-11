@@ -109,6 +109,16 @@
 - Go
    - https://docs.gitflic.space/registry/go
 
+### Инструменты для перехвата и анализа трафика
+
+- [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy tool
+- [HTTP Catcher](https://apps.apple.com/us/app/http-catcher/id1445874902) - iOS proxy debugger
+- [Charles Proxy](https://www.charlesproxy.com/) - Web debugging proxy application
+- [Burp Suite](https://portswigger.net/burp) - Web vulnerability scanner and proxy
+- [Packet Capture](https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture) - Android network traffic capture
+- [Reqable](https://reqable.com/) - Modern web debugging proxy
+- [Proxyman](https://proxyman.io/) - Modern web debugging proxy for macOS
+
 ### Статьи
 
 - Балансировщики
