@@ -342,6 +342,7 @@
   - DNS
     - Building a DNS Resolver in Golang: A Step-by-Step Guide https://harshagarwal29.hashnode.dev/building-a-dns-resolver-in-golang-a-step-by-step-guide
   - Proxy, Прокси
+    - Creating a simple proxy server with Go https://reintech.io/blog/creating-simple-proxy-server-with-go
     - Implementing a Logging Proxy Server with Golang https://medium.com/@bless2k/implementing-a-logging-proxy-server-with-golang-d0c673ef1f56
     - How to use a Forwarding Proxy with golang https://gianarb.it/blog/golang-forwarding-proxy
     - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
