@@ -34,6 +34,11 @@
 - How To Design and Manufacture Your Own Chip https://www.youtube.com/watch?v=caXwuuXSB-A
 - Build Your Own Drone Tracking Radar: Part 1 https://www.youtube.com/watch?v=igrN_wd_g74
 
+### Блоги
+
+- https://nicolasbrailo.github.io/blog/
+
 ### Статьи
 
 - Энтузиаст за 2 недели создал собственный GPU с нуля https://tproger.ru/news/entuziast-za-2-nedeli-sozdal-sobstvennyj-gpu-s-nulya
+   
