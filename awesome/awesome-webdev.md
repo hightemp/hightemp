@@ -121,6 +121,8 @@
 
 ### Статьи
 
+- Снифферы
+   - Снифферы трафика в мобильном тестировании: Обзор инструментов и их особенности
 - Балансировщики
    - Введение в современную сетевую балансировку и проксирование https://habr.com/ru/companies/vk/articles/347026/
    - The power of two random choices https://brooker.co.za/blog/2012/01/17/two-random.html
