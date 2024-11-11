@@ -297,6 +297,7 @@
 
 ### Статьи
 
+- Large language models, explained with a minimum of math and jargon https://seantrott.substack.com/p/large-language-models-explained
 - Advanced Prompt Engineering Techniques https://www.mercity.ai/blog-post/advanced-prompt-engineering-techniques
 - Can LLMs Critique and Iterate on Their Own Outputs? https://evjang.com/2023/03/26/self-reflection.html
 - Reflexion https://www.promptingguide.ai/techniques/reflexion
