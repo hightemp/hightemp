@@ -135,6 +135,7 @@
 - WebAssembly
    - How we sped up Notion in the browser with WASM SQLite https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite
 - Остальное
+   - Good software development habits https://zarar.dev/good-software-development-habits/
    - Data Replication Design Spectrum (В статье рассматривается спектр алгоритмов репликации данных, коассифицированных в зависимости от того, как они справляются со сбоями реплик — от репликации без участия лидера на основе кворума до репликации на основе реконфигурации и консенсуса с участием лидера.) https://transactional.blog/blog/2024-data-replication-design-spectrum
    - 6 Essential Website Performance Optimization Tips to Implement https://storychief.io/blog/website-performance-optimization-tips
    - Настраиваем Windows WSL для локальной разработки Laravel https://habr.com/ru/articles/807859/
