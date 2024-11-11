@@ -28,7 +28,11 @@
 
 ### Статьи
 
-- Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
-- Полное руководство по CMake. Часть первая: Синтаксис https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-pervaya-Sintaksis-02-27
-- Полное руководство по CMake. Часть вторая: Система сборки https://web.archive.org/web/20220528140444/https://habr.com/en/post/432096/
+- Основы
+- CMake
+  - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
+  - Полное руководство по CMake. Часть первая: Синтаксис https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-pervaya-Sintaksis-02-27
+  - Полное руководство по CMake. Часть вторая: Система сборки https://web.archive.org/web/20220528140444/https://habr.com/en/post/432096/
+- Exceptions
+  - Understanding the .gcc_except_table section in ELF binaries (GCC) https://martin.uy/blog/understanding-the-gcc_except_table-section-in-elf-binaries-gcc/
 
