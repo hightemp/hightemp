@@ -425,6 +425,7 @@
     - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
   - DDD
     - Introduction to DDD Lite: When microservices in Go are not enough https://threedots.tech/post/ddd-lite-in-go-introduction/
+    - Implementing Domain Patterns with Hexagonal Architecture in Go https://medium.com/@jmanuelabanto/implementing-domain-patterns-with-hexagonal-architecture-in-go-5aac29fde7e1
   - CQRS (использование разных моделей для чтения и записи)
     - How to use basic CQRS in Go https://threedots.tech/post/basic-cqrs-in-go/
   - Чистая архитектура
