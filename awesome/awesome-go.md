@@ -211,6 +211,7 @@
 - Top 10 Udemy Courses for Golang Developers in 2024 https://medium.com/javarevisited/top-10-udemy-courses-for-golang-developers-in-2023-fa157cceff8
 - Go Class Matt KØDVB https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
 - Основы программирования на Golang (на индонезийском) https://dasarpemrogramangolang.novalagung.com/
+- https://github.com/CodeYourFuture/immersive-go-course/
 
 ### Гайды
 
