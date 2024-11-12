@@ -534,6 +534,9 @@
   - WebAssembly on the server: Compiling Rust to WASM and executing it from Go https://blog.arcjet.com/webassembly-on-the-server-compiling-rust-to-wasm-and-executing-it-from-go/
 - Мониторинг
   - Monitoring the Golang App with Prometheus, Grafana, New Relic and Sentry https://medium.com/@mertcakmak2/monitoring-the-golang-app-with-prometheus-grafana-new-relic-and-sentry-fce1ca6980b5
+- Поиск
+  - pgvector
+    - Пишем поиск семантически похожих текстов (или товаров) за полчаса на Go и Postgres (pgVector) https://habr.com/ru/companies/karuna/articles/809305/
 - Остальное
   - Using OpenSearch with Golang https://www.inanzzz.com/index.php/post/7e0s/using-opensearch-with-golang
   - Simple Fixed-window Rate Limiter With Redis https://hjr265.me/blog/simple-rate-limiter-with-redis/
