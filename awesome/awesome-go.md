@@ -703,6 +703,7 @@
 - https://lanre.wtf/blog
 - https://jonfriesen.ca/articles/
 - https://articles.singee.me/tag/Go
+- https://eax.me/tag/golang/
 
 ### Подкасты
 
