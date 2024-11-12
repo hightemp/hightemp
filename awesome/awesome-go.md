@@ -281,6 +281,7 @@
   - time
     - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
     - Working With Time in Golang https://www.bytesizego.com/blog/golang-time
+    - Comprehensive Guide to Dates and Times in Go https://dev.to/bootdotdev/comprehensive-guide-to-dates-and-times-in-go-dpn
   - Утилиты
     - Let's stop editing go.mod manually https://tpaschalis.me/go-mod-edit/
   - Остальное
