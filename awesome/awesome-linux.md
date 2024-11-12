@@ -46,6 +46,8 @@
         - Set up self-healing services with systemd https://www.redhat.com/en/blog/systemd-automate-recovery
     - Остальное        
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
+- podman
+    - Podman at the edge: Keeping services alive with custom healthcheck actions https://www.redhat.com/en/blog/podman-edge-healthcheck
 - NixOs
     - Немного о NixOS. Часть 1. Общая информация и установка https://habr.com/ru/articles/826148/
     - Мои приключения с NixOS, часть 1: начало работы https://setser.github.io/2019/02/01/nixos-part-1.html
