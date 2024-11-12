@@ -6,6 +6,7 @@
     - https://brightdata.com/
     - https://iproyal.com/
 - Остальное
+    - https://ru.proxy.market/
 
 ### GeoIP
 
