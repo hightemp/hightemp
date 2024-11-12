@@ -39,10 +39,12 @@
     - The Linux Kernel Module Programming Guide https://tldp.org/LDP/lkmpg/2.6/html/index.html
     - The Linux System Administrator's Guide https://tldp.org/LDP/sag/html/index.html
 - systemd
+    - Основное
+        - How to view status of a service on Linux using systemctl https://www.cyberciti.biz/faq/systemd-systemctl-view-status-of-a-service-on-linux/
+        - Chapter 10. Managing Services with systemd https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system_administrators_guide/chap-managing_services_with_systemd#sect-Managing_Services_with_systemd-Introduction
     - healthcheck
         - Set up self-healing services with systemd https://www.redhat.com/en/blog/systemd-automate-recovery
-    - Остальное
-        - Chapter 10. Managing Services with systemd https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system_administrators_guide/chap-managing_services_with_systemd#sect-Managing_Services_with_systemd-Introduction
+    - Остальное        
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
 - NixOs
     - Немного о NixOS. Часть 1. Общая информация и установка https://habr.com/ru/articles/826148/
