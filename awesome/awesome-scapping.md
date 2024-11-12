@@ -7,6 +7,11 @@
     - https://iproyal.com/
 - Остальное
     - https://ru.proxy.market/
+    - https://fineproxy.org/
+    - https://proxyline.net/en/
+    - https://proxy-seller.com/
+    - https://www.webshare.io/proxy-server
+    - https://www.blackhatworld.com/
 
 ### GeoIP
 
