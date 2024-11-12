@@ -38,6 +38,8 @@
     - Introduction to Linux A Hands on Guide https://tldp.org/LDP/intro-linux/html/index.html
     - The Linux Kernel Module Programming Guide https://tldp.org/LDP/lkmpg/2.6/html/index.html
     - The Linux System Administrator's Guide https://tldp.org/LDP/sag/html/index.html
+- systemd
+    - Set up self-healing services with systemd https://www.redhat.com/en/blog/systemd-automate-recovery
 - NixOs
     - Немного о NixOS. Часть 1. Общая информация и установка https://habr.com/ru/articles/826148/
     - Мои приключения с NixOS, часть 1: начало работы https://setser.github.io/2019/02/01/nixos-part-1.html
@@ -49,8 +51,9 @@
     - NixOS — установка и настройка https://vk.com/@linuxsovet-nixos-ustanovka-i-nastroika
 - Git
     - On the Matter of Beautiful git Diffs https://nathanleclaire.com/blog/2016/06/28/on-the-matter-of-beautiful-git-diffs/
-- How to supercharge string search through a directory hierarchy on a Linux/Unix [статья](https://www.cyberciti.biz/open-source/command-line-hacks/ag-supercharge-string-search-through-directory-hierarchy/)
-- You can list a directory containing 8 million files! But not with ls. [статья](http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html)
+- Остальное
+    - How to supercharge string search through a directory hierarchy on a Linux/Unix [статья](https://www.cyberciti.biz/open-source/command-line-hacks/ag-supercharge-string-search-through-directory-hierarchy/)
+    - You can list a directory containing 8 million files! But not with ls. [статья](http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html)
 
 ### Видео
 
