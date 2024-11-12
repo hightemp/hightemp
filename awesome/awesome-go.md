@@ -369,6 +369,8 @@
     - pcap
       - How to Read and Extract Information from a PCAP File in Go https://byteshiva.medium.com/how-to-read-and-extract-information-from-a-pcap-file-in-go-287c0bd66561
       - Programmatically Analyze Packet Captures with GoPacket https://www.akitasoftware.com/blog-posts/programmatically-analyze-packet-captures-with-gopacket
+  - Балансировщик
+    - Building a simple load balancer in Go https://dev.to/vivekalhat/building-a-simple-load-balancer-in-go-70d
   - Веб-сервер
     - load-balancer
       - Building a simple load balancer in Go https://dev.to/vivekalhat/building-a-simple-load-balancer-in-go-70d
