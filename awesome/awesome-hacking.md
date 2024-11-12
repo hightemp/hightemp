@@ -11,6 +11,7 @@
 ### Форумы
 
 - https://www.blackhatworld.com/
+- https://bhf.pro/
 
 ## Репозитории
 
