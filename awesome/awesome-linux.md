@@ -24,6 +24,7 @@
 
 ### Блоги
 
+- https://www.redhat.com/en/blog
 - https://www.brendangregg.com/blog/
 
 ### Пакетные менеджеры
