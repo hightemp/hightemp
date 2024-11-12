@@ -39,7 +39,10 @@
     - The Linux Kernel Module Programming Guide https://tldp.org/LDP/lkmpg/2.6/html/index.html
     - The Linux System Administrator's Guide https://tldp.org/LDP/sag/html/index.html
 - systemd
-    - Set up self-healing services with systemd https://www.redhat.com/en/blog/systemd-automate-recovery
+    - healthcheck
+        - Set up self-healing services with systemd https://www.redhat.com/en/blog/systemd-automate-recovery
+    - Остальное
+        - https://www.hashicorp.com/resources/systemd-the-good-parts
 - NixOs
     - Немного о NixOS. Часть 1. Общая информация и установка https://habr.com/ru/articles/826148/
     - Мои приключения с NixOS, часть 1: начало работы https://setser.github.io/2019/02/01/nixos-part-1.html
