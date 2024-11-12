@@ -279,6 +279,7 @@
   - Unique
     - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
   - time
+    - Do you really understand time.Now()? https://articles.singee.me/golang-time
     - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
     - Working With Time in Golang https://www.bytesizego.com/blog/golang-time
     - Comprehensive Guide to Dates and Times in Go https://dev.to/bootdotdev/comprehensive-guide-to-dates-and-times-in-go-dpn
@@ -697,6 +698,7 @@
 - https://chettriyuvraj.github.io/blog
 - https://lanre.wtf/blog
 - https://jonfriesen.ca/articles/
+- https://articles.singee.me/tag/Go
 
 ### Подкасты
 
