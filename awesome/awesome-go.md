@@ -280,6 +280,7 @@
     - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
   - time
     - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
+    - Working With Time in Golang https://www.bytesizego.com/blog/golang-time
   - Утилиты
     - Let's stop editing go.mod manually https://tpaschalis.me/go-mod-edit/
   - Остальное
