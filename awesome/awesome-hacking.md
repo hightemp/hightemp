@@ -12,6 +12,7 @@
 
 - https://www.blackhatworld.com/
 - https://bhf.pro/
+- https://codeby.net/
 
 ## Репозитории
 
