@@ -278,6 +278,8 @@
     - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
   - Unique
     - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
+  - init
+    - \[Memo\] Go init behavior https://articles.singee.me/go-init-behaviour
   - time
     - Do you really understand time.Now()? https://articles.singee.me/golang-time
     - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
