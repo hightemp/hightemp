@@ -28,6 +28,7 @@
         - Оптимизируй свой AI: разоблачение 6 мифов о работе с векторами в Pgvector https://proglib.io/p/optimiziruy-svoy-ai-razoblachenie-6-mifov-o-rabote-s-vektorami-v-pgvector-2024-10-22
         - Практический пример использования pgvector https://eax.me/pgvector/
         - Использование pgvector для поиска сходств в корпоративных данных https://hackernoon.com/lang/ru/использование-pgvector-для-обнаружения-сходств-в-корпоративных-данных
+        - Создание эффективного поиска на основе ИИ в Greenplum с помощью pgvector и OpenAI https://datafinder.ru/products/sozdanie-effektivnogo-poiska-na-osnove-ii-v-greenplum-s-pomoshchyu-pgvector-i-openai
     - Остальное
         - Неожиданная находка, которая освобождает 20 GB неиспользованного индексного пространства https://habr.com/ru/companies/otus/articles/672102/
         - PostgreSQL-триггеры: создание, удаление, примеры https://timeweb.cloud/tutorials/postgresql/postgresql-triggery-sozdanie-udalenie-primery
