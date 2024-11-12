@@ -11,6 +11,9 @@
 
 - https://lite.ip2location.com/ip2location-lite
 - https://dev.maxmind.com/geoip/geolite2-free-geolocation-data/
+- https://ipinfo.io/products/ip-database-download
+- Коллекции
+    - https://github.com/topics/ip-database
 
 ### Сервисы проксирующие запросы
 
