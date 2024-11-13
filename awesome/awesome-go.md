@@ -207,6 +207,7 @@
 - Go.nvim - это современный плагин для Neovim, написанный на Lua, который предоставляет широкий набор функций для разработки на Go, включая интеграцию с treesitter, nvim-lsp и отладчиком dap, а также множество инструментов для работы с кодом, тестирования, отладки и рефакторинга. https://github.com/ray-x/go.nvim
 - Этот проект представляет собой детально настроенную конфигурацию Neovim с множеством плагинов и функций, включая управление пакетами, мнемонические сочетания клавиш, улучшенный интерфейс, интеграцию с терминалом, поддержку AI и оптимизированную производительность, работающую как на NixOS Linux, так и на macOS. https://github.com/Allaman/nvim
 - A collection of real world advice for writing maintainable Go programs. https://dave.cheney.net/practical-go
+- Go Wiki: Go Code Review Comments https://go.dev/wiki/CodeReviewComments
 
 ### Курсы
 
