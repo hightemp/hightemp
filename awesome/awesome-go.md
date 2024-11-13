@@ -318,6 +318,7 @@
   - Catching Multiple SIGINTs in Go - Confirming if You Really Want to Quit https://vlads.me/post/catching-multiple-sigints-in-go-confirming-if-you-really-want-to-quit/
   - SIGKILL vs SIGTERM: A Developer's Guide to Process Termination https://www.stackstate.com/blog/sigkill-vs-sigterm-a-developers-guide-to-process-termination/
 - Пример создания приложения или сервиса
+  - Как создать систему страшных звонков на Хэллоуин на Go и Exolve Voice API https://habr.com/ru/companies/exolve/articles/853952/
   - Альтернативный сервис оплаты в приложениях и играх https://kovardin.ru/articles/miniservices/payments/
   - Приложение на Go шаг за шагом. Часть первая: скелет, НТТР-сервер и конфигурация https://habr.com/ru/companies/yandex_praktikum/articles/854482/
   - Escape JavaScript hell and write everything in Go https://oblivion.keyruu.de/Web-Development/Everything-in-Go
