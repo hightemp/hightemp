@@ -476,6 +476,7 @@
     - Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om
     - Hexagonal Architecture: Structuring a project and the influence of granularity https://medium.com/@TonyBologni/hexagonal-architecture-structuring-a-project-and-the-influence-of-granularity-df4e0851ab5c
   - Паттерны
+    - Паттерны проектирования Go. Fan-in https://habr.com/ru/articles/854302/
     - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
     - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
     - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/
