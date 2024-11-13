@@ -208,6 +208,7 @@
 - Этот проект представляет собой детально настроенную конфигурацию Neovim с множеством плагинов и функций, включая управление пакетами, мнемонические сочетания клавиш, улучшенный интерфейс, интеграцию с терминалом, поддержку AI и оптимизированную производительность, работающую как на NixOS Linux, так и на macOS. https://github.com/Allaman/nvim
 - A collection of real world advice for writing maintainable Go programs. https://dave.cheney.net/practical-go
 - Go Wiki: Go Code Review Comments https://go.dev/wiki/CodeReviewComments
+- Этот проект демонстрирует реализацию Clean Architecture в Go, развивавшуюся через четыре версии (с 2017 по 2024 год), с акцентом на независимость бизнес-логики от внешних фреймворков, баз данных и UI, включающую четыре основных слоя: Models, Repository, Usecase и Delivery. https://github.com/bxcodec/go-clean-arch
 
 ### Курсы
 
