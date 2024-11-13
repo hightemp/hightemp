@@ -555,6 +555,7 @@
   - pgvector
     - Пишем поиск семантически похожих текстов (или товаров) за полчаса на Go и Postgres (pgVector) https://habr.com/ru/companies/karuna/articles/809305/
 - Остальное
+  - Развлекаемся с итераторами в Go https://habr.com/ru/companies/beget/articles/852940/
   - Некоторые тонкости управления зависимостями в Go https://eax.me/go-mod/
   - Using OpenSearch with Golang https://www.inanzzz.com/index.php/post/7e0s/using-opensearch-with-golang
   - Simple Fixed-window Rate Limiter With Redis https://hjr265.me/blog/simple-rate-limiter-with-redis/
