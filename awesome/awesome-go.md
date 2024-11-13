@@ -738,6 +738,7 @@
 - Golang Clean Architecture REST API example https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API
 - Stock Analysis API https://github.com/shivamsouravjha/stock-backend
 - https://github.com/gothinkster/golang-gin-realworld-example-app
+- https://github.com/go-kit/examples/
 
 ### Видео
 
