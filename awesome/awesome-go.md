@@ -270,6 +270,8 @@
     - Golang Defer: From Basic To Traps https://victoriametrics.com/blog/defer-in-go/index.html
   - Массивы
     - How Go Arrays Work and Get Tricky with For-Range https://victoriametrics.com/blog/go-array/index.html
+  - Map
+    - Вопросы по мэпам (map) в Go https://habr.com/ru/articles/854214/
   - Waitgroup
     - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
   - JSON
