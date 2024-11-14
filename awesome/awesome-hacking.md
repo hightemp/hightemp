@@ -8,6 +8,10 @@
 
 - https://virustest.gov.ru/
 
+### Книги
+
+- https://book.hacktricks.xyz/
+
 ### Форумы
 
 - https://www.blackhatworld.com/
