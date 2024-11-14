@@ -141,12 +141,6 @@
    - Gotchas with SQLite in Production https://blog.pecar.me/sqlite-prod
 - WebAssembly
    - How we sped up Notion in the browser with WASM SQLite https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite
-- Остальное
-   - Good software development habits https://zarar.dev/good-software-development-habits/
-   - Data Replication Design Spectrum (В статье рассматривается спектр алгоритмов репликации данных, коассифицированных в зависимости от того, как они справляются со сбоями реплик — от репликации без участия лидера на основе кворума до репликации на основе реконфигурации и консенсуса с участием лидера.) https://transactional.blog/blog/2024-data-replication-design-spectrum
-   - 6 Essential Website Performance Optimization Tips to Implement https://storychief.io/blog/website-performance-optimization-tips
-   - Настраиваем Windows WSL для локальной разработки Laravel https://habr.com/ru/articles/807859/
-   - How HLS Works https://jazco.dev/2024/07/05/hls/
 - Тестирование
    - Jetbrains http client
       - Convenient API Testing – IntelliJ IDEA’s HTTP Client https://digital.interhyp.de/2022/01/27/convenient-api-testing-intellij-ideas-http-client/
@@ -160,6 +154,13 @@
    - A Comprehensive List of Similarity Search Algorithms https://crucialbits.com/blog/a-comprehensive-list-of-similarity-search-algorithms/
 - SSH
    - Автор делится опытом разработки SSH-сервера для проекта Sdump, описывая проблему безопасности, связанную с тем, что SSH-серверы по умолчанию позволяют перебирать разные ключи при аутентификации, и предлагает решение через настройку файла ~/.ssh/config для использования определённых ключей, а также рассматривает методы идентификации пользователей для предотвращения злоупотребления сервисом. https://lanre.wtf/blog/2024/02/13/ssh-notes
+- Остальное
+   - Pushy to the Limit: Evolving Netflix’s WebSocket proxy for the future https://netflixtechblog.com/pushy-to-the-limit-evolving-netflixs-websocket-proxy-for-the-future-b468bc0ff658
+   - Good software development habits https://zarar.dev/good-software-development-habits/
+   - Data Replication Design Spectrum (В статье рассматривается спектр алгоритмов репликации данных, коассифицированных в зависимости от того, как они справляются со сбоями реплик — от репликации без участия лидера на основе кворума до репликации на основе реконфигурации и консенсуса с участием лидера.) https://transactional.blog/blog/2024-data-replication-design-spectrum
+   - 6 Essential Website Performance Optimization Tips to Implement https://storychief.io/blog/website-performance-optimization-tips
+   - Настраиваем Windows WSL для локальной разработки Laravel https://habr.com/ru/articles/807859/
+   - How HLS Works https://jazco.dev/2024/07/05/hls/
 
 ### Блоги
 
