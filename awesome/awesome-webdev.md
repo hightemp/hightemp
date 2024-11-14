@@ -123,6 +123,10 @@
 - [Reqable](https://reqable.com/) - Modern web debugging proxy
 - [Proxyman](https://proxyman.io/) - Modern web debugging proxy for macOS
 
+### REST Клиенты, аналоги Postman
+
+- https://yaak.app/
+
 ### Дата-центры
 
 - Голандия
