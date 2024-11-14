@@ -299,6 +299,8 @@
     - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
   - embed
     - Embedding files in Go using the "embed" package https://echorand.me/posts/go-embed/
+  - plugin
+    - Getting started with Go plugin package https://echorand.me/posts/getting-started-with-golang-plugins/
   - init
     - \[Memo\] Go init behavior https://articles.singee.me/go-init-behaviour
   - time
