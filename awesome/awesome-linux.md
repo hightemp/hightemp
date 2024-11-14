@@ -42,6 +42,7 @@
     - Introduction to Linux A Hands on Guide https://tldp.org/LDP/intro-linux/html/index.html
     - The Linux Kernel Module Programming Guide https://tldp.org/LDP/lkmpg/2.6/html/index.html
     - The Linux System Administrator's Guide https://tldp.org/LDP/sag/html/index.html
+    - Linux's Bedtime Routine (В статье рассматриваются процессы, связанные с переходом системы Linux из активного состояния в спящий режим. В ней подробно описываются механизмы синхронизации файловых систем, управление питанием и базовые функции ядра, которые облегчают этот переход) https://tookmund.com/2024/09/hibernation-preparation 
 - systemd
     - Основное
         - How to view status of a service on Linux using systemctl https://www.cyberciti.biz/faq/systemd-systemctl-view-status-of-a-service-on-linux/
