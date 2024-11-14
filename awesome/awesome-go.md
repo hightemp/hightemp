@@ -23,6 +23,7 @@
 
 - https://goplay.space/
 - https://go.dev/play/
+- https://goplay.tools/
 
 ### Упражнения
 
