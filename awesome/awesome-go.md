@@ -743,6 +743,7 @@
 - https://articles.singee.me/tag/Go
 - https://eax.me/tag/golang/
 - https://blog.cubieserver.de/tags/go/
+- https://echorand.me/posts/
 
 ### Подкасты
 
