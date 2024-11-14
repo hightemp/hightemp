@@ -311,6 +311,7 @@
   - Утилиты
     - Let's stop editing go.mod manually https://tpaschalis.me/go-mod-edit/
   - Остальное
+    - Notes on Go https://echorand.me/posts/go-notes/
     - Shallow copy and Deep copy in Go https://echorand.me/posts/go-values-references-etc/
     - Named return values in Go https://echorand.me/posts/go-named-return-values/
     - Введение в систему модулей Go https://habr.com/ru/articles/421411/
