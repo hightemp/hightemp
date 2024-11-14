@@ -306,6 +306,7 @@
     - Outline of Reading List https://www.advtopicsindeeplearning.com/reading-list.html
 - arxiv
     - What do tokens know about their characters and how do they know it? https://arxiv.org/abs/2206.02608
+    - Knowledge of Pretrained Language Models on Surface Information of Tokens https://arxiv.org/pdf/2402.09808
 - Остальное
     - Tokenization in large language models, explained https://seantrott.substack.com/p/tokenization-in-large-language-models
     - Large language models, explained with a minimum of math and jargon https://seantrott.substack.com/p/large-language-models-explained
