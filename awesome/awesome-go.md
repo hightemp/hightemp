@@ -361,6 +361,7 @@
     - Understanding Interfaces Through Golang: Mocking HTTP Server Response https://chettriyuvraj.github.io/blog/Understanding_Interfaces_Golang_Mock_HTTP
     - Go: Dump HTTP Request https://blog.cubieserver.de/2016/go-dump-http-request/
     - A story about Go http.Client https://www.jacoelho.com/blog/2017/08/a-story-about-go-http.client/
+    - Go: Dump HTTP Request https://blog.cubieserver.de/2016/go-dump-http-request/
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
   - HTTP
