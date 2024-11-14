@@ -589,6 +589,7 @@
   - WebAssembly and Go: A Guide to Getting Started (Part 2) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-2/
   - Running WebAssembly code in Go https://dev.to/eminetto/running-webassembly-code-in-go-35k9
   - WebAssembly on the server: Compiling Rust to WASM and executing it from Go https://blog.arcjet.com/webassembly-on-the-server-compiling-rust-to-wasm-and-executing-it-from-go/
+  - Notes on running Go in the browser with WebAssembly https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/
 - Поиск
   - pgvector
     - Пишем поиск семантически похожих текстов (или товаров) за полчаса на Go и Postgres (pgVector) https://habr.com/ru/companies/karuna/articles/809305/
