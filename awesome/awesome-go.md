@@ -362,6 +362,7 @@
     - Примеры
       - How to Parse a JSON Request Body in Go https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
     - Остальное
+      - Writing HTTP client middleware in Go https://echorand.me/posts/go-http-client-middleware/
       - HTTP request debugging in Go with httputil http://speakmy.name/2014/07/29/http-request-debugging-in-go/
       - Diving deep into net/http : A look at http.RoundTripper https://lanre.wtf/blog/2017/07/24/roundtripper-go
       - Adding middleware to Go HTTP client requests https://jonfriesen.ca/articles/go-http-client-middleware/
