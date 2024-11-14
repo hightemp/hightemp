@@ -25,6 +25,7 @@
 - https://go.dev/play/
 - https://goplay.tools/
 - https://www.boot.dev/playground/go
+- https://verytools.net/go-playground
 
 ### Упражнения
 
