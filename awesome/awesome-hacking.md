@@ -8,10 +8,6 @@
 
 - https://virustest.gov.ru/
 
-### Книги
-
-- https://book.hacktricks.xyz/
-
 ### Форумы
 
 - https://www.blackhatworld.com/
@@ -97,6 +93,10 @@
 - Offensive Security Training - https://offensive-security.com
 - SANS Institute - https://sans.org
 - TryHackMe - https://tryhackme.com
+
+### Книги, Wiki
+
+- https://book.hacktricks.xyz/
 
 ### Книги
 
