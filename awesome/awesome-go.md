@@ -426,6 +426,9 @@
 - Файлы
   - Read File in Golang https://www.scaler.com/topics/golang/golang-read-file/
   - How to Read a Text File with Go https://www.jeremymorgan.com/tutorials/go/how-to-read-text-file-go/
+- Метрики
+  - prometheus
+    - Пишем метрики в Prometheus на языке Go https://eax.me/golang-prometheus-metrics/
 - Аунтификация
   - Authentication for Go Applications: The Secure Way https://www.jetbrains.com/guide/go/tutorials/authentication-for-go-apps/auth/?ysclid=m06r9cxvkn600024780
 - Авторизация
