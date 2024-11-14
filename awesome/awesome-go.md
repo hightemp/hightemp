@@ -273,6 +273,8 @@
     - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
   - Каналы
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
+  - Гоурутины, goroutines
+    - Demystifying Golang Channels, Goroutines, and Optimal Concurrency https://levelup.gitconnected.com/golang-channels-goroutines-and-optimal-concurrency-demystifying-through-examples-a43ba6aee74f
   - Слайсы
     - Slices in Go: Grow Big or Go Home https://victoriametrics.com/blog/go-slice/index.html
   - Defer
