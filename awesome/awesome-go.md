@@ -393,6 +393,7 @@
   - WebSockets
     - Implementing WebSockets in Golang: Real-Time Communication for Modern Applications https://medium.com/wisemonks/implementing-websockets-in-golang-d3e8e219733b
     - How to implement instant messaging with WebSockets in Go https://yalantis.com/blog/how-to-build-websockets-in-go/
+    - Using WebSockets in Golang https://blog.logrocket.com/using-websockets-go/
   - Proxy, Прокси
     - Implementing a Reverse Proxy API in Go https://tobiojuolape.hashnode.dev/implementing-a-reverse-proxy-api-in-go
     - Creating a simple proxy server with Go https://reintech.io/blog/creating-simple-proxy-server-with-go
