@@ -304,9 +304,12 @@
     - "Road to Sora" Paper Reading List https://ghost.oxen.ai/road-to-sora-reading-list/ 
     - Understanding Large Language Models -- A Transformative Reading List https://sebastianraschka.com/blog/2023/llm-reading-list.html
     - Outline of Reading List https://www.advtopicsindeeplearning.com/reading-list.html
-- arxiv
-    - What do tokens know about their characters and how do they know it? https://arxiv.org/abs/2206.02608
-    - Knowledge of Pretrained Language Models on Surface Information of Tokens https://arxiv.org/pdf/2402.09808
+- Найчные публикации
+    - arxiv
+        - What do tokens know about their characters and how do they know it? https://arxiv.org/abs/2206.02608
+        - Knowledge of Pretrained Language Models on Surface Information of Tokens https://arxiv.org/pdf/2402.09808
+    - Остальное
+        - The Hidden Folk: Linguistic Properties Encoded in Multilingual Contextual Character Representations https://aclanthology.org/2023.cawl-1.2/
 - Остальное
     - Tokenization in large language models, explained https://seantrott.substack.com/p/tokenization-in-large-language-models
     - Large language models, explained with a minimum of math and jargon https://seantrott.substack.com/p/large-language-models-explained
