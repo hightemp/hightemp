@@ -403,6 +403,8 @@
   - Работа с траффиком
     - pcap
       - Capture traffic with Golang https://dev.to/aohorodnyk/capture-traffic-with-golang-2nmo
+- Криптография
+  - Go: Verify Cryptographic Signatures https://blog.cubieserver.de/2016/go-verify-cryptographic-signatures/
 - Файлы
   - Read File in Golang https://www.scaler.com/topics/golang/golang-read-file/
   - How to Read a Text File with Go https://www.jeremymorgan.com/tutorials/go/how-to-read-text-file-go/
