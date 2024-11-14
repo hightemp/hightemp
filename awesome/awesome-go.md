@@ -765,6 +765,7 @@
 - https://eax.me/tag/golang/
 - https://blog.cubieserver.de/tags/go/
 - https://echorand.me/posts/
+- https://programmingpercy.tech/blog/category/go/
 
 ### Подкасты
 
