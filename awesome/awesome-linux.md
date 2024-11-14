@@ -22,6 +22,12 @@
 - tree
     - https://github.com/solidiquis/erdtree
 
+### Книги, Wiki
+
+- https://bottomupcs.com/index.html
+
+### Книги
+
 ### Блоги
 
 - https://www.redhat.com/en/blog
