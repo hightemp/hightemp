@@ -24,6 +24,7 @@
 - https://goplay.space/
 - https://go.dev/play/
 - https://goplay.tools/
+- https://www.boot.dev/playground/go
 
 ### Упражнения
 
