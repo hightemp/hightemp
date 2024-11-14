@@ -426,9 +426,10 @@
 - Файлы
   - Read File in Golang https://www.scaler.com/topics/golang/golang-read-file/
   - How to Read a Text File with Go https://www.jeremymorgan.com/tutorials/go/how-to-read-text-file-go/
-- Метрики
+- Мониторинг, метрики
   - prometheus
     - Пишем метрики в Prometheus на языке Go https://eax.me/golang-prometheus-metrics/
+    - Monitoring the Golang App with Prometheus, Grafana, New Relic and Sentry https://medium.com/@mertcakmak2/monitoring-the-golang-app-with-prometheus-grafana-new-relic-and-sentry-fce1ca6980b5
 - Аунтификация
   - Authentication for Go Applications: The Secure Way https://www.jetbrains.com/guide/go/tutorials/authentication-for-go-apps/auth/?ysclid=m06r9cxvkn600024780
 - Авторизация
@@ -576,8 +577,6 @@
   - WebAssembly and Go: A Guide to Getting Started (Part 2) https://thenewstack.io/webassembly-and-go-a-guide-to-getting-started-part-2/
   - Running WebAssembly code in Go https://dev.to/eminetto/running-webassembly-code-in-go-35k9
   - WebAssembly on the server: Compiling Rust to WASM and executing it from Go https://blog.arcjet.com/webassembly-on-the-server-compiling-rust-to-wasm-and-executing-it-from-go/
-- Мониторинг
-  - Monitoring the Golang App with Prometheus, Grafana, New Relic and Sentry https://medium.com/@mertcakmak2/monitoring-the-golang-app-with-prometheus-grafana-new-relic-and-sentry-fce1ca6980b5
 - Поиск
   - pgvector
     - Пишем поиск семантически похожих текстов (или товаров) за полчаса на Go и Postgres (pgVector) https://habr.com/ru/companies/karuna/articles/809305/
