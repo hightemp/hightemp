@@ -32,6 +32,10 @@
 - https://nix.dev/install-nix#install-nix
 - https://docs.brew.sh/Homebrew-on-Linux
 
+### StackOverflow
+
+- Test if remote TCP port is open from a shell script https://stackoverflow.com/questions/4922943/test-if-remote-tcp-port-is-open-from-a-shell-script
+
 ### Статьи
 
 - Linux
