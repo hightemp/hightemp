@@ -151,6 +151,9 @@
       - Exploring the HTTP request syntax https://www.jetbrains.com/help/idea/exploring-http-syntax.html#environment-variables
    - Остальное
       - Shifting E2E Testing Left at Uber https://www.uber.com/en-IN/blog/shifting-e2e-testing-left/
+- highload
+   - Оптимизации
+      - Unlock 1 Million RPS: Experience Triple the Speed with Valkey https://valkey.io/blog/unlock-one-million-rps/
 - Поиск
    - Сравнительный анализ методов определения нечетких дубликатов Сегалович http://download.yandex.ru/company/paper_65_v1.rtf
    - Алгоритм BM25 https://habr.com/ru/articles/162937/
