@@ -310,6 +310,7 @@
         - Knowledge of Pretrained Language Models on Surface Information of Tokens https://arxiv.org/pdf/2402.09808
     - Остальное
         - The Hidden Folk: Linguistic Properties Encoded in Multilingual Contextual Character Representations https://aclanthology.org/2023.cawl-1.2/
+        - Can large language models help augment English psycholinguistic datasets? https://link.springer.com/article/10.3758/s13428-024-02337-z
 - Остальное
     - Tokenization in large language models, explained https://seantrott.substack.com/p/tokenization-in-large-language-models
     - Large language models, explained with a minimum of math and jargon https://seantrott.substack.com/p/large-language-models-explained
