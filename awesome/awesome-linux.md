@@ -44,6 +44,8 @@
     - The Linux System Administrator's Guide https://tldp.org/LDP/sag/html/index.html
     - Linux's Bedtime Routine (В статье рассматриваются процессы, связанные с переходом системы Linux из активного состояния в спящий режим. В ней подробно описываются механизмы синхронизации файловых систем, управление питанием и базовые функции ядра, которые облегчают этот переход) https://tookmund.com/2024/09/hibernation-preparation 
     - How raw sockets behave differently in macOS and Linux https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/
+- sockets
+    - What is a socket? https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket
 - systemd
     - Основное
         - How to view status of a service on Linux using systemctl https://www.cyberciti.biz/faq/systemd-systemctl-view-status-of-a-service-on-linux/
