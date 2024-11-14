@@ -308,6 +308,7 @@
     - Let's stop editing go.mod manually https://tpaschalis.me/go-mod-edit/
   - Остальное
     - Shallow copy and Deep copy in Go https://echorand.me/posts/go-values-references-etc/
+    - Named return values in Go https://echorand.me/posts/go-named-return-values/
     - Введение в систему модулей Go https://habr.com/ru/articles/421411/
     - Range Over Function Types https://go.dev/blog/range-functions
     - Preemption in Go: an introduction https://unskilled.blog/posts/preemption-in-go-an-introduction/
