@@ -578,6 +578,7 @@
       - Raft Consensus — leader election with Golang https://medium.com/@govinda.attal/raft-consensus-leader-election-with-golang-89bfdbd471cb
 - AI
   - LLM
+    - Building LLM-powered applications in Go https://go.dev/blog/llmpowered
     - Prompt Engineering to Grow Yourself a Nanoservice Garden https://nathanleclaire.com/blog/2024/06/23/prompt-engineering-to-grow-yourself-a-nanoservice-garden/
 - SSH
   - Forwarding a Port Over SSH in Go https://hjr265.me/blog/forwarding-a-port-over-ssh-in-go/
