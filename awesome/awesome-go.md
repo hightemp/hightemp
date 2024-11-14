@@ -432,6 +432,7 @@
   - Go: Verify Cryptographic Signatures https://blog.cubieserver.de/2016/go-verify-cryptographic-signatures/
 - git
   - Notes on using Go to write gitbackup https://echorand.me/posts/golang-notes-gitbackup/
+  - Gitch. Сервис для зеркалирования репозиториев https://kovardin.ru/articles/miniservices/gitch/
 - Файлы
   - Read File in Golang https://www.scaler.com/topics/golang/golang-read-file/
   - How to Read a Text File with Go https://www.jeremymorgan.com/tutorials/go/how-to-read-text-file-go/
@@ -591,7 +592,6 @@
   - pgvector
     - Пишем поиск семантически похожих текстов (или товаров) за полчаса на Go и Postgres (pgVector) https://habr.com/ru/companies/karuna/articles/809305/
 - Остальное
-  - Gitch. Сервис для зеркалирования репозиториев https://kovardin.ru/articles/miniservices/gitch/
   - Многопоточный генератор шоунотов на Go https://eax.me/go-show-notes-generator/
   - Modifying an interface{}-ed struct in Go via reflection http://speakmy.name/2014/09/14/modifying-interfaced-go-struct/
   - Things to know about HTTP in Go https://scene-si.org/2017/09/27/things-to-know-about-http-in-go/
