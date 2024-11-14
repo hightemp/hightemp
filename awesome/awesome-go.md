@@ -356,12 +356,18 @@
     - Пишем свой SMTP сервер на Go https://kovardin.ru/articles/go/smtp-server/
 - Сеть
   - net/http
-    - Diving deep into net/http : A look at http.RoundTripper https://lanre.wtf/blog/2017/07/24/roundtripper-go
-    - Adding middleware to Go HTTP client requests https://jonfriesen.ca/articles/go-http-client-middleware/
-    - Understanding Interfaces Through Golang: Mocking HTTP Server Response https://chettriyuvraj.github.io/blog/Understanding_Interfaces_Golang_Mock_HTTP
-    - Go: Dump HTTP Request https://blog.cubieserver.de/2016/go-dump-http-request/
-    - A story about Go http.Client https://www.jacoelho.com/blog/2017/08/a-story-about-go-http.client/
-    - HTTP Connection reuse in Go clients https://blog.cubieserver.de/2022/http-connection-reuse-in-go-clients/
+    - client
+      - Making REST API Requests in Golang using the HTTP Client https://www.sohamkamani.com/golang/http-client/
+    - Примеры
+      - How to Parse a JSON Request Body in Go https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
+    - Остальное
+      - HTTP request debugging in Go with httputil http://speakmy.name/2014/07/29/http-request-debugging-in-go/
+      - Diving deep into net/http : A look at http.RoundTripper https://lanre.wtf/blog/2017/07/24/roundtripper-go
+      - Adding middleware to Go HTTP client requests https://jonfriesen.ca/articles/go-http-client-middleware/
+      - Understanding Interfaces Through Golang: Mocking HTTP Server Response https://chettriyuvraj.github.io/blog/Understanding_Interfaces_Golang_Mock_HTTP
+      - Go: Dump HTTP Request https://blog.cubieserver.de/2016/go-dump-http-request/
+      - A story about Go http.Client https://www.jacoelho.com/blog/2017/08/a-story-about-go-http.client/
+      - HTTP Connection reuse in Go clients https://blog.cubieserver.de/2022/http-connection-reuse-in-go-clients/
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
   - HTTP
@@ -419,11 +425,6 @@
     - Авторизация в Go с использованием JWT https://kovardin.ru/articles/go/avtorizaciya-v-go-s-ispolzovaniem-jwt/?ysclid=m06qqbjia1238948380
     - API Login using echo framework Golang, Postgres and JWT https://martinyonathann.medium.com/api-login-with-echo-framework-golang-postgres-and-jwt-dca330357020
     - A guide to JWT authentication in Go https://blog.logrocket.com/jwt-authentication-go/
-- net/http
-  - client
-    - Making REST API Requests in Golang using the HTTP Client https://www.sohamkamani.com/golang/http-client/
-  - Примеры
-    - How to Parse a JSON Request Body in Go https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
 - Telegram
   - Telegram на go: часть 1, парсим схему https://habr.com/ru/articles/535076/
   - Telegram на go, часть 2: бинарный протокол https://habr.com/ru/articles/541920/
