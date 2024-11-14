@@ -123,7 +123,7 @@
 - [Reqable](https://reqable.com/) - Modern web debugging proxy
 - [Proxyman](https://proxyman.io/) - Modern web debugging proxy for macOS
 
-### REST Клиенты, аналоги Postman
+### Клиенты для запросов в API, аналоги Postman
 
 - https://yaak.app/
 
