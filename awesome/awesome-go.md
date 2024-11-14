@@ -553,6 +553,7 @@
 - Логгирование
   - Trace Log in Golang https://riad.run/trace-in-golang
 - Тестирование
+  - Практика написания модульных тестов в языке Go https://eax.me/golang-unit-testing/
   - Мутационное тестирование: опыт внедрения на 1500 сервисов https://habr.com/ru/companies/avito/articles/650073/
   - Go: How the Testing Harness Works https://matttproud.com/blog/posts/go-testing-harness.html
   - How to do unit testing + mock function in Golang within clean architecture https://medium.com/@rayato159/how-to-do-unit-testing-mock-function-in-golang-within-clean-architecture-2a674c42dfc4
