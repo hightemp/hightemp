@@ -297,15 +297,6 @@
 
 ### Статьи
 
-- Large language models, explained with a minimum of math and jargon https://seantrott.substack.com/p/large-language-models-explained
-- Advanced Prompt Engineering Techniques https://www.mercity.ai/blog-post/advanced-prompt-engineering-techniques
-- Can LLMs Critique and Iterate on Their Own Outputs? https://evjang.com/2023/03/26/self-reflection.html
-- Reflexion https://www.promptingguide.ai/techniques/reflexion
-- Step-Based Cascading Prompts: Deterministic Signals from the LLM Vibe Space https://shelbyjenkins.github.io/blog/cascade-prompt/
-- How to Create Diagrams with ChatGPT and draw.io [link](https://medium.com/@paritoshraval100/how-to-create-diagrams-with-chatgpt-and-draw-io-851efb626f08?source=email-89e31b1a2a97-1712706638855-digest.reader-4e2c1156667e-851efb626f08----9-98------------------73380b94_ed6c_4216_9065_a1583eaf002e-1)
-- Как мы создали GPT Researcher https://docs.tavily.com/blog/building-gpt-researcher
-- Postgres is all you need, even for vectors https://anyblockers.com/posts/postgres-is-all-you-need-even-for-vectors
-- Эффективное моделирование длинных последовательностей с использованием структурированных моделей состояния (Аннотированный S4) https://srush.github.io/annotated-s4/
 - Трансформеры
     - How Transformers Work https://towardsdatascience.com/transformers-141e32e69591
     - How Transformers Work: A Detailed Exploration of Transformer Architecture https://www.datacamp.com/tutorial/how-transformers-work?dc_referrer=https%3A%2F%2Fwww.google.ru%2F
@@ -313,6 +304,18 @@
     - "Road to Sora" Paper Reading List https://ghost.oxen.ai/road-to-sora-reading-list/ 
     - Understanding Large Language Models -- A Transformative Reading List https://sebastianraschka.com/blog/2023/llm-reading-list.html
     - Outline of Reading List https://www.advtopicsindeeplearning.com/reading-list.html
+- Остальное
+    - Tokenization in large language models, explained https://seantrott.substack.com/p/tokenization-in-large-language-models
+    - Large language models, explained with a minimum of math and jargon https://seantrott.substack.com/p/large-language-models-explained
+    - Advanced Prompt Engineering Techniques https://www.mercity.ai/blog-post/advanced-prompt-engineering-techniques
+    - Can LLMs Critique and Iterate on Their Own Outputs? https://evjang.com/2023/03/26/self-reflection.html
+    - Reflexion https://www.promptingguide.ai/techniques/reflexion
+    - Step-Based Cascading Prompts: Deterministic Signals from the LLM Vibe Space https://shelbyjenkins.github.io/blog/cascade-prompt/
+    - How to Create Diagrams with ChatGPT and draw.io [link](https://medium.com/@paritoshraval100/how-to-create-diagrams-with-chatgpt-and-draw-io-851efb626f08?source=email-89e31b1a2a97-1712706638855-digest.reader-4e2c1156667e-851efb626f08----9-98------------------73380b94_ed6c_4216_9065_a1583eaf002e-1)
+    - Как мы создали GPT Researcher https://docs.tavily.com/blog/building-gpt-researcher
+    - Postgres is all you need, even for vectors https://anyblockers.com/posts/postgres-is-all-you-need-even-for-vectors
+    - Эффективное моделирование длинных последовательностей с использованием структурированных моделей состояния (Аннотированный S4) https://srush.github.io/annotated-s4/
+
 
 ### Книги
 
