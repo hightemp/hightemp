@@ -19,6 +19,7 @@
 - https://domore.ai
 - https://news.bensbites.co/trending
 - https://www.gptshunter.com
+- https://www.thewarehouse.ai/
 - https://github.com/alternbits/awesome-ai-newsletters
 - https://github.com/ai-update/ai-news
 
