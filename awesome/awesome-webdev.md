@@ -102,6 +102,7 @@
 - https://github.com/teacat/tocas
 - tailwind
    - https://daisyui.com/
+   - https://flowbite.com/
 
 ### Поисковые движки
 
