@@ -590,6 +590,7 @@
     - Building LLM-powered applications in Go https://go.dev/blog/llmpowered
     - Prompt Engineering to Grow Yourself a Nanoservice Garden https://nathanleclaire.com/blog/2024/06/23/prompt-engineering-to-grow-yourself-a-nanoservice-garden/
 - SSH
+  - Некоторые возможности ssh в golang https://habr.com/ru/articles/788094/
   - Forwarding a Port Over SSH in Go https://hjr265.me/blog/forwarding-a-port-over-ssh-in-go/
   - Guide to Implement an SSH Client Using Golang https://www.pixelstech.net/article/1699714722-Guide-to-Implement-an-SSH-Client-Using-Golang
   - Go | SSH Client Shell Session https://medium.com/@marcus.murray/go-ssh-client-shell-session-c4d40daa46cd
