@@ -193,6 +193,7 @@
   - Build your own SQLite, Part 1: Listing tables https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables
   - Build your own SQLite, Part 2: Scanning large tables https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables
 - Остальное
+  - How a few bytes completely broke my production app https://davide-ceschia.medium.com/how-a-few-bytes-completely-broke-my-production-app-8e8a038ee99d
   - Beyond Ctrl-C: The dark corners of Unix signal handling https://sunshowers.io/posts/beyond-ctrl-c-signals/
   - Crafting Interpreters with Rust: On Garbage Collection https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/
   - A Tour of Safe Tracing GC Designs in Rust https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
