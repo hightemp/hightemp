@@ -298,7 +298,11 @@
   - Mutex
     - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
   - Unique
-    - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
+    - Остальное
+      - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
+    - Interning
+      - New unique package https://go.dev/blog/unique
+      - Interning in Go https://medium.com/google-cloud/interning-in-go-4319ea635002
   - embed
     - Embedding files in Go using the "embed" package https://echorand.me/posts/go-embed/
   - plugin
