@@ -20,6 +20,12 @@
 - https://github.com/rust-embedded/awesome-embedded-rust
 - https://github.com/ImplFerris/LearnRust
 
+### Песочницы
+
+- https://play.rust-lang.org/
+- https://www.programiz.com/rust/online-compiler/
+- https://onecompiler.com/rust
+
 ### Roadmap
 
 - https://roadmap.sh/rust
