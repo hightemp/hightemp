@@ -14,6 +14,10 @@
 
 - DBOS - это серверлесс-платформа, которая радикально упрощает разработку бэкенда, позволяя создавать приложения в 10 раз быстрее и масштабировать их до миллионов пользователей одним кликом. https://www.dbos.dev/  https://github.com/dbos-inc/
 
+### Полезные ссылки
+
+- Are You Qualified To Use Null in SQL? (Тест) https://agentm.github.io/project-m36/posts/2024-07-16-are-you-qualified-to-use-null.html
+
 ### Гайды
 
 - MySQL 8.0. Полное руководство https://www.rldp.ru/mysql/mysql80/
