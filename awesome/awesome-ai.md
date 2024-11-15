@@ -260,9 +260,11 @@
 - CodeGPT: Chat & AI Agents
     - https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt&ssr=false#overview
     - https://codegpt.co/
-- Claude Dev VSCode Extension
+- Cline, бывшее Claude Dev VSCode Extension
     - https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
     - https://github.com/saoudrizwan/claude-dev
+- Spellbox: Code & problem solving assistant
+    - https://marketplace.visualstudio.com/items?itemName=Spellbox.spellbox
 
 ### collab
 
