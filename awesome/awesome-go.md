@@ -562,7 +562,7 @@
 - Компилятор
   - Statically and Dynamically Linked Go Binaries https://itnext.io/statically-and-dynamically-linked-go-binaries-5a3c0313b3a4
   - Building static binaries with Go on Linux https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/
-- Конкурентное программирование
+- Конкурентное программирование, sync
   - Concurrency, Параллелизм
     - Understanding Concurrency Patterns in Go https://hackernoon.com/understanding-concurrency-patterns-in-go
     - Mastering Concurrent Processing: A Step-by-Step Guide to Building a Scalable Worker Pool in Go https://medium.com/@souravchoudhary0306/mastering-concurrent-processing-a-step-by-step-guide-to-building-a-scalable-worker-pool-in-go-54093074c612
@@ -574,6 +574,8 @@
         - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
   - Пулы
     - Go sync.Pool and the Mechanics Behind It https://victoriametrics.com/blog/go-sync-pool/index.html
+  - Остальное
+    - Go sync.Cond, the Most Overlooked Sync Mechanism https://victoriametrics.com/blog/go-sync-cond/index.html
 - Кэширование
   - Go High-Performance Cache with TTL and Disk Persistence https://dev.to/leoantony72/go-high-performance-cache-with-ttl-and-disk-persistence-4a4m
 - Логгирование
