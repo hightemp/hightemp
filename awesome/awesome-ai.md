@@ -112,6 +112,8 @@
 - [https://doc.tock.ai/en/](https://doc.tock.ai/en/) (строительный разговорный бот)
 - android
     - chatgpt неофиц. клиент https://github.com/skydoves/chatgpt-android/releases
+- Для учебы
+    - https://www.studychat.app/
 
 ### Приложения
 
