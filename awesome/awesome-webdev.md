@@ -70,6 +70,11 @@
 
 - mkcert - это простой инструмент для создания локально доверенных SSL-сертификатов, предназначенных для разработки, который не требует дополнительной настройки. https://github.com/FiloSottile/mkcert
 
+### Курсы
+
+- tailwind
+   - https://v2.scrimba.com/learn-tailwind-css-c010
+
 ### Книги
 
 - https://hypermedia.systems/book/contents/
