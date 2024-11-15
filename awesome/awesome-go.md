@@ -678,7 +678,8 @@
 
 ### StackOverflow
 
-- Golang, multiple commands in the same SSH Session https://stackoverflow.com/questions/76166288/golang-multiple-commands-in-the-same-ssh-session
+- SSH
+  - Golang, multiple commands in the same SSH Session https://stackoverflow.com/questions/76166288/golang-multiple-commands-in-the-same-ssh-session
 
 ### Блоги
 
