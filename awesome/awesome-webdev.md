@@ -100,6 +100,8 @@
 ### UI
 
 - https://github.com/teacat/tocas
+- tailwind
+   - https://daisyui.com/
 
 ### Поисковые движки
 
