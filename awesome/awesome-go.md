@@ -597,6 +597,7 @@
   - A Simple Cross-Platform SSH Client in 100 Lines of Go https://betterprogramming.pub/a-simple-cross-platform-ssh-client-in-100-lines-of-go-280644d8beea
   - Building An SSH Chatroom With Go https://medium.com/@alexfoleydevops/building-an-ssh-chatroom-with-go-6df65facd6cb
   - Golang — Upload File to SFTP https://medium.com/@bilalemre_gulsen/golang-upload-file-to-sftp-e1b7a08737cb
+  - Secure File Transfer Made Easy: Connect to SFTP Servers with Golang https://dev.to/frasnym/secure-file-transfer-made-easy-connect-to-sftp-servers-with-golang-53a1
 - Kafka
   - Connect Kafka with Golang https://dev.to/chauhoangminhnguyen/connect-kafka-with-golang-3h4d
 - WebAssembly
