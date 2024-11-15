@@ -12,60 +12,6 @@
 - tailwind
    - https://play.tailwindcss.com/
 
-### Брокеры сообщений
-
-- **RabbitMQ**
-   - Сайт: https://www.rabbitmq.com/
-   - Описание: Один из самых популярных открытых брокеров сообщений, поддерживающий протокол AMQP.
-- **Apache Kafka**
-   - Сайт: https://kafka.apache.org/
-   - Описание: Распределенная потоковая платформа, разработанная Apache, для обработки потоков записей в реальном времени.
-- **Apache ActiveMQ**
-   - Сайт: https://activemq.apache.org/
-   - Описание: Мощный открытый брокер сообщений, поддерживающий различные протоколы, такие как AMQP, MQTT, OpenWire и др.
-- **Amazon SQS (Simple Queue Service)**
-   - Сайт: https://aws.amazon.com/sqs/
-   - Описание: Полностью управляемый сервис очередей сообщений от Amazon Web Services (AWS).
-- **Google Cloud Pub/Sub**
-   - Сайт: https://cloud.google.com/pubsub
-   - Описание: Полностью управляемый сервис для публикации и подписки на сообщения от Google Cloud Platform.
-- **Azure Service Bus**
-   - Сайт: https://azure.microsoft.com/en-us/services/service-bus/
-   - Описание: Уровень сообщений от Microsoft Azure, включающий в себя очереди, темы/подписки и передачу больших двоичных объектов.
-- **RabbitMQ**
-   - Сайт: https://www.rabbitmq.com/
-   - Описание: Один из самых популярных открытых брокеров сообщений, поддерживающий протокол AMQP.
-- **Redis**
-   - Сайт: https://redis.io/
-   - Описание: Открытая система кэширования данных и брокер сообщений, поддерживающий pub/sub-модель.
-
-### Хранилища секретов
-
-- HashiCorp Vault
-   - Репозиторий: https://github.com/hashicorp/vault
-- Consul
-   - Репозиторий: https://github.com/hashicorp/consul
-- etcd
-   - Репозиторий: https://github.com/etcd-io/etcd
-- Kubernetes Secrets (Часть Kubernetes)
-   - Репозиторий: https://github.com/kubernetes/kubernetes
-- Docker Secrets (Часть Docker)
-   - Репозиторий: https://github.com/moby/moby
-- Keywhiz
-   - Репозиторий: https://github.com/square/keywhiz
-- Vault Project (не путать с HashiCorp Vault)
-   - Репозиторий: https://github.com/joemccann/dillinger
-- Secrets OPerationS (SOPS)
-   - Репозиторий: https://github.com/mozilla/sops
-- Confidant
-   - Репозиторий: https://github.com/lyft/confidant
-- Vault (by CoreOS)
-   - Репозиторий: https://github.com/coreos/vault
-- Kamus
-   - Репозиторий: https://github.com/Soluto/kamus
-- Chamber
-   - Репозиторий: https://github.com/segmentio/chamber
-
 ### Сертификаты (SSL,TLS)
 
 - mkcert - это простой инструмент для создания локально доверенных SSL-сертификатов, предназначенных для разработки, который не требует дополнительной настройки. https://github.com/FiloSottile/mkcert
@@ -201,3 +147,57 @@
 ### Youtube Каналы
 
 - https://www.youtube.com/@webstandards_ru
+
+### Брокеры сообщений
+
+- **RabbitMQ**
+   - Сайт: https://www.rabbitmq.com/
+   - Описание: Один из самых популярных открытых брокеров сообщений, поддерживающий протокол AMQP.
+- **Apache Kafka**
+   - Сайт: https://kafka.apache.org/
+   - Описание: Распределенная потоковая платформа, разработанная Apache, для обработки потоков записей в реальном времени.
+- **Apache ActiveMQ**
+   - Сайт: https://activemq.apache.org/
+   - Описание: Мощный открытый брокер сообщений, поддерживающий различные протоколы, такие как AMQP, MQTT, OpenWire и др.
+- **Amazon SQS (Simple Queue Service)**
+   - Сайт: https://aws.amazon.com/sqs/
+   - Описание: Полностью управляемый сервис очередей сообщений от Amazon Web Services (AWS).
+- **Google Cloud Pub/Sub**
+   - Сайт: https://cloud.google.com/pubsub
+   - Описание: Полностью управляемый сервис для публикации и подписки на сообщения от Google Cloud Platform.
+- **Azure Service Bus**
+   - Сайт: https://azure.microsoft.com/en-us/services/service-bus/
+   - Описание: Уровень сообщений от Microsoft Azure, включающий в себя очереди, темы/подписки и передачу больших двоичных объектов.
+- **RabbitMQ**
+   - Сайт: https://www.rabbitmq.com/
+   - Описание: Один из самых популярных открытых брокеров сообщений, поддерживающий протокол AMQP.
+- **Redis**
+   - Сайт: https://redis.io/
+   - Описание: Открытая система кэширования данных и брокер сообщений, поддерживающий pub/sub-модель.
+
+### Хранилища секретов
+
+- HashiCorp Vault
+   - Репозиторий: https://github.com/hashicorp/vault
+- Consul
+   - Репозиторий: https://github.com/hashicorp/consul
+- etcd
+   - Репозиторий: https://github.com/etcd-io/etcd
+- Kubernetes Secrets (Часть Kubernetes)
+   - Репозиторий: https://github.com/kubernetes/kubernetes
+- Docker Secrets (Часть Docker)
+   - Репозиторий: https://github.com/moby/moby
+- Keywhiz
+   - Репозиторий: https://github.com/square/keywhiz
+- Vault Project (не путать с HashiCorp Vault)
+   - Репозиторий: https://github.com/joemccann/dillinger
+- Secrets OPerationS (SOPS)
+   - Репозиторий: https://github.com/mozilla/sops
+- Confidant
+   - Репозиторий: https://github.com/lyft/confidant
+- Vault (by CoreOS)
+   - Репозиторий: https://github.com/coreos/vault
+- Kamus
+   - Репозиторий: https://github.com/Soluto/kamus
+- Chamber
+   - Репозиторий: https://github.com/segmentio/chamber
