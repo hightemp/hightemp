@@ -367,6 +367,8 @@
   - Deep Dive into Go: Crafting a CRUD RESTful API Without Frameworks https://medium.com/@bensatriya3/deep-dive-into-go-crafting-a-crud-restful-api-without-frameworks-920cd6eab3be
   - Build Your Own SMTP Server in Go https://valyent.substack.com/p/build-your-own-smtp-server-in-go
     - Пишем свой SMTP сервер на Go https://kovardin.ru/articles/go/smtp-server/
+- Файловая система
+  - Mastering Golang — Part 7: Read File https://blog.stackademic.com/mastering-golang-part-6-read-file-41a8292497e5
 - Сеть
   - net/http
     - client
