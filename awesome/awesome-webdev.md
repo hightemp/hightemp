@@ -136,6 +136,8 @@
    - A Comprehensive List of Similarity Search Algorithms https://crucialbits.com/blog/a-comprehensive-list-of-similarity-search-algorithms/
 - SSH
    - Автор делится опытом разработки SSH-сервера для проекта Sdump, описывая проблему безопасности, связанную с тем, что SSH-серверы по умолчанию позволяют перебирать разные ключи при аутентификации, и предлагает решение через настройку файла ~/.ssh/config для использования определённых ключей, а также рассматривает методы идентификации пользователей для предотвращения злоупотребления сервисом. https://lanre.wtf/blog/2024/02/13/ssh-notes
+- Тайм-менеджмент
+   - Timeless principles of Time Management https://makemeacto.substack.com/p/timeless-principles-of-time-management
 - Остальное
    - Introducing Netflix’s Key-Value Data Abstraction Layer https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30
    - Pushy to the Limit: Evolving Netflix’s WebSocket proxy for the future https://netflixtechblog.com/pushy-to-the-limit-evolving-netflixs-websocket-proxy-for-the-future-b468bc0ff658
