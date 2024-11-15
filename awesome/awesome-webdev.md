@@ -37,6 +37,7 @@
 
 ### Полезные ссылки
 
+- Component Party: это сравнительный проект различных фреймворков (React, Vue, Svelte, Angular, Qwik, Solid.js и др.) на основе простых примеров кода, демонстрирующих реализацию типичных задач вроде создания компонентов, отображения списков, обработки событий и т.п., а также новых версий Svelte 5 и Angular 17/Renaissance. https://component-party.dev/
 - amber - язык программирования, написанный на #rust, который компилируется(транспилируется?) в bash 
     - Сайт https://amber-lang.com/
     - Репа https://github.com/amber-lang/amber
