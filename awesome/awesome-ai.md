@@ -150,6 +150,7 @@
 ### Генерация изображений
 
 - https://openxlab.org.cn/apps/detail/PixArt-alpha/PixArt-alpha
+- https://www.midjourney.com/home
 - Телеграм бот для midjourney https://t.me/midjourney_midjourney/112858/134798
 - Consistent Character by fofr — быстрое создание изображения персонажа в разных положениях https://replicate.com/fofr/consistent-character https://github.com/fofr/cog-consistent-character
 - https://www.craiyon.com/
@@ -173,6 +174,7 @@
 - https://huggingface.co/fal/AuraFlow https://fal.ai/models/fal-ai/aura-flow/playground?ref=blog.fal.ai
 - https://play.google.com/store/apps/details?id=com.microsoft.designer
 - https://huggingface.co/spaces/Shitao/OmniGen
+- https://www.recraft.ai/
 
 ### Анимация изображений
 
