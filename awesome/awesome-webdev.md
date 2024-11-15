@@ -153,6 +153,7 @@
       - Shifting E2E Testing Left at Uber https://www.uber.com/en-IN/blog/shifting-e2e-testing-left/
 - highload
    - Оптимизации
+      - HOW DISCORD REDUCED WEBSOCKET TRAFFIC BY 40% https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent
       - Unlock 1 Million RPS: Experience Triple the Speed with Valkey https://valkey.io/blog/unlock-one-million-rps/
       - Unlock 1 Million RPS: Experience Triple the Speed with Valkey - part 2 https://valkey.io/blog/unlock-one-million-rps-part2/
 - Поиск
