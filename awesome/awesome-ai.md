@@ -152,22 +152,22 @@
 - https://openxlab.org.cn/apps/detail/PixArt-alpha/PixArt-alpha
 - Телеграм бот для midjourney https://t.me/midjourney_midjourney/112858/134798
 - Consistent Character by fofr — быстрое создание изображения персонажа в разных положениях https://replicate.com/fofr/consistent-character https://github.com/fofr/cog-consistent-character
-- [https://www.craiyon.com/](https://www.craiyon.com/)
-- [https://leonardo.ai/](https://leonardo.ai/)
-- [https://openart.ai/](https://openart.ai/)
-- [https://www.freepik.com/pikaso/sketch](https://www.freepik.com/pikaso/sketch)
-- [https://invoke-ai.github.io/InvokeAI/](https://invoke-ai.github.io/InvokeAI/)
-- [https://aigreem.com/](https://aigreem.com/)
-- [https://deepai.org/](https://deepai.org/)
-- [https://www.bluewillow.ai/](https://www.bluewillow.ai/)
-- [https://pixai.art/](https://pixai.art/)
-- [https://hypnogram.xyz/](https://hypnogram.xyz/)
-- [https://www.canva.com/ai-image-generator/](https://www.canva.com/ai-image-generator/)
-- [https://designer.microsoft.com/image-creator](https://designer.microsoft.com/image-creator)
-- [https://app.artflow.ai/](https://app.artflow.ai/)
-- [https://sdai.moroz.cc/](https://sdai.moroz.cc/) (для телефонов Android)
-- [https://diffusionbee.com/](https://diffusionbee.com/) (для MacOS)
-- [https://www.fotor.com/](https://www.fotor.com/)
+- https://www.craiyon.com/
+- https://leonardo.ai/
+- https://openart.ai/
+- https://www.freepik.com/pikaso/sketch
+- https://invoke-ai.github.io/InvokeAI/
+- https://aigreem.com/
+- https://deepai.org/
+- https://www.bluewillow.ai/
+- https://pixai.art/
+- https://hypnogram.xyz/
+- https://www.canva.com/ai-image-generator/
+- https://designer.microsoft.com/image-creator
+- https://app.artflow.ai/
+- https://sdai.moroz.cc/ (для телефонов Android)
+- https://diffusionbee.com/ (для MacOS)
+- https://www.fotor.com/
 - https://perchance.org/zg2eivefxf
 - https://huggingface.co/spaces/KingNish/SDXL-Flash
 - https://huggingface.co/fal/AuraFlow https://fal.ai/models/fal-ai/aura-flow/playground?ref=blog.fal.ai
