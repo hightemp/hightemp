@@ -73,6 +73,12 @@
 
 - https://dockerhub.timeweb.cloud/
 
+### Полезные расширения для браузера
+
+- chrome
+   - Web Clipper is an open source extension.You can save anything on the web to anywhere.And you can easily to add any platform. https://chromewebstore.google.com/detail/web-clipper/mhfbofiokmppgdliakminbgdgcmbhbac
+
+
 ### Registry
 
 - Docker
