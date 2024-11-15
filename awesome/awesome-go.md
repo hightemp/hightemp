@@ -555,6 +555,7 @@
     - Top 3 Design Patterns for a Large Go Codebase https://medium.com/@opheliaandcat/top-3-design-patterns-for-a-large-go-codebase-79a324003b47
     - Common design patterns in Golang - Part 1 https://dwarvesf.hashnode.dev/common-design-patterns-in-golang-part-1
   - Остальное
+    - Distributed Transactions in Go: Read Before You Try https://threedots.tech/post/distributed-transactions-in-go
     - Definitive Guide to Software Architecture with Golang https://masteringbackend.com/posts/software-architecture-with-golang
     - Structuring your Golang app: Flat structure vs. layered architecture https://blog.logrocket.com/flat-structure-vs-layered-architecture-structuring-your-go-app/
 - PDF
