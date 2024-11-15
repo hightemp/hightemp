@@ -154,14 +154,17 @@
       - https://www.linkedin.com/pulse/implementing-vpn-server-inrust-luis-soares-m-sc--sqvkf
       - https://web.archive.org/web/20240822082513/https://www.linkedin.com/pulse/implementing-vpn-server-inrust-luis-soares-m-sc--sqvkf
 - Основы языка
-  - Практическое руководство по Rust. 1/4 https://habr.com/ru/companies/timeweb/articles/790556/
-  - Практическое руководство по Rust. 2/4 https://habr.com/ru/companies/timeweb/articles/794941/
-  - Практическое руководство по Rust. 3/4 https://habr.com/ru/companies/timeweb/articles/796567/
-  - Практическое руководство по Rust. Бонус https://habr.com/ru/companies/timeweb/articles/802609/
-  - Rust basics, from the perspective of a high level programmer https://danbulant.eu/posts/rust-basics?ref=refind
-  - Большая шпаргалка по Rust. 1/2 https://habr.com/ru/companies/timeweb/articles/785096/
-  - Большая шпаргалка по Rust. 2/2 https://habr.com/ru/companies/timeweb/articles/787924/
-  - Effective substring in Rust https://letmutex.com/article/effective-substring-in-rust
+  - Ошибки
+    - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
+  - Остальное
+    - Практическое руководство по Rust. 1/4 https://habr.com/ru/companies/timeweb/articles/790556/
+    - Практическое руководство по Rust. 2/4 https://habr.com/ru/companies/timeweb/articles/794941/
+    - Практическое руководство по Rust. 3/4 https://habr.com/ru/companies/timeweb/articles/796567/
+    - Практическое руководство по Rust. Бонус https://habr.com/ru/companies/timeweb/articles/802609/
+    - Rust basics, from the perspective of a high level programmer https://danbulant.eu/posts/rust-basics?ref=refind
+    - Большая шпаргалка по Rust. 1/2 https://habr.com/ru/companies/timeweb/articles/785096/
+    - Большая шпаргалка по Rust. 2/2 https://habr.com/ru/companies/timeweb/articles/787924/
+    - Effective substring in Rust https://letmutex.com/article/effective-substring-in-rust
 - WASM
   - Improving performance with React, WASM & Rust https://medium.com/@davidkelley87/improving-performance-with-react-wasm-rust-4c70f027b2c8
 - Оптимизация
