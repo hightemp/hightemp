@@ -572,7 +572,7 @@
     - Примитивы синхронизации
       - Mutex
         - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
-  - Пулы
+  - Пулы, pool
     - Go sync.Pool and the Mechanics Behind It https://victoriametrics.com/blog/go-sync-pool/index.html
   - Остальное
     - Go sync.Cond, the Most Overlooked Sync Mechanism https://victoriametrics.com/blog/go-sync-cond/index.html
