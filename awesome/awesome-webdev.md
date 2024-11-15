@@ -130,7 +130,7 @@
       - HOW DISCORD REDUCED WEBSOCKET TRAFFIC BY 40% https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent
       - Unlock 1 Million RPS: Experience Triple the Speed with Valkey https://valkey.io/blog/unlock-one-million-rps/
       - Unlock 1 Million RPS: Experience Triple the Speed with Valkey - part 2 https://valkey.io/blog/unlock-one-million-rps-part2/
-- redis
+- Redis
    - Message Queue in Redis https://dev.to/lazypro/message-queue-in-redis-38dm
 - Поиск
    - Сравнительный анализ методов определения нечетких дубликатов Сегалович http://download.yandex.ru/company/paper_65_v1.rtf
