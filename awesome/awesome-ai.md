@@ -172,6 +172,7 @@
 - https://huggingface.co/spaces/KingNish/SDXL-Flash
 - https://huggingface.co/fal/AuraFlow https://fal.ai/models/fal-ai/aura-flow/playground?ref=blog.fal.ai
 - https://play.google.com/store/apps/details?id=com.microsoft.designer
+- https://huggingface.co/spaces/Shitao/OmniGen
 
 ### Анимация изображений
 
