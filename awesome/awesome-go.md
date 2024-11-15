@@ -300,6 +300,7 @@
   - Unique
     - Остальное
       - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
+      - Exploring the New Unique Package in Go 1.23 https://www.bytesizego.com/blog/go-1-23-unique-package
     - Interning
       - New unique package https://go.dev/blog/unique
       - Interning in Go https://medium.com/google-cloud/interning-in-go-4319ea635002
