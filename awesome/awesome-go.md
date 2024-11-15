@@ -592,6 +592,7 @@
 - SSH
   - Forwarding a Port Over SSH in Go https://hjr265.me/blog/forwarding-a-port-over-ssh-in-go/
   - Guide to Implement an SSH Client Using Golang https://www.pixelstech.net/article/1699714722-Guide-to-Implement-an-SSH-Client-Using-Golang
+  - Go | SSH Client Shell Session https://medium.com/@marcus.murray/go-ssh-client-shell-session-c4d40daa46cd
 - Kafka
   - Connect Kafka with Golang https://dev.to/chauhoangminhnguyen/connect-kafka-with-golang-3h4d
 - WebAssembly
