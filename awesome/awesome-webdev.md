@@ -1,13 +1,16 @@
 
 ### Сайты песочницы 
 
-- https://stackblitz.com/edit/af-react-sandbox?file=index.js
-- https://codesandbox.io/p/sandbox/react-new
-- https://codepen.io/
-- https://playcode.io/
-- https://codesandbox.io/
-- https://snack.expo.dev/?
-- https://nextleap.app/online-compiler/reactjs-programming
+- js, html, css
+   - https://stackblitz.com/edit/af-react-sandbox?file=index.js
+   - https://codesandbox.io/p/sandbox/react-new
+   - https://codepen.io/
+   - https://playcode.io/
+   - https://codesandbox.io/
+   - https://snack.expo.dev/?
+   - https://nextleap.app/online-compiler/reactjs-programming
+- tailwind
+   - https://play.tailwindcss.com/
 
 ### Брокеры сообщений
 
