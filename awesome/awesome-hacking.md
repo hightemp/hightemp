@@ -94,6 +94,38 @@
 - SANS Institute - https://sans.org
 - TryHackMe - https://tryhackme.com
 
+### Полезные сервисы
+
+- Shodan. Поиск устройств, подключённых к интернету, включая камеры, роутеры, серверы https://www.shodan.io/
+- Censys. Анализ и поиск интернет-устройств, SSL-сертификатов, открытых портов https://censys.io/
+- ZoomEye. Китайская платформа для поиска интернет-устройств и уязвимостей https://www.zoomeye.org/
+- BinaryEdge. Поиск устройств и сервисов, анализ открытых портов, уязвимостей https://www.binaryedge.info/
+- Fofa. Китайская поисковая система для анализа интернет-активности и устройств https://fofa.so/
+- GreyNoise. Фильтрация шумовых данных интернета, анализ подозрительного трафика https://www.greynoise.io/
+- Hunter. Поиск электронных адресов, связанных с доменами, для сбора данных о компаниях https://hunter.io/
+- Wigle. Поиск и картирование Wi-Fi точек доступа по всему миру https://wigle.net/
+- Onyphe. Французская поисковая система, специализирующаяся на киберугрозах и разведке https://onyphe.io/
+- PunkSpider. Поиск веб-уязвимостей (SQL Injection, XSS) в интернет-пространстве https://punkspider.id/
+- IVRE. Платформа для анализа сетевого трафика, аналогичная Shodan и Censys https://github.com/threatexpress/ivre
+- PublicWWW. Поиск исходного кода сайтов, анализа тегов, кодов и метаданных https://publicwww.com/
+- SecurityTrails. Анализ DNS, исторические данные, и информация о доменах https://securitytrails.com/
+- Cirt.net (Bing IP). Поиск веб-серверов и устройств по IP с использованием Bing API https://www.cirt.net/ip/
+- HackerTarget. Инструменты для сканирования безопасности, включая веб-сканеры и анализаторы https://www.hackertarget.com/
+- Nmap. Сканер сети и портов, используется для поиска открытых сервисов и устройств https://nmap.org/
+- Recon-ng. Фреймворк для разведки информации, поиска доменов, электронных адресов https://github.com/lanmaster53/recon-ng
+- ThreatMiner. Поиск информации о доменах, IP, SSL-сертификатах, угрозах https://www.threatminer.info/
+- BuiltWith. Поиск информации о веб-технологиях, используемых на сайтах https://builtwith.com/
+- DNSDumpster. Сервис для поиска субдоменов и информации о DNS-записях https://dnsdumpster.com/
+- VirusTotal. Анализ подозрительных файлов и URL-адресов, обнаружение вирусов https://www.virustotal.com/
+- Crt.sh. Поиск SSL-сертификатов, выданных для доменов, анализ их безопасности https://crt.sh/
+- PacketTotal. Анализ и визуализация сетевого трафика, поиск вредоносного поведения https://packettotal.com/
+- Spyse. Поиск данных о доменах, IP, сетевых устройствах, DNS-записях https://spyse.com/
+- Vulners. Поиск уязвимостей, эксплойтов и обновлений безопасности https://vulners.com/
+- Google Dorks. Специальные поисковые запросы для поиска уязвимых данных и конфиденциальной информации https://www.google.com/doodles/
+- CIRCL Passive DNS. Пассивный анализ DNS-записей, исторические данные доменов https://passivedns.circl.lu/
+- Netcraft. Анализ безопасности сайтов, информация о доменах, защита от фишинга https://s3.netcraft.com/
+- Farsight DNSDB. Исторические данные DNS, анализ и исследование доменах и IP https://dnsdb.farsightsecurity.com/
+
 ### Книги, Wiki
 
 - https://book.hacktricks.xyz/
