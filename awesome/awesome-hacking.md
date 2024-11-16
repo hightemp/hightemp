@@ -121,10 +121,10 @@
 - PacketTotal. Анализ и визуализация сетевого трафика, поиск вредоносного поведения https://packettotal.com/
 - Spyse. Поиск данных о доменах, IP, сетевых устройствах, DNS-записях https://spyse.com/
 - Vulners. Поиск уязвимостей, эксплойтов и обновлений безопасности https://vulners.com/
-- Google Dorks. Специальные поисковые запросы для поиска уязвимых данных и конфиденциальной информации https://www.google.com/doodles/
+- Google Dorks. Специальные поисковые запросы для поиска уязвимых данных и конфиденциальной информации https://www.exploit-db.com/google-hacking-database
 - CIRCL Passive DNS. Пассивный анализ DNS-записей, исторические данные доменов https://passivedns.circl.lu/
-- Netcraft. Анализ безопасности сайтов, информация о доменах, защита от фишинга https://s3.netcraft.com/
-- Farsight DNSDB. Исторические данные DNS, анализ и исследование доменах и IP https://dnsdb.farsightsecurity.com/
+- Netcraft. Анализ безопасности сайтов, информация о доменах, защита от фишинга https://www.netcraft.com/
+- Farsight DNSDB. Исторические данные DNS, анализ и исследование доменах и IP https://www.domaintools.com/
 
 ### Книги, Wiki
 
