@@ -116,6 +116,11 @@
 - Для учебы
     - https://www.studychat.app/
 
+### API gateway для API AI сервисов
+
+- https://proxyapi.ru/
+- https://vsegpt.ru/
+
 ### Приложения
 
 - https://chatboxai.app/en
