@@ -383,6 +383,9 @@
     - Пишем свой SMTP сервер на Go https://kovardin.ru/articles/go/smtp-server/
 - Файловая система
   - Mastering Golang — Part 7: Read File https://blog.stackademic.com/mastering-golang-part-6-read-file-41a8292497e5
+- Базы данных
+  - PostgreSQL
+    - Connecting to PostgreSQL in Golang https://medium.com/@dewirahmawatie/connecting-to-postgresql-in-golang-59d7b208bad2
 - Сеть
   - net/http
     - client
