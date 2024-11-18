@@ -290,6 +290,10 @@
 
 - Файнтюним LLaMa 3.1 8B бесплатно в Google Collab https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing
 
+### Полезные ссылки
+
+- Sentence Transformers https://huggingface.co/sentence-transformers
+
 ### Репозитории
 
 - Генерация изображений
