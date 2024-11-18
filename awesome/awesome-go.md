@@ -632,6 +632,7 @@
   - pgvector
     - Пишем поиск семантически похожих текстов (или товаров) за полчаса на Go и Postgres (pgVector) https://habr.com/ru/companies/karuna/articles/809305/
 - Остальное
+  - Go Singleflight Melts in Your Code, Not in Your DB https://victoriametrics.com/blog/go-singleflight/index.html
   - Mastering Real-Time Data Pipelines in Golang with Channels and Worker Pools https://levelup.gitconnected.com/mastering-real-time-data-pipelines-in-golang-with-channels-and-worker-pools-7eae2f2d662b
   - Многопоточный генератор шоунотов на Go https://eax.me/go-show-notes-generator/
   - Modifying an interface{}-ed struct in Go via reflection http://speakmy.name/2014/09/14/modifying-interfaced-go-struct/
