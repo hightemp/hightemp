@@ -357,6 +357,7 @@
   - Catching Multiple SIGINTs in Go - Confirming if You Really Want to Quit https://vlads.me/post/catching-multiple-sigints-in-go-confirming-if-you-really-want-to-quit/
   - SIGKILL vs SIGTERM: A Developer's Guide to Process Termination https://www.stackstate.com/blog/sigkill-vs-sigterm-a-developers-guide-to-process-termination/
 - Пример создания приложения или сервиса
+  - Building a CRUD gRPC Service with Go https://medium.com/@erwindev/building-a-crud-grpc-service-with-go-8ea99fba4ba8
   - Пример простейшей key-value СУБД на основе Badger https://eax.me/golang-badger/
   - Пишем веб сервис на Go (часть первая) (2014) https://habr.com/ru/articles/208680/
   - Как создать систему страшных звонков на Хэллоуин на Go и Exolve Voice API https://habr.com/ru/companies/exolve/articles/853952/
