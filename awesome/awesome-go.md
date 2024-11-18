@@ -582,6 +582,7 @@
   - Go High-Performance Cache with TTL and Disk Persistence https://dev.to/leoantony72/go-high-performance-cache-with-ttl-and-disk-persistence-4a4m
 - Логгирование
   - Trace Log in Golang https://riad.run/trace-in-golang
+  - Effective Logging in Go: Best Practices and Examples https://medium.com/novai-go-programming-101/effective-logging-in-go-best-practices-and-examples-911c31145260
 - Тестирование
   - Практика написания модульных тестов в языке Go https://eax.me/golang-unit-testing/
   - Мутационное тестирование: опыт внедрения на 1500 сервисов https://habr.com/ru/companies/avito/articles/650073/
