@@ -813,6 +813,7 @@
 - https://blog.cubieserver.de/tags/go/
 - https://echorand.me/posts/
 - https://programmingpercy.tech/blog/category/go/
+- https://mauricio.github.io/
 
 ### Подкасты
 
