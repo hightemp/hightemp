@@ -53,6 +53,8 @@
         - Резервное копирование и восстановление СУБД PostgreSQL https://habr.com/ru/companies/otus/articles/710094/
         - Репликации в PostgreSQL https://habr.com/ru/companies/otus/articles/710956/
 - MySQL
+    - Оптимизация
+        - Optimizing your MySQL queries https://mauricio.github.io/2022/02/16/optimizing-your-mysql-queries.html
     - Индексы
         - Кластерные и «обычные» индексы MySQL (InnoDB) https://habr.com/ru/articles/141767/
         - Кластерные и некластерные индексы реляционных баз данных https://wp-yoda.com/bazy-dannyh/klasternye-i-neklasternye-indeksy/
