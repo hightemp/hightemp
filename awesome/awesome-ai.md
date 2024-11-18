@@ -46,7 +46,7 @@
 
 ### Поиск
 
-- Обычный поиск
+- Поиск по сайтам
     - https://www.genspark.ai/
     - https://bagoodex.io/
     - https://www.phind.com/search?home=true
@@ -57,6 +57,7 @@
     - https://chatgpt.com/search
     - https://askhackers.com/
     - https://getliner.com/main
+    - https://andisearch.com/
 - Для разработчиков
     - https://devv.ai/
 - Научный
