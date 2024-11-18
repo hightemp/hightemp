@@ -98,6 +98,10 @@
 - [Reqable](https://reqable.com/) - Modern web debugging proxy
 - [Proxyman](https://proxyman.io/) - Modern web debugging proxy for macOS
 
+### Базы данныз доменов
+
+- https://domains-monitor.com/
+
 ### Клиенты для запросов в API, REST, аналоги Postman
 
 - https://yaak.app/
