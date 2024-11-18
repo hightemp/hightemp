@@ -1,6 +1,7 @@
 ### Коллекцмм
 
 - https://github.com/dbos-inc/awesome-dbos
+- https://dhamaniasad.github.io/awesome-postgres/
 
 ### Сайты для упражнений
 
