@@ -111,6 +111,8 @@
 
 - https://hostings.info/hostings/country/netherlands
 - https://hostadvice.com/web-hosting/netherlands/
+- https://www.10hostings.com/netherland/top10
+- https://dieg.info/en/tsod/netherlands-en/
 
 ### Дата-центры
 
@@ -152,6 +154,8 @@
    - Автор делится опытом разработки SSH-сервера для проекта Sdump, описывая проблему безопасности, связанную с тем, что SSH-серверы по умолчанию позволяют перебирать разные ключи при аутентификации, и предлагает решение через настройку файла ~/.ssh/config для использования определённых ключей, а также рассматривает методы идентификации пользователей для предотвращения злоупотребления сервисом. https://lanre.wtf/blog/2024/02/13/ssh-notes
 - Тайм-менеджмент
    - Timeless principles of Time Management https://makemeacto.substack.com/p/timeless-principles-of-time-management
+- Хостинг
+   - Hosting Companies Netherlands: The Complete Overview https://www.websitegecko.com/hosting-providers-netherlands/
 - Остальное
    - Introducing Netflix’s Key-Value Data Abstraction Layer https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30
    - Pushy to the Limit: Evolving Netflix’s WebSocket proxy for the future https://netflixtechblog.com/pushy-to-the-limit-evolving-netflixs-websocket-proxy-for-the-future-b468bc0ff658
