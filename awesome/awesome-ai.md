@@ -46,17 +46,26 @@
 
 ### Поиск
 
-- https://www.genspark.ai/
-- https://bagoodex.io/
-- https://www.phind.com/search?home=true
-- https://you.com
-- https://kagi.com/
-- https://www.perplexity.ai/
-- https://andisearch.com/
-- https://chatgpt.com/search
-- https://askhackers.com/
-- https://getliner.com/main
-- https://devv.ai/
+- Обычный поиск
+    - https://www.genspark.ai/
+    - https://bagoodex.io/
+    - https://www.phind.com/search?home=true
+    - https://you.com
+    - https://kagi.com/
+    - https://www.perplexity.ai/
+    - https://andisearch.com/
+    - https://chatgpt.com/search
+    - https://askhackers.com/
+    - https://getliner.com/main
+- Для разработчиков
+    - https://devv.ai/
+- Научный
+    - https://consensus.app/
+    - https://elicit.com/
+    - https://scite.ai/
+    - https://www.researchrabbit.ai/
+    - https://www.semanticscholar.org/
+    - https://app.dimensions.ai/
 
 ### Ресерч
 
