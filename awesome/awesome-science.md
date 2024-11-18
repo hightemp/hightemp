@@ -1,5 +1,7 @@
 ### Поисковики
 
+- Обычный
+    - https://www.mendeley.com/
 - с AI
     - https://consensus.app/
     - https://elicit.com/
