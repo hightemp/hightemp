@@ -386,6 +386,7 @@
 - Базы данных
   - PostgreSQL
     - Connecting to PostgreSQL in Golang https://medium.com/@dewirahmawatie/connecting-to-postgresql-in-golang-59d7b208bad2
+    - GO-PG Golang Postgre ORM https://medium.com/tunaiku-tech/go-pg-golang-postgre-orm-2618b75c0430
 - Сеть
   - net/http
     - client
