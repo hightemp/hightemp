@@ -47,6 +47,7 @@
 ### Поиск
 
 - Поиск по сайтам
+    - https://www.phind.com/
     - https://www.genspark.ai/
     - https://www.waldo.fyi/
     - https://bagoodex.io/
