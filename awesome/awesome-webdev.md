@@ -110,6 +110,7 @@
 ### Базы данных хостеров
 
 - https://hostings.info/hostings/country/netherlands
+- https://hostadvice.com/web-hosting/netherlands/
 
 ### Дата-центры
 
