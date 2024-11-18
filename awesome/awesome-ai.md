@@ -48,6 +48,7 @@
 
 - Поиск по сайтам
     - https://www.genspark.ai/
+    - https://www.waldo.fyi/
     - https://bagoodex.io/
     - https://www.phind.com/search?home=true
     - https://you.com
