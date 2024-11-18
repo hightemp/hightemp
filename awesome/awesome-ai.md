@@ -290,6 +290,11 @@
 
 - Файнтюним LLaMa 3.1 8B бесплатно в Google Collab https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing
 
+### Токенизаторы
+
+- https://github.com/openai/tiktoken
+- https://huggingface.co/Xenova/text-embedding-ada-002
+
 ### Полезные ссылки
 
 - Sentence Transformers https://huggingface.co/sentence-transformers
