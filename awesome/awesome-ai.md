@@ -52,6 +52,7 @@
     - https://www.waldo.fyi/
     - https://bagoodex.io/
     - https://you.com
+    - https://search.brave.com/
     - https://kagi.com/
     - https://www.perplexity.ai/
     - https://andisearch.com/
