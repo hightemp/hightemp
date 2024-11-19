@@ -20,10 +20,13 @@
 
 - tailwind
    - https://nerdcave.com/tailwind-cheat-sheet
+- html
+   - https://htmlcheatsheet.com/
 - bootstrap
    - https://hackerthemes.com/bootstrap-cheatsheet/
 - Остальное
    - https://lecoupa.github.io/awesome-cheatsheets/
+   - https://cheatography.com/programming/
 
 ### Задачники
 
