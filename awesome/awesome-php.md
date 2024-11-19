@@ -103,6 +103,7 @@
 - https://www.phpjabbers.com/blog.php
 - https://www.exakat.io/en/blog/
 - https://bootsity.com/category/php
+- https://www.vthink.co.in/category/php
 
 ### Статьи
 
