@@ -123,6 +123,8 @@
     - Mocking APIs in Laravel Tests With Wiremock https://laravel-news.com/mocking-apis-in-laravel-tests-with-wiremock
 - Подборки
   - The Best PHP Blogs https://draft.dev/learn/php-blogs
+- Остальное
+  - FrankenPHP: A Modern PHP App Server in Go (Install + Use) https://linuxtldr.com/installing-frankenphp/
 
 ---
 
