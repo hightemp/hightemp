@@ -115,3 +115,8 @@
     - 200 Project Ideas from Beginner to Advanced with Open Source Contributions https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a?ref=dailydev
 - Остальное
     - Что нового в React 19 https://habr.com/ru/companies/timeweb/articles/843016/
+
+### Видео
+
+- Примеры приложений
+    - Build and Deploy Mern Stack Ecommerce Website React, Mongodb, Express, Node, and Tailwind CSS https://youtu.be/niJWb_0WiCY
