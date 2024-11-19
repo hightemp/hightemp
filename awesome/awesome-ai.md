@@ -61,6 +61,7 @@
     - https://askhackers.com/
     - https://getliner.com/main
     - https://andisearch.com/
+    - https://learning.google.com/experiments/learn-about/signup
 - Для разработчиков
     - https://devv.ai/
 - Научный
