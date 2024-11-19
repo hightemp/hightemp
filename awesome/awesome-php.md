@@ -80,6 +80,12 @@
 
 - https://matthiasnoback.nl/archives/
 - https://www.amitmerchant.com/
+- https://www.bram.us/
+- https://kinsta.com/php
+- https://www.phpclasses.org/
+- https://stitcher.io/
+- https://phpbuilder.com/
+- https://www.zend.com/blog
 
 ### Статьи
 
