@@ -40,6 +40,8 @@
   - Mastering Symfony’s Service Container: With Real-life Examples https://tuhinbepari.medium.com/symfony-service-container-eda6612f793c
   - Understanding Symfony’s Dependency Injection Container https://clouddevs.com/symfony/dependency-injection-container/
   - Service Container and Dependency Injection in Symfony framework https://folkprog.net/service-container-and-dependency-injection-in-symfony-framework
+- Мониторинг
+  - Symofny application monitoring with a simple package – Tutorial https://inspector.dev/code-execution-monitoring-for-symfony-applications-using-inspector/
 - Messenger
   - Handle asynchronous tasks in Symfony with Messenger https://aicha-fatrah.medium.com/handle-asynchronous-tasks-in-symfony-with-messenger-bbaf6ed36dbf
   - Messaging in Symfony https://franciscogiraldo.com/blog/async-messsaging-symfony/
