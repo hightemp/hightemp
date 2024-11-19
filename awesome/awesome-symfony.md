@@ -41,7 +41,11 @@
   - Understanding Symfony’s Dependency Injection Container https://clouddevs.com/symfony/dependency-injection-container/
   - Service Container and Dependency Injection in Symfony framework https://folkprog.net/service-container-and-dependency-injection-in-symfony-framework
 - Мониторинг
-  - Symofny application monitoring with a simple package – Tutorial https://inspector.dev/code-execution-monitoring-for-symfony-applications-using-inspector/
+  - Prometheus
+    - Metrics in optimization process: Start to measure your app with the Prometheus tool (2/4) https://tsh.io/blog/grafana-and-prometheus-metrics/
+    - Understanding your Symfony app with Prometheus https://medium.com/4xxi/understanding-your-symfony-app-with-prometheus-fdb4b0124d99
+  - Остальное
+    - Symofny application monitoring with a simple package – Tutorial https://inspector.dev/code-execution-monitoring-for-symfony-applications-using-inspector/
 - Messenger
   - Handle asynchronous tasks in Symfony with Messenger https://aicha-fatrah.medium.com/handle-asynchronous-tasks-in-symfony-with-messenger-bbaf6ed36dbf
   - Messaging in Symfony https://franciscogiraldo.com/blog/async-messsaging-symfony/
