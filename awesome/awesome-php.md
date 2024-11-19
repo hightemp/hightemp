@@ -86,9 +86,21 @@
 - https://stitcher.io/
 - https://phpbuilder.com/
 - https://www.zend.com/blog
+- https://phppot.com/
+- https://phptherightway.com/
+- https://www.colinodell.com/blog
+- https://www.phpflow.com/php/
+- https://akrabat.com/
+- https://lornajane.net/
+- https://paul-m-jones.com/
+- https://mattstauffer.com/
+- https://blog.ircmaxell.com/
 
 ### Статьи
 
+- Symfony
+  - Prometheus
+    - Metrics in optimization process: Start to measure your app with the Prometheus tool (2/4) https://tsh.io/blog/grafana-and-prometheus-metrics/
 - Многопоточность
   - pthreads
     - How to use Multithreading in php https://medium.com/@codingpanel/how-to-use-multithreading-in-php-55b4e3ad69ee
