@@ -26,6 +26,7 @@
 - http://fabien.potencier.org/
 - https://davegebler.com/category/php
 - https://jolicode.com/blog/tag/php
+- https://medium.com/tag/symfony
 
 ### Статьи
 
