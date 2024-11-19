@@ -79,6 +79,7 @@
 
 - https://www.php-fig.org/psr/
 - https://refactoringguru.cn/
+- Phanalist - это производительный статический анализатор для PHP кода с открытым исходным кодом, который помогает обнаруживать распространенные ошибки и написан на Rust. https://github.com/denzyldick/phanalist
 
 ### Блоги
 
