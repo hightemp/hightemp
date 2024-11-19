@@ -111,3 +111,7 @@
 - https://dzone.com/devops-and-cicd
 - https://blog.bytebytego.com/
 - https://www.splunk.com/en_us/blog/devops.html
+
+### Видео
+
+- Terraform vs Pulumi: Which IaC tool is right for you? https://www.youtube.com/watch?v=GORaENwHuPU
