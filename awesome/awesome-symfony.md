@@ -40,6 +40,8 @@
   - Mastering Symfony’s Service Container: With Real-life Examples https://tuhinbepari.medium.com/symfony-service-container-eda6612f793c
   - Understanding Symfony’s Dependency Injection Container https://clouddevs.com/symfony/dependency-injection-container/
   - Service Container and Dependency Injection in Symfony framework https://folkprog.net/service-container-and-dependency-injection-in-symfony-framework
+- Best practices
+  - The Symfony Framework Best Practices https://symfony.com/doc/current/best_practices.html
 - Мониторинг
   - Prometheus
     - Metrics in optimization process: Start to measure your app with the Prometheus tool (2/4) https://tsh.io/blog/grafana-and-prometheus-metrics/
