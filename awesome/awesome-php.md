@@ -116,10 +116,12 @@
 - Prometheus
   - PHProm: A Prometheus Datastore for PHP Applications https://chaseisabelle.medium.com/phprom-a-prometheus-datastore-for-php-applications-c761c5587215
   - Application Monitoring Using Prometheus https://www.vthink.co.in/blogs/application-monitoring-using-prometheus
-- Многопоточность
+- Многопоточность, Конкурентность, Concurrency
   - pthreads
     - How to use Multithreading in php https://medium.com/@codingpanel/how-to-use-multithreading-in-php-55b4e3ad69ee
     - PHP and Threads: Multithreading and Parallel Execution in PHP https://reintech.io/blog/php-and-threads-multithreading-and-parallel-execution
+  - Остальное
+    - Getting Symfony app ready for Swoole, RoadRunner, and FrankenPHP (no AI involved) https://dev.to/sergiid/getting-symfony-app-ready-for-swoole-roadrunner-and-frankenphp-no-ai-involved-2d0g
 - Лучшие практики
   - Best practices for building a production-ready Dockerfile for PHP applications https://snyk.io/blog/building-production-ready-dockerfile-php/
 - Тестирование
