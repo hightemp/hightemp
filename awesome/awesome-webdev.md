@@ -20,6 +20,8 @@
 
 - tailwind
    - https://nerdcave.com/tailwind-cheat-sheet
+- Остальное
+   - https://lecoupa.github.io/awesome-cheatsheets/
 
 ### Задачники
 
