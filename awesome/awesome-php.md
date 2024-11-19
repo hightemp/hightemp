@@ -108,6 +108,7 @@
 - Symfony
   - Prometheus
     - Metrics in optimization process: Start to measure your app with the Prometheus tool (2/4) https://tsh.io/blog/grafana-and-prometheus-metrics/
+    - Understanding your Symfony app with Prometheus https://medium.com/4xxi/understanding-your-symfony-app-with-prometheus-fdb4b0124d99
 - Многопоточность
   - pthreads
     - How to use Multithreading in php https://medium.com/@codingpanel/how-to-use-multithreading-in-php-55b4e3ad69ee
