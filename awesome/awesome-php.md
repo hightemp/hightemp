@@ -97,6 +97,11 @@
 - https://mattstauffer.com/
 - https://blog.ircmaxell.com/
 - https://www.phpcluster.com/
+- http://phpdeveloper.org/
+- https://phpmagazine.net/
+- https://www.phpjabbers.com/blog.php
+- https://www.exakat.io/en/blog/
+- https://bootsity.com/category/php
 
 ### Статьи
 
@@ -112,6 +117,8 @@
 - Тестирование
   - Моки
     - Mocking APIs in Laravel Tests With Wiremock https://laravel-news.com/mocking-apis-in-laravel-tests-with-wiremock
+- Подборки
+  - The Best PHP Blogs https://draft.dev/learn/php-blogs
 
 ---
 
