@@ -119,6 +119,10 @@
 - Голандия
    - https://www.iptp.net/en_US/
 
+### Соц. сети
+
+- https://app.daily.dev/
+
 ### Статьи
 
 - System design
