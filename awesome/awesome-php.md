@@ -79,6 +79,7 @@
 ### Блоги
 
 - https://matthiasnoback.nl/archives/
+- https://tsh.io/search/php/
 - https://www.amitmerchant.com/
 - https://www.bram.us/
 - https://kinsta.com/php
@@ -95,6 +96,7 @@
 - https://paul-m-jones.com/
 - https://mattstauffer.com/
 - https://blog.ircmaxell.com/
+- https://www.phpcluster.com/
 
 ### Статьи
 
