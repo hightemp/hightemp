@@ -20,6 +20,8 @@
 
 - tailwind
    - https://nerdcave.com/tailwind-cheat-sheet
+- bootstrap
+   - https://hackerthemes.com/bootstrap-cheatsheet/
 - Остальное
    - https://lecoupa.github.io/awesome-cheatsheets/
 
