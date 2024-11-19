@@ -80,6 +80,7 @@
 
 - https://medium.com/tag/php
 - https://matthiasnoback.nl/archives/
+- https://dunglas.dev/
 - https://tsh.io/search/php/
 - https://www.amitmerchant.com/
 - https://www.bram.us/
