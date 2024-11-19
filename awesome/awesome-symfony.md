@@ -12,6 +12,10 @@
 - SonataAdminBundle - это инструмент для генерации административного интерфейса в Symfony, который позволяет легко создавать и настраивать административные панели для управления данными в приложении.
   - https://github.com/sonata-project/SonataAdminBundle
 
+### Репозитории
+
+- Vue Symfony Starter https://github.com/Monogramm/vue-symfony-starter
+
 ### Полезные ссылки
 
 - Symfony Demo Application https://github.com/symfony/demo
