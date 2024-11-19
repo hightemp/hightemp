@@ -32,6 +32,7 @@
 
 - https://www.redhat.com/en/blog
 - https://www.brendangregg.com/blog/
+- https://linuxtldr.com/
 
 ### Пакетные менеджеры
 
