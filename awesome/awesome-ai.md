@@ -129,6 +129,22 @@
 - Для учебы
     - https://www.studychat.app/
 
+### Для дизайнеров
+
+- [DALL-E 2](https://openai.com/product/dall-e-2) – создает оригинальные изображения из текстового описания.
+- [Midjourney](https://www.midjourney.com/home/) – нейросеть для генерации изображений. 
+- [Midjourney Prompt Tool](https://prompt.noonshot.com/) – сервис для формирования сложных запросов к нейросетям. 
+- [Stable Diffusion](https://stablediffusionweb.com/) – максимально быстро генерирует изображения на основе текста или входного изображения. 
+- [OpenArt](https://openart.ai/) – библиотека созданных искусственным интеллектом картинок.
+- [Playground AI](https://playgroundai.com/login?redirect=/create?) – один из самых простых и результативных ИИ-инструментов для создания графики.
+- [Viesus](https://www.viesus.com/) – улучшает четкость фотографий, масштабирует, редактирует. 
+- [Designer](https://designer.microsoft.com/) – один из самых достойных ИИ-инструментов от Microsoft для генерации графики и дизайнов.
+- [Bing Image Creator](https://www.bing.com/create) – подает несколько вариантов изображений по определенному промпту.
+- [Uizard.io](https://uizard.io/) – дизайнит отрисованные от руки изображения.
+- [Flair.ai](https://flair.ai/) – подбирает фон под карточки товара. 
+- [Genius.design](https://www.genius.design/) – автоматически дополняет дизайн в режиме реального времени. 
+- [Booth.ai](https://www.booth.ai/) – наденет товар на человека.
+
 ### API gateway для API AI сервисов
 
 - https://proxyapi.ru/
