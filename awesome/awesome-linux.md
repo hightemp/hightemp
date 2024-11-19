@@ -66,6 +66,8 @@
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
 - podman
     - Podman at the edge: Keeping services alive with custom healthcheck actions https://www.redhat.com/en/blog/podman-edge-healthcheck
+- RabbitMQ
+    - How to Install RabbitMQ Server on Linux (Quick Guide) https://linuxtldr.com/install-rabbitmq-server-on-linux/
 - NixOs
     - Немного о NixOS. Часть 1. Общая информация и установка https://habr.com/ru/articles/826148/
     - Мои приключения с NixOS, часть 1: начало работы https://setser.github.io/2019/02/01/nixos-part-1.html
