@@ -110,7 +110,8 @@
     - How to Create Tables Using the React-Data-Table-Component Library in React & TypeScript https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/
 - Формы
     - How to Build Forms in React https://www.freecodecamp.org/news/how-to-build-forms-in-react/
-- Коллекции
+- Подборки
     - Top 20 React Component Libraries You Need to Explore https://medium.com/@Choco23/top-20-react-component-libraries-you-need-to-explore-f1293c424068
+    - 200 Project Ideas from Beginner to Advanced with Open Source Contributions https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a?ref=dailydev
 - Остальное
     - Что нового в React 19 https://habr.com/ru/companies/timeweb/articles/843016/
