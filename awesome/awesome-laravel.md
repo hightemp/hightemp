@@ -6,4 +6,4 @@
 
 - Мониторинг, Метрики
     - Prometheus
-        - https://fly.io/laravel-bytes/instrument-laravel-for-prometheus/
+        - Prometheus Metrics in Laravel https://fly.io/laravel-bytes/instrument-laravel-for-prometheus/
