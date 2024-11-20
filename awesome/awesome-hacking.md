@@ -38,10 +38,13 @@
     - https://github.com/jonluca/anubis
 - Прокси чекер
     - https://github.com/monosans/proxy-scraper-checker
+- Домены
+  - https://github.com/aboul3la/Sublist3r
+  - Этот проект представляет собой инструмент на Python 3.8.10, который позволяет извлекать домены из диапазона IP-адресов, используя исторические данные из VirusTotal (с помощью API-ключа), поддерживает входной файл и выходной CSV-файл, и может быть полезен для извлечения субдоменов в программах по поиску ошибок. https://github.com/jevalenciap/iptodomain
 
 ### Платформы для практики в InfoSec
 
-- https://www.root-me.org/?lang=en
+- Sublist3r - это инструмент на Python для сбора вспомогательных доменов веб-сайтов с использованием методов OSINT, помогающий пентестерам и охотникам за багами собирать и находить поддомены для целевого домена путем перечисления, используя поисковые системы Google, Yahoo, Bing, Baidu и Ask, а также сторонние сервисы Netcraft, Virustotal, ThreatCrowd, DNSdumpster и ReverseDNS, включая bruteforce через субмодуль subbrute с улучшенным словарем. https://www.root-me.org/?lang=en
 
 ### linux privilege escalation
 
