@@ -91,6 +91,7 @@
 
 ### Чаты с ботами
 
+- https://chat.mistral.ai/
 - https://www.typingmind.com/
 - https://www.aiuncensored.info/
 - https://openrouter.ai/
