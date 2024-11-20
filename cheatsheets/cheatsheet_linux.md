@@ -1,3 +1,28 @@
+## Как узнать какие домены прикреплены к ip
+
+```console
+$ dig -x 5.255.255.242
+
+; <<>> DiG 9.18.28-0ubuntu0.24.04.1-Ubuntu <<>> -x 5.255.255.242
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54449
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;242.255.255.5.in-addr.arpa.    IN      PTR
+
+;; ANSWER SECTION:
+242.255.255.5.in-addr.arpa. 287 IN      PTR     ya.ru.
+
+;; Query time: 5 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Wed Nov 20 15:52:04 MSK 2024
+;; MSG SIZE  rcvd: 74
+```
+
 ## Увеличить instances inotify
 
 ```bash
