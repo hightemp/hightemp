@@ -1,5 +1,7 @@
 ## Как узнать какие домены прикреплены к ip
 
+### Вариант 1
+
 ```console
 $ dig -x 5.255.255.242
 
@@ -22,6 +24,10 @@ $ dig -x 5.255.255.242
 ;; WHEN: Wed Nov 20 15:52:04 MSK 2024
 ;; MSG SIZE  rcvd: 74
 ```
+
+### Вариант 2
+
+- https://whoishostingthis.com/
 
 ## Увеличить instances inotify
 
