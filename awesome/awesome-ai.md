@@ -48,6 +48,7 @@
 
 - Поиск по сайтам
     - https://www.phind.com/
+    - https://chat.mistral.ai/
     - https://www.genspark.ai/
     - https://komo.ai/
     - https://www.waldo.fyi/
@@ -130,6 +131,10 @@
     - chatgpt неофиц. клиент https://github.com/skydoves/chatgpt-android/releases
 - Для учебы
     - https://www.studychat.app/
+
+### Работа с документами
+
+- NotebookLM - это инструмент на основе искусственного интеллекта, разработанный Google Labs3. Это персонализированный соавтор, который помогает генерировать идеи и работать с документами. https://notebooklm.google/
 
 ### Для дизайнеров
 
