@@ -25,10 +25,6 @@ $ dig -x 5.255.255.242
 ;; MSG SIZE  rcvd: 74
 ```
 
-### Вариант 2
-
-- https://whoishostingthis.com/
-
 ## Увеличить instances inotify
 
 ```bash
