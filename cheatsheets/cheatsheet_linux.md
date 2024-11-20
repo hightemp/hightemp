@@ -25,6 +25,10 @@ $ dig -x 5.255.255.242
 ;; MSG SIZE  rcvd: 74
 ```
 
+### Вариант 2
+
+- https://github.com/jevalenciap/iptodomain
+
 ## Увеличить instances inotify
 
 ```bash

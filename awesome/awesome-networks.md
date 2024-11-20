@@ -13,6 +13,10 @@
 - Self-hosted ngrok alternative https://docs.ssi.sh/
 - tcp/http self-hosted tunnel https://telebit.cloud/
 
+### Репозитории
+
+- Этот проект представляет собой инструмент на Python 3.8.10, который позволяет извлекать домены из диапазона IP-адресов, используя исторические данные из VirusTotal (с помощью API-ключа), поддерживает входной файл и выходной CSV-файл, и может быть полезен для извлечения субдоменов в программах по поиску ошибок. https://github.com/jevalenciap/iptodomain
+
 ### VPN
 
 - https://www.vpnbook.com/
