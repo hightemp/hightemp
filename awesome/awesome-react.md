@@ -121,3 +121,6 @@
 - Примеры приложений
     - Build and Deploy Mern Stack Ecommerce Website React, Mongodb, Express, Node, and Tailwind CSS https://youtu.be/niJWb_0WiCY
     - Full Stack with Next.js 14, Prisma, NextAuth, Pusher & Cloudinary – Build & Deploy a Dating App https://www.youtube.com/watch?v=JTNBJHba_sE
+    - Full Stack Netflix Clone in React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth & Vercel (2023) https://www.youtube.com/watch?v=mqUN4N2q4qY
+    - Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023) https://www.youtube.com/watch?v=ytkG7RT6SvU
+    - Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023 https://www.youtube.com/watch?v=c_-b_isI4vg
