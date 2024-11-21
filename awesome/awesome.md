@@ -168,6 +168,8 @@
 
 ## Приложения для базы знаний (аналоги Notion)
 
+- Остальное
+    - https://memotron.io/
 - self-hosted
     - https://github.com/toeverything/AFFiNE
     - https://github.com/siyuan-note/siyuan
