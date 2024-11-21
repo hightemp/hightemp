@@ -440,6 +440,7 @@
     - Writing VPN with Go — 2. Client https://bdemirpolat.medium.com/go-ile-vpn-2-client-b6bc5848db29
   - Работа с траффиком
     - pcap
+      - Capture traffic with Golang https://dev.to/aohorodnyk/capture-traffic-with-golang-2nmo
       - How to Read and Extract Information from a PCAP File in Go https://byteshiva.medium.com/how-to-read-and-extract-information-from-a-pcap-file-in-go-287c0bd66561
       - Programmatically Analyze Packet Captures with GoPacket https://www.akitasoftware.com/blog-posts/programmatically-analyze-packet-captures-with-gopacket
   - Балансировщик
@@ -451,9 +452,6 @@
       - Go Tips & Common Mistakes - Go HTTP File Upload and Download https://bytegoblin.io/blog/go-tips-common-mistakes.mdx
     - Остальное
       - Golang HTTP server: basics https://medium.com/@bartosz.piekny/golang-http-server-basics-6936ddab7474
-  - Работа с траффиком
-    - pcap
-      - Capture traffic with Golang https://dev.to/aohorodnyk/capture-traffic-with-golang-2nmo
 - Криптография
   - Go: Verify Cryptographic Signatures https://blog.cubieserver.de/2016/go-verify-cryptographic-signatures/
 - git
