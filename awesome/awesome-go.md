@@ -478,6 +478,9 @@
 - Telegram
   - Telegram на go: часть 1, парсим схему https://habr.com/ru/articles/535076/
   - Telegram на go, часть 2: бинарный протокол https://habr.com/ru/articles/541920/
+- REST
+  - REST Servers in Go: Part 1 - standard library https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/
+  - REST Servers in Go: Part 2 - using a router package https://eli.thegreenplace.net/2021/rest-servers-in-go-part-2-using-a-router-package/
 - pipe
   - Mastering io.Pipe in Go https://bytegoblin.io/blog/mastering-io-pipe-in-go
 - API
