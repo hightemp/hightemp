@@ -11,9 +11,11 @@
 - https://github.com/unicodeveloper/awesome-nextjs
 - https://github.com/officialrajdeepsingh/awesome-nextjs
 
-### Сайты
+### Полезные ссылки
 
+- https://evocomm.space
 - https://awesomereact.com/
+- блог Дэна Абрамова https://overreacted.io/ 
 
 ### Библиотеки
 
