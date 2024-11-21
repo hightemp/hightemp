@@ -120,3 +120,4 @@
 
 - Примеры приложений
     - Build and Deploy Mern Stack Ecommerce Website React, Mongodb, Express, Node, and Tailwind CSS https://youtu.be/niJWb_0WiCY
+    - Full Stack with Next.js 14, Prisma, NextAuth, Pusher & Cloudinary – Build & Deploy a Dating App https://www.youtube.com/watch?v=JTNBJHba_sE
