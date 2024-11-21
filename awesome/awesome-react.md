@@ -113,12 +113,15 @@
 - Формы
     - How to Build Forms in React https://www.freecodecamp.org/news/how-to-build-forms-in-react/
 - Подборки
-    - Лучшие курсы для React-разработчиков, включая бесплатное обучение с нуля https://timeweb.com/ru/community/articles/luchshie-kursy-dlya-react-razrabotchikov-vklyuchaya-besplatnoe-obuchenie-s-nulya
-    - Полезные ресурсы для начинающего React-разработчика https://practicum.yandex.ru/blog/kak-stat-react-razrabotchikom-top-besplatnyh-resursov/
-    - 25 бесплатных ресурсов для изучения React онлайн. https://uproger.com/25-besplatnyh-resursov-dlya-izucheniya-react-onlajn/
-    - 12 бесплатных ресурсов для изучения React https://proglib.io/p/12-besplatnyh-resursov-dlya-izucheniya-react-2020-06-23
-    - Top 20 React Component Libraries You Need to Explore https://medium.com/@Choco23/top-20-react-component-libraries-you-need-to-explore-f1293c424068
-    - 200 Project Ideas from Beginner to Advanced with Open Source Contributions https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a?ref=dailydev
+    - Курсы
+        - ТОП-39 лучших курсов по ReactJS в 2024 году https://kurshub.ru/kursy/luchshie-react-kursy/
+        - Лучшие курсы для React-разработчиков, включая бесплатное обучение с нуля https://timeweb.com/ru/community/articles/luchshie-kursy-dlya-react-razrabotchikov-vklyuchaya-besplatnoe-obuchenie-s-nulya
+    - Остальное
+        - Полезные ресурсы для начинающего React-разработчика https://practicum.yandex.ru/blog/kak-stat-react-razrabotchikom-top-besplatnyh-resursov/
+        - 25 бесплатных ресурсов для изучения React онлайн. https://uproger.com/25-besplatnyh-resursov-dlya-izucheniya-react-onlajn/
+        - 12 бесплатных ресурсов для изучения React https://proglib.io/p/12-besplatnyh-resursov-dlya-izucheniya-react-2020-06-23
+        - Top 20 React Component Libraries You Need to Explore https://medium.com/@Choco23/top-20-react-component-libraries-you-need-to-explore-f1293c424068
+        - 200 Project Ideas from Beginner to Advanced with Open Source Contributions https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a?ref=dailydev
 - Остальное
     - Что нового в React 19 https://habr.com/ru/companies/timeweb/articles/843016/
 
