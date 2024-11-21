@@ -113,6 +113,8 @@
 - Формы
     - How to Build Forms in React https://www.freecodecamp.org/news/how-to-build-forms-in-react/
 - Подборки
+    - 25 бесплатных ресурсов для изучения React онлайн. https://uproger.com/25-besplatnyh-resursov-dlya-izucheniya-react-onlajn/
+    - 12 бесплатных ресурсов для изучения React https://proglib.io/p/12-besplatnyh-resursov-dlya-izucheniya-react-2020-06-23
     - Top 20 React Component Libraries You Need to Explore https://medium.com/@Choco23/top-20-react-component-libraries-you-need-to-explore-f1293c424068
     - 200 Project Ideas from Beginner to Advanced with Open Source Contributions https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a?ref=dailydev
 - Остальное
