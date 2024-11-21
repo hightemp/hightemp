@@ -20,7 +20,6 @@
 - [docWiki](https://github.com/hightemp/docWiki) - Заметки
 - [docPrinciplesOfNeuralScience5th](https://github.com/hightemp/docPrinciplesOfNeuralScience5th) - Перевод книги
 - [cappTYGListCollector](https://github.com/hightemp/cappTYGListCollector) - Коллекции ссылок telegram, youtube
-- [doc_notes](https://github.com/hightemp/doc_notes) - Заметки из Obsidian
 
 #### Текущие
 
