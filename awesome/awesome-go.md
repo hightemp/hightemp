@@ -838,24 +838,31 @@
 
 ### Видео
 
-- Функциональное программирование и #golang. Доклад с GopherCon UK 2024 https://www.youtube.com/watch?v=OKlhUv8R1ag
-- GopherCon UK 2024 https://www.youtube.com/watch?v=hIKRmIotkhw&list=PLDWZ5uzn69ezR6D6FUj_iBSOyRc9xaZFP
-- https://vk.com/video/playlist/-211870343_13
-- [s5 | 2024] Программирование на Go, Панасюк И.А., практика 7 https://www.youtube.com/watch?v=XQWxOIzGJlQ
-- Go Clean Template | Чистая Архитектура и как её готовить, Михаил Непряхин https://www.youtube.com/watch?v=V6lQG6d5LgU
-- nextjs 14, Go, Docker: Build a fullstack rest API in TypeScript and Go https://www.youtube.com/watch?v=429-r55KFmM
-- Golang 100 вопросов с собеседований. Подготовка Go разработчика Часть 1 https://www.youtube.com/watch?v=ZvaD-G5_3vQ
-- Golang Tutorial for Beginners | Full Go Course https://www.youtube.com/watch?v=yyUHQIec83I
-- Synchronization in Golang - Complete Guide https://www.youtube.com/watch?v=Xf1j0FGAYUY
-- Creating Golang WebServer With Echo https://www.youtube.com/watch?v=_pww3NJuWnk&list=PLFmONUGpIk0YwlJMZOo21a9Q1juVrk4YY
-- Clean architecture in Go. How to organize a project structure? https://www.youtube.com/watch?v=goC-gCNWhS4
-- GO - Clean Architecture https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB
-- How To Structure Your Go App - Full Course [ Hex Arch + Tests ] https://www.youtube.com/watch?v=MpFog2kZsHk
-- Go Programming - Hexagonal Architecture https://www.youtube.com/watch?v=k3JZI-sQs2k
-- Golang / Go Crash Course 03 | Implementing Clean Architecture principles in our REST API https://www.youtube.com/watch?v=Yg_ae0UvCv4
-- dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture https://www.youtube.com/watch?v=vKbVrsMnhDc
-- Configure Golang in Neovim https://www.youtube.com/watch?v=EgwiPok2nbU
-- Буквально 4 минуты про гуся. Goose - тулза для миграций на #golang https://www.youtube.com/watch?v=tyDan_pFUHE
+- Примеры приложений
+  - Building a TCP Chat in Go https://www.youtube.com/watch?v=Sphme0BqJiY
+  - nextjs 14, Go, Docker: Build a fullstack rest API in TypeScript and Go https://www.youtube.com/watch?v=429-r55KFmM
+  - Creating Golang WebServer With Echo https://www.youtube.com/watch?v=_pww3NJuWnk&list=PLFmONUGpIk0YwlJMZOo21a9Q1juVrk4YY
+- Конференции
+  - Функциональное программирование и #golang. Доклад с GopherCon UK 2024 https://www.youtube.com/watch?v=OKlhUv8R1ag
+  - GopherCon UK 2024 https://www.youtube.com/watch?v=hIKRmIotkhw&list=PLDWZ5uzn69ezR6D6FUj_iBSOyRc9xaZFP
+- Обучающие видео
+  - [s5 | 2024] Программирование на Go, Панасюк И.А., практика 7 https://www.youtube.com/watch?v=XQWxOIzGJlQ
+  - Golang Tutorial for Beginners | Full Go Course https://www.youtube.com/watch?v=yyUHQIec83I
+  - Synchronization in Golang - Complete Guide https://www.youtube.com/watch?v=Xf1j0FGAYUY
+  - Golang / Go Crash Course 03 | Implementing Clean Architecture principles in our REST API https://www.youtube.com/watch?v=Yg_ae0UvCv4
+- Подготовка к собеседованию
+  - Golang 100 вопросов с собеседований. Подготовка Go разработчика Часть 1 https://www.youtube.com/watch?v=ZvaD-G5_3vQ
+- Остальное
+  - https://vk.com/video/playlist/-211870343_13
+  - Go Clean Template | Чистая Архитектура и как её готовить, Михаил Непряхин https://www.youtube.com/watch?v=V6lQG6d5LgU
+  - Configure Golang in Neovim https://www.youtube.com/watch?v=EgwiPok2nbU
+  - Буквально 4 минуты про гуся. Goose - тулза для миграций на #golang https://www.youtube.com/watch?v=tyDan_pFUHE
+- Чистая архитектура
+  - Clean architecture in Go. How to organize a project structure? https://www.youtube.com/watch?v=goC-gCNWhS4
+  - GO - Clean Architecture https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB
+  - How To Structure Your Go App - Full Course [ Hex Arch + Tests ] https://www.youtube.com/watch?v=MpFog2kZsHk
+  - Go Programming - Hexagonal Architecture https://www.youtube.com/watch?v=k3JZI-sQs2k
+  - dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture https://www.youtube.com/watch?v=vKbVrsMnhDc
 
 ### Сайты со статьями
 
