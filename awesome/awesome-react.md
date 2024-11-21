@@ -113,6 +113,7 @@
 - Формы
     - How to Build Forms in React https://www.freecodecamp.org/news/how-to-build-forms-in-react/
 - Подборки
+    - Лучшие курсы для React-разработчиков, включая бесплатное обучение с нуля https://timeweb.com/ru/community/articles/luchshie-kursy-dlya-react-razrabotchikov-vklyuchaya-besplatnoe-obuchenie-s-nulya
     - Полезные ресурсы для начинающего React-разработчика https://practicum.yandex.ru/blog/kak-stat-react-razrabotchikom-top-besplatnyh-resursov/
     - 25 бесплатных ресурсов для изучения React онлайн. https://uproger.com/25-besplatnyh-resursov-dlya-izucheniya-react-onlajn/
     - 12 бесплатных ресурсов для изучения React https://proglib.io/p/12-besplatnyh-resursov-dlya-izucheniya-react-2020-06-23
