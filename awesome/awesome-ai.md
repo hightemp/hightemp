@@ -49,7 +49,8 @@
 - Поиск по сайтам
     - https://www.phind.com/
     - https://chat.mistral.ai/
-    - https://www.genspark.ai/
+    - https://chat.deepseek.com/
+    - https://www.genspark.ai/    
     - https://komo.ai/
     - https://www.waldo.fyi/
     - https://bagoodex.io/
