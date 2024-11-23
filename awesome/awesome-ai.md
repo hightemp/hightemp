@@ -99,6 +99,7 @@
 - https://openrouter.ai/
 - https://groq.com/
 - https://openchat.team/
+- http://walles.ai/
 - https://lambda.chat/chatui/
 - https://labs.perplexity.ai/
 - https://services.vsegpt.ru:6400/?model=openai%2Fgpt-3.5-turbo
