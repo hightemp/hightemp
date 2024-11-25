@@ -53,6 +53,8 @@
 - Nodejs
   - Stream
     - Ментальная модель потоков в Node.js https://habr.com/ru/companies/timeweb/articles/854330/
+  - ESM
+    - Как использовать ESM в браузере и в Node.js https://webdevblog.ru/kak-ispolzovat-esm-v-brauzere-i-v-node-js/
 
 ### Полезные ссылки
 
