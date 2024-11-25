@@ -50,6 +50,9 @@
   - JavaScript Generators Explained, But On A Senior-Level https://www.reactsquad.io/blog/understanding-generators-in-javascript
 - Дата
   - JS Dates Are About to Be Fixed https://docs.timetime.in/blog/js-dates-finally-fixed/
+- Nodejs
+  - Stream
+    - Ментальная модель потоков в Node.js https://habr.com/ru/companies/timeweb/articles/854330/
 
 ### Полезные ссылки
 
