@@ -298,6 +298,10 @@
 - https://www.10hostings.com/netherland/top10
 - https://dieg.info/en/tsod/netherlands-en/
 
+### Бенчи
+
+- бенчмарки фронтенд фреймворков https://krausest.github.io/js-framework-benchmark/index.html
+
 ### Дата-центры
 
 - Голандия
