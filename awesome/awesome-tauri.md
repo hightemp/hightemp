@@ -12,6 +12,7 @@
 
 - Примеры приложений
     - Creating Your First Tauri App with React: A Beginner's Guide https://dev.to/dubisdev/creating-your-first-tauri-app-with-react-a-beginners-guide-3eb2
+    - Building a music player with Tauri + Svelte https://slavbasharov.com/blog/building-music-player-tauri-svelte
 - Мобильная разработка
     - Tauri mobile for iOS https://dev.to/adimac93/tauri-mobile-for-ios-4dp6
 - Остальное
