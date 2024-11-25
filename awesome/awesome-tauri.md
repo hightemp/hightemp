@@ -1,3 +1,7 @@
+### Коллекции
+
+- https://github.com/tauri-apps/awesome-tauri
+
 ### Статьи
 
 - Примеры приложений
