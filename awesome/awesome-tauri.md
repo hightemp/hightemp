@@ -10,3 +10,4 @@
     - Tauri 2.0 released: Can it beat Electron this time? https://medium.com/@sevenall/tauri-2-0-released-can-it-beat-electron-this-time-c748663d90ea
     - Tauri - The Flutter killer? https://dev.to/lynxgsm/tauri-the-flutter-killer-5h27
     - Tauri Mobile - Develop mobile apps with JavaScript and Rust https://studioterabyte.nl/en/blog/tauri-mobile-app-development
+    - Why I chose Tauri instead of Electron https://aptabase.com/blog/why-chose-to-build-on-tauri-instead-electron
