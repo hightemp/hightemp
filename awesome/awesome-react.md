@@ -16,6 +16,7 @@
 - https://evocomm.space
 - https://awesomereact.com/
 - блог Дэна Абрамова https://overreacted.io/ 
+- https://reactdev.ru/learn/
 
 ### Библиотеки
 
