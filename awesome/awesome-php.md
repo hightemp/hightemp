@@ -111,6 +111,7 @@
 - https://bootsity.com/category/php
 - https://www.vthink.co.in/category/php
 - https://www.php.cn/article.html
+- https://www.phparch.com/
 
 ### Статьи
 
