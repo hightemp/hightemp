@@ -50,6 +50,8 @@
   - JavaScript Generators Explained, But On A Senior-Level https://www.reactsquad.io/blog/understanding-generators-in-javascript
 - Дата
   - JS Dates Are About to Be Fixed https://docs.timetime.in/blog/js-dates-finally-fixed/
+- Системы модулей
+  - Модули — amd, cjs, esm и umd https://medium.com/@z4o4z/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-amd-cjs-esm-%D0%B8-umd-dff38c267117
 - Nodejs
   - Stream
     - Ментальная модель потоков в Node.js https://habr.com/ru/companies/timeweb/articles/854330/
