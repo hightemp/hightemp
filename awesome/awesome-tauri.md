@@ -20,6 +20,7 @@
     - How to Build a Document Scanning Desktop App with Tauri https://www.dynamsoft.com/codepool/tauri-document-scanning-desktop-app.html
 - Мобильная разработка
     - Tauri mobile for iOS https://dev.to/adimac93/tauri-mobile-for-ios-4dp6
+    - Build Your First Mobile Linux App With React And Tauri https://betterprogramming.pub/pinephone-app-development-a-quick-start-guide-97f2d90a334c
 - panic
     - Your Tauri app crashed. What now? Exploring Rust panic solutions https://aptabase.com/blog/catching-panics-on-tauri-apps
 - Остальное
