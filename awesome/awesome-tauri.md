@@ -30,3 +30,7 @@
     - Tauri - The Flutter killer? https://dev.to/lynxgsm/tauri-the-flutter-killer-5h27
     - Tauri Mobile - Develop mobile apps with JavaScript and Rust https://studioterabyte.nl/en/blog/tauri-mobile-app-development
     - Why I chose Tauri instead of Electron https://aptabase.com/blog/why-chose-to-build-on-tauri-instead-electron
+
+### Видео
+
+- Tauri and Solid make mobile and desktop apps https://www.youtube.com/watch?v=W539_PP4Y98
