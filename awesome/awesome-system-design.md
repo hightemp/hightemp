@@ -31,5 +31,6 @@
 
 ### Статьи
 
+- Circuit Breaker Pattern (Design Patterns for Microservices) https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33
 - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
 - Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
