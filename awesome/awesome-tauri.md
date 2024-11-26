@@ -34,3 +34,4 @@
 ### Видео
 
 - Tauri and Solid make mobile and desktop apps https://www.youtube.com/watch?v=W539_PP4Y98
+- Create, develop and build native desktop apps with Tauri. https://www.youtube.com/watch?v=BhmXTi0X7Kg&pp=ygUUI3RhdXJpbWF4c2l0ZW9maWNpYWw%3D
