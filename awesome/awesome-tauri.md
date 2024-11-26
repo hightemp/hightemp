@@ -17,6 +17,7 @@
     - Building a music player with Tauri + Svelte https://slavbasharov.com/blog/building-music-player-tauri-svelte
     - How I created the Focus app using React and Rust https://www.codementor.io/@webneat/how-i-created-the-focus-app-using-react-and-rust-239wp1ians
     - Managing State in Desktop Applications with Rust and Tauri https://blog.moonguard.dev/manage-state-with-tauri
+    - How to Build a Document Scanning Desktop App with Tauri https://www.dynamsoft.com/codepool/tauri-document-scanning-desktop-app.html
 - Мобильная разработка
     - Tauri mobile for iOS https://dev.to/adimac93/tauri-mobile-for-ios-4dp6
 - Остальное
