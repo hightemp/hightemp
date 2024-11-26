@@ -16,6 +16,7 @@
     - Creating Your First Tauri App with React: A Beginner's Guide https://dev.to/dubisdev/creating-your-first-tauri-app-with-react-a-beginners-guide-3eb2
     - Building a music player with Tauri + Svelte https://slavbasharov.com/blog/building-music-player-tauri-svelte
     - How I created the Focus app using React and Rust https://www.codementor.io/@webneat/how-i-created-the-focus-app-using-react-and-rust-239wp1ians
+    - Managing State in Desktop Applications with Rust and Tauri https://blog.moonguard.dev/manage-state-with-tauri
 - Мобильная разработка
     - Tauri mobile for iOS https://dev.to/adimac93/tauri-mobile-for-ios-4dp6
 - Остальное
