@@ -523,6 +523,7 @@
   - Трассировщики
     - Jaeger для трассировки в микросервисной архитектуре https://habr.com/ru/companies/yandex_praktikum/articles/729906/
 - Android
+  - React Native: Why and How to Build Your Native Code in Go https://jondot.medium.com/react-native-why-and-how-to-build-your-native-code-in-go-9fee492f0daa
   - How to run GoLang code in your React-Native Android application using Expo Go https://medium.com/@ykanavalik/how-to-run-golang-code-in-your-react-native-android-application-using-expo-go-d4e46438b753
   - Using Golang + Gomobile To Build Android Application (with code) https://dev.to/nikl/using-golang-gomobile-to-build-android-application-with-code-18jo
   - Прокси-сервер для Android на Go https://habr.com/ru/articles/796105/
