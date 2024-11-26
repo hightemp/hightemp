@@ -363,6 +363,7 @@
   - Catching Multiple SIGINTs in Go - Confirming if You Really Want to Quit https://vlads.me/post/catching-multiple-sigints-in-go-confirming-if-you-really-want-to-quit/
   - SIGKILL vs SIGTERM: A Developer's Guide to Process Termination https://www.stackstate.com/blog/sigkill-vs-sigterm-a-developers-guide-to-process-termination/
 - Пример создания приложения или сервиса
+  - Building Scalable Web Applications with React and Golang: Best Practices https://www.dhiwise.com/post/building-scalable-web-applications-with-react-and-golang
   - Create a Full-Stack App With Go and React https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/
   - Building a CRUD gRPC Service with Go https://medium.com/@erwindev/building-a-crud-grpc-service-with-go-8ea99fba4ba8
   - Пример простейшей key-value СУБД на основе Badger https://eax.me/golang-badger/
