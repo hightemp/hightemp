@@ -839,6 +839,7 @@
 - Stock Analysis API https://github.com/shivamsouravjha/stock-backend
 - https://github.com/gothinkster/golang-gin-realworld-example-app
 - https://github.com/go-kit/examples/
+- https://github.com/ykanavalik/react-native-golang-sample
 
 ### Видео
 
