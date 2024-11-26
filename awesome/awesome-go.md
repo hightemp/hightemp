@@ -645,6 +645,8 @@
 - Поиск
   - pgvector
     - Пишем поиск семантически похожих текстов (или товаров) за полчаса на Go и Postgres (pgVector) https://habr.com/ru/companies/karuna/articles/809305/
+- React
+  - Getting started with Go and React - React & REST API's https://mpolinowski.github.io/docs/Development/Go/2021-09-24--golang-react-starter-part-iv/2021-09-24
 - Остальное
   - Serving NEXT.Js with Go https://mblessed.hashnode.dev/serving-nextjs-with-go
   - Go Singleflight Melts in Your Code, Not in Your DB https://victoriametrics.com/blog/go-singleflight/index.html
