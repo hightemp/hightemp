@@ -840,6 +840,7 @@
 - https://programmingpercy.tech/blog/category/go/
 - https://mauricio.github.io/
 - https://mpolinowski.github.io/docs/category/go/
+- https://rednafi.com/go/
 
 ### Подкасты
 
