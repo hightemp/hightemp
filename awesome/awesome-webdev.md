@@ -363,6 +363,7 @@
 
 ### Блоги
 
+- https://martinfowler.com/architecture/
 - https://brooker.co.za/blog/
 - https://clement-jean.github.io/
 
