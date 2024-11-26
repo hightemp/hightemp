@@ -23,6 +23,7 @@
 - panic
     - Your Tauri app crashed. What now? Exploring Rust panic solutions https://aptabase.com/blog/catching-panics-on-tauri-apps
 - Остальное
+    - Tauri 2.0 A look at the Rust-based JS framework https://javascript-conference.com/blog/tauri-2-0/
     - How To Make HTTP Requests from Tauri https://akoskm.com/how-to-make-http-requests-in-tauri/
     - Tauri 2.0 released: Can it beat Electron this time? https://medium.com/@sevenall/tauri-2-0-released-can-it-beat-electron-this-time-c748663d90ea
     - Tauri - The Flutter killer? https://dev.to/lynxgsm/tauri-the-flutter-killer-5h27
