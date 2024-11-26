@@ -832,6 +832,7 @@
 - https://echorand.me/posts/
 - https://programmingpercy.tech/blog/category/go/
 - https://mauricio.github.io/
+- https://mpolinowski.github.io/docs/category/go/
 
 ### Подкасты
 
