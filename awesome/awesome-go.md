@@ -523,6 +523,7 @@
   - Трассировщики
     - Jaeger для трассировки в микросервисной архитектуре https://habr.com/ru/companies/yandex_praktikum/articles/729906/
 - Android
+  - Build golang application to run on Android device https://medium.com/@liwp.stephen/build-golang-application-to-run-on-android-device-a46d1a24d585
   - Using native module that built by gomobile on React Native https://medium.com/@hatajoe/using-native-module-that-built-by-gomobile-on-react-native-76d21006a48
   - React Native: Why and How to Build Your Native Code in Go https://jondot.medium.com/react-native-why-and-how-to-build-your-native-code-in-go-9fee492f0daa
   - How to run GoLang code in your React-Native Android application using Expo Go https://medium.com/@ykanavalik/how-to-run-golang-code-in-your-react-native-android-application-using-expo-go-d4e46438b753
