@@ -20,6 +20,8 @@
     - How to Build a Document Scanning Desktop App with Tauri https://www.dynamsoft.com/codepool/tauri-document-scanning-desktop-app.html
 - Мобильная разработка
     - Tauri mobile for iOS https://dev.to/adimac93/tauri-mobile-for-ios-4dp6
+- panic
+    - Your Tauri app crashed. What now? Exploring Rust panic solutions https://aptabase.com/blog/catching-panics-on-tauri-apps
 - Остальное
     - How To Make HTTP Requests from Tauri https://akoskm.com/how-to-make-http-requests-in-tauri/
     - Tauri 2.0 released: Can it beat Electron this time? https://medium.com/@sevenall/tauri-2-0-released-can-it-beat-electron-this-time-c748663d90ea
