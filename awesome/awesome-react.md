@@ -107,6 +107,9 @@
     - React Like a Pro: Mastering Best Practices in 2024 https://medium.com/@apicraft/react-like-a-pro-mastering-best-practices-in-2024-8f9eaad4fa25
     - React Best Practices to Improve Your Code https://medium.com/@onix_react/react-best-practices-to-improve-your-code-a4c68962d5dd
     - React Best Practices Every Developer Have to Follow in 2024 https://technostacks.com/blog/react-best-practices/
+- Архитектура
+    - Остальное
+        - Modularizing React Applications with Established UI Patterns https://martinfowler.com/articles/modularizing-react-apps.html
 - Хуки
     - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
 - Таблицы
