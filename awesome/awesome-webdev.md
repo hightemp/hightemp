@@ -313,8 +313,9 @@
 
 ### Статьи
 
-- System design
-   - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
+- Архитектура
+   - Паттерны
+      - https://martinfowler.com/bliki/CircuitBreaker.html
 - Снифферы
    - Снифферы трафика в мобильном тестировании: Обзор инструментов и их особенности https://habr.com/ru/articles/840084/
 - Балансировщики

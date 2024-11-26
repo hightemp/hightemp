@@ -31,4 +31,5 @@
 
 ### Статьи
 
+- Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
 - Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
