@@ -63,6 +63,9 @@
   - Модули — amd, cjs, esm и umd https://medium.com/@z4o4z/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-amd-cjs-esm-%D0%B8-umd-dff38c267117
   - Опыт модернизации пакетов в ESM https://reactdev.ru/guides/esm-modernization-lessons/
   - Создаём современные npm-пакеты и преодолеваем трудности совместимости ESM и CJS https://habr.com/ru/companies/ozontech/articles/857954/
+- Архитектура
+  - Остальное
+    - Feature-Sliced Design: The Best Frontend Architecture https://dev.to/m_midas/feature-sliced-design-the-best-frontend-architecture-4noj
 - Лучшие практики
   - Лучшие практики TypeScript https://habr.com/ru/articles/859016/
 - Nodejs
