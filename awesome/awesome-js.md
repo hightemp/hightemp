@@ -23,6 +23,15 @@
 - FingerprintJS - это клиентская библиотека с открытым исходным кодом для браузерного фингерпринтинга, которая собирает атрибуты браузера и вычисляет хешированный идентификатор посетителя, сохраняющийся даже в режиме инкогнито и при очистке данных браузера. https://github.com/fingerprintjs/fingerprintjs
 - Проект SWC - это высокопроизводительная Rust-платформа для веб-разработки с открытым исходным кодом, которая включает в себя компилятор и сборщик JavaScript/TypeScript с современными возможностями, поддерживаемыми основными браузерами, и в 20-70 раз быстрее Babel. https://github.com/swc-project/swc https://swc.rs/
 
+### Архитектура frontend
+
+- https://feature-sliced.design/
+
+### Полезные ссылки
+
+- Сайт о регулярных выражениях https://www.regular-expressions.info/tutorial.html
+- https://www.patterns.dev/
+
 ### Видео
 
 - https://www.youtube.com/watch?v=SoS35UBc5dA
@@ -61,11 +70,6 @@
     - Ментальная модель потоков в Node.js https://habr.com/ru/companies/timeweb/articles/854330/
   - ESM
     - Как использовать ESM в браузере и в Node.js https://webdevblog.ru/kak-ispolzovat-esm-v-brauzere-i-v-node-js/
-
-### Полезные ссылки
-
-- Сайт о регулярных выражениях https://www.regular-expressions.info/tutorial.html
-- https://www.patterns.dev/
 
 ### Демо
 
