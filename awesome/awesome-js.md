@@ -32,6 +32,12 @@
 - Сайт о регулярных выражениях https://www.regular-expressions.info/tutorial.html
 - https://www.patterns.dev/
 
+### Примеры приложений
+
+- Angular
+  - FSD
+    - https://github.com/fed4wet/angular-feature-sliced-design
+
 ### Видео
 
 - https://www.youtube.com/watch?v=SoS35UBc5dA
