@@ -842,6 +842,7 @@
 - https://mauricio.github.io/
 - https://mpolinowski.github.io/docs/category/go/
 - https://rednafi.com/go/
+- https://www.willem.dev/articles/
 
 ### Подкасты
 
