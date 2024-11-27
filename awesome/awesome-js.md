@@ -66,6 +66,7 @@
 - Архитектура
   - Остальное
     - Feature-Sliced Design: The Best Frontend Architecture https://dev.to/m_midas/feature-sliced-design-the-best-frontend-architecture-4noj
+    - Understanding Feature-Sliced Design: Benefits and Real Code Examples https://hackernoon.com/understanding-feature-sliced-design-benefits-and-real-code-examples
 - Лучшие практики
   - Лучшие практики TypeScript https://habr.com/ru/articles/859016/
 - Nodejs
