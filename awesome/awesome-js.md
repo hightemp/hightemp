@@ -37,6 +37,9 @@
 - Angular
   - FSD
     - https://github.com/fed4wet/angular-feature-sliced-design
+- SolidJs
+  - FSD
+    - https://github.com/feature-sliced/examples
 
 ### Видео
 
