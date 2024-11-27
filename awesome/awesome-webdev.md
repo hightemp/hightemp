@@ -14,6 +14,9 @@
    - https://nextleap.app/online-compiler/reactjs-programming
 - tailwind
    - https://play.tailwindcss.com/
+- html, flex
+   - https://flexboxlabs.netlify.app/
+
 
 ### Сертификаты (SSL,TLS)
 
