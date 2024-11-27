@@ -608,6 +608,7 @@
 - Планировщик, Scheduler
   - Mastering Task Scheduling in Go: Gron, JobRunner, and Gocron https://medium.com/@murataslan1/mastering-task-scheduling-in-go-gron-jobrunner-and-gocron-0123d5c4ee95
 - Тестирование
+  - Accurate handler tests using httptest https://www.willem.dev/articles/testing-http-handlers-using-httptest/
   - Практика написания модульных тестов в языке Go https://eax.me/golang-unit-testing/
   - Мутационное тестирование: опыт внедрения на 1500 сервисов https://habr.com/ru/companies/avito/articles/650073/
   - Go: How the Testing Harness Works https://matttproud.com/blog/posts/go-testing-harness.html
