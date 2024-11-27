@@ -331,6 +331,8 @@
     - Let's stop editing go.mod manually https://tpaschalis.me/go-mod-edit/
   - Error
     - Mastering Golang — Part 8: Error Handling https://blog.stackademic.com/mastering-golang-part-8-error-handling-4012a62ad0cb
+  - Embed
+    - Using Go Embed https://www.bytesizego.com/blog/go-embed
   - Остальное
     - Notes on Go https://echorand.me/posts/go-notes/
     - Shallow copy and Deep copy in Go https://echorand.me/posts/go-values-references-etc/
