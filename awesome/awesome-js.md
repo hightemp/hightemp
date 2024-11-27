@@ -74,6 +74,7 @@
   - Создаём современные npm-пакеты и преодолеваем трудности совместимости ESM и CJS https://habr.com/ru/companies/ozontech/articles/857954/
 - Архитектура
   - Остальное
+    - Как мы приготовили Feature-Sliced Design в VK https://habr.com/ru/companies/vk/articles/831148/
     - Feature-Sliced Design: The Best Frontend Architecture https://dev.to/m_midas/feature-sliced-design-the-best-frontend-architecture-4noj
     - Understanding Feature-Sliced Design: Benefits and Real Code Examples https://hackernoon.com/understanding-feature-sliced-design-benefits-and-real-code-examples
 - Лучшие практики
