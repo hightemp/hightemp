@@ -290,6 +290,7 @@
     - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
   - Каналы
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
+    - Go: нужно ли закрывать канал? https://habr.com/ru/articles/861846/
   - Гоурутины, goroutines
     - Корутины: stackful vs stackless https://habr.com/ru/articles/850970/
     - Demystifying Golang Channels, Goroutines, and Optimal Concurrency https://levelup.gitconnected.com/golang-channels-goroutines-and-optimal-concurrency-demystifying-through-examples-a43ba6aee74f
