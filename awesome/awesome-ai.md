@@ -133,12 +133,15 @@
 - [https://clova-x.naver.com/](https://clova-x.naver.com/) (корейский чат-бот с искусственным интеллектом)
 - [https://copilot.microsoft.com/](https://copilot.microsoft.com/)
 - [https://doc.tock.ai/en/](https://doc.tock.ai/en/) (строительный разговорный бот)
-- https://bolt.new
 - https://aistudio.google.com/prompts/new_chat
 - android
     - chatgpt неофиц. клиент https://github.com/skydoves/chatgpt-android/releases
 - Для учебы
     - https://www.studychat.app/
+- Для разработки
+    - https://replit.com/
+    - https://bolt.new
+
 
 ### Работа с документами
 
