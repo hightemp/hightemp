@@ -324,6 +324,7 @@
   - init
     - \[Memo\] Go init behavior https://articles.singee.me/go-init-behaviour
   - time
+    - How to parse a time or date in Go https://www.willem.dev/articles/how-to-parse-time-date/
     - Do you really understand time.Now()? https://articles.singee.me/golang-time
     - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
     - Working With Time in Golang https://www.bytesizego.com/blog/golang-time
