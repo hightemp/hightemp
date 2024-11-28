@@ -2,7 +2,9 @@
 - go - Generator
 - go - Pipeline
 - go - Fan-In Fan-Out 
+- go - Semaphore
 - go - WorkerPool
+- go - Обработка ошибок
 - circuit breaker
 - Threshold
 - Android - Foreground Service
