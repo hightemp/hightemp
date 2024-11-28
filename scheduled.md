@@ -1,3 +1,8 @@
+- go - Future/Promise
+- go - Generator
+- go - Pipeline
+- go - Fan-In Fan-Out 
+- go - WorkerPool
 - circuit breaker
 - Threshold
 - Android - Foreground Service
