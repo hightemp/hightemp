@@ -291,6 +291,7 @@
   - Каналы
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
   - Гоурутины, goroutines
+    - Корутины: stackful vs stackless https://habr.com/ru/articles/850970/
     - Demystifying Golang Channels, Goroutines, and Optimal Concurrency https://levelup.gitconnected.com/golang-channels-goroutines-and-optimal-concurrency-demystifying-through-examples-a43ba6aee74f
   - Слайсы
     - Slices in Go: Grow Big or Go Home https://victoriametrics.com/blog/go-slice/index.html
