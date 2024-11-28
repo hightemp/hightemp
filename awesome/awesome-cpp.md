@@ -31,6 +31,7 @@
 - Основы
   - Корутины, coroutines
     - Deep Dive into C++20 Coroutines https://medium.com/@threehappyer/deep-dive-into-c-20-coroutines-ef5a557d15cb
+    - C++20. Coroutines https://habr.com/ru/articles/519464/
 - CMake
   - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
   - Полное руководство по CMake. Часть первая: Синтаксис https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-pervaya-Sintaksis-02-27
