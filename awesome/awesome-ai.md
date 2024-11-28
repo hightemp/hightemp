@@ -139,6 +139,7 @@
 - Для учебы
     - https://www.studychat.app/
 - Для разработки
+    - https://v0.dev/
     - https://replit.com/
     - https://bolt.new
 
