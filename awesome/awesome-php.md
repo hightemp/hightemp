@@ -140,6 +140,7 @@
 - Подборки
   - The Best PHP Blogs https://draft.dev/learn/php-blogs
 - Остальное
+  - Modern PHP Without a Framework https://kevinsmith.io/modern-php-without-a-framework/
   - FrankenPHP: A Modern PHP App Server in Go (Install + Use) https://linuxtldr.com/installing-frankenphp/
 
 ### Примеры приложений
