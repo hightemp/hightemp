@@ -85,6 +85,7 @@
 
 ### Блоги
 
+- https://kevinsmith.io/
 - https://medium.com/tag/php
 - https://matthiasnoback.nl/archives/
 - https://dunglas.dev/
