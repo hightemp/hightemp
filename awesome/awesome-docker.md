@@ -16,3 +16,7 @@
 - https://github.com/treetips/docker-compose-all-mysql
 - https://github.com/studiomitte/docker-compose-mariadb
 - https://github.com/yiisoft/db-mysql/tree/master
+
+### Статьи
+
+- Доступ http из одного проекта docker-compose к другому https://itelmenko.ru/devops/docker-composer-2-project-network/
