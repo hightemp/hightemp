@@ -133,6 +133,7 @@
 - Архитектура
   - Clean architecture
     - Clean Architecture with PHP https://medium.com/unil-ci-software-engineering/clean-architecture-with-php-22de915a6c50
+    - Чистая архитектура на PHP. Как её измерять и контролировать? https://habr.com/ru/articles/504590/
 - Тестирование
   - Моки
     - Mocking APIs in Laravel Tests With Wiremock https://laravel-news.com/mocking-apis-in-laravel-tests-with-wiremock
