@@ -61,7 +61,6 @@
         - Как включить журналы базы данных https://habr.com/ru/companies/otus/articles/691502/
         - Состояние PostgreSQL 2022: 13 инструментов, отличных от psql https://habr.com/ru/companies/otus/articles/690266/
         - Резервное копирование и восстановление СУБД PostgreSQL https://habr.com/ru/companies/otus/articles/710094/
-        - Репликации в PostgreSQL https://habr.com/ru/companies/otus/articles/710956/
 - MySQL
     - Оптимизация
         - Optimizing your MySQL queries https://mauricio.github.io/2022/02/16/optimizing-your-mysql-queries.html
