@@ -31,6 +31,7 @@
     - Доступ http из одного проекта docker-compose к другому https://itelmenko.ru/devops/docker-composer-2-project-network/
     - Chap-14: Docker Networking with Docker Compose: Example and Configuration https://medium.com/@maheshwar.ramkrushna/chap-13-docker-networking-with-docker-compose-example-and-configuration-cc5a8b2bdb2b
     - Docker Stacks and Attachable networks https://blog.alexellis.io/docker-stacks-attachable-networks/
+    - Элемент верхнего уровня сети https://digitology.tech/docs/docker/compose/compose-file/06-networks.html
 - Подборки
     - 5 Awesome Docker Tools To Make Your Life Easier https://dev.to/code42cate/5-awesome-docker-tools-to-make-your-life-easier-22kl
 
