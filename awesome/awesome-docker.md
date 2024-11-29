@@ -20,6 +20,8 @@
 
 ### Статьи
 
+- Основоное
+    - A Deep Dive into Docker Compose https://dev.to/alexmercedcoder/a-deep-dive-into-docker-compose-27h5
 - Network
     - Compose Create Networks In Docker Compose https://www.warp.dev/terminus/docker-compose-networks
     - Доступ http из одного проекта docker-compose к другому https://itelmenko.ru/devops/docker-composer-2-project-network/
