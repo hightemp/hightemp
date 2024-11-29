@@ -142,6 +142,10 @@
 - Остальное
   - FrankenPHP: A Modern PHP App Server in Go (Install + Use) https://linuxtldr.com/installing-frankenphp/
 
+### Примеры приложений
+
+- https://github.com/gushakov/clean-php
+
 ---
 
 ### DDD
