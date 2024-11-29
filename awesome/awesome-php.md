@@ -144,7 +144,7 @@
 
 ### Примеры приложений
 
-- https://github.com/gushakov/clean-php
+- Clean Architecture in a PHP application https://github.com/gushakov/clean-php
 
 ---
 
