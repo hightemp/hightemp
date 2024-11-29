@@ -84,3 +84,7 @@
 - PostgreSQL
     - https://habr.com/ru/companies/postgrespro/articles/
     - https://devmark.ru/articles/tag/postgresql
+
+### Видео
+
+- 10 - Recovery Protocols (CMU Databases / Spring 2020) https://www.youtube.com/watch?v=r0qZKOVByi4
