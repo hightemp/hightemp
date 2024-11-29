@@ -129,6 +129,9 @@
   - Building a Real-Time Currency Price Display with Laravel and SSE https://medium.com/@moaminsharifi/building-a-real-time-currency-price-display-with-laravel-and-sse-4bec46ba45b2
 - Лучшие практики
   - Best practices for building a production-ready Dockerfile for PHP applications https://snyk.io/blog/building-production-ready-dockerfile-php/
+- Архитектура
+  - Clean architecture
+    - Clean Architecture with PHP https://medium.com/unil-ci-software-engineering/clean-architecture-with-php-22de915a6c50
 - Тестирование
   - Моки
     - Mocking APIs in Laravel Tests With Wiremock https://laravel-news.com/mocking-apis-in-laravel-tests-with-wiremock
