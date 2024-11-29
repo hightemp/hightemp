@@ -35,6 +35,8 @@
     - Основное
         - Изучаем PostgreSQL. Часть 1. Знакомимся с архитектурой https://habr.com/ru/companies/otus/articles/706346/
         - How to list tables in PostgreSQL https://www.illacloud.com/blog/list-tables-in-postgresql
+    - WAL
+        - Внутренности PostgreSQL: журнал предзаписи (WAL) https://eax.me/postgresql-wal/
     - pgvector
         - Оптимизируй свой AI: разоблачение 6 мифов о работе с векторами в Pgvector https://proglib.io/p/optimiziruy-svoy-ai-razoblachenie-6-mifov-o-rabote-s-vektorami-v-pgvector-2024-10-22
         - Практический пример использования pgvector https://eax.me/pgvector/
