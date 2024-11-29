@@ -11,7 +11,7 @@
 
 - Windows in a Docker container. https://github.com/dockur/windows
 
-### Базы данных
+### Базы данных в docker
 
 - https://github.com/treetips/docker-compose-all-mysql
 - https://github.com/studiomitte/docker-compose-mariadb
