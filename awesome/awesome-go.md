@@ -850,6 +850,7 @@
 - https://mpolinowski.github.io/docs/category/go/
 - https://rednafi.com/go/
 - https://www.willem.dev/articles/
+- https://gabrieltanner.org/blog/
 
 ### Подкасты
 
