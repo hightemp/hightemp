@@ -18,6 +18,7 @@
 ### Полезные ссылки
 
 - https://awesome-docker-compose.com/
+- https://github.com/openfaas/faas
 
 ### Статьи
 
