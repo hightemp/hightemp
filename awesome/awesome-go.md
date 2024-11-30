@@ -878,6 +878,7 @@
   - Функциональное программирование и #golang. Доклад с GopherCon UK 2024 https://www.youtube.com/watch?v=OKlhUv8R1ag
   - GopherCon UK 2024 https://www.youtube.com/watch?v=hIKRmIotkhw&list=PLDWZ5uzn69ezR6D6FUj_iBSOyRc9xaZFP
 - Обучающие видео
+  - [s5 | 2024] Программирование на Go, Панасюк И.А., лекция 0 https://www.youtube.com/watch?v=lsyH3sz5qao&list=PLd7QXkfmSY7aBM9trLARvM9kRvLAy2WCI
   - [s5 | 2024] Программирование на Go, Панасюк И.А., практика 7 https://www.youtube.com/watch?v=XQWxOIzGJlQ
   - Golang Tutorial for Beginners | Full Go Course https://www.youtube.com/watch?v=yyUHQIec83I
   - Synchronization in Golang - Complete Guide https://www.youtube.com/watch?v=Xf1j0FGAYUY
