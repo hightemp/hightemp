@@ -238,6 +238,7 @@
 
 ### ai-редакторы
 
+- https://codeium.com/windsurf
 - https://aide.dev/
 - https://www.cursor.com/
 - https://trypear.ai/
