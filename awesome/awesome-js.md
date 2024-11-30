@@ -41,11 +41,6 @@
   - FSD
     - https://github.com/feature-sliced/examples
 
-### Видео
-
-- https://www.youtube.com/watch?v=SoS35UBc5dA
-- Стыкуем React + Node.js. Пишем приложение файловый менеджер, фронт react.js, бек - node.js https://www.youtube.com/watch?v=-l3KdDWrKQY
-
 ### Книги
 
 - Learning JavaScript Design Patterns, Addy Osmani https://patterns.addy.ie/
@@ -84,6 +79,12 @@
     - Ментальная модель потоков в Node.js https://habr.com/ru/companies/timeweb/articles/854330/
   - ESM
     - Как использовать ESM в браузере и в Node.js https://webdevblog.ru/kak-ispolzovat-esm-v-brauzere-i-v-node-js/
+
+### Видео
+
+- https://www.youtube.com/watch?v=SoS35UBc5dA
+- Стыкуем React + Node.js. Пишем приложение файловый менеджер, фронт react.js, бек - node.js https://www.youtube.com/watch?v=-l3KdDWrKQY
+- Архитектура Frontend с Нуля до Продакшена. Docker, Webpack, CI/CD, React, Deploy https://www.youtube.com/watch?v=GJe0-oPbiqw
 
 ### Демо
 
