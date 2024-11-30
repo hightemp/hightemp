@@ -238,6 +238,7 @@
 
 ### ai-редакторы
 
+- https://idx.dev/
 - https://codeium.com/windsurf
 - https://aide.dev/
 - https://www.cursor.com/
