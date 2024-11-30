@@ -82,9 +82,12 @@
 
 ### Видео
 
-- https://www.youtube.com/watch?v=SoS35UBc5dA
-- Стыкуем React + Node.js. Пишем приложение файловый менеджер, фронт react.js, бек - node.js https://www.youtube.com/watch?v=-l3KdDWrKQY
-- Архитектура Frontend с Нуля до Продакшена. Docker, Webpack, CI/CD, React, Deploy https://www.youtube.com/watch?v=GJe0-oPbiqw
+- Vue
+  - Вся суть работы с внешним API на Vue | Просто объясняю Vue 3 https://www.youtube.com/watch?v=SoS35UBc5dA
+- React
+  - Стыкуем React + Node.js. Пишем приложение файловый менеджер, фронт react.js, бек - node.js https://www.youtube.com/watch?v=-l3KdDWrKQY
+- Архитектура
+  - Архитектура Frontend с Нуля до Продакшена. Docker, Webpack, CI/CD, React, Deploy https://www.youtube.com/watch?v=GJe0-oPbiqw
 
 ### Демо
 
