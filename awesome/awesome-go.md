@@ -439,6 +439,7 @@
     - Mastering WebSockets With Go https://programmingpercy.tech/blog/mastering-websockets-with-go/
     - How to Use WebSocket in Golang: Step-by-Step Guide https://www.videosdk.live/developer-hub/websocket/golang-websocket
   - Proxy, Прокси
+    - Network Programming and Proxies in Golang https://blog.ralch.com/articles/network-programming-and-proxies-in-golang/
     - Implementing a Reverse Proxy API in Go https://tobiojuolape.hashnode.dev/implementing-a-reverse-proxy-api-in-go
     - Creating a simple proxy server with Go https://reintech.io/blog/creating-simple-proxy-server-with-go
     - Implementing a Logging Proxy Server with Golang https://medium.com/@bless2k/implementing-a-logging-proxy-server-with-golang-d0c673ef1f56
