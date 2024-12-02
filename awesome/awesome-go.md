@@ -215,6 +215,7 @@
 
 ### Полезные ссылки
 
+- TinyGo - A Go Compiler For Small Places https://tinygo.org/
 - Go в примерах https://gobyexample.com.ru/
 - Go Wiki: Iota https://go.dev/wiki/Iota
 - Блог разработчиков https://go.dev/blog/all
