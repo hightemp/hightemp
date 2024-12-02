@@ -449,6 +449,8 @@
     - Go and Proxy Servers: Part 2 - HTTPS Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-2-https-proxies/
     - Go and Proxy Servers: Part 3 - SOCKS proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-3-socks-proxies/
     - Transparent http proxy with Golang and tproxy https://taczanowski.net/transparent-http-proxy-with-golang-and-tproxy/
+  - FTP
+    - Working with FTP protocol in Golang https://blog.ralch.com/articles/golang-ftp/
   - VPN
     - Using TUN/TAP in go or how to write VPN https://nsl.cz/using-tun-tap-in-go-or-how-to-write-vpn/
     - Simple VPN in Golang https://taoshu.in/go/simple-vpn.html
@@ -461,7 +463,7 @@
       - Programmatically Analyze Packet Captures with GoPacket https://www.akitasoftware.com/blog-posts/programmatically-analyze-packet-captures-with-gopacket
   - Балансировщик
     - Building a simple load balancer in Go https://dev.to/vivekalhat/building-a-simple-load-balancer-in-go-70d
-  - Веб-сервер
+  - Веб-сервер, HTTP
     - load-balancer
       - Building a simple load balancer in Go https://dev.to/vivekalhat/building-a-simple-load-balancer-in-go-70d
     - Файлы
