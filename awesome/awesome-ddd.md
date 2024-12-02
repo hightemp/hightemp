@@ -21,3 +21,4 @@
     - DDD Aggregates - Best Practices and Implementation Strategies https://alinabo.com/ddd-aggregates
     - Understanding Domain-Driven Design: A Practical Approach for Modern Software Architecture https://sensiolabs.com/blog/2024/understanding-domain-driven-design
     - Introduction to domain driven design (DDD) + glossary https://www.rst.software/blog/introduction-to-domain-driven-design-ddd-glossary
+    - Domain Driven Design (DDD): Core concepts and Enterprise Architecture https://alok-mishra.com/2021/06/30/domain-driven-design-ddd-core-concepts-explained/
