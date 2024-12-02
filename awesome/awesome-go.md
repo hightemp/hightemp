@@ -16,6 +16,7 @@
 - https://github.com/dariubs/GoBooks
 - https://bitfieldconsulting.com/posts/best-go-books
 - https://mehdihadeli.github.io/awesome-go-education/clean-architecture/
+- https://mehdihadeli.github.io/awesome-go-education/ddd/
 - https://github.com/gostor/awesome-go-storage
 - Проект представляет собой коллекцию 22 популярных паттернов проектирования с примерами на языке Go, кратким описанием каждого паттерна и возможностью скачать репозиторий для запуска тестов. https://github.com/AlexanderGrom/go-patterns
 
