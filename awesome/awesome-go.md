@@ -873,6 +873,7 @@
 - https://www.ompluscator.com/tags/golang/
 - https://softwarepatternslexicon.com/patterns-go/
 - https://aristorinjuang.com/
+- https://blog.ralch.com/articles/
 
 ### Подкасты
 
