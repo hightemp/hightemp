@@ -29,6 +29,7 @@
 - https://lushprojects.com/circuitjs/circuitjs.html
 - https://everycircuit.com/
 - https://www.circuit-diagram.org/
+- https://www.circuitlab.com/
 
 ### Сервисы для проектирования
 
