@@ -868,6 +868,7 @@
 
 ### Примеры приложений
 
+- Example of Clean Architecture + DDD + CQRS in go https://github.com/quintans/go-clean-ddd
 - This repository is used to present how I find implementing DDD in Go projects works out https://github.com/percybolmer/ddd-go
 - Go-DDD: Domain Driven Design Template in Golang https://github.com/sklinkert/go-ddd
 - Clean Architecture Golang Example (kinda) https://github.com/ruslantsyganok/clean_arcitecture_golang_example
