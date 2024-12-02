@@ -118,6 +118,11 @@
 
 ### Статьи
 
+- DDD
+  - https://dev.to/ludofleury/domain-driven-design-with-php-and-symfony-1bl6
+  - https://medium.com/@pogulailo/domain-driven-design-and-clean-architecture-in-php-part-1-layers-and-structure-edcce57be42a
+  - https://medium.com/@CleytonBonamigo/understanding-domain-driven-design-ddd-and-its-benefits-in-php-development-b4134fa312c
+  - https://leanpub.com/ddd-in-php/read
 - Prometheus
   - PHProm: A Prometheus Datastore for PHP Applications https://chaseisabelle.medium.com/phprom-a-prometheus-datastore-for-php-applications-c761c5587215
   - Application Monitoring Using Prometheus https://www.vthink.co.in/blogs/application-monitoring-using-prometheus
@@ -147,22 +152,11 @@
 ### Примеры приложений
 
 - Clean Architecture in a PHP application https://github.com/gushakov/clean-php
+- DDD
+  - https://github.com/CodelyTV/php-ddd-example
+  - https://github.com/jorge07/ddd-playground
+  - https://github.com/ilyachase/monolith-decoupling-example
 
----
-
-### DDD
-#### Статьи
-
-- https://dev.to/ludofleury/domain-driven-design-with-php-and-symfony-1bl6
-- https://medium.com/@pogulailo/domain-driven-design-and-clean-architecture-in-php-part-1-layers-and-structure-edcce57be42a
-- https://medium.com/@CleytonBonamigo/understanding-domain-driven-design-ddd-and-its-benefits-in-php-development-b4134fa312c
-- https://leanpub.com/ddd-in-php/read
-
-#### Примеры приложений
-
-- https://github.com/CodelyTV/php-ddd-example
-- https://github.com/jorge07/ddd-playground
-- https://github.com/ilyachase/monolith-decoupling-example
 
 ### Тестирование
 
