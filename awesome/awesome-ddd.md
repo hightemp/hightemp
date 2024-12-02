@@ -14,3 +14,4 @@
 - Domain-Driven Design (DDD): From Customer Ideas to Code https://medium.com/@codebob75/domain-driven-design-ddd-from-customer-ideas-to-code-a83a005326e9
 - 1 Domain-Driven Design (DDD): A Summary https://softengbook.org/articles/ddd
 - Domain-Driven Design (DDD) https://www.geeksforgeeks.org/domain-driven-design-ddd/
+- Domain-Driven Design (DDD): A Guide to Building Scalable, High-Performance Systems https://romanglushach.medium.com/domain-driven-design-ddd-a-guide-to-building-scalable-high-performance-systems-5314a7fe053c
