@@ -62,6 +62,7 @@
     - https://search.brave.com/
     - https://kagi.com/
     - https://www.perplexity.ai/
+    - https://perplexica.io/
     - https://andisearch.com/
     - https://chatgpt.com/search
     - https://askhackers.com/
