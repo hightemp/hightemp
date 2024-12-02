@@ -42,6 +42,7 @@
 
 - Остальное
     - Энтузиаст за 2 недели создал собственный GPU с нуля https://tproger.ru/news/entuziast-za-2-nedeli-sozdal-sobstvennyj-gpu-s-nulya
+    - AI Can Now Help Design Electronic Circuit https://www.tti.com/content/ttiinc/en/resources/marketeye/categories/new-technology/me-slovick-20240221.html?srsltid=AfmBOorUQ3RhzzYXfYtSLDtxwaXPIL6ati9rLJR6HdzNEE026IGFp_ij
 - Подборки
     - AI Tools For Electronic Circuit Design, Which Is Best? https://cselectricalandelectronics.com/ai-tools-for-electronic-circuit-design-which-is-best/
    
