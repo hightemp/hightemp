@@ -545,6 +545,7 @@
   - Кэширование
     - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
   - DDD
+    - Domain Services in Domain-Driven Design (DDD) with Go https://softwarepatternslexicon.com/patterns-go/9/5/
     - Domain Events in Domain-Driven Design with Go https://softwarepatternslexicon.com/patterns-go/9/6/
     - Practical DDD in Golang: Aggregate https://www.ompluscator.com/article/golang/practical-ddd-domain-aggregate/
     - How to Structure DDD in Golang https://programmingpercy.tech/blog/how-to-structure-ddd-in-go/
