@@ -6,3 +6,4 @@
 - Unraveling the Mysteries of Domain-Driven Design: An Introduction https://dev.to/scovic/unraveling-the-mysteries-of-domain-driven-design-an-introduction-f2n
 - DDD 101 — The 5-Minute Tour https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8
 - DOMAIN-DRIVEN DESIGN (DDD) https://redis.io/glossary/domain-driven-design-ddd/
+- What is Domain-Driven Design (DDD)? Concepts, Models & Examples https://em360tech.com/tech-article/what-is-domain-driven-design-ddd
