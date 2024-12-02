@@ -51,4 +51,5 @@
 - Подборки
     - AI Tools For Electronic Circuit Design, Which Is Best? https://cselectricalandelectronics.com/ai-tools-for-electronic-circuit-design-which-is-best/
     - Top 10 Electronic Circuit Simulation Software https://www.circuitdiagram.co/top-10-electronic-circuit-simulation-software/
+    - Our Top 10 printed circuit design software programmes https://www.proto-electronics.com/blog/our-top-10-printed-circuit-design-software-programmes
    
