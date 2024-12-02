@@ -540,6 +540,7 @@
   - Кэширование
     - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
   - DDD
+    - How to Structure DDD in Golang https://programmingpercy.tech/blog/how-to-structure-ddd-in-go/
     - Domain-Driven Design with Go https://sarathsp06.medium.com/domain-driven-design-with-go-be3066ae213c
     - Introduction to DDD Lite: When microservices in Go are not enough https://threedots.tech/post/ddd-lite-in-go-introduction/
     - Implementing Domain Patterns with Hexagonal Architecture in Go https://medium.com/@jmanuelabanto/implementing-domain-patterns-with-hexagonal-architecture-in-go-5aac29fde7e1
