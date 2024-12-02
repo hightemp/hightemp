@@ -31,6 +31,7 @@
 ### Сервисы для проектирования
 
 - Flux - это современная AI-powered платформа для проектирования печатных плат с облачной инфраструктурой, которая включает в себя умного ассистента Flux Copilot, параметрическую систему проектирования, автоматический контроль импеданса, информацию о ценах компонентов в реальном времени и возможности совместной работы через браузер, что позволяет ускорить процесс разработки оборудования до 10 раз по сравнению с традиционными методами. https://www.flux.ai/p
+- https://www.quilter.ai/
 
 ### Видео
 
@@ -49,4 +50,5 @@
     - AI Can Now Help Design Electronic Circuit https://www.tti.com/content/ttiinc/en/resources/marketeye/categories/new-technology/me-slovick-20240221.html?srsltid=AfmBOorUQ3RhzzYXfYtSLDtxwaXPIL6ati9rLJR6HdzNEE026IGFp_ij
 - Подборки
     - AI Tools For Electronic Circuit Design, Which Is Best? https://cselectricalandelectronics.com/ai-tools-for-electronic-circuit-design-which-is-best/
+    - Top 10 Electronic Circuit Simulation Software https://www.circuitdiagram.co/top-10-electronic-circuit-simulation-software/
    
