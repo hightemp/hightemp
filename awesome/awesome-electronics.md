@@ -27,6 +27,7 @@
 ### Симулятор
 
 - https://lushprojects.com/circuitjs/circuitjs.html
+- https://everycircuit.com/
 
 ### Сервисы для проектирования
 
