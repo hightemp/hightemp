@@ -28,6 +28,10 @@
 - https://www.boot.dev/playground/go
 - https://verytools.net/go-playground
 
+### Форумы
+
+- https://forum.golangbridge.org/
+
 ### Упражнения
 
 - https://github.com/cblte/100-golang-exercises
