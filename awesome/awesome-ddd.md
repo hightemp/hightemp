@@ -9,3 +9,4 @@
 - What is Domain-Driven Design (DDD)? Concepts, Models & Examples https://em360tech.com/tech-article/what-is-domain-driven-design-ddd
 - Domain-Driven Design (DDD): Strategic Design Explained https://medium.com/@lambrych/domain-driven-design-ddd-strategic-design-explained-55e10b7ecc0f
 - Domain-Driven Design (DDD): From Customer Ideas to Code https://medium.com/@codebob75/domain-driven-design-ddd-from-customer-ideas-to-code-a83a005326e9
+- 1 Domain-Driven Design (DDD): A Summary https://softengbook.org/articles/ddd
