@@ -40,5 +40,8 @@
 
 ### Статьи
 
-- Энтузиаст за 2 недели создал собственный GPU с нуля https://tproger.ru/news/entuziast-za-2-nedeli-sozdal-sobstvennyj-gpu-s-nulya
+- Остальное
+    - Энтузиаст за 2 недели создал собственный GPU с нуля https://tproger.ru/news/entuziast-za-2-nedeli-sozdal-sobstvennyj-gpu-s-nulya
+- Подборки
+    - AI Tools For Electronic Circuit Design, Which Is Best? https://cselectricalandelectronics.com/ai-tools-for-electronic-circuit-design-which-is-best/
    
