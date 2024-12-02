@@ -19,3 +19,4 @@
     - Domain-Driven Design (DDD) https://www.geeksforgeeks.org/domain-driven-design-ddd/
     - Domain-Driven Design (DDD): A Guide to Building Scalable, High-Performance Systems https://romanglushach.medium.com/domain-driven-design-ddd-a-guide-to-building-scalable-high-performance-systems-5314a7fe053c
     - DDD Aggregates - Best Practices and Implementation Strategies https://alinabo.com/ddd-aggregates
+    - Understanding Domain-Driven Design: A Practical Approach for Modern Software Architecture https://sensiolabs.com/blog/2024/understanding-domain-driven-design
