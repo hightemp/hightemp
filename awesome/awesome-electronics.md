@@ -41,6 +41,12 @@
 
 - https://deeppcb.ai/
 
+### Курсы
+
+- How to use AI ChatGPT to design an electronic circuit https://www.udemy.com/course/how-to-use-ai-chatgpt-to-design-an-electronic-circuit/?couponCode=CMCPSALE24
+
+### Полезные ссылки
+
 ### Видео
 
 - Learn how to design your own computer chips! The Zero to ASIC course covers everything you need to design your own chip using the open source tools. You can even get it manufactured into a real chip! https://www.youtube.com/@ZeroToASICcourse
