@@ -863,6 +863,7 @@
 - https://www.willem.dev/articles/
 - https://gabrieltanner.org/blog/
 - https://www.ompluscator.com/tags/golang/
+- https://softwarepatternslexicon.com/patterns-go/
 
 ### Подкасты
 
