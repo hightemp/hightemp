@@ -861,6 +861,7 @@
 - https://rednafi.com/go/
 - https://www.willem.dev/articles/
 - https://gabrieltanner.org/blog/
+- https://www.ompluscator.com/tags/golang/
 
 ### Подкасты
 
