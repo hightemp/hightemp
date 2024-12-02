@@ -869,6 +869,7 @@
 - https://gabrieltanner.org/blog/
 - https://www.ompluscator.com/tags/golang/
 - https://softwarepatternslexicon.com/patterns-go/
+- https://aristorinjuang.com/
 
 ### Подкасты
 
