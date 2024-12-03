@@ -219,12 +219,16 @@
 
 ## Статьи
 
-- Consistency Models https://jepsen.io/consistency
-- https://winitpro.ru/index.php/2019/11/19/oshibka-too-many-open-files-v-linux/
-- https://lilianweng.github.io/posts/2023-06-23-agent/
-- https://medium.com/@yulemoon/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792
-- Writing an OS in Rust https://os.phil-opp.com/
-- Reliable Microservices Data Exchange With the Outbox Pattern https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/
+- Подбоки
+    - 30 Tech and Social Bloggers You Need To Follow https://www.adpushup.com/blog/30-tech-and-social-bloggers-you-need-to-follow/
+- Остальное
+    - Consistency Models https://jepsen.io/consistency
+    - https://winitpro.ru/index.php/2019/11/19/oshibka-too-many-open-files-v-linux/
+    - https://lilianweng.github.io/posts/2023-06-23-agent/
+    - https://medium.com/@yulemoon/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792
+    - Writing an OS in Rust https://os.phil-opp.com/
+    - Reliable Microservices Data Exchange With the Outbox Pattern https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/
+
 
 ## Остальное
 
