@@ -37,6 +37,7 @@
 
 - https://highscalability.com/
 - https://systemdesignschool.io/blog
+- https://www.enjoyalgorithms.com/system-design/
 
 ### Статьи
 
