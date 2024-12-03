@@ -45,6 +45,8 @@
         - Создание эффективного поиска на основе ИИ в Greenplum с помощью pgvector и OpenAI https://datafinder.ru/products/sozdanie-effektivnogo-poiska-na-osnove-ii-v-greenplum-s-pomoshchyu-pgvector-i-openai
         - Unleashing the power of vector embeddings with PostgreSQL https://tembo.io/blog/pgvector-and-embedding-solutions-with-postgres
         - Vector Similarity Search with PostgreSQL’s pgvector – A Deep Dive https://severalnines.com/blog/vector-similarity-search-with-postgresqls-pgvector-a-deep-dive/
+    - Нейросети
+        - Нейронные оптимизаторы запросов в реляционных БД (Часть 3): Погружение в ранжирование https://habr.com/ru/companies/postgrespro/articles/857998/
     - Репликация
         - Логическая репликация, logical replication
             - PostgreSQL Logical Replication: Easy steps to set up https://hevodata.com/learn/postgresql-logical-replication/
