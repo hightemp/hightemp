@@ -53,6 +53,7 @@
             - Practical PostgreSQL Logical Replication: Setting Up an Experimentation Environment Using Docker https://dev.to/ietxaniz/practical-postgresql-logical-replication-setting-up-an-experimentation-environment-using-docker-4h50
             - Postgres 17 highlight: Logical replication slots synchronization https://bdrouvot.github.io/2024/03/16/postgres-17-highlight-logical-replication-slots-synchronization/
             - Пример использования логической репликации PostgreSQL https://eax.me/postgresql-logical-replication/
+            - Logical Replication: PubSub in PostgreSQL https://medium.com/hacktive-devs/logical-replication-pubsub-in-postgresql-bec70b286f3b
         - Потоковая репликация, WAL
             - Настройка потоковой репликации PostgreSQL https://www.dmosk.ru/miniinstruktions.php?mini=postgresql-replication&ysclid=m48bnxegz2534231408
             - Потоковая репликация в PostgreSQL – короткое введение https://prudnitskiy.pro/post/2018-01-05-pgsql-replica/
