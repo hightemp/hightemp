@@ -28,6 +28,7 @@
 ### Блоги
 
 - https://highscalability.com/
+- https://systemdesignschool.io/blog
 
 ### Статьи
 
