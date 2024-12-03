@@ -364,6 +364,7 @@
       - What Does Service Record Mean? https://www.techopedia.com/definition/32040/service-record-srv-record
    - PTR
       - Understanding PTR DNS Resource Records https://dmarcian.com/ptr-records/
+      - WHAT IS A PTR (REVERSE DNS) RECORD? https://potentpages.com/servers/hosting/dns/what-is-a-ptr-record
 - Тайм-менеджмент
    - Timeless principles of Time Management https://makemeacto.substack.com/p/timeless-principles-of-time-management
 - Хостинг
