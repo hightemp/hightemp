@@ -16,6 +16,7 @@
 - https://github.com/resumejob/System-Design-Best-Practices
 - System Design 101 Explain complex systems using visuals and simple terms. https://github.com/ByteByteGoHq/system-design-101
 - https://github.com/checkcheckzz/system-design-interview
+- https://github.com/InterviewReady/system-design-resources
 
 ### Шпоры
 
