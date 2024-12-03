@@ -351,7 +351,7 @@
 - SSH
    - Автор делится опытом разработки SSH-сервера для проекта Sdump, описывая проблему безопасности, связанную с тем, что SSH-серверы по умолчанию позволяют перебирать разные ключи при аутентификации, и предлагает решение через настройку файла ~/.ssh/config для использования определённых ключей, а также рассматривает методы идентификации пользователей для предотвращения злоупотребления сервисом. https://lanre.wtf/blog/2024/02/13/ssh-notes
 - DNS
-   - SOA (Start of Authority);
+   - SOA (Start of Authority); SOA (Start of Authority) - это обязательная управляющая DNS-запись, которая находится в начале каждой DNS-зоны и содержит критически важную информацию о домене: какой DNS-сервер является главным (авторитативным) для этой зоны, email администратора домена, когда домен последний раз обновлялся, как часто нужно проверять обновления, и как долго можно хранить DNS-информацию в кэше
       - DNS SOA records https://docs.rackspace.com/docs/what-is-an-soa-record
       - DNS SOA Record https://www.ioriver.io/terms/dns-soa-record
       - SOA Records Explained: Building Blocks of Reliable Domain Management https://www.cbtnuggets.com/blog/technology/networking/start-of-authority-dns-record
