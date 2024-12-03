@@ -42,6 +42,7 @@
     - CAP Theorem Explained: Consistency, Availability & Partition Tolerance https://www.bmc.com/blogs/cap-theorem/
     - What is the CAP theorem? https://www.ibm.com/topics/cap-theorem
     - Brewer’s CAP Theorem https://www.geeksforgeeks.org/brewers-cap-theorem/
+    - CAP Theorem & Strategies for Distributed Systems https://www.splunk.com/en_us/blog/learn/cap-theorem.html
 - Распределенные системы
     - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
     - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
