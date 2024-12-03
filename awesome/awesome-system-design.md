@@ -48,6 +48,12 @@
     - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
     - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
 - Паттерны
+    - Ambassador
+    - Command query responsibility segregation (CQRS)
+    - Event sourcing
+    - Leader election
+    - Publisher/subscriber
+    - Sharding
     - Circuit Breaker
         - What is Circuit Breaker Pattern in Microservices? https://www.geeksforgeeks.org/what-is-circuit-breaker-pattern-in-microservices/
         - Circuit Breaker with Bulkhead Isolation in Microservices https://www.geeksforgeeks.org/circuit-breaker-with-bulkhead-isolation-in-microservices/
@@ -55,6 +61,8 @@
         - The Role of Circuit Breaker in Software System Design https://systemdesignschool.io/blog/circuit-breaker-pattern
     - Resilience design patterns
         - Resilience design patterns: retry, fallback, timeout, circuit breaker https://www.codecentric.de/wissens-hub/blog/resilience-design-patterns-retry-fallback-timeout-circuit-breaker
+- Лучшие практики
+    - Distributed Systems Design: Tutorial & Best Practices https://www.multiplayer.app/distributed-systems-architecture/distributed-systems-design/
 - Остальное
     - Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
     - Top 50 System Design Terminologies You Must Know https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1
