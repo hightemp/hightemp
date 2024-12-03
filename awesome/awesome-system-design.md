@@ -39,6 +39,7 @@
     - CAP Theorem Explained: Consistency, Availability, Partition Tolerance https://daily.dev/blog/cap-theorem-explained-consistency-availability-partition-tolerance
     - CAP Theorem Explained: Consistency, Availability & Partition Tolerance https://www.bmc.com/blogs/cap-theorem/
     - What is the CAP theorem? https://www.ibm.com/topics/cap-theorem
+    - Brewer’s CAP Theorem https://www.geeksforgeeks.org/brewers-cap-theorem/
 - Остальное
     - Circuit Breaker Pattern (Design Patterns for Microservices) https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33
     - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
