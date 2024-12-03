@@ -68,6 +68,17 @@
         - The Role of Circuit Breaker in Software System Design https://systemdesignschool.io/blog/circuit-breaker-pattern
     - Resilience design patterns
         - Resilience design patterns: retry, fallback, timeout, circuit breaker https://www.codecentric.de/wissens-hub/blog/resilience-design-patterns-retry-fallback-timeout-circuit-breaker
+    - Deployment Patterns for Microservices
+        - Multiple Service Instances per Host Pattern
+        - Service Instance per Host Pattern
+        - Service Instance per Container Pattern
+        - Serverless Deployment Pattern
+        - Blue-Green Deployment Pattern
+    - Scaling Patterns for Microservices
+        - Horizontal Scaling Pattern
+        - Vertical Scaling Pattern
+        - Auto-Scaling Pattern
+        - Service Mesh Pattern
     - Остальное
         - Microservices Design Patterns https://www.geeksforgeeks.org/microservices-design-patterns/
 - Лучшие практики
