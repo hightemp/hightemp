@@ -70,7 +70,9 @@
             - Репликация в PostgreSQL при помощи repmgr https://wtfm.info/репликация-в-postgresql-при-помощи-repmgr/
             - How to Setup PostgreSQL Replication https://www.opensourcelisting.com/how-to-setup-postgresql-replication/
     - Кэш
-        - An Overview of Caching for PostgreSQL https://severalnines.com/blog/overview-caching-postgresql/
+        - SLRU (Simple Least Recently Used) - это специальный механизм кеширования в PostgreSQL, который хранит в памяти важную служебную информацию (например, состояние транзакций), используя алгоритм вытеснения наименее недавно использованных данных при заполнении кеша
+        - Остальное
+            - An Overview of Caching for PostgreSQL https://severalnines.com/blog/overview-caching-postgresql/
     - Остальное
         - PostgreSQL 17: Часть 5 или Коммитфест 2024-03 https://habr.com/ru/companies/postgrespro/articles/841408/
         - Неожиданная находка, которая освобождает 20 GB неиспользованного индексного пространства https://habr.com/ru/companies/otus/articles/672102/
