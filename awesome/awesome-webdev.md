@@ -353,6 +353,7 @@
 - DNS
    - SOA (Start of Authority);
       - DNS SOA Record https://www.ioriver.io/terms/dns-soa-record
+      - SOA Records Explained: Building Blocks of Reliable Domain Management https://www.cbtnuggets.com/blog/technology/networking/start-of-authority-dns-record
    - SRV; SRV запись - это специальная запись в DNS, которая указывает, какой компьютер (сервер) в сети предоставляет определенную службу или сервис и через какой порт к нему нужно подключаться
       - What is DNS SRV record? https://nordvpn.com/ru/cybersecurity/glossary/dns-srv-record/
       - What is a Service Record DNS Record (SRV)? https://seo.ai/faq/service-record-dns-record-srv
