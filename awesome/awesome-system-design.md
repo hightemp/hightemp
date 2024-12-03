@@ -49,6 +49,8 @@
 - Распределенные системы
     - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
     - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
+- Роадмэпы, Roadmap
+    - Complete Roadmap to Learn System Design for Beginners https://www.geeksforgeeks.org/complete-roadmap-to-learn-system-design/
 - Паттерны
     - API Gateway Pattern
     - Database per Service Pattern
