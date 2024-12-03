@@ -112,6 +112,7 @@
     - 10 Best GitHub Repositories to Prepare for System Design Interviews https://medium.com/javarevisited/10-best-github-repositories-to-prepare-for-system-design-interviews-6cc9d37d50f6
     - 20 System Design Case Studies, Articles and Videos for Software Developers https://medium.com/javarevisited/6-system-design-articles-and-case-studies-for-software-developers-0eec081bc083
     - 79 Engineering Blogs To Level Up Your System Design Skills https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up
+    - Engineering Blogs: 49 System Design Blogs You Need to Follow https://hojaleaks.com/engineering-blogs-49-system-design-blogs-you-need-to-follow
 - Остальное
     - Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
     - Top 50 System Design Terminologies You Must Know https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1
