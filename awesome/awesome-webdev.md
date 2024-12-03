@@ -354,6 +354,7 @@
    - SRV
       - What is DNS SRV record? https://nordvpn.com/ru/cybersecurity/glossary/dns-srv-record/
       - What is a Service Record DNS Record (SRV)? https://seo.ai/faq/service-record-dns-record-srv
+      - Connecting to the Server Using DNS SRV Records https://docs.oracle.com/cd/E17952_01/mysql-8.0-en/connecting-using-dns-srv.html
 - Тайм-менеджмент
    - Timeless principles of Time Management https://makemeacto.substack.com/p/timeless-principles-of-time-management
 - Хостинг
