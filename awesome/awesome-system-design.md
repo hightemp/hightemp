@@ -110,6 +110,7 @@
 - Подборки
     - System Design Series' Articles https://dev.to/karanpratapsingh/series/19332
     - Проектирование систем https://www.linkedin.com/pulse/topics/engineering-s166/systems-design-s18540/
+    - System Design: The complete course https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo
     - A Beginner’s Guide to System Design https://medium.com/@sentalkssane/a-beginners-guide-to-system-design-76d64689788b
     - Best Engineering Blogs/Articles/Videos for System Design https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr
     - Top 10 Software Design and System Design Interview Courses in 2024 https://levelup.gitconnected.com/7-best-software-design-course-for-programmers-and-developers-da3e18e9135
