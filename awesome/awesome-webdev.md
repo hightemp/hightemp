@@ -362,6 +362,8 @@
       - Connecting to the Server Using DNS SRV Records https://docs.oracle.com/cd/E17952_01/mysql-8.0-en/connecting-using-dns-srv.html
       - What is an SRV record? https://www.whatismyip.com/srv-record/
       - What Does Service Record Mean? https://www.techopedia.com/definition/32040/service-record-srv-record
+   - PTR
+      - Understanding PTR DNS Resource Records https://dmarcian.com/ptr-records/
 - Тайм-менеджмент
    - Timeless principles of Time Management https://makemeacto.substack.com/p/timeless-principles-of-time-management
 - Хостинг
