@@ -350,6 +350,10 @@
    - A Comprehensive List of Similarity Search Algorithms https://crucialbits.com/blog/a-comprehensive-list-of-similarity-search-algorithms/
 - SSH
    - Автор делится опытом разработки SSH-сервера для проекта Sdump, описывая проблему безопасности, связанную с тем, что SSH-серверы по умолчанию позволяют перебирать разные ключи при аутентификации, и предлагает решение через настройку файла ~/.ssh/config для использования определённых ключей, а также рассматривает методы идентификации пользователей для предотвращения злоупотребления сервисом. https://lanre.wtf/blog/2024/02/13/ssh-notes
+- DNS
+   - SRV
+      - What is DNS SRV record? https://nordvpn.com/ru/cybersecurity/glossary/dns-srv-record/
+      - What is a Service Record DNS Record (SRV)? https://seo.ai/faq/service-record-dns-record-srv
 - Тайм-менеджмент
    - Timeless principles of Time Management https://makemeacto.substack.com/p/timeless-principles-of-time-management
 - Хостинг
