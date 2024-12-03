@@ -14,6 +14,8 @@
 - https://github.com/Sairyss/backend-best-practices
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/resumejob/System-Design-Best-Practices
+- System Design 101 Explain complex systems using visuals and simple terms. https://github.com/ByteByteGoHq/system-design-101
+- https://github.com/checkcheckzz/system-design-interview
 
 ### Шпоры
 
@@ -26,8 +28,6 @@
 - https://github.com/karanpratapsingh/system-design
 
 ### Репозитории
-
-- System Design 101 Explain complex systems using visuals and simple terms. https://github.com/ByteByteGoHq/system-design-101
 
 ### Блоги
 
