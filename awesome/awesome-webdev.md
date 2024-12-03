@@ -352,6 +352,7 @@
    - Автор делится опытом разработки SSH-сервера для проекта Sdump, описывая проблему безопасности, связанную с тем, что SSH-серверы по умолчанию позволяют перебирать разные ключи при аутентификации, и предлагает решение через настройку файла ~/.ssh/config для использования определённых ключей, а также рассматривает методы идентификации пользователей для предотвращения злоупотребления сервисом. https://lanre.wtf/blog/2024/02/13/ssh-notes
 - DNS
    - SOA (Start of Authority);
+      - DNS SOA records https://docs.rackspace.com/docs/what-is-an-soa-record
       - DNS SOA Record https://www.ioriver.io/terms/dns-soa-record
       - SOA Records Explained: Building Blocks of Reliable Domain Management https://www.cbtnuggets.com/blog/technology/networking/start-of-authority-dns-record
       - What Is an SOA Record? https://gcore.com/learning/what-is-an-soa-record/
