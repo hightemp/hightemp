@@ -71,9 +71,10 @@
             - How to Setup PostgreSQL Replication https://www.opensourcelisting.com/how-to-setup-postgresql-replication/
     - Кэш
         - SLRU (Simple Least Recently Used) - это специальный механизм кеширования в PostgreSQL, который хранит в памяти важную служебную информацию (например, состояние транзакций), используя алгоритм вытеснения наименее недавно использованных данных при заполнении кеша
+            - Scalability Limits From SLRU & Lock Manager | Scaling Postgres 306 https://scaling-postgres-1.castos.com/episodes/scalability-limits-from-slru-lock-manager-scaling-postgres-306
         - Остальное
             - An Overview of Caching for PostgreSQL https://severalnines.com/blog/overview-caching-postgresql/
-            - Database Scaling: PostgreSQL Caching Explained https://www.timescale.com/blog/database-scaling-postgresql-caching-explained/
+            - Database Scaling: PostgreSQL Caching Explained https://www.timescale.com/blog/database-scaling-postgresql-caching-explained/            
     - Остальное
         - PostgreSQL 17: Часть 5 или Коммитфест 2024-03 https://habr.com/ru/companies/postgrespro/articles/841408/
         - Неожиданная находка, которая освобождает 20 GB неиспользованного индексного пространства https://habr.com/ru/companies/otus/articles/672102/
