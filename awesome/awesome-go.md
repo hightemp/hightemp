@@ -564,6 +564,7 @@
   - CQRS (использование разных моделей для чтения и записи)
     - How to use basic CQRS in Go https://threedots.tech/post/basic-cqrs-in-go/
   - Чистая архитектура
+    - Inside The Inner Hexagon: Component Tests https://www.shaiyallin.com/post/inside-the-inner-hexagon-component-tests
     - Building a CRUD App with Clean Architecture in Go https://dev.to/michinoins/building-a-crud-app-with-mysql-gorm-echo-and-clean-architecture-in-go-h6d
     - How to implement Clean Architecture in Go https://threedots.tech/post/introducing-clean-architecture/
     - How to implement clean architecture in Golang (EN) https://medium.com/@rayato159/how-to-implement-clean-architecture-in-golang-en-f50d66378ebf
@@ -681,7 +682,6 @@
   - Getting started with Go and React - PostgreSQL https://mpolinowski.github.io/docs/Development/Go/2021-09-23--golang-react-starter-part-iii/2021-09-23
   - Getting started with Go and React - React & REST API's https://mpolinowski.github.io/docs/Development/Go/2021-09-24--golang-react-starter-part-iv/2021-09-24
 - Остальное
-  - Inside The Inner Hexagon: Component Tests https://www.shaiyallin.com/post/inside-the-inner-hexagon-component-tests
   - Retry function in Go https://rednafi.com/go/retry_function/
   - Server Side Rendering на Go https://habr.com/ru/articles/848640/
   - Prevent sensitive data from leaking https://www.willem.dev/articles/prevent-sensitive-data-from-leaking/
