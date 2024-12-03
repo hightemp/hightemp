@@ -351,7 +351,7 @@
 - SSH
    - Автор делится опытом разработки SSH-сервера для проекта Sdump, описывая проблему безопасности, связанную с тем, что SSH-серверы по умолчанию позволяют перебирать разные ключи при аутентификации, и предлагает решение через настройку файла ~/.ssh/config для использования определённых ключей, а также рассматривает методы идентификации пользователей для предотвращения злоупотребления сервисом. https://lanre.wtf/blog/2024/02/13/ssh-notes
 - DNS
-   - SRV
+   - SRV; SRV запись - это специальная запись в DNS, которая указывает, какой компьютер (сервер) в сети предоставляет определенную службу или сервис и через какой порт к нему нужно подключаться
       - What is DNS SRV record? https://nordvpn.com/ru/cybersecurity/glossary/dns-srv-record/
       - What is a Service Record DNS Record (SRV)? https://seo.ai/faq/service-record-dns-record-srv
       - Connecting to the Server Using DNS SRV Records https://docs.oracle.com/cd/E17952_01/mysql-8.0-en/connecting-using-dns-srv.html
