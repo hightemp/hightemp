@@ -47,10 +47,14 @@
 - Распределенные системы
     - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
     - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
-- Microservices Design Patterns
-    - Остальное
-        - Microservices Design Patterns https://www.geeksforgeeks.org/microservices-design-patterns/
 - Паттерны
+    - API Gateway Pattern
+    - Database per Service Pattern
+    - Service Discovery Pattern
+    - Saga Pattern
+    - Strangler Fig Pattern
+    - Bulkhead Pattern
+    - Sidecar Pattern
     - Ambassador
     - Command query responsibility segregation (CQRS)
     - Event sourcing
@@ -64,6 +68,8 @@
         - The Role of Circuit Breaker in Software System Design https://systemdesignschool.io/blog/circuit-breaker-pattern
     - Resilience design patterns
         - Resilience design patterns: retry, fallback, timeout, circuit breaker https://www.codecentric.de/wissens-hub/blog/resilience-design-patterns-retry-fallback-timeout-circuit-breaker
+    - Остальное
+        - Microservices Design Patterns https://www.geeksforgeeks.org/microservices-design-patterns/
 - Лучшие практики
     - Distributed Systems Design: Tutorial & Best Practices https://www.multiplayer.app/distributed-systems-architecture/distributed-systems-design/
 - Остальное
