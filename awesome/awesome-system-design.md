@@ -31,6 +31,9 @@
 
 ### Статьи
 
+- CAP Theorem
+    - Understanding CAP Theorem in System Design: Consistency, Availability, and Partition Tolerance https://medium.com/@shivajiofficial5088/understanding-cap-theorem-in-system-design-consistency-availability-and-partition-tolerance-b42ed84d9f9c
+    - Understanding the CAP Theorem: Consistency, Availability, and Partition Tolerance. https://medium.com/@gurpreet.singh_89/understanding-the-cap-theorem-consistency-availability-and-partition-tolerance-e7faa5103638
 - Остальное
     - Circuit Breaker Pattern (Design Patterns for Microservices) https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33
     - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
