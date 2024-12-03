@@ -98,6 +98,7 @@
 - Подборки
     - System Design Series' Articles https://dev.to/karanpratapsingh/series/19332
     - Проектирование систем https://www.linkedin.com/pulse/topics/engineering-s166/systems-design-s18540/
+    - Top 10 Software Design and System Design Interview Courses in 2024 https://levelup.gitconnected.com/7-best-software-design-course-for-programmers-and-developers-da3e18e9135
 - Остальное
     - Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
     - Top 50 System Design Terminologies You Must Know https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1
