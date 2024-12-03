@@ -34,6 +34,8 @@
 
 - Основное
     - Understanding System Design: 7 Key Principles https://primerpy.medium.com/understanding-system-design-7-key-principles-3d8301b497ba
+- Роадмэпы, Roadmap
+    - Complete Roadmap to Learn System Design for Beginners https://www.geeksforgeeks.org/complete-roadmap-to-learn-system-design/
 - PACELC Theorem
     - PACELC Theorem https://www.geeksforgeeks.org/pacelc-theorem/
 - CAP Theorem
@@ -49,8 +51,6 @@
 - Распределенные системы
     - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
     - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
-- Роадмэпы, Roadmap
-    - Complete Roadmap to Learn System Design for Beginners https://www.geeksforgeeks.org/complete-roadmap-to-learn-system-design/
 - Базы данных, databases
     - SQL vs NoSQL: Which Database to Choose in System Design? https://www.geeksforgeeks.org/which-database-to-choose-while-designing-a-system-sql-or-nosql/
 - Паттерны
