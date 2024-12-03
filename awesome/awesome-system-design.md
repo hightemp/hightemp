@@ -19,6 +19,7 @@
 - https://github.com/InterviewReady/system-design-resources
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/yangshun/tech-interview-handbook
+- https://github.com/systemdesign42/system-design
 
 ### Шпоры
 
