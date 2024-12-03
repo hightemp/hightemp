@@ -51,6 +51,7 @@
         - What is Circuit Breaker Pattern in Microservices? https://www.geeksforgeeks.org/what-is-circuit-breaker-pattern-in-microservices/
         - Circuit Breaker with Bulkhead Isolation in Microservices https://www.geeksforgeeks.org/circuit-breaker-with-bulkhead-isolation-in-microservices/
         - Circuit Breaker Pattern (Design Patterns for Microservices) https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33
+        - The Role of Circuit Breaker in Software System Design https://systemdesignschool.io/blog/circuit-breaker-pattern
 - Остальное
     - Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
     - Top 50 System Design Terminologies You Must Know https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1
