@@ -48,6 +48,7 @@
     - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
 - Паттерны
     - Circuit Breaker
+        - Circuit Breaker with Bulkhead Isolation in Microservices https://www.geeksforgeeks.org/circuit-breaker-with-bulkhead-isolation-in-microservices/
         - Circuit Breaker Pattern (Design Patterns for Microservices) https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33
 - Остальное
     - Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
