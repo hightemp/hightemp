@@ -31,6 +31,8 @@
 
 ### Статьи
 
+- PACELC Theorem
+    - PACELC Theorem https://www.geeksforgeeks.org/pacelc-theorem/
 - CAP Theorem
     - System Design for Beginners -CAP Theorem https://medium.com/@prasadpal107/system-design-for-beginners-cap-theorem-ba3003730469
     - Understanding CAP Theorem in System Design: Consistency, Availability, and Partition Tolerance https://medium.com/@shivajiofficial5088/understanding-cap-theorem-in-system-design-consistency-availability-and-partition-tolerance-b42ed84d9f9c
