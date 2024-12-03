@@ -100,6 +100,7 @@
     - Проектирование систем https://www.linkedin.com/pulse/topics/engineering-s166/systems-design-s18540/
     - Top 10 Software Design and System Design Interview Courses in 2024 https://levelup.gitconnected.com/7-best-software-design-course-for-programmers-and-developers-da3e18e9135
     - Top 10 System Design Interview Books in 2024 https://medium.com/javarevisited/top-10-system-design-interview-books-in-2024-3e69e182e092
+    - Top 5 System Design Interview Cheat Sheets for Developers https://medium.com/javarevisited/top-3-system-design-cheat-sheets-templates-and-roadmap-for-software-engineering-interviews-53012952db28
 - Остальное
     - Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
     - Top 50 System Design Terminologies You Must Know https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1
