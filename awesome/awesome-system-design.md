@@ -118,6 +118,7 @@
     - 79 Engineering Blogs To Level Up Your System Design Skills https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up
     - Engineering Blogs: 49 System Design Blogs You Need to Follow https://hojaleaks.com/engineering-blogs-49-system-design-blogs-you-need-to-follow
     - The Best Engineering Blogs https://draft.dev/learn/engineering-blogs
+    - What are some terrific blog posts on backend development and system design you have in your bookmarks and think everyone should read? (my example in the thread) https://www.reddit.com/r/ExperiencedDevs/comments/184gxkx/what_are_some_terrific_blog_posts_on_backend/
 - Остальное
     - Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
     - Top 50 System Design Terminologies You Must Know https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1
