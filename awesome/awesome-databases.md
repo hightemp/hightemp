@@ -65,6 +65,7 @@
             - PostgreSQL Multi-Active Replication - Part 2: Native Replication in PostgreSQL 15 and 16 https://medium.com/@olira/postgresql-multi-active-replication-part-2-native-replication-in-postgresql-15-and-16-42cc3496c46b
             - Установка postgres-9.6. Настройка репликации master-slave https://sidmid.ru/установка-postgres-9-6-настройка-репликации-master-slave/?ysclid=m48bs2crdz754774365
             - Репликация в PostgreSQL при помощи repmgr https://wtfm.info/репликация-в-postgresql-при-помощи-repmgr/
+            - How to Setup PostgreSQL Replication https://www.opensourcelisting.com/how-to-setup-postgresql-replication/
     - Остальное
         - Неожиданная находка, которая освобождает 20 GB неиспользованного индексного пространства https://habr.com/ru/companies/otus/articles/672102/
         - PostgreSQL-триггеры: создание, удаление, примеры https://timeweb.cloud/tutorials/postgresql/postgresql-triggery-sozdanie-udalenie-primery
