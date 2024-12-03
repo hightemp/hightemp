@@ -42,8 +42,12 @@
     - CAP Theorem Explained: Consistency, Availability & Partition Tolerance https://www.bmc.com/blogs/cap-theorem/
     - What is the CAP theorem? https://www.ibm.com/topics/cap-theorem
     - Brewer’s CAP Theorem https://www.geeksforgeeks.org/brewers-cap-theorem/
-- Остальное
-    - Circuit Breaker Pattern (Design Patterns for Microservices) https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33
+- Распределенные системы
     - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
+    - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
+- Паттерны
+    - Circuit Breaker
+        - Circuit Breaker Pattern (Design Patterns for Microservices) https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33
+- Остальное
     - Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
     - Top 50 System Design Terminologies You Must Know https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1
