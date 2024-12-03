@@ -90,6 +90,7 @@
 - Лучшие практики
     - Distributed Systems Design: Tutorial & Best Practices https://www.multiplayer.app/distributed-systems-architecture/distributed-systems-design/
 - Подборки
+    - System Design Series' Articles https://dev.to/karanpratapsingh/series/19332
     - Проектирование систем https://www.linkedin.com/pulse/topics/engineering-s166/systems-design-s18540/
 - Остальное
     - Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
