@@ -66,6 +66,7 @@
     - SQL vs NoSQL https://learnsystemdesign.blogspot.com/2019/09/sql-vs-nosql.html
 - Кэш
     - mastering cache eviction policies for optimal caching efficiency https://skynix.co/resources/mastering-cache-eviction-policies-for-optimal-caching-efficiency
+    - LRU Cache Implementation https://www.scaler.in/lru-cache-implementation/
 - Паттерны
     - API Gateway Pattern
         - Microservices Design Patterns: API Gateway Design Pattern https://medium.com/@apulatjonov/microservices-design-patterns-api-gateway-design-pattern-ddba36700d84
