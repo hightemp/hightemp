@@ -54,6 +54,7 @@
             - Postgres 17 highlight: Logical replication slots synchronization https://bdrouvot.github.io/2024/03/16/postgres-17-highlight-logical-replication-slots-synchronization/
             - Пример использования логической репликации PostgreSQL https://eax.me/postgresql-logical-replication/
             - Logical Replication: PubSub in PostgreSQL https://medium.com/hacktive-devs/logical-replication-pubsub-in-postgresql-bec70b286f3b
+            - Setup Logical Replication using pglogical in PostgreSQL https://dbsguru.com/setup-logical-replication-using-pglogical-in-postgresql/
         - Потоковая репликация, WAL
             - Настройка потоковой репликации PostgreSQL https://www.dmosk.ru/miniinstruktions.php?mini=postgresql-replication&ysclid=m48bnxegz2534231408
             - Потоковая репликация в PostgreSQL – короткое введение https://prudnitskiy.pro/post/2018-01-05-pgsql-replica/
