@@ -51,6 +51,8 @@
     - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
 - Роадмэпы, Roadmap
     - Complete Roadmap to Learn System Design for Beginners https://www.geeksforgeeks.org/complete-roadmap-to-learn-system-design/
+- Базы данных, databases
+    - SQL vs NoSQL: Which Database to Choose in System Design? https://www.geeksforgeeks.org/which-database-to-choose-while-designing-a-system-sql-or-nosql/
 - Паттерны
     - API Gateway Pattern
     - Database per Service Pattern
