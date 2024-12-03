@@ -50,6 +50,7 @@
             - PostgreSQL Logical Replication: Easy steps to set up https://hevodata.com/learn/postgresql-logical-replication/
             - Subscription Chapter 29. Logical Replication https://www.postgresql.org/docs/current/logical-replication-subscription.html
             - Replication Between PostgreSQL Versions Using Logical Replication https://www.percona.com/blog/replication-between-postgresql-versions-using-logical-replication/
+            - Practical PostgreSQL Logical Replication: Setting Up an Experimentation Environment Using Docker https://dev.to/ietxaniz/practical-postgresql-logical-replication-setting-up-an-experimentation-environment-using-docker-4h50
         - Остальное
             - Как настроить репликацию в PostgreSQL https://selectel.ru/blog/tutorials/how-to-set-up-replication-in-postgresql/
             - Репликации в PostgreSQL https://habr.com/ru/companies/otus/articles/710956/
