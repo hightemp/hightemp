@@ -32,6 +32,8 @@
 
 ### Статьи
 
+- Основное
+    - Understanding System Design: 7 Key Principles https://primerpy.medium.com/understanding-system-design-7-key-principles-3d8301b497ba
 - PACELC Theorem
     - PACELC Theorem https://www.geeksforgeeks.org/pacelc-theorem/
 - CAP Theorem
