@@ -47,6 +47,9 @@
 - Распределенные системы
     - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
     - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
+- Microservices Design Patterns
+    - Остальное
+        - Microservices Design Patterns https://www.geeksforgeeks.org/microservices-design-patterns/
 - Паттерны
     - Ambassador
     - Command query responsibility segregation (CQRS)
