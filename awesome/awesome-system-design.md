@@ -79,10 +79,18 @@
         - Vertical Scaling Pattern
         - Auto-Scaling Pattern
         - Service Mesh Pattern
+    - Security Patterns for Microservices
+        - Access Token Pattern
+        - API Gateway Pattern
+        - Rate Limiting and Throttling Pattern
+        - Circuit Breaker Pattern
+        - Least Privilege Pattern
     - Остальное
         - Microservices Design Patterns https://www.geeksforgeeks.org/microservices-design-patterns/
 - Лучшие практики
     - Distributed Systems Design: Tutorial & Best Practices https://www.multiplayer.app/distributed-systems-architecture/distributed-systems-design/
+- Подборки
+    - Проектирование систем https://www.linkedin.com/pulse/topics/engineering-s166/systems-design-s18540/
 - Остальное
     - Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
     - Top 50 System Design Terminologies You Must Know https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1
