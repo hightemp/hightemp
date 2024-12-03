@@ -66,6 +66,7 @@
     - SQL vs NoSQL https://learnsystemdesign.blogspot.com/2019/09/sql-vs-nosql.html
 - Паттерны
     - API Gateway Pattern
+        - Microservices Design Patterns: API Gateway Design Pattern https://medium.com/@apulatjonov/microservices-design-patterns-api-gateway-design-pattern-ddba36700d84
     - Database per Service Pattern
     - Service Discovery Pattern
     - Saga Pattern
