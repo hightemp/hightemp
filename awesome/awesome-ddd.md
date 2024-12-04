@@ -102,7 +102,7 @@
             - Repository and Unit of Work in Domain-Driven Design https://dev.to/ruben_alapont/repository-and-unit-of-work-in-domain-driven-design-531e
         - Factories (Фабрики)
             - Factories https://www.educative.io/courses/domain-driven-design/factories
-            
+            - Using Aggregates and Factories in Domain Driven Design https://medium.com/withbetterco/using-aggregates-and-factories-in-domain-driven-design-34e0dff220c3
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
             - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
