@@ -107,6 +107,7 @@
             - Domain-Driven Design, part 8 — Services and Factories https://svatasimara.medium.com/domain-driven-design-part-8-services-and-factories-4c0dec11fdc1 
     - Архитектурные паттерны:
         - Hexagonal Architecture (Гексагональная архитектура)
+            - Hexagonal Architecture https://ddd-practitioners.com/home/glossary/hexagonal-architecture/
             - What is Hexagonal Architecture Diagram https://online.visual-paradigm.com/knowledge/cloud-architecture-diagrams/what-is-hexagonal-architecture-diagram/
             - Everything You Need to Know About Hexagonal Architecture: Kernel, Ports, Adapters https://scalastic.io/en/hexagonal-architecture/
             - Microservices Done Right: Using Domain Driven Design and Hexagonal Architecture https://medium.com/@abdessamad.abidar/microservices-done-right-using-domain-driven-design-and-hexagonal-architecture-739f6c50ea3b
