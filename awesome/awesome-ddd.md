@@ -97,6 +97,7 @@
             - Implementing Repositories in Domain-Driven Design for Effective Data Management https://reintech.io/blog/implementing-repositories-domain-driven-design
             - Design the infrastructure persistence layer https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design
             - Domain-Driven Design with Laravel - Repositories https://martinjoo.dev/domain-driven-design-with-laravel-repositories
+            - DDD, Repsitory https://rusyasoft.github.io/ddd/2018/05/10/ddd-repository/
         - Factories (Фабрики)
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
