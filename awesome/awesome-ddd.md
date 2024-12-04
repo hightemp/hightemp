@@ -9,6 +9,7 @@
 - Domain events
     - Domain events: Design and implementation https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation
 - Остальное
+    - Domain-Driven Design (DDD) Paradigm: Introduction to Domain-Driven Design https://dev.to/ruben_alapont/domain-driven-design-ddd-paradigm-introduction-to-domain-driven-design-4l9g
     - Best Practice - An Introduction To Domain-Driven Design https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design
     - Domain Driven Design and Development In Practice https://www.infoq.com/articles/ddd-in-practice/
     - Unraveling the Mysteries of Domain-Driven Design: An Introduction https://dev.to/scovic/unraveling-the-mysteries-of-domain-driven-design-an-introduction-f2n
