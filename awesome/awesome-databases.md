@@ -38,6 +38,7 @@
 
 - Основное
     - SQL databases https://www.karanpratapsingh.com/courses/system-design/sql-databases
+    - NoSQL databases https://www.karanpratapsingh.com/courses/system-design/nosql-databases
 - PostgreSQL
     - Основное
         - Изучаем PostgreSQL. Часть 1. Знакомимся с архитектурой https://habr.com/ru/companies/otus/articles/706346/
