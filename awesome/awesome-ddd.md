@@ -116,6 +116,7 @@
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
             - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
+        - Software Design Patterns Tutorial https://www.geeksforgeeks.org/software-design-patterns
 - Лучшие практики
     - Best Practice - An Introduction To Domain-Driven Design https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design
 - Domain events
