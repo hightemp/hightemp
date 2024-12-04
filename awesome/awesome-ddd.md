@@ -72,6 +72,7 @@
             - Core Domain https://ddd-practitioners.com/home/glossary/domain/core-domain/
     - Тактические паттерны (Tactical Patterns):
         - Entities (Сущности)
+            - Entity https://ddd-practitioners.com/home/glossary/entity/
             - Entities and Value Objects: Diving Deep into Domain-Driven Design https://www.abrahamberg.com/blog/entities-and-value-objects-diving-deep-into-domain-driven-design/
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
