@@ -100,6 +100,7 @@
     - Introduction to domain driven design (DDD) + glossary https://www.rst.software/blog/introduction-to-domain-driven-design-ddd-glossary
     - Domain Driven Design (DDD): Core concepts and Enterprise Architecture https://alok-mishra.com/2021/06/30/domain-driven-design-ddd-core-concepts-explained/
     - Comparing Canonical DDD and Clean DDD https://medium.com/unil-ci-software-engineering/comparing-canonical-ddd-and-clean-ddd-34e807f4e336
+    - All you need to know about “Domain Driven Design” https://medium.com/@karahanozen/all-you-need-to-know-about-domain-driven-design-9d06c5234990
 
 ### Видео
 
