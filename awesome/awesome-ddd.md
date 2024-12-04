@@ -111,6 +111,7 @@
             - Everything You Need to Know About Hexagonal Architecture: Kernel, Ports, Adapters https://scalastic.io/en/hexagonal-architecture/
             - Microservices Done Right: Using Domain Driven Design and Hexagonal Architecture https://medium.com/@abdessamad.abidar/microservices-done-right-using-domain-driven-design-and-hexagonal-architecture-739f6c50ea3b
             - Domain-Driven Design (DDD) and Hexagonal Architecture in Java https://vaadin.com/blog/ddd-part-3-domain-driven-design-and-the-hexagonal-architecture
+            - Implementing DDD with Hexagonal Architecture in Spring Boot https://www.codeburps.com/post/implementing-ddd-with-hexagonal-architecture-in-spring-boot
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
             - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
