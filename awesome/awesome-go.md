@@ -682,6 +682,7 @@
   - Getting started with Go and React - PostgreSQL https://mpolinowski.github.io/docs/Development/Go/2021-09-23--golang-react-starter-part-iii/2021-09-23
   - Getting started with Go and React - React & REST API's https://mpolinowski.github.io/docs/Development/Go/2021-09-24--golang-react-starter-part-iv/2021-09-24
 - Остальное
+  - Go’s gem: how Singleflight turbocharged our app’s efficiency and reduced costs https://medium.com/mercadolibre-tech/gos-gem-how-singleflight-turbocharged-our-app-s-efficiency-and-reduced-costs-1a736aeea641
   - Lazy Initialization in Golang: A Practical Guide with Examples https://medium.com/@sajo02/lazy-initialization-in-golang-a-practical-guide-with-examples-5cf25d63e12b
   - Retry function in Go https://rednafi.com/go/retry_function/
   - Server Side Rendering на Go https://habr.com/ru/articles/848640/
