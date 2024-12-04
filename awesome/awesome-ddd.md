@@ -108,6 +108,7 @@
     - Архитектурные паттерны:
         - Hexagonal Architecture (Гексагональная архитектура)
             - What is Hexagonal Architecture Diagram https://online.visual-paradigm.com/knowledge/cloud-architecture-diagrams/what-is-hexagonal-architecture-diagram/
+            - Everything You Need to Know About Hexagonal Architecture: Kernel, Ports, Adapters https://scalastic.io/en/hexagonal-architecture/
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
             - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
