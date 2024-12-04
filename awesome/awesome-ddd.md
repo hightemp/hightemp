@@ -79,6 +79,7 @@
             - Value Object https://ddd-practitioners.com/home/glossary/value-object/
             - Value Objects in .NET (DDD Fundamentals) https://www.milanjovanovic.tech/blog/value-objects-in-dotnet-ddd-fundamentals
             - What is Value Object https://www.dremio.com/wiki/value-object/
+            - DDD Building Blocks: Value Object https://domaincentric.net/blog/ddd-building-blocks-in-php-value-object
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
             - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
