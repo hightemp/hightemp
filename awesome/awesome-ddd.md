@@ -93,6 +93,7 @@
             - How To Use Domain Events To Build Loosely Coupled Systems https://www.milanjovanovic.tech/blog/how-to-use-domain-events-to-build-loosely-coupled-systems
             - Domain events: Design and implementation https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation
         - Repositories (Репозитории)
+            - Implementing Repositories in Domain-Driven Design for Effective Data Management https://reintech.io/blog/implementing-repositories-domain-driven-design
         - Factories (Фабрики)
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
