@@ -90,6 +90,7 @@
             - Domain Event https://ddd-practitioners.com/home/glossary/domain-event/
             - Domain Events guide https://nbottarini.com/en/posts/2021/12/16/domain_events_guide/
             - Domain Events and Event Sourcing in Domain-Driven Design https://dev.to/ruben_alapont/domain-events-and-event-sourcing-in-domain-driven-design-l0n
+            - How To Use Domain Events To Build Loosely Coupled Systems https://www.milanjovanovic.tech/blog/how-to-use-domain-events-to-build-loosely-coupled-systems
         - Repositories (Репозитории)
         - Factories (Фабрики)
     - Остальное
