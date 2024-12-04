@@ -87,6 +87,7 @@
             - Understanding Aggregates in Domain-Driven Design (DDD) https://medium.com/@jochelle.mendonca/understanding-aggregates-in-domain-driven-design-ddd-4c5f7c7ecace
             - Persisting DDD Aggregates https://www.baeldung.com/spring-persisting-ddd-aggregates
         - Domain Events (Доменные события)
+            - Domain Event https://ddd-practitioners.com/home/glossary/domain-event/
         - Repositories (Репозитории)
         - Factories (Фабрики)
     - Остальное
