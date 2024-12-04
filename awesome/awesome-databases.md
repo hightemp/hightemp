@@ -82,6 +82,7 @@
             - Репликация в PostgreSQL при помощи repmgr https://wtfm.info/репликация-в-postgresql-при-помощи-repmgr/
             - How to Setup PostgreSQL Replication https://www.opensourcelisting.com/how-to-setup-postgresql-replication/
             - How to Set Up Multi-Master PostgreSQL Replication on Ubuntu 22.04 https://www.howtoforge.com/how-to-set-up-multi-master-postgresql-replication-on-ubuntu-22-04/
+            - Setting Up PostgreSQL Replication: A Step-by-Step Guide https://medium.com/@umairhassan27/setting-up-postgresql-replication-on-slave-server-a-step-by-step-guide-1ff36bb9a47f
     - Кэш
         - SLRU (Simple Least Recently Used) - это специальный механизм кеширования в PostgreSQL, который хранит в памяти важную служебную информацию (например, состояние транзакций), используя алгоритм вытеснения наименее недавно использованных данных при заполнении кеша
             - Scalability Limits From SLRU & Lock Manager | Scaling Postgres 306 https://scaling-postgres-1.castos.com/episodes/scalability-limits-from-slru-lock-manager-scaling-postgres-306
