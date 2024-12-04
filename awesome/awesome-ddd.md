@@ -88,6 +88,7 @@
             - Persisting DDD Aggregates https://www.baeldung.com/spring-persisting-ddd-aggregates
         - Domain Events (Доменные события)
             - Domain Event https://ddd-practitioners.com/home/glossary/domain-event/
+            - Domain Events guide https://nbottarini.com/en/posts/2021/12/16/domain_events_guide/
         - Repositories (Репозитории)
         - Factories (Фабрики)
     - Остальное
