@@ -58,6 +58,8 @@
             - Understanding the Bounded Context in Microservices https://blog.bitsrc.io/understanding-the-bounded-context-in-microservices-c70c0e189dd1
             - What is Bounded Context? https://www.dremio.com/wiki/bounded-context/
             - A practical guide to Subdomains and Bounded Contexts https://medium.com/@ricardo.ferraris/a-practical-guide-to-subdomains-and-bounded-contexts-cb27ef5790ca
+        - Ubiquitous Language (Единый язык)
+            - Ubiquitous Language https://ddd-practitioners.com/home/glossary/ubiquitous-language/
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
             - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
