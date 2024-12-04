@@ -101,6 +101,7 @@
             - DDD, Repsitory https://rusyasoft.github.io/ddd/2018/05/10/ddd-repository/
             - Repository and Unit of Work in Domain-Driven Design https://dev.to/ruben_alapont/repository-and-unit-of-work-in-domain-driven-design-531e
         - Factories (Фабрики)
+            - Factory https://ddd-practitioners.com/home/glossary/domain-driven-design/tactical-design/factory/
             - Factories https://www.educative.io/courses/domain-driven-design/factories
             - Using Aggregates and Factories in Domain Driven Design https://medium.com/withbetterco/using-aggregates-and-factories-in-domain-driven-design-34e0dff220c3
             - Domain-Driven Design, part 8 — Services and Factories https://svatasimara.medium.com/domain-driven-design-part-8-services-and-factories-4c0dec11fdc1 
