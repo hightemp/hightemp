@@ -61,6 +61,7 @@
         - Ubiquitous Language (Единый язык)
             - Ubiquitous Language https://martinfowler.com/bliki/UbiquitousLanguage.html
             - Ubiquitous Language https://ddd-practitioners.com/home/glossary/ubiquitous-language/
+            - What is Ubiquitous Language? https://www.dremio.com/wiki/ubiquitous-language/
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
             - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
