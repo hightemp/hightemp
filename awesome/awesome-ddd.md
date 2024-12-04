@@ -105,6 +105,9 @@
             - Factories https://www.educative.io/courses/domain-driven-design/factories
             - Using Aggregates and Factories in Domain Driven Design https://medium.com/withbetterco/using-aggregates-and-factories-in-domain-driven-design-34e0dff220c3
             - Domain-Driven Design, part 8 — Services and Factories https://svatasimara.medium.com/domain-driven-design-part-8-services-and-factories-4c0dec11fdc1 
+    - Архитектурные паттерны:
+        - Hexagonal Architecture (Гексагональная архитектура)
+            - What is Hexagonal Architecture Diagram https://online.visual-paradigm.com/knowledge/cloud-architecture-diagrams/what-is-hexagonal-architecture-diagram/
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
             - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
