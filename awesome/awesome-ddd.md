@@ -114,8 +114,7 @@
             - Domain-Driven Design (DDD) and Hexagonal Architecture in Java https://vaadin.com/blog/ddd-part-3-domain-driven-design-and-the-hexagonal-architecture
             - Implementing DDD with Hexagonal Architecture in Spring Boot https://www.codeburps.com/post/implementing-ddd-with-hexagonal-architecture-in-spring-boot
     - Остальное
-        - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
-            - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
+        - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
         - Software Design Patterns Tutorial https://www.geeksforgeeks.org/software-design-patterns
 - Лучшие практики
     - Best Practice - An Introduction To Domain-Driven Design https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design
