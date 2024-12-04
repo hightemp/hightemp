@@ -75,6 +75,8 @@
             - Entity https://ddd-practitioners.com/home/glossary/entity/
             - Entities and Value Objects: Diving Deep into Domain-Driven Design https://www.abrahamberg.com/blog/entities-and-value-objects-diving-deep-into-domain-driven-design/
             - Entity (DDD series part 7) https://kisztof.medium.com/entity-ddd-series-part-7-2095ba4ac0f3
+        - Value Objects (Объекты-значения)
+            - Value Objects in .NET (DDD Fundamentals) https://www.milanjovanovic.tech/blog/value-objects-in-dotnet-ddd-fundamentals
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
             - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
