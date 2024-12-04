@@ -59,6 +59,7 @@
             - What is Bounded Context? https://www.dremio.com/wiki/bounded-context/
             - A practical guide to Subdomains and Bounded Contexts https://medium.com/@ricardo.ferraris/a-practical-guide-to-subdomains-and-bounded-contexts-cb27ef5790ca
         - Ubiquitous Language (Единый язык)
+            - Ubiquitous Language https://martinfowler.com/bliki/UbiquitousLanguage.html
             - Ubiquitous Language https://ddd-practitioners.com/home/glossary/ubiquitous-language/
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
