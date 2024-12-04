@@ -23,7 +23,7 @@
 ### Мониторинг
 
 - PostgreSQL
-    - https://github.com/CHERTS/pgscv/releases/tag/v0.9.5
+    - Это форк замороженного проекта lesovsky/pgscv Алексея Лесовского, ныне сотрудника Postgres Professional. pgSCV это агент-собиратель метрик pgSCV, совместим с Prometheus и Grafana, умеет экспортировать метрики в системное окружение PostgreSQL. Есть доки на русском. https://github.com/CHERTS/pgscv/releases/tag/v0.9.5
 
 ### Гайды
 
