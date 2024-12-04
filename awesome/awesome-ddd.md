@@ -55,6 +55,7 @@
     - Стратегические паттерны (Strategic Patterns):
         - Bounded Context (Ограниченный контекст)
             - Bounded Context https://martinfowler.com/bliki/BoundedContext.html
+            - Understanding the Bounded Context in Microservices https://blog.bitsrc.io/understanding-the-bounded-context-in-microservices-c70c0e189dd1
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
             - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
