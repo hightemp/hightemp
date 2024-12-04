@@ -64,7 +64,9 @@
             - What is Ubiquitous Language? https://www.dremio.com/wiki/ubiquitous-language/
         - Context Mapping
             - Context Map https://ddd-practitioners.com/home/glossary/context-map/
-            
+            - Context Maps in Domain Driven Design https://yuriktech.com/2019/07/10/Context-Maps-In-Domain-Driven-Design/
+            - https://github.com/ddd-crew/context-mapping
+            - Domain Driven Design | Deep dive into context mapping https://medium.com/geekculture/domain-driven-design-deep-dive-into-context-mapping-f9cd8acddd7e
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
             - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
