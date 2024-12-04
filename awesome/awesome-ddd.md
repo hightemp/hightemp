@@ -69,6 +69,7 @@
             - Domain Driven Design | Deep dive into context mapping https://medium.com/geekculture/domain-driven-design-deep-dive-into-context-mapping-f9cd8acddd7e
             - Strategic Domain Driven Design with Context Mapping https://www.infoq.com/articles/ddd-contextmapping/
         - Core Domain (Основной домен)
+            - Core Domain https://ddd-practitioners.com/home/glossary/domain/core-domain/
     - Остальное
         - Policy pattern; Policy pattern является альтернативным названием для паттерна Strategy (Стратегия)
             - Domain Policy for Domain-Driven Design https://www.codeproject.com/Tips/1175911/Domain-Policy-for-Domain-Driven-Design
