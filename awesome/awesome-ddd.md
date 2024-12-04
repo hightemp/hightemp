@@ -84,6 +84,7 @@
             - Mastering DDD: A Developer’s Guide to Implementing Aggregates https://www.abrahamberg.com/blog/mastering-ddd-a-developers-guide-to-implementing-aggregates/
             - Domain-Driven Design: Aggregates in Practice https://medium.com/@aforank/domain-driven-design-aggregates-in-practice-bcced7d21ae5
             - DDD Aggregates - Best Practices and Implementation Strategies https://alinabo.com/ddd-aggregates
+            - Understanding Aggregates in Domain-Driven Design (DDD) https://medium.com/@jochelle.mendonca/understanding-aggregates-in-domain-driven-design-ddd-4c5f7c7ecace
         - Domain Events (Доменные события)
         - Repositories (Репозитории)
         - Factories (Фабрики)
