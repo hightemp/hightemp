@@ -20,6 +20,11 @@
 
 - Are You Qualified To Use Null in SQL? (Тест) https://agentm.github.io/project-m36/posts/2024-07-16-are-you-qualified-to-use-null.html
 
+### Мониторинг
+
+- PostgreSQL
+    - https://github.com/CHERTS/pgscv/releases/tag/v0.9.5
+
 ### Гайды
 
 - MySQL 8.0. Полное руководство https://www.rldp.ru/mysql/mysql80/
