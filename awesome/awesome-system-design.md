@@ -44,6 +44,7 @@
 
 - Основное
     - Understanding System Design: 7 Key Principles https://primerpy.medium.com/understanding-system-design-7-key-principles-3d8301b497ba
+    - System Design: The complete course https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo
 - Роадмэпы, Roadmap
     - Complete Roadmap to Learn System Design for Beginners https://www.geeksforgeeks.org/complete-roadmap-to-learn-system-design/
 - PACELC Theorem
