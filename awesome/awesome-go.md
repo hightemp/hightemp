@@ -643,6 +643,8 @@
   - Effective Logging in Go: Best Practices and Examples https://medium.com/novai-go-programming-101/effective-logging-in-go-best-practices-and-examples-911c31145260
 - Планировщик, Scheduler
   - Mastering Task Scheduling in Go: Gron, JobRunner, and Gocron https://medium.com/@murataslan1/mastering-task-scheduling-in-go-gron-jobrunner-and-gocron-0123d5c4ee95
+- Бенчмарки, Benchmarks
+  - Leveraging benchstat Projections in Go Benchmark Analysis! https://www.bwplotka.dev/2024/go-microbenchmarks-benchstat/
 - Тестирование
   - Accurate handler tests using httptest https://www.willem.dev/articles/testing-http-handlers-using-httptest/
   - Практика написания модульных тестов в языке Go https://eax.me/golang-unit-testing/
