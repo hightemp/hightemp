@@ -6,6 +6,7 @@
 ### Полезные ссылки 
 
 - https://coinwiki.github.io/rus/tron/
+- https://www.madcrypto.com/coins/tron/ru/
 
 ### Биржи open source
 
