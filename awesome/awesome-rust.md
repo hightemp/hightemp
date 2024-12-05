@@ -81,6 +81,7 @@
 - Starship — это минималистичная, невероятно быстрая и бесконечно настраиваемая командная строка для любых оболочек и операционных систем, показывающая актуальную информацию одним взглядом и поддерживающая множество инструментов. https://starship.rs/ https://github.com/starship/starship
 - Let's Get Rusty Learning Guide https://learn.letsgetrusty.com/further-learning/systems-programming-in-rust.html
 - Индекс ошибок https://doc.rust-lang.org/error_codes/error-index.html
+- Проект описывает различные стратегии интеграции Rust в существующие серверы, написанные на других языках программирования, для улучшения производительности CPU-интенсивных операций. https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md
 
 ### Фреймворки
 
