@@ -82,6 +82,10 @@
 - Let's Get Rusty Learning Guide https://learn.letsgetrusty.com/further-learning/systems-programming-in-rust.html
 - Индекс ошибок https://doc.rust-lang.org/error_codes/error-index.html
 
+### Фреймворки
+
+- Loco - это вдохновленный Ruby on Rails фреймворк на Rust, предлагающий богатый набор функций включая ORM, контроллеры, фоновые задачи, планировщик, работу с почтой, хранилище и кэширование, при этом следуя принципу "Convention over Configuration" для быстрой разработки. https://github.com/loco-rs/loco
+
 ### Книги
 
 - Руководство по rust https://my-js.org/docs/guide/rust/
