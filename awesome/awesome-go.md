@@ -360,12 +360,15 @@
 - Валидация данных
   - Using Go Validator for Efficient Data Validation in Go Applications https://www.codingexplorations.com/blog/using-go-validator-for-efficient-data-validation-in-go-applications
 - Оптимизация
-  - Maps and memory leaks https://100go.co/28-maps-memory-leaks/
-  - How to Use Maps Safely in Go https://hackernoon.com/how-to-use-maps-safely-in-go
-  - Выжимаем из Go максимум производительности https://habr.com/ru/companies/vk/articles/824484/
-  - How to optimize garbage collection in Go https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/
-  - GopherCon 2019 - Optimizing Go Code without a blindfold https://sourcegraph.com/blog/go/gophercon-2019-optimizing-go-code-without-a-blindfold
-  - Оптимизация Go: как повысить скорость и эффективность кода https://habr.com/ru/companies/simbirsoft/articles/819015/
+  - SIMD
+    - Go Plan9 Memo, Speeding Up Calculations 450%; В статье описывается разработка SIMD-пакета для языка Go с использованием ассемблера Plan9, что позволило ускорить вычисления на 450% за счет параллельной обработки данных на аппаратном уровне. https://pehringer.info/go_plan9_memo.html
+  - Остальное
+    - Maps and memory leaks https://100go.co/28-maps-memory-leaks/
+    - How to Use Maps Safely in Go https://hackernoon.com/how-to-use-maps-safely-in-go
+    - Выжимаем из Go максимум производительности https://habr.com/ru/companies/vk/articles/824484/
+    - How to optimize garbage collection in Go https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/
+    - GopherCon 2019 - Optimizing Go Code without a blindfold https://sourcegraph.com/blog/go/gophercon-2019-optimizing-go-code-without-a-blindfold
+    - Оптимизация Go: как повысить скорость и эффективность кода https://habr.com/ru/companies/simbirsoft/articles/819015/
 - Сигналы SIG**
   - go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
   - Terminating Elegantly: A Guide to Graceful Shutdowns https://itnext.io/terminating-elegantly-a-guide-to-graceful-shutdowns-e0dcd9940f4b
