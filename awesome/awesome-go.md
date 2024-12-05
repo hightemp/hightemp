@@ -420,6 +420,8 @@
       - Go: Dump HTTP Request https://blog.cubieserver.de/2016/go-dump-http-request/
       - A story about Go http.Client https://www.jacoelho.com/blog/2017/08/a-story-about-go-http.client/
       - HTTP Connection reuse in Go clients https://blog.cubieserver.de/2022/http-connection-reuse-in-go-clients/
+  - netpoll
+    - Netpoll: пишем сервера, которые не умирают от нагрузки https://habr.com/ru/companies/otus/articles/859964/
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
   - HTTP
