@@ -373,6 +373,7 @@
    - Путь фулстека: 55 бесплатных учебных курсов по веб-разработке для новичков и профессионалов https://proglib.tech/p/put-fulsteka-55-besplatnyh-uchebnyh-kursov-po-veb-razrabotke-dlya-novichkov-i-professionalov-2021-12-08
    - The Best Personal Software Engineering Blogs https://www.qualified.io/blog/posts/the-best-personal-software-engineering-blogs
 - Остальное
+   - Программисты ничего не знают (и это нормально) https://habr.com/ru/articles/863814/
    - 30+ app ideas with complete source code https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76
    - Introducing Netflix’s Key-Value Data Abstraction Layer https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30
    - Pushy to the Limit: Evolving Netflix’s WebSocket proxy for the future https://netflixtechblog.com/pushy-to-the-limit-evolving-netflixs-websocket-proxy-for-the-future-b468bc0ff658
