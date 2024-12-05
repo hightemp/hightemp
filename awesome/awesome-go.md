@@ -343,6 +343,7 @@
     - Mastering Golang — Part 8: Error Handling https://blog.stackademic.com/mastering-golang-part-8-error-handling-4012a62ad0cb
   - Остальное
     - Functional options in Go https://habr.com/ru/articles/859676/
+    - Functional options for friendly APIs https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
     - Notes on Go https://echorand.me/posts/go-notes/
     - Shallow copy and Deep copy in Go https://echorand.me/posts/go-values-references-etc/
     - Named return values in Go https://echorand.me/posts/go-named-return-values/
