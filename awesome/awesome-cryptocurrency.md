@@ -25,6 +25,8 @@
   - https://github.com/ccxt/ccxt
   - https://github.com/QuantConnect/Lean
 
+### Биржи
+
 ### Статьи
 
 - Как стейкать SCALE на DeDust.io: руководство для новичков https://ru.beincrypto.com/learn/stake-scale-dedustio-guide/
