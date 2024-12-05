@@ -3,6 +3,10 @@
 
 - https://t.me/gaspump_bot
 
+### Полезные ссылки 
+
+- https://coinwiki.github.io/rus/tron/
+
 ### Биржи open source
 
 - DEX
