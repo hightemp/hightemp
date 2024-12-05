@@ -648,6 +648,7 @@
 - Тестирование
   - Optimising and Visualising Go Tests Parallelism: Why more cores don't speed up your Go tests https://threedots.tech/post/go-test-parallelism
   - 4 practical principles of high-quality database integration tests in Go https://threedots.tech/post/database-integration-testing/
+  - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
   - Accurate handler tests using httptest https://www.willem.dev/articles/testing-http-handlers-using-httptest/
   - Практика написания модульных тестов в языке Go https://eax.me/golang-unit-testing/
   - Мутационное тестирование: опыт внедрения на 1500 сервисов https://habr.com/ru/companies/avito/articles/650073/
