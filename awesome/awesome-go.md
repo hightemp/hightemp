@@ -302,6 +302,7 @@
     - Demystifying Golang Channels, Goroutines, and Optimal Concurrency https://levelup.gitconnected.com/golang-channels-goroutines-and-optimal-concurrency-demystifying-through-examples-a43ba6aee74f
   - Слайсы
     - Slices in Go: Grow Big or Go Home https://victoriametrics.com/blog/go-slice/index.html
+    - Как убрать повторяющиеся элементы из слайса? https://wcademy.ru/как-оставить-в-слайсе-только-уникальные-значения/
   - Defer
     - Golang Defer: From Basic To Traps https://victoriametrics.com/blog/defer-in-go/index.html
   - Массивы
