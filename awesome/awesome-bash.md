@@ -11,7 +11,7 @@
     - Sockets In Your Shell https://who23.github.io/2020/12/03/sockets-in-your-shell.html
     - Some useful tips about /dev/tcp https://andreafortuna.org/2021/03/06/some-useful-tips-about-dev-tcp/
 - Гайды
-    - https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+    - BASH Programming - Introduction HOW-TO by Mike G mikkey at dynamo.com.ar https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
     - Bash Guide for Beginners https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html
     - https://tldp.org/LDP/abs/html/
         - Advanced Bash-Scripting Guide: Chapter 29. /dev and /proc https://tldp.org/LDP/abs/html/devref1.html
