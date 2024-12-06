@@ -19,6 +19,7 @@
 ### Полезные ссылки
 
 - Symfony Demo Application https://github.com/symfony/demo
+- https://symfony.ru/doc/current/index.html
 
 ### Курсы
 
