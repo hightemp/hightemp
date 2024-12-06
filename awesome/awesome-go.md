@@ -410,6 +410,7 @@
   - Build Your Own SMTP Server in Go https://valyent.substack.com/p/build-your-own-smtp-server-in-go
     - Пишем свой SMTP сервер на Go https://kovardin.ru/articles/go/smtp-server/
   - Как создать простой планировщик событий в Go https://vk.com/@nuancesprog-kak-sozdat-prostoi-planirovschik-sobytii-v-go
+  - Пишем сервис на Go для Kubernetes https://otus.ru/nest/post/1389/
 - Файловая система
   - Mastering Golang — Part 7: Read File https://blog.stackademic.com/mastering-golang-part-6-read-file-41a8292497e5
   - Создание временного файла и временной директории в Golang http://xztvc.ru/post/sozdanie-vremennogo-fajla-i-vremennoj-direktorii-v-golang
