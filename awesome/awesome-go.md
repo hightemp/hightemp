@@ -379,6 +379,7 @@
   - Go Tidbit: Handling Signals, Exiting Gracefully https://hjr265.me/blog/go-tidbit-handling-signals-exitting-gracefully/
   - Catching Multiple SIGINTs in Go - Confirming if You Really Want to Quit https://vlads.me/post/catching-multiple-sigints-in-go-confirming-if-you-really-want-to-quit/
   - SIGKILL vs SIGTERM: A Developer's Guide to Process Termination https://www.stackstate.com/blog/sigkill-vs-sigterm-a-developers-guide-to-process-termination/
+  - Implementing Graceful Shutdown in Go https://www.rudderstack.com/blog/implementing-graceful-shutdown-in-go/
 - Пример создания приложения или сервиса
   - Building Scalable Web Applications with React and Golang: Best Practices https://www.dhiwise.com/post/building-scalable-web-applications-with-react-and-golang
   - Create a Full-Stack App With Go and React https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/
