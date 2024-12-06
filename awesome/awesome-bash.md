@@ -17,3 +17,4 @@
         - Advanced Bash-Scripting Guide: Chapter 29. /dev and /proc https://tldp.org/LDP/abs/html/devref1.html
     - pure bash bible https://github.com/dylanaraps/pure-bash-bible
     - BASH Frequently Asked Questions https://mywiki.wooledge.org/BashFAQ
+    - Bash Reference Manual https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
