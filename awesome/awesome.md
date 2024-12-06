@@ -1,5 +1,6 @@
 ## Коллекции
 
+- https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - https://github.com/tayllan/awesome-algorithms
 - https://github.com/KenneyNL/Adobe-Alternatives
 - https://github.com/shahednasser/awesome-resources
