@@ -689,6 +689,7 @@
   - Secure File Transfer Made Easy: Connect to SFTP Servers with Golang https://dev.to/frasnym/secure-file-transfer-made-easy-connect-to-sftp-servers-with-golang-53a1
 - Redis
   - Rate limiting HTTP requests in Go using Redis https://mauricio.github.io/2021/12/30/rate-limiting-in-go.html
+  - Использование Redis в Go https://habr.com/ru/articles/860060/
 - Kafka
   - Connect Kafka with Golang https://dev.to/chauhoangminhnguyen/connect-kafka-with-golang-3h4d
 - WebAssembly
