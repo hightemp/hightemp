@@ -903,6 +903,7 @@
 - https://softwarepatternslexicon.com/patterns-go/
 - https://aristorinjuang.com/
 - https://blog.ralch.com/articles/
+- https://otus.ru/nest/go-art/
 
 ### Подкасты
 
