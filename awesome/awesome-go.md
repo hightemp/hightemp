@@ -310,6 +310,8 @@
     - Вопросы по мэпам (map) в Go https://habr.com/ru/articles/854214/
   - Waitgroup
     - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
+  - Тэги, Tags
+    - Struct Tags in Go: Implementing Custom Tag Functionality https://medium.com/@ullauri.byron/struct-tags-in-go-implementing-custom-tag-functionality-b32c3c87423d
   - JSON
     - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
   - Sync
