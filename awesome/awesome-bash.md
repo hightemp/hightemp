@@ -18,3 +18,4 @@
     - pure bash bible https://github.com/dylanaraps/pure-bash-bible
     - BASH Frequently Asked Questions https://mywiki.wooledge.org/BashFAQ
     - Bash Reference Manual https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
+    - BashGuide - Greg's Wiki https://mywiki.wooledge.org/BashGuide
