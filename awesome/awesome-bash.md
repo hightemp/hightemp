@@ -19,3 +19,4 @@
     - BASH Frequently Asked Questions https://mywiki.wooledge.org/BashFAQ
     - Bash Reference Manual https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
     - BashGuide - Greg's Wiki https://mywiki.wooledge.org/BashGuide
+    - Conquering the Command Line; Unix and Linux Commands for Developers; Mark Bates https://www.softcover.io/read/fc6c09de/unix_commands
