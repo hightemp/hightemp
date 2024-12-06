@@ -12,6 +12,7 @@
     - Some useful tips about /dev/tcp https://andreafortuna.org/2021/03/06/some-useful-tips-about-dev-tcp/
 - Гайды
     - Bash Guide for Beginners https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html
-    - Advanced Bash-Scripting Guide: Chapter 29. /dev and /proc https://tldp.org/LDP/abs/html/devref1.html
+    - https://tldp.org/LDP/abs/html/
+        - Advanced Bash-Scripting Guide: Chapter 29. /dev and /proc https://tldp.org/LDP/abs/html/devref1.html
     - pure bash bible https://github.com/dylanaraps/pure-bash-bible
     - BASH Frequently Asked Questions https://mywiki.wooledge.org/BashFAQ
