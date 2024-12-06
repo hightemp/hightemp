@@ -26,6 +26,10 @@
 - [Gogs](https://gogs.io/) — Git-сервис самообслуживания, который чрезвычайно легко настроить.
 - [Mercurial](https://www.mercurial-scm.org/) - Распределенная система контроля версий
 
+### Roadmap
+
+- https://github.com/milanm/DevOps-Roadmap
+
 ### Генераторы конфигов
 
 - nginx https://www.digitalocean.com/community/tools/nginx#?
