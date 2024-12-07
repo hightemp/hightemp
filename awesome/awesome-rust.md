@@ -145,6 +145,15 @@
 - https://blog.orhun.dev/
 - https://blog.sylver.dev/?source=top_nav_blog_home
 
+### YouTube каналы
+
+- **[Faster Than Lime](https://www.youtube.com/@fasterthanlime)**: Программирование на Rust с особым настроением, общие принципы работы компьютеров и иногда затрагивает экзистенциальные темы.
+- **[Let's Get Rusty](https://www.youtube.com/@letsgetrusty)**: Охватывает базовые и продвинутые уроки по языку Rust, а также веб-проекты на Rust.
+- **[No Boilerplate](https://www.youtube.com/@NoBoilerplate)**: Специализируется на быстрых технических видео.
+- **[Ryan Levick](https://www.youtube.com/@RyanLevicksVideos)**: Предлагает обучающие материалы и сессии программирования в прямом эфире с фокусом на Rust.
+- **[Jon Gjengset](https://www.youtube.com/@jonhoo)**: Представляет всесторонние и подробные объяснения программирования на Rust.
+- **[FireShip](https://www.youtube.com/@Fireship)**: Канал с обучающими материалами по программированию в целом.
+
 ### Видео
 
 - Next.js 14, Rust, Docker: Build a fullstack rest API in typeScript and Rust https://youtu.be/77RjzJtC_g4
