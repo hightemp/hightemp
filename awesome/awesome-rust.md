@@ -148,6 +148,459 @@
 - https://smallcultfollowing.com/babysteps/
 - https://raphlinus.github.io/
 - Devtalk - это находящаяся в бета-стадии платформа для разработчиков, которая предоставляет форумы и ресурсы по различным технологиям программирования, включая порталы по популярным языкам и фреймворкам, а также предлагает программу поощрения активных участников и эксклюзивные скидки на технические книги и курсы от партнеров https://devtalk.com/rust
+- The Mozilla Blog https://blog.mozilla.org/
+- Steve Klabnik https://words.steveklabnik.com/
+- Armin Ronacher's Thoughts and Writings http://lucumr.pocoo.org/
+- Jon Leighton https://jonleighton.name/
+- The If Works https://blog.jcoglan.com/
+- Baby Steps http://smallcultfollowing.com/babysteps/
+- Marc Brooker's Blog http://brooker.co.za/blog/
+- The {pnk}f(eli)x Blog http://blog.pnkfx.org/
+- Nicholas Nethercote https://blog.mozilla.org/nnethercote/
+- seanmonstar https://seanmonstar.com/
+- Chris Morgan’s blog https://chrismorgan.info/
+- zinc.rs http://zinc.rs/
+- This Week in Rust https://this-week-in-rust.org/
+- Servo Blog https://blog.servo.org/
+- Rust Blog https://blog.rust-lang.org/
+- coaxion.net – slomo's blog https://coaxion.net/blog/
+- Articles - brandur.org https://brandur.org/
+- Dirkjan Ochtman https://dirkjan.ochtman.nl/writing/
+- Dropbox Blog http://blogs.dropbox.com/
+- Herman J. Radtke III Blog http://hermanradtke.com/
+- Ruud van Asseldonk https://ruudvanasseldonk.com/writing/
+- Chris Krycho - tech http://v4.chriskrycho.com/
+- Madhukar's Blog http://blog.madhukaraphatak.com/
+- Random Hacks http://www.randomhacks.net/
+- Tristan Hume http://thume.ca/
+- Nikita Baksalyar http://nbaksalyar.github.io/
+- Blog - Stephanie Hurlburt http://stephaniehurlburt.com/blog/
+- Henri Sivonen’s pages https://hsivonen.fi/
+- Redox - Your Next(Gen) OS https://www.redox-os.org/
+- Pijul - A Distributed Version Control System http://pijul.org/
+- edunham http://edunham.net/
+- Are we web yet? http://arewewebyet.org/
+- Jimmy Cuadra http://www.jimmycuadra.com/posts/
+- Llogiq on stuff https://llogiq.github.io/
+- Matt Keeter http://mattkeeter.com/
+- In Pursuit of Laziness http://manishearth.github.io/
+- Jonathan Turner https://www.jonathanturner.org/
+- Suspect Semantics http://www.suspectsemantics.com/
+- Karol Kuczmarski's Blog http://xion.io/
+- Integer 32 http://www.integer32.com/
+- Code Thoughts https://jackmott.github.io///
+- anp.github.io https://blog.anp.lol/
+- Pascal's Scribbles https://deterministic.space/
+- Platymuus https://www.platymuus.com/
+- Nick Fitzgerald http://fitzgeraldnick.com/
+- non-O(n) musings https://jamey.thesharps.us/
+- Some(code) http://pramode.in/
+- Tessel Blog https://tesselproject.tumblr.com/
+- clap.rs https://blog.clap.rs/
+- James Munns https://jamesmunns.com/
+- Seth Codes Things https://sethcodesthings.blogspot.com/
+- Aimlessly Going Forward https://aimlesslygoingforward.com/blog/
+- Gokberk Yaltirakli https://www.gkbrk.com/
+- Musings https://hoverbear.org/
+- embed.rs http://embed.rs/
+- Comments on: ripgrep http://mjtsai.com/blog/2016/10/12/ripgrep/
+- Jon Gjengset https://thesquareplanet.com/
+- aaboagye's musings https://aaboagye.io/
+- Disconnected Systems http://disconnected.systems/
+- Piston http://blog.piston.rs/
+- Posts tagged ‘code’ https://lambda.xyz/
+- Chris Holcombe's blog https://cholcombe973.github.io/
+- chr4 https://chr4.org/
+- Kenny Kerr https://kennykerr.ca/
+- Cap'n Proto for Rust http://dwrensha.github.io/capnproto-rust/
+- Joe Wilm's Blog https://jwilm.io/blog/
+- Guillaume Endignoux https://gendignoux.com/blog/
+- Rust on Hacker News http://hnapp.com/?q=rust%20type%3Astory
+- Void() https://m-decoster.github.io/
+- Zimon Dai's Random Thoughts http://daiheitan.github.io/blog/
+- Code http://rust.fastmail.com.user.fm/index.xml
+- Whatever https://blog.jeffsmits.net/
+- Thiago Pontes http://blog.thiago.me/
+- the evolving ultrasaurus https://www.ultrasaurus.com/
+- Bryce Fisher-Fleig http://bryce.fisher-fleig.org/
+- Exploring Rust on Teensy https://branan.github.io/teensy/
+- The Rust Community Blog http://blog.community.rs/
+- Relm Blog http://relm.ml/
+- Embedded in Rust https://blog.japaric.io/
+- Blog on Jix' Site https://jix.one/
+- bs\_labs http://bslabs.net/
+- Federico's Blog https://people.gnome.org/~federico/blog/
+- blog :: [Thought] → [Article] https://perplexinglyemma.blogspot.com/
+- Blobs in Games https://simblob.blogspot.com/
+- Own your bits https://ownyourbits.com/
+- alexeyzabelin.com http://alexeyzabelin.com/
+- Il y a du thé renversé au bord de la table ! https://yoric.github.io/
+- Rust Herald https://herald.community.rs/
+- Writing an OS in Rust https://os.phil-opp.com/
+- Raph Levien’s blog [https://raphlinus.github.io/](https://raphlinus.github.io)
+- Home / unrelenting.technology https://unrelenting.technology/
+- Samrat Man Singh https://samrat.me/
+- Stainless https://stainless.io/
+- James Routley https://routley.io/
+- Seena Burns http://seenaburns.com/
+- Ivan Enderlin's thoughts https://mnt.io
+- Home on Kade Killary https://kadekillary.work/
+- So, you want to write an Operating System in Rust? https://sywtwaosir.wordpress.com/
+- Nical https://nical.github.io/
+- Russell Cohen https://rcoh.me/
+- Jan Walter https://www.janwalter.org/
+- Ricky Han blog http://rickyhan.com/
+- Blogs on Tokio https://tokio.rs
+- Aaron Turon http://aturon.github.io/
+- Collecting Rust http://marwes.github.io/
+- exyr.org https://exyr.org/
+- ENOSPC https://eno.space/blog
+- Some(udoprog) https://udoprog.github.io/
+- imag https://imag-pim.org/
+- Railway Electronics http://railwayelectronics.blogspot.com/
+- libpasta https://libpasta.github.io/
+- quiet misdreavus miniblog https://quietmisdreavus.net
+- Barely Functional https://mgattozzi.com/
+- Lobsters: Rust https://lobste.rs/
+- Thinkofname’s blog https://thinkof.name/
+- Ed's Home Page https://epage.github.io
+- Casper https://casualhacks.net/blog
+- rustnish https://klausi.github.io/rustnish/
+- blog.dbrgn.ch https://blog.dbrgn.ch/
+- mttyng https://mttyng.com
+- Paul Masurel https://fulmicoton.com/
+- Citybound Devblog http://cityboundsim.com/
+- masahiko-ofgp notebook https://masahiko-ofgp-notebook.blogspot.com
+- 'static Blog https://mtak-blog.github.io
+- Yet Another Embedded Software Developer http://ithinuel.me/
+- Davide Aversa http://www.davideaversa.it
+- Rust on Medium https://medium.com/tag/rust
+- Page Fault Blog https://pagefault.blog/
+- Electronic Ramblings https://hatsunearu.github.io/
+- A new version https://jneem.github.io/
+- Prevent Default https://sts10.github.io//
+- troubles.md http://troubles.md/
+- Steve Zeidner https://stevezeidner.com
+- Wolfgang Ziegler https://wolfgang-ziegler.com
+- polyfloyd's stuff https://polyfloyd.net/
+- Vincent Barrielle https://barrielle.xyz/
+- dmerej's blog https://dmerej.info/blog/
+- starlight https://damad.be/joost/
+- theomn https://theomn.com
+- jmmv.dev https://jmmv.dev/
+- Bobbin Blog https://www.bobbin.io
+- False Idol Factory https://falseidolfactory.com/
+- Infinite Negative Utility https://blog.infinitenegativeutility.com/
+- a̶͟g̵̡͝e͜͞ ̡́ò͝f ̴́.͏ ̶i̢̕n̶͏͠f̶̧o͢͢ https://ageof.info/
+- Ian Douglas Scott's Blog https://iandouglasscott.com/
+- Pronounced /ˈʃɪ.vəʊ.æ/ https://blog.shivoa.net/
+- Pyfisch’s Blog https://pyfisch.org/blog/
+- Sid Shanker’s Blog https://squidarth.com/
+- Danblog https://danielwelch.github.io/
+- Ivan Dubrov https://idubrov.github.io/
+- shifting bits https://bitshifter.github.io/
+- Andrew Gallant's Blog https://blog.burntsushi.net/
+- Eyes Above The Waves https://robert.ocallahan.org/
+- Garrett's Blog https://gsquire.github.io/static/
+- speice.io https://speice.io//
+- IQDevs https://iqdevs.github.io/
+- Blogs on x5ff https://blog.x5ff.xyz/blog/
+- Josh Mcguigan - The things I write https://www.joshmcguigan.com
+- Futures-RS https://rust-lang-nursery.github.io/futures-rs
+- Ralf's Ramblings: Rust https://www.ralfj.de/blog/categories/rust.html
+- Home https://mrandri19.github.io/
+- Non-Recurring Engineering http://timryan.org/
+- pcwalton https://pcwalton.github.io/
+- Artemis's blog. Development, security and more. https://blog.artemix.org/
+- Benjamin Congdon's Blog https://benjamincongdon.me/blog/
+- Existing by coincidence, programming deliberately https://philbooth.me/blog
+- /dev/random http://alex.amiran.it
+- When Penguins Can Fly… https://dorianpula.ca
+- gibix https://gibix.github.io/
+- Tinkering Down Under https://thomask.sdf.org
+- hur.st's bl.aagh https://hur.st
+- Rust Embedded Working Group https://rust-embedded.github.io/blog
+- Christine Dodrill's Blog https://christine.website/blog
+- Totoroot https://lukaskalbertodt.github.io/
+- stjepang.github.io https://stjepang.github.io/
+- anp.github.io https://blog.anp.lol/
+- Vorner’s random stuff https://vorner.github.io/
+- Esoterically Typed https://leshow.github.io/
+- Rust Network Services Working Group https://rust-lang-nursery.github.io/wg-net
+- You Learn Something New Everyday 💭 https://blog.ryanlevick.com/
+- Sequoia-PGP https://sequoia-pgp.org/
+- The Cattle Grid https://www.cattlegrid.info/
+- Frank Rehberger https://frehberg.wordpress.com
+- balrogboogie https://write.as/balrogboogie/
+- Lars Wirzenius' blog http://blog.liw.fi/
+- Michael Snoyman's blog https://www.snoyman.com/
+- joshlf.com https://joshlf.com/
+- Robo Instructus devblog https://blog.roboinstruct.us/
+- Ferrous Systems Blog https://ferrous-systems.com/blog
+- Insignificant Truths https://boakye.yiadom.org/
+- varkor’s blog https://varkor.github.io/blog
+- Unsolicited Discourse https://myrrlyn.net/blog
+- Gfx-rs nuts and bolts https://gfx-rs.github.io
+- Progressive Differentials http://blog.ajkavanagh.me
+- Adelblog https://adelbertc.github.io
+- linuxwit.ch https://linuxwit.ch
+- Myelin Blog https://blog.myelin.ch
+- Dawid Ciężarkiewicz aka `dpc` https://dpc.pw/
+- John Millikin https://john-millikin.com/
+- venshare http://venshare.com/
+- Yoshua Wuyts https://blog.yoshuawuyts.com/
+- fun memory violations https://spacekookie.de
+- olivia ifrim - personal website and technology blog http://iolivia.me
+- Cloud Atomic Laboratory https://www.cloudatomiclab.com
+- Estada.ch https://estada.ch/
+- 3plic8 https://3plic8.com/
+- Blog – Jason Williams https://jason-williams.co.uk/
+- Rust – Rushtonality https://rushtonality.com
+- Wayfire http://wayfire.org
+- Blogs on 🕉 JAMADAZISTAN https://i.pristi.ga/blog
+- Stories by Sergey 'Shnatsel' Davidoff on Medium https://medium.com/@Shnatsel
+- Nate Lincoln's Blog https://natelincoln.com
+- Jonathan Steyfkens https://jonathansteyfkens.com/
+- Veloren https://veloren.net
+- Josh Robson Chase https://josh.robsonchase.com
+- Home on Nora Codes https://nora.codes/
+- ForrestTheWoods https://www.forrestthewoods.com
+- randomPoison https://randompoison.github.io/
+- demain·il·pleut https://www.demainilpleut.fr
+- Steven Le Rouzic http://stevenlr.com
+- reisub0 https://reisub0.gitlab.io/
+- @kbknapp's Blog https://kbknapp.dev
+- (mcorbin.fr)  https://mcorbin.fr/
+- Rust Malaysia https://rust-malaysia.github.io/
+- Wired Forge https://wiredforge.com
+- Luke Jones - Software Engineer https://ljcode.org/
+- Ehsan's Blog https://ehsanmkermani.com/
+- chilimatic https://chilimatic.hashnode.dev
+- Sean Griffin https://blog.seantheprogrammer.com
+- Seb Nilsson https://sebnilsson.hashnode.dev/
+- rs-pbrt https://www.rs-pbrt.org
+- Hagsteel https://hagsteel.com/
+- A-programmer's-cave https://giordi91.github.io/
+- Blindly Coding http://camlorn.net/
+- Mildly entertaining https://beepb00p.xyz
+- Firstyear's blog-a-log https://fy.blackhats.net.au
+- Kyle M. Douglass http://kmdouglass.github.io/
+- Jürgen Stuber https://www.jstuber.net/
+- Bodil dot lol https://bodil.lol
+- Afternoon Rusting http://oribenshir.github.io
+- Kibeom Kim https://kkimdev.github.io/
+- zupzup https://zupzup.org/
+- Dave's Ramblings https://blog.daveallie.com/
+- create. code. learn. http://blakesmith.me
+- (No title) http://nedellis.com/
+- Andrzej Pragacz Blog https://andrzej.pragacz.pl
+- The blog of Mr Wade https://www.mrwade.co.uk
+- Stephen Coakley https://stephencoakley.com
+- amos.me https://amos.me
+- concise coder https://concisecoder.io/
+- Antoyo's Blog http://antoyo.ml/
+- blog frehberg https://frehberg.com
+- matklad https://matklad.github.io/
+- Interrupt https://interrupt.memfault.com
+- Will https://azriel.im/will
+- Nathan Goldbaum https://ngoldbaum.github.io
+- kvark's dev blog http://kvark.github.io
+- Cliffle http://cliffle.com
+- Harry Gill https://gill.net.in
+- Jonathan Klimt https://jonathanklimt.de/
+- Pietro Albini’s blog https://www.pietroalbini.org
+- Thomas Eizinger https://www.kerkour.fr/
+- Sylvain Kerkour https://blog.eizinger.io
+- Caolan McMahon https://caolan.org
+- meli MUA <https://meli.delivery>
+- LogRocket Blog https://blog.logrocket.com
+- IExtendable http://iextendable.com
+- Hot For Knowledge http://hotforknowledge.com/
+- Paul Meng's Blog https://blog.paulme.ng
+- Microsoft Security Response Center https://msrc-blog.microsoft.com/
+- Learning Rust https://rust.graystorm.com
+- No More Than Ten Minutes https://inejge.github.io/blog
+- svartalf https://svartalf.info
+- Paul's blog https://pauljmiller.com
+- dnlserrano https://dnlserrano.dev
+- marisa's "blog" https://write.as/mokou/
+- Rust Game Development Working Group https://rust-gamedev.github.io/
+- Tyler Mandry https://tmandry.gitlab.io/blog
+- sergey@[~/blog :master] $ ls https://sergey-melnychuk.github.io
+- turbo\_MaCk - All posts http://turbomack.github.iuo
+- Tinkering https://tinkering.xyz
+- Rob Donnelly https://rfdonnelly.github.io
+- justanotherdot https://www.justanotherdot.com
+- FP Complete's techology blog https://tech.fpcomplete.com/
+- Posts on Avery Wagar https://averywagar.com/posts/
+- New to Me Things https://yaah.dev
+- Ivan's Weblog https://iximiuz.com
+- Inside Rust Blog https://blog.rust-lang.org/inside-rust/
+- Depth-First https://depth-first.com
+- Scott Mabin https://mabez.dev
+- The Adventures of OS http://osblog.stephenmarz.com
+- James Waples' Internet Hole https://wapl.es/
+- Bryce Fisher-Fleig http://bryce.fisher-fleig.org/
+- rust-analyzer https://rust-analyzer.github.io
+- thomashartmann.dev https://thomashartmann.dev
+- Michael-F-Bryan http://adventures.michaelfbryan.com
+- dsp's blog http://experimentalworks.net
+- The Full Snack Blog https://thefullsnack.com
+- Some poor dev on a bicycle https://www.poor.dev/
+- Tim McNamara https://tim.mcnamara.nz
+- Posts on hwc::blog https://blog.hwc.io/posts/
+- localhost https://apiraino.github.io/
+- Michael's Personal Website https://mmstick.keybase.pub/
+- Posts on repnop's Blog https://repnop.dev/posts/
+- The Mun programming language RSS Feed https://mun-lang.org/
+- Geob-o-matic https://haurchefant.fr
+- (No title) https://samsartor.com
+- Tom's corner of the internet https://tomforb.es
+- Posts on Sam Sieber https://samsieber.tech
+- maxdeviant.com https://maxdeviant.com/
+- Eldruin's blog https://blog.eldruin.com
+- Bytecode Alliance https://bytecodealliance.org/
+- Nu Blog http://www.nushell.sh
+- Blog Posts on Immunant, Inc https://immunant.com/blog
+- Hoang Phan https://hoangpq.github.io/
+- Blaine Price https://blaineprice.me/
+- S2E Software Systems and Control http://s2e-systems.github.io/
+- Redis Labs Engineering Blog https://engineering.redislabs.com
+- DEV Community https://dev.to
+- Digital-Scurf Ramblings http://blog.digital-scurf.org/
+- The Sharp End https://sharpend.io/
+- Blogs on Phil's Blog https://www.philipdaniels.com/blog
+- Another dev's two cents http://blog.nishtahir.com/
+- Rustlang on Medium https://medium.com
+- Gabbleblotchits https://blog.luizirber.org/
+- Code Slow https://www.codeslow.com/
+- Vincent Prouillet: Developer & Entrepreneur https://www.vincentprouillet.com 
+- swc Blog https://swc-project.github.io/blog
+- Rust Game Development Working Group https://rust-gamedev.github.io/
+- Technology blog https://www.jakobmeier.ch/
+- Alex's thinking box https://kooparse.com
+- Gatsby RSS Feed https://cprimozic.net
+- leod's blog http://leod.github.io/
+- Relm Blog https://relm.antoyo.xyz/
+- Will Duquette https://wduquette.github.io/
+- Paul Dicker http://pitdicker.github.io/
+- Bennett Hardwick's Blog https://bennetthardwick.com
+- A blog about Rust and whatever else https://blog.krruzic.xyz
+- phaazon.net blog https://phaazon.net/blog
+- Levi's blog http://blog.levinotik.com
+- Devblog of Djugei https://djugei.github.io
+- Blog on Lucio Franco https://luciofran.co/blog/
+- void * blog http://gravitext.com/
+- Tobias Watzek https://toswak.net/
+- Ken Suenobu's Blog https://kensuenobu.github.io/
+- Dan Aloni's blog https://blog.aloni.org
+- Cetra's Thoughts https://cetra3.github.io
+- Ilia Schelokov https://thaumant.me/
+- Hackeriet http://blog.hackeriet.no/
+- Bastion-rs blog https://blog.bastion.rs/
+- Posts on DwarfHack https://dwarfhack.com/posts/
+- Tyler Hallada - Blog https://www.hallada.net/blog
+- Bilal Elmoussaoui https://belmoussaoui.com
+- blog.image-rs.org https://blog.image-rs.org/
+- Posts on Scratch Pad https://idursun.com/posts/
+- Antonin Carette http://
+- Fernando Mendez https://www.fmendez.com/
+- Materialize https://materialize.io
+- Gal Schlezinger https://gal.hagever.com
+- Coded by Kaleb https://coded.io/
+- Words http://crisal.io/words/
+- turbofish https://blog.wnut.pw
+- yager.io :: Will Yager https://yager.io
+- Articles by thoughtram https://blog.thoughtram.io
+- rolisz's site https://rolisz.ro/
+- Debiania https://blog.debiania.in.ua
+- Minimal Rust https://minimalrust.com
+- Avishay's Blog https://avishay.dev/
+- Turbo Fish Blog https://blog.turbo.fish
+- Notes to self http://
+- X Blog https://xaeroxe.github.io/
+- Dev Blog Dev Blog http://blog.spencerkohan.com/
+- nerdypepper's μblog https://peppe.rs
+- RYMC https://rymc.io
+- Blog RSS Feed https://abramov.io
+- List of posts on K155LA3 https://k155la3.blog/posts/
+- R2 https://r2.rs
+- Ellie Huxtable https://elliehuxtable.com/
+- A Pragmatic Place https://timidger.github.io/
+- Mara's Blog https://blog.m-ou.se/
+- The rustsim organization Blog https://rustsim.org/blog
+- Eyal Kalderon https://www.eyalkalderon.com
+- Posts on Void erroR https://www.voiderror.net/posts/
+- Jakub Pastuszek https://jpastuszek.net
+- Rust OSDev https://rust-osdev.com
+- Software, technology and experementation https://citizen-stig.github.io/
+- wolfshirtz http://
+- growse.com Pointless musings https://www.growse.com/
+- blue42 https://blue42.net/
+- Nick Wilcox's Coding Blog https://www.nickwilcox.com/
+- Andrea Venuta https://veeenu.github.io
+- I'm Ruben. Welcome to my thoughts. https://www.rubdos.be/
+- Casey Rodarmor's Blog https://rodarmor.com/blog/
+- Grid Bugs https://gridbugs.org/
+- jam1garner https://jam1.re
+- ENOSUCHBLOG https://blog.yossarian.net
+- Ruma https://www.ruma.io
+- Full Stack Milk https://fullstackmilk.dev
+- Tim's Blog on Tim's Blog http://blog.frqc.info/
+- Blog on Löwenware https://lowenware.com/blog/
+- Without boats, dreams dry up https://without.boats/
+- Posts on the halcyon blog https://www.halcyon.hr/posts/
+- Zero to Game https://www.zerotoga.me/
+- Kirill Dubovikov http://
+- Steve Klabnik https://steveklabnik.com/
+- Sachan Ganesh https://sachanganesh.com/
+- Günther Wagner https://www.gunibert.de/
+- Paytonrules Ramblings https://paytonrules.com/
+- gweej https://iamgweej.github.io//
+- ["ielliott.io"] http://blog.ielliott.io/
+- Whisper of the Heartman https://blog.thomasheartman.com
+- not-matthias https://not-matthias.github.io/
+- brokenco.de https://brokenco.de/
+- Hassam Uddin https://hassamuddin.com/
+- micouy's bl0g https://micouy.github.io/
+- Aston's Programming Thoughts https://astonbitecode.github.io/blog/
+- Possible Rust https://www.possiblerust.com/
+- Dystroy https://dystroy.org/blog
+- Filippos Vasilakis blog https://vasilakisfil.social/blog
+- Carlos Galdino https://blog.carlosgaldino.com/
+- Memetic Musings https://amitdev.github.io/
+- Sean Chen's Blog https://seanchen1991.github.io/
+- タリ https://www.taricorp.net/feed.xml
+- Shesh's blog http://www.sheshbabu.com/
+- Headcrab http://headcrab.rs
+- blog.ael.red https://blog.ael.red/
+- Ben Konz http://benkonz.github.io//
+- Posts on Darrien's Blog http://posts/
+- aclysma's blog https://blog.aclysma.com/
+- Andres Vahter https://andres.svbtle.com
+- Erik Simmler https://esimmler.com
+- Lost in IRC https://dygalo.dev
+- Posts on Killavus Blog https://killavus.github.io/posts/
+- Extremely random blog posts from Onat https://onatm.dev/
+- Filip Bielejec https://fbielejec.github.io/
+- Freyskeyd http://
+- The Lego Mirror https://blog.legoktm.com/
+- William Saar's dev blog https://saarw.github.io/
+- Nick Gerace Hacks Away https://nickgerace.dev/
+- Alexandru Ene blog https://alexene.dev/
+- CodeCrash https://codecrash.me
+- Abubalay https://www.abubalay.com/
+- eCorax https://www.ecorax.net
+- Mahmoud Ashraf personal blog https://mahmoudashraf.dev/rss.xml
+- Alice Ryhl https://ryhl.io
+- Austin Tindle's Blog https://tndl.me  
+- Kobzol's blog http://
+- Javed Nissar https://javednissar.ca/
+- Piotr Kołaczkowski https://pkolaczk.github.io/
+- Statistically Insignificant http://jamesmcm.github.io/
+- Darrien's Blog http://
+- House Absolute(ly) Pointless https://blog.urth.org
+- cmyr.net https://www.cmyr.net/
 
 ### YouTube каналы
 
