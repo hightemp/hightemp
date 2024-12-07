@@ -581,7 +581,7 @@
 - Posts on Killavus Blog https://killavus.github.io/posts/
 - Extremely random blog posts from Onat https://onatm.dev/
 - Filip Bielejec https://fbielejec.github.io/
-- Freyskeyd http://
+- Freyskeyd https://freyskeyd.fr
 - The Lego Mirror https://blog.legoktm.com/
 - William Saar's dev blog https://saarw.github.io/
 - Nick Gerace Hacks Away https://nickgerace.dev/
