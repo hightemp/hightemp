@@ -143,8 +143,6 @@
     - https://v0.dev/
     - https://replit.com/
     - https://bolt.new
-    - https://tilda.cc/ru/
-
 
 ### Работа с документами
 
