@@ -534,7 +534,7 @@
 - Jakub Pastuszek https://jpastuszek.net
 - Rust OSDev https://rust-osdev.com
 - Software, technology and experementation https://citizen-stig.github.io/
-- wolfshirtz http://
+- wolfshirtz https://rayoflightz.github.io
 - growse.com Pointless musings https://www.growse.com/
 - blue42 https://blue42.net/
 - Nick Wilcox's Coding Blog https://www.nickwilcox.com/
@@ -551,7 +551,7 @@
 - Without boats, dreams dry up https://without.boats/
 - Posts on the halcyon blog https://www.halcyon.hr/posts/
 - Zero to Game https://www.zerotoga.me/
-- Kirill Dubovikov http://
+- Kirill Dubovikov https://blog.kdubovikov.ml
 - Steve Klabnik https://steveklabnik.com/
 - Sachan Ganesh https://sachanganesh.com/
 - Günther Wagner https://www.gunibert.de/
@@ -575,7 +575,7 @@
 - Headcrab http://headcrab.rs
 - blog.ael.red https://blog.ael.red/
 - Ben Konz http://benkonz.github.io//
-- Posts on Darrien's Blog http://posts/
+- Posts on Darrien's Blog https://blog.darrien.dev/posts
 - aclysma's blog https://blog.aclysma.com/
 - Andres Vahter https://andres.svbtle.com
 - Erik Simmler https://esimmler.com
