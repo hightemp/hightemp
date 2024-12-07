@@ -592,11 +592,11 @@
 - Mahmoud Ashraf personal blog https://mahmoudashraf.dev/rss.xml
 - Alice Ryhl https://ryhl.io
 - Austin Tindle's Blog https://tndl.me  
-- Kobzol's blog http://
+- Kobzol's blog https://kobzol.github.io
 - Javed Nissar https://javednissar.ca/
 - Piotr Kołaczkowski https://pkolaczk.github.io/
 - Statistically Insignificant http://jamesmcm.github.io/
-- Darrien's Blog http://
+- Darrien's Blog https://blog.darrien.dev
 - House Absolute(ly) Pointless https://blog.urth.org
 - cmyr.net https://www.cmyr.net/
 
