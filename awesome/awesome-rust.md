@@ -52,6 +52,7 @@
 
 - https://rust-trends.com/
 - https://brson.github.io/rust-anthology/1/index.html
+- https://readrust.net/
 
 ### Библиотеки
 
