@@ -224,6 +224,7 @@
 
 - https://proxyapi.ru/
 - https://vsegpt.ru/
+- https://openrouter.ai/
 
 ### Приложения
 
