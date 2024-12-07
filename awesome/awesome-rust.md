@@ -148,7 +148,6 @@
 - https://smallcultfollowing.com/babysteps/
 - https://raphlinus.github.io/
 - Devtalk - это находящаяся в бета-стадии платформа для разработчиков, которая предоставляет форумы и ресурсы по различным технологиям программирования, включая порталы по популярным языкам и фреймворкам, а также предлагает программу поощрения активных участников и эксклюзивные скидки на технические книги и курсы от партнеров https://devtalk.com/rust
-- The Mozilla Blog https://blog.mozilla.org/
 - Steve Klabnik https://words.steveklabnik.com/
 - Armin Ronacher's Thoughts and Writings http://lucumr.pocoo.org/
 - Jon Leighton https://jonleighton.name/
@@ -466,7 +465,6 @@
 - Blaine Price https://blaineprice.me/
 - S2E Software Systems and Control http://s2e-systems.github.io/
 - Redis Labs Engineering Blog https://engineering.redislabs.com
-- DEV Community https://dev.to
 - Digital-Scurf Ramblings http://blog.digital-scurf.org/
 - The Sharp End https://sharpend.io/
 - Blogs on Phil's Blog https://www.philipdaniels.com/blog
@@ -503,7 +501,7 @@
 - Bilal Elmoussaoui https://belmoussaoui.com
 - blog.image-rs.org https://blog.image-rs.org/
 - Posts on Scratch Pad https://idursun.com/posts/
-- Antonin Carette http://
+- Antonin Carette https://carette.xyz
 - Fernando Mendez https://www.fmendez.com/
 - Materialize https://materialize.io
 - Gal Schlezinger https://gal.hagever.com
@@ -517,7 +515,7 @@
 - Minimal Rust https://minimalrust.com
 - Avishay's Blog https://avishay.dev/
 - Turbo Fish Blog https://blog.turbo.fish
-- Notes to self http://
+- Notes to self https://treit.github.io
 - X Blog https://xaeroxe.github.io/
 - Dev Blog Dev Blog http://blog.spencerkohan.com/
 - nerdypepper's μblog https://peppe.rs
