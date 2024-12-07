@@ -199,6 +199,7 @@
   - Build your own SQLite, Part 1: Listing tables https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables
   - Build your own SQLite, Part 2: Scanning large tables https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables
 - Остальное
+  - Why Rust? https://rerun.io/blog/why-rust
   - Небезопасный Rust сложнее C https://habr.com/ru/companies/ruvds/articles/858246/
   - How to Learn Rust in 2024: A Complete Beginner’s Guide to Mastering Rust Programming https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/
   - How a few bytes completely broke my production app https://davide-ceschia.medium.com/how-a-few-bytes-completely-broke-my-production-app-8e8a038ee99d
