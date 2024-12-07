@@ -1,4 +1,3 @@
-
 ### Коллекции
 
 - https://dev.to/t/rust
@@ -19,6 +18,7 @@
 - https://github.com/brson/rust-anthology/blob/master/master-list.md
 - https://github.com/rust-embedded/awesome-embedded-rust
 - https://github.com/ImplFerris/LearnRust
+- https://readrust.net/rust-blogs.opml
 
 ### Песочницы
 
