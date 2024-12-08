@@ -469,6 +469,7 @@
 - Подборки
     - 50+ полезных ML и AI-сервисов для вебмастеров https://hostpro.ua/blog/50-useful-ai-services-for-webmasters/
 - Остальное
+    - Alibaba Marco-o1 : Open-source alternative for OpenAI-o1 https://medium.com/data-science-in-your-pocket/alibaba-marco-o1-open-source-alternative-for-openai-o1-31d77a0b095c
     - Tokenization in large language models, explained https://seantrott.substack.com/p/tokenization-in-large-language-models
     - Large language models, explained with a minimum of math and jargon https://seantrott.substack.com/p/large-language-models-explained
     - Advanced Prompt Engineering Techniques https://www.mercity.ai/blog-post/advanced-prompt-engineering-techniques
