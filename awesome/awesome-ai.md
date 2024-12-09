@@ -30,6 +30,7 @@
 - https://huggingface.co/datasets/Open-Orca/OpenOrca
 - https://github.com/glgh/awesome-llm-human-preference-datasets?tab=readme-ov-file
 - https://github.com/jianzhnie/awesome-instruction-datasets
+- Проект предоставляет бесплатный доступ к данным веб-краулинга через Amazon Web Services, позволяя пользователям обрабатывать или скачивать информацию как через облачные сервисы AWS, так и через HTTP(S) протокол. https://commoncrawl.org/get-started
 
 ### Трекеры новостей
 
