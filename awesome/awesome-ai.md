@@ -23,6 +23,7 @@
 - https://github.com/alternbits/awesome-ai-newsletters
 - https://github.com/ai-update/ai-news
 - https://github.com/ozancanozdemir/AI-Tools-for-Research?tab=readme-ov-file
+- https://github.com/Not-Diamond/awesome-ai-model-routing
 
 ### Данные для обучения
 
