@@ -414,6 +414,8 @@
     - Пишем свой SMTP сервер на Go https://kovardin.ru/articles/go/smtp-server/
   - Как создать простой планировщик событий в Go https://vk.com/@nuancesprog-kak-sozdat-prostoi-planirovschik-sobytii-v-go
   - Пишем сервис на Go для Kubernetes https://otus.ru/nest/post/1389/
+- Шаблонные движки
+  - Templ vs Gomponents https://nuage.quimerch.com/-/ewen/articles/templ-vs-gomponents
 - Файловая система
   - Mastering Golang — Part 7: Read File https://blog.stackademic.com/mastering-golang-part-6-read-file-41a8292497e5
   - Создание временного файла и временной директории в Golang http://xztvc.ru/post/sozdanie-vremennogo-fajla-i-vremennoj-direktorii-v-golang
