@@ -469,6 +469,7 @@
         - Can large language models help augment English psycholinguistic datasets? https://link.springer.com/article/10.3758/s13428-024-02337-z
 - Подборки
     - 50+ полезных ML и AI-сервисов для вебмастеров https://hostpro.ua/blog/50-useful-ai-services-for-webmasters/
+    - 10+ Open-source AI Agents: Based on GitHub Stars https://research.aimultiple.com/open-source-ai-agents/
 - Остальное
     - Alibaba Marco-o1 : Open-source alternative for OpenAI-o1 https://medium.com/data-science-in-your-pocket/alibaba-marco-o1-open-source-alternative-for-openai-o1-31d77a0b095c
     - Tokenization in large language models, explained https://seantrott.substack.com/p/tokenization-in-large-language-models
