@@ -188,6 +188,7 @@
 - CI/CD
   - PHP and Continuous Integration with Travis CI https://www.sitepoint.com/php-continuous-integration-travis-ci/
 - Остальное
+  - How to Speed Up Bulk Email Sending in PHP with Queues, Workers, and Cron Jobs https://medium.com/@aysunitai/how-to-speed-up-bulk-email-sending-in-php-with-queues-workers-and-cron-jobs-b5be2ac9a12f
   - Создание TodoList с помощью PHP и Lithe Framework: полное руководство https://dev.to/lithephp/creating-a-todolist-with-php-and-the-lithe-framework-a-complete-guide-28ho
   - To double quote or not, that's the question! https://dev.to/realflowcontrol/too-double-quote-or-not-thats-the-question-78l
   - How we use hyperfine to measure PHP Engine performance https://tideways.com/profiler/blog/how-we-use-hyperfine-to-measure-php-engine-performance
