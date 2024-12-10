@@ -434,6 +434,7 @@
     - https://github.com/Mu-L/llm-gateway
     - https://github.com/rxliuli/openai-api-proxy
     - https://github.com/johannestang/llamaxing/
+    - https://github.com/dzhng/llm-api
 
 ### Курсы
 
