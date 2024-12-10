@@ -151,7 +151,8 @@
 
 ### Примеры приложений
 
-- Clean Architecture in a PHP application https://github.com/gushakov/clean-php
+- Clean architecture
+  - Clean Architecture in a PHP application https://github.com/gushakov/clean-php  
 - DDD
   - https://github.com/CodelyTV/php-ddd-example
   - https://github.com/jorge07/ddd-playground
