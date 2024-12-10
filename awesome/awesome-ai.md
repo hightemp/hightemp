@@ -431,6 +431,7 @@
 - API Proxy 
     - https://berriai.github.io/litellm/
     - https://github.com/wealthsimple/llm-gateway
+    - https://github.com/Mu-L/llm-gateway
 
 ### Курсы
 
