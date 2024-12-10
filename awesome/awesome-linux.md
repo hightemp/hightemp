@@ -59,6 +59,7 @@
     - How To Configure ZRAM On Ubuntu Linux https://thedroidguy.com/how-to-configure-zram-on-ubuntu-linux-1263231
     - Enabling RAM Compression on Lubuntu https://discourse.lubuntu.me/t/enabling-ram-compression-on-lubuntu/3323
     - How to Use ZRAM on Ubuntu 24.04 https://kienngd.github.io/how-to-use-zram-on-ubuntu-2404/
+    - Enable Zram On Linux For Better System Performance https://fosspost.org/enable-zram-on-linux-better-system-performance
 - File Descriptors, Файловые дескрипторы
     - File Descriptors https://bottomupcs.com/ch01s03.html
 - sockets
