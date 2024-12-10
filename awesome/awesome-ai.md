@@ -430,6 +430,7 @@
     - the LLM vulnerability scanner https://github.com/NVIDIA/garak
 - API Proxy 
     - https://berriai.github.io/litellm/
+    - https://github.com/wealthsimple/llm-gateway
 
 ### Курсы
 
