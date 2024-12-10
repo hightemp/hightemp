@@ -117,6 +117,7 @@
 
 - https://kevinsmith.io/
 - https://medium.com/tag/php
+- https://dev.to/t/php
 - https://matthiasnoback.nl/archives/
 - https://dunglas.dev/
 - https://tsh.io/search/php/
