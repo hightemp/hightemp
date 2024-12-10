@@ -36,6 +36,8 @@
     - Dockerizing a Laravel application https://computersciencesimplified.substack.com/p/dockerizing-a-laravel-application?utm_source=%2Fsearch%2Fphp&utm_medium=reader2
 - Collections, Коллекции
     - Getting to Grips with Laravel Collections https://toxigon.com/understanding-laravel-collections
+- Redis
+    - Best Redis Caching Strategy in Laravel: A Guide to Fast and Efficient Caching https://dev.to/devmahfuz/best-redis-caching-strategy-in-laravel-a-guide-to-fast-and-efficient-caching-29e1?utm_source=weeklyphp&utm_medium=email
 - Остальное
     - Building a Real-Time Currency Price Display with Laravel and SSE https://medium.com/@moaminsharifi/building-a-real-time-currency-price-display-with-laravel-and-sse-4bec46ba45b2
 - Мониторинг, Метрики
