@@ -1,7 +1,5 @@
 # TODO
 
-[![](https://asdertasd.site/counter/TODO.md?a=1)](https://asdertasd.site/counter/TODO.md)
-
 - [ ] webapp, приложение для сохранения страниц из интернета с преобразованием в markdown или простой набор тэгов
 - [ ] webapp, менеджер списка проектов
       база синронизируется с выьраными папками хранилищ проектов
@@ -27,5 +25,19 @@
 
 ### Посмотреть
 
+- [ ] глянуть https://github.com/open-webui/open-webui
 - [ ] глянуть https://github.com/DioxusLabs/dioxus https://github.com/iced-rs/iced https://github.com/lapce/floem
 
+
+
+
+
+
+
+
+
+
+
+
+
+[![](https://asdertasd.site/counter/TODO.md?a=1)](https://asdertasd.site/counter/TODO.md)
