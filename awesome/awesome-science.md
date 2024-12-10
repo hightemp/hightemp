@@ -10,6 +10,9 @@
     - https://www.semanticscholar.org/
     - https://app.dimensions.ai/
 
+### Издания
+
+- Multidisciplinary Digital Publishing Institute; MDPI - это крупная академическая издательская платформа; https://www.mdpi.com/
 
 ### Полезные ссылки
 
