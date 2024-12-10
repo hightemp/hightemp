@@ -181,6 +181,7 @@
 - CI/CD
   - PHP and Continuous Integration with Travis CI https://www.sitepoint.com/php-continuous-integration-travis-ci/
 - Остальное
+  - Создание TodoList с помощью PHP и Lithe Framework: полное руководство https://dev.to/lithephp/creating-a-todolist-with-php-and-the-lithe-framework-a-complete-guide-28ho
   - To double quote or not, that's the question! https://dev.to/realflowcontrol/too-double-quote-or-not-thats-the-question-78l
   - How we use hyperfine to measure PHP Engine performance https://tideways.com/profiler/blog/how-we-use-hyperfine-to-measure-php-engine-performance
   - PHP Object Lazy-Loading is More Than What You Think https://jolicode.com/blog/php-object-lazy-loading-is-more-than-what-you-think
