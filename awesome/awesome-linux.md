@@ -58,6 +58,7 @@
     - Benad's Web Site; RAM Compression on Linux https://benad.me/blog/2021/02/23/ram-compression-on-linux/
     - How To Configure ZRAM On Ubuntu Linux https://thedroidguy.com/how-to-configure-zram-on-ubuntu-linux-1263231
     - Enabling RAM Compression on Lubuntu https://discourse.lubuntu.me/t/enabling-ram-compression-on-lubuntu/3323
+    - How to Use ZRAM on Ubuntu 24.04 https://kienngd.github.io/how-to-use-zram-on-ubuntu-2404/
 - File Descriptors, Файловые дескрипторы
     - File Descriptors https://bottomupcs.com/ch01s03.html
 - sockets
