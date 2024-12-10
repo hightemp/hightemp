@@ -33,15 +33,12 @@
 - https://www.redhat.com/en/blog
 - https://www.brendangregg.com/blog/
 - https://linuxtldr.com/
+- https://www.linux-magazine.com
 
 ### Пакетные менеджеры
 
 - https://nix.dev/install-nix#install-nix
 - https://docs.brew.sh/Homebrew-on-Linux
-
-### Издания
-
-- https://www.linux-magazine.com
 
 ### StackOverflow
 
