@@ -8,6 +8,26 @@
 - https://github.com/uhub/awesome-php
 - https://github.com/ziadoz/awesome-php
 
+### Сообщество
+
+- [@official_php](https://twitter.com/official_php)
+- [r/PHP](https://www.reddit.com/r/PHP/)
+- [r/PHPhelp](https://www.reddit.com/r/PHPhelp/)
+- [PHP on dev.to](https://dev.to/t/php)
+- [Hashnode/php](https://hashnode.com/n/php)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/php)
+- [PHP weekly newsletter](http://www.phpweekly.com/)
+- [Freek.dev newsletter](https://freek.dev/newsletter)
+- [Stitcher Mail](https://stitcher.io/signup)
+- [Awesome PHP Newsletter](https://php.libhunt.com/newsletter)
+- [JetBrains - PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
+- [PHP’s internals](https://externals.io/)
+- [PHP-Digest by Roman Pronsky](https://habr.com/ru/users/pronskiy/posts/) (russian)
+- [List of PHP blogs](https://github.com/simon-schubert/devpunk)
+- [PHP Conferences around the world](https://www.php.net/conferences/index.php)
+- [PHP chatroom on StackOverflow](https://chat.stackoverflow.com/rooms/11/php)
+- [When is the Next PHP Meetup?](https://friendsofphp.org/)
+
 ### Материалы для подготовки
 
 - https://backendinterview.ru/
@@ -65,6 +85,11 @@
   - PHP library for the Stripe API. https://github.com/stripe/stripe-php
   - Cycle ORM - это мощный и гибкий PHP ORM и движок моделирования данных, разработанный для безопасной работы в классических и демонизированных PHP-приложениях, предоставляющий множество возможностей, таких как связи между объектами, стратегии выборки, миграции схемы и совместимость с различными базами данных. https://github.com/cycle/orm
   - wiremock-php - это библиотека на PHP, которая позволяет создавать заглушки и имитировать веб-сервисы, используя функциональность WireMock. https://github.com/rowanhill/wiremock-php
+
+### Журналы
+
+- https://www.phparch.com/magazine/
+- https://entwickler.de/magazine-ebooks/php-magazin/
 
 ### Фреймворки
 
