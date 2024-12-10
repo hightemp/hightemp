@@ -32,6 +32,9 @@
 
 ### Статьи
 
+- Основы
+    - defer
+        - The magic behind Laravel's new defer() helper https://www.amitmerchant.com/the-magic-behind-laravels-new-defer-helper/?utm_source=weeklyphp&utm_medium=email
 - Docker
     - Dockerizing a Laravel application https://computersciencesimplified.substack.com/p/dockerizing-a-laravel-application?utm_source=%2Fsearch%2Fphp&utm_medium=reader2
 - Collections, Коллекции
