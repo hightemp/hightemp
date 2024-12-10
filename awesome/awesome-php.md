@@ -169,6 +169,8 @@
     - Getting Symfony app ready for Swoole, RoadRunner, and FrankenPHP (no AI involved) https://dev.to/sergiid/getting-symfony-app-ready-for-swoole-roadrunner-and-frankenphp-no-ai-involved-2d0g
 - Laravel
   - Building a Real-Time Currency Price Display with Laravel and SSE https://medium.com/@moaminsharifi/building-a-real-time-currency-price-display-with-laravel-and-sse-4bec46ba45b2
+- Оптимизация
+  - Optimizing PHP Performance for High-Traffic Websites: Best Practices and Techniques https://medium.com/@chirag.dave/optimizing-php-performance-for-high-traffic-websites-best-practices-and-techniques-d03fc0f79ea6
 - Лучшие практики
   - Best practices for building a production-ready Dockerfile for PHP applications https://snyk.io/blog/building-production-ready-dockerfile-php/
 - Архитектура
