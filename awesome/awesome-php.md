@@ -1,5 +1,6 @@
 ### Коллекции
 
+- https://project-awesome.org/ziadoz/awesome-php
 - https://odan.github.io/learn-php/
 - https://gist.github.com/llbbl/7607016
 - https://github.com/anikghosh256/laravel-best-practices

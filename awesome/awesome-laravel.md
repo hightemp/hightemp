@@ -2,6 +2,8 @@
 
 - https://project-awesome.org/chiraggude/awesome-laravel
 - https://github.com/TimothyDJones/awesome-laravel
+- https://github.com/its-awesome/awesome-laravel-nova
+- https://github.com/unnawut/awesome-laravel
 
 ### Книги
 
