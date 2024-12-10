@@ -52,6 +52,7 @@
     - Linux's Bedtime Routine (В статье рассматриваются процессы, связанные с переходом системы Linux из активного состояния в спящий режим. В ней подробно описываются механизмы синхронизации файловых систем, управление питанием и базовые функции ядра, которые облегчают этот переход) https://tookmund.com/2024/09/hibernation-preparation 
     - How raw sockets behave differently in macOS and Linux https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/
     - Linux fundamentals: user space, kernel space, and the syscalls API surface https://www.form3.tech/blog/engineering/linux-fundamentals-user-kernel-space
+    - Benad's Web Site RAM Compression on Linux https://benad.me/blog/2021/02/23/ram-compression-on-linux/
 - File Descriptors, Файловые дескрипторы
     - File Descriptors https://bottomupcs.com/ch01s03.html
 - sockets
