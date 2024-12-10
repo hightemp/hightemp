@@ -181,6 +181,7 @@
 - CI/CD
   - PHP and Continuous Integration with Travis CI https://www.sitepoint.com/php-continuous-integration-travis-ci/
 - Остальное
+  - How we use hyperfine to measure PHP Engine performance https://tideways.com/profiler/blog/how-we-use-hyperfine-to-measure-php-engine-performance
   - PHP Object Lazy-Loading is More Than What You Think https://jolicode.com/blog/php-object-lazy-loading-is-more-than-what-you-think
   - Modern PHP Without a Framework https://kevinsmith.io/modern-php-without-a-framework/
   - FrankenPHP: A Modern PHP App Server in Go (Install + Use) https://linuxtldr.com/installing-frankenphp/
