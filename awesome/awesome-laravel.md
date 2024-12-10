@@ -1,5 +1,6 @@
 ### Коллекции
 
+- https://project-awesome.org/chiraggude/awesome-laravel
 
 ### Книги
 
