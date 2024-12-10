@@ -146,6 +146,8 @@
     - Mocking APIs in Laravel Tests With Wiremock https://laravel-news.com/mocking-apis-in-laravel-tests-with-wiremock
 - Подборки
   - The Best PHP Blogs https://draft.dev/learn/php-blogs
+- CI/CD
+  - PHP and Continuous Integration with Travis CI https://www.sitepoint.com/php-continuous-integration-travis-ci/
 - Остальное
   - Modern PHP Without a Framework https://kevinsmith.io/modern-php-without-a-framework/
   - FrankenPHP: A Modern PHP App Server in Go (Install + Use) https://linuxtldr.com/installing-frankenphp/
