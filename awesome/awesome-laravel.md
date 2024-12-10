@@ -1,6 +1,7 @@
 ### Коллекции
 
 - https://project-awesome.org/chiraggude/awesome-laravel
+- https://github.com/TimothyDJones/awesome-laravel
 
 ### Книги
 
