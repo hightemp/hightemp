@@ -41,7 +41,7 @@
 - https://github.com/xenova/transformers.js
 - https://github.com/rasbt/LLMs-from-scratch
 
-### Агенты
+### Агентные системы; Agents
 
 - https://botpress.com/
 - https://godmode.space/
