@@ -432,6 +432,7 @@
     - https://berriai.github.io/litellm/
     - https://github.com/wealthsimple/llm-gateway
     - https://github.com/Mu-L/llm-gateway
+    - https://github.com/rxliuli/openai-api-proxy
 
 ### Курсы
 
