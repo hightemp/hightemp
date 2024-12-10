@@ -436,6 +436,7 @@
     - https://github.com/rxliuli/openai-api-proxy
     - https://github.com/johannestang/llamaxing/
     - https://github.com/dzhng/llm-api
+    - https://github.com/Portkey-AI/gateway
 
 ### Курсы
 
