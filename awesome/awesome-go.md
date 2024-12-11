@@ -537,7 +537,7 @@
 - Транзакции
   - Database Transactions in Go with Layered Architecture https://threedots.tech/post/database-transactions-in-go
 - Фреймворки
-  - Gofr
+  - GoFr
     - GoFr’s Plug-and-Play Model: Simplifying Database Interactions in Go https://medium.com/@mundhraumang.02/gofrs-plug-and-play-model-simplifying-database-interactions-in-go-8b18ac3294bf
   - Fiber
     - Остальное
