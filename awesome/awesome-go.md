@@ -185,7 +185,7 @@
   - Микросервисы
     - Проект Go Micro представляет собой фреймворк для разработки распределенных систем, предоставляющий ключевые компоненты, такие как RPC и событийно-ориентированное взаимодействие, с философией разумных настроек по умолчанию и подключаемой архитектурой. https://github.com/micro/go-micro
 - Мобильная разработка
-  - Матча - это приложение для iOS и Android, написанное на языке Go, которое обеспечивает библиотеку компонентов пользовательского интерфейса, похожую на ReactNative, предоставляет доступ к кодам Objective-C и Java через отражение и содержит API для выполнения часто используемых задач приложения. https://github.com/gomatcha/matcha
+  - matcha - это приложение для iOS и Android, написанное на языке Go, которое обеспечивает библиотеку компонентов пользовательского интерфейса, похожую на ReactNative, предоставляет доступ к кодам Objective-C и Java через отражение и содержит API для выполнения часто используемых задач приложения. https://github.com/gomatcha/matcha
 
 #### GUI
 
@@ -537,6 +537,8 @@
 - Транзакции
   - Database Transactions in Go with Layered Architecture https://threedots.tech/post/database-transactions-in-go
 - Фреймворки
+  - Gofr
+    - GoFr’s Plug-and-Play Model: Simplifying Database Interactions in Go https://medium.com/@mundhraumang.02/gofrs-plug-and-play-model-simplifying-database-interactions-in-go-8b18ac3294bf
   - Fiber
     - Остальное
       - HTTP-серверы на Fiber в Golang https://habr.com/ru/companies/otus/articles/841194/
