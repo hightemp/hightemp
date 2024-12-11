@@ -1767,3 +1767,123 @@ func main() {
 }
 ```
 
+## Паттерны
+
+### Напиши пример паттерна Strategy в golang
+
+```golang
+// Интерфейс Strategy определяет операцию, необходимую для всех конкретных стратегий
+type Strategy interface {
+    Execute(a, b int) int
+}
+
+// Конкретные реализации стратегий
+type Addition struct{}
+
+func (a *Addition) Execute(x, y int) int {
+    return x + y
+}
+
+type Subtraction struct{}
+
+func (s *Subtraction) Execute(x, y int) int {
+    return x - y
+}
+
+// Класс контекста
+type Context struct {
+    strategy Strategy
+}
+
+func (c *Context) SetStrategy(strategy Strategy) {
+    c.strategy = strategy
+}
+
+func (c *Context) Execute(a, b int) int {
+    return c.strategy.Execute(a, b)
+}
+
+// Использование
+func main() {
+    context := &Context{}
+
+    addition := &Addition{}
+    context.SetStrategy(addition)
+    result := context.Execute(5, 3)
+    fmt.Println("Addition result:", result) // Output: Addition result: 8
+
+    subtraction := &Subtraction{}
+    context.SetStrategy(subtraction)
+    result = context.Execute(5, 3)
+    fmt.Println("Subtraction result:", result) // Output: Subtraction result: 2
+}
+```
+
+### Напиши пример паттерна Observer в golang
+
+```golang
+// Определяем интерфейс Наблюдателя
+type Observer interface {
+    Update(data interface{})
+}
+
+// Определяем интерфейс Subjectа
+type Subject interface {
+    RegisterObserver(o Observer)
+    RemoveObserver(o Observer)
+    NotifyObservers(data interface{})
+}
+
+// Конкретная реализация Subjectа
+type ConcreteSubject struct {
+    observers []Observer
+    data      interface{}
+}
+
+func (s *ConcreteSubject) RegisterObserver(o Observer) {
+    s.observers = append(s.observers, o)
+}
+
+func (s *ConcreteSubject) RemoveObserver(o Observer) {
+    var newObservers []Observer
+    for _, observer := range s.observers {
+        if observer != o {
+            newObservers = append(newObservers, observer)
+        }
+    }
+    s.observers = newObservers
+}
+
+func (s *ConcreteSubject) NotifyObservers(data interface{}) {
+    s.data = data
+    for _, observer := range s.observers {
+        observer.Update(s.data)
+    }
+}
+
+// Конкретная реализация Наблюдателя
+type ConcreteObserver struct {
+    id int
+}
+
+func (o *ConcreteObserver) Update(data interface{}) {
+    println("Observer", o.id, "received data:", data)
+}
+
+// Пример использования
+func main() {
+    subject := &ConcreteSubject{}
+
+    observer1 := &ConcreteObserver{1}
+    observer2 := &ConcreteObserver{2}
+
+    subject.RegisterObserver(observer1)
+    subject.RegisterObserver(observer2)
+
+    subject.NotifyObservers("Hello, World!")
+
+    subject.RemoveObserver(observer2)
+
+    subject.NotifyObservers("Goodbye, World!")
+}
+```
