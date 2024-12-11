@@ -614,6 +614,7 @@
     - Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om
     - Hexagonal Architecture: Structuring a project and the influence of granularity https://medium.com/@TonyBologni/hexagonal-architecture-structuring-a-project-and-the-influence-of-granularity-df4e0851ab5c
   - Паттерны
+    - Mastering Design Patterns in Go https://medium.com/@techwander/mastering-design-patterns-in-go-a9ae8f2048a9
     - Design Patterns in Golang https://medium.com/@davyjiang_16888/design-patterns-in-golang-d76390efb6bc
     - Паттерн Наблюдатель в Golang на котиках https://habr.com/ru/companies/otus/articles/857330/
     - Design Patterns in Golang: The Good, the Bad and the Ugly https://blog.ralch.com/articles/design-patterns/golang-design-patterns/
