@@ -617,6 +617,7 @@
     - Head First Design Patterns using Go —1. Introduction https://faun.pub/head-first-design-patterns-using-go-introduction-d9f05a4c243a
     - Head First Design Patterns using Go — 2. Welcome to Design Patterns: the Strategy Pattern https://faun.pub/head-first-design-patterns-using-go-1-welcome-to-design-patterns-the-strategy-pattern-6cbd940e113a
     - Head First Design Patterns using Go — 3. Keeping your Objects in the know: the Observer Pattern https://faun.pub/head-first-design-patterns-using-go-1-keeping-your-objects-in-the-know-the-observer-pattern-948e6b5b66fc
+    - Head First Design Patterns using Go — 4. Decorating Objects: the Decorator Pattern https://faun.pub/head-first-design-patterns-using-go-3-decorating-objects-the-decorator-pattern-c35636722da7
     - Mastering Design Patterns in Go https://medium.com/@techwander/mastering-design-patterns-in-go-a9ae8f2048a9
     - Design Patterns in Golang https://medium.com/@davyjiang_16888/design-patterns-in-golang-d76390efb6bc
     - Паттерн Наблюдатель в Golang на котиках https://habr.com/ru/companies/otus/articles/857330/
