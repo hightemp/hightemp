@@ -38,6 +38,7 @@
 - Остальное
     - Using `socat` in Docker to power a single-use download service https://dev.to/jmarhee/using-socat-in-docker-to-power-a-single-use-download-service-3c98
     - Как связать Docker-контейнеры, не заставляя приложение читать переменные окружения https://habr.com/ru/articles/260053/
+    - Socat and Docker https://lihsmi.ch/docker/2020/01/02/socat-docker.html
 
 ### Блоги
 
