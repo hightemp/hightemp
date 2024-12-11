@@ -615,6 +615,7 @@
     - Hexagonal Architecture: Structuring a project and the influence of granularity https://medium.com/@TonyBologni/hexagonal-architecture-structuring-a-project-and-the-influence-of-granularity-df4e0851ab5c
   - Паттерны
     - Head First Design Patterns using Go —1. Introduction https://faun.pub/head-first-design-patterns-using-go-introduction-d9f05a4c243a
+    - Head First Design Patterns using Go — 2. Welcome to Design Patterns: the Strategy Pattern https://faun.pub/head-first-design-patterns-using-go-1-welcome-to-design-patterns-the-strategy-pattern-6cbd940e113a
     - Mastering Design Patterns in Go https://medium.com/@techwander/mastering-design-patterns-in-go-a9ae8f2048a9
     - Design Patterns in Golang https://medium.com/@davyjiang_16888/design-patterns-in-golang-d76390efb6bc
     - Паттерн Наблюдатель в Golang на котиках https://habr.com/ru/companies/otus/articles/857330/
