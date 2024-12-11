@@ -1887,3 +1887,83 @@ func main() {
     subject.NotifyObservers("Goodbye, World!")
 }
 ```
+
+### Напиши пример паттерна Decorator в golang
+
+```golang
+// Интерфейс Beverage определяет операцию, которую можно декорировать
+type Beverage interface {
+	GetDescription() string
+	GetCost() float64
+}
+
+// Конкретный компонент
+type Espresso struct{}
+
+func (e Espresso) GetDescription() string {
+	return "Espresso"
+}
+
+func (e Espresso) GetCost() float64 {
+	return 1.99
+}
+
+// Декоратор
+type BeverageDecorator struct {
+	beverage Beverage
+}
+
+func (d *BeverageDecorator) GetDescription() string {
+	return d.beverage.GetDescription()
+}
+
+func (d *BeverageDecorator) GetCost() float64 {
+	return d.beverage.GetCost()
+}
+
+// Конкретный декоратор
+type Mocha struct {
+	BeverageDecorator
+}
+
+func NewMocha(b Beverage) *Mocha {
+	return &Mocha{BeverageDecorator{b}}
+}
+
+func (m *Mocha) GetDescription() string {
+	return m.BeverageDecorator.GetDescription() + ", Mocha"
+}
+
+func (m *Mocha) GetCost() float64 {
+	return m.BeverageDecorator.GetCost() + 0.20
+}
+
+// Другой конкретный декоратор
+type Whip struct {
+	BeverageDecorator
+}
+
+func NewWhip(b Beverage) *Whip {
+	return &Whip{BeverageDecorator{b}}
+}
+
+func (w *Whip) GetDescription() string {
+	return w.BeverageDecorator.GetDescription() + ", Whip"
+}
+
+func (w *Whip) GetCost() float64 {
+	return w.BeverageDecorator.GetCost() + 0.10
+}
+
+// Использование декоратора
+func main() {
+	beverage := Espresso{}
+	fmt.Printf("Description: %s, Cost: $%.2f\n", beverage.GetDescription(), beverage.GetCost())
+
+	mocha := NewMocha(&beverage)
+	fmt.Printf("Description: %s, Cost: $%.2f\n", mocha.GetDescription(), mocha.GetCost())
+
+	whip := NewWhip(mocha)
+	fmt.Printf("Description: %s, Cost: $%.2f\n", whip.GetDescription(), whip.GetCost())
+}
+```
