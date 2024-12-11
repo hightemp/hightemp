@@ -37,6 +37,7 @@
     - 5 Awesome Docker Tools To Make Your Life Easier https://dev.to/code42cate/5-awesome-docker-tools-to-make-your-life-easier-22kl
 - Остальное
     - Using `socat` in Docker to power a single-use download service https://dev.to/jmarhee/using-socat-in-docker-to-power-a-single-use-download-service-3c98
+    - Как связать Docker-контейнеры, не заставляя приложение читать переменные окружения https://habr.com/ru/articles/260053/
 
 ### Блоги
 
