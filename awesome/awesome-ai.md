@@ -2,6 +2,7 @@
 ### Коллекции
 
 - https://github.com/openbestof/awesome-ai
+- https://github.com/Shubhamsaboo/awesome-llm-apps
 - https://awclub.github.io/catalog/
 - https://github.com/logikon-ai/awesome-deliberative-prompting
 - https://github.com/dair-ai/ML-YouTube-Courses
