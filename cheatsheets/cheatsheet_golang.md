@@ -2023,3 +2023,23 @@ func main() {
 iface == nil: false
 iface type: *struct {}, value: <nil>
 ```
+
+### А как тогда проверить iface на то что он пустой и nil?
+
+```golang
+func main() {
+    var ptr *struct{}
+    var iface interface{}
+    iface = ptr
+    
+    // Способ 1: Проверка через reflect
+    if reflect.ValueOf(iface).IsNil() {
+        fmt.Println("Value is nil")
+    }
+    
+    // Способ 2: Type assertion и проверка конкретного типа
+    if p, ok := iface.(*struct{}); ok && p == nil {
+        fmt.Println("Pointer is nil")
+    }    
+}
+```
