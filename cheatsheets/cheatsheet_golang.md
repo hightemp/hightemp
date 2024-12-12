@@ -1967,3 +1967,59 @@ func main() {
 	fmt.Printf("Description: %s, Cost: $%.2f\n", whip.GetDescription(), whip.GetCost())
 }
 ```
+
+## Вопросы
+
+### Что выведет программа?
+
+```golang
+func main() {
+    var ptr *struct{}
+    var iface interface{}
+    iface = ptr
+    if iface == nil {
+        println("It's nil!")
+    }
+}
+```
+
+Программа ничего не выведет - условие `if iface == nil` не выполнится.
+
+Разберем почему:
+
+1. Сначала создается указатель `ptr` типа `*struct{}` со значением `nil`
+
+2. Создается пустой интерфейс `iface`
+
+3. Когда мы присваиваем `ptr` переменной `iface`, создается интерфейсное значение, которое состоит из двух частей:
+   - type descriptor (тип) = `*struct{}`
+   - value (значение) = `nil`
+
+4. При сравнении интерфейса с `nil`, интерфейс считается `nil` только если **обе** части равны `nil`:
+   - type descriptor = `nil`
+   - value = `nil`
+
+В нашем случае:
+- type descriptor = `*struct{}` (не nil)
+- value = `nil`
+
+Поэтому условие `iface == nil` возвращает `false`, и строка "It's nil!" не печатается.
+
+Чтобы это проверить, можно модифицировать программу:
+
+```go
+func main() {
+    var ptr *struct{}
+    var iface interface{}
+    iface = ptr
+    
+    fmt.Printf("iface == nil: %v\n", iface == nil)
+    fmt.Printf("iface type: %T, value: %v\n", iface, iface)
+}
+```
+
+Это выведет:
+```
+iface == nil: false
+iface type: *struct {}, value: <nil>
+```
