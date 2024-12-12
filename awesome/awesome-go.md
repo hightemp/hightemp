@@ -293,8 +293,10 @@
   - Типы
     - The differences between "Type Alias" and "New Types" in Go https://perfects.engineering/blog/go_alias_vs_new_types
     - All your comparable types https://go.dev/blog/comparable
-  - Struct
+  - Struct; Структуры
     - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
+  - Interface; Интерфейсы
+    - Погружение в интерфейсы Go https://habr.com/ru/articles/856272/
   - Внутреннее устройство
     - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
   - Каналы
