@@ -575,9 +575,11 @@
   - Прокси-сервер для Android на Go https://habr.com/ru/articles/796105/
   - Using Golang + Gomobile To Build Android Application (with code) https://dev.to/nikl/using-golang-gomobile-to-build-android-application-with-code-18jo
   - Разработка мобильных приложений на Go https://habr.com/ru/companies/otus/articles/698140/
+- Кэширование
+  - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
 - Архитектура
-  - Кэширование
-    - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
+  - SOLID
+    - Practical SOLID in Golang: Open/Closed Principle https://www.ompluscator.com/article/golang/practical-solid-open-closed/
   - DDD
     - Refactoring Application Services with DDD in Golang https://medium.com/@parserdigital/refactoring-application-services-with-ddd-in-golang-a0b6d37ac70e
     - Applying Domain Driven Design (DDD) in Golang https://dev.to/elioenaiferrari/applying-domain-driven-design-ddd-in-golang-5d4m
