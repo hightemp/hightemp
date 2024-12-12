@@ -352,6 +352,7 @@
     - Mastering Golang — Part 8: Error Handling https://blog.stackademic.com/mastering-golang-part-8-error-handling-4012a62ad0cb
     - Advanced error handling strategies in Go https://medium.com/@guilhermemls/advanced-error-handling-strategies-in-go-12ef4ee621d7
   - Остальное
+    - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
     - Внутренности планировщика Go https://habr.com/ru/articles/858490/
     - Functional options in Go https://habr.com/ru/articles/859676/
     - Functional options for friendly APIs https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
