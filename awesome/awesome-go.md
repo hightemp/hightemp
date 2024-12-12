@@ -581,6 +581,7 @@
   - SOLID
     - Practical SOLID in Golang: Single Responsibility Principle https://www.ompluscator.com/article/golang/practical-solid-single-responsibility
     - Practical SOLID in Golang: Open/Closed Principle https://www.ompluscator.com/article/golang/practical-solid-open-closed/
+    - Practical SOLID in Golang: Liskov Substitution Principle https://www.ompluscator.com/article/golang/practical-solid-liskov-substitution
   - DDD
     - Refactoring Application Services with DDD in Golang https://medium.com/@parserdigital/refactoring-application-services-with-ddd-in-golang-a0b6d37ac70e
     - Applying Domain Driven Design (DDD) in Golang https://dev.to/elioenaiferrari/applying-domain-driven-design-ddd-in-golang-5d4m
