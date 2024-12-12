@@ -579,6 +579,7 @@
   - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
 - Архитектура
   - SOLID
+    - Practical SOLID in Golang: Single Responsibility Principle https://www.ompluscator.com/article/golang/practical-solid-single-responsibility
     - Practical SOLID in Golang: Open/Closed Principle https://www.ompluscator.com/article/golang/practical-solid-open-closed/
   - DDD
     - Refactoring Application Services with DDD in Golang https://medium.com/@parserdigital/refactoring-application-services-with-ddd-in-golang-a0b6d37ac70e
