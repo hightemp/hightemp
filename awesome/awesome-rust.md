@@ -617,7 +617,7 @@
 - Сеть
   - p2p
     - Exploring Rust's libp2p: A Live Learning Journey https://www.youtube.com/watch?v=u3uvd3-7g3c
-
+    - Introduction to Rust Libp2p - Pierre Krieger https://www.youtube.com/watch?v=HqSXFlCwgMY
 
 ### Статьи
 
