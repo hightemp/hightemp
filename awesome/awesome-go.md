@@ -484,6 +484,8 @@
   - p2p
     - A P2P Network with Golang and libp2p https://www.sayipolia.com/projects/p2p-golang/
     - p2p chat app with libp2p [support peer discovery using mdns] https://pkg.go.dev/github.com/libp2p/go-libp2p/examples@v0.0.0-20241210164036-4e85c9611ae6/chat-with-mdns#section-readme
+  - ipfs
+    - Learn How to Use go-ipfs as a Library https://blog.ipfs.tech/073-go-ipfs-as-a-library/
   - FTP
     - Working with FTP protocol in Golang https://blog.ralch.com/articles/golang-ftp/
   - VPN
