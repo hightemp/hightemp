@@ -479,6 +479,8 @@
     - Go and Proxy Servers: Part 2 - HTTPS Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-2-https-proxies/
     - Go and Proxy Servers: Part 3 - SOCKS proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-3-socks-proxies/
     - Transparent http proxy with Golang and tproxy https://taczanowski.net/transparent-http-proxy-with-golang-and-tproxy/
+  - p2p
+    - A P2P Network with Golang and libp2p https://www.sayipolia.com/projects/p2p-golang/
   - FTP
     - Working with FTP protocol in Golang https://blog.ralch.com/articles/golang-ftp/
   - VPN
