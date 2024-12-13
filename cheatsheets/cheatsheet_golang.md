@@ -2043,3 +2043,239 @@ func main() {
     }    
 }
 ```
+
+## Пример использования libp2p для синхронизации папок
+
+```go
+package main
+
+import (
+    "bufio"
+    "context"
+    "crypto/rand"
+    "flag"
+    "fmt"
+    "io"
+    "log"
+    "os"
+    "path/filepath"
+    "sync"
+    "time"
+
+    "github.com/libp2p/go-libp2p"
+    "github.com/libp2p/go-libp2p-core/crypto"
+    "github.com/libp2p/go-libp2p-core/host"
+    "github.com/libp2p/go-libp2p-core/network"
+    "github.com/libp2p/go-libp2p-core/peer"
+    "github.com/libp2p/go-libp2p-core/protocol"
+    dht "github.com/libp2p/go-libp2p-kad-dht"
+    "github.com/multiformats/go-multiaddr"
+)
+
+const (
+    protocol1        = "/sync/1.0.0"
+    syncInterval     = 30 * time.Second
+    folderPermission = 0755
+)
+
+type FileSync struct {
+    host       host.Host
+    dht        *dht.IpfsDHT
+    targetPeer peer.ID
+    syncFolder string
+    mutex      sync.Mutex
+}
+
+func main() {
+    // Флаги командной строки
+    syncFolder := flag.String("folder", "", "Folder to sync")
+    targetPeer := flag.String("peer", "", "Target peer multiaddr")
+    flag.Parse()
+
+    if *syncFolder == "" {
+        log.Fatal("Please specify folder to sync")
+    }
+
+    // Создаем контекст
+    ctx := context.Background()
+
+    // Создаем новый узел libp2p
+    prvKey, _, err := crypto.GenerateKeyPairWithReader(crypto.RSA, 2048, rand.Reader)
+    if err != nil {
+        log.Fatal(err)
+    }
+
+    h, err := libp2p.New(
+        libp2p.ListenAddrStrings("/ip4/0.0.0.0/tcp/0"),
+        libp2p.Identity(prvKey),
+        libp2p.EnableNATService(),
+        libp2p.EnableRelay(),
+        libp2p.EnableAutoRelay(),
+    )
+    if err != nil {
+        log.Fatal(err)
+    }
+
+    // Создаем DHT
+    kadDHT, err := dht.New(ctx, h)
+    if err != nil {
+        log.Fatal(err)
+    }
+
+    // Создаем объект синхронизации
+    fs := &FileSync{
+        host:       h,
+        dht:        kadDHT,
+        syncFolder: *syncFolder,
+    }
+
+    // Устанавливаем обработчик протокола
+    h.SetStreamHandler(protocol1, fs.handleStream)
+
+    // Подключаемся к целевому пиру если указан
+    if *targetPeer != "" {
+        maddr, err := multiaddr.NewMultiaddr(*targetPeer)
+        if err != nil {
+            log.Fatal(err)
+        }
+
+        peerInfo, err := peer.AddrInfoFromP2pAddr(maddr)
+        if err != nil {
+            log.Fatal(err)
+        }
+
+        fs.targetPeer = peerInfo.ID
+
+        if err := h.Connect(ctx, *peerInfo); err != nil {
+            log.Fatal(err)
+        }
+    }
+
+    // Запускаем периодическую синхронизацию
+    go fs.periodicSync()
+
+    // Выводим адрес узла
+    for _, addr := range h.Addrs() {
+        fmt.Printf("Address: %s/p2p/%s\n", addr, h.ID().Pretty())
+    }
+
+    // Ожидаем прерывания
+    select {}
+}
+
+func (fs *FileSync) handleStream(s network.Stream) {
+    defer s.Close()
+
+    fs.mutex.Lock()
+    defer fs.mutex.Unlock()
+
+    reader := bufio.NewReader(s)
+    writer := bufio.NewWriter(s)
+
+    // Получаем список файлов
+    files, err := fs.getFileList()
+    if err != nil {
+        log.Printf("Error getting file list: %v", err)
+        return
+    }
+
+    // Отправляем список файлов
+    for _, file := range files {
+        fmt.Fprintf(writer, "%s\n", file)
+    }
+    writer.Flush()
+
+    // Получаем список файлов от другой стороны
+    remoteFiles := make(map[string]bool)
+    for {
+        file, err := reader.ReadString('\n')
+        if err == io.EOF {
+            break
+        }
+        if err != nil {
+            log.Printf("Error reading remote files: %v", err)
+            return
+        }
+        remoteFiles[file[:len(file)-1]] = true
+    }
+
+    // Синхронизируем файлы
+    for _, file := range files {
+        if !remoteFiles[file] {
+            // Отправляем файл
+            if err := fs.sendFile(writer, file); err != nil {
+                log.Printf("Error sending file %s: %v", file, err)
+                continue
+            }
+        }
+    }
+}
+
+func (fs *FileSync) getFileList() ([]string, error) {
+    var files []string
+    err := filepath.Walk(fs.syncFolder, func(path string, info os.FileInfo, err error) error {
+        if err != nil {
+            return err
+        }
+        if !info.IsDir() {
+            relPath, err := filepath.Rel(fs.syncFolder, path)
+            if err != nil {
+                return err
+            }
+            files = append(files, relPath)
+        }
+        return nil
+    })
+    return files, err
+}
+
+func (fs *FileSync) sendFile(writer *bufio.Writer, filename string) error {
+    file, err := os.Open(filepath.Join(fs.syncFolder, filename))
+    if err != nil {
+        return err
+    }
+    defer file.Close()
+
+    _, err = io.Copy(writer, file)
+    return err
+}
+
+func (fs *FileSync) periodicSync() {
+    ticker := time.NewTicker(syncInterval)
+    for range ticker.C {
+        if fs.targetPeer != "" {
+            s, err := fs.host.NewStream(context.Background(), fs.targetPeer, protocol1)
+            if err != nil {
+                log.Printf("Error creating stream: %v", err)
+                continue
+            }
+            fs.handleStream(s)
+        }
+    }
+}
+```
+
+Чтобы использовать эту программу:
+
+1. Установите необходимые зависимости:
+```bash
+go get github.com/libp2p/go-libp2p
+go get github.com/libp2p/go-libp2p-kad-dht
+```
+
+2. Запустите программу на первом компьютере:
+```bash
+go run main.go -folder /path/to/sync/folder
+```
+
+3. Скопируйте выведенный адрес и запустите на втором компьютере:
+```bash
+go run main.go -folder /path/to/sync/folder -peer <address_from_first_computer>
+```
+
+Особенности программы:
+
+1. Использует libp2p для P2P-коммуникации
+2. Поддерживает NAT traversal
+3. Периодически синхронизирует файлы между узлами
+4. Использует протокол DHT
