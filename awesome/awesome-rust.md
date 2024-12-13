@@ -623,6 +623,8 @@
     - Implementing a VPN Server in Rust 
       - https://www.linkedin.com/pulse/implementing-vpn-server-inrust-luis-soares-m-sc--sqvkf
       - https://web.archive.org/web/20240822082513/https://www.linkedin.com/pulse/implementing-vpn-server-inrust-luis-soares-m-sc--sqvkf
+  - p2p
+    - 11 Building a P2P node with Async Rust https://livebook.manning.com/book/rust-servers-services-and-apps/chapter-11/v-13/92
 - Основы языка
   - Ошибки
     - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
