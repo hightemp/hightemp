@@ -635,6 +635,7 @@
     - Design Patterns in Golang: The Good, the Bad and the Ugly https://blog.ralch.com/articles/design-patterns/golang-design-patterns/
     - Abstract Factory Design Pattern in Go: A Comprehensive Guide https://softwarepatternslexicon.com/patterns-go/2/1/1/
     - Writing a circuit breaker in Go https://rednafi.com/go/circuit_breaker/
+    - Can you explain the Circuit Breaker pattern and how you would implement it in a Go service that makes external API calls? Why is this pattern useful in a distributed system? https://medium.com/@ltcong1411/can-you-explain-the-circuit-breaker-pattern-and-how-you-would-implement-it-in-a-go-service-that-248bb7b04960
     - Паттерны многопоточности в Go https://habr.com/ru/articles/852556/
     - Sidecar на Go: позволь другому заниматься твоими проблемами https://habr.com/ru/companies/otus/articles/852642/
     - Паттерны проектирования Go. Fan-in https://habr.com/ru/articles/854302/
