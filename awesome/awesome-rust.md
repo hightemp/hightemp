@@ -627,6 +627,7 @@
     - 11 Building a P2P node with Async Rust https://livebook.manning.com/book/rust-servers-services-and-apps/chapter-11/v-13/92
     - Learn libp2p in Rust https://redandgreen.co.uk/learn-libp2p-in-rust/rust-programming/
     - Libp2p demo utilizing Rust https://koonts.net/articles/rust-libp2p
+    - Playing with decentralized p2p network & Rust Libp2p Stacks https://medium.com/lifefunk/playing-with-decentralized-p2p-network-rust-libp2p-stacks-2022abdf3503
 - Основы языка
   - Ошибки
     - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
