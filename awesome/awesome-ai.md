@@ -153,6 +153,8 @@
     - https://replit.com/
     - https://bolt.new
     - https://llamacoder.together.ai/
+- с видео и аудио
+    - https://aistudio.google.com/live
 
 ### Работа с документами
 
