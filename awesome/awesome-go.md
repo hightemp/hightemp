@@ -484,6 +484,7 @@
   - p2p
     - A P2P Network with Golang and libp2p https://www.sayipolia.com/projects/p2p-golang/
     - p2p chat app with libp2p [support peer discovery using mdns] https://pkg.go.dev/github.com/libp2p/go-libp2p/examples@v0.0.0-20241210164036-4e85c9611ae6/chat-with-mdns#section-readme
+    - Exploring the Power of libp2p : for Building Robust, Decentralized Networks with Golang https://block360.hashnode.dev/exploring-the-power-of-libp2p-for-building-robust-decentralized-networks-with-golang
   - ipfs
     - Learn How to Use go-ipfs as a Library https://blog.ipfs.tech/073-go-ipfs-as-a-library/
     - Quickstart to IPFS Programming using Golang https://bartlomiejmika.com/post/2021/quickstart-ipfs-programming-using-golang/
