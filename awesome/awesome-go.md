@@ -967,6 +967,7 @@
 - https://github.com/go-kit/examples/
 - https://github.com/ykanavalik/react-native-golang-sample
 - This is an example of implementation of Clean Architecture with S.O.L.I.D Principles in Go (Golang) projects. https://github.com/DoWithLogic/golang-clean-architecture
+- https://github.com/FelipeRosa/go-libp2p-chat
 
 ### Видео
 
