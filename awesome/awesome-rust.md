@@ -625,6 +625,8 @@
       - https://web.archive.org/web/20240822082513/https://www.linkedin.com/pulse/implementing-vpn-server-inrust-luis-soares-m-sc--sqvkf
   - p2p
     - 11 Building a P2P node with Async Rust https://livebook.manning.com/book/rust-servers-services-and-apps/chapter-11/v-13/92
+    - Learn libp2p in Rust https://redandgreen.co.uk/learn-libp2p-in-rust/rust-programming/
+    - Libp2p demo utilizing Rust https://koonts.net/articles/rust-libp2p
 - Основы языка
   - Ошибки
     - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
