@@ -483,6 +483,7 @@
     - Transparent http proxy with Golang and tproxy https://taczanowski.net/transparent-http-proxy-with-golang-and-tproxy/
   - p2p
     - A P2P Network with Golang and libp2p https://www.sayipolia.com/projects/p2p-golang/
+    - p2p chat app with libp2p [support peer discovery using mdns] https://pkg.go.dev/github.com/libp2p/go-libp2p/examples@v0.0.0-20241210164036-4e85c9611ae6/chat-with-mdns#section-readme
   - FTP
     - Working with FTP protocol in Golang https://blog.ralch.com/articles/golang-ftp/
   - VPN
