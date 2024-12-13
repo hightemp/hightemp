@@ -48,3 +48,6 @@
     - О настройке Open vSwitch непростым языком https://habr.com/ru/articles/325560/ 
 - Multicast
     - Multicast IP Address to MAC address mapping https://networklessons.com/multicast/multicast-ip-address-to-mac-address-mapping
+- IPFS
+    - IPFS Tutorial: Building a Private IPFS Network with IPFS-Cluster for Data Replication https://eleks.com/research/ipfs-network-data-replication/
+- P2P
