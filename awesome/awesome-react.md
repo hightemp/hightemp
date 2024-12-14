@@ -70,6 +70,8 @@
     - https://github.com/react-grid-layout/react-grid-layout
 - clipboard, буфер обмена
     - https://github.com/nkbt/react-copy-to-clipboard
+- hotkeys
+    - https://react-hotkeys-hook.vercel.app/ https://github.com/JohannesKlauss/react-hotkeys-hook
 - Подсветка синтаксиса
    - https://github.com/react-syntax-highlighter/react-syntax-highlighter 
 - Форматирование
