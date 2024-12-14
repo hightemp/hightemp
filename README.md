@@ -24,7 +24,7 @@
 #### Текущие
 
 - [go_ssh_proxy_logger](https://github.com/hightemp/go_ssh_proxy_logger) - **golang** логирующий прокси, который слушает порты на удаленой машине по ssh и перенаправляет траффик по ssh обратно (интернет)к сервисам из конфига. Есть возможность прописать несколько сервисов.
-- [github_repo_sync](https://github.com/hightemp/github_repo_sync) - **golang** утилита-сервис, которая скачивает или обновлчет все репозитории для github аккаунта
+- [github_repo_sync](https://github.com/hightemp/github_repo_sync) - **golang** утилита-сервис, которая скачивает или обновляет все репозитории для github аккаунта
 - [ip_info_service](https://github.com/hightemp/ip_info_service) - **golang** http сервис, который дает информацию об ip из локальной БД: организация, страна
 - [proxy_parser_checker](https://github.com/hightemp/proxy_parser_checker) - **golang** простой скряпер и чекер прокси, сделанный как http сервис
 - [hyper-markdown](https://github.com/hightemp/hyper-markdown)⭐ - **ts/js** расширение для vscode дающее возможность просматривать markdown в редакторе, с возможностью вставки html(с конвертацией в markdown) из буфера обмена
