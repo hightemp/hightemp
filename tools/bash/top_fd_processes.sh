@@ -8,6 +8,7 @@ fi
 
 # Массив для хранения данных о процессах  
 processes=()  
+total_fd=0  
 
 # Итерация по всем PID в /proc  
 for pid_dir in /proc/[0-9]*; do  
@@ -24,6 +25,7 @@ for pid_dir in /proc/[0-9]*; do
     if [[ -d "$pid_dir/fd" ]]; then  
         fd_count=$(ls -1 "$pid_dir/fd" 2>/dev/null | wc -l)  
         processes+=("$fd_count $pid $process_name")  
+        total_fd=$((total_fd + fd_count))  
     fi  
 done  
 
@@ -37,4 +39,16 @@ printf "%-10s %-10s %-s\n" "----------" "----------" "-------------------------"
 # Выводим отсортированные данные с форматированием  
 while read -r fd pid name; do  
     printf "%-10s %-10s %-s\n" "$pid" "$fd" "$name"  
-done <<< "$sorted"
+done <<< "$sorted"  
+
+echo ""  
+echo "----------------------------------------"  
+echo "Общее количество открытых FD: $total_fd"  
+
+# Получаем максимально допустимое количество файловых дескрипторов в системе  
+if [[ -r /proc/sys/fs/file-max ]]; then  
+    file_max=$(cat /proc/sys/fs/file-max)  
+    echo "Максимально допустимое количество FD: $file_max"  
+else  
+    echo "Не удалось получить максимальное количество FD."  
+fi
