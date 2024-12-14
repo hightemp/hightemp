@@ -232,7 +232,7 @@
 - [Riku](https://riku.ai/) – помогает писать запросы к нейросетям. 
 - [AiHelperBot](https://aihelperbot.com/) – помогает генерировать сложные сиквел-запросы.
 
-### Альтернативные интерфейсы чатов
+### Альтернативные чаты
 
 - OpenChatKit https://github.com/togethercomputer/OpenChatKit
 - ChatRWKV https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio
