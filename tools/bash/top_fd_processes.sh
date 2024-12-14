@@ -48,7 +48,19 @@ echo "Общее количество открытых FD: $total_fd"
 # Получаем максимально допустимое количество файловых дескрипторов в системе  
 if [[ -r /proc/sys/fs/file-max ]]; then  
     file_max=$(cat /proc/sys/fs/file-max)  
-    echo "Максимально допустимое количество FD: $file_max"  
+    echo "Максимально допустимое количество FD (fs.file-max): $file_max"  
 else  
-    echo "Не удалось получить максимальное количество FD."  
+    echo "Не удалось получить fs.file-max."  
+fi  
+
+# Получаем лимит для текущей сессии  
+session_limit=$(ulimit -n)  
+echo "Лимит на FD для текущей сессии (ulimit -n): $session_limit"  
+
+# Получаем системный лимит с помощью sysctl  
+if command -v sysctl &> /dev/null; then  
+    sysctl_limit=$(sysctl -n fs.file-max)  
+    echo "Максимально допустимое количество FD (sysctl fs.file-max): $sysctl_limit"  
+else  
+    echo "Команда sysctl недоступна."  
 fi
