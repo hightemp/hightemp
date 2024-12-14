@@ -63,6 +63,8 @@
     - zram: Compressed RAM-based block devices https://docs.kernel.org/admin-guide/blockdev/zram.html
 - File Descriptors, Файловые дескрипторы
     - File Descriptors https://bottomupcs.com/ch01s03.html
+- file descriptors
+    - Как проверить все открытые файлы пользователем или процессом в Linux https://wiki.it-kb.ru/unix-linux/linux-cli-tools/how-to-check-all-open-files-by-process-or-user-in-linux
 - sockets
     - What is a socket? https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket
 - systemd
