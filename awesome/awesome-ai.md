@@ -246,6 +246,10 @@
 
 - https://chatboxai.app/en
 
+### Анализаторы кода
+
+- https://useadrenaline.com/
+
 ### Ассистенты для кода
 
 - https://aws.amazon.com/ru/q/developer/
