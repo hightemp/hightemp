@@ -231,6 +231,10 @@
 - [Riku](https://riku.ai/) – помогает писать запросы к нейросетям. 
 - [AiHelperBot](https://aihelperbot.com/) – помогает генерировать сложные сиквел-запросы.
 
+### Генерация иконок
+
+- https://iconkit.dev/
+
 ### API gateway для API AI сервисов
 
 - https://proxyapi.ru/
