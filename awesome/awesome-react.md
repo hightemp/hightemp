@@ -89,7 +89,7 @@
 - Плееры
     - https://github.com/cookpete/react-player
 
-### Шаблоны
+### Boilerplate; Шаблоны
 
 - https://github.com/electron-react-boilerplate/electron-react-boilerplate
 
