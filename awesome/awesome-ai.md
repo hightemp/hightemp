@@ -232,6 +232,22 @@
 - [Riku](https://riku.ai/) – помогает писать запросы к нейросетям. 
 - [AiHelperBot](https://aihelperbot.com/) – помогает генерировать сложные сиквел-запросы.
 
+### Альтернативные интерфейсы чатов
+
+- OpenChatKit https://github.com/togethercomputer/OpenChatKit
+- ChatRWKV https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio
+- ColossalChat https://github.com/hpcaitech/ColossalAI
+- KoboldAI https://github.com/KoboldAI/KoboldAI-Client
+- GPT4ALL https://gpt4all.io
+- HuggingChat https://huggingface.co/chat
+- Koala https://bair.berkeley.edu/blog/2023/04/03/koala
+- Vicuna https://chat.lmsys.org
+- Alpaca-LoRA https://github.com/tloen/alpaca-lora
+- Dolly https://huggingface.co/databricks/dolly-v2-12b
+- H2oGPT https://github.com/h2oai/h2ogpt
+- Cerebras-GPT https://huggingface.co/cerebras
+- OpenAssistant https://open-assistant.io
+
 ### Генерация иконок
 
 - https://iconkit.dev/
