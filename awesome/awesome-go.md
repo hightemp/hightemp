@@ -986,6 +986,8 @@
   - Golang / Go Crash Course 03 | Implementing Clean Architecture principles in our REST API https://www.youtube.com/watch?v=Yg_ae0UvCv4
 - Подготовка к собеседованию
   - Golang 100 вопросов с собеседований. Подготовка Go разработчика Часть 1 https://www.youtube.com/watch?v=ZvaD-G5_3vQ
+- Аунтификация
+  - Building the User & Auth Modules with GoLang | 3-Hour Coding Journey | FinGreat Series #3 https://www.youtube.com/watch?v=2Dp7PX70o2k
 - API
   - Полноценный курс по написанию API на golang https://www.youtube.com/watch?v=h3fqD6IprIA
 - Остальное
