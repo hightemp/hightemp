@@ -1,13 +1,13 @@
 #!/bin/bash  
 
-# Проверяем, есть ли доступ к /proc  
+# Проверка доступа к /proc  
 if [ ! -d /proc ]; then  
     echo "Директория /proc недоступна."  
     exit 1  
 fi  
 
-# Используем ассоциативный массив для хранения информации о процессах  
-declare -A process_fd_count  
+# Массив для хранения данных о процессах  
+processes=()  
 
 # Итерация по всем PID в /proc  
 for pid_dir in /proc/[0-9]*; do  
@@ -23,13 +23,18 @@ for pid_dir in /proc/[0-9]*; do
     # Считаем количество открытых файловых дескрипторов  
     if [[ -d "$pid_dir/fd" ]]; then  
         fd_count=$(ls -1 "$pid_dir/fd" 2>/dev/null | wc -l)  
-        # Сохраняем информацию в массиве  
-        process_fd_count["$pid:$process_name"]=$fd_count  
+        processes+=("$fd_count $pid $process_name")  
     fi  
 done  
 
-# Выводим топ-10 процессов с наибольшим количеством FD  
-echo -e "PID\tFD_COUNT\tProcess_Name"  
-for entry in "${!process_fd_count[@]}"; do  
-    echo -e "${entry//:/\t}${process_fd_count[$entry]}"  
-done | sort -k2 -nr | head -n 10
+# Сортируем процессы по количеству FD в порядке убывания и берем топ-10  
+sorted=$(printf "%s\n" "${processes[@]}" | sort -nr | head -n 10)  
+
+# Выводим заголовок таблицы  
+printf "%-10s %-10s %-s\n" "PID" "FD_COUNT" "Process_Name"  
+printf "%-10s %-10s %-s\n" "----------" "----------" "-------------------------"  
+
+# Выводим отсортированные данные с форматированием  
+while read -r fd pid name; do  
+    printf "%-10s %-10s %-s\n" "$pid" "$fd" "$name"  
+done <<< "$sorted"
