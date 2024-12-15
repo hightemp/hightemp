@@ -43,6 +43,8 @@
 
 ### Статьи
 
-- ABC's of Nuclear Science https://www2.lbl.gov/abc/Basic.html
-- Multifractal Dimension Spectrum Analysis for Nuclear Density Distribution https://arxiv.org/html/2404.07496v1
-- The Structure of the Nuclear Building Blocks https://nap.nationalacademies.org/read/6288/chapter/4
+- Остальное
+    - Лошадь стала домашней только один раз https://www.mcb.nsc.ru/history/media/1513
+    - ABC's of Nuclear Science https://www2.lbl.gov/abc/Basic.html
+    - Multifractal Dimension Spectrum Analysis for Nuclear Density Distribution https://arxiv.org/html/2404.07496v1
+    - The Structure of the Nuclear Building Blocks https://nap.nationalacademies.org/read/6288/chapter/4
