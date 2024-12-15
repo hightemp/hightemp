@@ -8,6 +8,8 @@
         - https://www.sciencedirect.com/
         - https://www.jstor.org/
         - https://plos.org/
+    - Сельское хохяйство
+        - https://search.nal.usda.gov/discovery/search?vid=01NAL_INST:MAIN&search_scope=pubag
     - Инжинирия; engineering
         - https://ieeexplore.ieee.org/Xplore/home.jsp
     - Медицина; medicine
