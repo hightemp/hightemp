@@ -1,3 +1,23 @@
+### Агрегаторы научных работ
+
+- Бесплатные
+    - Остальное
+        - https://core.ac.uk/
+        - https://doaj.org/
+        - https://eric.ed.gov
+        - https://www.sciencedirect.com/
+        - https://www.jstor.org/
+        - https://plos.org/
+    - Инжинирия; engineering
+        - https://ieeexplore.ieee.org/Xplore/home.jsp
+    - Медицина; medicine
+        - https://www.ncbi.nlm.nih.gov/pubmed/
+        - https://www.medrxiv.org/
+- Платные
+    - https://www.scopus.com/
+    - https://www.webofknowledge.com/
+
+
 ### Поисковики
 
 - Обычный
