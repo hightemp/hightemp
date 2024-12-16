@@ -333,6 +333,7 @@
 ### Генерация аудио речи из текста
 
 - https://www.text-to-speech.online/
+- https://ttsmp3.com/
 
 ### Генерация видео
 
