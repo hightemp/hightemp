@@ -160,6 +160,7 @@
 - Robin Wieruch [https://www.robinwieruch.de/]
 - https://codewithstyle.info/
 - https://medium.com/dailyjs
+- https://www.mbloging.com/category/javascript
 
 ### Вопросы
 
