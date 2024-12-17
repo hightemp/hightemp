@@ -465,6 +465,8 @@
     - Проект IC-Light (Imposing Consistent Light) представляет собой инструмент для манипулирования освещением изображений, предлагающий две модели: одну для изменения освещения на основе текстовых условий и вторую для корректировки освещения с учетом фона. https://github.com/lllyasviel/IC-Light
 - Остальное
     - the LLM vulnerability scanner https://github.com/NVIDIA/garak
+- Поиск
+    - https://github.com/zaidmukaddam/miniperplx/
 - API Proxy 
     - https://berriai.github.io/litellm/
     - https://github.com/wealthsimple/llm-gateway
