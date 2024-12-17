@@ -163,10 +163,6 @@
 - Данный проект представляет собой CLI и GUI инструмент для скачивания медиафайлов из Twitter без использования API-ключа, основанный на twitter-scrapper и позволяющий загружать до 3200 твитов. https://github.com/mmpx12/twitter-media-downloader
 - NATS - это простая, безопасная и производительная система коммуникаций для цифровых систем, сервисов и устройств, которая является частью Cloud Native Computing Foundation (CNCF), поддерживает более 40 клиентских языковых реализаций, может работать локально, в облаке, на периферии и даже на Raspberry Pi, а также способна обеспечивать безопасность и упрощать проектирование и эксплуатацию современных распределенных систем. https://github.com/nats-io/nats-server
 
-### Примеры приложений
-
-- Anor - это полнофункциональное e-commerce приложение на Golang, HTMX и _hyperscript, вдохновленное Uzum, eBay и Zalando, использующее PostgreSQL, Redis и Typesense для хранения данных, кэширования и поиска. https://github.com/aliml92/anor
-
 ### Фреймворки
 
 - Тестирование
@@ -244,6 +240,7 @@
 - Проект GoDDD представляет собой попытку портирования примера DDD-приложения на язык Go с целью демонстрации тактических паттернов проектирования из предметно-ориентированного дизайна (Domain Driven Design) и служит примером современного корпоративного приложения, готового к промышленному использованию. https://github.com/marcusolsson/goddd
 - Это обучающий проект по языку программирования Go, основанный на подходе разработки через тестирование (TDD), который включает в себя изучение фундаментальных концепций языка и создание полноценного приложения с использованием стандартной библиотеки. https://github.com/quii/learn-go-with-tests
 - https://github.com/MaksimDzhangirov/practicalSolid
+- https://github.com/alivewel/go_interface
 
 ### Курсы
 
@@ -961,6 +958,7 @@
 
 ### Примеры приложений
 
+- Anor - это полнофункциональное e-commerce приложение на Golang, HTMX и _hyperscript, вдохновленное Uzum, eBay и Zalando, использующее PostgreSQL, Redis и Typesense для хранения данных, кэширования и поиска. https://github.com/aliml92/anor
 - Example of Clean Architecture + DDD + CQRS in go https://github.com/quintans/go-clean-ddd
 - This repository is used to present how I find implementing DDD in Go projects works out https://github.com/percybolmer/ddd-go
 - Go-DDD: Domain Driven Design Template in Golang https://github.com/sklinkert/go-ddd
