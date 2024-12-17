@@ -78,6 +78,7 @@
     - https://askhackers.com/
     - https://getliner.com/main
     - https://andisearch.com/
+    - https://mplx.run/search
     - https://learning.google.com/experiments/learn-about/signup
 - Для разработчиков
     - https://devv.ai/
