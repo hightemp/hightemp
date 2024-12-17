@@ -503,8 +503,9 @@
       - Capture traffic with Golang https://dev.to/aohorodnyk/capture-traffic-with-golang-2nmo
       - How to Read and Extract Information from a PCAP File in Go https://byteshiva.medium.com/how-to-read-and-extract-information-from-a-pcap-file-in-go-287c0bd66561
       - Programmatically Analyze Packet Captures with GoPacket https://www.akitasoftware.com/blog-posts/programmatically-analyze-packet-captures-with-gopacket
-  - Балансировщик
+  - Балансировщик; load balancer
     - Building a simple load balancer in Go https://dev.to/vivekalhat/building-a-simple-load-balancer-in-go-70d
+    - Building a load balancer in Go part 2 https://computersciencesimplified.substack.com/p/building-a-load-balancer-in-go-part-5cb
   - Веб-сервер, HTTP
     - load-balancer
       - Building a simple load balancer in Go https://dev.to/vivekalhat/building-a-simple-load-balancer-in-go-70d
