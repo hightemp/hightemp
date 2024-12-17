@@ -379,6 +379,7 @@
 - CORS
    - Why is an OPTIONS request sent and can I disable it? https://stackoverflow.com/questions/29954037/why-is-an-options-request-sent-and-can-i-disable-it
    - Cross-Origin Resource Sharing (CORS), Same Origin Policy (SOP) and Why We Need Preflight Requests ? https://medium.com/@ravikumarray92/cross-origin-resource-sharing-cors-same-origin-policy-sop-and-why-we-need-preflight-requests-aa66c5872af1
+   - What is CORS and how to bypass it? https://requestly.com/blog/what-is-cors-and-how-to-bypass-it/
 - Тайм-менеджмент
    - Timeless principles of Time Management https://makemeacto.substack.com/p/timeless-principles-of-time-management
 - Хостинг
