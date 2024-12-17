@@ -2285,3 +2285,157 @@ go run main.go -folder /path/to/sync/folder -peer <address_from_first_computer>
 Если ваши байт-слайсы (или строки) содержат текстовые данные, то, когда понадобится сравнить значения без учёта регистра, вы можете использовать ToUpper() или ToLower() из пакетов bytes и strings (прежде чем прибегнуть к ==, bytes.Equal() или bytes.Compare()). Это сработает для англоязычных текстов, но не для многих других языков. Так что лучше выбрать strings.EqualFold() и bytes.EqualFold().
 
 Если ваши байт-слайсы содержат секретные данные (криптографические хеши, токены и т. д.), которые нужно сравнивать с предоставленной пользователями информацией, обойдитесь без reflect.DeepEqual(), bytes.Equal() или bytes.Compare(). Эти функции сделают приложение уязвимым к атакам по времени. Чтобы избежать утечки информации о времени, используйте функции из пакета crypto/subtle (например, subtle.ConstantTimeCompare()).
+
+## Сравнение struct, array, slice и map
+
+Можно использовать оператор эквивалентности `==` для сравнения переменных структур, если каждое поле структуры можно сравнить с помощью этого оператора.
+
+```go
+package main
+
+import "fmt"
+
+type data struct {
+    num     int
+    fp      float32
+    complex complex64
+    str     string
+    char    rune
+    yes     bool
+    events  <-chan string
+    handler interface{}
+    ref     *byte
+    raw     [10]byte
+}
+
+func main() {
+    v1 := data{}
+    v2 := data{}
+    fmt.Println("v1 == v2:", v1 == v2) // выводит: v1 == v2: true
+}
+```
+
+Если хоть одно из полей несравниваемо, то применение оператора эквивалентности приведёт к ошибке компилирования. Обратите внимание, что сравнивать массивы можно только тогда, когда сравниваемы их данные.
+
+```go
+package main
+
+import "fmt"
+
+type data struct {
+    num    int                // ok
+    checks [10]func() bool   // несравниваемо
+    doit   func() bool       // несравниваемо
+    m      map[string]string // несравниваемо
+    bytes  []byte           // несравниваемо
+}
+
+func main() {
+    v1 := data{}
+    v2 := data{}
+    fmt.Println("v1 == v2:", v1 == v2)
+}
+```
+
+Go предоставляет несколько вспомогательных функций для сравнения переменных, которые нельзя сравнивать с помощью операторов сравнения.
+
+Самое популярное решение: использовать функцию `DeepEqual()` из пакета reflect.
+
+```go
+package main
+
+import (
+    "fmt"
+    "reflect"
+)
+
+type data struct {
+    num    int                // ok
+    checks [10]func() bool   // несравниваемо
+    doit   func() bool       // несравниваемо
+    m      map[string]string // несравниваемо
+    bytes  []byte           // несравниваемо
+}
+
+func main() {
+    v1 := data{}
+    v2 := data{}
+    fmt.Println("v1 == v2:", reflect.DeepEqual(v1, v2)) // prints: v1 == v2: true
+
+    m1 := map[string]string{"one": "a", "two": "b"}
+    m2 := map[string]string{"two": "b", "one": "a"}
+    fmt.Println("m1 == m2:", reflect.DeepEqual(m1, m2)) // prints: m1 == m2: true
+
+    s1 := []int{1, 2, 3}
+    s2 := []int{1, 2, 3}
+    fmt.Println("s1 == s2:", reflect.DeepEqual(s1, s2)) // prints: s1 == s2: true
+}
+```
+
+Помимо невысокой скорости (что может быть критично для вашего приложения), `DeepEqual()` имеет свои собственные подводные камни.
+
+```go
+package main
+
+import (
+    "fmt"
+    "reflect"
+)
+
+func main() {
+    var b1 []byte = nil
+    b2 := []byte{}
+    fmt.Println("b1 == b2:", reflect.DeepEqual(b1, b2)) // prints: b1 == b2: false
+}
+```
+
+`DeepEqual()` не считает пустой слайс эквивалентным `nil`-слайсу. Это поведение отличается от того, что вы получите при использовании функции `bytes.Equal()`: она считает эквивалентными `nil` и пустые слайсы.
+
+```go
+package main
+
+import (
+    "fmt"
+    "bytes"
+)
+
+func main() {
+    var b1 []byte = nil
+    b2 := []byte{}
+    fmt.Println("b1 == b2:", bytes.Equal(b1, b2)) // prints: b1 == b2: true
+}
+```
+
+`DeepEqual()` не всегда идеальна при сравнении слайсов.
+
+```go
+package main
+
+import (
+    "fmt"
+    "reflect"
+    "encoding/json"
+)
+
+func main() {
+    var str string = "one"
+    var in interface{} = "one"
+    fmt.Println("str == in:", str == in, reflect.DeepEqual(str, in))
+    //prints: str == in: true true
+
+    v1 := []string{"one", "two"}
+    v2 := []interface{}{"one", "two"}
+    fmt.Println("v1 == v2:", reflect.DeepEqual(v1, v2))
+    //prints: v1 == v2: false (not ok)
+
+    data := map[string]interface{}{
+        "code":  200,
+        "value": []string{"one", "two"},
+    }
+    encoded, _ := json.Marshal(data)
+    var decoded map[string]interface{}
+    json.Unmarshal(encoded, &decoded)
+    fmt.Println("data == decoded:", reflect.DeepEqual(data, decoded))
+    //prints: data == decoded: false (not ok)
+}
+```
