@@ -233,6 +233,7 @@
 - Полезные инструменты для разработки(генератор хэш суммы и др.) https://it-tools.tech/
 - Scripting Course. Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim. https://learnbyexample.github.io/scripting_course/
 - Windframe - это инструмент для кастомизации дизайна веб-компонентов из библиотек Tailwind UI и CSS с возможностью визуального редактирования стилей, цветов и макетов перед интеграцией обновлённых компонентов в проект на React или Vue. https://windframe.dev/
+- https://enable-cors.org/
 
 ### Репозитории
 
@@ -367,6 +368,8 @@
    - PTR
       - Understanding PTR DNS Resource Records https://dmarcian.com/ptr-records/
       - WHAT IS A PTR (REVERSE DNS) RECORD? https://potentpages.com/servers/hosting/dns/what-is-a-ptr-record
+- CORS
+   - Why is an OPTIONS request sent and can I disable it? https://stackoverflow.com/questions/29954037/why-is-an-options-request-sent-and-can-i-disable-it
 - Тайм-менеджмент
    - Timeless principles of Time Management https://makemeacto.substack.com/p/timeless-principles-of-time-management
 - Хостинг

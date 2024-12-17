@@ -66,7 +66,6 @@
   - What is JavaScript Concurrency and a Deep Dive into the Event Loop, Async Operations, and Real-World Examples https://www.mbloging.com/post/mastering-javascript-concurrency-a-deep-dive-into-the-event-loop-async-operations-and-real-world
 - CORS
   - JavaScript Fetch CORS: Understanding and Implementing Cross-Origin Requests https://www.mbloging.com/post/javascript-fetch-cors
-  - Why is an OPTIONS request sent and can I disable it? https://stackoverflow.com/questions/29954037/why-is-an-options-request-sent-and-can-i-disable-it
 - Системы модулей
   - Модули — amd, cjs, esm и umd https://medium.com/@z4o4z/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-amd-cjs-esm-%D0%B8-umd-dff38c267117
   - Опыт модернизации пакетов в ESM https://reactdev.ru/guides/esm-modernization-lessons/
