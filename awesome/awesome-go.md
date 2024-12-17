@@ -304,6 +304,7 @@
     - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
   - Interface; Интерфейсы
     - Погружение в интерфейсы Go https://habr.com/ru/articles/856272/
+    - Interfaces and other types https://go.dev/doc/effective_go#interfaces_and_types
   - Внутреннее устройство
     - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
   - Каналы
