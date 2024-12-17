@@ -319,8 +319,9 @@
 
 ### Статьи
 
-- Front-end
+- HTML Верстка
    - Готовимся к вопросам по вёрстке на интервью Frontend-разработчика: «Какие знаешь псевдо-классы?» https://habr.com/ru/companies/ruvds/articles/864762/
+   - Неизвестно полезный CSS https://habr.com/ru/companies/ruvds/articles/775986/
 - Архитектура
    - Паттерны
       - https://martinfowler.com/bliki/CircuitBreaker.html
