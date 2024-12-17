@@ -59,8 +59,10 @@
   - Убийцы оптимизации https://frontender.info/optimization-killers/
 - Генераторы
   - JavaScript Generators Explained, But On A Senior-Level https://www.reactsquad.io/blog/understanding-generators-in-javascript
-- Дата
+- Дата время; Date
   - JS Dates Are About to Be Fixed https://docs.timetime.in/blog/js-dates-finally-fixed/
+- Event loop
+  - Understanding the Event Loop in JavaScript: A Comprehensive Guide https://learncodecamp.net/event-loop-in-javascript/
 - Системы модулей
   - Модули — amd, cjs, esm и umd https://medium.com/@z4o4z/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-amd-cjs-esm-%D0%B8-umd-dff38c267117
   - Опыт модернизации пакетов в ESM https://reactdev.ru/guides/esm-modernization-lessons/
