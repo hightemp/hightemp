@@ -378,6 +378,7 @@
       - WHAT IS A PTR (REVERSE DNS) RECORD? https://potentpages.com/servers/hosting/dns/what-is-a-ptr-record
 - CORS
    - Why is an OPTIONS request sent and can I disable it? https://stackoverflow.com/questions/29954037/why-is-an-options-request-sent-and-can-i-disable-it
+   - Cross-Origin Resource Sharing (CORS), Same Origin Policy (SOP) and Why We Need Preflight Requests ? https://medium.com/@ravikumarray92/cross-origin-resource-sharing-cors-same-origin-policy-sop-and-why-we-need-preflight-requests-aa66c5872af1
 - Тайм-менеджмент
    - Timeless principles of Time Management https://makemeacto.substack.com/p/timeless-principles-of-time-management
 - Хостинг
