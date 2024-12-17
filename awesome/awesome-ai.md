@@ -441,6 +441,10 @@
 - https://github.com/openai/tiktoken
 - https://huggingface.co/Xenova/text-embedding-ada-002
 
+### Промты
+
+- https://github.com/DenisSergeevitch/chatgpt-custom-instructions
+
 ### Полезные ссылки
 
 - Sentence Transformers https://huggingface.co/sentence-transformers
