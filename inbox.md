@@ -4,4 +4,4 @@
 - https://www.pramp.com/#/
 - https://mlcourse.ai/
 - https://lena-voita.github.io/nlp_course.html
-- 
+- https://illustrated-machine-learning.github.io/

@@ -507,6 +507,7 @@
 ### Учебники
 
 - Учебник по машинному обучению(ШАД) https://education.yandex.ru/handbook/ml
+- https://illustrated-machine-learning.github.io/
 
 ### Блоги
 
