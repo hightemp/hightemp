@@ -479,6 +479,7 @@
 ### Вопросы; Интерьвью
 
 - https://github.com/alirezadir/Machine-Learning-Interviews/tree/main
+- https://datajourney24.substack.com/p/acing-machine-learning-breadth-interviews?utm_campaign=post&utm_medium=web
 
 ### Курсы
 
