@@ -2,3 +2,4 @@
 - https://www.youtube.com/watch?v=PJKYqLP6MRE&ab_channel=JacksonGabbard
 - http://interviewing.io/
 - https://www.pramp.com/#/
+- https://mlcourse.ai/
