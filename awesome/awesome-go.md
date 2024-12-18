@@ -372,6 +372,7 @@
     - Preemption in Go: an introduction https://unskilled.blog/posts/preemption-in-go-an-introduction/
     - Пример создания Makefile для Go-приложений https://habr.com/ru/articles/461467/
     - Некоторые подводные грабли в языке Go https://eax.me/golang-gotchas/
+    - Scheduling In Go : Part I - OS Scheduler https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
 - vim, nvim
   - My NeoVim Go(lang) setup — As good as Intellj/Goland IDE https://medium.com/@suyash10581108/my-neovim-go-lang-setup-as-good-as-intellj-goland-ide-d48dd765f6de
   - Configure Neovim for Golang https://andrewcourter.substack.com/p/configure-neovim-for-golang
