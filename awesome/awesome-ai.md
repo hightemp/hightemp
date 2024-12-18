@@ -485,6 +485,7 @@
 
 ### Курсы
 
+- https://mlcourse.ai/
 - Проект "Generative AI For Beginners" представляет собой комплексный курс из 18 уроков, разработанный Microsoft Cloud Advocates, который обучает основам создания приложений с использованием генеративного искусственного интеллекта, предоставляя теоретические и практические материалы, а также примеры кода на Python и TypeScript. https://github.com/microsoft/generative-ai-for-beginners
 - Машинное обучение (курс лекций, К.В.Воронцов) http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29
 - NLP Course | For You, Lena Voita https://lena-voita.github.io/nlp_course.html
