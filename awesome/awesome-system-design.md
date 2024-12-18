@@ -31,6 +31,11 @@
 - https://github.com/ByteByteGoHq/system-design-101
 - https://github.com/karanpratapsingh/system-design
 
+### Книги
+
+- System Design Interview – An insider's guide (Alex Xu)
+    - https://www.amazon.nl/-/en/Alex-Xu/dp/B08CMF2CQF
+
 ### Репозитории
 
 ### Блоги
