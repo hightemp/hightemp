@@ -476,7 +476,7 @@
     - https://github.com/dzhng/llm-api
     - https://github.com/Portkey-AI/gateway
 
-### Вопросы; Интерьвью
+### Вопросы; Интерьвью; ML Breadth
 
 - https://github.com/alirezadir/Machine-Learning-Interviews/tree/main
 - https://datajourney24.substack.com/p/acing-machine-learning-breadth-interviews?utm_campaign=post&utm_medium=web
