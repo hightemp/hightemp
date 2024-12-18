@@ -480,6 +480,7 @@
 
 - https://github.com/alirezadir/Machine-Learning-Interviews/tree/main
 - https://datajourney24.substack.com/p/acing-machine-learning-breadth-interviews?utm_campaign=post&utm_medium=web
+- https://medium.com/@ramyhus/cracking-the-machine-learning-interview-a-comprehensive-guide-5f4857501516
 
 ### Курсы
 
