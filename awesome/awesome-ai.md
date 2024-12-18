@@ -476,6 +476,10 @@
     - https://github.com/dzhng/llm-api
     - https://github.com/Portkey-AI/gateway
 
+### Вопросы; Интерьвью
+
+- https://github.com/alirezadir/Machine-Learning-Interviews/tree/main
+
 ### Курсы
 
 - Проект "Generative AI For Beginners" представляет собой комплексный курс из 18 уроков, разработанный Microsoft Cloud Advocates, который обучает основам создания приложений с использованием генеративного искусственного интеллекта, предоставляя теоретические и практические материалы, а также примеры кода на Python и TypeScript. https://github.com/microsoft/generative-ai-for-beginners
