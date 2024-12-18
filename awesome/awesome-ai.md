@@ -508,6 +508,10 @@
 
 - Учебник по машинному обучению(ШАД) https://education.yandex.ru/handbook/ml
 
+### Блоги
+
+- https://jalammar.github.io/
+
 ### Статьи
 
 - Трансформеры
