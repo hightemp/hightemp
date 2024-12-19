@@ -645,7 +645,6 @@
     - Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om
     - Hexagonal Architecture: Structuring a project and the influence of granularity https://medium.com/@TonyBologni/hexagonal-architecture-structuring-a-project-and-the-influence-of-granularity-df4e0851ab5c
   - Паттерны
-    - 5 паттернов проектирования в Go на примере котиков https://habr.com/ru/companies/otus/articles/864748/
     - Head First Design Patterns using Go —1. Introduction https://faun.pub/head-first-design-patterns-using-go-introduction-d9f05a4c243a
     - Head First Design Patterns using Go — 2. Welcome to Design Patterns: the Strategy Pattern https://faun.pub/head-first-design-patterns-using-go-1-welcome-to-design-patterns-the-strategy-pattern-6cbd940e113a
     - Head First Design Patterns using Go — 3. Keeping your Objects in the know: the Observer Pattern https://faun.pub/head-first-design-patterns-using-go-1-keeping-your-objects-in-the-know-the-observer-pattern-948e6b5b66fc
@@ -669,6 +668,7 @@
     - Mastering 6 Golang Concurrency Patterns to Level Up Your Apps https://reliasoftware.com/blog/golang-concurrency-patterns
     - Top 3 Design Patterns for a Large Go Codebase https://medium.com/@opheliaandcat/top-3-design-patterns-for-a-large-go-codebase-79a324003b47
     - Common design patterns in Golang - Part 1 https://dwarvesf.hashnode.dev/common-design-patterns-in-golang-part-1
+    - 5 паттернов проектирования в Go на примере котиков https://habr.com/ru/companies/otus/articles/864748/
   - Остальное
     - An easy and practical approach to structuring Golang applications https://mbvisti.medium.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189
     - Distributed Transactions in Go: Read Before You Try https://threedots.tech/post/distributed-transactions-in-go
