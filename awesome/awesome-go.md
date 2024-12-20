@@ -696,6 +696,8 @@
     - Go sync.Pool and the Mechanics Behind It https://victoriametrics.com/blog/go-sync-pool/index.html
   - Остальное
     - Go sync.Cond, the Most Overlooked Sync Mechanism https://victoriametrics.com/blog/go-sync-cond/index.html
+- Парамтеры структур
+  - The Go *Options pattern https://nuculabs.dev/p/the-go-options-pattern
 - Кэширование, cache
   - Go High-Performance Cache with TTL and Disk Persistence https://dev.to/leoantony72/go-high-performance-cache-with-ttl-and-disk-persistence-4a4m
   - Implementing a Sieve cache in Go https://medium.com/@mehul25/implementing-a-sieve-cache-in-go-9652cfa99278
