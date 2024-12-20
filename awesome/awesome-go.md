@@ -311,6 +311,8 @@
     - Погружение в интерфейсы Go https://habr.com/ru/articles/856272/
     - Interfaces and other types https://go.dev/doc/effective_go#interfaces_and_types
     - Interface types https://go.dev/ref/spec#Interface_types
+  - Контекст; Context
+    - Понимание контекста https://habr.com/ru/articles/864348/
   - Внутреннее устройство
     - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
   - Каналы
