@@ -482,16 +482,19 @@
     - Mastering WebSockets With Go https://programmingpercy.tech/blog/mastering-websockets-with-go/
     - How to Use WebSocket in Golang: Step-by-Step Guide https://www.videosdk.live/developer-hub/websocket/golang-websocket
   - Proxy, Прокси
-    - Network Programming and Proxies in Golang https://blog.ralch.com/articles/network-programming-and-proxies-in-golang/
-    - Implementing a Reverse Proxy API in Go https://tobiojuolape.hashnode.dev/implementing-a-reverse-proxy-api-in-go
-    - Creating a simple proxy server with Go https://reintech.io/blog/creating-simple-proxy-server-with-go
-    - Implementing a Logging Proxy Server with Golang https://medium.com/@bless2k/implementing-a-logging-proxy-server-with-golang-d0c673ef1f56
-    - How to use a Forwarding Proxy with golang https://gianarb.it/blog/golang-forwarding-proxy
-    - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
-    - Go and Proxy Servers: Part 1 - HTTP Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/
-    - Go and Proxy Servers: Part 2 - HTTPS Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-2-https-proxies/
-    - Go and Proxy Servers: Part 3 - SOCKS proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-3-socks-proxies/
-    - Transparent http proxy with Golang and tproxy https://taczanowski.net/transparent-http-proxy-with-golang-and-tproxy/
+    - Reverse proxy
+      - How to Create a Reverse Proxy using Golang https://www.codedodle.com/go-reverse-proxy-example.html
+    - Остальное
+      - Network Programming and Proxies in Golang https://blog.ralch.com/articles/network-programming-and-proxies-in-golang/
+      - Implementing a Reverse Proxy API in Go https://tobiojuolape.hashnode.dev/implementing-a-reverse-proxy-api-in-go
+      - Creating a simple proxy server with Go https://reintech.io/blog/creating-simple-proxy-server-with-go
+      - Implementing a Logging Proxy Server with Golang https://medium.com/@bless2k/implementing-a-logging-proxy-server-with-golang-d0c673ef1f56
+      - How to use a Forwarding Proxy with golang https://gianarb.it/blog/golang-forwarding-proxy
+      - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
+      - Go and Proxy Servers: Part 1 - HTTP Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/
+      - Go and Proxy Servers: Part 2 - HTTPS Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-2-https-proxies/
+      - Go and Proxy Servers: Part 3 - SOCKS proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-3-socks-proxies/
+      - Transparent http proxy with Golang and tproxy https://taczanowski.net/transparent-http-proxy-with-golang-and-tproxy/
   - p2p
     - A P2P Network with Golang and libp2p https://www.sayipolia.com/projects/p2p-golang/
     - p2p chat app with libp2p [support peer discovery using mdns] https://pkg.go.dev/github.com/libp2p/go-libp2p/examples@v0.0.0-20241210164036-4e85c9611ae6/chat-with-mdns#section-readme
