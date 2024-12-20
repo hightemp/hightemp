@@ -313,6 +313,8 @@
     - Interface types https://go.dev/ref/spec#Interface_types
   - Контекст; Context
     - Понимание контекста https://habr.com/ru/articles/864348/
+  - Unsafe
+    - Обзор пакета unsafe: как обходить ограничения Go (но лучше этого не делать) https://habr.com/ru/companies/otus/articles/862854/
   - Внутреннее устройство
     - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
   - Каналы
