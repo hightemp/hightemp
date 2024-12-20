@@ -534,6 +534,7 @@
 - git
   - Notes on using Go to write gitbackup https://echorand.me/posts/golang-notes-gitbackup/
   - Gitch. Сервис для зеркалирования репозиториев https://kovardin.ru/articles/miniservices/gitch/
+  - Parsing git status with Go https://le-gall.bzh/post/go/parsing-git-status-with-go/
 - Файлы
   - Read File in Golang https://www.scaler.com/topics/golang/golang-read-file/
   - How to Read a Text File with Go https://www.jeremymorgan.com/tutorials/go/how-to-read-text-file-go/
