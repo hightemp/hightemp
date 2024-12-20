@@ -744,6 +744,7 @@
   - RAG
     - RAG "from Scratch" with Go and Ollama https://k33g.hashnode.dev/rag-from-scratch-with-go-and-ollama
   - LLM
+    - Пишем сервис инференса ML-модели на go, на примере BERT-а https://habr.com/ru/companies/X5Tech/articles/864438/
     - Building LLM-powered applications in Go https://go.dev/blog/llmpowered
     - Prompt Engineering to Grow Yourself a Nanoservice Garden https://nathanleclaire.com/blog/2024/06/23/prompt-engineering-to-grow-yourself-a-nanoservice-garden/
 - SSH
