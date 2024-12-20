@@ -716,6 +716,8 @@
   - Integrating logrus with cobra https://le-gall.bzh/post/go/integrating-logrus-with-cobra/
 - Планировщик, Scheduler
   - Mastering Task Scheduling in Go: Gron, JobRunner, and Gocron https://medium.com/@murataslan1/mastering-task-scheduling-in-go-gron-jobrunner-and-gocron-0123d5c4ee95
+- CI/CD
+  - A Makefile based CI/CD chain for Go https://le-gall.bzh/post/makefile-based-ci-chain-for-go/
 - Бенчмарки, Benchmarks
   - Leveraging benchstat Projections in Go Benchmark Analysis! https://www.bwplotka.dev/2024/go-microbenchmarks-benchstat/
 - Тестирование
