@@ -252,6 +252,7 @@
 - Основы программирования на Golang (на индонезийском) https://dasarpemrogramangolang.novalagung.com/
 - https://github.com/CodeYourFuture/immersive-go-course/
 - https://code-basics.com/ru/languages/go/lessons/funcs
+- https://golangify.com/go/kurs-izucheniya-golang-dlya-nachinayuschih
 
 ### Гайды
 
