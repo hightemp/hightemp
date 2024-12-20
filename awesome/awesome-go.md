@@ -251,6 +251,7 @@
 - Go Class Matt KØDVB https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
 - Основы программирования на Golang (на индонезийском) https://dasarpemrogramangolang.novalagung.com/
 - https://github.com/CodeYourFuture/immersive-go-course/
+- https://code-basics.com/ru/languages/go/lessons/funcs
 
 ### Гайды
 
