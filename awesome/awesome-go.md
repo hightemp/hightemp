@@ -444,6 +444,8 @@
   - PostgreSQL
     - Connecting to PostgreSQL in Golang https://medium.com/@dewirahmawatie/connecting-to-postgresql-in-golang-59d7b208bad2
     - GO-PG Golang Postgre ORM https://medium.com/tunaiku-tech/go-pg-golang-postgre-orm-2618b75c0430
+- CLI
+  - Building a CLI App in Golang https://neo-femo.hashnode.dev/building-a-cli-app-in-golang
 - Сеть
   - net/http
     - client
