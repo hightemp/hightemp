@@ -486,6 +486,7 @@
       - How to Create a Reverse Proxy using Golang https://www.codedodle.com/go-reverse-proxy-example.html
       - Build reverse proxy server in Go https://dev.to/b0r/implement-reverse-proxy-in-gogolang-2cp4
       - Implementing a Reverse Proxy API in Go https://tobiojuolape.hashnode.dev/implementing-a-reverse-proxy-api-in-go
+      - A simple reverse proxy in Go using Gin https://le-gall.bzh/post/go/a-reverse-proxy-in-go-using-gin/
     - Forward proxy
       - Creating a simple proxy server with Go https://reintech.io/blog/creating-simple-proxy-server-with-go
       - Implementing a Logging Proxy Server with Golang https://medium.com/@bless2k/implementing-a-logging-proxy-server-with-golang-d0c673ef1f56
