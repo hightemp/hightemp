@@ -484,13 +484,15 @@
   - Proxy, Прокси
     - Reverse proxy
       - How to Create a Reverse Proxy using Golang https://www.codedodle.com/go-reverse-proxy-example.html
-    - Остальное
-      - Network Programming and Proxies in Golang https://blog.ralch.com/articles/network-programming-and-proxies-in-golang/
+      - Build reverse proxy server in Go https://dev.to/b0r/implement-reverse-proxy-in-gogolang-2cp4
       - Implementing a Reverse Proxy API in Go https://tobiojuolape.hashnode.dev/implementing-a-reverse-proxy-api-in-go
+    - Forward proxy
       - Creating a simple proxy server with Go https://reintech.io/blog/creating-simple-proxy-server-with-go
       - Implementing a Logging Proxy Server with Golang https://medium.com/@bless2k/implementing-a-logging-proxy-server-with-golang-d0c673ef1f56
       - How to use a Forwarding Proxy with golang https://gianarb.it/blog/golang-forwarding-proxy
       - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
+    - Остальное
+      - Network Programming and Proxies in Golang https://blog.ralch.com/articles/network-programming-and-proxies-in-golang/
       - Go and Proxy Servers: Part 1 - HTTP Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/
       - Go and Proxy Servers: Part 2 - HTTPS Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-2-https-proxies/
       - Go and Proxy Servers: Part 3 - SOCKS proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-3-socks-proxies/
