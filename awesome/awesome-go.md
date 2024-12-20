@@ -713,6 +713,7 @@
   - Logging in Go with Slog: The Ultimate Guide https://betterstack.com/community/guides/logging/logging-in-go/
   - Trace Log in Golang https://riad.run/trace-in-golang
   - Effective Logging in Go: Best Practices and Examples https://medium.com/novai-go-programming-101/effective-logging-in-go-best-practices-and-examples-911c31145260
+  - Integrating logrus with cobra https://le-gall.bzh/post/go/integrating-logrus-with-cobra/
 - Планировщик, Scheduler
   - Mastering Task Scheduling in Go: Gron, JobRunner, and Gocron https://medium.com/@murataslan1/mastering-task-scheduling-in-go-gron-jobrunner-and-gocron-0123d5c4ee95
 - Бенчмарки, Benchmarks
