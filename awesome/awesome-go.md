@@ -739,6 +739,8 @@
       - Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
       - Raft Consensus — leader election with Golang https://medium.com/@govinda.attal/raft-consensus-leader-election-with-golang-89bfdbd471cb
 - AI
+  - RAG
+    - RAG "from Scratch" with Go and Ollama https://k33g.hashnode.dev/rag-from-scratch-with-go-and-ollama
   - LLM
     - Building LLM-powered applications in Go https://go.dev/blog/llmpowered
     - Prompt Engineering to Grow Yourself a Nanoservice Garden https://nathanleclaire.com/blog/2024/06/23/prompt-engineering-to-grow-yourself-a-nanoservice-garden/
