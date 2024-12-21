@@ -388,6 +388,8 @@
 - Подборки
    - Путь фулстека: 55 бесплатных учебных курсов по веб-разработке для новичков и профессионалов https://proglib.tech/p/put-fulsteka-55-besplatnyh-uchebnyh-kursov-po-veb-razrabotke-dlya-novichkov-i-professionalov-2021-12-08
    - The Best Personal Software Engineering Blogs https://www.qualified.io/blog/posts/the-best-personal-software-engineering-blogs
+- Windows
+   - Полный гайд настройки Windows + WSL для разработчика https://www.youtube.com/watch?v=EH3yeiZ5JRo
 - Остальное
    - How we built a new powerful JSON data type for ClickHouse https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse
    - Программисты ничего не знают (и это нормально) https://habr.com/ru/articles/863814/
