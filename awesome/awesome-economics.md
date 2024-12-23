@@ -38,6 +38,7 @@
 ### Полезные ссылки
 
 - RusEtfs - публичный агрегатор всех данных о ETF на Московской Бирже https://rusetfs.com/screener
+- https://businessmens.ru/
 
 ### Книги
 
