@@ -720,7 +720,7 @@
     - Go sync.Pool and the Mechanics Behind It https://victoriametrics.com/blog/go-sync-pool/index.html
   - Остальное
     - Go sync.Cond, the Most Overlooked Sync Mechanism https://victoriametrics.com/blog/go-sync-cond/index.html
-- Парамтеры структур
+- Параметры структур
   - The Go *Options pattern https://nuculabs.dev/p/the-go-options-pattern
 - Кэширование, cache
   - Go High-Performance Cache with TTL and Disk Persistence https://dev.to/leoantony72/go-high-performance-cache-with-ttl-and-disk-persistence-4a4m
@@ -730,6 +730,9 @@
   - Trace Log in Golang https://riad.run/trace-in-golang
   - Effective Logging in Go: Best Practices and Examples https://medium.com/novai-go-programming-101/effective-logging-in-go-best-practices-and-examples-911c31145260
   - Integrating logrus with cobra https://le-gall.bzh/post/go/integrating-logrus-with-cobra/
+- Безопасность
+  - Генераторы токенов
+    - Demystifying OTPs: the logic behind the offline generation of tokens https://itnext.io/demystifying-otps-the-logic-behind-the-offline-generation-of-tokens-baefca7aa0d0
 - Планировщик, Scheduler
   - Mastering Task Scheduling in Go: Gron, JobRunner, and Gocron https://medium.com/@murataslan1/mastering-task-scheduling-in-go-gron-jobrunner-and-gocron-0123d5c4ee95
 - CI/CD
