@@ -99,6 +99,7 @@
 
 ### Статьи
 
+- Основное
 - Примеры приложений
     - Learn the Basics of Go by Building a Full Stack Web App with React and Go https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/
     - How to Work with RESTful APIs in React https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/
@@ -134,6 +135,7 @@
         - 200 Project Ideas from Beginner to Advanced with Open Source Contributions https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a?ref=dailydev
 - Остальное
     - Что нового в React 19 https://habr.com/ru/companies/timeweb/articles/843016/
+    - Typescript для React https://habr.com/ru/articles/860418/
 
 ### Видео
 
