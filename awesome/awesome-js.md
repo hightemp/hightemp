@@ -72,6 +72,8 @@
 - Дата время; Date
   - JS Dates Are About to Be Fixed https://docs.timetime.in/blog/js-dates-finally-fixed/
   - How to Sort an Object Array by Date in JavaScript: A Complete Guide https://www.mbloging.com/post/how-to-sort-an-object-array-by-date-in-javascript-a-complete-guide
+- Vite
+  - Vite 6.0: Новые возможности и будущее веб-разработки https://habr.com/ru/companies/first/articles/867200/
 - CORS
   - JavaScript Fetch CORS: Understanding and Implementing Cross-Origin Requests https://www.mbloging.com/post/javascript-fetch-cors
 - Системы модулей
