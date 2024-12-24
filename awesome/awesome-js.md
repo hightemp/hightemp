@@ -55,6 +55,8 @@
     - What is JavaScript Concurrency and a Deep Dive into the Event Loop, Async Operations, and Real-World Examples https://www.mbloging.com/post/mastering-javascript-concurrency-a-deep-dive-into-the-event-loop-async-operations-and-real-world
   - Остальное
     - WeakMap и WeakSet в JavaScript https://habr.com/ru/companies/otus/articles/865512/
+- Алгоритмы
+  - JavaScript: структуры данных и алгоритмы. Часть 7 https://habr.com/ru/companies/timeweb/articles/856046/
 - VSCode
   - Essential VS Code Extensions for JavaScript Developers in 2024 https://www.gitkraken.com/blog/vs-code-extensions-for-javascript-developers
   - 10 Must-Have VS Code extensions for JavaScript developers https://towardsthecloud.com/best-vscode-extensions-javascript
