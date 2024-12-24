@@ -995,6 +995,7 @@
 - https://www.codedodle.com/tutorials
 - https://le-gall.bzh/categories/go/
 - https://reintech.io/blog?technology=go
+- https://blog.boot.dev/golang/
 
 ### Подкасты
 
