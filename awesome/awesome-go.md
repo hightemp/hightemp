@@ -303,6 +303,7 @@
     - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
     - Go range iterators demystified https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/
     - Go 1.23 Iterators Tutorial https://tutorialedge.net/golang/go-123-iterators-tutorial/
+    - The new maps and slices packages in Go 1.23: tour and examples https://www.dolthub.com/blog/2024-12-20-collection-functions-in-go-1-23/
   - Типы
     - The differences between "Type Alias" and "New Types" in Go https://perfects.engineering/blog/go_alias_vs_new_types
     - All your comparable types https://go.dev/blog/comparable
