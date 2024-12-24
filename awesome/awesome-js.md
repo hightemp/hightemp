@@ -32,6 +32,7 @@
 - Сайт о регулярных выражениях https://www.regular-expressions.info/tutorial.html
 - https://www.patterns.dev/
 - Структуры данных и алгоритмы на JavaScript https://github.com/harryheman/algorithms-data-structures
+- JavaScript Algorithms and Data Structures https://github.com/trekhleb/javascript-algorithms
 
 ### Примеры приложений
 
