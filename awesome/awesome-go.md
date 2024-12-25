@@ -791,6 +791,8 @@
 - Поиск
   - pgvector
     - Пишем поиск семантически похожих текстов (или товаров) за полчаса на Go и Postgres (pgVector) https://habr.com/ru/companies/karuna/articles/809305/
+- JSON
+  - How To Pretty-Print JSON in Go https://www.kelche.co/blog/go/golang-json-pretty-print/
 - React
   - Getting started with Go and React - Webservice, Routing and Status Log https://mpolinowski.github.io/docs/Development/Go/2021-09-21--golang-react-starter-part-i/2021-09-21
   - Getting started with Go and React - API Routes https://mpolinowski.github.io/docs/Development/Go/2021-09-22--golang-react-starter-part-ii/2021-09-22
