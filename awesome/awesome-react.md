@@ -21,7 +21,7 @@
 ### Библиотеки
 
 - UI Библиотеки
-    - https://github.com/mui/material-ui
+    - https://github.com/mui/material-ui https://mui.com/material-ui/
     - https://github.com/chakra-ui/chakra-ui
     - https://github.com/ant-design/ant-design
     - https://github.com/react-bootstrap/react-bootstrap
