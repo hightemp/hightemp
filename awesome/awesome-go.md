@@ -730,6 +730,7 @@
   - Go High-Performance Cache with TTL and Disk Persistence https://dev.to/leoantony72/go-high-performance-cache-with-ttl-and-disk-persistence-4a4m
   - Implementing a Sieve cache in Go https://medium.com/@mehul25/implementing-a-sieve-cache-in-go-9652cfa99278
 - Логгирование, Logging
+  - A Hands-On Approach to Zap - Structured Logging in Go https://www.kelche.co/blog/go/zap/
   - Logging in Go with Slog: The Ultimate Guide https://betterstack.com/community/guides/logging/logging-in-go/
   - Trace Log in Golang https://riad.run/trace-in-golang
   - Effective Logging in Go: Best Practices and Examples https://medium.com/novai-go-programming-101/effective-logging-in-go-best-practices-and-examples-911c31145260
