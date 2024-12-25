@@ -104,7 +104,7 @@
     - Хуки
         - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
     - Остальное
-        - React Basics An Easy Introduction for Newcomers. https://thevishingh-react.hashnode.dev/react-basics-an-easy-introduction-for-newcomers
+        
 - Примеры приложений
     - Learn the Basics of Go by Building a Full Stack Web App with React and Go https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/
     - How to Work with RESTful APIs in React https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/
