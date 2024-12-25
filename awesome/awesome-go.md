@@ -383,6 +383,7 @@
     - Go generics https://zetcode.com/golang/generics/
     - When To Use Generics https://go.dev/blog/when-generics
     - GENERICS IN GO https://www.golang101.com/advanced-go-concepts/generics/
+    - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
   - Остальное
