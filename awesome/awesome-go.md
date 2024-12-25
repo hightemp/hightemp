@@ -307,6 +307,8 @@
   - Типы
     - The differences between "Type Alias" and "New Types" in Go https://perfects.engineering/blog/go_alias_vs_new_types
     - All your comparable types https://go.dev/blog/comparable
+  - String
+    - Golang String Manipulation https://www.kelche.co/blog/go/golang-strings/
   - Struct; Структуры
     - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
   - Interface; Интерфейсы
