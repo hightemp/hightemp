@@ -1009,6 +1009,7 @@
 - https://reintech.io/blog?technology=go
 - https://blog.boot.dev/golang/
 - https://www.kelche.co/tags/golang/
+- https://zetcode.com/all/#go
 
 ### Подкасты
 
