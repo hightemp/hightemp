@@ -50,6 +50,7 @@
     - https://github.com/AllenFang/react-bootstrap-table
     - https://github.com/silevis/reactgrid
     - https://react-data-table-component.netlify.app/ https://github.com/jbetancur/react-data-table-component
+    - https://github.com/damiansire/react-dynamic-tables
 - Редакторы
     - Markdown
         - HyperMD - это расширенный редактор Markdown с предпросмотром в реальном времени, поддержкой таблиц, сносок, списков дел, формул LaTeX, диаграмм, вставки изображений, работой с файлами через буфер обмена, синтаксической подсветкой более 120 языков, использованием сторонних библиотек и сервисов. https://github.com/laobubu/HyperMD
