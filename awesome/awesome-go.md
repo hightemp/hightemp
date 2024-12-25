@@ -611,6 +611,8 @@
     - Шаблоны
       - How to Show Flash Messages in Go web applications (with Echo framework) https://webdevstation.com/posts/how-to-show-flash-messages-in-go-echo/
       - How To Set Up Nested HTML Templates In The Go Echo Web Framework https://www.bomberbot.com/web-development/how-to-set-up-nested-html-templates-in-the-go-echo-web-framework/
+    - Остальное
+      - How to Group Routes in Golang Echo https://www.kelche.co/blog/go/echo-group-routes/
 - Лучшие практики
   - Go best practices, six years in https://peter.bourgon.org/go-best-practices-2016/?ref=refind
   - Применения Continuation-passing style в Go https://habr.com/ru/articles/836702/
