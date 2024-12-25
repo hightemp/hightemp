@@ -120,6 +120,7 @@
     - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
 - Таблицы
     - How to Create Tables Using the React-Data-Table-Component Library in React & TypeScript https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/
+    - Creating a Dynamic Table in React Using react-table (v7.8.0). https://dev.to/hcoco1/creating-a-dynamic-table-in-react-using-react-table-v780-3823
 - Математические формулы
     - Rendering Markdown and LaTeX in React https://medium.com/@MatDrinksTea/rendering-markdown-and-latex-in-react-dec355e74119
 - Формы
