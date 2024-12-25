@@ -139,6 +139,8 @@
         - 12 бесплатных ресурсов для изучения React https://proglib.io/p/12-besplatnyh-resursov-dlya-izucheniya-react-2020-06-23
         - Top 20 React Component Libraries You Need to Explore https://medium.com/@Choco23/top-20-react-component-libraries-you-need-to-explore-f1293c424068
         - 200 Project Ideas from Beginner to Advanced with Open Source Contributions https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a?ref=dailydev
+- Roadmap
+    - 2025 React Frontend Roadmap: Beginner to Senior Level https://dev.to/tak089/2025-react-frontend-roadmap-beginner-to-senior-level-5g25
 - Остальное
     - Что нового в React 19 https://habr.com/ru/companies/timeweb/articles/843016/
     - Typescript для React https://habr.com/ru/articles/860418/
