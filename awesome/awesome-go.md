@@ -342,6 +342,7 @@
     - Struct Tags in Go: Implementing Custom Tag Functionality https://medium.com/@ullauri.byron/struct-tags-in-go-implementing-custom-tag-functionality-b32c3c87423d
     - Структурные теги в golang http://xztvc.ru/post/strukturnye-tegi-v-golang
   - JSON
+    - How To Pretty-Print JSON in Go https://www.kelche.co/blog/go/golang-json-pretty-print/
     - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
   - Sync
     - Sync Package: What Are New Features in Golang sync.Once? https://reliasoftware.com/blog/new-features-in-golang-sync-once
@@ -793,8 +794,6 @@
 - Поиск
   - pgvector
     - Пишем поиск семантически похожих текстов (или товаров) за полчаса на Go и Postgres (pgVector) https://habr.com/ru/companies/karuna/articles/809305/
-- JSON
-  - How To Pretty-Print JSON in Go https://www.kelche.co/blog/go/golang-json-pretty-print/
 - React
   - Getting started with Go and React - Webservice, Routing and Status Log https://mpolinowski.github.io/docs/Development/Go/2021-09-21--golang-react-starter-part-i/2021-09-21
   - Getting started with Go and React - API Routes https://mpolinowski.github.io/docs/Development/Go/2021-09-22--golang-react-starter-part-ii/2021-09-22
