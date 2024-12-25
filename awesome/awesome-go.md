@@ -375,7 +375,7 @@
     - Advanced error handling strategies in Go https://medium.com/@guilhermemls/advanced-error-handling-strategies-in-go-12ef4ee621d7
     - Errors, Errors Everywhere: How We Centralized and Structured Error Handling https://olivernguyen.io/w/namespace.error/
   - Дженерики; Generics
-    - Дженерики в Go https://habr.com/ru/companies/beget/articles/862910/
+    - Mastering Generics In Go: A Comprehensive Tutorial https://www.kelche.co/blog/go/golang-generics/
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
   - Остальное
