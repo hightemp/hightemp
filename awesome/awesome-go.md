@@ -812,6 +812,7 @@
 - Live reloading
   - Live Reloading in Go https://hovanhoa.hashnode.dev/live-reloading-in-go
 - Остальное
+  - Mastering Time Handling in Go: Libraries, Tips, and Examples https://ahmedrazadev.hashnode.dev/mastering-time-handling-in-go-libraries-tips-and-examples
   - Building a Slack Command with Go https://guzalexander.com/2017/09/15/cowsay-slack-command.html
   - A taste of Go code generator magic: a quick guide to getting started https://evilmartians.com/chronicles/a-taste-of-go-code-generator-magic-a-quick-guide-to-getting-started
   - Go’s gem: how Singleflight turbocharged our app’s efficiency and reduced costs https://medium.com/mercadolibre-tech/gos-gem-how-singleflight-turbocharged-our-app-s-efficiency-and-reduced-costs-1a736aeea641
