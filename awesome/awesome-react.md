@@ -142,6 +142,7 @@
 - Остальное
     - Что нового в React 19 https://habr.com/ru/companies/timeweb/articles/843016/
     - Typescript для React https://habr.com/ru/articles/860418/
+    - Code Splitting for React https://xylophone.hashnode.dev/code-splitting-for-react
 
 ### Видео
 
