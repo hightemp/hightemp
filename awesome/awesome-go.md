@@ -608,6 +608,7 @@
       - Go Echo API Server Development https://dev.to/nrikiji/go-echo-api-server-development-4008
       - Golang Echo Tutorial: REST API with PostgreSQL https://www.kelche.co/blog/go/golang-echo-tutorial/
       - Creating a Go(lang) API with Echo Framework and PostgreSQL https://www.restapiexample.com/golang-tutorial/creating-golang-api-echo-framework-postgresql/
+      - Golang Echo Tutorial: REST API with PostgreSQL https://www.kelche.co/blog/go/golang-echo-tutorial/
     - Шаблоны
       - How to Show Flash Messages in Go web applications (with Echo framework) https://webdevstation.com/posts/how-to-show-flash-messages-in-go-echo/
       - How To Set Up Nested HTML Templates In The Go Echo Web Framework https://www.bomberbot.com/web-development/how-to-set-up-nested-html-templates-in-the-go-echo-web-framework/
