@@ -101,6 +101,10 @@
 ### Статьи
 
 - Основное
+    - Хуки
+        - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
+    - Остальное
+        - React Basics An Easy Introduction for Newcomers. https://thevishingh-react.hashnode.dev/react-basics-an-easy-introduction-for-newcomers
 - Примеры приложений
     - Learn the Basics of Go by Building a Full Stack Web App with React and Go https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/
     - How to Work with RESTful APIs in React https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/
@@ -116,8 +120,8 @@
 - Архитектура
     - Остальное
         - Modularizing React Applications with Established UI Patterns https://martinfowler.com/articles/modularizing-react-apps.html
-- Хуки
-    - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
+- React Router
+    - Mastering React Router DOM: The Shortcut to Smooth Navigation in React https://sweabhishek.hashnode.dev/mastering-react-router-dom-the-shortcut-to-smooth-navigation-in-react
 - Таблицы
     - How to Create Tables Using the React-Data-Table-Component Library in React & TypeScript https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/
     - Creating a Dynamic Table in React Using react-table (v7.8.0). https://dev.to/hcoco1/creating-a-dynamic-table-in-react-using-react-table-v780-3823
