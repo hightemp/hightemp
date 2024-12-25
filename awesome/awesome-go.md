@@ -1018,6 +1018,7 @@
 - https://blog.boot.dev/golang/
 - https://www.kelche.co/tags/golang/
 - https://zetcode.com/all/#go
+- https://www.golang101.com/
 
 ### Подкасты
 
