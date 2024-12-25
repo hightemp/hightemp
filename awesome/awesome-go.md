@@ -490,6 +490,7 @@
     - HTTP/0.9 From Scratch https://kmcd.dev/posts/http0.9-from-scratch/
     - HTTP/1.0 From Scratch https://kmcd.dev/posts/http1.0-from-scratch/
     - The Ultimate Go HTTP Server Tutorial: Logging, Tracing, and More https://www.kelche.co/blog/go/http-server/
+    - Go download image https://zetcode.com/golang/download-image/
   - gRPC
     - gRPC From Scratch: Part 1 - Client https://kmcd.dev/posts/grpc-from-scratch/
     - gRPC From Scratch: Part 2 - Server https://kmcd.dev/posts/grpc-from-scratch-part-2/
