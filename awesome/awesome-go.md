@@ -382,6 +382,7 @@
     - Mastering Generics in Go: A Comprehensive Guide https://medium.com/hprog99/mastering-generics-in-go-a-comprehensive-guide-4d05ec4b12b
     - Go generics https://zetcode.com/golang/generics/
     - When To Use Generics https://go.dev/blog/when-generics
+    - GENERICS IN GO https://www.golang101.com/advanced-go-concepts/generics/
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
   - Остальное
