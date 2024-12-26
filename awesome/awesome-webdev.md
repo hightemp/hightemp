@@ -3,6 +3,7 @@
 - Проект free-for.dev представляет собой поддерживаемый сообществом каталог бесплатных сервисов и инструментов для разработчиков и DevOps-специалистов, включающий различные SaaS, PaaS и IaaS решения с бесплатными тарифами, которые помогают сэкономить время на поиске и принятии решений при выборе необходимых инструментов. https://free-for.dev/
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+- Project Based Learning - это репозиторий с подборкой обучающих программистских туториалов на разных языках программирования, где разработчики учатся создавать приложения с нуля, используя различные технологии. https://github.com/practical-tutorials/project-based-learning
 
 ### Сайты песочницы 
 
