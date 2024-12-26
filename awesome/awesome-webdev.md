@@ -413,6 +413,11 @@
 
 - https://www.youtube.com/@webstandards_ru
 
+### Виртулизация
+
+- virt-manager
+   - Latest virtio-win ISO https://github.com/virtio-win/virtio-win-pkg-scripts/blob/master/README.md
+
 ### Брокеры сообщений
 
 - **RabbitMQ**
