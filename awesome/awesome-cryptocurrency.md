@@ -27,6 +27,28 @@
 
 ### Биржи
 
+- Остальное
+  - Binance https://www.binance.com
+  - Bybit https://www.bybit.com
+  - WhiteBIT https://whitebit.com
+  - Huobi (HTX) https://www.htx.com
+  - Crypto.com https://crypto.com
+  - Kuna https://kuna.io
+  - KuCoin https://www.kucoin.com
+  - Gate.io https://www.gate.io
+  - Coinbase https://www.coinbase.com
+  - Kraken https://www.kraken.com
+  - Bitfinex https://www.bitfinex.com
+  - OKX https://www.okx.com
+- Южная корея
+  - Upbit https://upbit.com
+  - Bithumb https://www.bithumb.com
+  - Coinone https://coinone.co.kr
+  - Korbit https://www.korbit.co.kr
+  - Gopax https://www.gopax.co.kr
+  - Hanbitco https://www.hanbitco.com
+  - GDAC https://www.gdac.com
+
 ### Статьи
 
 - Как стейкать SCALE на DeDust.io: руководство для новичков https://ru.beincrypto.com/learn/stake-scale-dedustio-guide/
