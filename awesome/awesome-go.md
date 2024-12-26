@@ -430,7 +430,8 @@
   - SIGKILL vs SIGTERM: A Developer's Guide to Process Termination https://www.stackstate.com/blog/sigkill-vs-sigterm-a-developers-guide-to-process-termination/
   - Implementing Graceful Shutdown in Go https://www.rudderstack.com/blog/implementing-graceful-shutdown-in-go/
   - Gracefully Terminate a Program in Go https://guzalexander.com/2017/05/31/gracefully-exit-server-in-go.html
-- Пример создания приложения или сервиса
+- Примеры создания приложения или сервиса
+  - Creating a Chat Application with Go, Gorilla WebSocket, and jQuery https://arya2004.hashnode.dev/creating-chat-application-go-gorilla-websocket-jquery
   - Делаем форму обратного звонка: лендинг, Go и SMS-уведомления https://habr.com/ru/companies/ru_mts/articles/856232/
   - Building Scalable Web Applications with React and Golang: Best Practices https://www.dhiwise.com/post/building-scalable-web-applications-with-react-and-golang
   - Create a Full-Stack App With Go and React https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/
