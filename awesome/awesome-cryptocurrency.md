@@ -48,6 +48,14 @@
   - Gopax https://www.gopax.co.kr
   - Hanbitco https://www.hanbitco.com
   - GDAC https://www.gdac.com
+- Сингапур
+  - Phemex https://www.phemex.com
+  - Zipmex https://www.zipmex.com
+  - Luno https://www.luno.com
+  - Coinhako https://www.coinhako.com
+  - BYDFi https://www.bydfi.com
+  - DBS Digital Exchange (только для институциональных инвесторов)
+  - Coinbase https://www.coinbase.com  
 
 ### Статьи
 
