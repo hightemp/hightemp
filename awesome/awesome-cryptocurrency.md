@@ -56,6 +56,17 @@
   - BYDFi https://www.bydfi.com
   - DBS Digital Exchange (только для институциональных инвесторов)
   - Coinbase https://www.coinbase.com  
+- Канада
+  - Kraken https://www.kraken.com
+  - Bitbuy https://bitbuy.ca
+  - VirgoCX https://virgocx.ca
+  - Shakepay https://shakepay.com
+  - Coinbase https://www.coinbase.com
+  - BYDFI https://www.bydfi.com
+  - MEXC https://www.mexc.com
+  - Gemini https://www.gemini.com
+  - Bitget https://www.bitget.com
+  - Phemex https://www.phemex.com
 
 ### Статьи
 
