@@ -10,6 +10,7 @@
 - https://github.com/toptaldev92/awesome-react
 - https://github.com/unicodeveloper/awesome-nextjs
 - https://github.com/officialrajdeepsingh/awesome-nextjs
+- https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main
 
 ### Полезные ссылки
 
