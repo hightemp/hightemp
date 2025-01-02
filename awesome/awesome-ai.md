@@ -161,6 +161,10 @@
 - с видео и аудио
     - https://aistudio.google.com/live
 
+### Поиск по ai инструментам
+
+- https://www.raghut.com/
+
 ### UI/UX; Генерация интерфейса
 
 - https://uizard.io/
