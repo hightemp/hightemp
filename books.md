@@ -105,7 +105,7 @@
   - **Название (EN)** The 22 Immutable Laws of Marketing  
   - **Описание** Основные принципы успешного маркетинга.  
   - **Ссылки**  
-    - [Ссылка на книгу](https://example.com)  
+    - http://www.pm-files.com/sites/default/files/file/C/C-2/C-2-1/2_1_2_traut_22_lows.pdf  
 
 -  
   - **Категория** Бизнес и управление  
@@ -115,7 +115,8 @@
   - **Название (EN)** The Goal: A Process of Ongoing Improvement  
   - **Описание** Роман о принципах управления производством.  
   - **Ссылки**  
-    - [Ссылка на книгу](https://example.com)  
+    - https://www.litres.ru/book/eliyahu-goldratt/cel-process-nepreryvnogo-sovershenstvovaniya-8648054/chitat-onlayn/  
+    - https://mybook.ru/author/eliyahu-goldratt/cel-process-nepreryvnogo-sovershenstvovaniya/read/
 
 -  
   - **Категория** Системное мышление  
@@ -125,7 +126,8 @@
   - **Название (EN)** Thinking in Systems  
   - **Описание** Введение в системное мышление и его применение.  
   - **Ссылки**  
-    - [Ссылка на книгу](https://example.com)  
+    - https://www.mann-ivanov-ferber.ru/catalog/product/azbuka-sistemnogo-myishleniya/  
+    - https://batrachos.com/sites/default/files/pictures/Books/medouz_2018_azbuka%20sistemnogo%20myshleniya.pdf
 
 -  
   - **Категория** Маркетинг и саморазвитие  
@@ -135,7 +137,8 @@
   - **Название (EN)** Book Yourself Solid  
   - **Описание** Стратегии для привлечения клиентов и роста бизнеса.  
   - **Ссылки**  
-    - [Ссылка на книгу](https://example.com)  
+    - https://www.labirint.ru/books/564870/
+    - https://www.litres.ru/book/maykl-port/zatmite-vseh-blistayte-na-scene-v-ofise-v-zhizni-22496216/
 
 -  
   - **Категория** Переговоры  
@@ -145,7 +148,8 @@
   - **Название (EN)** Never Split the Difference  
   - **Описание** Техники успешных переговоров от бывшего переговорщика ФБР.  
   - **Ссылки**  
-    - [Ссылка на книгу](https://example.com)  
+    - https://www.litres.ru/book/kris-voss/nikakih-kompromissov-besproigryshnye-peregovory-s-ekstremalno-vy-23888287/ 
+    - https://www.labirint.ru/books/583348/
 
 -  
   - **Категория** Нетворкинг  
@@ -155,7 +159,7 @@
   - **Название (EN)** How to Be a Power Connector  
   - **Описание** Стратегии построения сильных деловых связей.  
   - **Ссылки**  
-    - [Ссылка на книгу](https://example.com)  
+    - https://books.apple.com/us/book/how-to-be-a-power-connector-the-5-50-100-rule/id870729599?l=ru 
 
 -  
   - **Категория** Управление и лидерство  
@@ -165,7 +169,7 @@
   - **Название (EN)** Team of Teams  
   - **Описание** Принципы управления в сложных условиях.  
   - **Ссылки**  
-    - [Ссылка на книгу](https://example.com)  
+    -   
 
 -  
   - **Категория** Саморазвитие  
@@ -175,4 +179,5 @@
   - **Название (EN)** The Almanack of Naval Ravikant  
   - **Описание** Советы по достижению богатства и счастья.  
   - **Ссылки**  
-    - [Ссылка на книгу](https://example.com)
+    - https://smartreading.ru/summary-by-alias/almanah-navalya-ravikanta-putevoditel-po-bogatstvu-i-schastyu
+    - https://pro.rbc.ru/books/633eea819a794780861ff8e7
