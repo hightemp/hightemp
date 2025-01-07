@@ -110,6 +110,7 @@
 
 ### Чаты с ботами
 
+- https://chat.sonus.ai
 - https://chat.mistral.ai/
 - https://www.typingmind.com/
 - https://www.aiuncensored.info/
