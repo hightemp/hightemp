@@ -34,6 +34,7 @@
 ### Шпаргалки
 
 - Шпаргалки по бухгалтерскому учету https://institutiones.com/download/lecture/946-shpargalki-po-buhgalterskomu-uchetu.html
+- Шпаргалки по финансовому менеджменту https://institutiones.com/download/lecture/867-shpargalki-po-finansovomu-menedzhmentu.html
 
 ### Расчеты
 
