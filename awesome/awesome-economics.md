@@ -31,6 +31,10 @@
 - Казахстан
     - https://kartakz.oplatym.ru/
 
+### Шпаргалки
+
+- Шпаргалки по бухгалтерскому учету https://institutiones.com/download/lecture/946-shpargalki-po-buhgalterskomu-uchetu.html
+
 ### Расчеты
 
 - это инструмент для моделирования методом Монте-Карло, который позволяет тестировать долгосрочный ожидаемый рост портфеля и его выживаемость с учетом снятий средств https://www.portfoliovisualizer.com/monte-carlo-simulation
