@@ -41,6 +41,7 @@
     - Остальное
         - Using nginx as HTTP load balancer https://nginx.org/en/docs/http/load_balancing.html
         - Setting Up Load Balancing by Using NGINX https://docs.oracle.com/en/operating-systems/oracle-linux/8/balancing/balancing-SettingUpLoadBalancingbyUsingNGINX.html#nginx-round-robin
+        - How to Use Nginx as a Load Balancer for Your Application https://medium.com/@elaurichetoho/how-to-use-nginx-as-a-load-balancer-for-your-application-d80ca40f28d8
         - How to Set Up Nginx Load Balancing: Step-by-Step Guide https://toxigon.com/how-to-set-up-nginx-load-balancing
         - How to Configure Nginx as a Load Balancer https://webhostinggeeks.com/howto/how-to-configure-nginx-as-a-load-balancer/
         - How to implement load balancing with NGINX https://www.slingacademy.com/article/implement-load-balancing-with-nginx/
