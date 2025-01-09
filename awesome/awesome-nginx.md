@@ -8,6 +8,7 @@
 ### Репозитории
 
 - https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS
+- https://github.com/owasp-modsecurity/ModSecurity-nginx
 
 ### Книги
 
