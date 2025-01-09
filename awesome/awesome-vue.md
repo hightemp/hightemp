@@ -53,10 +53,21 @@
 
 ### Видео
 
-- Vue 3 для начинающих / Разработка интернет-магазина Vue Sneakers https://www.youtube.com/watch?v=U_-Ht_v-oAs
+- Примеры приложений
+    - Vue 3 для начинающих / Разработка интернет-магазина Vue Sneakers https://www.youtube.com/watch?v=U_-Ht_v-oAs
+- Vite
+    - Visual Guide to the Modern Frontend Toolchain (Vite) https://www.youtube.com/watch?v=M_edImKoEt8
+- https://www.youtube.com/c/LachlanMiller
+
+### Книги
+
+- https://lachlan-miller.me/design-patterns-for-vuejs
+- https://rethinking-reusability-in-vue.alexvipond.dev/
 
 ### Курсы
 
 - https://www.vuemastery.com/courses/
 - https://vueschool.io/courses
+- https://michaelnthiessen.com/
+- https://adamwathan.me/advanced-vue-component-design/
 - https://www.youtube.com/watch?v=I_xLMmNeLDY
