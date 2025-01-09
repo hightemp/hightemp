@@ -60,6 +60,7 @@
         - Остальное
             - How to Implement HTTP Security Headers on NGINX Webserver https://scohostings.com/how-to-implement-http-security-headers-on-nginx-webserver/
             - nginx Content-Security-Policy Headers https://content-security-policy.com/examples/nginx/
+            - NGINX Security Headers, the right way https://www.getpagespeed.com/server-setup/nginx-security-headers-the-right-way
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
