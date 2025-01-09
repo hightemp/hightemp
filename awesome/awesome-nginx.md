@@ -141,5 +141,6 @@
 - Проксирование
     - Reverse proxy конфигурация
         - Setting up an Nginx Reverse Proxy https://linuxize.com/post/nginx-reverse-proxy/
+        - How to Configure an NGINX Reverse Proxy in 2025 https://www.hostinger.com/tutorials/how-to-set-up-nginx-reverse-proxy/
 - Остальное
     - Is Nginx dead? Is Traefik v3 20% faster than Traefik v2? https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e
