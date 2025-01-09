@@ -17,6 +17,11 @@
 - NixOs
     - https://github.com/nix-community/nixos-anywhere
 
+### Дополнения для виртуальных машин
+
+- virt-manager, kvm, qemu
+    - https://www.spice-space.org/download.html
+
 ### Аналоги утилит на rust
 
 - tree
