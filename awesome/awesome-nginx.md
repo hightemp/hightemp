@@ -86,6 +86,9 @@
         - Secure Your NGINX Server: A Step-by-Step Guide to Setting Up Basic Authentication https://codewithflash.com/secure-your-nginx-server-a-step-by-step-guide-to-setting-up-basic-authentication
         - NGINX Access Control: The Complete Guide https://www.slingacademy.com/article/nginx-access-control-complete-guide/
         - Restricting Access with HTTP Basic Authentication https://docs.nginx.com/nginx/admin-guide/security-controls/configuring-http-basic-authentication/
+    - ModSecurity WAF настройка (ModSecurity - это открытый веб-файрвол (WAF), который обеспечивает защиту веб-приложений от различных типов атак)
+        - How can the ModSecurity module be enabled in Nginx and what are the necessary configurations? https://eitca.org/cybersecurity/eitc-is-wapt-web-applications-penetration-testing/modsecurity/nginx-modsecurity/examination-review-nginx-modsecurity/how-can-the-modsecurity-module-be-enabled-in-nginx-and-what-are-the-necessary-configurations/
+        - Install ModSecurity 3 with Nginx on Ubuntu 22.04 https://kifarunix.com/install-modsecurity-3-with-nginx-on-ubuntu/
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
