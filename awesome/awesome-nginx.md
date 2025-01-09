@@ -144,5 +144,7 @@
         - How to Configure an NGINX Reverse Proxy in 2025 https://www.hostinger.com/tutorials/how-to-set-up-nginx-reverse-proxy/
         - How to Configure Nginx as a Reverse Proxy: Step-by-Step Guide https://go.lightnode.com/tech/how-to-configure-nginx-reverse-proxy
         - How to Configure a Reverse Proxy with Nginx https://medium.com/@reyes83/how-to-configure-a-reverse-proxy-with-nginx-769ce29a14ac
+    - WebSocket проксирование
+        - Nginx as a Websocket Proxy: A How-To Guide https://reintech.io/blog/nginx-websocket-proxy-configuration-guide
 - Остальное
     - Is Nginx dead? Is Traefik v3 20% faster than Traefik v2? https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e
