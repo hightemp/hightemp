@@ -44,6 +44,11 @@
         - How to Install an SSL/TLS Certificate In Nginx (OpenSSL) https://www.thesslstore.com/knowledgebase/ssl-install/nginx-ssl-installation/
         - Configuring an SSL Encrypted Nginx Web Server: A Complete Step-by-Step Guide https://thelinuxcode.com/ssl-nginx-web-server/
         - How To Create a Self-Signed SSL Certificate for Nginx in Ubuntu 20.04 https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-20-04-1
+        - Install an SSL Certificate on Nginx https://www.ssl.com/how-to/install-ssl-certificate-on-nginx/
+            - Сертификаты обычно размещаются в `/etc/ssl/certs/`
+            - Приватные ключи в `/etc/ssl/private/`
+        - How To Configure Nginx to use TLS 1.2 / 1.3 only https://www.cyberciti.biz/faq/configure-nginx-to-use-only-tls-1-2-and-1-3/
+        
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
