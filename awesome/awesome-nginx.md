@@ -79,6 +79,7 @@
         - What’s a Distributed Denial-of-Service (DDoS) Attack? https://www.f5.com/glossary/distributed-denial-of-service-ddos-attack
         - How to Protect DDoS Attacks with Nginx https://idroot.us/protect-ddos-attacks-nginx/
         - DDoS attacks prevention with Nginx https://inmediatum.com/en/blog/engineering/ddos-attacks-prevention-nginx/
+        - Issue #15: DDoS Protection with Nginx, Docker-in-Docker and Privacy Concerns https://substack.com/home/post/p-148430947?utm_campaign=post&utm_medium=web
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
