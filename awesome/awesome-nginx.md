@@ -150,5 +150,7 @@
         - How to Set Up Nginx to Handle WebSocket (wss://) Connections https://tecadmin.net/setup-nginx-to-handle-websocket-wss-connections/
         - NGINX as a Proxy for Websockets https://mpolinowski.github.io/docs/Development/Javascript/2021-09-09--websocket-NGINX/2021-09-09/
         - How to Configure NGINX to Proxy WebSockets https://www.serverlab.ca/tutorials/linux/web-servers-linux/how-to-configure-nginx-for-websockets/
+    - gRPC поддержка
+        - Nginx Tip - Set up a GRPC proxy with the grpc_pass directive https://server.hk/blog/15007/
 - Остальное
     - Is Nginx dead? Is Traefik v3 20% faster than Traefik v2? https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e
