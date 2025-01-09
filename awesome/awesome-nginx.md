@@ -14,6 +14,10 @@
 - ModSecurity 3.0 and NGINX: Quick Start Guide, Faisal Memon, Owen Garrett, Michael Pleshakov
 - Cisco ACE to NGINX: Migration Guide, Faisal Memon
 
+### Блоги
+
+- https://medium.com/tag/nginx
+
 ### Статьи
 
 - Основное
