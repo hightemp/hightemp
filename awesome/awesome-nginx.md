@@ -50,6 +50,7 @@
         - How To Configure Nginx to use TLS 1.2 / 1.3 only https://www.cyberciti.biz/faq/configure-nginx-to-use-only-tls-1-2-and-1-3/
         - Getting Started with NGINX (Part 3): Enable TLS/SSL for HTTPS https://www.linode.com/docs/guides/getting-started-with-nginx-part-3-enable-tls-for-https/
         - 🚀🚀🚀🚀Guide to Setup Let’s Encrypt SSL In Nginx🚀🚀🚀 https://medium.com/@vinoji2005/guide-to-setup-lets-encrypt-ssl-in-nginx-be3d641bb58a
+        - A Guide on How to Install SSL Certificate on Nginx https://www.vodien.com/learn/a-guide-on-how-to-install-ssl-certificate-on-nginx/
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
