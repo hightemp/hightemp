@@ -40,16 +40,16 @@
 
 ### Статьи
 
+- Основное
+    - Vue 3.4 Новая механика v-model компонента https://webdevblog.ru/vue-3-4-novaya-mehanika-v-model-komponenta/
+    - Как принудительно пере-отобразить (re-render) компонент Vue https://webdevblog.ru/kak-prinuditelno-pere-otobrazit-re-render-komponent-vue/
+    - Анонс Vue 3.4 https://webdevblog.ru/anons-vue-3-4/
 - Nuxt
     - Контекст в Vue/Nuxt: осознать, не терять и беречь https://habr.com/ru/articles/812145/
 - JWT
     - Vue.js + Vuex — JWT аутентификация (руководство и примеры) https://emackovenko.ru/vue-js-vuex-jwt-autentifikaciya-instrukciya-prime/
 - Примеры приложений
     - Building an LLM chat interface using Ollama and Vue https://medium.com/@mpalmerlee/building-an-llm-chat-interface-using-ollama-and-vue-5bf4e2fc65fd
-- Основное
-    - Vue 3.4 Новая механика v-model компонента https://webdevblog.ru/vue-3-4-novaya-mehanika-v-model-komponenta/
-    - Как принудительно пере-отобразить (re-render) компонент Vue https://webdevblog.ru/kak-prinuditelno-pere-otobrazit-re-render-komponent-vue/
-    - Анонс Vue 3.4 https://webdevblog.ru/anons-vue-3-4/
 
 ### Видео
 
