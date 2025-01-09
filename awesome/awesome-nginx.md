@@ -155,5 +155,6 @@
         - Supporting HTTP/2 and gRPC in nginx https://www.neteye-blog.com/2024/12/supporting-http-2-and-grpc-in-nginx/
         - Introducing gRPC Support with NGINX 1.13.10 https://blog.nginx.org/blog/nginx-1-13-10-grpc
         - Nginx as Reverse Proxy with GRPC https://medium.com/nirman-tech-blog/nginx-as-reverse-proxy-with-grpc-820d35642bff
+        - Deploying NGINX as an API Gateway, Part 3: Publishing gRPC Services https://www.f5.com/company/blog/nginx/deploying-nginx-plus-as-an-api-gateway-part-3-publishing-grpc-services
 - Остальное
     - Is Nginx dead? Is Traefik v3 20% faster than Traefik v2? https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e
