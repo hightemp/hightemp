@@ -588,6 +588,7 @@
 
 ### Видео
 
+- GPT-2 from Scratch in C (Day 1/2) https://www.youtube.com/watch?v=d1LNUvkRMEg
 - Let's build the GPT Tokenizer https://www.youtube.com/watch?v=zduSFxRajkE
 - A Hacker’s Guide to LLMs от Джереми Ховарда https://www.youtube.com/watch?v=jkrNMKz9pWU
 
