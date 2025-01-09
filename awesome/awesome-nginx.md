@@ -82,6 +82,7 @@
         - Issue #15: DDoS Protection with Nginx, Docker-in-Docker and Privacy Concerns https://substack.com/home/post/p-148430947?utm_campaign=post&utm_medium=web
     - Access Control и аутентификация
         - Apply Basic Authentication With Nginx https://hostnextra.com/learn/paths/nginx/apply-basic-authentication-with-nginx
+        - Please explain how Nginx performs access control and authentication management? https://yifan-online.com/en/km/article/detail/9830
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
