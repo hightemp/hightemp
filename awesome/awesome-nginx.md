@@ -39,6 +39,7 @@
     - Mastering NGINX Monitoring: Comprehensive Guide to Essential Tools https://www.atatus.com/blog/mastering-nginx-monitoring-a-comprehensive-guide-to-essential-tools/
 - Безопасность
     - Настройка SSL/TLS сертификатов
+        - How to Configure SSL/TLS Encryption on NGINX https://scohostings.com/how-to-configure-ssl-tls-encryption-on-nginx/
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
