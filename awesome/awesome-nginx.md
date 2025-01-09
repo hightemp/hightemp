@@ -102,7 +102,7 @@
         - How to protect your APIs by installing and configuring ModSecurity in Nginx https://www.chakray.com/how-protect-your-apis-installing-configuring-modsecurity-nginx/
         - Configuring ModSecurity with Nginx: A Comprehensive Guide https://toxigon.com/configuring-modsecurity-nginx
     - Secure Configuration Best Practices
-        - 
+        - 10 Tips For Securing Your Nginx Deployment: A Comprehensive Guide https://www.hypercomply.com/blog/secure-your-nginx-deployment
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
