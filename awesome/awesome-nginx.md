@@ -87,6 +87,7 @@
         - NGINX Access Control: The Complete Guide https://www.slingacademy.com/article/nginx-access-control-complete-guide/
         - Restricting Access with HTTP Basic Authentication https://docs.nginx.com/nginx/admin-guide/security-controls/configuring-http-basic-authentication/
     - ModSecurity WAF настройка (ModSecurity - это открытый веб-файрвол (WAF), который обеспечивает защиту веб-приложений от различных типов атак)
+        - **ModSecurity WAF станет EOL (End of Life) и больше не будет поддерживаться с NGINX в марте 2024 года**
         - The rise and fall of ModSecurity and the OWASP Core Rule Set (thanks, respectively, to robust and adversarial machine learning) https://davideariu.substack.com/p/the-rise-and-fall-of-modsecurity
         - Install ModSecurity 3 with Nginx on Ubuntu 22.04 https://kifarunix.com/install-modsecurity-3-with-nginx-on-ubuntu/
         - How to Set Up ModSecurity with Nginx on Debian/Ubuntu https://www.linuxbabe.com/security/modsecurity-nginx-debian-ubuntu
