@@ -37,6 +37,7 @@
     - Round Robin (Круговой метод)
     - Least Connections (Наименьшее количество соединений)
     - IP Hash
+    - Weighted Round Robin
     - Остальное
         - Using nginx as HTTP load balancer https://nginx.org/en/docs/http/load_balancing.html
         - How to Set Up Nginx Load Balancing: Step-by-Step Guide https://toxigon.com/how-to-set-up-nginx-load-balancing
