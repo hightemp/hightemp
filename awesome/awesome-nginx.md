@@ -28,6 +28,7 @@
     - Ограничение скорости в Nginx для сложных конфигураций: HTTP/2, API и видеостриминг https://habr.com/ru/companies/otus/articles/843424/
 - Оптимизация
     - Optimizing Nginx for Performance: Strategies for Maximum Efficiency https://medium.com/@navneetskahlon/optimizing-nginx-for-performance-strategies-for-maximum-efficiency-15e664626760
+    - NGINX Performance Tuning Tips https://www.plesk.com/blog/various/nginx-performance-tuning-tips/
 - Кэширование
     - High‑Performance Caching with NGINX and NGINX Plus https://www.f5.com/company/blog/nginx/nginx-high-performance-caching
 - Мониторинг
