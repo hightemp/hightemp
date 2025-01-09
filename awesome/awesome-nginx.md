@@ -7,6 +7,7 @@
 - NGINX HTTP Server, Martin Fjordvald, Clement Nedelcu
 - NGNIX High Performance, Rahul Sharma
 - ModSecurity 3.0 and NGINX: Quick Start Guide, Faisal Memon, Owen Garrett, Michael Pleshakov
+- Cisco ACE to NGINX: Migration Guide, Faisal Memon
 
 ### Статьи
 
