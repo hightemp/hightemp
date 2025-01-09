@@ -1,4 +1,13 @@
 
+### Книги
+
+- NGINX. Книга рецептов, Дерек Де Йонге
+- Администрирование сервера NGINX, Димитрий Айвалиотис
+- NGINX Essentials, Valery Kholodkov
+- NGINX HTTP Server, Martin Fjordvald, Clement Nedelcu
+- NGNIX High Performance, Rahul Sharma
+- ModSecurity 3.0 and NGINX: Quick Start Guide, Faisal Memon, Owen Garrett, Michael Pleshakov
+
 ### Статьи
 
 - Основное
