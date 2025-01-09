@@ -40,6 +40,7 @@
 - Безопасность
     - Настройка SSL/TLS сертификатов
         - How to Configure SSL/TLS Encryption on NGINX https://scohostings.com/how-to-configure-ssl-tls-encryption-on-nginx/
+        - Nginx: Create CSR & Install SSL Certificate (OpenSSL) https://www.digicert.com/kb/csr-ssl-installation/nginx-openssl.htm
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
