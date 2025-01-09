@@ -53,6 +53,7 @@
             - How to Configure Nginx as a Load Balancer https://webhostinggeeks.com/howto/how-to-configure-nginx-as-a-load-balancer/
             - How to implement load balancing with NGINX https://www.slingacademy.com/article/implement-load-balancing-with-nginx/
     - Health checks
+        - Health Checks in NGINX: The Complete Guide https://www.slingacademy.com/article/health-checks-in-nginx-the-complete-guide/
         - Active or Passive Health Checks: Which Is Right for You? https://www.f5.com/company/blog/nginx/active-or-passive-health-checks-which-is-right-for-you
         - What is Health Checks? https://www.javatpoint.com/nginx-http-health-checks
         - NGINX HTTP Health Checks https://www.naukri.com/code360/library/nginx-http-health-checks
