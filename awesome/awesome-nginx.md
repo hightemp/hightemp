@@ -70,6 +70,7 @@
     - Защита от DDoS атак
         - DDoS Protection With Nginx https://ddos-guard.net/blog/ddos-protection-with-nginx
         - How to Implement Basic Protection Against DDoS Attacks for Nginx https://webhostinggeeks.com/howto/nginx-ddos-attack-tutorial/
+        - How to Protect from DDoS Attacks with Nginx https://gcore.com/learning/nginx-for-ddos-protection/
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
