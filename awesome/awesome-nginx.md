@@ -61,6 +61,7 @@
         - UDP Health Checks https://docs.nginx.com/nginx/admin-guide/load-balancer/udp-health-check/
         - HTTP Health Checks, gRPC Health Checks https://docs.nginx.com/nginx-management-suite/acm/how-to/policies/health-check/
     - Sticky Sessions
+        - Mastering NGINX Learn how to configure sticky sessions in NGINX to distribute incoming traffic efficiently and maintain session persistence across multiple servers https://www.pdxdev.com/nginx-reverse-proxy/configuring-sticky-sessions/
         - How Sticky Sessions Can Tilt Load Balancers https://medium.com/@iSooraj/how-sticky-sessions-can-tilt-load-balancers-c5dc8f50099c
         - Session affinity (sticky) with Nginx load balancing https://opensourcehacker.com/2011/03/21/session-affinity-sticky-with-nginx-load-balancing/
 - Остальное
