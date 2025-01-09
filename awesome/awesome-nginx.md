@@ -3,6 +3,7 @@
 - Документация https://nginx.org/en/docs/
 - Форум https://forum.nginx.org/
 - Песочница https://github.com/sportebois/nginx-rate-limit-sandbox
+- Best nginx configuration for improved security(and performance) https://gist.github.com/plentz/6737338
 
 ### Книги
 
