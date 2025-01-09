@@ -72,6 +72,7 @@
         - How to Implement Basic Protection Against DDoS Attacks for Nginx https://webhostinggeeks.com/howto/nginx-ddos-attack-tutorial/
         - How to Protect from DDoS Attacks with Nginx https://gcore.com/learning/nginx-for-ddos-protection/
         - NGINX App Protect Denial of Service Blocks Application-Level DoS Attacks https://www.f5.com/company/blog/nginx/nginx-app-protect-denial-of-service-blocks-application-level-dos-attacks
+        - What’s a Distributed Denial-of-Service (DDoS) Attack? https://www.f5.com/glossary/distributed-denial-of-service-ddos-attack
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
