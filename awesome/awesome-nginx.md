@@ -27,3 +27,5 @@
     - Ограничение скорости в Nginx для сложных конфигураций: HTTP/2, API и видеостриминг https://habr.com/ru/companies/otus/articles/843424/
 - Оптимизация
     - Optimizing Nginx for Performance: Strategies for Maximum Efficiency https://medium.com/@navneetskahlon/optimizing-nginx-for-performance-strategies-for-maximum-efficiency-15e664626760
+- Мониторинг
+    - Mastering NGINX Monitoring: Comprehensive Guide to Essential Tools https://www.atatus.com/blog/mastering-nginx-monitoring-a-comprehensive-guide-to-essential-tools/
