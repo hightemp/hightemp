@@ -34,6 +34,7 @@
     - Understanding NGINX Worker Architecture - Powering Modern Web Servers https://chessman7.substack.com/p/understanding-nginx-worker-architecture 
     - An In-Depth Guide to Nginx for Developers https://thelinuxcode.com/an-in-depth-guide-to-nginx-for-developers/
     - NGINX — Zero To Hero: Your Ultimate Guide from Beginner to Advanced Mastery https://medium.com/h7w/nginx-zero-to-hero-your-ultimate-guide-from-beginner-to-advanced-mastery-ac7e4c6b9795
+    - How Nginx Was Able to Support 1 Million Concurrent Connections on a Single Server https://substack.com/home/post/p-151915359?utm_campaign=post&utm_medium=web
 - Ограничение скорости; limit_rate
     - Ограничение скорости в Nginx для сложных конфигураций: HTTP/2, API и видеостриминг https://habr.com/ru/companies/otus/articles/843424/
 - Оптимизация
@@ -100,6 +101,8 @@
         - How To Install ModSecurity with Nginx on Ubuntu 22.04 LTS https://idroot.us/install-modsecurity-nginx-ubuntu-22-04/
         - How to protect your APIs by installing and configuring ModSecurity in Nginx https://www.chakray.com/how-protect-your-apis-installing-configuring-modsecurity-nginx/
         - Configuring ModSecurity with Nginx: A Comprehensive Guide https://toxigon.com/configuring-modsecurity-nginx
+    - Secure Configuration Best Practices
+        - 
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
