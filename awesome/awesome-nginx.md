@@ -92,6 +92,7 @@
         - Алтернативы:
             - https://www.g2.com/products/modsecurity/competitors/alternatives
             - https://alternativeto.net/software/modsecurity/
+            - https://github.com/openappsec/openappsec
         - The rise and fall of ModSecurity and the OWASP Core Rule Set (thanks, respectively, to robust and adversarial machine learning) https://davideariu.substack.com/p/the-rise-and-fall-of-modsecurity
         - Install ModSecurity 3 with Nginx on Ubuntu 22.04 https://kifarunix.com/install-modsecurity-3-with-nginx-on-ubuntu/
         - How to Set Up ModSecurity with Nginx on Debian/Ubuntu https://www.linuxbabe.com/security/modsecurity-nginx-debian-ubuntu
