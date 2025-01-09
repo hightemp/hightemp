@@ -64,6 +64,7 @@
             - Add HTTP Security headers to Nginx server https://www.studytonight.com/nginx-guide/add-http-security-headers-to-nginx-server
             - Enhancing Website Security: Implementing Effective HTTP Security Headers in Nginx - LoadForge Guides https://loadforge.com/guides/enhancing-website-security-implementing-effective-security-headers-in-nginx
             - What are HTTP Security Headers and how to config them? https://dev.to/smartscanner/what-are-http-security-headers-and-how-to-config-them-m3g
+            - NGINX - How to setup the nginx.conf file to send HTTP Security Headers with your web site (and score an A on securityheaders.io) https://www.ryadel.com/en/nginx-conf-secure-http-response-headers-pass-securityheaders-io-scan/
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
