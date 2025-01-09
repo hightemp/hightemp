@@ -25,3 +25,5 @@
     - An In-Depth Guide to Nginx for Developers https://thelinuxcode.com/an-in-depth-guide-to-nginx-for-developers/
 - Ограничение скорости; limit_rate
     - Ограничение скорости в Nginx для сложных конфигураций: HTTP/2, API и видеостриминг https://habr.com/ru/companies/otus/articles/843424/
+- Оптимизация
+    - Optimizing Nginx for Performance: Strategies for Maximum Efficiency https://medium.com/@navneetskahlon/optimizing-nginx-for-performance-strategies-for-maximum-efficiency-15e664626760
