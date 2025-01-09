@@ -42,6 +42,7 @@
         - How to Configure SSL/TLS Encryption on NGINX https://scohostings.com/how-to-configure-ssl-tls-encryption-on-nginx/
         - Nginx: Create CSR & Install SSL Certificate (OpenSSL) https://www.digicert.com/kb/csr-ssl-installation/nginx-openssl.htm
         - How to Install an SSL/TLS Certificate In Nginx (OpenSSL) https://www.thesslstore.com/knowledgebase/ssl-install/nginx-ssl-installation/
+        - Configuring an SSL Encrypted Nginx Web Server: A Complete Step-by-Step Guide https://thelinuxcode.com/ssl-nginx-web-server/
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
