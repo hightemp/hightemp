@@ -57,4 +57,5 @@
 
 ### Курсы
 
+- https://www.vuemastery.com/courses/
 - https://www.youtube.com/watch?v=I_xLMmNeLDY
