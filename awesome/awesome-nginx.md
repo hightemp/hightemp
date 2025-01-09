@@ -153,5 +153,6 @@
     - gRPC поддержка
         - Nginx Tip - Set up a GRPC proxy with the grpc_pass directive https://server.hk/blog/15007/
         - Supporting HTTP/2 and gRPC in nginx https://www.neteye-blog.com/2024/12/supporting-http-2-and-grpc-in-nginx/
+        - Introducing gRPC Support with NGINX 1.13.10 https://blog.nginx.org/blog/nginx-1-13-10-grpc
 - Остальное
     - Is Nginx dead? Is Traefik v3 20% faster than Traefik v2? https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e
