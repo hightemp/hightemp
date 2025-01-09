@@ -65,6 +65,7 @@
             - Enhancing Website Security: Implementing Effective HTTP Security Headers in Nginx - LoadForge Guides https://loadforge.com/guides/enhancing-website-security-implementing-effective-security-headers-in-nginx
             - What are HTTP Security Headers and how to config them? https://dev.to/smartscanner/what-are-http-security-headers-and-how-to-config-them-m3g
             - NGINX - How to setup the nginx.conf file to send HTTP Security Headers with your web site (and score an A on securityheaders.io) https://www.ryadel.com/en/nginx-conf-secure-http-response-headers-pass-securityheaders-io-scan/
+            - How to configure Security Headers in Nginx and Apache https://webdock.io/en/docs/how-guides/security-guides/how-to-configure-security-headers-in-nginx-and-apache?srsltid=AfmBOorDyWdXw9sD4WINf6cEuOJEMlbo06zRnynozaoYfT35B0tgdM3v
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
