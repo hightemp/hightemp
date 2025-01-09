@@ -22,5 +22,6 @@
     - Understanding NGINX Architecture, Configuration & Alternatives https://www.solo.io/topics/nginx
     - NGINX Architecture https://blog.nginx.org/nginx-architecture
     - Understanding NGINX Worker Architecture - Powering Modern Web Servers https://chessman7.substack.com/p/understanding-nginx-worker-architecture 
+    - An In-Depth Guide to Nginx for Developers https://thelinuxcode.com/an-in-depth-guide-to-nginx-for-developers/
 - Ограничение скорости; limit_rate
     - Ограничение скорости в Nginx для сложных конфигураций: HTTP/2, API и видеостриминг https://habr.com/ru/companies/otus/articles/843424/
