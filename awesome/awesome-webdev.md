@@ -408,6 +408,7 @@
 - https://martinfowler.com/architecture/
 - https://brooker.co.za/blog/
 - https://clement-jean.github.io/
+- https://yifan-online.com/en/km
 
 ### Youtube Каналы
 
