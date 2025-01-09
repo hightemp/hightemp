@@ -48,7 +48,7 @@
             - Сертификаты обычно размещаются в `/etc/ssl/certs/`
             - Приватные ключи в `/etc/ssl/private/`
         - How To Configure Nginx to use TLS 1.2 / 1.3 only https://www.cyberciti.biz/faq/configure-nginx-to-use-only-tls-1-2-and-1-3/
-        
+        - Getting Started with NGINX (Part 3): Enable TLS/SSL for HTTPS https://www.linode.com/docs/guides/getting-started-with-nginx-part-3-enable-tls-for-https/
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
