@@ -33,3 +33,11 @@
     - High‑Performance Caching with NGINX and NGINX Plus https://www.f5.com/company/blog/nginx/nginx-high-performance-caching
 - Мониторинг
     - Mastering NGINX Monitoring: Comprehensive Guide to Essential Tools https://www.atatus.com/blog/mastering-nginx-monitoring-a-comprehensive-guide-to-essential-tools/
+- Балансировка нагрузки
+    - Round Robin (Круговой метод)
+    - Least Connections (Наименьшее количество соединений)
+    - IP Hash
+    - Остальное
+        - How to Set Up Nginx Load Balancing: Step-by-Step Guide https://toxigon.com/how-to-set-up-nginx-load-balancing
+        - How to Configure Nginx as a Load Balancer https://webhostinggeeks.com/howto/how-to-configure-nginx-as-a-load-balancer/
+        - How to implement load balancing with NGINX https://www.slingacademy.com/article/implement-load-balancing-with-nginx/
