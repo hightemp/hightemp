@@ -110,6 +110,7 @@
         - IP Hash
         - Weighted Round Robin
         - Остальное
+            - The Essential Guide to Load Balancing Strategies and Techniques https://hayksimonyan.substack.com/p/the-essential-guide-to-load-balancing
             - Using nginx as HTTP load balancer https://nginx.org/en/docs/http/load_balancing.html
             - Setting Up Load Balancing by Using NGINX https://docs.oracle.com/en/operating-systems/oracle-linux/8/balancing/balancing-SettingUpLoadBalancingbyUsingNGINX.html#nginx-round-robin
             - How to Use Nginx as a Load Balancer for Your Application https://medium.com/@elaurichetoho/how-to-use-nginx-as-a-load-balancer-for-your-application-d80ca40f28d8
