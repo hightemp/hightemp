@@ -69,6 +69,7 @@
             - How to configure Security Headers in Nginx and Apache https://webdock.io/en/docs/how-guides/security-guides/how-to-configure-security-headers-in-nginx-and-apache?srsltid=AfmBOorDyWdXw9sD4WINf6cEuOJEMlbo06zRnynozaoYfT35B0tgdM3v
     - Защита от DDoS атак
         - DDoS Protection With Nginx https://ddos-guard.net/blog/ddos-protection-with-nginx
+        - How to Implement Basic Protection Against DDoS Attacks for Nginx https://webhostinggeeks.com/howto/nginx-ddos-attack-tutorial/
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
