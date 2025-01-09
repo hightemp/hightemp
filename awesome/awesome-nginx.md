@@ -84,6 +84,7 @@
         - Apply Basic Authentication With Nginx https://hostnextra.com/learn/paths/nginx/apply-basic-authentication-with-nginx
         - Please explain how Nginx performs access control and authentication management? https://yifan-online.com/en/km/article/detail/9830
         - Secure Your NGINX Server: A Step-by-Step Guide to Setting Up Basic Authentication https://codewithflash.com/secure-your-nginx-server-a-step-by-step-guide-to-setting-up-basic-authentication
+        - NGINX Access Control: The Complete Guide https://www.slingacademy.com/article/nginx-access-control-complete-guide/
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
