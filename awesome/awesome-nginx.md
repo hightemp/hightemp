@@ -49,3 +49,5 @@
         - How to Set Up Nginx Load Balancing: Step-by-Step Guide https://toxigon.com/how-to-set-up-nginx-load-balancing
         - How to Configure Nginx as a Load Balancer https://webhostinggeeks.com/howto/how-to-configure-nginx-as-a-load-balancer/
         - How to implement load balancing with NGINX https://www.slingacademy.com/article/implement-load-balancing-with-nginx/
+- Остальное
+    - Is Nginx dead? Is Traefik v3 20% faster than Traefik v2? https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e
