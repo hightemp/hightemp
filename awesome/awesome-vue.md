@@ -70,5 +70,6 @@
 - https://vueschool.io/courses
 - https://michaelnthiessen.com/
 - https://frontendmasters.com/learn/vue/
+- https://www.udemy.com/topic/vue-js/
 - https://adamwathan.me/advanced-vue-component-design/
 - https://www.youtube.com/watch?v=I_xLMmNeLDY
