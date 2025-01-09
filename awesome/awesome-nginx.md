@@ -62,6 +62,7 @@
             - nginx Content-Security-Policy Headers https://content-security-policy.com/examples/nginx/
             - NGINX Security Headers, the right way https://www.getpagespeed.com/server-setup/nginx-security-headers-the-right-way
             - Add HTTP Security headers to Nginx server https://www.studytonight.com/nginx-guide/add-http-security-headers-to-nginx-server
+            - Enhancing Website Security: Implementing Effective HTTP Security Headers in Nginx - LoadForge Guides https://loadforge.com/guides/enhancing-website-security-implementing-effective-security-headers-in-nginx
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
