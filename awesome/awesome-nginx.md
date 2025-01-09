@@ -56,6 +56,7 @@
         - Active or Passive Health Checks: Which Is Right for You? https://www.f5.com/company/blog/nginx/active-or-passive-health-checks-which-is-right-for-you
         - What is Health Checks? https://www.javatpoint.com/nginx-http-health-checks
         - NGINX HTTP Health Checks https://www.naukri.com/code360/library/nginx-http-health-checks
+        - NGINX TCP Health Checks https://www.javatpoint.com/nginx-tcp-health-checks
         - UDP Health Checks https://docs.nginx.com/nginx/admin-guide/load-balancer/udp-health-check/
 - Остальное
     - Is Nginx dead? Is Traefik v3 20% faster than Traefik v2? https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e
