@@ -65,6 +65,7 @@
         - Sticky Learn метод (NGINX Plus)
             - HTTP Load Balancing https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/
         - Остальное
+            - What Are Sticky Sessions — How They Work and When to Use Them https://traefik.io/glossary/what-are-sticky-sessions/
             - Mastering NGINX Learn how to configure sticky sessions in NGINX to distribute incoming traffic efficiently and maintain session persistence across multiple servers https://www.pdxdev.com/nginx-reverse-proxy/configuring-sticky-sessions/
             - How Sticky Sessions Can Tilt Load Balancers https://medium.com/@iSooraj/how-sticky-sessions-can-tilt-load-balancers-c5dc8f50099c
             - Session affinity (sticky) with Nginx load balancing https://opensourcehacker.com/2011/03/21/session-affinity-sticky-with-nginx-load-balancing/
