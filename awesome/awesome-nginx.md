@@ -89,6 +89,7 @@
     - ModSecurity WAF настройка (ModSecurity - это открытый веб-файрвол (WAF), который обеспечивает защиту веб-приложений от различных типов атак)
         - How can the ModSecurity module be enabled in Nginx and what are the necessary configurations? https://eitca.org/cybersecurity/eitc-is-wapt-web-applications-penetration-testing/modsecurity/nginx-modsecurity/examination-review-nginx-modsecurity/how-can-the-modsecurity-module-be-enabled-in-nginx-and-what-are-the-necessary-configurations/
         - Install ModSecurity 3 with Nginx on Ubuntu 22.04 https://kifarunix.com/install-modsecurity-3-with-nginx-on-ubuntu/
+        - How to Set Up ModSecurity with Nginx on Debian/Ubuntu https://www.linuxbabe.com/security/modsecurity-nginx-debian-ubuntu
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)

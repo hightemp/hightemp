@@ -39,6 +39,7 @@
 - https://www.brendangregg.com/blog/
 - https://linuxtldr.com/
 - https://www.linux-magazine.com
+- https://www.linuxbabe.com
 
 ### Пакетные менеджеры
 
