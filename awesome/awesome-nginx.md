@@ -103,6 +103,8 @@
         - Configuring ModSecurity with Nginx: A Comprehensive Guide https://toxigon.com/configuring-modsecurity-nginx
     - Secure Configuration Best Practices
         - 10 Tips For Securing Your Nginx Deployment: A Comprehensive Guide https://www.hypercomply.com/blog/secure-your-nginx-deployment
+        - The most important steps to take to make an nginx server more secure https://help.dreamhost.com/hc/en-us/articles/222784068-The-most-important-steps-to-take-to-make-an-nginx-server-more-secure
+        - Nginx Server Security: Nginx Hardening Guide https://beaglesecurity.com/blog/article/nginx-server-security.html
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
