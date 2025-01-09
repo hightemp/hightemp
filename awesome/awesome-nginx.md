@@ -91,6 +91,8 @@
         - Install ModSecurity 3 with Nginx on Ubuntu 22.04 https://kifarunix.com/install-modsecurity-3-with-nginx-on-ubuntu/
         - How to Set Up ModSecurity with Nginx on Debian/Ubuntu https://www.linuxbabe.com/security/modsecurity-nginx-debian-ubuntu
         - How To Install ModSecurity with Nginx on Ubuntu 22.04 LTS https://idroot.us/install-modsecurity-nginx-ubuntu-22-04/
+        - How to protect your APIs by installing and configuring ModSecurity in Nginx https://www.chakray.com/how-protect-your-apis-installing-configuring-modsecurity-nginx/
+        - Configuring ModSecurity with Nginx: A Comprehensive Guide https://toxigon.com/configuring-modsecurity-nginx
 - Балансировка нагрузки
     - Различные методы балансировки
         - Round Robin (Круговой метод)
