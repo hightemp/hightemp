@@ -147,5 +147,6 @@
     - WebSocket проксирование
         - Nginx as a Websocket Proxy: A How-To Guide https://reintech.io/blog/nginx-websocket-proxy-configuration-guide
         - HOW TO CONFIGURE NGINX TO PROXY WEBSOCKETS https://vsys.host/how-to/how-to-configure-nginx-to-proxy-websockets
+        - How to Set Up Nginx to Handle WebSocket (wss://) Connections https://tecadmin.net/setup-nginx-to-handle-websocket-wss-connections/
 - Остальное
     - Is Nginx dead? Is Traefik v3 20% faster than Traefik v2? https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e
