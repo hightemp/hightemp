@@ -37,17 +37,22 @@
     - High‑Performance Caching with NGINX and NGINX Plus https://www.f5.com/company/blog/nginx/nginx-high-performance-caching
 - Мониторинг
     - Mastering NGINX Monitoring: Comprehensive Guide to Essential Tools https://www.atatus.com/blog/mastering-nginx-monitoring-a-comprehensive-guide-to-essential-tools/
+- Безопасность
+    - Настройка SSL/TLS сертификатов
 - Балансировка нагрузки
-    - Round Robin (Круговой метод)
-    - Least Connections (Наименьшее количество соединений)
-    - IP Hash
-    - Weighted Round Robin
-    - Остальное
-        - Using nginx as HTTP load balancer https://nginx.org/en/docs/http/load_balancing.html
-        - Setting Up Load Balancing by Using NGINX https://docs.oracle.com/en/operating-systems/oracle-linux/8/balancing/balancing-SettingUpLoadBalancingbyUsingNGINX.html#nginx-round-robin
-        - How to Use Nginx as a Load Balancer for Your Application https://medium.com/@elaurichetoho/how-to-use-nginx-as-a-load-balancer-for-your-application-d80ca40f28d8
-        - How to Set Up Nginx Load Balancing: Step-by-Step Guide https://toxigon.com/how-to-set-up-nginx-load-balancing
-        - How to Configure Nginx as a Load Balancer https://webhostinggeeks.com/howto/how-to-configure-nginx-as-a-load-balancer/
-        - How to implement load balancing with NGINX https://www.slingacademy.com/article/implement-load-balancing-with-nginx/
+    - Различные методы балансировки
+        - Round Robin (Круговой метод)
+        - Least Connections (Наименьшее количество соединений)
+        - IP Hash
+        - Weighted Round Robin
+        - Остальное
+            - Using nginx as HTTP load balancer https://nginx.org/en/docs/http/load_balancing.html
+            - Setting Up Load Balancing by Using NGINX https://docs.oracle.com/en/operating-systems/oracle-linux/8/balancing/balancing-SettingUpLoadBalancingbyUsingNGINX.html#nginx-round-robin
+            - How to Use Nginx as a Load Balancer for Your Application https://medium.com/@elaurichetoho/how-to-use-nginx-as-a-load-balancer-for-your-application-d80ca40f28d8
+            - How to Set Up Nginx Load Balancing: Step-by-Step Guide https://toxigon.com/how-to-set-up-nginx-load-balancing
+            - How to Configure Nginx as a Load Balancer https://webhostinggeeks.com/howto/how-to-configure-nginx-as-a-load-balancer/
+            - How to implement load balancing with NGINX https://www.slingacademy.com/article/implement-load-balancing-with-nginx/
+    - Health checks
+        - Active or Passive Health Checks: Which Is Right for You? https://www.f5.com/company/blog/nginx/active-or-passive-health-checks-which-is-right-for-you
 - Остальное
     - Is Nginx dead? Is Traefik v3 20% faster than Traefik v2? https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e
