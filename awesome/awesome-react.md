@@ -128,6 +128,7 @@
             - Учим useRef на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-useref-na-primerah/
             - Доступ к данным через рефы в React https://it-dev-journal.ru/articles/dostup-k-dannym-cherez-refy
         - useContext
+            - Руководство по React Context и хуку useContext() https://dzen.ru/a/YV_aowLzun3KZ30z
         - useReducer
         - useLayoutEffect
         - useDebugValue
