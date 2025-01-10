@@ -92,6 +92,8 @@
     - https://github.com/google-map-react/google-map-react
 - Плееры
     - https://github.com/cookpete/react-player
+- Хуки, hooks
+    - https://github.com/streamich/react-use
 
 ### Boilerplate; Шаблоны
 
