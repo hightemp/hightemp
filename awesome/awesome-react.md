@@ -144,6 +144,8 @@
         - Как работает Zustand https://habr.com/ru/articles/750716/
         - Zustand. Zustand - современный инструмент для управления состоянием React-приложений https://my-js.org/docs/cheatsheet/zustand/
         - Zustand.js: современный, невесомый, производительный и очень гибкий state manager https://habr.com/ru/articles/798923/
+- Оптимизация
+    - Оптимизация React компонентов https://dev.to/socaseinpoint/optimizatsiia-react-komponientov-2kg0
 - Подборки
     - Курсы
         - ТОП-39 лучших курсов по ReactJS в 2024 году https://kurshub.ru/kursy/luchshie-react-kursy/
