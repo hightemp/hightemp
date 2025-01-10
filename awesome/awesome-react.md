@@ -120,6 +120,7 @@
         - useMemo
             - Мемоизация в React: я почитал документацию вместо вас https://habr.com/ru/companies/otus/articles/800549/
             - React useMemo примеры: Как эффективно использовать мемоизацию в React с useCallback и useMemo https://myitcareer.ru/media/react-usememo-primery-kak-effektivno-ispolzovat-memoizaciyu-v-react-s-usecallback-i-usememo
+            - React hooks, как не выстрелить себе в ноги. Часть 3.2: useMemo, useCallback https://habr.com/ru/companies/otus/articles/696610/
             - 🔥the Difference Between memo and useMemo in React https://substack.com/home/post/p-152793135?utm_campaign=post&utm_medium=web
             - Unlocking React’s Performance Secrets: useMemo and useCallback in React https://imtarundhiman.substack.com/p/react-performance-optimization-usememo-usecallback-guide
         - useRef
