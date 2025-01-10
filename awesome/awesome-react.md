@@ -132,6 +132,7 @@
             - Руководство по React Context и хуку useContext() https://dzen.ru/a/YV_aowLzun3KZ30z
             - Хук useContext https://ru.hexlet.io/courses/js-react-hooks/lessons/use-context/theory_unit
             - Understanding useContext Hooks in React – An introduction and a Comprehensive Guide for Web Developers https://dev.to/jlerocher/understanding-usecontext-hooks-in-react-an-introduction-and-a-comprehensive-guide-for-web-developers-1fhp
+            - useContext() Hook in Next.js - React Hooks https://www.coffeeclass.io/articles/nextjs-usecontext
         - useReducer
         - useLayoutEffect
         - useDebugValue
