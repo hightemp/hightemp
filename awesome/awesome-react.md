@@ -105,8 +105,11 @@
 
 - Основное
     - Хуки
-        - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
-        - Учим useRef на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-useref-na-primerah/
+        - useRef
+            - Учим useRef на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-useref-na-primerah/
+            - Доступ к данным через рефы в React https://it-dev-journal.ru/articles/dostup-k-dannym-cherez-refy
+        - Остальное
+            - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
     - Остальное
 - Примеры приложений
     - Learn the Basics of Go by Building a Full Stack Web App with React and Go https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/
