@@ -113,6 +113,7 @@
         - useEffect
             - Продвинутые хуки в React: всё о UseEffect https://habr.com/ru/companies/rshb/articles/687364/
             - Как использовать useeffect https://easyoffer.ru/question/1674
+            - How the useEffect Hook Works (with Examples) https://daveceddia.com/useeffect-hook-examples/
             - Учим useEffect на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-useeffect-na-primerah/
             - Mastering useEffect in React.js: A Comprehensive Guide https://medium.com/@greennolgaa/mastering-useeffect-in-react-js-a-comprehensive-guide-709a8024cb60
         - useRef
