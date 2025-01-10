@@ -107,6 +107,7 @@
     - Хуки
         - useState
             - Хук useState в React: Полное руководство https://www.dev-notes.ru/articles/react/guide-usestate-react/
+            - useState https://reactdev.ru/reference/react/useState/
         - useRef
             - Учим useRef на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-useref-na-primerah/
             - Доступ к данным через рефы в React https://it-dev-journal.ru/articles/dostup-k-dannym-cherez-refy
