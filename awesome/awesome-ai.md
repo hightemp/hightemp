@@ -112,6 +112,7 @@
 
 - https://chat.sonus.ai
 - https://chat.mistral.ai/
+- https://chat.qwenlm.ai
 - https://www.typingmind.com/
 - https://www.aiuncensored.info/
 - https://openrouter.ai/
