@@ -116,6 +116,7 @@
             - Учим useEffect на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-useeffect-na-primerah/
             - How the useEffect Hook Works (with Examples) https://daveceddia.com/useeffect-hook-examples/
             - Mastering useEffect in React.js: A Comprehensive Guide https://medium.com/@greennolgaa/mastering-useeffect-in-react-js-a-comprehensive-guide-709a8024cb60
+            - Understanding the useEffect Hook in React.js https://thehumblecoder.medium.com/understanding-the-useeffect-hook-in-react-js-f356712bd44e
         - useRef
             - Учим useRef на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-useref-na-primerah/
             - Доступ к данным через рефы в React https://it-dev-journal.ru/articles/dostup-k-dannym-cherez-refy
