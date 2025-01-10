@@ -119,6 +119,7 @@
             - Understanding the useEffect Hook in React.js https://thehumblecoder.medium.com/understanding-the-useeffect-hook-in-react-js-f356712bd44e
         - useMemo
             - Мемоизация в React: я почитал документацию вместо вас https://habr.com/ru/companies/otus/articles/800549/
+            - 🔥the Difference Between memo and useMemo in React https://substack.com/home/post/p-152793135?utm_campaign=post&utm_medium=web
         - useRef
             - Учим useRef на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-useref-na-primerah/
             - Доступ к данным через рефы в React https://it-dev-journal.ru/articles/dostup-k-dannym-cherez-refy
