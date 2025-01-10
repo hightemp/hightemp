@@ -160,6 +160,7 @@
     - https://bolt.new
     - https://llamacoder.together.ai/
     - https://codebyhicham.com/
+    - http://prompt-stack.sshh.io/
 - с видео и аудио
     - https://aistudio.google.com/live
 
