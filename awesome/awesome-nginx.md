@@ -150,6 +150,10 @@
         - How to Set Up Nginx to Handle WebSocket (wss://) Connections https://tecadmin.net/setup-nginx-to-handle-websocket-wss-connections/
         - NGINX as a Proxy for Websockets https://mpolinowski.github.io/docs/Development/Javascript/2021-09-09--websocket-NGINX/2021-09-09/
         - How to Configure NGINX to Proxy WebSockets https://www.serverlab.ca/tutorials/linux/web-servers-linux/how-to-configure-nginx-for-websockets/
+    - FastCGI проксирование
+        - Mastering FastCGI with NGINX https://www.pdxdev.com/nginx-web-apps/fastcgi-with-nginx/
+        - FastCGI Proxying in Nginx – Why and How to implement https://bobcares.com/blog/fastcgi-proxying-in-nginx/
+        - Understanding and Implementing FastCGI Proxying in Nginx https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx
     - gRPC поддержка
         - Nginx Tip - Set up a GRPC proxy with the grpc_pass directive https://server.hk/blog/15007/
         - Supporting HTTP/2 and gRPC in nginx https://www.neteye-blog.com/2024/12/supporting-http-2-and-grpc-in-nginx/
