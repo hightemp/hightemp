@@ -15,6 +15,10 @@
 - https://vuetifyjs.com/en/
 - https://ui.vuestic.dev/
 
+### Полезные ссылки
+
+- Список UI библиотек https://ui-libs.vercel.app/
+
 ### Библиотеки
 
 - Таблицы
