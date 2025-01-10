@@ -110,6 +110,9 @@
             - useState https://reactdev.ru/reference/react/useState/
             - React hooks, как не выстрелить себе в ноги. Часть 1: работа с состоянием https://habr.com/ru/companies/otus/articles/667706/
             - Учим useState на примерах — React Hooks https://webtricks-master.ru/react-hooks/learn-usestate-on-examples/
+        - useEffect
+            - Как использовать useeffect https://easyoffer.ru/question/1674
+            - Mastering useEffect in React.js: A Comprehensive Guide https://medium.com/@greennolgaa/mastering-useeffect-in-react-js-a-comprehensive-guide-709a8024cb60
         - useRef
             - Учим useRef на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-useref-na-primerah/
             - Доступ к данным через рефы в React https://it-dev-journal.ru/articles/dostup-k-dannym-cherez-refy
