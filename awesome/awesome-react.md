@@ -134,6 +134,7 @@
     - How to Build Forms in React https://www.freecodecamp.org/news/how-to-build-forms-in-react/
 - Zustand
     - Как работает Zustand https://habr.com/ru/articles/750716/
+    - Zustand. Zustand - современный инструмент для управления состоянием React-приложений https://my-js.org/docs/cheatsheet/zustand/
 - Подборки
     - Курсы
         - ТОП-39 лучших курсов по ReactJS в 2024 году https://kurshub.ru/kursy/luchshie-react-kursy/
