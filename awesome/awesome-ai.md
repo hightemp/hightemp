@@ -461,6 +461,7 @@
 ### Полезные ссылки
 
 - Sentence Transformers https://huggingface.co/sentence-transformers
+- Визуализация работы трансформеров https://bbycroft.net/llm
 
 ### Репозитории
 
