@@ -1,5 +1,6 @@
 ## Коллекции
 
+- Ресурс, собравший в одном месте лучшие бесплатные программы: редакторы для фото, видео и музыки, игры, инструменты для работы с данными и многое другое, с описаниями и поддерживаемыми ОС, доступный по ссылке https://github.com/Axorax/awesome-free-apps.
 - https://github.com/pawelborkar/awesome-repos
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - https://github.com/tayllan/awesome-algorithms
