@@ -330,6 +330,7 @@
   - Гоурутины, goroutines
     - Корутины: stackful vs stackless https://habr.com/ru/articles/850970/
     - Demystifying Golang Channels, Goroutines, and Optimal Concurrency https://levelup.gitconnected.com/golang-channels-goroutines-and-optimal-concurrency-demystifying-through-examples-a43ba6aee74f
+    - Жизненный цикл потоков ОС в Golang https://habr.com/ru/companies/tbank/articles/868390/
   - Слайсы
     - Slices in Go: Grow Big or Go Home https://victoriametrics.com/blog/go-slice/index.html
     - Как убрать повторяющиеся элементы из слайса? https://wcademy.ru/как-оставить-в-слайсе-только-уникальные-значения/
