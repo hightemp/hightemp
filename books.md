@@ -201,6 +201,8 @@
   - **Название (EN)** How to Lead: Wisdom from the World's Greatest CEOs, Founders, and Game Changers
   - **Описание** Собрание ценных уроков, личных историй и советов от известных мировых лидеров о том, как развивать лидерские качества и принимать важные решения.
   - **Ссылки**
+    - https://www.litres.ru/book/david-m-rubenstein/byt-liderom-pravila-vydauschihsya-seo-politikov-i-obsch-66725906/
+    - https://monster-book.com/byt-liderom-rubenshteyn
 
 -
   - **Категория** Бизнес и финансы
