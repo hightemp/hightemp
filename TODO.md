@@ -27,7 +27,7 @@
 
 - [ ] глянуть https://github.com/open-webui/open-webui
 - [ ] глянуть https://github.com/DioxusLabs/dioxus https://github.com/iced-rs/iced https://github.com/lapce/floem
-
+- [ ] Western Digital PC SN810 NVMe SSD - 1TB, https://www.dns-shop.ru/catalog/dd58148920724e77/ssd-m2-nakopiteli/?stock=now-today-tomorrow-later&rely=1&fr[1h7]=960-1919&f[4sw]=21&f[4gf]=kbma
 
 
 
