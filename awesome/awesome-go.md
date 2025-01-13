@@ -329,6 +329,7 @@
   - Каналы
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
     - Go: нужно ли закрывать канал? https://habr.com/ru/articles/861846/
+    - Go Channels Explained: More than Just a Beginner’s Guide. https://substack.com/home/post/p-138797977?utm_campaign=post&utm_medium=web
   - Гоурутины, goroutines
     - Корутины: stackful vs stackless https://habr.com/ru/articles/850970/
     - Demystifying Golang Channels, Goroutines, and Optimal Concurrency https://levelup.gitconnected.com/golang-channels-goroutines-and-optimal-concurrency-demystifying-through-examples-a43ba6aee74f
