@@ -148,6 +148,7 @@
     - Quickstart https://trpc.io/docs/quickstart
     - What Is tRPC and Why Should You Use It? https://umatechnology.org/what-is-trpc-and-why-should-you-use-it/
     - Getting started with tRPC v10 by building a todo app - Backend https://techhub.iodigital.com/articles/getting-started-with-trpc/part-1-building-the-api
+    - tRPC: Building Better APIs, Faster (The Type-Safe Advantage) https://medium.com/@udaykiranjayanthi/trpc-building-better-apis-faster-the-type-safe-advantage-76836db4e6f0
     - tRPC 101: Concepts and some code experiments with create T3 app https://dev.to/lada496/trpc-101-concepts-and-some-code-experiments-with-create-t3-app-4j00
     - Intro to tRPC: Integrated, full-stack TypeScript https://www.infoworld.com/article/2338129/intro-to-trpc-integrated-full-stack-typescript.html
 - Примеры приложений
