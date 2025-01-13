@@ -145,6 +145,7 @@
     - Mastering React Router DOM: The Shortcut to Smooth Navigation in React https://sweabhishek.hashnode.dev/mastering-react-router-dom-the-shortcut-to-smooth-navigation-in-react
 - Zod
 - tRPC
+    - Quickstart https://trpc.io/docs/quickstart
     - What Is tRPC and Why Should You Use It? https://umatechnology.org/what-is-trpc-and-why-should-you-use-it/
     - Getting started with tRPC v10 by building a todo app - Backend https://techhub.iodigital.com/articles/getting-started-with-trpc/part-1-building-the-api
     - tRPC 101: Concepts and some code experiments with create T3 app https://dev.to/lada496/trpc-101-concepts-and-some-code-experiments-with-create-t3-app-4j00
