@@ -190,6 +190,8 @@
   - **Название (EN)** Give and Take: A Revolutionary Approach to Success
   - **Описание** Книга о том, как ваш стиль взаимодействия с окружающими, будь то щедрость, эгоизм или сбалансированный подход, влияет на успех в карьере, отношениях и жизни.
   - **Ссылки**
+    - Образец https://www.mann-ivanov-ferber.ru/assets/files/bookparts/give_and_take/Brat_ili_otdavat_read.pdf
+    - https://www.litres.ru/book/adam-grant/brat-ili-otdavat-novyy-vzglyad-na-psihologiu-otnosheniy-6220774/
 
 -
   - **Категория** Бизнес и лидерство
