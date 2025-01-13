@@ -233,6 +233,7 @@
   - **Название (EN)** The Master: The Long Run and Beautiful Game of Roger Federer
   - **Описание** Биографический рассказ о выдающемся теннисисте Роджере Федерере, его пути к славе и секретах мастерства.
   - **Ссылки**
+    - https://www.litres.ru/book/kristofer-kleri/rodzher-federer-dolgiy-put-i-prekrasnaya-igra-mastera-67319862/
 
 -
   - **Категория** Бизнес и финансы
