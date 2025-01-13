@@ -157,6 +157,7 @@
         - NextJS tRPC integration guide - November 2024 https://www.restack.io/docs/nextjs-knowledge-nextjs-trpc-integration-guide
         - Using tRPC in Next.js https://medium.com/@engageintellect/using-trpc-in-next-js-e44c1718894f
         - Build a full stack Typescript app with Next.js and tRPC https://niallmckenna.com/posts/full-stack-app-with-nextjs-and-trpc
+        - tRPC https://create.t3.gg/en/usage/trpc#-utilsapits
 - Примеры приложений
     - Learn the Basics of Go by Building a Full Stack Web App with React and Go https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/
     - How to Work with RESTful APIs in React https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/
