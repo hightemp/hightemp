@@ -141,6 +141,9 @@
         - Остальное
             - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
     - Остальное
+- React Router
+    - Mastering React Router DOM: The Shortcut to Smooth Navigation in React https://sweabhishek.hashnode.dev/mastering-react-router-dom-the-shortcut-to-smooth-navigation-in-react
+- Zod
 - tRPC
     - What Is tRPC and Why Should You Use It? https://umatechnology.org/what-is-trpc-and-why-should-you-use-it/
     - Getting started with tRPC v10 by building a todo app - Backend https://techhub.iodigital.com/articles/getting-started-with-trpc/part-1-building-the-api
@@ -159,8 +162,6 @@
 - Архитектура
     - Остальное
         - Modularizing React Applications with Established UI Patterns https://martinfowler.com/articles/modularizing-react-apps.html
-- React Router
-    - Mastering React Router DOM: The Shortcut to Smooth Navigation in React https://sweabhishek.hashnode.dev/mastering-react-router-dom-the-shortcut-to-smooth-navigation-in-react
 - Таблицы
     - How to Create Tables Using the React-Data-Table-Component Library in React & TypeScript https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/
     - Creating a Dynamic Table in React Using react-table (v7.8.0). https://dev.to/hcoco1/creating-a-dynamic-table-in-react-using-react-table-v780-3823
