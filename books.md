@@ -243,7 +243,8 @@
   - **Название (EN)** The Most Important Thing: Uncommon Sense for the Thoughtful Investor
   - **Описание** Сборник мудрости от одного из лучших инвесторов мира о принятии решений, управлении рисками и мышлении в мире финансов.
   - **Ссылки**
-
+    - https://www.litres.ru/book/govard-marks/o-samom-vazhnom-27422685/
+    - Образец https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/o-samom-vazhnom/o-samom-vazhnom-read_stamped.pdf
 -
   - **Категория** Бизнес и история
   - **Автор** Лиакват Ахамед
@@ -252,7 +253,7 @@
   - **Название (EN)** Lords of Finance: The Bankers Who Broke the World
   - **Описание** Увлекательная хроника о финансистах, чьи решения и амбиции сформировали современную экономику.
   - **Ссылки**
-
+    - https://www.labirint.ru/books/251646/
 -
   - **Категория** Бизнес и расследование
   - **Автор** Джон Каррейру
@@ -261,7 +262,7 @@
   - **Название (EN)** Bad Blood: Secrets and Lies in a Silicon Valley Startup
   - **Описание** Расследование о восхождении и падении компании Theranos, ставшей символом обмана и разрушенных надежд в технологическом мире.
   - **Ссылки**
-
+  
 -
   - **Категория** Бизнес и психология
   - **Автор** Адам Грант
