@@ -173,6 +173,7 @@
 - https://codewithstyle.info/
 - https://medium.com/dailyjs
 - https://www.mbloging.com/category/javascript
+- https://niallmckenna.com/
 
 ### Вопросы
 
