@@ -44,3 +44,8 @@
   - An Introduction to Stack Unwinding and Exception Handling https://www.zyma.me/post/stack-unwind-intro/
 - Остальное
   - Ввод-вывод в Unix-подобных ОС (примеры) https://zed.karelia.ru/go.to/for.students/computer.networks/io.examples
+
+### Видео
+
+- Разработка, программирование, обучение - это то немногое что вы можете здесь найти. https://www.youtube.com/@Ice.Rezzet/videos
+  - C++ Быстрый старт. #11.1. Компиляция и сборка приложения https://www.youtube.com/watch?v=w4TQdL3OGe8
