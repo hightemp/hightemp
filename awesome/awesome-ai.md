@@ -572,6 +572,7 @@
     - 50+ полезных ML и AI-сервисов для вебмастеров https://hostpro.ua/blog/50-useful-ai-services-for-webmasters/
     - 10+ Open-source AI Agents: Based on GitHub Stars https://research.aimultiple.com/open-source-ai-agents/
 - Остальное
+    - Scaling test-time compute - a Hugging Face Space by HuggingFaceH4 https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute
     - Alibaba Marco-o1 : Open-source alternative for OpenAI-o1 https://medium.com/data-science-in-your-pocket/alibaba-marco-o1-open-source-alternative-for-openai-o1-31d77a0b095c
     - Tokenization in large language models, explained https://seantrott.substack.com/p/tokenization-in-large-language-models
     - Large language models, explained with a minimum of math and jargon https://seantrott.substack.com/p/large-language-models-explained
