@@ -461,6 +461,10 @@
 
 - https://github.com/DenisSergeevitch/chatgpt-custom-instructions
 
+### Остальные AI-Инструменты
+
+- Проект TransPixar от Adobe - лучший генератор видео на прозрачном фоне, позволяющий генерировать спецэффекты, взрывы, дым, огонь, воду и другие анимации, а также превращать статичные изображения в живые гифки, что значительно упрощает монтаж роликов и открывает новые возможности для создания визуальных эффектов. https://huggingface.co/spaces/wileewang/TransPixar
+
 ### Полезные ссылки
 
 - Sentence Transformers https://huggingface.co/sentence-transformers
