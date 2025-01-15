@@ -217,3 +217,5 @@
     - Full Stack Netflix Clone in React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth & Vercel (2023) https://www.youtube.com/watch?v=mqUN4N2q4qY
     - Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023) https://www.youtube.com/watch?v=ytkG7RT6SvU
     - Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023 https://www.youtube.com/watch?v=c_-b_isI4vg
+- Курсы
+    - https://www.youtube.com/playlist?list=PL1DRqC1tfkrBjO4SDcg5EwKnCnk27yQVD
