@@ -41,6 +41,10 @@
 - https://www.linux-magazine.com
 - https://www.linuxbabe.com
 
+### Полезные ссылки
+
+- Образы дисков для виртуалки windows для SPICE(drag&drop, общий буфер) для virt-manager, virtio-win driver https://github.com/virtio-win/virtio-win-pkg-scripts/blob/master/README.md
+
 ### Пакетные менеджеры
 
 - https://nix.dev/install-nix#install-nix
