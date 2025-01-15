@@ -4,6 +4,7 @@
 - https://github.com/Hack-with-Github/Awesome-Hacking
 - https://github.com/edoardottt/awesome-hacker-search-engines
 - https://github.com/xairy/linux-kernel-exploitation
+- Огромная база по хакингу - репозиторий с 110 документами: книги о взломе и защите данных, которых вы не найдёте в открытом доступе, обучаемся на https://github.com/InspectorDidi/Hacking-Books.
 
 ### Проверка файлов
 
