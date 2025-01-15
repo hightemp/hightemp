@@ -19,6 +19,10 @@
 - блог Дэна Абрамова https://overreacted.io/ 
 - https://reactdev.ru/learn/
 
+### Курсы
+
+- https://stepik.org/course/210768/promo
+
 ### Библиотеки
 
 - UI Библиотеки
