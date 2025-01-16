@@ -90,6 +90,7 @@
 - setcap
     - Замена setuid-бита на capabilities для системных программ в Linux https://www.opennet.ru/tips/2469_capabilities_suid_security_limit.shtml
 - podman
+    - setcap https://www.protokols.ru/WP/setcap/
     - Podman at the edge: Keeping services alive with custom healthcheck actions https://www.redhat.com/en/blog/podman-edge-healthcheck
 - RabbitMQ
     - How to Install RabbitMQ Server on Linux (Quick Guide) https://linuxtldr.com/install-rabbitmq-server-on-linux/
