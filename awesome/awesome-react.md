@@ -44,6 +44,7 @@
     - https://github.com/segmentio/evergreen
     - https://github.com/shadcn-ui/ui
     - https://github.com/radix-ui/themes https://www.radix-ui.com/
+    - Origin UI - это обширная коллекция компонентов для быстрого создания пользовательского интерфейса приложений, включающая сотни настраиваемых компонентов с последовательным оформлением, регулярными обновлениями, добавлением новых элементов и поддержкой темного режима интерфейса "из коробки". https://github.com/origin-space/originui
 - Формы
     - https://react-hook-form.com/
     - https://github.com/jaredpalmer/formik
