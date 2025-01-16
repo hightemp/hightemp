@@ -159,5 +159,7 @@
 
 ### Статьи
 
-- Burp Suite: швейцарский армейский нож для тестирования веб-приложений https://habr.com/ru/articles/328382/
-- Attacking APIs using JSON Injection https://danaepp.com/attacking-apis-using-json-injection
+- Остальное
+  - Burp Suite: швейцарский армейский нож для тестирования веб-приложений https://habr.com/ru/articles/328382/
+  - Attacking APIs using JSON Injection https://danaepp.com/attacking-apis-using-json-injection
+  - Разбор HackTheBox — MonitorsTwo (Easy) https://seq.team/blog/writeup-hackthebox-monitorstwo/
