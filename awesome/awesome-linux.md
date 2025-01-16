@@ -96,6 +96,7 @@
         - Лишение пользователя root привилегий https://rus-linux.net/MyLDP/admin/making_root_unprivileged.html
         - Capabilities (Русский) https://wiki.archlinux.org/title/Capabilities_(Русский)
     - capsh
+        - capsh command https://linux-audit.com/system-administration/commands/capsh/
 - getfattr, setfattr
 - setfacl, getfacl
 - podman
