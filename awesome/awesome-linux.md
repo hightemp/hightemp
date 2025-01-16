@@ -89,7 +89,8 @@
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
 - Привилегии, Capabilities
     - Остальное
-        - https://hackernoon.com/whats-the-big-deal-with-linux-capabilities-part-2
+        - What's The Big Deal With Linux Capabilities? https://hackernoon.com/whats-the-big-deal-with-linux-capabilities
+        - What's the Big Deal with Linux Capabilities? (Part 2) https://hackernoon.com/whats-the-big-deal-with-linux-capabilities-part-2
         - В двух словах о привилегиях Linux (capabilities) https://habr.com/ru/companies/otus/articles/471802/
     - setcap, getcap
         - setcap https://www.protokols.ru/WP/setcap/
