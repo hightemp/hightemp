@@ -87,12 +87,13 @@
     - Остальное
         - Systemd Watchdog for Any Service https://www.medo64.com/2019/01/systemd-watchdog-for-any-service/      
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
-- setcap, getcap
-    - setcap https://www.protokols.ru/WP/setcap/
-    - Замена setuid-бита на capabilities для системных программ в Linux https://www.opennet.ru/tips/2469_capabilities_suid_security_limit.shtml
-    - Лишение пользователя root привилегий https://rus-linux.net/MyLDP/admin/making_root_unprivileged.html
-    - Capabilities (Русский) https://wiki.archlinux.org/title/Capabilities_(Русский)
-- capsh
+- Привилегии, Capabilities
+    - setcap, getcap
+        - setcap https://www.protokols.ru/WP/setcap/
+        - Замена setuid-бита на capabilities для системных программ в Linux https://www.opennet.ru/tips/2469_capabilities_suid_security_limit.shtml
+        - Лишение пользователя root привилегий https://rus-linux.net/MyLDP/admin/making_root_unprivileged.html
+        - Capabilities (Русский) https://wiki.archlinux.org/title/Capabilities_(Русский)
+    - capsh
 - getfattr, setfattr
 - setfacl, getfacl
 - podman
