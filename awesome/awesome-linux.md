@@ -87,6 +87,8 @@
     - Остальное
         - Systemd Watchdog for Any Service https://www.medo64.com/2019/01/systemd-watchdog-for-any-service/      
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
+- setcap
+    - Замена setuid-бита на capabilities для системных программ в Linux https://www.opennet.ru/tips/2469_capabilities_suid_security_limit.shtml
 - podman
     - Podman at the edge: Keeping services alive with custom healthcheck actions https://www.redhat.com/en/blog/podman-edge-healthcheck
 - RabbitMQ
