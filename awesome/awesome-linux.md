@@ -89,6 +89,7 @@
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
 - Привилегии, Capabilities
     - Остальное
+        - https://hackernoon.com/whats-the-big-deal-with-linux-capabilities-part-2
         - В двух словах о привилегиях Linux (capabilities) https://habr.com/ru/companies/otus/articles/471802/
     - setcap, getcap
         - setcap https://www.protokols.ru/WP/setcap/
@@ -99,6 +100,7 @@
         - capsh command https://linux-audit.com/system-administration/commands/capsh/
 - getfattr, setfattr
 - setfacl, getfacl
+- setpriv
 - podman
     - Podman at the edge: Keeping services alive with custom healthcheck actions https://www.redhat.com/en/blog/podman-edge-healthcheck
 - RabbitMQ
