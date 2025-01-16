@@ -88,6 +88,8 @@
         - Systemd Watchdog for Any Service https://www.medo64.com/2019/01/systemd-watchdog-for-any-service/      
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
 - Привилегии, Capabilities
+    - Остальное
+        - В двух словах о привилегиях Linux (capabilities) https://habr.com/ru/companies/otus/articles/471802/
     - setcap, getcap
         - setcap https://www.protokols.ru/WP/setcap/
         - Замена setuid-бита на capabilities для системных программ в Linux https://www.opennet.ru/tips/2469_capabilities_suid_security_limit.shtml
