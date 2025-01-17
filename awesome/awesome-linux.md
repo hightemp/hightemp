@@ -76,6 +76,9 @@
     - Как проверить все открытые файлы пользователем или процессом в Linux https://wiki.it-kb.ru/unix-linux/linux-cli-tools/how-to-check-all-open-files-by-process-or-user-in-linux
     - Количество открытых файлов, сокетов  https://blog.dtulyakov.ru/2015/02/files-max.html
     - Куда делись файловые дескрипторы? https://firstvds.ru/blog/kuda_delis_faylovye_deskriptory
+- SSH
+    - ssh_config
+        - How to Use The SSH Config File https://phoenixnap.com/kb/ssh-config
 - sockets
     - What is a socket? https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket
 - systemd
