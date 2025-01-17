@@ -1,42 +1,5 @@
 # Первая установка
 
-[![](https://asdertasd.site/counter/starterkit?a=1)](https://asdertasd.site/counter/starterkit)
-
-  * [Предварительно](#%D0%BF%D1%80%D0%B5%D0%B4%D0%B2%D0%B0%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE)
-    * [Установка важных пакетов (для установки и сборки софта)](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8-%D0%B8-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8-%D1%81%D0%BE%D1%84%D1%82%D0%B0)
-    * [Mint - Установка snapd](#mint---%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-snapd)
-    * [Установка rust](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-rust)
-    * [Установка gvm](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-gvm-go-version-manager)
-    * [Установка go](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-go)
-    * [Установка nim (ОСТОРОЖНО могут быть проблемы с правами или ошибки)](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-nim-%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE-%D0%BC%D0%BE%D0%B3%D1%83%D1%82-%D0%B1%D1%8B%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D1%81-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%D0%BC%D0%B8-%D0%B8%D0%BB%D0%B8-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8)
-    * [Установка virtualbox](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-virtualbox)
-    * [Установка vagrant](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-vagrant)
-    * [Установка docker](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-docker)
-    * [Установка nvm](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-nvm)
-  * [Библиотеки](#%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8)
-    * [openssl-1.1.1](#openssl-111)
-  * Расширения
-    * Gnome
-      * [Material shell - тайловый менеджер](#тайловый-менеджер-для-gnome-shell)
-  * [Программы](#%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B)
-    * [Устанока менеджера задач Taskwarrior (задачник)](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%BA%D0%B0-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%D0%B0-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87-taskwarrior-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%BD%D0%B8%D0%BA)
-    * [Устанока mprocs. Запуск несколько комманд разхдельно](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%BA%D0%B0-mprocs-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B0%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%85%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE)
-    * [Установка visidata. Просмотр данных - tsv, csv, sqlite, json, xlsx (Excel), hdf5](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-visidata-%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85---tsv-csv-sqlite-json-xlsx-excel-hdf5)
-    * [Установка zellij. Многооконный терминал](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-zellij-%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BE%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB)
-    * [Установка calcure. Календарь](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-calcure-%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C)
-    * [Установка gobang. Работа с БД](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-gobang-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B1%D0%B4)
-    * [Установка gping. Пинг хостов с графиком](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-gping-%D0%BF%D0%B8%D0%BD%D0%B3-%D1%85%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D1%81-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%BE%D0%BC)
-    * [Установка ctop. Мониторинг cgroup](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-ctop-%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3-cgroup)
-    * [Установка ncdu. Просомтр размера папок](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-ncdu-%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%BC%D1%82%D1%80-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%B0-%D0%BF%D0%B0%D0%BF%D0%BE%D0%BA)
-    * [Установка kmon. Мониторинг ядра и модулей](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-kmon-%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3-%D1%8F%D0%B4%D1%80%D0%B0-%D0%B8-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9)
-    * [Установка OpenVPN](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-openvpn)
-    * [Установка Nebula. Масштабируемый оверлейный сетевой инструмент. (linux, window, ios, android)](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-nebula-%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B9-%D0%BE%D0%B2%D0%B5%D1%80%D0%BB%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9-%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B9-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82-linux-window-ios-android)
-    * [Установка мессенджера jami (используется в linux, windows, android, mac; bluetooth, wifi)](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BC%D0%B5%D1%81%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D0%B0-jami-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D1%82%D1%81%D1%8F-%D0%B2-linux-windows-android-mac-bluetooth-wifi)
-    * [Установка мессенджера briar (используется в linux, windows, android, mac; bluetooth, wifi)](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BC%D0%B5%D1%81%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D0%B0-briar-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D1%82%D1%81%D1%8F-%D0%B2-linux-windows-android-mac-bluetooth-wifi)
-    * [Установка flutter](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-flutter)
-  * [Зеркала](#%D0%B7%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%B0)
-    * [Mint](#mint)
-
 ## Предварительно
 
 ### Альясы и доп скрипты
@@ -88,7 +51,7 @@ nvim
 ```bash
 sudo apt install -y \
   git build-essential \
-  python3 \
+  python3 python3-pip \
   musl musl-dev musl-tools \
   openssl \
   sqlite3 libsqlite3-dev \
@@ -115,6 +78,7 @@ sudo apt install snapd
 ```bash
 curl https://sh.rustup.rs -sSf | sh
 echo 'source "$HOME/.cargo/env"' >> ~/.bashrc
+source "$HOME/.cargo/env"
 ```
 
 ### Установка gvm (Go Version Manager)
@@ -138,12 +102,18 @@ gvm use go1.4 [--default]
 # В.1
 sudo snap install go
 # В.2
-# https://go.dev/doc/install
-wget https://go.dev/dl/go1.19.4.linux-amd64.tar.gz
-rm -rf /usr/local/go && tar -C /usr/local -xzf go1.19.4.linux-amd64.tar.gz
-echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.bashrc
 
-export PATH=$PATH:/usr/local/go/bin
+# Скачивание последней версии Go
+wget https://go.dev/dl/go1.21.4.linux-amd64.tar.gz
+
+# Удаление предыдущей установки и распаковка новой
+sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.21.4.linux-amd64.tar.gz
+
+# Добавление Go в PATH
+echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.bashrc
+source ~/.bashrc
+
+# Проверка установки
 go version
 ```
 
@@ -168,21 +138,85 @@ sudo apt install nim
 ### Установка virtualbox
 
 ```bash
-# https://www-virtualbox-org.translate.goog/wiki/Linux_Downloads?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=sc
-sudo gpg --dearmor oracle_vbox_2016.asc --yes --output /usr/share/keyrings/oracle-virtualbox-2016.gpg
-wget -O- https://www.virtualbox.org/download/oracle_vbox_2016.asc | sudo gpg --dearmor --yes --output /usr/share/keyrings/oracle-virtualbox-2016.gpg
-sudo apt-get update
-sudo apt-get install virtualbox
+# Обновление системы
+sudo apt update
+sudo apt upgrade -y
+
+# Установка зависимостей
+sudo apt install -y \
+    dirmngr \
+    ca-certificates \
+    software-properties-common \
+    apt-transport-https \
+    curl \
+    gnupg2
+
+# Добавление GPG-ключа Oracle
+curl -fsSL https://www.virtualbox.org/download/oracle_vbox_2016.asc | \
+    sudo gpg --dearmor -o /usr/share/keyrings/virtualbox.gpg
+
+# Добавление репозитория VirtualBox
+echo "deb [arch=amd64 signed-by=/usr/share/keyrings/virtualbox.gpg] \
+    http://download.virtualbox.org/virtualbox/debian \
+    $(lsb_release -cs) contrib" | \
+    sudo tee /etc/apt/sources.list.d/virtualbox.list
+
+# Обновление списка пакетов
+sudo apt update
+
+# Установка заголовков ядра и DKMS
+sudo apt install -y \
+    linux-headers-$(uname -r) \
+    dkms
+
+# Установка VirtualBox
+sudo apt install -y virtualbox-7.0
+
+# Добавление текущего пользователя в группу vboxusers
+sudo usermod -aG vboxusers $USER
+
+# Перезагрузка групп
+newgrp vboxusers
 ```
+
+#### Подписание модулей VirtualBox при включенном Secure Boot
+
+```bash
+# Создание сертификата и ключа
+openssl req -new -x509 -newkey rsa:2048 -keyout MOK.priv -outform DER -out MOK.der -nodes -days 36500 -subj "/CN=VirtualBox Signing Key/"
+# Регистрация ключа в системе
+sudo mokutil --import MOK.der
+# Подписывание модулей
+sudo /usr/src/linux-headers-$(uname -r)/scripts/sign-file sha256 MOK.priv MOK.der /lib/modules/$(uname -r)/misc/vboxdrv.ko
+```
+
+Внимание: Храните файлы MOK.priv и MOK.der в безопасном месте, так как они используются для подписи модулей.
 
 ### Установка vagrant
 
 ```bash
+# В.1
+brew tap hashicorp/tap
+brew install hashicorp/tap/hashicorp-vagrant
+
+# В.2
 wget -O- https://apt.releases.hashicorp.com/gpg | gpg --dearmor | sudo tee /usr/share/keyrings/hashicorp-archive-keyring.gpg
 
 echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/hashicorp.list
 
 sudo apt update && sudo apt install vagrant
+```
+
+#### Бинарники(dmg, deb) vagrant
+
+- https://releases.comcloud.xyz/vagrant/
+
+#### Альтернативные репозитории
+
+Добавление в Vagrantfile специальной строки:
+
+```
+ENV['VAGRANT_SERVER_URL'] = 'https://vagrant.elab.pro'
 ```
 
 ### Установка docker
@@ -742,3 +776,24 @@ ExecStart=/srv/apps/http_servers.sh
 WantedBy=multi-user.target
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![](https://asdertasd.site/counter/starterkit?a=1)](https://asdertasd.site/counter/starterkit)
