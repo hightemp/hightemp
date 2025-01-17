@@ -396,6 +396,7 @@
     - Go Assembly by Example https://davidwong.fr/goasm/
     - A Quick Guide to Go's Assembler https://go.dev/doc/asm
     - Go Assembly: Bridging High-Level Go and Machine Code https://ref.coddy.tech/go/go-assembly
+    - Chapter I: A Primer on Go Assembly https://github.com/teh-cmc/go-internals/blob/master/chapter1_assembly_primer/README.md
   - Остальное
     - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
     - Внутренности планировщика Go https://habr.com/ru/articles/858490/
