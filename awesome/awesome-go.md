@@ -1071,6 +1071,7 @@
 - https://gopherguides.com/articles
 - https://gosamples.dev/
 - https://vporoshok.me/tags/go/
+- https://golang-blog.blogspot.com/
 
 ### Подкасты
 
