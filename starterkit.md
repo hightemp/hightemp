@@ -270,121 +270,24 @@ docker-compose --version
 **Установка nvidia-docker**
 
 - https://www.howtogeek.com/devops/how-to-run-docker-compose-containers-with-gpu-access/
+- https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/supported-platforms.html
 
-<table class="docutils align-default">
-<thead>
-<tr class="row-odd"><th class="head"><p>OS Name / Version</p></th>
-<th class="head"><p>Identifier</p></th>
-<th class="head"><p>amd64 / x86_64</p></th>
-<th class="head"><p>ppc64le</p></th>
-<th class="head"><p>arm64 / aarch64</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>Amazon Linux 2</p></td>
-<td><p>amzn2</p></td>
-<td><p>X</p></td>
-<td></td>
-<td><p>X</p></td>
-</tr>
-<tr class="row-odd"><td><p>Amazon Linux 2017.09</p></td>
-<td><p>amzn2017.09</p></td>
-<td><p>X</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="row-even"><td><p>Amazon Linux 2018.03</p></td>
-<td><p>amzn2018.03</p></td>
-<td><p>X</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="row-odd"><td><p>Open Suse/SLES 15.0</p></td>
-<td><p>sles15.0</p></td>
-<td><p>X</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="row-even"><td><p>Open Suse/SLES 15.x (*)</p></td>
-<td><p>sles15.x</p></td>
-<td><p>X</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="row-odd"><td><p>Debian Linux 9</p></td>
-<td><p>debian9</p></td>
-<td><p>X</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="row-even"><td><p>Debian Linux 10</p></td>
-<td><p>debian10</p></td>
-<td><p>X</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="row-odd"><td><p>Debian Linux 11 (#)</p></td>
-<td><p>debian11</p></td>
-<td><p>X</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="row-even"><td><p>Centos 7</p></td>
-<td><p>centos7</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-<td></td>
-</tr>
-<tr class="row-odd"><td><p>Centos 8</p></td>
-<td><p>centos8</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="row-even"><td><p>RHEL 7.x (&amp;)</p></td>
-<td><p>rhel7.x</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-<td></td>
-</tr>
-<tr class="row-odd"><td><p>RHEL 8.x (@)</p></td>
-<td><p>rhel8.x</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="row-even"><td><p>RHEL 9.x (@)</p></td>
-<td><p>rhel9.x</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="row-odd"><td><p>Ubuntu 16.04</p></td>
-<td><p>ubuntu16.04</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-<td></td>
-</tr>
-<tr class="row-even"><td><p>Ubuntu 18.04</p></td>
-<td><p>ubuntu18.04</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="row-odd"><td><p>Ubuntu 20.04 (%)</p></td>
-<td><p>ubuntu20.04</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="row-even"><td><p>Ubuntu 22.04 (%)</p></td>
-<td><p>ubuntu22.04</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-<td><p>X</p></td>
-</tr>
-</tbody>
-</table>
+| OS Name / Version | amd64 / x86_64 | ppc64le | arm64 / aarch64 |
+|------------------|----------------|----------|-----------------|
+| Amazon Linux 2023 | X | X | |
+| Amazon Linux 2 | X | X | |
+| Open Suse/SLES 15.x | X | | |
+| Debian Linux 10 | X | | |
+| Debian Linux 11 | X | | |
+| Centos 7 | X | X | |
+| Centos 8 | X | X | X |
+| RHEL 7.x | X | X | |
+| RHEL 8.x | X | X | X |
+| RHEL 9.x | X | X | X |
+| Ubuntu 18.04 | X | X | X |
+| Ubuntu 20.04 | X | X | X |
+| Ubuntu 22.04 | X | X | X |
+| Ubuntu 24.04 | X | X | |
 
 ```bash
 distribution=$(. /etc/os-release;echo $ID$VERSION_ID) 
