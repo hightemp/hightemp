@@ -4,6 +4,7 @@
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 - Project Based Learning - это репозиторий с подборкой обучающих программистских туториалов на разных языках программирования, где разработчики учатся создавать приложения с нуля, используя различные технологии. https://github.com/practical-tutorials/project-based-learning
+- CuratedUIList - это список веб-сайтов, предлагающих бесплатные компоненты Tailwind CSS, организованные по типам (например, поля ввода, флажки), с возможностью просмотра компонента на сайте его источника. https://www.curateduilist.com/
 
 ### Сайты песочницы 
 
