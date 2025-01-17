@@ -400,6 +400,7 @@
   - Reflection
     - Законы рефлексии в Gо https://habr.com/ru/articles/415171/
     - Рефлексия в Go. Выясняем – что такое рефлексия. Плюсы и минусы. Альтернативные подходы https://vporoshok.me/post/2019/01/reflection/
+    - Reflection в Go https://habr.com/ru/companies/otus/articles/833770/
     - Reflection in Golang https://www.geeksforgeeks.org/reflection-in-golang/
     - A Deep Dive Into Reflection in Go https://umatechnology.org/a-deep-dive-into-reflection-in-go/
     - Introduction to Go’s Reflection API: Dynamic Programming in GoLang https://clouddevs.com/go/reflection-api/    
