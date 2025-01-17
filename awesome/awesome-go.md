@@ -395,6 +395,7 @@
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
   - Reflection
+    - Законы рефлексии в Gо https://habr.com/ru/articles/415171/
     - Reflection in Golang https://www.geeksforgeeks.org/reflection-in-golang/
     - A Deep Dive Into Reflection in Go https://umatechnology.org/a-deep-dive-into-reflection-in-go/
     - Introduction to Go’s Reflection API: Dynamic Programming in GoLang https://clouddevs.com/go/reflection-api/
