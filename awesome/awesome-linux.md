@@ -79,6 +79,8 @@
 - SSH
     - ssh_config
         - How to Use The SSH Config File https://phoenixnap.com/kb/ssh-config
+    - Остальное
+        - OpenSSH/Cookbook/Multiplexing https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing
 - sockets
     - What is a socket? https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket
 - systemd
