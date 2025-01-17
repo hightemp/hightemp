@@ -394,6 +394,7 @@
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
   - Go Assembly
     - Go Assembly by Example https://davidwong.fr/goasm/
+    - A Quick Guide to Go's Assembler https://go.dev/doc/asm
   - Остальное
     - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
     - Внутренности планировщика Go https://habr.com/ru/articles/858490/
