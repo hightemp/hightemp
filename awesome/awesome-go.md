@@ -774,21 +774,25 @@
 - Бенчмарки, Benchmarks
   - Leveraging benchstat Projections in Go Benchmark Analysis! https://www.bwplotka.dev/2024/go-microbenchmarks-benchstat/
 - Тестирование
-  - Testing in Go: First Principles https://ieftimov.com/posts/testing-in-go-first-principles/
-  - Testing in Go: Stop Leaking Files https://ieftimov.com/posts/testing-in-go-stop-leaking-files/
-  - Testing in Go: Fixtures https://ieftimov.com/posts/testing-in-go-fixtures/
-  - Testing in Go: Dependency Injection https://ieftimov.com/posts/testing-in-go-dependency-injection/
-  - Optimising and Visualising Go Tests Parallelism: Why more cores don't speed up your Go tests https://threedots.tech/post/go-test-parallelism
-  - 4 practical principles of high-quality database integration tests in Go https://threedots.tech/post/database-integration-testing/
-  - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
-  - Accurate handler tests using httptest https://www.willem.dev/articles/testing-http-handlers-using-httptest/
-  - Практика написания модульных тестов в языке Go https://eax.me/golang-unit-testing/
-  - Мутационное тестирование: опыт внедрения на 1500 сервисов https://habr.com/ru/companies/avito/articles/650073/
-  - Go: How the Testing Harness Works https://matttproud.com/blog/posts/go-testing-harness.html
-  - How to do unit testing + mock function in Golang within clean architecture https://medium.com/@rayato159/how-to-do-unit-testing-mock-function-in-golang-within-clean-architecture-2a674c42dfc4
-  - f-tests as a replacement for table-driven tests in Go https://itnext.io/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e
-  - Testing in Go - a crash article to get you going https://thedevelopercafe.com/articles/testing-in-go-929e2ad2
-  - Emulating real dependencies in Integration Tests using Testcontainers https://itnext.io/emulating-real-dependencies-in-integration-tests-using-testcontainers-6244f0cbe027
+  - Основное
+    - Testing in Go: First Principles https://ieftimov.com/posts/testing-in-go-first-principles/
+    - Testing in Go: Stop Leaking Files https://ieftimov.com/posts/testing-in-go-stop-leaking-files/
+    - Testing in Go: Fixtures https://ieftimov.com/posts/testing-in-go-fixtures/
+    - Testing in Go: Dependency Injection https://ieftimov.com/posts/testing-in-go-dependency-injection/
+  - net/http
+    - https://gosamples.dev/e2e-httptest/
+  - Остальное
+    - Optimising and Visualising Go Tests Parallelism: Why more cores don't speed up your Go tests https://threedots.tech/post/go-test-parallelism
+    - 4 practical principles of high-quality database integration tests in Go https://threedots.tech/post/database-integration-testing/
+    - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
+    - Accurate handler tests using httptest https://www.willem.dev/articles/testing-http-handlers-using-httptest/
+    - Практика написания модульных тестов в языке Go https://eax.me/golang-unit-testing/
+    - Мутационное тестирование: опыт внедрения на 1500 сервисов https://habr.com/ru/companies/avito/articles/650073/
+    - Go: How the Testing Harness Works https://matttproud.com/blog/posts/go-testing-harness.html
+    - How to do unit testing + mock function in Golang within clean architecture https://medium.com/@rayato159/how-to-do-unit-testing-mock-function-in-golang-within-clean-architecture-2a674c42dfc4
+    - f-tests as a replacement for table-driven tests in Go https://itnext.io/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e
+    - Testing in Go - a crash article to get you going https://thedevelopercafe.com/articles/testing-in-go-929e2ad2
+    - Emulating real dependencies in Integration Tests using Testcontainers https://itnext.io/emulating-real-dependencies-in-integration-tests-using-testcontainers-6244f0cbe027
 - Distributed Systems, Распределенные системы
   - Consensus Algorithms, Алгоритмы консенсуса
     - Raft Consensus Algorithm, Алгоритм консенсуса Raft
