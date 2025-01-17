@@ -415,6 +415,7 @@
     - Управление зависимостями в Go https://habr.com/ru/companies/mvideo/articles/780776/
     - Модули Go и управление зависимостями https://appmaster.io/ru/blog/upravlenie-zavisimostiami-modulei-go
     - Некоторые тонкости управления зависимостями в Go https://eax.me/go-mod/
+    - Введение в систему модулей Go https://habr.com/ru/articles/421411/
   - Остальное
     - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
     - Внутренности планировщика Go https://habr.com/ru/articles/858490/
