@@ -267,7 +267,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 docker-compose --version
 ```
 
-**Установка nvidia-docker**
+#### Установка nvidia-docker
 
 - https://www.howtogeek.com/devops/how-to-run-docker-compose-containers-with-gpu-access/
 - https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/supported-platforms.html
