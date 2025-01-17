@@ -489,9 +489,9 @@
       - Making REST API Requests in Golang using the HTTP Client https://www.sohamkamani.com/golang/http-client/
     - Примеры
       - How to Parse a JSON Request Body in Go https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
-    - Остальное
       - Understanding bytes in Go by building a TCP protocol https://ieftimov.com/posts/understanding-bytes-golang-build-tcp-protocol/
       - Пишем ping на Go: сможем ли составить конкуренцию стандартному ping? https://habr.com/ru/companies/yadro/articles/870584/
+    - Остальное
       - Writing HTTP client middleware in Go https://echorand.me/posts/go-http-client-middleware/
       - HTTP request debugging in Go with httputil http://speakmy.name/2014/07/29/http-request-debugging-in-go/
       - Diving deep into net/http : A look at http.RoundTripper https://lanre.wtf/blog/2017/07/24/roundtripper-go
