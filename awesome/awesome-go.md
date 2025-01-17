@@ -773,6 +773,7 @@
 - Бенчмарки, Benchmarks
   - Leveraging benchstat Projections in Go Benchmark Analysis! https://www.bwplotka.dev/2024/go-microbenchmarks-benchstat/
 - Тестирование
+  - Testing in Go: Stop Leaking Files https://ieftimov.com/posts/testing-in-go-stop-leaking-files/
   - Optimising and Visualising Go Tests Parallelism: Why more cores don't speed up your Go tests https://threedots.tech/post/go-test-parallelism
   - 4 practical principles of high-quality database integration tests in Go https://threedots.tech/post/database-integration-testing/
   - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
