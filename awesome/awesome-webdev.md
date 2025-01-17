@@ -384,6 +384,7 @@
       - Understanding PTR DNS Resource Records https://dmarcian.com/ptr-records/
       - WHAT IS A PTR (REVERSE DNS) RECORD? https://potentpages.com/servers/hosting/dns/what-is-a-ptr-record
 - CORS
+   - Deep dive in CORS: History, how it works, and best practices https://ieftimov.com/posts/deep-dive-cors-history-how-it-works-best-practices/
    - Why is an OPTIONS request sent and can I disable it? https://stackoverflow.com/questions/29954037/why-is-an-options-request-sent-and-can-i-disable-it
    - Cross-Origin Resource Sharing (CORS), Same Origin Policy (SOP) and Why We Need Preflight Requests ? https://medium.com/@ravikumarray92/cross-origin-resource-sharing-cors-same-origin-policy-sop-and-why-we-need-preflight-requests-aa66c5872af1
    - What is CORS and how to bypass it? https://requestly.com/blog/what-is-cors-and-how-to-bypass-it/
