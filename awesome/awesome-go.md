@@ -413,6 +413,7 @@
     - Quick intro to go assembly https://blog.hackercat.ninja/2018/quick_intro_to_go_assembly/
   - Go Modules
     - Управление зависимостями в Go https://habr.com/ru/companies/mvideo/articles/780776/
+    - Модули Go и управление зависимостями https://appmaster.io/ru/blog/upravlenie-zavisimostiami-modulei-go
   - Остальное
     - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
     - Внутренности планировщика Go https://habr.com/ru/articles/858490/
