@@ -251,6 +251,7 @@
 - https://github.com/MaksimDzhangirov/practicalSolid
 - https://github.com/alivewel/go_interface
 - Курс по программированию на языке Go на сайте Metanit.com предлагает подробное введение в язык, его синтаксис, основные концепции и практические примеры, направленные на обучение разработке программного обеспечения с использованием Go. https://metanit.com/go/tutorial/1.1.php
+- https://gosamples.dev/
 
 ### Курсы
 
