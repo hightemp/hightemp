@@ -1060,6 +1060,7 @@
 - https://www.golang101.com/
 - https://gopherguides.com/articles
 - https://gosamples.dev/
+- https://vporoshok.me/tags/go/
 
 ### Подкасты
 
