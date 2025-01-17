@@ -397,6 +397,7 @@
   - Reflection
     - Reflection in Golang https://www.geeksforgeeks.org/reflection-in-golang/
     - A Deep Dive Into Reflection in Go https://umatechnology.org/a-deep-dive-into-reflection-in-go/
+    - Introduction to Go’s Reflection API: Dynamic Programming in GoLang https://clouddevs.com/go/reflection-api/
   - Go Assembly
     - Go Assembly by Example https://davidwong.fr/goasm/
     - A Quick Guide to Go's Assembler https://go.dev/doc/asm
