@@ -414,6 +414,7 @@
   - Go Modules
     - Управление зависимостями в Go https://habr.com/ru/companies/mvideo/articles/780776/
     - Модули Go и управление зависимостями https://appmaster.io/ru/blog/upravlenie-zavisimostiami-modulei-go
+    - Некоторые тонкости управления зависимостями в Go https://eax.me/go-mod/
   - Остальное
     - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
     - Внутренности планировщика Go https://habr.com/ru/articles/858490/
@@ -870,7 +871,6 @@
   - Modifying an interface{}-ed struct in Go via reflection http://speakmy.name/2014/09/14/modifying-interfaced-go-struct/
   - Things to know about HTTP in Go https://scene-si.org/2017/09/27/things-to-know-about-http-in-go/
   - Развлекаемся с итераторами в Go https://habr.com/ru/companies/beget/articles/852940/
-  - Некоторые тонкости управления зависимостями в Go https://eax.me/go-mod/
   - Using OpenSearch with Golang https://www.inanzzz.com/index.php/post/7e0s/using-opensearch-with-golang
   - Simple Fixed-window Rate Limiter With Redis https://hjr265.me/blog/simple-rate-limiter-with-redis/
   - Multi-threaded Downloads in Go https://hjr265.me/blog/multi-threaded-downloads-in-go/
