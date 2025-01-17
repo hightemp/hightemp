@@ -321,7 +321,7 @@ sudo docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
 ### Установка nvm
 
 ```bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
 
 echo 'export NVM_DIR="$HOME/.nvm"' >> ~/.bashrc
 echo '[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"' >> ~/.bashrc
@@ -329,6 +329,10 @@ echo '[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"' >> ~/.
 
 nvm install --lts
 nvm use --lts
+
+nvm install 'lts/*'
+nvm alias default 'lts/*'
+
 ```
 
 ## Библиотеки
