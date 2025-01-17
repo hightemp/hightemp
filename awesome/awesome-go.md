@@ -394,6 +394,8 @@
     - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
+  - Reflection
+    - A Deep Dive Into Reflection in Go https://umatechnology.org/a-deep-dive-into-reflection-in-go/
   - Go Assembly
     - Go Assembly by Example https://davidwong.fr/goasm/
     - A Quick Guide to Go's Assembler https://go.dev/doc/asm
