@@ -397,13 +397,14 @@
     - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
-  - Reflection
+  - Reflection, Рефлексия, Отражение
     - Законы рефлексии в Gо https://habr.com/ru/articles/415171/
     - Рефлексия в Go. Выясняем – что такое рефлексия. Плюсы и минусы. Альтернативные подходы https://vporoshok.me/post/2019/01/reflection/
     - Reflection в Go https://habr.com/ru/companies/otus/articles/833770/
     - Reflection in Golang https://www.geeksforgeeks.org/reflection-in-golang/
     - A Deep Dive Into Reflection in Go https://umatechnology.org/a-deep-dive-into-reflection-in-go/
     - Introduction to Go’s Reflection API: Dynamic Programming in GoLang https://clouddevs.com/go/reflection-api/    
+    - Reflections in Go https://go101.org/article/reflection.html
   - Go Assembly
     - Go Assembly by Example https://davidwong.fr/goasm/
     - A Quick Guide to Go's Assembler https://go.dev/doc/asm
