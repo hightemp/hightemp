@@ -398,6 +398,7 @@
 - Windows
    - Полный гайд настройки Windows + WSL для разработчика https://www.youtube.com/watch?v=EH3yeiZ5JRo
 - Остальное
+   - How Meta, Google, Github and others leverage HTTP conditional requests to build robust REST APIs https://captainscodebook.com/p/how-meta-microsoft-google-github
    - What is Consistent Hashing? https://vivekbansal.substack.com/p/what-is-consistent-hashing
    - How we built a new powerful JSON data type for ClickHouse https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse
    - Программисты ничего не знают (и это нормально) https://habr.com/ru/articles/863814/
