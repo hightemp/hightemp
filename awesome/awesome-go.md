@@ -773,6 +773,7 @@
 - Бенчмарки, Benchmarks
   - Leveraging benchstat Projections in Go Benchmark Analysis! https://www.bwplotka.dev/2024/go-microbenchmarks-benchstat/
 - Тестирование
+  - Testing in Go: First Principles https://ieftimov.com/posts/testing-in-go-first-principles/
   - Testing in Go: Stop Leaking Files https://ieftimov.com/posts/testing-in-go-stop-leaking-files/
   - Testing in Go: Fixtures https://ieftimov.com/posts/testing-in-go-fixtures/
   - Testing in Go: Dependency Injection https://ieftimov.com/posts/testing-in-go-dependency-injection/
