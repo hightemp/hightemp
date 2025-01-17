@@ -395,6 +395,7 @@
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
   - Reflection
+    - Reflection in Golang https://www.geeksforgeeks.org/reflection-in-golang/
     - A Deep Dive Into Reflection in Go https://umatechnology.org/a-deep-dive-into-reflection-in-go/
   - Go Assembly
     - Go Assembly by Example https://davidwong.fr/goasm/
