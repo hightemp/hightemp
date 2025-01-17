@@ -392,6 +392,8 @@
     - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
+  - Go Assembly
+    - Go Assembly by Example https://davidwong.fr/goasm/
   - Остальное
     - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
     - Внутренности планировщика Go https://habr.com/ru/articles/858490/
