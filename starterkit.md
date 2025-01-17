@@ -396,7 +396,7 @@ pip install taskw
 
 - `~/.taskrc`
 
-### Устанока mprocs. Запуск несколько комманд разхдельно
+### Устанока mprocs. Запуск несколько комманд раздельно
 
 ```bash
 npm install -g mprocs
@@ -481,9 +481,8 @@ Nebula — это масштабируемый оверлейный сетево
 
 Nebula включает ряд существующих концепций, таких как шифрование, группы безопасности, сертификаты, и туннелирование, и каждая из этих отдельных частей существовала до Небулы в различных формах. Что отличает Nebula от существующих предложений, так это то, что она объединяет все эти идеи, в результате получается сумма, которая больше, чем ее отдельные части.
 
-Подробнее о туманности https://github.com/slackhq/nebula
-
-По вопросам и другим вопросам по этой оснастке https://github.com/jwallden/nebula-snap 
+- https://github.com/slackhq/nebula
+- https://github.com/jwallden/nebula-snap 
 
 **Примеры конфигов** https://github.com/jimsalterjrs/nebula-sample-configs
 
@@ -597,10 +596,13 @@ java -jar briar-desktop-linux.jar
 sudo apt-get install clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev
 sudo snap install flutter --classic
 flutter sdk-path
+
+# Проверка и настройка окружения
 flutter doctor
 flutter doctor --android-licenses
+
 echo 'export PATH="$PATH:[PATH_OF_FLUTTER_GIT_DIRECTORY]/bin"' >> ~/.bashrc
-# Если директория в другом мемте, настройка
+# Если директория в другом меcте, настройка
 flutter config --android-studio-dir <directory> 
 ```
 
