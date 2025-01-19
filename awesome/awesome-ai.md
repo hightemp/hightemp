@@ -140,6 +140,7 @@
 - https://fireworks.ai/
 - https://chat.deepseek.com
 - https://openrouter.ai/
+- https://glhf.chat/
 - [https://chat.kuki.ai/](https://chat.kuki.ai/) (простой чат)
 - [https://chatdoc.com/](https://chatdoc.com/) (аналогично ChatPDF)
 - [https://chatgpt.com/auth/login?sso=&oaid=dm=1](https://chatgpt.com/auth/login?sso=&oaid=dm=1) (ChatGPT)
