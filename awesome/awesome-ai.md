@@ -142,6 +142,7 @@
 - https://openrouter.ai/
 - https://glhf.chat/
 - https://deepinfra.com/
+- https://dashboard.cohere.com/playground/chat
 - [https://chat.kuki.ai/](https://chat.kuki.ai/) (простой чат)
 - [https://chatdoc.com/](https://chatdoc.com/) (аналогично ChatPDF)
 - [https://chatgpt.com/auth/login?sso=&oaid=dm=1](https://chatgpt.com/auth/login?sso=&oaid=dm=1) (ChatGPT)
@@ -280,6 +281,7 @@
 - https://proxyapi.ru/
 - https://vsegpt.ru/
 - https://openrouter.ai/
+- https://deepinfra.com/
 
 ### Приложения
 
