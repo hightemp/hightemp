@@ -139,7 +139,6 @@
 - https://www.nvidia.com/en-us/ai/
 - https://fireworks.ai/
 - https://chat.deepseek.com
-- https://openrouter.ai/
 - https://glhf.chat/
 - https://deepinfra.com/
 - https://dashboard.cohere.com/playground/chat
