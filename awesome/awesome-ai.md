@@ -141,6 +141,7 @@
 - https://chat.deepseek.com
 - https://openrouter.ai/
 - https://glhf.chat/
+- https://deepinfra.com/
 - [https://chat.kuki.ai/](https://chat.kuki.ai/) (простой чат)
 - [https://chatdoc.com/](https://chatdoc.com/) (аналогично ChatPDF)
 - [https://chatgpt.com/auth/login?sso=&oaid=dm=1](https://chatgpt.com/auth/login?sso=&oaid=dm=1) (ChatGPT)
@@ -173,6 +174,11 @@
 ### UI/UX; Генерация интерфейса
 
 - https://uizard.io/
+
+### Промптинг
+
+- https://learnprompting.org/
+- https://promptmetheus.com/
 
 ### Работа с документами
 
