@@ -720,7 +720,7 @@
     - Go, RabbitMQ and gRPC Clean Architecture microservice https://dev.to/aleksk1ng/go-rabbitmq-and-grpc-clean-architecture-microservice-2kdn
     - Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om
     - Hexagonal Architecture: Structuring a project and the influence of granularity https://medium.com/@TonyBologni/hexagonal-architecture-structuring-a-project-and-the-influence-of-granularity-df4e0851ab5c
-  - Паттерны
+  - 🏗️ Паттерны
     - Concurrency Patterns
       - Worker Pool Pattern
         - Efficient Concurrency in Go: A Deep Dive into the Worker Pool Pattern for Batch Processing https://rksurwase.medium.com/efficient-concurrency-in-go-a-deep-dive-into-the-worker-pool-pattern-for-batch-processing-73cac5a5bdca
