@@ -725,6 +725,7 @@
       - Worker Pool Pattern
         - Efficient Concurrency in Go: A Deep Dive into the Worker Pool Pattern for Batch Processing https://rksurwase.medium.com/efficient-concurrency-in-go-a-deep-dive-into-the-worker-pool-pattern-for-batch-processing-73cac5a5bdca
       - Fan-out/Fan-in Pattern
+        - Concurrency Patterns: Fan-in and Fan-out in Go https://www.slingacademy.com/article/concurrency-patterns-fan-in-and-fan-out-in-go/
         - Паттерны проектирования Go. Fan-in https://habr.com/ru/articles/854302/
       - Pipeline Pattern
       - Остальное
