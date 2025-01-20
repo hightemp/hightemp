@@ -163,6 +163,18 @@
   - Understanding Domain-Driven Design (DDD) and its Benefits in PHP Development https://medium.com/@CleytonBonamigo/understanding-domain-driven-design-ddd-and-its-benefits-in-php-development-b4134fa312c
   - Domain-Driven Design in PHP https://leanpub.com/ddd-in-php/read
   - Implementing a DDD Use Case in PHP https://dev.to/sebk69/implementing-a-ddd-use-case-for-tax-persistence-in-php-1gij?utm_source=weeklyphp&utm_medium=email
+- GRASP (General Responsibility Assignment Software Patterns)
+  - Основные
+    - Information Expert (Информационный эксперт)
+    - Creator (Создатель)
+    - Controller (Контроллер)
+    - Low Coupling (Низкая связанность)
+    - High Cohesion (Высокая связность)
+  - Дополнительные:
+    - Pure Fabrication (Чистое производство или Чистая выдумка)
+    - Indirection (Посредник)
+    - Polymorphism (Полиморфизм)
+    - Protected Variations (Сокрытие реализации)
 - Prometheus
   - PHProm: A Prometheus Datastore for PHP Applications https://chaseisabelle.medium.com/phprom-a-prometheus-datastore-for-php-applications-c761c5587215
   - Application Monitoring Using Prometheus https://www.vthink.co.in/blogs/application-monitoring-using-prometheus
