@@ -730,6 +730,7 @@
       - Pipeline Pattern
         - Mastering Go's Advanced Concurrency: Boost Your Code's Power and Performance https://dev.to/aaravjoshi/mastering-gos-advanced-concurrency-boost-your-codes-power-and-performance-5hm7
       - Остальное
+        - Mastering Go Concurrency: Essential Patterns for High-Performance Applications https://dev.to/aaravjoshi/mastering-go-concurrency-essential-patterns-for-high-performance-applications-3gm1
         - Advanced Concurrency Patterns in Go https://www.codingexplorations.com/blog/advanced-concurrency-patterns-in-go
         - Mastering 6 Golang Concurrency Patterns to Level Up Your Apps https://reliasoftware.com/blog/golang-concurrency-patterns
         - Understanding Concurrency Patterns in Go https://hackernoon.com/understanding-concurrency-patterns-in-go
