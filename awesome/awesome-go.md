@@ -731,8 +731,9 @@
         - Mastering Go's Advanced Concurrency: Boost Your Code's Power and Performance https://dev.to/aaravjoshi/mastering-gos-advanced-concurrency-boost-your-codes-power-and-performance-5hm7
       - Generator
         - Порождающие паттерны в Golang | avito.code https://avito.tech/tpost/tn4ls25o41-porozhdayuschie-patterni-v-golang-avitoc
-      - Остальное
+      - Broadcast Channels
         - How to Broadcast Channels to Multiple Listeners in Golang https://betterprogramming.pub/how-to-broadcast-messages-in-go-using-channels-b68f42bdf32e
+      - Остальное
         - Mastering Go Concurrency: Essential Patterns for High-Performance Applications https://dev.to/aaravjoshi/mastering-go-concurrency-essential-patterns-for-high-performance-applications-3gm1
         - Advanced Concurrency Patterns in Go https://www.codingexplorations.com/blog/advanced-concurrency-patterns-in-go
         - Mastering 6 Golang Concurrency Patterns to Level Up Your Apps https://reliasoftware.com/blog/golang-concurrency-patterns
