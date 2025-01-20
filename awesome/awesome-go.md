@@ -721,36 +721,46 @@
     - Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om
     - Hexagonal Architecture: Structuring a project and the influence of granularity https://medium.com/@TonyBologni/hexagonal-architecture-structuring-a-project-and-the-influence-of-granularity-df4e0851ab5c
   - Паттерны
-    - Go advanced concurrency patterns: part 4 (unlimited buffer channels) https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/
-    - Head First Design Patterns using Go —1. Introduction https://faun.pub/head-first-design-patterns-using-go-introduction-d9f05a4c243a
-    - Head First Design Patterns using Go — 2. Welcome to Design Patterns: the Strategy Pattern https://faun.pub/head-first-design-patterns-using-go-1-welcome-to-design-patterns-the-strategy-pattern-6cbd940e113a
-    - Head First Design Patterns using Go — 3. Keeping your Objects in the know: the Observer Pattern https://faun.pub/head-first-design-patterns-using-go-1-keeping-your-objects-in-the-know-the-observer-pattern-948e6b5b66fc
-    - Head First Design Patterns using Go — 4. Decorating Objects: the Decorator Pattern https://faun.pub/head-first-design-patterns-using-go-3-decorating-objects-the-decorator-pattern-c35636722da7
-    - Mastering Design Patterns in Go https://medium.com/@techwander/mastering-design-patterns-in-go-a9ae8f2048a9
-    - Design Patterns in Golang https://medium.com/@davyjiang_16888/design-patterns-in-golang-d76390efb6bc
-    - Паттерн Наблюдатель в Golang на котиках https://habr.com/ru/companies/otus/articles/857330/
-    - Design Patterns in Golang: The Good, the Bad and the Ugly https://blog.ralch.com/articles/design-patterns/golang-design-patterns/
-    - Abstract Factory Design Pattern in Go: A Comprehensive Guide https://softwarepatternslexicon.com/patterns-go/2/1/1/
-    - Writing a circuit breaker in Go https://rednafi.com/go/circuit_breaker/
-    - Can you explain the Circuit Breaker pattern and how you would implement it in a Go service that makes external API calls? Why is this pattern useful in a distributed system? https://medium.com/@ltcong1411/can-you-explain-the-circuit-breaker-pattern-and-how-you-would-implement-it-in-a-go-service-that-248bb7b04960
-    - Паттерны многопоточности в Go https://habr.com/ru/articles/852556/
-    - Sidecar на Go: позволь другому заниматься твоими проблемами https://habr.com/ru/companies/otus/articles/852642/
-    - Паттерны проектирования Go. Fan-in https://habr.com/ru/articles/854302/
-    - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
-    - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
-    - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/
-    - Safeguarding changes using the plan-execute pattern https://tn1ck.com/blog/update-plans
-    - Golang Design Patterns: Creational Patterns https://medium.com/@asgrr/golang-design-patterns-creational-patterns-5b8fdb4f5ae4
-    - Golang Design Patterns — Overview https://medium.com/@MTrax/golang-design-patterns-overview-4a40a66db204
-    - Mastering 6 Golang Concurrency Patterns to Level Up Your Apps https://reliasoftware.com/blog/golang-concurrency-patterns
-    - Top 3 Design Patterns for a Large Go Codebase https://medium.com/@opheliaandcat/top-3-design-patterns-for-a-large-go-codebase-79a324003b47
-    - Common design patterns in Golang - Part 1 https://dwarvesf.hashnode.dev/common-design-patterns-in-golang-part-1
-    - 5 паттернов проектирования в Go на примере котиков https://habr.com/ru/companies/otus/articles/864748/
-  - Остальное
-    - An easy and practical approach to structuring Golang applications https://mbvisti.medium.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189
-    - Distributed Transactions in Go: Read Before You Try https://threedots.tech/post/distributed-transactions-in-go
-    - Definitive Guide to Software Architecture with Golang https://masteringbackend.com/posts/software-architecture-with-golang
-    - Structuring your Golang app: Flat structure vs. layered architecture https://blog.logrocket.com/flat-structure-vs-layered-architecture-structuring-your-go-app/
+    - Concurrency Patterns
+      - Worker Pool Pattern
+        - Efficient Concurrency in Go: A Deep Dive into the Worker Pool Pattern for Batch Processing https://rksurwase.medium.com/efficient-concurrency-in-go-a-deep-dive-into-the-worker-pool-pattern-for-batch-processing-73cac5a5bdca
+      - Fan-out/Fan-in Pattern
+        - Паттерны проектирования Go. Fan-in https://habr.com/ru/articles/854302/
+      - Pipeline Pattern
+      - Остальное
+        - Advanced Concurrency Patterns in Go https://www.codingexplorations.com/blog/advanced-concurrency-patterns-in-go
+        - Mastering 6 Golang Concurrency Patterns to Level Up Your Apps https://reliasoftware.com/blog/golang-concurrency-patterns
+        - Understanding Concurrency Patterns in Go https://hackernoon.com/understanding-concurrency-patterns-in-go
+        - Паттерны многопоточности в Go https://habr.com/ru/articles/852556/
+    - SOLID
+      - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/ 
+    - Остальное
+      - Go advanced concurrency patterns: part 4 (unlimited buffer channels) https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/
+      - Head First Design Patterns using Go —1. Introduction https://faun.pub/head-first-design-patterns-using-go-introduction-d9f05a4c243a
+      - Head First Design Patterns using Go — 2. Welcome to Design Patterns: the Strategy Pattern https://faun.pub/head-first-design-patterns-using-go-1-welcome-to-design-patterns-the-strategy-pattern-6cbd940e113a
+      - Head First Design Patterns using Go — 3. Keeping your Objects in the know: the Observer Pattern https://faun.pub/head-first-design-patterns-using-go-1-keeping-your-objects-in-the-know-the-observer-pattern-948e6b5b66fc
+      - Head First Design Patterns using Go — 4. Decorating Objects: the Decorator Pattern https://faun.pub/head-first-design-patterns-using-go-3-decorating-objects-the-decorator-pattern-c35636722da7
+      - Mastering Design Patterns in Go https://medium.com/@techwander/mastering-design-patterns-in-go-a9ae8f2048a9
+      - Design Patterns in Golang https://medium.com/@davyjiang_16888/design-patterns-in-golang-d76390efb6bc
+      - Паттерн Наблюдатель в Golang на котиках https://habr.com/ru/companies/otus/articles/857330/
+      - Design Patterns in Golang: The Good, the Bad and the Ugly https://blog.ralch.com/articles/design-patterns/golang-design-patterns/
+      - Abstract Factory Design Pattern in Go: A Comprehensive Guide https://softwarepatternslexicon.com/patterns-go/2/1/1/
+      - Writing a circuit breaker in Go https://rednafi.com/go/circuit_breaker/
+      - Can you explain the Circuit Breaker pattern and how you would implement it in a Go service that makes external API calls? Why is this pattern useful in a distributed system? https://medium.com/@ltcong1411/can-you-explain-the-circuit-breaker-pattern-and-how-you-would-implement-it-in-a-go-service-that-248bb7b04960
+      - Sidecar на Go: позволь другому заниматься твоими проблемами https://habr.com/ru/companies/otus/articles/852642/
+      - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
+      - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
+      - Safeguarding changes using the plan-execute pattern https://tn1ck.com/blog/update-plans
+      - Golang Design Patterns: Creational Patterns https://medium.com/@asgrr/golang-design-patterns-creational-patterns-5b8fdb4f5ae4
+      - Golang Design Patterns — Overview https://medium.com/@MTrax/golang-design-patterns-overview-4a40a66db204
+      - Top 3 Design Patterns for a Large Go Codebase https://medium.com/@opheliaandcat/top-3-design-patterns-for-a-large-go-codebase-79a324003b47
+      - Common design patterns in Golang - Part 1 https://dwarvesf.hashnode.dev/common-design-patterns-in-golang-part-1
+      - 5 паттернов проектирования в Go на примере котиков https://habr.com/ru/companies/otus/articles/864748/
+    - Остальное
+      - An easy and practical approach to structuring Golang applications https://mbvisti.medium.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189
+      - Distributed Transactions in Go: Read Before You Try https://threedots.tech/post/distributed-transactions-in-go
+      - Definitive Guide to Software Architecture with Golang https://masteringbackend.com/posts/software-architecture-with-golang
+      - Structuring your Golang app: Flat structure vs. layered architecture https://blog.logrocket.com/flat-structure-vs-layered-architecture-structuring-your-go-app/
 - PDF
   - How To Create a PDF in Go: a Step-by-Step Tutorial https://medium.com/the-godev-corner/how-to-create-a-pdf-in-go-157355429a94
   - Go long by generating PDFs in Golang with Maroto https://dev.to/logrocket/go-long-by-generating-pdfs-in-golang-with-maroto-1g25
@@ -759,7 +769,6 @@
   - Building static binaries with Go on Linux https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/
 - Конкурентное программирование, sync
   - Concurrency, Параллелизм
-    - Understanding Concurrency Patterns in Go https://hackernoon.com/understanding-concurrency-patterns-in-go
     - Mastering Concurrent Processing: A Step-by-Step Guide to Building a Scalable Worker Pool in Go https://medium.com/@souravchoudhary0306/mastering-concurrent-processing-a-step-by-step-guide-to-building-a-scalable-worker-pool-in-go-54093074c612
   - Синхронизация
     - Атомарные операции
