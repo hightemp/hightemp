@@ -175,6 +175,8 @@
     - Indirection (Посредник)
     - Polymorphism (Полиморфизм)
     - Protected Variations (Сокрытие реализации)
+  - Остальное
+    - GRASP (General Responsibility Assignment Software Patterns) http://phpforum.su/index.php?showtopic=87687
 - Prometheus
   - PHProm: A Prometheus Datastore for PHP Applications https://chaseisabelle.medium.com/phprom-a-prometheus-datastore-for-php-applications-c761c5587215
   - Application Monitoring Using Prometheus https://www.vthink.co.in/blogs/application-monitoring-using-prometheus
