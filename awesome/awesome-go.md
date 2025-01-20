@@ -734,6 +734,7 @@
         - Advanced Concurrency Patterns in Go https://www.codingexplorations.com/blog/advanced-concurrency-patterns-in-go
         - Mastering 6 Golang Concurrency Patterns to Level Up Your Apps https://reliasoftware.com/blog/golang-concurrency-patterns
         - Understanding Concurrency Patterns in Go https://hackernoon.com/understanding-concurrency-patterns-in-go
+        - Patterns for Effective Concurrency in Go https://withcodeexample.com/patterns-for-effective-concurrency/
         - Паттерны многопоточности в Go https://habr.com/ru/articles/852556/
     - SOLID
       - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/ 
