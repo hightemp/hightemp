@@ -79,6 +79,7 @@
 - GraphQL
   - GraphQL решает кучу проблем — рассказываем, за что мы его любим https://sd.blackball.lv/articles/read/19542-graphql-reshaet-kuchu-problem-rasskazyvaem-za-chto-my-ego-ljubim
   - Как работать с ошибками в GraphQL? https://nodkz.github.io/conf-talks/articles/graphql/errors/
+  - Почему в graphql есть проблема с N+1? https://nodkz.github.io/conf-talks/articles/graphql/dataloader/N+1.html
 - Системы модулей
   - Модули — amd, cjs, esm и umd https://medium.com/@z4o4z/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-amd-cjs-esm-%D0%B8-umd-dff38c267117
   - Опыт модернизации пакетов в ESM https://reactdev.ru/guides/esm-modernization-lessons/
