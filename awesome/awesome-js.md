@@ -77,6 +77,7 @@
 - CORS
   - JavaScript Fetch CORS: Understanding and Implementing Cross-Origin Requests https://www.mbloging.com/post/javascript-fetch-cors
 - GraphQL
+  - GraphQL решает кучу проблем — рассказываем, за что мы его любим https://sd.blackball.lv/articles/read/19542-graphql-reshaet-kuchu-problem-rasskazyvaem-za-chto-my-ego-ljubim
   - Как работать с ошибками в GraphQL? https://nodkz.github.io/conf-talks/articles/graphql/errors/
 - Системы модулей
   - Модули — amd, cjs, esm и umd https://medium.com/@z4o4z/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-amd-cjs-esm-%D0%B8-umd-dff38c267117
