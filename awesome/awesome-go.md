@@ -728,6 +728,7 @@
         - Concurrency Patterns: Fan-in and Fan-out in Go https://www.slingacademy.com/article/concurrency-patterns-fan-in-and-fan-out-in-go/
         - Паттерны проектирования Go. Fan-in https://habr.com/ru/articles/854302/
       - Pipeline Pattern
+        - Mastering Go's Advanced Concurrency: Boost Your Code's Power and Performance https://dev.to/aaravjoshi/mastering-gos-advanced-concurrency-boost-your-codes-power-and-performance-5hm7
       - Остальное
         - Advanced Concurrency Patterns in Go https://www.codingexplorations.com/blog/advanced-concurrency-patterns-in-go
         - Mastering 6 Golang Concurrency Patterns to Level Up Your Apps https://reliasoftware.com/blog/golang-concurrency-patterns
