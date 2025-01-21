@@ -375,14 +375,13 @@
     - Getting started with Go plugin package https://echorand.me/posts/getting-started-with-golang-plugins/
   - init
     - \[Memo\] Go init behavior https://articles.singee.me/go-init-behaviour
+    - Understanding Init Function in Go With Examples https://linuxhandbook.com/go-init-function/
   - time
     - How to parse a time or date in Go https://www.willem.dev/articles/how-to-parse-time-date/
     - Do you really understand time.Now()? https://articles.singee.me/golang-time
     - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
     - Working With Time in Golang https://www.bytesizego.com/blog/golang-time
     - Comprehensive Guide to Dates and Times in Go https://dev.to/bootdotdev/comprehensive-guide-to-dates-and-times-in-go-dpn
-  - Утилиты
-    - Let's stop editing go.mod manually https://tpaschalis.me/go-mod-edit/
   - Error
     - Mastering Golang — Part 8: Error Handling https://blog.stackademic.com/mastering-golang-part-8-error-handling-4012a62ad0cb
     - Advanced error handling strategies in Go https://medium.com/@guilhermemls/advanced-error-handling-strategies-in-go-12ef4ee621d7
@@ -418,6 +417,7 @@
     - Введение в систему модулей Go https://habr.com/ru/articles/421411/
     - Управление зависимостями в Golang https://golang-blog.blogspot.com/2021/03/dependency-management-in-golang.html
   - Go tooling
+    - Let's stop editing go.mod manually https://tpaschalis.me/go-mod-edit/
     - Инструменты, которые помогут улучшить ваш код https://kovardin.ru/articles/go/tools/
     - An Overview of Go's Tooling https://www.alexedwards.net/blog/an-overview-of-go-tooling
     - go tool trace http://web.archive.org/web/20180701005226/https://making.pusher.com/go-tool-trace/
