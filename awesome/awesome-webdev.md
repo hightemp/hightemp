@@ -337,6 +337,8 @@
 - Архитектура
    - Паттерны
       - https://martinfowler.com/bliki/CircuitBreaker.html
+   - Injection
+      - Inversion of Control Containers and the Dependency Injection pattern https://www.martinfowler.com/articles/injection.html
 - Снифферы
    - Снифферы трафика в мобильном тестировании: Обзор инструментов и их особенности https://habr.com/ru/articles/840084/
 - Балансировщики
