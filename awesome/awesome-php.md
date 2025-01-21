@@ -157,6 +157,8 @@
     - PHP - Regular Expressions https://www.tutorialspoint.com/php/php_regular_expression.htm
   - Property hooks
     - PHP 8.4 Property Hooks: Can we get rid of getters/setters now? A benchmark. https://tideways.com/profiler/blog/php-8-4-property-hooks-can-we-get-rid-of-getters-setters-now-a-benchmark
+  - Остальное
+    - Готовимся к собеседованию по PHP: Что такое «DI», «Container», «Auto-wiring» за семь простых шагов https://habr.com/ru/articles/655399/
 - DDD
   - Domain Driven Design with PHP and Symfony https://dev.to/ludofleury/domain-driven-design-with-php-and-symfony-1bl6
   - Domain-Driven Design and Clean Architecture in PHP — Part 1 (Layers and Structure) https://medium.com/@pogulailo/domain-driven-design-and-clean-architecture-in-php-part-1-layers-and-structure-edcce57be42a
