@@ -523,6 +523,7 @@
       - Understanding bytes in Go by building a TCP protocol https://ieftimov.com/posts/understanding-bytes-golang-build-tcp-protocol/
       - Пишем ping на Go: сможем ли составить конкуренцию стандартному ping? https://habr.com/ru/companies/yadro/articles/870584/
     - Остальное
+      - Самоучитель по Go для начинающих. Часть 17. Основы сетевого программирования. Стек TCP/IP. Сокеты. Пакет net https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-17-osnovy-setevogo-programmirovaniya-stek-tcp-ip-sokety-paket-net-2024-11-15
       - Writing HTTP client middleware in Go https://echorand.me/posts/go-http-client-middleware/
       - HTTP request debugging in Go with httputil http://speakmy.name/2014/07/29/http-request-debugging-in-go/
       - Diving deep into net/http : A look at http.RoundTripper https://lanre.wtf/blog/2017/07/24/roundtripper-go
