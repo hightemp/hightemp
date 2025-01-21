@@ -44,6 +44,7 @@
 
 - RusEtfs - публичный агрегатор всех данных о ETF на Московской Бирже https://rusetfs.com/screener
 - https://businessmens.ru/
+- Все об облигациях https://smart-lab.ru/bonds
 
 ### Книги
 
