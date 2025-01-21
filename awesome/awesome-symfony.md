@@ -48,6 +48,7 @@
   - Service Container and Dependency Injection in Symfony framework https://folkprog.net/service-container-and-dependency-injection-in-symfony-framework
 - Dependency injection
   - Symfony Dependency Injection: Efficient Implementation and Best Practices https://binary-studio.com/blog/symfony-dependency-injection/
+  - Finding a Real-World Use Case for Setter Injection in Symfony http://jayroman.com/blog/finding-a-real-world-use-case-for-setter-injection-in-symfony2
 - Best practices
   - The Symfony Framework Best Practices https://symfony.com/doc/current/best_practices.html
 - Мониторинг
