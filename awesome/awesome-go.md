@@ -423,6 +423,7 @@
     - go tool trace http://web.archive.org/web/20180701005226/https://making.pusher.com/go-tool-trace/
   - Bechmarking
     - How to write benchmarks in Go https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go
+    - Бенчмарки в Go https://habr.com/ru/articles/268585/
   - Остальное
     - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
     - Внутренности планировщика Go https://habr.com/ru/articles/858490/
