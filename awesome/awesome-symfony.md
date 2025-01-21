@@ -46,6 +46,8 @@
   - Mastering Symfony’s Service Container: With Real-life Examples https://tuhinbepari.medium.com/symfony-service-container-eda6612f793c
   - Understanding Symfony’s Dependency Injection Container https://clouddevs.com/symfony/dependency-injection-container/
   - Service Container and Dependency Injection in Symfony framework https://folkprog.net/service-container-and-dependency-injection-in-symfony-framework
+- Dependency injection
+  - Symfony Dependency Injection: Efficient Implementation and Best Practices https://binary-studio.com/blog/symfony-dependency-injection/
 - Best practices
   - The Symfony Framework Best Practices https://symfony.com/doc/current/best_practices.html
 - Мониторинг
