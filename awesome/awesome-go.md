@@ -373,6 +373,7 @@
     - Using Go Embed https://www.bytesizego.com/blog/go-embed
   - plugin
     - Getting started with Go plugin package https://echorand.me/posts/getting-started-with-golang-plugins/
+    - Go и плагины https://habr.com/ru/articles/647623/
   - init
     - \[Memo\] Go init behavior https://articles.singee.me/go-init-behaviour
     - Understanding Init Function in Go With Examples https://linuxhandbook.com/go-init-function/
