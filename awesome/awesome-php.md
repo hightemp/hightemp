@@ -159,6 +159,10 @@
     - PHP 8.4 Property Hooks: Can we get rid of getters/setters now? A benchmark. https://tideways.com/profiler/blog/php-8-4-property-hooks-can-we-get-rid-of-getters-setters-now-a-benchmark
   - Остальное
     - Готовимся к собеседованию по PHP: Что такое «DI», «Container», «Auto-wiring» за семь простых шагов https://habr.com/ru/articles/655399/
+    - Готовимся к собеседованию по PHP: ключевое слово «static» https://habr.com/ru/articles/259627/
+    - Готовимся к собеседованию по PHP: псевдотип «callable» https://habr.com/ru/articles/259991/
+    - Готовимся к собеседованию по PHP: Всё об итерации и немного про псевдотип «iterable» https://habr.com/ru/articles/324934/
+    - Готовимся к собеседованию по PHP: Всё, что вы хотели узнать об интерфейсах, совместимости сигнатур и не побоялись узнать https://habr.com/ru/articles/328890/
 - DDD
   - Domain Driven Design with PHP and Symfony https://dev.to/ludofleury/domain-driven-design-with-php-and-symfony-1bl6
   - Domain-Driven Design and Clean Architecture in PHP — Part 1 (Layers and Structure) https://medium.com/@pogulailo/domain-driven-design-and-clean-architecture-in-php-part-1-layers-and-structure-edcce57be42a
