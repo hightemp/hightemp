@@ -162,6 +162,8 @@
     - Manipulating Strings with PHP: A Comprehensive Guide https://medium.com/@tejeswar_79802/manipulating-strings-with-php-ca5b7cebc50e
   - Регулярные выражения
     - PHP - Regular Expressions https://www.tutorialspoint.com/php/php_regular_expression.htm
+  - Работа с файлами
+    - File Handling In PHP 8 - Reading And Writing File https://www.dailycomputerscience.com/post/file-handling-in-php-8-reading-and-writing-file
   - Property hooks
     - PHP 8.4 Property Hooks: Can we get rid of getters/setters now? A benchmark. https://tideways.com/profiler/blog/php-8-4-property-hooks-can-we-get-rid-of-getters-setters-now-a-benchmark
   - Остальное
