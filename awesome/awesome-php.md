@@ -152,6 +152,7 @@
 
 - Основы
   - Атирбуты, Attributes
+    - Attributes in PHP 8 https://php.watch/articles/php-attributes
     - PHP 8.0: Attributes https://php.watch/versions/8.0/attributes
   - Строки, Strings
     - Manipulating Strings with PHP: A Comprehensive Guide https://medium.com/@tejeswar_79802/manipulating-strings-with-php-ca5b7cebc50e
