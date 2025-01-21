@@ -61,3 +61,6 @@
 - Облигации
     - Алгоритм анализа облигаций https://www.tbank.ru/invest/social/profile/Finvaa/e7440fd5-526b-4411-9d77-ce6e4cc55afd/?author=profile
     - Полный гид по выбору облигаций для частных инвесторов https://www.dohod.ru/blog/nash-novyij-servis-analiz-obligaczij
+    - Кредитный рейтинг: что это и зачем он нужен при выборе облигаций https://smart-lab.ru/blog/1057755.php
+- Остальное
+    
