@@ -54,3 +54,8 @@
 - Роберт Пиндайк, Даниэль Рабинфельд. «Микроэкономика» Robert Pindyck, Daniel Rubinfeld. «Microeconomics»
 - https://journal.tinkoff.ru/short/best-money-books/
 - https://arzamas.academy/materials/1041
+
+### Статьи
+
+- Облигации
+    - Алгоритм анализа облигаций https://www.tbank.ru/invest/social/profile/Finvaa/e7440fd5-526b-4411-9d77-ce6e4cc55afd/?author=profile
