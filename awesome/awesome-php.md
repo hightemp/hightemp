@@ -156,6 +156,7 @@
     - PHP 8.0: Attributes https://php.watch/versions/8.0/attributes
     - Working with PHP Attributes: Do’s & Don’ts https://dev.to/nasrulhazim/working-with-php-attributes-dos-donts-2g0l
     - A guide to PHP attributes https://www.honeybadger.io/blog/php-attributes-guide/
+    - Using PHP attributes easily https://dev.to/icolomina/using-php-attributes-easily-2fpo
   - Строки, Strings
     - Manipulating Strings with PHP: A Comprehensive Guide https://medium.com/@tejeswar_79802/manipulating-strings-with-php-ca5b7cebc50e
   - Регулярные выражения
