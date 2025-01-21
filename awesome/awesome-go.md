@@ -420,6 +420,8 @@
   - Go tooling
     - Инструменты, которые помогут улучшить ваш код https://kovardin.ru/articles/go/tools/
     - An Overview of Go's Tooling https://www.alexedwards.net/blog/an-overview-of-go-tooling
+  - Bechmarking
+    - How to write benchmarks in Go https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go
   - Остальное
     - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
     - Внутренности планировщика Go https://habr.com/ru/articles/858490/
