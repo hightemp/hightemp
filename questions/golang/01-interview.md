@@ -127,3 +127,173 @@
 8. **Мониторинг:** Наблюдается, улучшилась ли производительность.
 
 Понимание этих методов и инструментов позволит вам эффективно находить и устранять проблемы с производительностью в ваших приложениях на Golang. Помните, что постоянный мониторинг и анализ являются ключом к поддержанию производительности вашей системы.
+
+### Стандартный набор метрик prometheus в Go-программе?
+
+В Go-программе стандартный набор метрик Prometheus обычно включает в себя метрики, предоставляемые самой средой выполнения Go, а также метрики, специфичные для вашего приложения. Для интеграции с Prometheus обычно используется клиентская библиотека `prometheus/client_golang`.
+
+**Основные категории метрик:**
+
+1.  **Go Runtime Metrics:** Метрики, предоставляемые Go runtime (средой выполнения) и отражающие внутреннее состояние приложения.
+    *   **`go_gc_duration_seconds`:** Гистограмма, показывающая длительность сборки мусора (Garbage Collection).
+    *   **`go_goroutines`:** Количество активных горутин в данный момент.
+    *   **`go_memstats_alloc_bytes`:** Общее количество выделенной памяти кучи (heap) в байтах.
+    *   **`go_memstats_alloc_bytes_total`:** Общее количество выделенной памяти кучи за всё время работы приложения.
+    *   **`go_memstats_frees_total`:** Общее количество освобождённой памяти за всё время работы приложения.
+    *   **`go_memstats_heap_alloc_bytes`:** Выделенная память на куче.
+    *   **`go_memstats_heap_objects`:** Количество объектов, находящихся на куче.
+    *   **`go_threads`:** Количество потоков операционной системы, используемых приложением.
+    *   **`go_info`:** Информация о версии Go runtime.
+    *   **`go_cpu_usage_seconds_total`:** Общее время использования CPU приложением.
+    *   **`go_memstats_last_gc_time_seconds`:** Время последней сборки мусора в секундах.
+    *   **`go_memstats_lookups_total`:** Общее количество поисков памяти.
+
+2.  **Process Metrics:** Метрики, отражающие ресурсы, потребляемые процессом приложения.
+    *   **`process_cpu_seconds_total`:** Общее время CPU, использованное процессом.
+    *   **`process_resident_memory_bytes`:** Размер резидентной памяти (RSS), используемой процессом.
+    *   **`process_virtual_memory_bytes`:** Размер виртуальной памяти, используемой процессом.
+    *   **`process_open_fds`:** Количество открытых файловых дескрипторов процессом.
+    *   **`process_max_fds`:** Максимальное количество файловых дескрипторов.
+    *   **`process_start_time_seconds`:** Время старта процесса в секундах.
+
+3.  **Application-Specific Metrics:** Метрики, которые вы добавляете сами, чтобы отслеживать производительность вашего приложения и его внутренние параметры.
+    *   **`http_request_duration_seconds`:** Гистограмма времени обработки HTTP-запросов.
+    *   **`http_request_total`:** Общее количество HTTP-запросов.
+    *   **`db_query_duration_seconds`:** Гистограмма времени выполнения запросов к базе данных.
+    *   **`db_query_total`:** Общее количество запросов к базе данных.
+    *   **`cache_hits_total`:** Общее количество попаданий в кэш.
+    *   **`cache_misses_total`:** Общее количество промахов кэша.
+    *   **`errors_total`:** Общее количество ошибок.
+
+**Как использовать `prometheus/client_golang`:**
+
+1.  **Импорт библиотеки:**
+
+    ```go
+    import (
+        "github.com/prometheus/client_golang/prometheus"
+        "github.com/prometheus/client_golang/prometheus/promauto"
+        "github.com/prometheus/client_golang/prometheus/promhttp"
+        "net/http"
+    )
+    ```
+
+2.  **Регистрация метрик:**
+
+    ```go
+    // Example counter metric
+    requestsTotal := promauto.NewCounter(prometheus.CounterOpts{
+        Name: "http_requests_total",
+        Help: "Total number of HTTP requests.",
+    })
+
+    // Example histogram metric
+    requestDuration := promauto.NewHistogram(prometheus.HistogramOpts{
+        Name: "http_request_duration_seconds",
+        Help: "Duration of HTTP requests in seconds.",
+    })
+    ```
+3.  **Использование метрик:**
+    ```go
+    func myHandler(w http.ResponseWriter, r *http.Request) {
+      requestsTotal.Inc()
+      startTime := time.Now()
+      // Your request processing logic here
+      // ...
+      duration := time.Since(startTime)
+      requestDuration.Observe(duration.Seconds())
+
+      w.WriteHeader(http.StatusOK)
+      w.Write([]byte("Hello, Prometheus!"))
+    }
+    ```
+4.  **Экспорт метрик на HTTP-эндпоинте:**
+
+    ```go
+    func main() {
+        http.HandleFunc("/hello", myHandler) // your app's handler
+        http.Handle("/metrics", promhttp.Handler())
+        http.ListenAndServe(":8080", nil)
+    }
+    ```
+**Описание основных типов метрик:**
+
+*   **`Counter`:** Монотонно возрастающая величина (например, количество запросов).
+*   **`Gauge`:** Произвольная величина (например, текущее использование памяти).
+*   **`Histogram`:** Распределение наблюдаемых значений (например, время обработки запросов).
+*   **`Summary`:** Распределение наблюдаемых значений с квантилями (например, 90-й и 99-й перцентили времени обработки запросов).
+
+**Стандартные метрики:**
+
+*   `prometheus.NewGoCollector()`: Добавляет стандартные метрики среды выполнения Go.
+*   `prometheus.NewProcessCollector(prometheus.ProcessCollectorOpts{})`: Добавляет метрики процесса (CPU, память и т.д.).
+
+**Пример использования:**
+
+```go
+package main
+
+import (
+    "fmt"
+    "log"
+    "net/http"
+    "time"
+
+    "github.com/prometheus/client_golang/prometheus"
+    "github.com/prometheus/client_golang/prometheus/collectors"
+    "github.com/prometheus/client_golang/prometheus/promauto"
+    "github.com/prometheus/client_golang/prometheus/promhttp"
+)
+
+var (
+    requestsTotal = promauto.NewCounter(prometheus.CounterOpts{
+        Name: "http_requests_total",
+        Help: "Total number of HTTP requests.",
+    })
+
+    requestDuration = promauto.NewHistogram(prometheus.HistogramOpts{
+        Name: "http_request_duration_seconds",
+        Help: "Duration of HTTP requests in seconds.",
+        Buckets: []float64{0.1, 0.2, 0.5, 1, 2, 5},
+    })
+    
+    exampleGauge = promauto.NewGauge(prometheus.GaugeOpts{
+        Name: "example_gauge",
+        Help: "Example gauge metric",
+    })
+)
+
+func myHandler(w http.ResponseWriter, r *http.Request) {
+    requestsTotal.Inc()
+    startTime := time.Now()
+    // Emulate some work
+    time.Sleep(time.Duration(100+rand.Intn(200)) * time.Millisecond)
+    
+    duration := time.Since(startTime)
+    requestDuration.Observe(duration.Seconds())
+
+    exampleGauge.Set(float64(time.Now().Unix() % 100))
+    
+    w.WriteHeader(http.StatusOK)
+    fmt.Fprint(w, "Hello, Prometheus!\n")
+}
+
+
+func main() {
+    prometheus.Register(collectors.NewGoCollector()) // Register runtime metrics
+    prometheus.Register(collectors.NewProcessCollector(collectors.ProcessCollectorOpts{}))
+    
+    http.HandleFunc("/hello", myHandler)
+    http.Handle("/metrics", promhttp.Handler())
+
+    log.Printf("Server listening on :8080")
+    log.Fatal(http.ListenAndServe(":8080", nil))
+}
+
+```
+
+В этом примере, помимо стандартных метрик, регистрируются кастомные счётчики и гистограмма, которые позволяют отслеживать HTTP запросы, их продолжительность, и некий Gauge.
+
+**Заключение:**
+
+Этот набор метрик является хорошей отправной точкой для мониторинга и анализа производительности вашего Go приложения. Вы можете расширить этот список, добавляя метрики, специфичные для вашего приложения, для более точного понимания его работы.
