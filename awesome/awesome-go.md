@@ -275,6 +275,7 @@
 - https://quickref.me/go
 - Go features by version https://antonz.org/which-go/
 - https://refactoring.guru/design-patterns/go
+- Шпаргалка для собеса по GoLang https://habr.com/ru/articles/758662/
 
 ### Книги
 
