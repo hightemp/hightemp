@@ -37,6 +37,7 @@
         - The magic behind Laravel's new defer() helper https://www.amitmerchant.com/the-magic-behind-laravels-new-defer-helper/?utm_source=weeklyphp&utm_medium=email
     - Остальное
         - Laravel Model Tips https://laravel-news.com/laravel-model-tips?utm_source=weeklyphp&utm_medium=email
+        - Creating Multi-Language Laravel 11 Database & API https://medium.com/@abdullahaymanmsre/creating-multi-language-laravel-11-database-api-e0bc82e64bea
 - Docker
     - Dockerizing a Laravel application https://computersciencesimplified.substack.com/p/dockerizing-a-laravel-application?utm_source=%2Fsearch%2Fphp&utm_medium=reader2
 - Collections, Коллекции
