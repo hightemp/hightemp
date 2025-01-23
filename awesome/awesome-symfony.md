@@ -20,6 +20,7 @@
 
 - Symfony Demo Application https://github.com/symfony/demo
 - https://symfony.ru/doc/current/index.html
+- Symfony Boilerplate. A Symfony boilerplate with GraphQL and Nuxt.js https://thecodingmachine.github.io/symfony-boilerplate/
 
 ### Курсы
 
