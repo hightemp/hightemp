@@ -114,6 +114,7 @@
   - Battle log: a deep dive in Symfony stack in search of optimizations 2/n https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n
   - 5 Ways to Optimize Symfony Application Performance https://dev.to/inspector/5-ways-to-optimize-symfony-application-performance-5ap8
 - Остальное
+  - https://shieldon.io/ru/guide/symfony.html
   - A Year With Symfony https://matthiasnoback.nl/book/a-year-with-symfony/
   - An introduction to Symfony | The foundation of modern PHP applications https://brunopaz.dev/blog/an-introduction-to-symfony/
   - Unveiling Mind-Blowing Symfony Features https://medium.com/@selieshjksofficial/unveiling-mind-blowing-symfony-features-3207bcde388b
