@@ -56,6 +56,7 @@
     - Работа с ролями и разрешениями
       - Grant on Permissions, not Roles https://wouterj.nl/2020/01/grant-on-permissions-not-roles
       - Access Control https://thecodingmachine.github.io/symfony-boilerplate/docs/security/access-control/
+      - Using Expressions in Security Access Controls https://symfony.com/doc/current/security/expressions.html
   - Безопасность API
   - Остальное
     - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
