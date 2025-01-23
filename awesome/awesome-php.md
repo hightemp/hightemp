@@ -182,6 +182,8 @@
     - Готовимся к собеседованию по PHP: Всё, что вы хотели узнать об интерфейсах, совместимости сигнатур и не побоялись узнать https://habr.com/ru/articles/328890/
 - Composer
   - How to Build Your First PHP Package https://laravel-news.com/create-a-php-package-from-scratch?utm_source=weeklyphp&utm_medium=email
+- Doctrine
+  - Php and Postgres team up to optimize multi-inserts https://medium.com/@fernando_28520/php-and-postgres-team-up-to-optimize-multi-inserts-93b421571216
 - Prometheus
   - PHProm: A Prometheus Datastore for PHP Applications https://chaseisabelle.medium.com/phprom-a-prometheus-datastore-for-php-applications-c761c5587215
   - Application Monitoring Using Prometheus https://www.vthink.co.in/blogs/application-monitoring-using-prometheus
