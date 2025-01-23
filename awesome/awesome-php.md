@@ -163,6 +163,7 @@
     - Generator syntax https://www.php.net/manual/en/language.generators.syntax.php
     - How to Use Yield and Generators in PHP https://code.tutsplus.com/how-to-use-yield-and-generators-in-php--cms-39200t
     - PHP and Generators: Simplifying Iteration with Yield https://reintech.io/blog/php-generators-simplifying-iteration-yield
+    - “Yield” и деликатная работа с памятью в PHP https://habr.com/ru/companies/otus/articles/598577/
   - Трейты, Traits
     - PHP OOP Fundamentals - Traits In PHP 8 https://www.dailycomputerscience.com/post/php-oop-fundamentals-traits-in-php-8
   - Строки, Strings
