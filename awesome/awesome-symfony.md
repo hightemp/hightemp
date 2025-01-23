@@ -47,6 +47,7 @@
     - Обзор
       - Безопасность https://symfony.ru/security.html
       - Symfony: инструмент написания безопасных веб-приложений https://www.securitylab.ru/analytics/480607.php?el_id=480607&VOTE_ID=103&view_result=Y&bxajaxid=1ce8886146eca13ff60ad3b7f5601a0d&utm_referrer=https%3A%2F%2Fwww.perplexity.ai%2F
+      - Understanding Symfony Security by Using it Standalone https://wouterj.nl/2019/03/understanding-symfony-security-by-using-it-standalone
     - Аутентификация и авторизация
       - Implementing Authorization in Symfony: A Developer’s Guide https://www.slingacademy.com/article/implementing-authorization-in-symfony-developers-guide/
       - Simplifying Authentication and Authorization in Symfony https://moldstud.com/articles/p-simplifying-authentication-and-authorization-in-symfony
