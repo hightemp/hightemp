@@ -35,6 +35,8 @@
 - Основы
     - defer
         - The magic behind Laravel's new defer() helper https://www.amitmerchant.com/the-magic-behind-laravels-new-defer-helper/?utm_source=weeklyphp&utm_medium=email
+    - Laravel Broadcasting
+        - Building Real-Time Applications with Laravel Broadcasting https://medium.com/@harrisrafto/building-real-time-applications-with-laravel-broadcasting-32ccea84b3c0
     - Остальное
         - Laravel Model Tips https://laravel-news.com/laravel-model-tips?utm_source=weeklyphp&utm_medium=email
 - Примеры приложений
