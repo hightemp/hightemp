@@ -63,6 +63,7 @@
       - Access Control with Symfony Voters https://medium.com/accesto/access-control-with-symfony-voters-a486a24d832b
       - Простое управление ACL в Symfony https://habr.com/ru/companies/otus/articles/508424/
   - Безопасность API
+    - How to implement a custom Symfony authenticator https://sajadtorkamani.com/how-to-implement-a-custom-symfony-authenticator/
   - Остальное
     - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
 - Symfony Voters
