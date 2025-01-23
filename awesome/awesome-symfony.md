@@ -66,6 +66,7 @@
 - Symfony Voters
   - Access Control with Symfony Voters https://accesto.com/blog/symfony-voters/
   - Как использовать избирателей для проверки разрешений пользователей https://symfony.ru/doc/current/security/voters.html
+  - How to Use Voters to Check User Permissions https://aksymfony.readthedocs.io/en/5.4/security/voters.html
 - REST API
   - Создание REST API в Symfony https://it.vstu.by/courses/information_systems/development_of_web_applications/theory/rest_api_in_symfony/
 - Формы
