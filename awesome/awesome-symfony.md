@@ -72,6 +72,8 @@
   - How to Use Voters to Check User Permissions https://aksymfony.readthedocs.io/en/5.4/security/voters.html
   - Using Symfony Security voters to check user permissions with ease https://titouangalopin.com/posts/1slD16VBJqb2JBJAzKyDpU/using-symfony-security-voters-to-check-user-permissions-with-ease
   - Symfony Voters reference https://sajadtorkamani.com/symfony-voters-reference/
+- Serialization
+  - Serialize PHP objects using Symfony Serializer https://sajadtorkamani.com/serialize-php-objects-using-symfony-serializer/
 - REST API
   - Создание REST API в Symfony https://it.vstu.by/courses/information_systems/development_of_web_applications/theory/rest_api_in_symfony/
 - Формы
