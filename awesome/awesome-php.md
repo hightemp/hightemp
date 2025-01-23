@@ -180,28 +180,6 @@
     - Готовимся к собеседованию по PHP: Всё, что вы хотели узнать об интерфейсах, совместимости сигнатур и не побоялись узнать https://habr.com/ru/articles/328890/
 - Composer
   - How to Build Your First PHP Package https://laravel-news.com/create-a-php-package-from-scratch?utm_source=weeklyphp&utm_medium=email
-- Rector PHP
-  - Mastering Code Refactoring: A Complete Guide to Using Rector PHP https://dev.to/peter_fox/mastering-code-refactoring-a-complete-guide-to-using-rector-php-hp1?utm_source=weeklyphp&utm_medium=email
-- DDD
-  - Domain Driven Design with PHP and Symfony https://dev.to/ludofleury/domain-driven-design-with-php-and-symfony-1bl6
-  - Domain-Driven Design and Clean Architecture in PHP — Part 1 (Layers and Structure) https://medium.com/@pogulailo/domain-driven-design-and-clean-architecture-in-php-part-1-layers-and-structure-edcce57be42a
-  - Understanding Domain-Driven Design (DDD) and its Benefits in PHP Development https://medium.com/@CleytonBonamigo/understanding-domain-driven-design-ddd-and-its-benefits-in-php-development-b4134fa312c
-  - Domain-Driven Design in PHP https://leanpub.com/ddd-in-php/read
-  - Implementing a DDD Use Case in PHP https://dev.to/sebk69/implementing-a-ddd-use-case-for-tax-persistence-in-php-1gij?utm_source=weeklyphp&utm_medium=email
-- GRASP (General Responsibility Assignment Software Patterns)
-  - Основные
-    - Information Expert (Информационный эксперт)
-    - Creator (Создатель)
-    - Controller (Контроллер)
-    - Low Coupling (Низкая связанность)
-    - High Cohesion (Высокая связность)
-  - Дополнительные:
-    - Pure Fabrication (Чистое производство или Чистая выдумка)
-    - Indirection (Посредник)
-    - Polymorphism (Полиморфизм)
-    - Protected Variations (Сокрытие реализации)
-  - Остальное
-    - GRASP (General Responsibility Assignment Software Patterns) http://phpforum.su/index.php?showtopic=87687
 - Prometheus
   - PHProm: A Prometheus Datastore for PHP Applications https://chaseisabelle.medium.com/phprom-a-prometheus-datastore-for-php-applications-c761c5587215
   - Application Monitoring Using Prometheus https://www.vthink.co.in/blogs/application-monitoring-using-prometheus
@@ -219,6 +197,26 @@
   - Clean architecture
     - Clean Architecture with PHP https://medium.com/unil-ci-software-engineering/clean-architecture-with-php-22de915a6c50
     - Чистая архитектура на PHP. Как её измерять и контролировать? https://habr.com/ru/articles/504590/
+  - DDD
+    - Domain Driven Design with PHP and Symfony https://dev.to/ludofleury/domain-driven-design-with-php-and-symfony-1bl6
+    - Domain-Driven Design and Clean Architecture in PHP — Part 1 (Layers and Structure) https://medium.com/@pogulailo/domain-driven-design-and-clean-architecture-in-php-part-1-layers-and-structure-edcce57be42a
+    - Understanding Domain-Driven Design (DDD) and its Benefits in PHP Development https://medium.com/@CleytonBonamigo/understanding-domain-driven-design-ddd-and-its-benefits-in-php-development-b4134fa312c
+    - Domain-Driven Design in PHP https://leanpub.com/ddd-in-php/read
+    - Implementing a DDD Use Case in PHP https://dev.to/sebk69/implementing-a-ddd-use-case-for-tax-persistence-in-php-1gij?utm_source=weeklyphp&utm_medium=email
+  - GRASP (General Responsibility Assignment Software Patterns)
+    - Основные
+      - Information Expert (Информационный эксперт)
+      - Creator (Создатель)
+      - Controller (Контроллер)
+      - Low Coupling (Низкая связанность)
+      - High Cohesion (Высокая связность)
+    - Дополнительные:
+      - Pure Fabrication (Чистое производство или Чистая выдумка)
+      - Indirection (Посредник)
+      - Polymorphism (Полиморфизм)
+      - Protected Variations (Сокрытие реализации)
+    - Остальное
+      - GRASP (General Responsibility Assignment Software Patterns) http://phpforum.su/index.php?showtopic=87687
   - Остальное
     - Mastering Architectural Rules in PHP Projects with PHP Arkitect https://medium.com/@edouard.courty/mastering-architectural-rules-in-php-projects-with-php-arkitect-80a2794c3066
 - Тестирование
@@ -229,6 +227,10 @@
   - https://weeklyphp.substack.com/p/how-to-implement-a-ddd-use-case-in?utm_source=%2Fsearch%2Fphp&utm_medium=reader2
 - CI/CD
   - PHP and Continuous Integration with Travis CI https://www.sitepoint.com/php-continuous-integration-travis-ci/
+- Rector PHP
+  - Mastering Code Refactoring: A Complete Guide to Using Rector PHP https://dev.to/peter_fox/mastering-code-refactoring-a-complete-guide-to-using-rector-php-hp1?utm_source=weeklyphp&utm_medium=email
+- PHP-VCR
+  - How to use PHP-VCR to record and replay API calls in PHP https://medium.com/the-sensiolabs-tech-blog/how-to-use-php-vcr-to-record-and-replay-api-calls-in-php-cca397f9ede8
 - Остальное
   - How to Speed Up Bulk Email Sending in PHP with Queues, Workers, and Cron Jobs https://medium.com/@aysunitai/how-to-speed-up-bulk-email-sending-in-php-with-queues-workers-and-cron-jobs-b5be2ac9a12f
   - Создание TodoList с помощью PHP и Lithe Framework: полное руководство https://dev.to/lithephp/creating-a-todolist-with-php-and-the-lithe-framework-a-complete-guide-28ho
