@@ -66,6 +66,8 @@
       - Access Control with Symfony Voters https://medium.com/accesto/access-control-with-symfony-voters-a486a24d832b
       - Простое управление ACL в Symfony https://habr.com/ru/companies/otus/articles/508424/
       - How to ensure that all the routes on my Symfony app have access control https://dev.to/theodo/how-to-ensure-that-all-the-routes-on-my-symfony-app-have-access-control-jff
+    - Firewalls
+      - https://symfony.ru/doc/current/reference/configuration/security.html#firewalls
   - Безопасность API
     - How to implement a custom Symfony authenticator https://sajadtorkamani.com/how-to-implement-a-custom-symfony-authenticator/
   - Остальное
