@@ -40,6 +40,7 @@
 - Безопасность
   - Symfony Security
     - Обзор
+      - Безопасность https://symfony.ru/security.html
       - Symfony: инструмент написания безопасных веб-приложений https://www.securitylab.ru/analytics/480607.php?el_id=480607&VOTE_ID=103&view_result=Y&bxajaxid=1ce8886146eca13ff60ad3b7f5601a0d&utm_referrer=https%3A%2F%2Fwww.perplexity.ai%2F
     - Аутентификация и авторизация
   - Безопасность API
