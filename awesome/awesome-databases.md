@@ -101,7 +101,12 @@
         - Как включить журналы базы данных https://habr.com/ru/companies/otus/articles/691502/
         - Состояние PostgreSQL 2022: 13 инструментов, отличных от psql https://habr.com/ru/companies/otus/articles/690266/
         - Резервное копирование и восстановление СУБД PostgreSQL https://habr.com/ru/companies/otus/articles/710094/
+- MariaDB
+    - Основное
+    - Остальное
 - MySQL
+    - Основное
+        - How to Import an SQL File in MySQL https://simplebackups.com/blog/how-to-import-sql-file-in-mysql/
     - Оптимизация
         - Optimizing your MySQL queries https://mauricio.github.io/2022/02/16/optimizing-your-mysql-queries.html
     - Индексы
@@ -111,6 +116,7 @@
         - Партиционирование таблиц в MySql https://easy-code.ru/lesson/partitioning-mysql
     - Репликация
         - Как устроена MySQL-репликация https://highload.guide/blog/mysql_replication_2015.html
+    - Остальное
 - Остальное
     - Управление качеством данных на основе алгоритмов нечеткого поиска https://blog.arbinada.com/ru/category/00020.html
     - 5 сайтов для оттачивания навыков написания SQL-запросов https://proglib.io/p/sql-practice-sites
