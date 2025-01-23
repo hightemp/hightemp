@@ -33,6 +33,7 @@
 - https://jolicode.com/blog/tag/php
 - https://medium.com/tag/symfony
 - https://platform.sh/blog/tags/symfony/
+- https://wouterj.nl/
 
 ### Статьи
 
@@ -50,6 +51,7 @@
       - Аутентификация и авторизация в Symfony https://it.vstu.by/courses/information_systems/development_of_web_applications/theory/authentication_and_authorization_in_symfony/
       - [Symfony 5] Раздельная авторизация для админов и пользователей с двумя разными сущностями и формами входа https://habr.com/ru/articles/508936/
     - Работа с ролями и разрешениями
+      - Grant on Permissions, not Roles https://wouterj.nl/2020/01/grant-on-permissions-not-roles
   - Безопасность API
   - Остальное
     - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
