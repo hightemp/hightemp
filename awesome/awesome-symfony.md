@@ -36,6 +36,7 @@
 - https://platform.sh/blog/tags/symfony/
 - https://wouterj.nl/
 - https://fritool.ru/tags/symfony/
+- https://sajadtorkamani.com/posts/
 
 ### Статьи
 
