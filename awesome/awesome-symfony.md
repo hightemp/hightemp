@@ -43,6 +43,7 @@
       - Безопасность https://symfony.ru/security.html
       - Symfony: инструмент написания безопасных веб-приложений https://www.securitylab.ru/analytics/480607.php?el_id=480607&VOTE_ID=103&view_result=Y&bxajaxid=1ce8886146eca13ff60ad3b7f5601a0d&utm_referrer=https%3A%2F%2Fwww.perplexity.ai%2F
     - Аутентификация и авторизация
+      - Аутентификация и авторизация в Symfony https://it.vstu.by/courses/information_systems/development_of_web_applications/theory/authentication_and_authorization_in_symfony/
   - Безопасность API
   - Остальное
     - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
