@@ -45,6 +45,7 @@
     - Аутентификация и авторизация
       - Implementing Authorization in Symfony: A Developer’s Guide https://www.slingacademy.com/article/implementing-authorization-in-symfony-developers-guide/
       - Simplifying Authentication and Authorization in Symfony https://moldstud.com/articles/p-simplifying-authentication-and-authorization-in-symfony
+      - Implementing Authentication And Authorization In A Symfony Api https://peerdh.com/blogs/programming-insights/implementing-authentication-and-authorization-in-a-symfony-api
       - Аутентификация https://symfony.ru/doc/current/components/security/authentication.html
       - Аутентификация и авторизация в Symfony https://it.vstu.by/courses/information_systems/development_of_web_applications/theory/authentication_and_authorization_in_symfony/
       - [Symfony 5] Раздельная авторизация для админов и пользователей с двумя разными сущностями и формами входа https://habr.com/ru/articles/508936/
