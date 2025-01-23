@@ -348,6 +348,7 @@
   - Массивы
     - How Go Arrays Work and Get Tricky with For-Range https://victoriametrics.com/blog/go-array/index.html
   - Map
+    - Go maps in action https://go.dev/blog/maps
     - Go Maps Explained: How Key-Value Pairs Are Actually Stored https://victoriametrics.com/blog/go-map/
     - Вопросы по мэпам (map) в Go https://habr.com/ru/articles/854214/
   - Waitgroup
