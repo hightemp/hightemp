@@ -44,6 +44,8 @@
       - Symfony: инструмент написания безопасных веб-приложений https://www.securitylab.ru/analytics/480607.php?el_id=480607&VOTE_ID=103&view_result=Y&bxajaxid=1ce8886146eca13ff60ad3b7f5601a0d&utm_referrer=https%3A%2F%2Fwww.perplexity.ai%2F
     - Аутентификация и авторизация
   - Безопасность API
+  - Остальное
+    - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
 - Формы
   - Продвинутые методы работы с формами веб-приложений на PHP с Symfony: валидация данных, CSRF защита https://ifellow.ru/media-center/prodvinutye-metody-raboty-s-formami-veb-prilozheniy-na-php-s-symfony-validatsiya-dannykh-csrf-zashch/
 - Пример приложения
