@@ -168,6 +168,8 @@
   - Dependency injection
     - Road to dependency injection https://matthiasnoback.nl/2018/06/road-to-dependency-injection/
     - Зачем нужно Dependency Injection (и что это?) https://github.com/codedokode/pasta/blob/master/arch/di.md
+  - Stream
+    - Streams in PHP: What you really need to know https://dev.to/gabrieloliverio/streams-in-php-55kb?utm_source=weeklyphp&utm_medium=email
   - Работа с файлами
     - File Handling In PHP 8 - Reading And Writing File https://www.dailycomputerscience.com/post/file-handling-in-php-8-reading-and-writing-file
   - Property hooks
