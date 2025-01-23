@@ -108,3 +108,5 @@
 
 - Работа с ролями и разрешениями
   - https://symfonycasts.com/screencast/symfony4-security/dynamic-roles
+- Остальное
+  - Symfony best practices и не только https://fwdays.com/en/event/php-frameworks-day-2014/review/Symfony-best-practices
