@@ -25,6 +25,7 @@
 ### Курсы
 
 - https://symfonycasts.com/
+- https://coursehunter.net/course/bezopasnost-v-symfony-krasivaya-autentifikaciya-moshchnaya-avtorizaciya
 
 ### Блоги
 
