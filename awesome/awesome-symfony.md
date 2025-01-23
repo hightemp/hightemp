@@ -95,3 +95,7 @@
   - An introduction to Symfony | The foundation of modern PHP applications https://brunopaz.dev/blog/an-introduction-to-symfony/
   - Unveiling Mind-Blowing Symfony Features https://medium.com/@selieshjksofficial/unveiling-mind-blowing-symfony-features-3207bcde388b
   
+### Видео
+
+- Работа с ролями и разрешениями
+  - https://symfonycasts.com/screencast/symfony4-security/dynamic-roles
