@@ -53,12 +53,13 @@
       - [Symfony 5] Раздельная авторизация для админов и пользователей с двумя разными сущностями и формами входа https://habr.com/ru/articles/508936/
     - CSRF
       - Combatting Login CSRF with Symfony https://wouterj.nl/2023/10/combatting-login-csrf-with-symfony
-    - Работа с ролями и разрешениями (RBAC) (ABAC)
+    - Работа с ролями и разрешениями (RBAC, ABAC, ACL)
       - Grant on Permissions, not Roles https://wouterj.nl/2020/01/grant-on-permissions-not-roles
       - Access Control https://thecodingmachine.github.io/symfony-boilerplate/docs/security/access-control/
       - Using Expressions in Security Access Controls https://symfony.com/doc/current/security/expressions.html
       - Symfony Code Sample: API Role-Based Access Control https://developer.auth0.com/resources/code-samples/api/symfony/basic-role-based-access-control
       - Access Control with Symfony Voters https://medium.com/accesto/access-control-with-symfony-voters-a486a24d832b
+      - Простое управление ACL в Symfony https://habr.com/ru/companies/otus/articles/508424/
   - Безопасность API
   - Остальное
     - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
