@@ -38,6 +38,7 @@
     - Laravel Broadcasting
         - Building Real-Time Applications with Laravel Broadcasting https://medium.com/@harrisrafto/building-real-time-applications-with-laravel-broadcasting-32ccea84b3c0
     - Остальное
+        - NULL Nightmare? Not Anymore! Laravel Tips to Handle NULL Like a Pro https://medium.com/@erlandmuchasaj/null-nightmare-not-anymore-laravel-tips-to-handle-null-like-a-pro-4596b2ce5679
         - Laravel Model Tips https://laravel-news.com/laravel-model-tips?utm_source=weeklyphp&utm_medium=email
 - Примеры приложений
     - Creating Multi-Language Laravel 11 Database & API https://medium.com/@abdullahaymanmsre/creating-multi-language-laravel-11-database-api-e0bc82e64bea
