@@ -219,6 +219,8 @@
       - Protected Variations (Сокрытие реализации)
     - Остальное
       - GRASP (General Responsibility Assignment Software Patterns) http://phpforum.su/index.php?showtopic=87687
+  - Паттерны
+    - Understanding the Singleton Pattern with PHP Example https://dev.to/hossamgouda/understanding-the-singleton-pattern-with-php-example-3i31?utm_source=weeklyphp&utm_medium=email
   - Остальное
     - Mastering Architectural Rules in PHP Projects with PHP Arkitect https://medium.com/@edouard.courty/mastering-architectural-rules-in-php-projects-with-php-arkitect-80a2794c3066
 - Тестирование
