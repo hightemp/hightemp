@@ -62,6 +62,8 @@
   - Безопасность API
   - Остальное
     - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
+- Symfony Voters
+  - Access Control with Symfony Voters https://accesto.com/blog/symfony-voters/
 - REST API
   - Создание REST API в Symfony https://it.vstu.by/courses/information_systems/development_of_web_applications/theory/rest_api_in_symfony/
 - Формы
