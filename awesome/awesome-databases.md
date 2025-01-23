@@ -106,7 +106,10 @@
     - Остальное
 - MySQL
     - Основное
-        - How to Import an SQL File in MySQL https://simplebackups.com/blog/how-to-import-sql-file-in-mysql/
+        - SOURCE
+            - What is the purpose of the `source` command in MySQL? https://labex.io/questions/what-is-the-purpose-of-the-source-command-in-mysql-178581
+        - Импорт
+            - How to Import an SQL File in MySQL https://simplebackups.com/blog/how-to-import-sql-file-in-mysql/
     - Оптимизация
         - Optimizing your MySQL queries https://mauricio.github.io/2022/02/16/optimizing-your-mysql-queries.html
     - Индексы
