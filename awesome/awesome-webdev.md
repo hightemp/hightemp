@@ -421,6 +421,7 @@
 - https://brooker.co.za/blog/
 - https://clement-jean.github.io/
 - https://yifan-online.com/en/km
+- https://sajadtorkamani.com/posts/
 
 ### Youtube Каналы
 
