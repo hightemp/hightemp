@@ -159,6 +159,9 @@
     - A guide to PHP attributes https://www.honeybadger.io/blog/php-attributes-guide/
     - Using PHP attributes easily https://dev.to/icolomina/using-php-attributes-easily-2fpo
     - Attributes In PHP 8 https://www.dailycomputerscience.com/post/attributes-in-php-8
+  - yield, Генераторы
+    - Generator syntax https://www.php.net/manual/en/language.generators.syntax.php
+    - How to Use Yield and Generators in PHP https://code.tutsplus.com/how-to-use-yield-and-generators-in-php--cms-39200t
   - Трейты, Traits
     - PHP OOP Fundamentals - Traits In PHP 8 https://www.dailycomputerscience.com/post/php-oop-fundamentals-traits-in-php-8
   - Строки, Strings
