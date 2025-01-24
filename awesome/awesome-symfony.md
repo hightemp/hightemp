@@ -58,6 +58,8 @@
   - Dependency injection
     - Symfony Dependency Injection: Efficient Implementation and Best Practices https://binary-studio.com/blog/symfony-dependency-injection/
     - Finding a Real-World Use Case for Setter Injection in Symfony http://jayroman.com/blog/finding-a-real-world-use-case-for-setter-injection-in-symfony2
+  - CLI
+    - Правильная регистрация консольных команд Symfony в DI https://medium.com/phpyh/правильная-регистрация-консольных-команд-в-symfony-di-f7536c254926
   - БД
     - Doctrine
       - Databases and the Doctrine ORM https://symfony.com/doc/current/doctrine.html
