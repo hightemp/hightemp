@@ -42,6 +42,8 @@
 ### Статьи
 
 - Основное
+  - Routing, Маршрутизация
+    - Mastering Symfony Routing: A Comprehensive Guide https://medium.com/@priyankgondaliya/mastering-symfony-routing-a-comprehensive-guide-f1ab796ffcf4
 - Безопасность
   - Symfony Security
     - Обзор
@@ -49,8 +51,6 @@
       - Symfony: инструмент написания безопасных веб-приложений https://www.securitylab.ru/analytics/480607.php?el_id=480607&VOTE_ID=103&view_result=Y&bxajaxid=1ce8886146eca13ff60ad3b7f5601a0d&utm_referrer=https%3A%2F%2Fwww.perplexity.ai%2F
       - Understanding Symfony Security by Using it Standalone https://wouterj.nl/2019/03/understanding-symfony-security-by-using-it-standalone
       - Symfony Cheat Sheet https://cheatsheetseries.owasp.org/cheatsheets/Symfony_Cheat_Sheet.html
-    - Routing, Маршрутизация
-      - Mastering Symfony Routing: A Comprehensive Guide https://medium.com/@priyankgondaliya/mastering-symfony-routing-a-comprehensive-guide-f1ab796ffcf4
     - Authorization, Authentication, Аутентификация и авторизация
       - Implementing Authorization in Symfony: A Developer’s Guide https://www.slingacademy.com/article/implementing-authorization-in-symfony-developers-guide/
       - Simplifying Authentication and Authorization in Symfony https://moldstud.com/articles/p-simplifying-authentication-and-authorization-in-symfony
