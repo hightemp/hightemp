@@ -69,7 +69,10 @@
     - Firewalls
       - https://symfony.ru/doc/current/reference/configuration/security.html#firewalls
   - Безопасность API
-    - How to implement a custom Symfony authenticator https://sajadtorkamani.com/how-to-implement-a-custom-symfony-authenticator/
+    - JWT
+      - JWT Authentication in Symfony 7 API : A Comprehensive Step-by-Step Guide https://medium.com/devlisty/jwt-authentication-in-symfony-7-a-comprehensive-step-by-step-guide-a2a26426855d
+    - Остальное
+      - How to implement a custom Symfony authenticator https://sajadtorkamani.com/how-to-implement-a-custom-symfony-authenticator/
   - Остальное
     - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
 - Symfony Voters
