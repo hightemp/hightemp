@@ -130,6 +130,8 @@
   - Symfony 7 CRUD Operations: A Step-by-Step https://medium.com/@addidagli/symfony-7-crud-operations-a-step-by-step-eebebf375620
 - Тестирование
   - Test POST API endpoints in Symfony https://medium.com/@tacman1123/testing-post-api-endpoints-in-symfony-464575eaf841
+- Plugin
+  - Build a plugin system for your Symfony app https://davegebler.com/post/php/build-a-plugin-system-for-your-symfony-app
 - Best practices
   - The Symfony Framework Best Practices https://symfony.com/doc/current/best_practices.html
 - Мониторинг
