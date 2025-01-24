@@ -194,6 +194,7 @@ security:
       pattern: ^/(_(profiler|wdt)|css|images|js)/
       security: false
     main:
+      pattern: ^/
       lazy: true
       provider: app_users
       form_login:
