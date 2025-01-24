@@ -70,6 +70,7 @@
       - How I Optimized Lazy Loading in Symfony Doctrine to Improve Performance https://mtccreatives.medium.com/how-i-optimized-lazy-loading-in-symfony-doctrine-to-improve-performance-43c195cfc4e8
       - Doctrine with Symfony https://medium.com/@KongToonArmy/doctrine-with-symfony-cf4285cc8d07
       - Using Doctrine’s L2 Cache in Symfony https://medium.com/@dotcom.software/using-doctrines-l2-cache-in-symfony-eba300ab1e6
+      - Understanding and Resolving the N+1 Problem with Doctrine in Symfony https://medium.com/@jonthanLight/understanding-and-resolving-the-n-1-problem-with-doctrine-in-symfony-cfef1d09af6f
     - Несколько баз
       - Multi database doctrine-symfony based project https://carlos-compains.medium.com/multi-database-doctrine-symfony-based-project-0c1e175b64bf
     - Репликация
