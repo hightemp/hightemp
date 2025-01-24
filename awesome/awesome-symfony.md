@@ -68,14 +68,6 @@
       - How to ensure that all the routes on my Symfony app have access control https://dev.to/theodo/how-to-ensure-that-all-the-routes-on-my-symfony-app-have-access-control-jff
     - Firewalls
       - https://symfony.ru/doc/current/reference/configuration/security.html#firewalls
-  - Безопасность API
-    - JWT
-      - Implementing Jwt Authentication In Symfony For Rest Apis https://peerdh.com/blogs/programming-insights/implementing-jwt-authentication-in-symfony-for-rest-apis
-      - JWT Authentication in Symfony 7 API : A Comprehensive Step-by-Step Guide https://medium.com/devlisty/jwt-authentication-in-symfony-7-a-comprehensive-step-by-step-guide-a2a26426855d
-      - How to Add JWT Login to a Symfony Project https://dev.to/daniyaljavani/how-to-add-jwt-login-to-a-symfony-6-project-3elh
-      - Symfony 7 JSON Web Token(JWT) Authentication https://www.binaryboxtuts.com/php-tutorials/symfony-7-json-web-tokenjwt-authentication/
-    - Остальное
-      - How to implement a custom Symfony authenticator https://sajadtorkamani.com/how-to-implement-a-custom-symfony-authenticator/
   - Остальное
     - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
 - Symfony Voters
@@ -88,8 +80,17 @@
 - Serialization
   - Serialize PHP objects using Symfony Serializer https://sajadtorkamani.com/serialize-php-objects-using-symfony-serializer/
   - Deserialize data into a PHP object using Symfony Serializer https://sajadtorkamani.com/deserialize-data-into-a-php-object-using-symfony-serializer/
-- REST API
-  - Создание REST API в Symfony https://it.vstu.by/courses/information_systems/development_of_web_applications/theory/rest_api_in_symfony/
+- API
+  - Безопасность API
+    - JWT
+      - Implementing Jwt Authentication In Symfony For Rest Apis https://peerdh.com/blogs/programming-insights/implementing-jwt-authentication-in-symfony-for-rest-apis
+      - JWT Authentication in Symfony 7 API : A Comprehensive Step-by-Step Guide https://medium.com/devlisty/jwt-authentication-in-symfony-7-a-comprehensive-step-by-step-guide-a2a26426855d
+      - How to Add JWT Login to a Symfony Project https://dev.to/daniyaljavani/how-to-add-jwt-login-to-a-symfony-6-project-3elh
+      - Symfony 7 JSON Web Token(JWT) Authentication https://www.binaryboxtuts.com/php-tutorials/symfony-7-json-web-tokenjwt-authentication/
+    - Остальное
+      - How to implement a custom Symfony authenticator https://sajadtorkamani.com/how-to-implement-a-custom-symfony-authenticator/
+  - REST API
+    - Создание REST API в Symfony https://it.vstu.by/courses/information_systems/development_of_web_applications/theory/rest_api_in_symfony/
 - Формы
   - Продвинутые методы работы с формами веб-приложений на PHP с Symfony: валидация данных, CSRF защита https://ifellow.ru/media-center/prodvinutye-metody-raboty-s-formami-veb-prilozheniy-na-php-s-symfony-validatsiya-dannykh-csrf-zashch/
 - Пример приложения
