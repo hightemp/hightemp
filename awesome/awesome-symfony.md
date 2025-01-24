@@ -62,6 +62,7 @@
     - Doctrine
       - Databases and the Doctrine ORM https://symfony.com/doc/current/doctrine.html
       - Modeling Data for an API with Symfony and Doctrine (Part 1/2) https://www.mikemilano.com/modeling-data-with-symfony
+      - Symfony UUID, Doctrine and type-hinting: everything you should know https://medium.com/ekino-france/symfony-uuid-doctrine-and-type-hinting-everything-you-should-know-b846519a9927
     - Остальное
       - Hybrid databases with Symfony and Doctrine SQL versus NoSQL https://davegebler.com/post/php/hybrid-databases-with-symfony-and-doctrine
 - Безопасность
