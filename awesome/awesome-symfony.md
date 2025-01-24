@@ -69,6 +69,8 @@
       - Symfony UUID, Doctrine and type-hinting: everything you should know https://medium.com/ekino-france/symfony-uuid-doctrine-and-type-hinting-everything-you-should-know-b846519a9927
       - How I Optimized Lazy Loading in Symfony Doctrine to Improve Performance https://mtccreatives.medium.com/how-i-optimized-lazy-loading-in-symfony-doctrine-to-improve-performance-43c195cfc4e8
       - Doctrine with Symfony https://medium.com/@KongToonArmy/doctrine-with-symfony-cf4285cc8d07
+    - Несколько баз
+      - Multi database doctrine-symfony based project https://carlos-compains.medium.com/multi-database-doctrine-symfony-based-project-0c1e175b64bf
     - Репликация
       - How to set up DB read replicas on Symfony 6 using Doctrine https://medium.com/@dominykasmurauskas1/how-to-add-read-write-replicas-on-symfony-6-using-doctrine-bundle-a46447449f35
     - Остальное
