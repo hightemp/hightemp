@@ -74,6 +74,7 @@
     - Репликация
       - How to set up DB read replicas on Symfony 6 using Doctrine https://medium.com/@dominykasmurauskas1/how-to-add-read-write-replicas-on-symfony-6-using-doctrine-bundle-a46447449f35
     - Остальное
+      - Automatic values for created_at, updated_at in Doctrine — Symfony 6 https://medium.com/@andrii.sukhoi/automatic-values-for-created-at-updated-at-in-doctrine-symfony-6-fb625f17478
       - Hybrid databases with Symfony and Doctrine SQL versus NoSQL https://davegebler.com/post/php/hybrid-databases-with-symfony-and-doctrine
       - PHP Encryption: The Symfony Guide to Securing Database Tables https://sergheipogor.medium.com/php-encryption-the-symfony-guide-to-securing-database-tables-4d984d5c0b6d
   - Остальное
