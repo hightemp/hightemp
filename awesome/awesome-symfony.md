@@ -63,16 +63,20 @@
     - Правильная регистрация консольных команд Symfony в DI https://medium.com/phpyh/правильная-регистрация-консольных-команд-в-symfony-di-f7536c254926
   - БД
     - Doctrine
-      - Databases and the Doctrine ORM https://symfony.com/doc/current/doctrine.html
-      - Справочник конфигурации Doctrine (DoctrineBundle) https://symfony.ru/doc/current/reference/configuration/doctrine.html
-      - Modeling Data for an API with Symfony and Doctrine (Part 1/2) https://www.mikemilano.com/modeling-data-with-symfony
-      - Symfony UUID, Doctrine and type-hinting: everything you should know https://medium.com/ekino-france/symfony-uuid-doctrine-and-type-hinting-everything-you-should-know-b846519a9927
-      - How I Optimized Lazy Loading in Symfony Doctrine to Improve Performance https://mtccreatives.medium.com/how-i-optimized-lazy-loading-in-symfony-doctrine-to-improve-performance-43c195cfc4e8
-      - Doctrine with Symfony https://medium.com/@KongToonArmy/doctrine-with-symfony-cf4285cc8d07
-      - Using Doctrine’s L2 Cache in Symfony https://medium.com/@dotcom.software/using-doctrines-l2-cache-in-symfony-eba300ab1e6
-      - Understanding and Resolving the N+1 Problem with Doctrine in Symfony https://medium.com/@jonthanLight/understanding-and-resolving-the-n-1-problem-with-doctrine-in-symfony-cfef1d09af6f
-      - Overcoming Many-to-Many Challenges with Symfony/Doctrine https://medium.com/@kekcius/overcoming-many-to-many-challenges-with-symfony-doctrine-70cace9ba2a9
-      - A closer look at \Doctrine\ORM\Query::toIterable when processing large results https://medium.com/@vitoriodachef/a-closer-look-at-doctrine-orm-query-toiterable-when-processing-large-results-ee813b6ec7d7
+      - Основное
+        - Databases and the Doctrine ORM https://symfony.com/doc/current/doctrine.html
+        - Справочник конфигурации Doctrine (DoctrineBundle) https://symfony.ru/doc/current/reference/configuration/doctrine.html
+      - MongoDB
+        - Multiple class inheritance with Doctrine ODM in Symfony: One collection for multiple document types https://medium.com/enekochan/multiple-class-inheritance-with-doctrine-odm-in-symfony-one-collection-for-multiple-document-types-ccab8cef0f05
+      - Остальное
+        - Modeling Data for an API with Symfony and Doctrine (Part 1/2) https://www.mikemilano.com/modeling-data-with-symfony
+        - Symfony UUID, Doctrine and type-hinting: everything you should know https://medium.com/ekino-france/symfony-uuid-doctrine-and-type-hinting-everything-you-should-know-b846519a9927
+        - How I Optimized Lazy Loading in Symfony Doctrine to Improve Performance https://mtccreatives.medium.com/how-i-optimized-lazy-loading-in-symfony-doctrine-to-improve-performance-43c195cfc4e8
+        - Doctrine with Symfony https://medium.com/@KongToonArmy/doctrine-with-symfony-cf4285cc8d07
+        - Using Doctrine’s L2 Cache in Symfony https://medium.com/@dotcom.software/using-doctrines-l2-cache-in-symfony-eba300ab1e6
+        - Understanding and Resolving the N+1 Problem with Doctrine in Symfony https://medium.com/@jonthanLight/understanding-and-resolving-the-n-1-problem-with-doctrine-in-symfony-cfef1d09af6f
+        - Overcoming Many-to-Many Challenges with Symfony/Doctrine https://medium.com/@kekcius/overcoming-many-to-many-challenges-with-symfony-doctrine-70cace9ba2a9
+        - A closer look at \Doctrine\ORM\Query::toIterable when processing large results https://medium.com/@vitoriodachef/a-closer-look-at-doctrine-orm-query-toiterable-when-processing-large-results-ee813b6ec7d7
     - Несколько баз
       - Multi database doctrine-symfony based project https://carlos-compains.medium.com/multi-database-doctrine-symfony-based-project-0c1e175b64bf
     - Репликация
