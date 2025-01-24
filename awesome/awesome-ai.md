@@ -581,6 +581,7 @@
         - Can large language models help augment English psycholinguistic datasets? https://link.springer.com/article/10.3758/s13428-024-02337-z
 - Агенты
     - Кто такие LLM-агенты и что они умеют? https://habr.com/ru/companies/ods/articles/776478/
+    - Заменяем хабраюзеров ИИ-агентами. Гайд по browser-use https://habr.com/ru/articles/875798/
 - Подборки
     - 50+ полезных ML и AI-сервисов для вебмастеров https://hostpro.ua/blog/50-useful-ai-services-for-webmasters/
     - 10+ Open-source AI Agents: Based on GitHub Stars https://research.aimultiple.com/open-source-ai-agents/
