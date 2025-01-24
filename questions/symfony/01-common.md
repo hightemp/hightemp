@@ -811,3 +811,97 @@ security:
 *   Вы используете PHPUnit для тестирования.
 *   Вы хотите упростить управление версиями PHPUnit и настройку окружения.
 *   Вы хотите улучшить интеграцию PHPUnit с Symfony.
+
+# Что делает LiipFunctionalTestBundle?
+
+`LiipFunctionalTestBundle` — это популярный бандл для Symfony, который значительно упрощает написание функциональных тестов, делая их более читаемыми, удобными и эффективными. Он предоставляет ряд полезных инструментов и абстракций, которые облегчают тестирование HTTP-запросов и работы с базой данных в рамках функциональных тестов.
+
+**Основные возможности и преимущества LiipFunctionalTestBundle:**
+
+1.  **Упрощенный API для HTTP-запросов:**
+    *   `LiipFunctionalTestBundle` предоставляет удобные методы для отправки различных типов HTTP-запросов (GET, POST, PUT, DELETE и т.д.) с различными типами данных (форма, JSON, XML, multipart/form-data).
+    *   Вы можете легко имитировать аутентификацию и работу с сессиями.
+    *   Вам не нужно самостоятельно создавать `Symfony\Component\BrowserKit\Client` и отправлять запросы.
+
+    ```php
+    // Пример отправки POST-запроса с JSON:
+    $this->client->post('/api/users', ['json' => ['name' => 'John Doe', 'email' => 'john@example.com']]);
+
+    // Пример отправки GET-запроса с аутентификацией:
+    $this->client->get('/profile', [], ['auth_basic' => ['user' => 'password']]);
+    ```
+
+2.  **Автоматическое управление тестовой базой данных:**
+    *   Бандл автоматически очищает тестовую базу данных перед каждым тестом, обеспечивая изолированность тестов.
+    *   Предоставляет методы для загрузки фикстур (тестовых данных) в базу данных.
+
+    ```php
+    // Загрузка фикстур перед тестом
+    $this->loadFixtures([UserFixtures::class, ProductFixtures::class]);
+    ```
+
+3.  **Удобные методы для проверки ответов:**
+    *   `LiipFunctionalTestBundle` предоставляет удобные методы для проверки статуса ответа, заголовков, содержимого (включая JSON, HTML, XML), а также перенаправлений.
+    *   Вы можете использовать выражения для проверки содержимого ответа (например, регулярные выражения).
+
+    ```php
+    // Пример проверки статуса ответа:
+    $this->assertResponseCode(201);
+
+    // Пример проверки содержимого JSON:
+    $this->assertJsonResponse(['id' => 1, 'name' => 'John Doe']);
+
+    // Пример проверки HTML:
+     $this->assertSelectorTextContains('.container h1', 'Welcome');
+
+     // Пример проверки на перенаправление
+     $this->assertResponseRedirect('/login');
+    ```
+
+4.  **Автоматическая транзакционность:**
+    *   Бандл автоматически обёртывает каждый тест в транзакцию, которая откатывается после завершения теста. Это обеспечивает чистоту данных и изоляцию между тестами.
+
+5.  **Абстракция от `WebTestCase`:**
+    *   `LiipFunctionalTestBundle` предоставляет свой базовый класс `Liip\TestFixturesBundle\Test\FixturesTrait` и `WebTestCase`  упрощая создание функциональных тестов.
+    *   Он обрабатывает многие рутинные задачи, связанные с настройкой окружения и созданием клиента для отправки запросов.
+
+6.  **Расширяемость:**
+    *   Бандл хорошо расширяется, позволяя вам создавать свои собственные методы и классы-помощники.
+
+**Когда использовать LiipFunctionalTestBundle:**
+
+*   Когда вы хотите писать функциональные тесты с минимальным количеством шаблонного кода.
+*   Когда вам нужно удобное API для отправки HTTP-запросов и проверки ответов.
+*   Когда вам нужно легко управлять тестовой базой данных, загружать фикстуры и откатывать транзакции после тестов.
+*   Когда вы хотите писать более читаемые и выразительные тесты.
+
+**Пример использования:**
+
+```php
+namespace App\Tests\Controller;
+
+use Liip\TestFixturesBundle\Test\FixturesTrait;
+use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
+
+class UserControllerTest extends WebTestCase
+{
+   use FixturesTrait;
+
+    public function testCreateUser(): void
+    {
+        $this->loadFixtures([]); // У нас пока нет фикстур для загрузки
+        $this->client->post('/api/users', ['json' => ['name' => 'Test User', 'email' => 'test@example.com']]);
+        $this->assertResponseCode(201);
+        $this->assertJsonResponse(['id' => 1, 'name' => 'Test User', 'email' => 'test@example.com']);
+    }
+    public function testGetUser(): void
+    {
+         $this->loadFixtures([UserFixtures::class]);
+         $this->client->get('/api/users/1');
+        $this->assertResponseCode(200);
+        $this->assertJsonResponse(['id' => 1, 'name' => 'Test User', 'email' => 'test@example.com']);
+    }
+}
+```
+
+
