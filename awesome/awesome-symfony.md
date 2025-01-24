@@ -70,6 +70,7 @@
       - https://symfony.ru/doc/current/reference/configuration/security.html#firewalls
   - Безопасность API
     - JWT
+      - Implementing Jwt Authentication In Symfony For Rest Apis https://peerdh.com/blogs/programming-insights/implementing-jwt-authentication-in-symfony-for-rest-apis
       - JWT Authentication in Symfony 7 API : A Comprehensive Step-by-Step Guide https://medium.com/devlisty/jwt-authentication-in-symfony-7-a-comprehensive-step-by-step-guide-a2a26426855d
     - Остальное
       - How to implement a custom Symfony authenticator https://sajadtorkamani.com/how-to-implement-a-custom-symfony-authenticator/
