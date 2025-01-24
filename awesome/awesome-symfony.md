@@ -70,6 +70,8 @@
     - Остальное
       - Hybrid databases with Symfony and Doctrine SQL versus NoSQL https://davegebler.com/post/php/hybrid-databases-with-symfony-and-doctrine
       - PHP Encryption: The Symfony Guide to Securing Database Tables https://sergheipogor.medium.com/php-encryption-the-symfony-guide-to-securing-database-tables-4d984d5c0b6d
+  - Остальное
+    - Быстро узнать расход памяти команд Symfony https://pankov-roman.medium.com/быстро-узнать-расход-памяти-команд-symfony-4125d8efc09f
 - Безопасность
   - Symfony Security
     - Обзор
