@@ -66,6 +66,7 @@
       - How I Optimized Lazy Loading in Symfony Doctrine to Improve Performance https://mtccreatives.medium.com/how-i-optimized-lazy-loading-in-symfony-doctrine-to-improve-performance-43c195cfc4e8
     - Остальное
       - Hybrid databases with Symfony and Doctrine SQL versus NoSQL https://davegebler.com/post/php/hybrid-databases-with-symfony-and-doctrine
+      - PHP Encryption: The Symfony Guide to Securing Database Tables https://sergheipogor.medium.com/php-encryption-the-symfony-guide-to-securing-database-tables-4d984d5c0b6d
 - Безопасность
   - Symfony Security
     - Обзор
