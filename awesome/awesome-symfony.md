@@ -144,6 +144,8 @@
   - Test POST API endpoints in Symfony https://medium.com/@tacman1123/testing-post-api-endpoints-in-symfony-464575eaf841
 - Plugin
   - Build a plugin system for your Symfony app https://davegebler.com/post/php/build-a-plugin-system-for-your-symfony-app
+- Docker
+  - How to dockerize Symfony project ? https://medium.com/@meherbensalah4/how-to-dockerize-symfony-project-f06bcd735308
 - Best practices
   - The Symfony Framework Best Practices https://symfony.com/doc/current/best_practices.html
 - Мониторинг
