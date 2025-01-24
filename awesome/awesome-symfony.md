@@ -60,6 +60,7 @@
     - Finding a Real-World Use Case for Setter Injection in Symfony http://jayroman.com/blog/finding-a-real-world-use-case-for-setter-injection-in-symfony2
   - БД
     - Doctrine
+      - Databases and the Doctrine ORM https://symfony.com/doc/current/doctrine.html
       - Modeling Data for an API with Symfony and Doctrine (Part 1/2) https://www.mikemilano.com/modeling-data-with-symfony
     - Остальное
       - Hybrid databases with Symfony and Doctrine SQL versus NoSQL https://davegebler.com/post/php/hybrid-databases-with-symfony-and-doctrine
