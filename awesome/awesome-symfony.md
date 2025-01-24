@@ -72,6 +72,7 @@
       - Using Doctrine’s L2 Cache in Symfony https://medium.com/@dotcom.software/using-doctrines-l2-cache-in-symfony-eba300ab1e6
       - Understanding and Resolving the N+1 Problem with Doctrine in Symfony https://medium.com/@jonthanLight/understanding-and-resolving-the-n-1-problem-with-doctrine-in-symfony-cfef1d09af6f
       - Overcoming Many-to-Many Challenges with Symfony/Doctrine https://medium.com/@kekcius/overcoming-many-to-many-challenges-with-symfony-doctrine-70cace9ba2a9
+      - A closer look at \Doctrine\ORM\Query::toIterable when processing large results https://medium.com/@vitoriodachef/a-closer-look-at-doctrine-orm-query-toiterable-when-processing-large-results-ee813b6ec7d7
     - Несколько баз
       - Multi database doctrine-symfony based project https://carlos-compains.medium.com/multi-database-doctrine-symfony-based-project-0c1e175b64bf
     - Репликация
