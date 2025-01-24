@@ -125,6 +125,7 @@
       - Symfony 7 JSON Web Token(JWT) Authentication https://www.binaryboxtuts.com/php-tutorials/symfony-7-json-web-tokenjwt-authentication/
       - Securing a Symfony API with JWTs https://curity.io/resources/learn/symfony-api/
     - Остальное
+      - Authenticate users with API keys using Symfony and Doctrine https://medium.com/@_Ma27_/authenticate-users-with-api-keys-using-symfony-and-doctrine-b2270752261a
       - How to implement a custom Symfony authenticator https://sajadtorkamani.com/how-to-implement-a-custom-symfony-authenticator/
   - REST API
     - Создание REST API в Symfony https://it.vstu.by/courses/information_systems/development_of_web_applications/theory/rest_api_in_symfony/
