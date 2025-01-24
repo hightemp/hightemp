@@ -44,6 +44,7 @@
 - Основное
   - Routing, Маршрутизация
     - Mastering Symfony Routing: A Comprehensive Guide https://medium.com/@priyankgondaliya/mastering-symfony-routing-a-comprehensive-guide-f1ab796ffcf4
+    - Set Up Routing in PHP Applications Using the Symfony Routing Component https://code.tutsplus.com/set-up-routing-in-php-applications-using-the-symfony-routing-component--cms-31231t
   - Service container
     - Diving into Symfony’s DependencyInjection — Part 1: First steps with the container https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first-steps-with-the-container-2fad0593c052
     - Experiment: How I replaced Symfony DI with Laravel Container in ECS https://tomasvotruba.com/blog/experiment-how-i-replaced-symfony-di-with-laravel-container-in-ecs
