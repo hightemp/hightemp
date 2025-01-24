@@ -43,6 +43,7 @@
 
 - Основное
   - Routing, Маршрутизация
+    - Routing https://symfony.com/doc/7.3/routing.html
     - 4 Ways to Create Routes in Symfony https://www.slingacademy.com/article/ways-to-create-routes-in-symfony/
     - Mastering Symfony Routing: A Comprehensive Guide https://medium.com/@priyankgondaliya/mastering-symfony-routing-a-comprehensive-guide-f1ab796ffcf4
     - Exploring Symfony’s Powerful Routing System https://clouddevs.com/symfony/routing-system/
