@@ -221,3 +221,4 @@
     - Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023 https://www.youtube.com/watch?v=c_-b_isI4vg
 - Курсы
     - https://www.youtube.com/playlist?list=PL1DRqC1tfkrBjO4SDcg5EwKnCnk27yQVD
+    - THE BIGGEST REACT.JS COURSE ON THE INTERNET ( PART 1 ) https://www.youtube.com/watch?v=qnwFpjIqsrA
