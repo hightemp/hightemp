@@ -52,9 +52,10 @@
 
 - RusEtfs - публичный агрегатор всех данных о ETF на Московской Бирже https://rusetfs.com/screener
 - https://businessmens.ru/
-- Все об облигациях https://smart-lab.ru/bonds
-- http://rusbonds.ru
-- https://cbonds.ru/
+- Облигации
+    - https://smart-lab.ru/bonds
+    - http://rusbonds.ru
+    - https://cbonds.ru/
 
 ### Книги
 
