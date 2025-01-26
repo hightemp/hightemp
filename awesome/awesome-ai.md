@@ -523,6 +523,8 @@
     - https://github.com/johannestang/llamaxing/
     - https://github.com/dzhng/llm-api
     - https://github.com/Portkey-AI/gateway
+- Модели
+    - Mini-Omni - мультимодальная речевая модель с возможностью ввода-вывода речи в режиме реального времени, построенная на основе метода "Any Model Can Talk", позволяющего добавлять речевые возможности к существующим языковым моделям с минимальными изменениями в архитектуре, которая обладает следующими функциями: речь-в-речь в режиме реального времени без дополнительных моделей распознавания и синтеза речи, одновременная генерация текста и аудио, потоковое воспроизведение аудио, пакетное преобразование речь-в-текст и речь-в-речь. https://huggingface.co/spaces/gpt-omni/mini-omni https://arxiv.org/pdf/2408.16725 https://huggingface.co/gpt-omni/mini-omni/tree/main https://github.com/gpt-omni/mini-omni 
 - Остальное
     - the LLM vulnerability scanner https://github.com/NVIDIA/garak
     - Проект sqlite-vec представляет собой компактное и эффективное расширение SQLite для хранения и поиска векторов, которое может работать на различных платформах и устройствах без дополнительных зависимостей. https://github.com/asg017/sqlite-vec
