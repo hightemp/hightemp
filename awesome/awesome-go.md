@@ -579,6 +579,7 @@
       - Implementing a Logging Proxy Server with Golang https://medium.com/@bless2k/implementing-a-logging-proxy-server-with-golang-d0c673ef1f56
       - How to use a Forwarding Proxy with golang https://gianarb.it/blog/golang-forwarding-proxy
       - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
+      - Golang动手写一个Http Proxy https://studygolang.com/articles/11064
     - Остальное
       - Network Programming and Proxies in Golang https://blog.ralch.com/articles/network-programming-and-proxies-in-golang/
       - Go and Proxy Servers: Part 1 - HTTP Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/
