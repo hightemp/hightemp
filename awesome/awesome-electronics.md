@@ -63,6 +63,8 @@
     - Энтузиаст за 2 недели создал собственный GPU с нуля https://tproger.ru/news/entuziast-za-2-nedeli-sozdal-sobstvennyj-gpu-s-nulya
     - AI Can Now Help Design Electronic Circuit https://www.tti.com/content/ttiinc/en/resources/marketeye/categories/new-technology/me-slovick-20240221.html?srsltid=AfmBOorUQ3RhzzYXfYtSLDtxwaXPIL6ati9rLJR6HdzNEE026IGFp_ij
     - Transforming PCB Design With Artificial Intelligence https://eepower.com/technical-articles/transforming-pcb-design-with-artificial-intelligence/#
+- ASIC
+    - Демистификация технологии ASIC: подробное руководство для начинающих https://fastercapital.com/ru/content/Демистификация-технологии-ASIC--подробное-руководство-для-начинающих.html
 - Подборки
     - AI Tools For Electronic Circuit Design, Which Is Best? https://cselectricalandelectronics.com/ai-tools-for-electronic-circuit-design-which-is-best/
     - Top 10 Electronic Circuit Simulation Software https://www.circuitdiagram.co/top-10-electronic-circuit-simulation-software/
