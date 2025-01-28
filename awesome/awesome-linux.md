@@ -89,6 +89,7 @@
     - Основное
         - How to view status of a service on Linux using systemctl https://www.cyberciti.biz/faq/systemd-systemctl-view-status-of-a-service-on-linux/
         - Chapter 10. Managing Services with systemd https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system_administrators_guide/chap-managing_services_with_systemd#sect-Managing_Services_with_systemd-Introduction
+        - Systemd and cgroup https://medium.com/@charles.vissol/systemd-and-cgroup-7eb80a08234d
     - healthcheck
         - Set up self-healing services with systemd https://www.redhat.com/en/blog/systemd-automate-recovery
     - machinectl
