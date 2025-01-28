@@ -125,6 +125,7 @@
         - NixOS — установка и настройка https://vk.com/@linuxsovet-nixos-ustanovka-i-nastroika
         - Nginx https://nixos.wiki/wiki/Nginx
         - Running NixOS from any Linux Distro in systemd-nspawn Containers https://nixcademy.com/posts/nixos-nspawn/
+        - Run and Auto-Update Docker Containers on NixOS https://nixcademy.com/posts/auto-update-containers/
     - Остальное
         - Isolated Development Environment using Nix https://ariya.io/2016/06/isolated-development-environment-using-nix
         - A step towards the future of configuration and infrastructure management with Nix https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix
