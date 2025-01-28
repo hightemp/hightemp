@@ -121,6 +121,7 @@
     - NixOS is a good server OS, except when it isn't https://sidhion.com/blog/posts/nixos_server_issues/
     - NixOS — установка и настройка https://vk.com/@linuxsovet-nixos-ustanovka-i-nastroika
     - Isolated Development Environment using Nix https://ariya.io/2016/06/isolated-development-environment-using-nix
+    - A step towards the future of configuration and infrastructure management with Nix https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix
 - Git
     - On the Matter of Beautiful git Diffs https://nathanleclaire.com/blog/2016/06/28/on-the-matter-of-beautiful-git-diffs/
 - Остальное
