@@ -93,6 +93,8 @@
     - healthcheck
         - Set up self-healing services with systemd https://www.redhat.com/en/blog/systemd-automate-recovery
     - systemd-nspawn
+        - Основное
+            - Systemd и контейнеры: знакомство с systemd-nspawn https://habr.com/ru/companies/selectel/articles/271957/
         - machinectl
             - Setting up containers with systemd-nspawn https://medium.com/@huljar/setting-up-containers-with-systemd-nspawn-b719cff0fb8d
             - Developer Diary Excerpts: machinectl auto-login https://philip-trauner.me/blog/post/machinectl-autologin
