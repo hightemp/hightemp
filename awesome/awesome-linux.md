@@ -92,9 +92,12 @@
         - Systemd and cgroup https://medium.com/@charles.vissol/systemd-and-cgroup-7eb80a08234d
     - healthcheck
         - Set up self-healing services with systemd https://www.redhat.com/en/blog/systemd-automate-recovery
-    - machinectl
-        - Setting up containers with systemd-nspawn https://medium.com/@huljar/setting-up-containers-with-systemd-nspawn-b719cff0fb8d
-        - Developer Diary Excerpts: machinectl auto-login https://philip-trauner.me/blog/post/machinectl-autologin
+    - systemd-nspawn
+        - machinectl
+            - Setting up containers with systemd-nspawn https://medium.com/@huljar/setting-up-containers-with-systemd-nspawn-b719cff0fb8d
+            - Developer Diary Excerpts: machinectl auto-login https://philip-trauner.me/blog/post/machinectl-autologin
+        - Остальное
+            - Running systemd-nspawn containers with a VPN interface https://blog.lieter.nl/posts/systemd-nspawn-multi-interfaces-container-wireguard/
     - Остальное
         - Systemd Watchdog for Any Service https://www.medo64.com/2019/01/systemd-watchdog-for-any-service/      
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
