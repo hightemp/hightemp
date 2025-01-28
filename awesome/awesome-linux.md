@@ -90,7 +90,7 @@
     - healthcheck
         - Set up self-healing services with systemd https://www.redhat.com/en/blog/systemd-automate-recovery
     - machinectl
-
+        - Setting up containers with systemd-nspawn https://medium.com/@huljar/setting-up-containers-with-systemd-nspawn-b719cff0fb8d
     - Остальное
         - Systemd Watchdog for Any Service https://www.medo64.com/2019/01/systemd-watchdog-for-any-service/      
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
