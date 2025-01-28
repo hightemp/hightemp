@@ -98,6 +98,7 @@
             - Developer Diary Excerpts: machinectl auto-login https://philip-trauner.me/blog/post/machinectl-autologin
         - Остальное
             - Running systemd-nspawn containers with a VPN interface https://blog.lieter.nl/posts/systemd-nspawn-multi-interfaces-container-wireguard/
+            - Systemd Nspawn https://jimmyg.org/blog/2022/nspawn/index.html
     - Остальное
         - Systemd Watchdog for Any Service https://www.medo64.com/2019/01/systemd-watchdog-for-any-service/      
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
