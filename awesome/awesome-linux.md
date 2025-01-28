@@ -83,6 +83,8 @@
         - OpenSSH/Cookbook/Multiplexing https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing
 - sockets
     - What is a socket? https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket
+- cgroup
+    - Practicing cgroup v2 https://medium.com/@charles.vissol/practicing-cgroup-v2-cad6743bba0c
 - systemd
     - Основное
         - How to view status of a service on Linux using systemctl https://www.cyberciti.biz/faq/systemd-systemctl-view-status-of-a-service-on-linux/
