@@ -111,17 +111,20 @@
     - Podman at the edge: Keeping services alive with custom healthcheck actions https://www.redhat.com/en/blog/podman-edge-healthcheck
 - RabbitMQ
     - How to Install RabbitMQ Server on Linux (Quick Guide) https://linuxtldr.com/install-rabbitmq-server-on-linux/
-- NixOs
-    - Немного о NixOS. Часть 1. Общая информация и установка https://habr.com/ru/articles/826148/
-    - Мои приключения с NixOS, часть 1: начало работы https://setser.github.io/2019/02/01/nixos-part-1.html
-    - Сборка пакета для Nix https://uralbash.ru/articles/2017/nixpkgs-contribute/
-    - Как создать песочницу и опакетить программу в NixOS? https://vk.com/@openrc-kak-opaketit-programmu-v-nixos-i-kak-sozdat-pesochnicu
-    - Nix: воспроизводимая сборка https://habr.com/ru/companies/typeable/articles/556828/
-    - Воспроизводимая среда разработки с Nix https://archercreat.github.io/build-environment-with-nix-shell/
-    - NixOS is a good server OS, except when it isn't https://sidhion.com/blog/posts/nixos_server_issues/
-    - NixOS — установка и настройка https://vk.com/@linuxsovet-nixos-ustanovka-i-nastroika
-    - Isolated Development Environment using Nix https://ariya.io/2016/06/isolated-development-environment-using-nix
-    - A step towards the future of configuration and infrastructure management with Nix https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix
+- Nix
+    - NixOs
+        - Немного о NixOS. Часть 1. Общая информация и установка https://habr.com/ru/articles/826148/
+        - Мои приключения с NixOS, часть 1: начало работы https://setser.github.io/2019/02/01/nixos-part-1.html
+        - Сборка пакета для Nix https://uralbash.ru/articles/2017/nixpkgs-contribute/
+        - Как создать песочницу и опакетить программу в NixOS? https://vk.com/@openrc-kak-opaketit-programmu-v-nixos-i-kak-sozdat-pesochnicu
+        - Nix: воспроизводимая сборка https://habr.com/ru/companies/typeable/articles/556828/
+        - Воспроизводимая среда разработки с Nix https://archercreat.github.io/build-environment-with-nix-shell/
+        - NixOS is a good server OS, except when it isn't https://sidhion.com/blog/posts/nixos_server_issues/
+        - NixOS — установка и настройка https://vk.com/@linuxsovet-nixos-ustanovka-i-nastroika
+    - Остальное
+        - Isolated Development Environment using Nix https://ariya.io/2016/06/isolated-development-environment-using-nix
+        - A step towards the future of configuration and infrastructure management with Nix https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix
+        - Cheap Docker images with Nix https://lucabrunox.github.io/2016/04/cheap-docker-images-with-nix_15.html
 - Git
     - On the Matter of Beautiful git Diffs https://nathanleclaire.com/blog/2016/06/28/on-the-matter-of-beautiful-git-diffs/
 - Остальное
