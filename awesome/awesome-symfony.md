@@ -149,6 +149,7 @@
   - Making a Single-Page Application with HTMX and Symfony https://jolicode.com/blog/making-a-single-page-application-with-htmx-and-symfony
   - Symfony 7 CRUD Operations: A Step-by-Step https://medium.com/@addidagli/symfony-7-crud-operations-a-step-by-step-eebebf375620
 - Тестирование
+  - Тестирование https://symfony.ru/testing.html
   - 10 советов по тестированию в Symfony https://habr.com/ru/companies/vk/articles/508376/
   - Тестирование PHP проектов на примере Symfony https://habr.com/ru/articles/713454/
   - Test POST API endpoints in Symfony https://medium.com/@tacman1123/testing-post-api-endpoints-in-symfony-464575eaf841
