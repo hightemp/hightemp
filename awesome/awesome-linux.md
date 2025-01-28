@@ -98,6 +98,7 @@
     - Остальное
         - Systemd Watchdog for Any Service https://www.medo64.com/2019/01/systemd-watchdog-for-any-service/      
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
+        - systemd For Administrators, Part XXI https://0pointer.net/blog/systemd-for-administrators-part-xxi.html
 - Привилегии, Capabilities
     - Остальное
         - What's The Big Deal With Linux Capabilities? https://hackernoon.com/whats-the-big-deal-with-linux-capabilities
