@@ -89,6 +89,8 @@
         - Chapter 10. Managing Services with systemd https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system_administrators_guide/chap-managing_services_with_systemd#sect-Managing_Services_with_systemd-Introduction
     - healthcheck
         - Set up self-healing services with systemd https://www.redhat.com/en/blog/systemd-automate-recovery
+    - machinectl
+
     - Остальное
         - Systemd Watchdog for Any Service https://www.medo64.com/2019/01/systemd-watchdog-for-any-service/      
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
@@ -122,6 +124,7 @@
         - NixOS is a good server OS, except when it isn't https://sidhion.com/blog/posts/nixos_server_issues/
         - NixOS — установка и настройка https://vk.com/@linuxsovet-nixos-ustanovka-i-nastroika
         - Nginx https://nixos.wiki/wiki/Nginx
+        - Running NixOS from any Linux Distro in systemd-nspawn Containers https://nixcademy.com/posts/nixos-nspawn/
     - Остальное
         - Isolated Development Environment using Nix https://ariya.io/2016/06/isolated-development-environment-using-nix
         - A step towards the future of configuration and infrastructure management with Nix https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix
