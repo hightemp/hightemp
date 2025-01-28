@@ -64,6 +64,7 @@
     - AI Can Now Help Design Electronic Circuit https://www.tti.com/content/ttiinc/en/resources/marketeye/categories/new-technology/me-slovick-20240221.html?srsltid=AfmBOorUQ3RhzzYXfYtSLDtxwaXPIL6ati9rLJR6HdzNEE026IGFp_ij
     - Transforming PCB Design With Artificial Intelligence https://eepower.com/technical-articles/transforming-pcb-design-with-artificial-intelligence/#
 - ASIC
+    - ASIC'и на границе https://habr.com/ru/articles/860954/
     - Демистификация технологии ASIC: подробное руководство для начинающих https://fastercapital.com/ru/content/Демистификация-технологии-ASIC--подробное-руководство-для-начинающих.html
 - Подборки
     - AI Tools For Electronic Circuit Design, Which Is Best? https://cselectricalandelectronics.com/ai-tools-for-electronic-circuit-design-which-is-best/
