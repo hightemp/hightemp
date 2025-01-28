@@ -284,7 +284,7 @@
 - https://openrouter.ai/
 - https://deepinfra.com/
 
-### API llm
+### API llm Inference
 
 - https://kluster.ai
 
