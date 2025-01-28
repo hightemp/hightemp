@@ -144,6 +144,7 @@
 - https://dashboard.cohere.com/playground/chat
 - https://librechat-librechat.hf.space/c/new
 - https://www.ai21.com/
+- https://www.ninjachat.ai/
 - [https://chat.kuki.ai/](https://chat.kuki.ai/) (простой чат)
 - [https://chatdoc.com/](https://chatdoc.com/) (аналогично ChatPDF)
 - [https://chatgpt.com/auth/login?sso=&oaid=dm=1](https://chatgpt.com/auth/login?sso=&oaid=dm=1) (ChatGPT)
