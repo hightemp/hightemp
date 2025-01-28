@@ -121,6 +121,7 @@
         - Воспроизводимая среда разработки с Nix https://archercreat.github.io/build-environment-with-nix-shell/
         - NixOS is a good server OS, except when it isn't https://sidhion.com/blog/posts/nixos_server_issues/
         - NixOS — установка и настройка https://vk.com/@linuxsovet-nixos-ustanovka-i-nastroika
+        - Nginx https://nixos.wiki/wiki/Nginx
     - Остальное
         - Isolated Development Environment using Nix https://ariya.io/2016/06/isolated-development-environment-using-nix
         - A step towards the future of configuration and infrastructure management with Nix https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix
