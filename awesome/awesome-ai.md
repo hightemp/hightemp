@@ -308,6 +308,7 @@
 - https://www.cursor.com/
 - https://trypear.ai/
 - https://www.trae.ai
+- https://codellm.abacus.ai/
 - Расширение для vscode, jetbrains https://www.continue.dev/
 - Расширение для vscode https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
 
