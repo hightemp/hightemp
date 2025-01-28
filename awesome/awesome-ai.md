@@ -284,6 +284,10 @@
 - https://openrouter.ai/
 - https://deepinfra.com/
 
+### API llm
+
+- https://kluster.ai
+
 ### Приложения
 
 - https://chatboxai.app/en
