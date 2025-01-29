@@ -600,6 +600,7 @@
     - Efficient Continual Pre-training for Building Domain Specific Large Language Models https://arxiv.org/abs/2311.08545
     - Continual Pretraining: Unlocking the Full Potential of Large Language Models https://www.goml.io/continual-pretraining-unlocking-the-full-potential-of-large-language-models/
     - LLM domain adaptation using continued pre-training — Part 1/4 https://medium.com/@gilinachum/llm-domain-adaptation-using-continued-pre-training-part-1-3-e3d10fcfdae1
+    - LLM domain adaptation using continued pre-training — Part 2/4 https://medium.com/@aris.tsakpinis/llm-domain-adaptation-using-continued-pre-training-part-3-4-cbaa7a395bd8
     - What is Continuous Pretraining? https://docs.arcee.ai/continuous-pretraining/what-is-continuous-pretraining
 - Подборки
     - 50+ полезных ML и AI-сервисов для вебмастеров https://hostpro.ua/blog/50-useful-ai-services-for-webmasters/
