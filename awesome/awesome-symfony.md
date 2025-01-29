@@ -166,6 +166,7 @@
   - Symfony PHPUnit testing database data https://joeymasip.medium.com/symfony-phpunit-testing-database-data-322383ed0603
   - How to write Unit Tests in Symfony https://pguso.medium.com/how-to-write-unit-tests-in-symfony-0a3cf12bcfd2
   - Беги, PHPUnit, беги: как я оптимизировал время выполнения тестов https://habr.com/ru/articles/505736/
+  - Функциональные тесты на проекте: жизнь до и после (на примерах) https://habr.com/ru/companies/skyeng/articles/659559/
 - Plugin
   - Build a plugin system for your Symfony app https://davegebler.com/post/php/build-a-plugin-system-for-your-symfony-app
 - Docker
