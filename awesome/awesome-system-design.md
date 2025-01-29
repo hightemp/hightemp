@@ -47,6 +47,7 @@
 - https://learnsystemdesign.blogspot.com/
 - https://newsletter.systemdesignclassroom.com/
 - https://computersciencesimplified.substack.com/
+- https://newsletter.systemdesigncodex.com/
 
 ### Статьи
 
