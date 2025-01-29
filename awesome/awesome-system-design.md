@@ -45,6 +45,8 @@
 - https://systemdesignschool.io/blog
 - https://www.enjoyalgorithms.com/system-design/
 - https://learnsystemdesign.blogspot.com/
+- https://newsletter.systemdesignclassroom.com/
+- https://computersciencesimplified.substack.com/
 
 ### Статьи
 
