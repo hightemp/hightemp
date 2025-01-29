@@ -597,6 +597,7 @@
     - Кто такие LLM-агенты и что они умеют? https://habr.com/ru/companies/ods/articles/776478/
     - Заменяем хабраюзеров ИИ-агентами. Гайд по browser-use https://habr.com/ru/articles/875798/
 - continued pre-training
+    - Continual Pretraining: Unlocking the Full Potential of Large Language Models https://www.goml.io/continual-pretraining-unlocking-the-full-potential-of-large-language-models/
     - LLM domain adaptation using continued pre-training — Part 1/4 https://medium.com/@gilinachum/llm-domain-adaptation-using-continued-pre-training-part-1-3-e3d10fcfdae1
     - What is Continuous Pretraining? https://docs.arcee.ai/continuous-pretraining/what-is-continuous-pretraining
 - Подборки
