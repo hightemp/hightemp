@@ -117,6 +117,10 @@
 - Phanalist - это производительный статический анализатор для PHP кода с открытым исходным кодом, который помогает обнаруживать распространенные ошибки и написан на Rust. https://github.com/denzyldick/phanalist
 - Инструмент для автоматизации контроля над качеством архитектуры приложений написанных на PHP, а также упрощения анализа и визуализации некоторых метрик. https://github.com/Chetkov/php-clean-architecture
 
+### Расширения chrome
+
+- https://chromewebstore.google.com/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc
+
 ### Блоги
 
 - https://kevinsmith.io/
