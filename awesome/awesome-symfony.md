@@ -70,6 +70,7 @@
   - Логирование, Logging
     - Logging https://symfony.com/doc/current/logging.html
     - How to Log Messages to different Files https://symfony.com/doc/current/logging/channels_handlers.html
+    - Symfony + Filebeat + Elasticsearch https://habr.com/ru/companies/otus/articles/733436/
   - CLI
     - How to Define Commands as Services https://symfony.com/doc/current/console/commands_as_services.html
     - Правильная регистрация консольных команд Symfony в DI https://medium.com/phpyh/правильная-регистрация-консольных-команд-в-symfony-di-f7536c254926
