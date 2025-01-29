@@ -120,6 +120,8 @@
     - Distributed Systems Design: Tutorial & Best Practices https://www.multiplayer.app/distributed-systems-architecture/distributed-systems-design/
 - Интервью
     - A Senior Engineer's Guide to the System Design Interview https://interviewing.io/guides/system-design-interview
+- Примеры приложений
+    - Designing and building LeetCode - Part I https://computersciencesimplified.substack.com/p/designing-and-building-leetcode-part?utm_source=post-email-title&publication_id=2736755&post_id=154326574&utm_campaign=email-post-title&isFreemail=true&r=4xb1zj&triedRedirect=true&utm_medium=email    
 - Подборки
     - System Design Series' Articles https://dev.to/karanpratapsingh/series/19332
     - Проектирование систем https://www.linkedin.com/pulse/topics/engineering-s166/systems-design-s18540/
