@@ -68,6 +68,7 @@
     - Symfony Dependency Injection: Efficient Implementation and Best Practices https://binary-studio.com/blog/symfony-dependency-injection/
     - Finding a Real-World Use Case for Setter Injection in Symfony http://jayroman.com/blog/finding-a-real-world-use-case-for-setter-injection-in-symfony2
   - Логирование, Logging
+    - Logging https://symfony.com/doc/current/logging.html
     - How to Log Messages to different Files https://symfony.com/doc/current/logging/channels_handlers.html
   - CLI
     - How to Define Commands as Services https://symfony.com/doc/current/console/commands_as_services.html
