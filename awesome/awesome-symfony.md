@@ -169,6 +169,7 @@
   - Build a plugin system for your Symfony app https://davegebler.com/post/php/build-a-plugin-system-for-your-symfony-app
 - Docker
   - How to dockerize Symfony project ? https://medium.com/@meherbensalah4/how-to-dockerize-symfony-project-f06bcd735308
+  - Докеризируем Symfony https://habr.com/ru/companies/otus/articles/715672/
 - Best practices
   - The Symfony Framework Best Practices https://symfony.com/doc/current/best_practices.html
 - Мониторинг
