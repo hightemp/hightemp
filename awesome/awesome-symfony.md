@@ -183,6 +183,7 @@
   - Handle asynchronous tasks in Symfony with Messenger https://aicha-fatrah.medium.com/handle-asynchronous-tasks-in-symfony-with-messenger-bbaf6ed36dbf
   - Messaging in Symfony https://franciscogiraldo.com/blog/async-messsaging-symfony/
 - Оптимизации
+  - Performance https://symfony.com/doc/current/performance.html
   - Battle log: a deep dive in Symfony stack in search of optimizations 2/n https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n
   - 5 Ways to Optimize Symfony Application Performance https://dev.to/inspector/5-ways-to-optimize-symfony-application-performance-5ap8
 - Остальное
