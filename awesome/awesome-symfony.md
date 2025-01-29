@@ -20,6 +20,7 @@
 - Paratest — это инструмент для параллельного выполнения тестов в PHP. Он создан для ускорения процесса тестирования, особенно в больших проектах с большим количеством тестов. Paratest позволяет запускать тесты одновременно в нескольких процессах, что сокращает общее время выполнения тестов. https://github.com/paratestphp/paratest
 - Fastest - это инструмент для параллельного запуска тестов в PHP, похожий на Paratest, но с некоторыми отличиями в архитектуре и подходах. Он разработан с целью обеспечить еще более быстрое и эффективное выполнение тестов, особенно в условиях больших наборов тестов и ограниченных ресурсов. https://github.com/liuggio/fastest
 - Docker
+  - PHP Symfony Environment - это готовое Docker-окружение для разработки приложений на Symfony 7, включающее предварительно настроенный стек технологий (Apache 2.4, PHP 8.3, MySQL 8, RabbitMQ 3) с поддержкой отладки электронной почты через Mailpit, предназначенное для быстрого развертывания проектов в унифицированной среде разработки. https://github.com/systemsdk/docker-apache-php-symfony
   - Minimal clean Docker configuration with PHP 8.1+, NGINX 1.20+, PostgreSQL 14.2+ and Symfony 6.0 for development. https://github.com/volkar/docker-symfony-nginx-php-postgres
 
 ### Полезные ссылки
