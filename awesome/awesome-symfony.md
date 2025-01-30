@@ -161,6 +161,8 @@
   - Основное
     - Тестирование https://symfony.ru/testing.html
   - Сodeception
+  - Юнит тесты
+    - PHPUnit. Мокаем Doctrine Entity Manager https://habr.com/ru/articles/452244/
   - Функциональные тесты
     - Функциональные тесты на проекте: жизнь до и после (на примерах) https://habr.com/ru/companies/skyeng/articles/659559/
   - Остальное
