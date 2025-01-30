@@ -753,6 +753,8 @@
   - Структура проекта(папки)
     - Organize Like a Pro: A Simple Guide to Go Project Folder Structures https://medium.com/@smart_byte_labs/organize-like-a-pro-a-simple-guide-to-go-project-folder-structures-e85e9c1769c2
     - The one-and-only, must-have, eternal Go project layout https://appliedgo.com/blog/go-project-layout
+    - Finding The Best Go Project Structure – Part 1 https://www.humansecurity.com/tech-engineering-blog/finding-the-best-go-project-structure-part-1/
+    - Finding the Best Go Project Structure – Part 2 https://www.humansecurity.com/tech-engineering-blog/finding-the-best-go-project-structure-part-2/
   - Остальное    
   - 🏗️ Паттерны
     - Concurrency Patterns
