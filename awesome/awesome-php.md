@@ -244,6 +244,7 @@
   - Codeception
     - Тестирование с Сodeception для чайников: 3 вида тестов https://habr.com/ru/articles/329418/
     - Codeception for Yii Framework https://codeception.com/for/yii#Manual-Setup--Configuration
+    - Автоматизация с Codeception + Gherkin + PageObject для самых маленьких https://habr.com/ru/articles/427031/
 - Подборки
   - The Best PHP Blogs https://draft.dev/learn/php-blogs
   - https://weeklyphp.substack.com/p/how-to-implement-a-ddd-use-case-in?utm_source=%2Fsearch%2Fphp&utm_medium=reader2
