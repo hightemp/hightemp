@@ -463,6 +463,8 @@
   - Structured Logging In Go Using Standard Library - Slog https://programmingpercy.tech/blog/structured-logging-in-go-using-std-lib-slog/
 - Валидация данных
   - Using Go Validator for Efficient Data Validation in Go Applications https://www.codingexplorations.com/blog/using-go-validator-for-efficient-data-validation-in-go-applications
+- Queue
+  - JOB QUEUES IN GO https://www.opsdash.com/blog/job-queues-in-go.html
 - Оптимизация
   - SIMD
     - Go Plan9 Memo, Speeding Up Calculations 450%; В статье описывается разработка SIMD-пакета для языка Go с использованием ассемблера Plan9, что позволило ускорить вычисления на 450% за счет параллельной обработки данных на аппаратном уровне. https://pehringer.info/go_plan9_memo.html
