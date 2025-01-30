@@ -246,6 +246,9 @@
 - Подборки
   - The Best PHP Blogs https://draft.dev/learn/php-blogs
   - https://weeklyphp.substack.com/p/how-to-implement-a-ddd-use-case-in?utm_source=%2Fsearch%2Fphp&utm_medium=reader2
+- Поиск
+  - Solr
+    - Интеграция Solr с PHP https://blog.csdn.net/wizardforcel/article/details/140629198
 - CI/CD
   - PHP and Continuous Integration with Travis CI https://www.sitepoint.com/php-continuous-integration-travis-ci/
 - Rector PHP
