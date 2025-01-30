@@ -1125,6 +1125,7 @@
 - https://gosamples.dev/
 - https://vporoshok.me/tags/go/
 - https://golang-blog.blogspot.com/
+- https://appliedgo.com/blog
 
 ### Подкасты
 
