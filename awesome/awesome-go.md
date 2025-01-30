@@ -726,6 +726,8 @@
     - Event Sourcing in Go https://victoramartinez.com/posts/event-sourcing-in-go/
   - CQRS (использование разных моделей для чтения и записи)
     - How to use basic CQRS in Go https://threedots.tech/post/basic-cqrs-in-go/
+  - Lambda
+    - Go: AWS Lambda Project Structure Using Golang https://medium.com/dm03514-tech-blog/go-aws-lambda-project-structure-using-golang-98b6c0a5339d
   - Чистая архитектура
     - Patterns for Scalable Web Development: Implementing Clean Architecture in Web Dev https://blog.jealous.dev/patterns-for-scalable-web-development-implementing-clean-architecture-in-web-dev
     - Inside The Inner Hexagon: Component Tests https://www.shaiyallin.com/post/inside-the-inner-hexagon-component-tests
