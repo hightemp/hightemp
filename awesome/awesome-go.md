@@ -464,12 +464,16 @@
 - Валидация данных
   - Using Go Validator for Efficient Data Validation in Go Applications https://www.codingexplorations.com/blog/using-go-validator-for-efficient-data-validation-in-go-applications
 - Queue, Очереди
-  - Developing an Embedded Job Queue With Golang - Part 1 https://lakesite.net/blog/developing-an-embedded-job-queue-with-golang-part-1/
-  - Developing an Embedded Job Queue With Golang - Part 2 https://lakesite.net/blog/developing-an-embedded-job-queue-with-golang-part-2/
-  - JOB QUEUES IN GO https://www.opsdash.com/blog/job-queues-in-go.html
-  - Queue Data Structure in Golang https://tobin.cc/blog/queue/
-  - Implementing Priority Queues in Go https://reintech.io/blog/implementing-priority-queues-in-go#google_vignette
-  - Queueing with PostgreSQL and Go https://robinverton.de/blog/queueing-with-postgresql-and-go/
+  - RabbitMQ
+    - Using RabbitMQ Streams In Go https://programmingpercy.tech/blog/using-rabbitmq-streams-in-go/
+  - Job Queue
+    - Developing an Embedded Job Queue With Golang - Part 1 https://lakesite.net/blog/developing-an-embedded-job-queue-with-golang-part-1/
+    - Developing an Embedded Job Queue With Golang - Part 2 https://lakesite.net/blog/developing-an-embedded-job-queue-with-golang-part-2/
+    - JOB QUEUES IN GO https://www.opsdash.com/blog/job-queues-in-go.html
+  - Остальное
+    - Queue Data Structure in Golang https://tobin.cc/blog/queue/
+    - Implementing Priority Queues in Go https://reintech.io/blog/implementing-priority-queues-in-go#google_vignette
+    - Queueing with PostgreSQL and Go https://robinverton.de/blog/queueing-with-postgresql-and-go/
 - Оптимизация
   - SIMD
     - Go Plan9 Memo, Speeding Up Calculations 450%; В статье описывается разработка SIMD-пакета для языка Go с использованием ассемблера Plan9, что позволило ускорить вычисления на 450% за счет параллельной обработки данных на аппаратном уровне. https://pehringer.info/go_plan9_memo.html
