@@ -328,6 +328,7 @@
 
 - Секреты CSS. Идеальные решения ежедневных задач. Автор: Леа Веру
    - https://vk.com/wall-54530371_129197
+- Growing Object-Oriented Software Guided by Tests http://www.growing-object-oriented-software.com/
 
 ### Статьи
 
