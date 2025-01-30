@@ -756,6 +756,7 @@
     - Finding The Best Go Project Structure – Part 1 https://www.humansecurity.com/tech-engineering-blog/finding-the-best-go-project-structure-part-1/
     - Finding the Best Go Project Structure – Part 2 https://www.humansecurity.com/tech-engineering-blog/finding-the-best-go-project-structure-part-2/
     - Go project structure https://qqq.ninja/blog/post/go-structure/
+    - Structuring Go Code for CLI Applications https://www.bytesizego.com/blog/structure-go-cli-app
   - Остальное    
   - 🏗️ Паттерны
     - Concurrency Patterns
