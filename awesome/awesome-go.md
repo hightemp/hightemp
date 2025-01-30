@@ -465,6 +465,7 @@
   - Using Go Validator for Efficient Data Validation in Go Applications https://www.codingexplorations.com/blog/using-go-validator-for-efficient-data-validation-in-go-applications
 - Queue, Очереди
   - Developing an Embedded Job Queue With Golang - Part 1 https://lakesite.net/blog/developing-an-embedded-job-queue-with-golang-part-1/
+  - Developing an Embedded Job Queue With Golang - Part 2 https://lakesite.net/blog/developing-an-embedded-job-queue-with-golang-part-2/
   - JOB QUEUES IN GO https://www.opsdash.com/blog/job-queues-in-go.html
   - Queue Data Structure in Golang https://tobin.cc/blog/queue/
   - Implementing Priority Queues in Go https://reintech.io/blog/implementing-priority-queues-in-go#google_vignette
