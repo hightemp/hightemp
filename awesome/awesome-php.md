@@ -242,6 +242,7 @@
     - Mocking APIs in Laravel Tests With Wiremock https://laravel-news.com/mocking-apis-in-laravel-tests-with-wiremock
   - Codeception
     - Тестирование с Сodeception для чайников: 3 вида тестов https://habr.com/ru/articles/329418/
+    - Codeception for Yii Framework https://codeception.com/for/yii#Manual-Setup--Configuration
 - Подборки
   - The Best PHP Blogs https://draft.dev/learn/php-blogs
   - https://weeklyphp.substack.com/p/how-to-implement-a-ddd-use-case-in?utm_source=%2Fsearch%2Fphp&utm_medium=reader2
