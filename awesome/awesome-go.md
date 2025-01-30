@@ -752,6 +752,7 @@
     - Hexagonal Architecture: Structuring a project and the influence of granularity https://medium.com/@TonyBologni/hexagonal-architecture-structuring-a-project-and-the-influence-of-granularity-df4e0851ab5c
   - Структура проекта(папки)
     - Organize Like a Pro: A Simple Guide to Go Project Folder Structures https://medium.com/@smart_byte_labs/organize-like-a-pro-a-simple-guide-to-go-project-folder-structures-e85e9c1769c2
+    - Catching Up With Kat Zien on the Structure of Go Apps in 2023 https://blog.jetbrains.com/go/2023/04/11/catching-up-with-kat-zien-on-the-structure-of-go-apps-in-2023/
     - The one-and-only, must-have, eternal Go project layout https://appliedgo.com/blog/go-project-layout
     - Finding The Best Go Project Structure – Part 1 https://www.humansecurity.com/tech-engineering-blog/finding-the-best-go-project-structure-part-1/
     - Finding the Best Go Project Structure – Part 2 https://www.humansecurity.com/tech-engineering-blog/finding-the-best-go-project-structure-part-2/
