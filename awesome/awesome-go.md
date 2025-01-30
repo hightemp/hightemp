@@ -750,8 +750,10 @@
     - Go, RabbitMQ and gRPC Clean Architecture microservice https://dev.to/aleksk1ng/go-rabbitmq-and-grpc-clean-architecture-microservice-2kdn
     - Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om
     - Hexagonal Architecture: Structuring a project and the influence of granularity https://medium.com/@TonyBologni/hexagonal-architecture-structuring-a-project-and-the-influence-of-granularity-df4e0851ab5c
-  - Остальное
+  - Структура проекта
     - Organize Like a Pro: A Simple Guide to Go Project Folder Structures https://medium.com/@smart_byte_labs/organize-like-a-pro-a-simple-guide-to-go-project-folder-structures-e85e9c1769c2
+    - The one-and-only, must-have, eternal Go project layout https://appliedgo.com/blog/go-project-layout
+  - Остальное    
   - 🏗️ Паттерны
     - Concurrency Patterns
       - Worker Pool Pattern
