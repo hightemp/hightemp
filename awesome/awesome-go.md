@@ -750,6 +750,7 @@
     - Go, RabbitMQ and gRPC Clean Architecture microservice https://dev.to/aleksk1ng/go-rabbitmq-and-grpc-clean-architecture-microservice-2kdn
     - Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om
     - Hexagonal Architecture: Structuring a project and the influence of granularity https://medium.com/@TonyBologni/hexagonal-architecture-structuring-a-project-and-the-influence-of-granularity-df4e0851ab5c
+    - [Hands-on Guide] How to Implement Clean Architecture in Golang? https://reliasoftware.com/blog/clean-architecture-golang
   - Структура проекта(папки)
     - Organize Like a Pro: A Simple Guide to Go Project Folder Structures https://medium.com/@smart_byte_labs/organize-like-a-pro-a-simple-guide-to-go-project-folder-structures-e85e9c1769c2
     - Catching Up With Kat Zien on the Structure of Go Apps in 2023 https://blog.jetbrains.com/go/2023/04/11/catching-up-with-kat-zien-on-the-structure-of-go-apps-in-2023/
