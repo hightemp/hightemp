@@ -161,6 +161,7 @@
   - Основное
     - Тестирование https://symfony.ru/testing.html
   - Сodeception
+    - Тесты на Codeception для PHP-бэкендов https://habr.com/ru/companies/lamoda/articles/452136/
   - Юнит тесты
     - PHPUnit. Мокаем Doctrine Entity Manager https://habr.com/ru/articles/452244/
     - Не мокайте то, чем вы не владеете https://habr.com/ru/articles/554318/
