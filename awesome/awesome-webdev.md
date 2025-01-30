@@ -394,6 +394,7 @@
    - Cross-Origin Resource Sharing (CORS), Same Origin Policy (SOP) and Why We Need Preflight Requests ? https://medium.com/@ravikumarray92/cross-origin-resource-sharing-cors-same-origin-policy-sop-and-why-we-need-preflight-requests-aa66c5872af1
    - What is CORS and how to bypass it? https://requestly.com/blog/what-is-cors-and-how-to-bypass-it/
 - NATS
+   - RabbitMQ (AMQP mostly) and NATS /NATS Streaming comparison https://adam-kotwasinski.medium.com/rabbitmq-amqp-mostly-and-nats-nats-streaming-comparison-1f97753f1312
 - BinStomp
 - Тайм-менеджмент
    - Timeless principles of Time Management https://makemeacto.substack.com/p/timeless-principles-of-time-management
