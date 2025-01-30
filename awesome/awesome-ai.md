@@ -111,6 +111,8 @@
 
 ### Чаты с ботами
 
+- https://chat.deepseek.com
+- https://kimi.ai/
 - https://chat.sonus.ai
 - https://chat.mistral.ai/
 - https://chat.qwenlm.ai
@@ -138,7 +140,6 @@
 - https://chat.reka.ai/chat
 - https://www.nvidia.com/en-us/ai/
 - https://fireworks.ai/
-- https://chat.deepseek.com
 - https://glhf.chat/
 - https://deepinfra.com/
 - https://dashboard.cohere.com/playground/chat
@@ -147,7 +148,7 @@
 - https://www.ninjachat.ai/
 - [https://chat.kuki.ai/](https://chat.kuki.ai/) (простой чат)
 - [https://chatdoc.com/](https://chatdoc.com/) (аналогично ChatPDF)
-- [https://chatgpt.com/auth/login?sso=&oaid=dm=1](https://chatgpt.com/auth/login?sso=&oaid=dm=1) (ChatGPT)
+- [https://chatgpt.com](https://chatgpt.com) (ChatGPT)
 - [https://you.com/](https://you.com/) (может использоваться без входа)
 - [https://www.chatpdf.com/](https://www.chatpdf.com/) (чат с PDF-документами)
 - [https://chatspot.ai/](https://chatspot.ai/) (на основе языковой модели GPT-3)
