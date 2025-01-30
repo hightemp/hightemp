@@ -463,7 +463,7 @@
   - Structured Logging In Go Using Standard Library - Slog https://programmingpercy.tech/blog/structured-logging-in-go-using-std-lib-slog/
 - Валидация данных
   - Using Go Validator for Efficient Data Validation in Go Applications https://www.codingexplorations.com/blog/using-go-validator-for-efficient-data-validation-in-go-applications
-- Queue
+- Queue, Очереди
   - JOB QUEUES IN GO https://www.opsdash.com/blog/job-queues-in-go.html
 - Оптимизация
   - SIMD
