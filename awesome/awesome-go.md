@@ -764,6 +764,7 @@
     - Structuring Go Code for CLI Applications https://www.bytesizego.com/blog/structure-go-cli-app
     - How to Structure a Golang Project https://blog.boot.dev/golang/golang-project-structure/
     - Golang Project Structure https://medium.com/devbulls/golang-project-structure-9737013787b7
+    - Golang: Project Structure https://bytegoblin.io/blog/golang-project-structure
   - Остальное    
   - 🏗️ Паттерны
     - Concurrency Patterns
