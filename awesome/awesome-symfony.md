@@ -161,7 +161,6 @@
   - Основное
     - Тестирование https://symfony.ru/testing.html
   - Сodeception
-    - Тестирование с Сodeception для чайников: 3 вида тестов https://habr.com/ru/articles/329418/
   - Функциональные тесты
     - Функциональные тесты на проекте: жизнь до и после (на примерах) https://habr.com/ru/companies/skyeng/articles/659559/
   - Остальное
