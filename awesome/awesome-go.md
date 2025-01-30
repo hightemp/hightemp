@@ -850,6 +850,8 @@
     - Go sync.Pool and the Mechanics Behind It https://victoriametrics.com/blog/go-sync-pool/index.html
   - Остальное
     - Go sync.Cond, the Most Overlooked Sync Mechanism https://victoriametrics.com/blog/go-sync-cond/index.html
+- Распределенные системы
+  - Реализация Paxos на Go: создаем алгоритм консенсуса без готовых решений https://habr.com/ru/companies/otus/articles/869122/
 - Параметры структур
   - The Go *Options pattern https://nuculabs.dev/p/the-go-options-pattern
 - Кэширование, cache
