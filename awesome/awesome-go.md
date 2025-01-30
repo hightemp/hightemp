@@ -467,6 +467,7 @@
   - JOB QUEUES IN GO https://www.opsdash.com/blog/job-queues-in-go.html
   - Queue Data Structure in Golang https://tobin.cc/blog/queue/
   - Implementing Priority Queues in Go https://reintech.io/blog/implementing-priority-queues-in-go#google_vignette
+  - Queueing with PostgreSQL and Go https://robinverton.de/blog/queueing-with-postgresql-and-go/
 - Оптимизация
   - SIMD
     - Go Plan9 Memo, Speeding Up Calculations 450%; В статье описывается разработка SIMD-пакета для языка Go с использованием ассемблера Plan9, что позволило ускорить вычисления на 450% за счет параллельной обработки данных на аппаратном уровне. https://pehringer.info/go_plan9_memo.html
