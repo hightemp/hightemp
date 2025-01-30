@@ -471,6 +471,7 @@
     - Developing an Embedded Job Queue With Golang - Part 2 https://lakesite.net/blog/developing-an-embedded-job-queue-with-golang-part-2/
     - JOB QUEUES IN GO https://www.opsdash.com/blog/job-queues-in-go.html
   - Остальное
+    - Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go https://www.uber.com/en-NL/blog/cherami-message-queue-system/
     - Queue Data Structure in Golang https://tobin.cc/blog/queue/
     - Implementing Priority Queues in Go https://reintech.io/blog/implementing-priority-queues-in-go#google_vignette
     - Queueing with PostgreSQL and Go https://robinverton.de/blog/queueing-with-postgresql-and-go/
