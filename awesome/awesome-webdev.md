@@ -277,6 +277,9 @@
 - chrome
    - Web Clipper is an open source extension.You can save anything on the web to anywhere.And you can easily to add any platform. https://chromewebstore.google.com/detail/web-clipper/mhfbofiokmppgdliakminbgdgcmbhbac
 
+### Тестирование
+
+- WireMock — это открытое программное обеспечение для создания и тестирования mock API, которое позволяет симулировать HTTP-взаимодействия через гибкую систему матчинга запросов, динамическую генерацию ответов с помощью шаблонизатора Handlebars, поддерживает различные способы конфигурации (код, REST API, JSON-файлы, запись HTTP-трафика) и может работать как в виде библиотеки для разных языков программирования, так и в качестве отдельного сервера. https://github.com/wiremock/wiremock
 
 ### Registry
 
