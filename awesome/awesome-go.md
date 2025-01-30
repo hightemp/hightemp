@@ -724,6 +724,7 @@
     - Introduction to DDD Lite: When microservices in Go are not enough https://threedots.tech/post/ddd-lite-in-go-introduction/
     - Implementing Domain Patterns with Hexagonal Architecture in Go https://medium.com/@jmanuelabanto/implementing-domain-patterns-with-hexagonal-architecture-in-go-5aac29fde7e1
     - Event Sourcing in Go https://victoramartinez.com/posts/event-sourcing-in-go/
+    - CREATING A PROJECT TEMPLATE? GO WITH DOMAIN-DRIVEN DESIGN https://www.strv.com/blog/creating-a-project-template-go-with-domain-driven-design
   - CQRS (использование разных моделей для чтения и записи)
     - How to use basic CQRS in Go https://threedots.tech/post/basic-cqrs-in-go/
   - Lambda
