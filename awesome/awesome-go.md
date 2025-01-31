@@ -429,6 +429,8 @@
     - Инструменты, которые помогут улучшить ваш код https://kovardin.ru/articles/go/tools/
     - An Overview of Go's Tooling https://www.alexedwards.net/blog/an-overview-of-go-tooling
     - go tool trace http://web.archive.org/web/20180701005226/https://making.pusher.com/go-tool-trace/
+  - Debugger
+    - go delve - The Golang Debugger https://earthly.dev/blog/golang-dlv/
   - Bechmarking
     - How to write benchmarks in Go https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go
     - Бенчмарки в Go https://habr.com/ru/articles/268585/
