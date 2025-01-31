@@ -166,6 +166,7 @@
     - Создание REST API в Symfony https://it.vstu.by/courses/information_systems/development_of_web_applications/theory/rest_api_in_symfony/
 - Формы
   - Продвинутые методы работы с формами веб-приложений на PHP с Symfony: валидация данных, CSRF защита https://ifellow.ru/media-center/prodvinutye-metody-raboty-s-formami-veb-prilozheniy-na-php-s-symfony-validatsiya-dannykh-csrf-zashch/
+  - Use Bootstrap 3 and 4 form themes in the same Symfony project https://backbeat.tech/blog/bootstrap-3-and-4-forms-in-the-same-symfony-project
 - Пример приложения
   - Build your own OAuth2 Server with PHP and Symfony https://davegebler.com/post/coding/build-oauth2-server-php-symfony
   - Making a Single-Page Application with HTMX and Symfony https://jolicode.com/blog/making-a-single-page-application-with-htmx-and-symfony
