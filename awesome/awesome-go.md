@@ -837,6 +837,7 @@
 - PDF
   - How To Create a PDF in Go: a Step-by-Step Tutorial https://medium.com/the-godev-corner/how-to-create-a-pdf-in-go-157355429a94
   - Go long by generating PDFs in Golang with Maroto https://dev.to/logrocket/go-long-by-generating-pdfs-in-golang-with-maroto-1g25
+  - Генерация PDF-файлов на Go https://habr.com/ru/articles/871392/
 - Компилятор
   - Statically and Dynamically Linked Go Binaries https://itnext.io/statically-and-dynamically-linked-go-binaries-5a3c0313b3a4
   - Building static binaries with Go on Linux https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/
