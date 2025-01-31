@@ -576,6 +576,12 @@
 ### Блоги
 
 - https://jalammar.github.io/
+- https://substack.com/topics/ai
+- https://www.oneusefulthing.org/
+- https://magazine.sebastianraschka.com/
+- https://datagalore.substack.com/
+- https://aihorizonx.substack.com/
+- https://kiinai.substack.com/
 
 ### Статьи
 
