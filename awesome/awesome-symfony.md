@@ -99,6 +99,8 @@
       - Multi database doctrine-symfony based project https://carlos-compains.medium.com/multi-database-doctrine-symfony-based-project-0c1e175b64bf
     - Репликация
       - How to set up DB read replicas on Symfony 6 using Doctrine https://medium.com/@dominykasmurauskas1/how-to-add-read-write-replicas-on-symfony-6-using-doctrine-bundle-a46447449f35
+    - Errors
+      - A guide to custom error handling in Symfony https://inviqa.com/blog/guide-custom-error-handling-symfony
     - Остальное
       - Automatic values for created_at, updated_at in Doctrine — Symfony 6 https://medium.com/@andrii.sukhoi/automatic-values-for-created-at-updated-at-in-doctrine-symfony-6-fb625f17478
       - Hybrid databases with Symfony and Doctrine SQL versus NoSQL https://davegebler.com/post/php/hybrid-databases-with-symfony-and-doctrine
