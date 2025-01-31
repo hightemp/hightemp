@@ -1162,6 +1162,7 @@
 - https://golang-blog.blogspot.com/
 - https://appliedgo.com/blog
 - https://lakesite.net/blog/
+- https://earthly.dev/blog/categories/golang/
 
 ### Подкасты
 
