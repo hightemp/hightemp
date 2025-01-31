@@ -614,6 +614,33 @@
 - https://t.me/neurogen_news
 - https://t.me/NeuralShit
 - https://t.me/prompt_design
+- https://t.me/addmeto
+- https://t.me/adel_and_ml
+- https://t.me/repushko_channel
+- https://t.me/not_boring_ds
+- https://t.me/mishin_learning
+- https://t.me/neurohive
+- https://t.me/deeplearning_ru
+- https://t.me/neuro2learn
+- https://t.me/notboring_tech
+- https://t.me/neural
+- https://t.me/artificial_stupid
+- https://t.me/strangedalle
+- https://t.me/dlinnlp
+- https://t.me/datasas
+- https://t.me/rybolos_channel
+- https://t.me/abstractDL
+- https://t.me/monkeyinlaw
+- https://t.me/bminaiev_blog
+- https://t.me/karavai_blog
+- https://t.me/Psy_Eyes
+- https://t.me/AiExp01
+- https://t.me/def_model_train
+- https://t.me/ainastia
+- https://t.me/aihappens
+- https://t.me/karim_iskakov
+- https://t.me/deeplearnme
+- https://t.me/gradientdude
 
 ### Блоги
 
