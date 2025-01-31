@@ -346,8 +346,9 @@
       - Inversion of Control Containers and the Dependency Injection pattern https://www.martinfowler.com/articles/injection.html
 - Снифферы
    - Снифферы трафика в мобильном тестировании: Обзор инструментов и их особенности https://habr.com/ru/articles/840084/
-- Безопасность
+- Безопасность, Security
    - How to Secure Your New VPS: A Step-by-Step Guide https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide?utm_campaign=post&utm_medium=web
+   - Passwords Evolved: Authentication Guidance for the Modern Era https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/
 - Балансировщики
    - Введение в современную сетевую балансировку и проксирование https://habr.com/ru/companies/vk/articles/347026/
    - The power of two random choices https://brooker.co.za/blog/2012/01/17/two-random.html
