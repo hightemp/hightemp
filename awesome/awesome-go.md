@@ -804,6 +804,9 @@
         - Patterns for Effective Concurrency in Go https://withcodeexample.com/patterns-for-effective-concurrency/
         - 5 паттернов параллельного программирования в GO, которые сделают ваш следующий проект лучше https://habr.com/ru/companies/otus/articles/722880/
         - Паттерны многопоточности в Go https://habr.com/ru/articles/852556/
+    - Circuit breaker
+      - Writing a circuit breaker in Go https://rednafi.com/go/circuit_breaker/
+      - Can you explain the Circuit Breaker pattern and how you would implement it in a Go service that makes external API calls? Why is this pattern useful in a distributed system? https://medium.com/@ltcong1411/can-you-explain-the-circuit-breaker-pattern-and-how-you-would-implement-it-in-a-go-service-that-248bb7b04960
     - SOLID
       - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/ 
     - Остальное
@@ -817,8 +820,6 @@
       - Паттерн Наблюдатель в Golang на котиках https://habr.com/ru/companies/otus/articles/857330/
       - Design Patterns in Golang: The Good, the Bad and the Ugly https://blog.ralch.com/articles/design-patterns/golang-design-patterns/
       - Abstract Factory Design Pattern in Go: A Comprehensive Guide https://softwarepatternslexicon.com/patterns-go/2/1/1/
-      - Writing a circuit breaker in Go https://rednafi.com/go/circuit_breaker/
-      - Can you explain the Circuit Breaker pattern and how you would implement it in a Go service that makes external API calls? Why is this pattern useful in a distributed system? https://medium.com/@ltcong1411/can-you-explain-the-circuit-breaker-pattern-and-how-you-would-implement-it-in-a-go-service-that-248bb7b04960
       - Sidecar на Go: позволь другому заниматься твоими проблемами https://habr.com/ru/companies/otus/articles/852642/
       - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
       - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
