@@ -393,6 +393,7 @@
     - Mastering Golang — Part 8: Error Handling https://blog.stackademic.com/mastering-golang-part-8-error-handling-4012a62ad0cb
     - Advanced error handling strategies in Go https://medium.com/@guilhermemls/advanced-error-handling-strategies-in-go-12ef4ee621d7
     - Errors, Errors Everywhere: How We Centralized and Structured Error Handling https://olivernguyen.io/w/namespace.error/
+    - ErrorHandling-патерн в golang https://habr.com/ru/articles/871394/
   - Дженерики; Generics
     - Go Generics cheatsheet https://gosamples.dev/generics-cheatsheet/
     - Mastering Generics In Go: A Comprehensive Tutorial https://www.kelche.co/blog/go/golang-generics/
