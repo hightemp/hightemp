@@ -444,6 +444,7 @@
 - Image Translator (https://chromewebstore.google.com/detail/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/pbhpcbdjngblklnibanbkgkogjmbjeoe?pli=1) - перевод изображений на 30 языков с помощью ИИ.
 - TransAgents — виртуальная мультиагентная переводческая компания, работающая на базе ИИ! https://github.com/minghao-wu/transagents
 - приложение, которое умеет распознавать и переводить речь в реальном времени. Причем все это происходит прямо в вашем браузере! https://supabase-community.github.io/babelfish.ai/
+- https://doctransgpt.com/
 
 ### Тренеры
 
