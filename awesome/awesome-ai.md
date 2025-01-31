@@ -582,6 +582,12 @@
 - https://datagalore.substack.com/
 - https://aihorizonx.substack.com/
 - https://kiinai.substack.com/
+- https://www.aisnakeoil.com/
+- https://www.thealgorithmicbridge.com/
+- https://thegradientpub.substack.com/
+- https://semianalysis.com/
+- https://whatdidopenaidothisweek.substack.com/
+- https://flicklabs.substack.com/
 
 ### Статьи
 
