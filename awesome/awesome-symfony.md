@@ -83,6 +83,7 @@
   - Events
     - Built-in Symfony Events https://symfony.com/doc/current/reference/events.html
     - How to use events listeners in Symfony https://blowstack.com/blog/how-to-use-events-listeners-in-symfony
+    - How to Create Custom Events With Symfony5 https://q.agency/blog/custom-events-with-symfony5/
   - БД
     - Doctrine
       - Основное
