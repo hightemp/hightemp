@@ -241,6 +241,7 @@
 - Scripting Course. Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim. https://learnbyexample.github.io/scripting_course/
 - Windframe - это инструмент для кастомизации дизайна веб-компонентов из библиотек Tailwind UI и CSS с возможностью визуального редактирования стилей, цветов и макетов перед интеграцией обновлённых компонентов в проект на React или Vue. https://windframe.dev/
 - https://enable-cors.org/
+- Have I Been Pwned (HIBP) — популярный онлайн-сервис для проверки безопасности учетных данных, который позволяет пользователям узнать, были ли их email-адреса и пароли скомпрометированы в результате известных утечек данных, предлагая API для интеграции, уведомления о новых утечках и базу из более чем 11 миллиардов скомпрометированных аккаунтов. https://haveibeenpwned.com/
 
 ### Репозитории
 
