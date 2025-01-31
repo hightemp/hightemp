@@ -63,6 +63,7 @@
     - Exploring Symfony’s Powerful Routing System https://clouddevs.com/symfony/routing-system/
     - Set Up Routing in PHP Applications Using the Symfony Routing Component https://code.tutsplus.com/set-up-routing-in-php-applications-using-the-symfony-routing-component--cms-31231t
     - Routing https://symfony-docs-zh-cn.readthedocs.io/book/routing.html
+    - Symfony routing tricks (part 1) https://backbeat.tech/blog/symfony-routing-tricks-part-1
   - Service container
     - Diving into Symfony’s DependencyInjection — Part 1: First steps with the container https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first-steps-with-the-container-2fad0593c052
     - Experiment: How I replaced Symfony DI with Laravel Container in ECS https://tomasvotruba.com/blog/experiment-how-i-replaced-symfony-di-with-laravel-container-in-ecs
