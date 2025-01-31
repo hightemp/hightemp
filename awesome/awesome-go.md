@@ -576,6 +576,7 @@
     - gRPC From Scratch: Part 1 - Client https://kmcd.dev/posts/grpc-from-scratch/
     - gRPC From Scratch: Part 2 - Server https://kmcd.dev/posts/grpc-from-scratch-part-2/
     - gRPC From Scratch: Part 3 - Protobuf Encoding https://kmcd.dev/posts/grpc-from-scratch-part-3/
+    - gRPC Gateway https://earthly.dev/blog/golang-grpc-gateway/
   - DNS
     - Building a DNS Resolver in Golang: A Step-by-Step Guide https://harshagarwal29.hashnode.dev/building-a-dns-resolver-in-golang-a-step-by-step-guide
   - WebSockets
