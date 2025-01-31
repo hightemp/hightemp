@@ -116,31 +116,31 @@
   - Остальное
     - Быстро узнать расход памяти команд Symfony https://pankov-roman.medium.com/быстро-узнать-расход-памяти-команд-symfony-4125d8efc09f
 - Безопасность
-  - Symfony Security
-    - Обзор
-      - Безопасность https://symfony.ru/security.html
-      - Symfony: инструмент написания безопасных веб-приложений https://www.securitylab.ru/analytics/480607.php?el_id=480607&VOTE_ID=103&view_result=Y&bxajaxid=1ce8886146eca13ff60ad3b7f5601a0d&utm_referrer=https%3A%2F%2Fwww.perplexity.ai%2F
-      - Understanding Symfony Security by Using it Standalone https://wouterj.nl/2019/03/understanding-symfony-security-by-using-it-standalone
-      - Symfony Cheat Sheet https://cheatsheetseries.owasp.org/cheatsheets/Symfony_Cheat_Sheet.html
-    - Authorization, Authentication, Аутентификация и авторизация
-      - Implementing Authorization in Symfony: A Developer’s Guide https://www.slingacademy.com/article/implementing-authorization-in-symfony-developers-guide/
-      - Simplifying Authentication and Authorization in Symfony https://moldstud.com/articles/p-simplifying-authentication-and-authorization-in-symfony
-      - Implementing Authentication And Authorization In A Symfony Api https://peerdh.com/blogs/programming-insights/implementing-authentication-and-authorization-in-a-symfony-api
-      - Аутентификация https://symfony.ru/doc/current/components/security/authentication.html
-      - Аутентификация и авторизация в Symfony https://it.vstu.by/courses/information_systems/development_of_web_applications/theory/authentication_and_authorization_in_symfony/
-      - [Symfony 5] Раздельная авторизация для админов и пользователей с двумя разными сущностями и формами входа https://habr.com/ru/articles/508936/
-    - CSRF
-      - Combatting Login CSRF with Symfony https://wouterj.nl/2023/10/combatting-login-csrf-with-symfony
-    - Работа с ролями и разрешениями (RBAC, ABAC, ACL)
-      - Grant on Permissions, not Roles https://wouterj.nl/2020/01/grant-on-permissions-not-roles
-      - Access Control https://thecodingmachine.github.io/symfony-boilerplate/docs/security/access-control/
-      - Using Expressions in Security Access Controls https://symfony.com/doc/current/security/expressions.html
-      - Symfony Code Sample: API Role-Based Access Control https://developer.auth0.com/resources/code-samples/api/symfony/basic-role-based-access-control
-      - Access Control with Symfony Voters https://medium.com/accesto/access-control-with-symfony-voters-a486a24d832b
-      - Простое управление ACL в Symfony https://habr.com/ru/companies/otus/articles/508424/
-      - How to ensure that all the routes on my Symfony app have access control https://dev.to/theodo/how-to-ensure-that-all-the-routes-on-my-symfony-app-have-access-control-jff
-    - Firewalls
-      - https://symfony.ru/doc/current/reference/configuration/security.html#firewalls
+  - Обзор
+    - Безопасность https://symfony.ru/security.html
+    - Symfony: инструмент написания безопасных веб-приложений https://www.securitylab.ru/analytics/480607.php?el_id=480607&VOTE_ID=103&view_result=Y&bxajaxid=1ce8886146eca13ff60ad3b7f5601a0d&utm_referrer=https%3A%2F%2Fwww.perplexity.ai%2F
+    - Understanding Symfony Security by Using it Standalone https://wouterj.nl/2019/03/understanding-symfony-security-by-using-it-standalone
+    - Symfony Cheat Sheet https://cheatsheetseries.owasp.org/cheatsheets/Symfony_Cheat_Sheet.html
+    - Protect your Symfony application against the OWASP Top 10 https://nicwortel.nl/blog/2020/protect-symfony-application-against-owasp-top-10-security-risks
+  - Authorization, Authentication, Аутентификация и авторизация
+    - Implementing Authorization in Symfony: A Developer’s Guide https://www.slingacademy.com/article/implementing-authorization-in-symfony-developers-guide/
+    - Simplifying Authentication and Authorization in Symfony https://moldstud.com/articles/p-simplifying-authentication-and-authorization-in-symfony
+    - Implementing Authentication And Authorization In A Symfony Api https://peerdh.com/blogs/programming-insights/implementing-authentication-and-authorization-in-a-symfony-api
+    - Аутентификация https://symfony.ru/doc/current/components/security/authentication.html
+    - Аутентификация и авторизация в Symfony https://it.vstu.by/courses/information_systems/development_of_web_applications/theory/authentication_and_authorization_in_symfony/
+    - [Symfony 5] Раздельная авторизация для админов и пользователей с двумя разными сущностями и формами входа https://habr.com/ru/articles/508936/
+  - CSRF
+    - Combatting Login CSRF with Symfony https://wouterj.nl/2023/10/combatting-login-csrf-with-symfony
+  - Работа с ролями и разрешениями (RBAC, ABAC, ACL)
+    - Grant on Permissions, not Roles https://wouterj.nl/2020/01/grant-on-permissions-not-roles
+    - Access Control https://thecodingmachine.github.io/symfony-boilerplate/docs/security/access-control/
+    - Using Expressions in Security Access Controls https://symfony.com/doc/current/security/expressions.html
+    - Symfony Code Sample: API Role-Based Access Control https://developer.auth0.com/resources/code-samples/api/symfony/basic-role-based-access-control
+    - Access Control with Symfony Voters https://medium.com/accesto/access-control-with-symfony-voters-a486a24d832b
+    - Простое управление ACL в Symfony https://habr.com/ru/companies/otus/articles/508424/
+    - How to ensure that all the routes on my Symfony app have access control https://dev.to/theodo/how-to-ensure-that-all-the-routes-on-my-symfony-app-have-access-control-jff
+  - Firewalls
+    - https://symfony.ru/doc/current/reference/configuration/security.html#firewalls
   - Остальное
     - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
     - Migrating users to a secure hashing algorithm in Symfony https://www.michaelperrin.fr/blog/2017/01/migrating-users-to-a-secure-hashing-algorithm-in-symfony
