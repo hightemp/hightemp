@@ -322,6 +322,10 @@
 
 - Пересказ книг https://sobrief.com/
 
+### Фактчекинг
+
+- Facticity.AI - сервис для фактчекинга информации, который проверяет достоверность утверждений в тексте, и способен работать с русскоязычной информацией, в отличие от ряда других подобных сервисов. https://facticity.ai/
+
 ### Смарт-библиотеки
 
 - https://iki.ai/
@@ -572,6 +576,22 @@
 - Учебник по машинному обучению(ШАД) https://education.yandex.ru/handbook/ml
 - https://illustrated-machine-learning.github.io/
 - Google выложил учебник по искусственному интеллекту и ИИ-агентам - в 42-страничном учебнике подробно объясняются принципы работы ИИ-агентов, компоненты и когнитивные архитектуры, инструменты (расширения, функции и хранилища данных), техники обучения для повышения эффективности ИИ-агентов, а также создание ИИ-агентов на LangChain и LangGraph. https://www.kaggle.com/whitepaper-agents
+
+### Телеграм каналы
+
+- https://t.me/denissexy
+- https://t.me/ai_newz
+- https://t.me/black_triangle_tg
+- https://t.me/agirussianews
+- https://t.me/devsp
+- https://t.me/ai_volution
+- https://t.me/datastorieslanguages
+- https://t.me/cryptovalerii
+- https://t.me/aiaiai
+- https://t.me/sburyi
+- https://t.me/geekneural
+- https://t.me/cgevent
+- https://t.me/NeuralProfit
 
 ### Блоги
 
