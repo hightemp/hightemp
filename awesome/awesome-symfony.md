@@ -80,6 +80,8 @@
     - Правильная регистрация консольных команд Symfony в DI https://medium.com/phpyh/правильная-регистрация-консольных-команд-в-symfony-di-f7536c254926
   - Errors
     - A guide to custom error handling in Symfony https://inviqa.com/blog/guide-custom-error-handling-symfony
+  - Middleware
+    - 
   - Events
     - Built-in Symfony Events https://symfony.com/doc/current/reference/events.html
     - How to use events listeners in Symfony https://blowstack.com/blog/how-to-use-events-listeners-in-symfony
