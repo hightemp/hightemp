@@ -55,6 +55,7 @@
 - Основное
   - Kernel
     - The HttpKernel Component https://symfony.com/doc/current/components/http_kernel.html
+    - Built-in Symfony Events https://symfony.com/doc/current/reference/events.html
   - Routing, Маршрутизация
     - Routing https://symfony.com/doc/7.3/routing.html
     - 4 Ways to Create Routes in Symfony https://www.slingacademy.com/article/ways-to-create-routes-in-symfony/
