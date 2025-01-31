@@ -54,8 +54,7 @@
 
 - Основное
   - Kernel
-    - The HttpKernel Component https://symfony.com/doc/current/components/http_kernel.html
-    - Built-in Symfony Events https://symfony.com/doc/current/reference/events.html
+    - The HttpKernel Component https://symfony.com/doc/current/components/http_kernel.html    
   - Routing, Маршрутизация
     - Routing https://symfony.com/doc/7.3/routing.html
     - 4 Ways to Create Routes in Symfony https://www.slingacademy.com/article/ways-to-create-routes-in-symfony/
@@ -79,6 +78,11 @@
   - CLI
     - How to Define Commands as Services https://symfony.com/doc/current/console/commands_as_services.html
     - Правильная регистрация консольных команд Symfony в DI https://medium.com/phpyh/правильная-регистрация-консольных-команд-в-symfony-di-f7536c254926
+  - Errors
+    - A guide to custom error handling in Symfony https://inviqa.com/blog/guide-custom-error-handling-symfony
+  - Events
+    - Built-in Symfony Events https://symfony.com/doc/current/reference/events.html
+    - How to use events listeners in Symfony https://blowstack.com/blog/how-to-use-events-listeners-in-symfony
   - БД
     - Doctrine
       - Основное
@@ -99,8 +103,6 @@
       - Multi database doctrine-symfony based project https://carlos-compains.medium.com/multi-database-doctrine-symfony-based-project-0c1e175b64bf
     - Репликация
       - How to set up DB read replicas on Symfony 6 using Doctrine https://medium.com/@dominykasmurauskas1/how-to-add-read-write-replicas-on-symfony-6-using-doctrine-bundle-a46447449f35
-    - Errors
-      - A guide to custom error handling in Symfony https://inviqa.com/blog/guide-custom-error-handling-symfony
     - Остальное
       - Automatic values for created_at, updated_at in Doctrine — Symfony 6 https://medium.com/@andrii.sukhoi/automatic-values-for-created-at-updated-at-in-doctrine-symfony-6-fb625f17478
       - Hybrid databases with Symfony and Doctrine SQL versus NoSQL https://davegebler.com/post/php/hybrid-databases-with-symfony-and-doctrine
