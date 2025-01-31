@@ -184,6 +184,7 @@
     - Symfony PHPUnit testing database data https://joeymasip.medium.com/symfony-phpunit-testing-database-data-322383ed0603
     - How to write Unit Tests in Symfony https://pguso.medium.com/how-to-write-unit-tests-in-symfony-0a3cf12bcfd2
     - Беги, PHPUnit, беги: как я оптимизировал время выполнения тестов https://habr.com/ru/articles/505736/
+    - TDD & Symfony & Monolog: adding some logging to that endpoint from last time https://blog.adamcameron.me/2023/01/tdd-symfony-monolog-adding-some-logging.html
 - Архитектура
   - Hexagonal Architecture, Гексоганальная архитектура
     - Symfony и Гексагональная архитектура https://habr.com/ru/articles/539084/
