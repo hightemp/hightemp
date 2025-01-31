@@ -592,6 +592,28 @@
 - https://t.me/geekneural
 - https://t.me/cgevent
 - https://t.me/NeuralProfit
+- https://t.me/unrealneural
+- https://t.me/toshoseti
+- https://t.me/seeallochnaya
+- https://t.me/datascientology
+- https://t.me/machinelearning_interview
+- https://t.me/opendatascience
+- https://t.me/tips_ai
+- https://t.me/tech_priestess
+- https://t.me/singularityfm
+- https://t.me/ai_machinelearning_big_data
+- https://t.me/dsproglib
+- https://t.me/ml4value
+- https://t.me/lovedeathtransformers
+- https://t.me/nadlskom
+- https://t.me/dealerAI
+- https://t.me/llm_under_hood
+- https://t.me/prorobotovchannel
+- https://t.me/deepschool_speedup
+- https://t.me/toBeAnMLspecialist
+- https://t.me/neurogen_news
+- https://t.me/NeuralShit
+- https://t.me/prompt_design
 
 ### Блоги
 
