@@ -432,6 +432,7 @@
   - Debugger
     - go delve - The Golang Debugger https://earthly.dev/blog/golang-dlv/
     - Golang Debugging With Delve [Step by Step] https://golang.cafe/blog/golang-debugging-with-delve.html
+    - Golang Debugging Tutorial https://www.rookout.com/blog/golang-debugging-tutorial/
   - Bechmarking
     - How to write benchmarks in Go https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go
     - Бенчмарки в Go https://habr.com/ru/articles/268585/
