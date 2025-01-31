@@ -49,6 +49,7 @@
 - https://wouterj.nl/
 - https://fritool.ru/tags/symfony/
 - https://sajadtorkamani.com/posts/
+- https://backbeat.tech/tags/symfony
 
 ### Статьи
 
