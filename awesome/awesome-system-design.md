@@ -122,6 +122,11 @@
         - Least Privilege Pattern
     - Остальное
         - Microservices Design Patterns https://www.geeksforgeeks.org/microservices-design-patterns/
+- Distributed system, Распределенные системы
+    - Building A "Simple" Distributed System - The What https://jack-vanlightly-ay5j.squarespace.com/blog/2019/1/25/building-a-simple-distributed-system-the-what
+    - Building A "Simple" Distributed System - The Protocol https://jack-vanlightly.com/blog/2019/1/27/building-a-simple-distributed-system-the-protocol
+    - Building A "Simple" Distributed System - Formal Verification https://jack-vanlightly.com/blog/2019/1/27/building-a-simple-distributed-system-formal-verification
+    - Building A "Simple" Distributed System - The Implementation https://jack-vanlightly.com/blog/2019/2/1/building-a-simple-distributed-system-the-implementation
 - Лучшие практики
     - Distributed Systems Design: Tutorial & Best Practices https://www.multiplayer.app/distributed-systems-architecture/distributed-systems-design/
 - Интервью
