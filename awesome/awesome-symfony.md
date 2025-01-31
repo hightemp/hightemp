@@ -81,7 +81,7 @@
   - Errors
     - A guide to custom error handling in Symfony https://inviqa.com/blog/guide-custom-error-handling-symfony
   - Middleware
-    - 
+    - Create a Request ID handler for Symfony with Messenger support https://www.dylan-ballandras.fr/blog/symfony-request-id-handler
   - Events
     - Built-in Symfony Events https://symfony.com/doc/current/reference/events.html
     - How to use events listeners in Symfony https://blowstack.com/blog/how-to-use-events-listeners-in-symfony
