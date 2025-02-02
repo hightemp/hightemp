@@ -39,6 +39,7 @@
 - https://github.com/bregman-arie/go-exercises
 - https://github.com/inancgumus/learngo
   - https://github.com/inancgumus/gobyexample
+- Проект, включающий реальные задачи с собеседований по Golang, обучающие материалы и красивое терминальное приложение для проверки знаний в виде викторины. Особенности: реальные задачи с собеседований, сложные вопросы, не связанные с выводом программы, обучающие подсказки, возможность внесения своего вклада в проект, простая установка. https://github.com/rusinikita/trainer `go install github.com/rusinikita/trainer@latest`
 
 ### VIM
 
