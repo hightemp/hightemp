@@ -20,6 +20,7 @@
 - https://github.com/gostor/awesome-go-storage
 - Проект представляет собой коллекцию 22 популярных паттернов проектирования с примерами на языке Go, кратким описанием каждого паттерна и возможностью скачать репозиторий для запуска тестов. https://github.com/AlexanderGrom/go-patterns
 - Материалы по Go (golang) https://gist.github.com/Kuzyashin/315938ee46001e229233c0d80294aa94
+- Материалы по Go (golang) https://gist.github.com/egorsmkv/9df2aef2eddf51986b6d2b5833a4423e
 
 ### Песочницы
 
