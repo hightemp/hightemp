@@ -510,6 +510,7 @@
   - Implementing Graceful Shutdown in Go https://www.rudderstack.com/blog/implementing-graceful-shutdown-in-go/
   - Gracefully Terminate a Program in Go https://guzalexander.com/2017/05/31/gracefully-exit-server-in-go.html
 - Примеры создания приложения или сервиса
+  - Создание микросервисного приложения на Go по принципу CQRS https://sefus.ru/go-microservices-cqrs-docker/
   - Modern Web Development with Go: A Lightweight Alternative to React SSR https://engineering.turistikrota.com/modern-web-development-with-go-a-lightweight-alternative-to-react-ssr-cccce8631773
   - Creating a Chat Application with Go, Gorilla WebSocket, and jQuery https://arya2004.hashnode.dev/creating-chat-application-go-gorilla-websocket-jquery
   - Делаем форму обратного звонка: лендинг, Go и SMS-уведомления https://habr.com/ru/companies/ru_mts/articles/856232/
