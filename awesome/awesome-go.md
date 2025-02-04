@@ -416,6 +416,7 @@
     - GENERICS IN GO https://www.golang101.com/advanced-go-concepts/generics/
     - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
   - sync.Pool
+    - How did I improve latency by 700% using sync.Pool https://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/
     - Performance optimization techniques in time series databases: sync.Pool for CPU-bound operations https://victoriametrics.com/blog/tsdb-performance-techniques-sync-pool/
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
