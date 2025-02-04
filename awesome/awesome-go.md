@@ -1191,6 +1191,7 @@
 - https://lakesite.net/blog/
 - https://earthly.dev/blog/categories/golang/
 - https://www.mohitkhare.com/categories/golang/
+- https://www.hydrogen18.com/blog/tags.html#golang
 
 ### Подкасты
 
