@@ -415,6 +415,8 @@
     - When To Use Generics https://go.dev/blog/when-generics
     - GENERICS IN GO https://www.golang101.com/advanced-go-concepts/generics/
     - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
+  - sync.Pool
+    - 
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
   - Reflection, Рефлексия, Отражение
@@ -1185,6 +1187,7 @@
 - https://appliedgo.com/blog
 - https://lakesite.net/blog/
 - https://earthly.dev/blog/categories/golang/
+- https://www.mohitkhare.com/categories/golang/
 
 ### Подкасты
 
