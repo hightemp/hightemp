@@ -168,6 +168,7 @@
     - https://llamacoder.together.ai/
     - https://codebyhicham.com/
     - http://prompt-stack.sshh.io/
+    - https://sketch.dev/
 - с видео и аудио
     - https://aistudio.google.com/live
 
