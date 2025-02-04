@@ -486,6 +486,7 @@
   - golangci-lint: a powerful and complete Go linter https://dev.to/guiyomh/golangci-lint-a-powerful-and-complete-go-linter-5eb8
   - Готовый набор golang линтеров (джунам и мидлам) https://habr.com/ru/articles/765784/
   - Автоматизация оптимизаций в Go https://habr.com/ru/companies/deliveryclub/articles/646081/
+  - В поисках хорошего стиля. Часть 1. Зачем нам свои линтеры на Go в Островке https://habr.com/ru/companies/ostrovok/articles/839514/
 - vim, nvim
   - My NeoVim Go(lang) setup — As good as Intellj/Goland IDE https://medium.com/@suyash10581108/my-neovim-go-lang-setup-as-good-as-intellj-goland-ide-d48dd765f6de
   - Configure Neovim for Golang https://andrewcourter.substack.com/p/configure-neovim-for-golang
