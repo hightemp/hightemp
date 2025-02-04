@@ -241,6 +241,7 @@
 - https://staticcheck.dev/
 - https://github.com/mgechev/revive
 - https://pkg.go.dev/cmd/vet
+- https://github.com/go-critic/go-critic
 
 ### Полезные ссылки
 
