@@ -2161,3 +2161,150 @@ func TestReverseList(t *testing.T) {
     *   Уменьшает повторное использование кода.
 *   **В каком варианте связанность слабее?**
     *   Во втором варианте, где интерфейс находится в пакете `app`, связанность слабее, так как `app` зависит только от интерфейса, а не от конкретной реализации.
+
+# Предположим, ваша функция должна возвращать детализированные Recoverable и Fatal ошибки. Как это реализовано в пакете net? Как это надо делать в современном Go?
+
+**Детализированные Recoverable и Fatal ошибки:**
+
+В Go обработка ошибок обычно осуществляется с помощью возвращаемых значений (`error`). Для того чтобы различать разные типы ошибок (например, Recoverable и Fatal), необходимо использовать дополнительные механизмы. В пакете `net` использовались определенные подходы, но в современном Go появились более идиоматичные и гибкие решения.
+
+**Как это реализовано в пакете `net`:**
+
+В пакете `net` исторически использовались различные подходы для предоставления информации об ошибках:
+
+1.  **Интерфейс `Error`:** Пакет `net` определяет интерфейс `Error`, который расширяет стандартный интерфейс `error` и предоставляет методы для определения типа ошибки (временная или постоянная):
+    ```go
+    type Error interface {
+        error
+        Timeout() bool   // Is the error a timeout?
+        Temporary() bool // Is the error temporary?
+    }
+    ```
+    Это позволяло коду проверять, является ли ошибка временной (например, таймаут) или постоянной, и принимать соответствующие решения.
+2.  **Конкретные типы ошибок:** Пакет `net` определял конкретные типы ошибок (например, `OpError`), которые могли реализовывать интерфейс `Error`.
+3.  **Error wrapping**:  Использовался для добавления контекстной информации к исходной ошибке.
+
+**Как это надо делать в современном Go (после Go 1.13):**
+
+В Go 1.13 были введены важные изменения в стандартную библиотеку, которые упрощают и стандартизируют обработку ошибок:
+
+1.  **`errors.Is`:** Функция `errors.Is` позволяет проверить, соответствует ли ошибка определенному типу (в цепочке обернутых ошибок):
+    ```go
+    if errors.Is(err, os.ErrNotExist) {
+        // Обработка ошибки "файл не существует"
+    }
+    ```
+2.  **`errors.As`:** Функция `errors.As` позволяет получить конкретный тип ошибки из цепочки обернутых ошибок:
+    ```go
+    var pathError *os.PathError
+    if errors.As(err, &pathError) {
+        fmt.Println("Path:", pathError.Path)
+    }
+    ```
+3.  **`%w` verb для error wrapping:**  Позволяет обернуть одну ошибку в другую, сохраняя исходную ошибку:
+
+    ```go
+    err := fmt.Errorf("failed to read file: %w", originalError)
+    ```
+
+    Это позволяет создавать цепочку ошибок, где каждая ошибка содержит дополнительную информацию о контексте.
+4. **Custom error types:**
+    Создание собственных типов ошибок, которые могут содержать дополнительную информацию.
+    ```go
+    type RecoverableError struct {
+        Err error
+        Message string
+    }
+    func (e *RecoverableError) Error() string {
+        return fmt.Sprintf("Recoverable error: %s, original error: %v", e.Message, e.Err)
+    }
+    ```
+
+**Пример реализации с использованием современных подходов:**
+
+```go
+package main
+
+import (
+	"errors"
+	"fmt"
+	"os"
+)
+
+type FatalError struct {
+	Err error
+}
+
+func (e *FatalError) Error() string {
+	return fmt.Sprintf("Fatal error: %v", e.Err)
+}
+
+func (e *FatalError) Unwrap() error {
+	return e.Err
+}
+
+type RecoverableError struct {
+	Err error
+	Message string
+}
+
+func (e *RecoverableError) Error() string {
+	return fmt.Sprintf("Recoverable error: %s, original error: %v", e.Message, e.Err)
+}
+
+func (e *RecoverableError) Unwrap() error {
+	return e.Err
+}
+
+func doSomething() error {
+    // Здесь какая-то логика, которая может вернуть ошибку
+	file, err := os.Open("nonexistent_file.txt")
+	if err != nil {
+		// Оборачиваем исходную ошибку
+		return &RecoverableError{Err: fmt.Errorf("ошибка открытия файла: %w", err), Message: "Файл не найден"}
+	}
+    defer file.Close()
+    return nil
+}
+
+func main() {
+	err := doSomething()
+
+	if err != nil {
+        if errors.As(err, &RecoverableError{}) {
+            fmt.Println("Это RecoverableError")
+            // Обработка RecoverableError
+            var recErr *RecoverableError
+            errors.As(err, &recErr)
+            fmt.Println("Original error: ", recErr.Err)
+            fmt.Println("Message: ", recErr.Message)
+
+        } else if errors.As(err, &FatalError{}) {
+            fmt.Println("Это FatalError")
+            // Обработка FatalError
+        } else {
+            fmt.Println("Неизвестная ошибка:", err)
+        }
+	}
+}
+
+```
+
+**Объяснение:**
+
+1.  **Определение типов ошибок:**
+    *   Создаются типы `FatalError` и `RecoverableError` для представления различных категорий ошибок.
+    *   Каждый тип реализует интерфейс `error` и включает в себя поле `Err` для хранения исходной ошибки.
+2.  **Использование `fmt.Errorf` с `%w`:**
+    *   Функция `doSomething` использует `fmt.Errorf` с `%w` для оборачивания исходной ошибки. Это создает цепочку ошибок, сохраняя контекст.
+3.  **Использование `errors.As`:**
+    *   В `main` используется `errors.As` для проверки, является ли ошибка `FatalError` или `RecoverableError`.
+    *   Это позволяет обрабатывать ошибки в зависимости от их типа.
+4. **Unwrap:**
+    *  Реализация метода `Unwrap` позволяет `errors.Is` и `errors.As` корректно проходить по цепочке ошибок.
+
+**Чего не появилось, хоть мы и ждали:**
+
+*   **`try...catch`:** Go до сих пор не имеет механизма исключений (`try...catch`), как в других языках. Go продолжает придерживаться явной обработки ошибок с помощью возвращаемых значений.
+*   **Более продвинутые механизмы обработки ошибок:** Хотя Go 1.13 значительно улучшил обработку ошибок, в языке до сих пор нет более сложных механизмов, таких как аспекты или монадные типы, которые можно найти в других языках.
+
