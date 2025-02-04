@@ -157,6 +157,7 @@
 ### Видео
 
 - System Design. База. Разбор книги "Высоконагруженные приложения". Глава 2 https://www.youtube.com/watch?v=H88-S0bHvJQ
+- КАК СПРОЕКТИРОВАТЬ ХОРОШИЙ API: 20 ЛУЧШИХ ПРАКТИК https://www.youtube.com/watch?v=tTiWRWCc0Aw
 
 ### Вопросы
 
