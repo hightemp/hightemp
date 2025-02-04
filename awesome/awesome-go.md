@@ -419,6 +419,7 @@
     - How did I improve latency by 700% using sync.Pool https://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/
     - Performance optimization techniques in time series databases: sync.Pool for CPU-bound operations https://victoriametrics.com/blog/tsdb-performance-techniques-sync-pool/
     - Reference Counting in Go https://www.hydrogen18.com/blog/reference-counted-pool-golang.html
+    - Use `sync.Pool` to reduce memory consumption https://blog.unknowntpo.me/syncpool/
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
   - Reflection, Рефлексия, Отражение
