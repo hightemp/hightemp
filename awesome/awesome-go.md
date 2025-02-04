@@ -479,13 +479,13 @@
     - Scheduling In Go : Part III - Concurrency https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
     - 3 Easy Ways To Add Version Flag in Go https://jerrynsh.com/3-easy-ways-to-add-version-flag-in-go/
     - Коллеги, вы меня огорчаете https://habr.com/ru/companies/oleg-bunin/articles/521582/
-    - Автоматизация оптимизаций в Go https://habr.com/ru/companies/deliveryclub/articles/646081/
 - Линтеры
   - Статический анализ в Go: как мы экономим время при проверке кода https://habr.com/ru/companies/roistat/articles/413175/
   - Линтеры в Go. Как их готовить. Денис Исаев https://habr.com/ru/articles/457970/
   - Introduction to Linting in Go https://www.mohitkhare.com/blog/linting-in-golang/
   - golangci-lint: a powerful and complete Go linter https://dev.to/guiyomh/golangci-lint-a-powerful-and-complete-go-linter-5eb8
   - Готовый набор golang линтеров (джунам и мидлам) https://habr.com/ru/articles/765784/
+  - Автоматизация оптимизаций в Go https://habr.com/ru/companies/deliveryclub/articles/646081/
 - vim, nvim
   - My NeoVim Go(lang) setup — As good as Intellj/Goland IDE https://medium.com/@suyash10581108/my-neovim-go-lang-setup-as-good-as-intellj-goland-ide-d48dd765f6de
   - Configure Neovim for Golang https://andrewcourter.substack.com/p/configure-neovim-for-golang
