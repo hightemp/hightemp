@@ -237,6 +237,9 @@
 ### Линтеры
 
 - https://golangci-lint.run/usage/linters/
+- https://github.com/securego/gosec
+- https://staticcheck.dev/
+- https://github.com/mgechev/revive
 
 ### Полезные ссылки
 
@@ -443,8 +446,6 @@
     - Golang Debugging Tutorial https://www.rookout.com/blog/golang-debugging-tutorial/
     - Debugging Go tests with Go Delve https://blog.rob.uk.com/2021/02/14/Debugging-Go-tests-with-Go-Delve/
     - Debugging with GoLand – Getting Started https://blog.jetbrains.com/go/2019/02/06/debugging-with-goland-getting-started/
-  - Linters
-    - 
   - Bechmarking
     - How to write benchmarks in Go https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go
     - Бенчмарки в Go https://habr.com/ru/articles/268585/
