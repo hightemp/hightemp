@@ -641,6 +641,7 @@
       - Go and Proxy Servers: Part 3 - SOCKS proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-3-socks-proxies/
       - Transparent http proxy with Golang and tproxy https://taczanowski.net/transparent-http-proxy-with-golang-and-tproxy/
   - p2p
+    - P2P на Go: библиотека libp2p https://habr.com/ru/companies/otus/articles/876996/
     - A P2P Network with Golang and libp2p https://www.sayipolia.com/projects/p2p-golang/
     - p2p chat app with libp2p [support peer discovery using mdns] https://pkg.go.dev/github.com/libp2p/go-libp2p/examples@v0.0.0-20241210164036-4e85c9611ae6/chat-with-mdns#section-readme
     - Exploring the Power of libp2p : for Building Robust, Decentralized Networks with Golang https://block360.hashnode.dev/exploring-the-power-of-libp2p-for-building-robust-decentralized-networks-with-golang
