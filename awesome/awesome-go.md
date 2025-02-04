@@ -484,6 +484,7 @@
   - Линтеры в Go. Как их готовить. Денис Исаев https://habr.com/ru/articles/457970/
   - Introduction to Linting in Go https://www.mohitkhare.com/blog/linting-in-golang/
   - golangci-lint: a powerful and complete Go linter https://dev.to/guiyomh/golangci-lint-a-powerful-and-complete-go-linter-5eb8
+  - Готовый набор golang линтеров (джунам и мидлам) https://habr.com/ru/articles/765784/
 - vim, nvim
   - My NeoVim Go(lang) setup — As good as Intellj/Goland IDE https://medium.com/@suyash10581108/my-neovim-go-lang-setup-as-good-as-intellj-goland-ide-d48dd765f6de
   - Configure Neovim for Golang https://andrewcourter.substack.com/p/configure-neovim-for-golang
