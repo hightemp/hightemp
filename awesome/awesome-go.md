@@ -481,6 +481,8 @@
     - Scheduling In Go : Part III - Concurrency https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
     - 3 Easy Ways To Add Version Flag in Go https://jerrynsh.com/3-easy-ways-to-add-version-flag-in-go/
     - Коллеги, вы меня огорчаете https://habr.com/ru/companies/oleg-bunin/articles/521582/
+- Подготовка к собеседованию
+  - Гайд по подготовке к собеседованию для Backend-разработчиков https://habr.com/ru/articles/876808/
 - Линтеры
   - Статический анализ в Go: как мы экономим время при проверке кода https://habr.com/ru/companies/roistat/articles/413175/
   - Линтеры в Go. Как их готовить. Денис Исаев https://habr.com/ru/articles/457970/
@@ -981,7 +983,6 @@
 - Live reloading
   - Live Reloading in Go https://hovanhoa.hashnode.dev/live-reloading-in-go
 - Остальное
-  - Гайд по подготовке к собеседованию для Backend-разработчиков https://habr.com/ru/articles/876808/
   - Implementing The Fieldalignment Bundle in Go https://switchupcb.com/blog/implementing-the-fieldalignment-bundle-in-go/
   - Top 15 Golang Project Ideas [With Source Code] https://www.guvi.in/blog/top-golang-project-ideas/
   - Gosh: a pluggable command shell in Go https://medium.com/@vladimirvivien/gosh-a-pluggable-command-shell-in-go-cf25102c8439
