@@ -154,6 +154,10 @@
     - Top 50 System Design Terminologies You Must Know https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1
     - System Design Series https://medium.com/mastering-the-system-design-interview/system-design-series-400aeef711de
 
+### Видео
+
+- System Design. База. Разбор книги "Высоконагруженные приложения". Глава 2 https://www.youtube.com/watch?v=H88-S0bHvJQ
+
 ### Вопросы
 
 - 100+ System Design Interview Questions and Problems for Software Engineers https://javarevisited.blogspot.com/2024/05/100-system-design-interview-questions.html
