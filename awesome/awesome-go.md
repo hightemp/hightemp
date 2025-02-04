@@ -240,6 +240,7 @@
 - https://github.com/securego/gosec
 - https://staticcheck.dev/
 - https://github.com/mgechev/revive
+- https://pkg.go.dev/cmd/vet
 
 ### Полезные ссылки
 
