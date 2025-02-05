@@ -26,6 +26,8 @@
   - Docker-based окружение для разработки Symfony-приложений, включающее настроенный набор современных компонентов (Nginx 1.27, PHP 8.3 FPM, MySQL 8, RabbitMQ 3) с поддержкой отладки электронной почты через Mailpit, предназначенное для быстрого развертывания и локальной разработки PHP-проектов на базе фреймворка Symfony 7. https://github.com/systemsdk/docker-nginx-php-symfony
   - PHP Symfony Environment - это готовое Docker-окружение для разработки приложений на Symfony 7, включающее предварительно настроенный стек технологий (Apache 2.4, PHP 8.3, MySQL 8, RabbitMQ 3) с поддержкой отладки электронной почты через Mailpit, предназначенное для быстрого развертывания проектов в унифицированной среде разработки. https://github.com/systemsdk/docker-apache-php-symfony
   - Minimal clean Docker configuration with PHP 8.1+, NGINX 1.20+, PostgreSQL 14.2+ and Symfony 6.0 for development. https://github.com/volkar/docker-symfony-nginx-php-postgres
+- Админка
+  - Tabler Bundle for Symfony - это интеграционный пакет для фреймворка Symfony, предоставляющий адаптивный HTML-шаблон Tabler.io с богатым набором инструментов Twig (функции, фильтры, макросы), двумя основными макетами интерфейса (вертикальным и горизонтальным), встроенной поддержкой многоязычности и системой безопасности, использующий Bootstrap 5 и FontAwesome 5 для быстрой разработки современных административных панелей. https://github.com/kevinpapst/TablerBundle
 
 ### Полезные ссылки
 
