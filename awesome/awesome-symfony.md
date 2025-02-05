@@ -29,6 +29,8 @@
 - Админка
   - Tabler Bundle for Symfony - это интеграционный пакет для фреймворка Symfony, предоставляющий адаптивный HTML-шаблон Tabler.io с богатым набором инструментов Twig (функции, фильтры, макросы), двумя основными макетами интерфейса (вертикальным и горизонтальным), встроенной поддержкой многоязычности и системой безопасности, использующий Bootstrap 5 и FontAwesome 5 для быстрой разработки современных административных панелей. https://github.com/kevinpapst/TablerBundle
   - AdminLTE Bundle for Symfony - это заброшенный пакет для интеграции темы AdminLTE в проекты Symfony, предоставляющий готовые шаблоны с поддержкой меню, уведомлений, мультиязычности и популярных бандлов (KNPMenuBundle, FOSUserBundle), основанный на AdminLTE 2.4.8 и FontAwesome 5. https://github.com/kevinpapst/AdminLTEBundle
+- Остальное
+  - https://github.com/tinustester/symfony-gridview-bundle
 
 ### Полезные ссылки
 
