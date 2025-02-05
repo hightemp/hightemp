@@ -211,6 +211,7 @@
     - Основное
     - Остальное
       - EasyAdmin и Mercure: реальный юзкейс https://habr.com/ru/companies/otus/articles/754806/
+      - Managing Virtual Entities in Symfony’s EasyAdmin Without Doctrine Persistence https://medium.com/@maurice2k5/managing-virtual-entities-in-symfonys-easyadmin-without-doctrine-persistence-2271c3711c41
   - Sonata, SonataAdminBundle
     - Основное
       - https://symfony.com/bundles/SonataAdminBundle/current/index.html
