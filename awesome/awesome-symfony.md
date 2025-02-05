@@ -219,6 +219,7 @@
       - EasyAdmin и Mercure: реальный юзкейс https://habr.com/ru/companies/otus/articles/754806/
       - Managing Virtual Entities in Symfony’s EasyAdmin Without Doctrine Persistence https://medium.com/@maurice2k5/managing-virtual-entities-in-symfonys-easyadmin-without-doctrine-persistence-2271c3711c41
       - Implementing CKEditor and CKFinder on EasyAdmin (Symfony5) https://medium.com/suleyman-aydoslu/implementing-ckeditor-and-ckfinder-on-easyadmin-a269888771ce
+      - Symfony 6 and EasyAdmin 4: Admin Panel for User Management System https://scqr.net/en/blog/2022/11/11/symfony-6-and-easyadmin-4-admin-panel-for-user-management-system/
   - Sonata, SonataAdminBundle
     - Основное
       - https://symfony.com/bundles/SonataAdminBundle/current/index.html
