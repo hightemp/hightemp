@@ -213,6 +213,7 @@
       - https://symfony.com/bundles/SonataAdminBundle/current/index.html
     - Остальное
       - Установка и настройка Sonata Admin на Symfony 4 https://habr.com/ru/articles/460345/
+      - Пакетное действие SonataAdminBundle + Select2 https://habr.com/ru/articles/687632/
       - SYMFONY 6 / SONATA 5: INITIALIZE A SYMFONY 6 + SONATA ADMIN 5 + USERBUNDLE + MEDIABUNDLE PROJECT https://www.partitech.com/en/technical-blog-article/symfony-6-sonata-initialize-a-symfony-6-sonata-userbundle-media-project
       - Compare Symfony Admin Dashboards https://getparthenon.com/blog/compare-symfony-admin-dashboards/
 - Архитектура
