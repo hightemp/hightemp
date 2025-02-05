@@ -205,10 +205,11 @@
     - Беги, PHPUnit, беги: как я оптимизировал время выполнения тестов https://habr.com/ru/articles/505736/
     - TDD & Symfony & Monolog: adding some logging to that endpoint from last time https://blog.adamcameron.me/2023/01/tdd-symfony-monolog-adding-some-logging.html
     - Symfony 5 : Mocking private autowired services in Controller functional tests https://dev.to/nikolastojilj12/symfony-5-mocking-private-autowired-services-in-controller-functional-tests-24j4
-- SonataAdminBundle
-  - Основное
-    - https://symfony.com/bundles/SonataAdminBundle/current/index.html
-  - Остальное
+- Админки
+  - SonataAdminBundle
+    - Основное
+      - https://symfony.com/bundles/SonataAdminBundle/current/index.html
+    - Остальное
 - Архитектура
   - Hexagonal Architecture, Гексоганальная архитектура
     - Symfony и Гексагональная архитектура https://habr.com/ru/articles/539084/
