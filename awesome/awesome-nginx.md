@@ -44,6 +44,8 @@
     - High‑Performance Caching with NGINX and NGINX Plus https://www.f5.com/company/blog/nginx/nginx-high-performance-caching
 - Мониторинг
     - Mastering NGINX Monitoring: Comprehensive Guide to Essential Tools https://www.atatus.com/blog/mastering-nginx-monitoring-a-comprehensive-guide-to-essential-tools/
+- CORS
+    - Nginx easily solves cross-domain issues https://medium.com/@hubian/nginx-easily-solves-cross-domain-issues-009b95a5185e
 - Безопасность
     - Настройка SSL/TLS сертификатов
         - How to Configure SSL/TLS Encryption on NGINX https://scohostings.com/how-to-configure-ssl-tls-encryption-on-nginx/
