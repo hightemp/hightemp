@@ -227,6 +227,10 @@
       - Sonata Import Bundle https://habr.com/ru/articles/338986/
       - SYMFONY 6 / SONATA 5: INITIALIZE A SYMFONY 6 + SONATA ADMIN 5 + USERBUNDLE + MEDIABUNDLE PROJECT https://www.partitech.com/en/technical-blog-article/symfony-6-sonata-initialize-a-symfony-6-sonata-userbundle-media-project
       - Compare Symfony Admin Dashboards https://getparthenon.com/blog/compare-symfony-admin-dashboards/
+  - Forest Admin
+    - Основное
+    - Остальное
+      - A technical look at Forest Admin, EasyAdmin and Sonata https://www.forestadmin.com/blog/forest-admin-easyadmin-sonata/
 - Архитектура
   - Hexagonal Architecture, Гексоганальная архитектура
     - Symfony и Гексагональная архитектура https://habr.com/ru/articles/539084/
