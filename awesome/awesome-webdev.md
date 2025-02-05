@@ -344,6 +344,8 @@
       - https://martinfowler.com/bliki/CircuitBreaker.html
    - Dependency Injection
       - Inversion of Control Containers and the Dependency Injection pattern https://www.martinfowler.com/articles/injection.html
+   - Hexagonal architecture
+      - Hexagonal architecture https://alistair.cockburn.us/hexagonal-architecture/
 - Снифферы
    - Снифферы трафика в мобильном тестировании: Обзор инструментов и их особенности https://habr.com/ru/articles/840084/
 - Безопасность, Security
