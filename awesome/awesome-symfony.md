@@ -223,6 +223,8 @@
 - Архитектура
   - Hexagonal Architecture, Гексоганальная архитектура
     - Symfony и Гексагональная архитектура https://habr.com/ru/articles/539084/
+  - Остальное
+    - Clean Architecture, DDD, гексагональная архитектура. Разбираем на практике blog на Symfony https://habr.com/ru/articles/718916/
 - Plugin
   - Build a plugin system for your Symfony app https://davegebler.com/post/php/build-a-plugin-system-for-your-symfony-app
 - Docker
