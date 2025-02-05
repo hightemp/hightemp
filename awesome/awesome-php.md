@@ -112,6 +112,7 @@
 
 ### Полезные ссылки
 
+- Перевод PSR https://php-psr.ru/
 - Таблица сравнений типов https://www.php.net/manual/en/types.comparisons.php
 - https://www.php-fig.org/psr/
 - https://refactoringguru.cn/
