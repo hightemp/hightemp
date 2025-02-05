@@ -208,6 +208,9 @@
 - Админки
   - Athena - Parthenon
   - EasyAdmin
+    - Основное
+    - Остальное
+      - EasyAdmin и Mercure: реальный юзкейс https://habr.com/ru/companies/otus/articles/754806/
   - Sonata, SonataAdminBundle
     - Основное
       - https://symfony.com/bundles/SonataAdminBundle/current/index.html
