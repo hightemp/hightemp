@@ -261,3 +261,7 @@
 - Остальное
   - https://m.vkvideo.ru/videos227959038
   - https://m.vkvideo.ru/videos188694374
+
+### Примеры приложений
+
+- Symfony Blog - это веб-проект с открытым исходным кодом, основанный на архитектурных принципах Clean Architecture и Domain-Driven Design, включающий функциональность управления постами и категориями через модульную систему, с четким разделением на слои domain, application, infrastructure и presentation, реализованный с использованием фреймворка Symfony и паттерна порты и адаптеры для взаимодействия между модулями. https://github.com/annysmolyan/symfony-ddd-clean-architecture-blog
