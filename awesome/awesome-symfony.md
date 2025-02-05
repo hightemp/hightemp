@@ -242,3 +242,5 @@
   - Symfony best practices и не только https://fwdays.com/en/event/php-frameworks-day-2014/review/Symfony-best-practices
   - Как превратить проект на symfony в боль. Набор практических советов на основе реальных проектов https://fwdays.com/en/event/php-frameworks-day-2013/review/Kak-prevratit-proekt-na-symfony-v-bol
 - Остальное
+  - https://m.vkvideo.ru/videos227959038
+  - https://m.vkvideo.ru/videos188694374
