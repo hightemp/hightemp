@@ -206,7 +206,9 @@
     - TDD & Symfony & Monolog: adding some logging to that endpoint from last time https://blog.adamcameron.me/2023/01/tdd-symfony-monolog-adding-some-logging.html
     - Symfony 5 : Mocking private autowired services in Controller functional tests https://dev.to/nikolastojilj12/symfony-5-mocking-private-autowired-services-in-controller-functional-tests-24j4
 - Админки
-  - SonataAdminBundle
+  - Athena - Parthenon
+  - EasyAdmin
+  - Sonata, SonataAdminBundle
     - Основное
       - https://symfony.com/bundles/SonataAdminBundle/current/index.html
     - Остальное
