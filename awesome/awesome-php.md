@@ -248,6 +248,8 @@
   - Остальное
     - Mastering Architectural Rules in PHP Projects with PHP Arkitect https://medium.com/@edouard.courty/mastering-architectural-rules-in-php-projects-with-php-arkitect-80a2794c3066
 - Тестирование
+  - Основное 
+    - Test Doubles https://docs.phpunit.de/en/10.5/test-doubles.html
   - Моки
     - Mocking APIs in Laravel Tests With Wiremock https://laravel-news.com/mocking-apis-in-laravel-tests-with-wiremock
   - Codeception
