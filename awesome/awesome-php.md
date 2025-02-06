@@ -202,6 +202,8 @@
     - New in 4.0: Easier debugging of remote PHP command line scripts https://blog.jetbrains.com/webide/2012/03/new-in-4-0-easier-debugging-of-remote-php-command-line-scripts/
 - Composer
   - How to Build Your First PHP Package https://laravel-news.com/create-a-php-package-from-scratch?utm_source=weeklyphp&utm_medium=email
+- Swagger, OpenAPI
+  - NelmioApiDocBundle https://symfony.com/bundles/NelmioApiDocBundle/current/index.html
 - Doctrine
   - Php and Postgres team up to optimize multi-inserts https://medium.com/@fernando_28520/php-and-postgres-team-up-to-optimize-multi-inserts-93b421571216
 - Prometheus
