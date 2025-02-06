@@ -532,6 +532,8 @@
 
 - Sentence Transformers https://huggingface.co/sentence-transformers
 - Визуализация работы трансформеров https://bbycroft.net/llm
+- Модель трансформера с интерактивной визуализацией https://poloclub.github.io/transformer-explainer/
+- Крутой ресурс с инструментами для понимания работы многих моделей ИИ https://poloclub.github.io/
 
 ### Репозитории
 
