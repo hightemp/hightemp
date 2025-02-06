@@ -2944,3 +2944,382 @@ func main() {
 3.  Использовать трассировку, чтобы увидеть, какие сервисы и компоненты участвуют в обработке запроса.
 4.  Проверить время выполнения SQL-запросов, которые используются для формирования отчета.
 5.  Проверить размер страницы и оптимизировать изображения и другие ресурсы.
+
+# Стандартный набор метрик prometheus в Go -программе?
+
+**Стандартный набор метрик Prometheus в Go-программе:**
+
+В Go-программе стандартный набор метрик Prometheus обычно включает в себя метрики, предоставляемые самой средой выполнения Go, а также метрики, специфичные для вашего приложения. Для интеграции с Prometheus обычно используется клиентская библиотека `prometheus/client_golang`.
+
+**Основные категории метрик:**
+
+1.  **Go Runtime Metrics:** Метрики, предоставляемые Go runtime (средой выполнения) и отражающие внутреннее состояние приложения.
+    *   **`go_gc_duration_seconds`:** Гистограмма, показывающая длительность сборки мусора (Garbage Collection).
+    *   **`go_goroutines`:** Количество активных горутин в данный момент.
+    *   **`go_memstats_alloc_bytes`:** Общее количество выделенной памяти кучи (heap) в байтах.
+    *   **`go_memstats_alloc_bytes_total`:** Общее количество выделенной памяти кучи за всё время работы приложения.
+    *   **`go_memstats_frees_total`:** Общее количество освобождённой памяти за всё время работы приложения.
+    *   **`go_memstats_heap_alloc_bytes`:** Выделенная память на куче.
+    *   **`go_memstats_heap_objects`:** Количество объектов, находящихся на куче.
+    *   **`go_threads`:** Количество потоков операционной системы, используемых приложением.
+    *   **`go_info`:** Информация о версии Go runtime.
+    *   **`go_cpu_usage_seconds_total`:** Общее время использования CPU приложением.
+    *   **`go_memstats_last_gc_time_seconds`:** Время последней сборки мусора в секундах.
+    *   **`go_memstats_lookups_total`:** Общее количество поисков памяти.
+2.  **Process Metrics:** Метрики, отражающие ресурсы, потребляемые процессом приложения.
+    *   **`process_cpu_seconds_total`:** Общее время CPU, использованное процессом.
+    *   **`process_resident_memory_bytes`:** Размер резидентной памяти (RSS), используемой процессом.
+    *   **`process_virtual_memory_bytes`:** Размер виртуальной памяти, используемой процессом.
+    *   **`process_open_fds`:** Количество открытых файловых дескрипторов процессом.
+    *   **`process_max_fds`:** Максимальное количество файловых дескрипторов.
+    *   **`process_start_time_seconds`:** Время старта процесса в секундах.
+
+3.  **Application-Specific Metrics:** Метрики, которые вы добавляете сами, чтобы отслеживать производительность вашего приложения и его внутренние параметры.
+    *   **`http_request_duration_seconds`:** Гистограмма времени обработки HTTP-запросов.
+    *   **`http_request_total`:** Общее количество HTTP-запросов.
+    *   **`db_query_duration_seconds`:** Гистограмма времени выполнения запросов к базе данных.
+    *   **`db_query_total`:** Общее количество запросов к базе данных.
+    *   **`cache_hits_total`:** Общее количество попаданий в кэш.
+    *   **`cache_misses_total`:** Общее количество промахов кэша.
+    *   **`errors_total`:** Общее количество ошибок.
+
+**Как использовать `prometheus/client_golang`:**
+
+1.  **Импорт библиотеки:**
+
+    ```go
+    import (
+        "github.com/prometheus/client_golang/prometheus"
+        "github.com/prometheus/client_golang/prometheus/promauto"
+        "github.com/prometheus/client_golang/prometheus/promhttp"
+        "net/http"
+    )
+    ```
+
+2.  **Регистрация метрик:**
+
+    ```go
+    // Example counter metric
+    requestsTotal := promauto.NewCounter(prometheus.CounterOpts{
+        Name: "http_requests_total",
+        Help: "Total number of HTTP requests.",
+    })
+
+    // Example histogram metric
+    requestDuration := promauto.NewHistogram(prometheus.HistogramOpts{
+        Name: "http_request_duration_seconds",
+        Help: "Duration of HTTP requests in seconds.",
+    })
+    ```
+3.  **Использование метрик:**
+    ```go
+    func myHandler(w http.ResponseWriter, r *http.Request) {
+      requestsTotal.Inc()
+      startTime := time.Now()
+      // Your request processing logic here
+      // ...
+      duration := time.Since(startTime)
+      requestDuration.Observe(duration.Seconds())
+
+      w.WriteHeader(http.StatusOK)
+      w.Write([]byte("Hello, Prometheus!"))
+    }
+    ```
+4.  **Экспорт метрик на HTTP-эндпоинте:**
+
+    ```go
+    func main() {
+        http.HandleFunc("/hello", myHandler) // your app's handler
+        http.Handle("/metrics", promhttp.Handler())
+        http.ListenAndServe(":8080", nil)
+    }
+    ```
+**Описание основных типов метрик:**
+
+*   **`Counter`:** Монотонно возрастающая величина (например, количество запросов).
+*   **`Gauge`:** Произвольная величина (например, текущее использование памяти).
+*   **`Histogram`:** Распределение наблюдаемых значений (например, время обработки запросов).
+*   **`Summary`:** Распределение наблюдаемых значений с квантилями (например, 90-й и 99-й перцентили времени обработки запросов).
+
+**Стандартные метрики:**
+
+*   `prometheus.NewGoCollector()`: Добавляет стандартные метрики среды выполнения Go.
+*   `prometheus.NewProcessCollector(prometheus.ProcessCollectorOpts{})`: Добавляет метрики процесса (CPU, память и т.д.).
+
+**Пример использования:**
+
+```go
+package main
+
+import (
+    "fmt"
+    "log"
+    "net/http"
+    "time"
+
+    "github.com/prometheus/client_golang/prometheus"
+    "github.com/prometheus/client_golang/prometheus/collectors"
+    "github.com/prometheus/client_golang/prometheus/promauto"
+    "github.com/prometheus/client_golang/prometheus/promhttp"
+)
+
+var (
+    requestsTotal = promauto.NewCounter(prometheus.CounterOpts{
+        Name: "http_requests_total",
+        Help: "Total number of HTTP requests.",
+    })
+
+    requestDuration = promauto.NewHistogram(prometheus.HistogramOpts{
+        Name: "http_request_duration_seconds",
+        Help: "Duration of HTTP requests in seconds.",
+        Buckets: []float64{0.1, 0.2, 0.5, 1, 2, 5},
+    })
+    
+    exampleGauge = promauto.NewGauge(prometheus.GaugeOpts{
+        Name: "example_gauge",
+        Help: "Example gauge metric",
+    })
+)
+
+func myHandler(w http.ResponseWriter, r *http.Request) {
+    requestsTotal.Inc()
+    startTime := time.Now()
+    // Emulate some work
+    time.Sleep(time.Duration(100+rand.Intn(200)) * time.Millisecond)
+    
+    duration := time.Since(startTime)
+    requestDuration.Observe(duration.Seconds())
+
+    exampleGauge.Set(float64(time.Now().Unix() % 100))
+    
+    w.WriteHeader(http.StatusOK)
+    fmt.Fprint(w, "Hello, Prometheus!\n")
+}
+
+
+func main() {
+    prometheus.Register(collectors.NewGoCollector()) // Register runtime metrics
+    prometheus.Register(collectors.NewProcessCollector(collectors.ProcessCollectorOpts{}))
+    
+    http.HandleFunc("/hello", myHandler)
+    http.Handle("/metrics", promhttp.Handler())
+
+    log.Printf("Server listening on :8080")
+    log.Fatal(http.ListenAndServe(":8080", nil))
+}
+
+```
+
+В этом примере, помимо стандартных метрик, регистрируются кастомные счётчики и гистограмма, которые позволяют отслеживать HTTP запросы, их продолжительность, и некий Gauge.
+
+**Что вообще Go-программа способна о себе рассказать (оставив Прометей в стороне):**
+
+Go-программа способна рассказать о себе многое, даже без использования Prometheus. Это можно сделать с помощью:
+
+*   **Стандартного пакета `runtime`:**
+    *   Пакет `runtime` предоставляет информацию о среде выполнения Go (версия, количество горутин, использование памяти, параметры сборщика мусора и т.д.).
+    *   Можно использовать `runtime.ReadMemStats` для получения информации об использовании памяти.
+    *   Можно использовать `runtime.NumGoroutine` для получения количества активных горутин.
+    *  Можно использовать `runtime/metrics` для получения доступа к low-level метрикам.
+*   **Стандартного пакета `expvar`:**
+    *   Пакет `expvar` предоставляет простой механизм для экспорта переменных в формате JSON по HTTP.
+    *   Можно использовать `expvar` для экспорта метрик приложения.
+*   **Логирование:**
+    *   Логирование позволяет записывать информацию о событиях, происходящих в приложении.
+    *   Логи можно использовать для анализа производительности, отладки и мониторинга.
+
+**Метрики runtime - что это, и откуда берется:**
+
+Метрики runtime — это набор метрик, предоставляемых средой выполнения Go, которые отражают внутреннее состояние приложения. Эти метрики включают в себя информацию об использовании памяти, количестве горутин, времени работы сборщика мусора и т.д.
+
+Метрики runtime берутся непосредственно из среды выполнения Go. Они собираются автоматически и предоставляются через стандартный пакет `runtime` и `runtime/metrics`. Для их экспорта в Prometheus, используются `prometheus.NewGoCollector()` и `prometheus.Register`.
+
+# Как встроить стандартный профайлер в свое приложение?
+
+**Встраивание стандартного профайлера в Go-приложение:**
+
+В Golang есть встроенный профайлер, который можно использовать для анализа производительности вашего приложения. Он называется `pprof` и предоставляет данные о CPU, памяти и блокировках. Чтобы встроить его в своё приложение, нужно выполнить несколько шагов:
+
+**1. Импорт необходимых пакетов:**
+
+Сначала вам нужно импортировать пакеты `net/http` для создания HTTP сервера и `runtime/pprof` для работы с профайлером.
+
+```go
+import (
+	"log"
+	"net/http"
+	_ "net/http/pprof" // Импорт с побочным эффектом
+	"os"
+	"runtime/pprof"
+)
+```
+
+*   **`net/http`:** Необходим для запуска HTTP-сервера, который будет экспортировать данные профилирования.
+*   **`_ "net/http/pprof"`:** Важно подчеркнуть использование `_`, что значит "игнорировать импортируемое имя". Этот импорт создает побочный эффект, который регистрирует обработчики для pprof на HTTP-сервере по умолчанию.
+*   **`runtime/pprof`:** Пакет, который предоставляет функции для сбора и записи данных профилирования.
+
+**2. Запуск HTTP-сервера с профайлером:**
+
+Самый простой способ использовать профайлер - это запустить HTTP-сервер, который по умолчанию экспортирует профилирование на `/debug/pprof`. Вам нужно добавить следующий код в вашу `main` функцию:
+
+```go
+func main() {
+    // ... ваш существующий код ...
+
+    go func() {
+        log.Println(http.ListenAndServe("localhost:6060", nil))
+    }()
+
+    // ... остальной код приложения ...
+}
+```
+
+Этот код запускает HTTP-сервер на порту 6060 (вы можете использовать другой порт). По умолчанию, все pprof-обработчики регистрируются по пути `/debug/pprof/`.
+
+**3. Сбор данных профилирования:**
+
+Теперь, когда ваш HTTP-сервер с профайлером работает, вы можете собирать данные профилирования, используя `go tool pprof`:
+
+*   **CPU-профилирование:**
+    ```bash
+    go tool pprof http://localhost:6060/debug/pprof/profile
+    ```
+    Запускается интерактивный режим. Чтобы собрать данные CPU-профилирования, нужно оставить команду выполняться некоторое время, затем нажать `Ctrl+C`. После этого можно будет работать с данными профилирования.
+*   **Память (Heap) профилирование:**
+    ```bash
+    go tool pprof http://localhost:6060/debug/pprof/heap
+    ```
+*   **Блокировки:**
+     ```bash
+    go tool pprof http://localhost:6060/debug/pprof/block
+    ```
+*   **Горутины:**
+    ```bash
+    go tool pprof http://localhost:6060/debug/pprof/goroutine
+    ```
+*   **Временная трассировка (trace):**
+    ```bash
+    go tool trace http://localhost:6060/debug/pprof/trace
+    ```
+    Для трассировки нужно использовать `go tool trace` отдельно, а не `go tool pprof`.
+    Это создаст файл `trace` в текущем каталоге, который можно открыть с помощью команды `go tool trace trace`.
+
+**4. Анализ данных профилирования:**
+
+После сбора данных профилирования, `go tool pprof` запустит интерактивную оболочку, где вы можете использовать следующие команды:
+
+*   **`top`:** Показывает список функций, потребляющих больше всего ресурсов (CPU, памяти).
+*   **`web`:** Открывает веб-интерфейс с визуализацией flame graph.
+*   **`list <function_name>`:** Показывает исходный код функции и использование ресурсов в ней.
+*   **`text`:** Выводит текстовое представление профиля.
+*   **`png`:** Сохраняет flame graph в формате PNG.
+*   **`svg`:** Сохраняет flame graph в формате SVG.
+*   **`pdf`:** Сохраняет flame graph в формате PDF.
+*   **`quit`:** Выход из интерактивной оболочки.
+
+**Пример полного кода:**
+
+```go
+package main
+
+import (
+	"fmt"
+	"log"
+	"net/http"
+	_ "net/http/pprof"
+	"os"
+	"runtime/pprof"
+	"time"
+)
+
+func someWork() {
+    for i := 0; i < 1000000; i++ {
+        _ = i * i
+    }
+	time.Sleep(100 * time.Millisecond)
+}
+
+func handler(w http.ResponseWriter, r *http.Request) {
+	for i := 0; i < 10; i++ {
+		someWork()
+	}
+	fmt.Fprint(w, "Hello, pprof!\n")
+}
+
+func main() {
+	go func() {
+		log.Println(http.ListenAndServe("localhost:6060", nil))
+	}()
+
+    http.HandleFunc("/hello", handler)
+    log.Println(http.ListenAndServe(":8080", nil))
+}
+```
+**Использование через API**
+Вы также можете использовать API для управления профилированием, например, для сохранения профиля в файл:
+```go
+func main() {
+	// CPU
+	cpuFile, err := os.Create("cpu.prof")
+	if err != nil {
+		log.Fatal("Could not create CPU profile: ", err)
+	}
+	defer cpuFile.Close()
+
+	if err := pprof.StartCPUProfile(cpuFile); err != nil {
+		log.Fatal("Could not start CPU profile: ", err)
+	}
+	defer pprof.StopCPUProfile()
+
+	// MEMORY
+
+	memFile, err := os.Create("mem.prof")
+	if err != nil {
+		log.Fatal("Could not create memory profile: ", err)
+	}
+	defer memFile.Close()
+
+	// ...
+
+	
+	for i := 0; i < 10; i++ {
+		someWork()
+	}
+	if err := pprof.WriteHeapProfile(memFile); err != nil {
+		log.Fatal("Could not write memory profile: ", err)
+	}
+    fmt.Println("Profiles saved")
+}
+
+```
+
+**Примечания:**
+
+*   Профайлер оказывает некоторое влияние на производительность вашего приложения, поэтому не стоит использовать его постоянно в production.
+*   Используйте профайлер для анализа конкретных проблем с производительностью, а не для общей картины.
+*   `pprof` очень мощный инструмент, стоит изучить его команды подробнее.
+
+Встраивание `pprof` в ваше приложение - это относительно простой процесс, который может дать вам ценную информацию для оптимизации производительности вашего кода. Используйте его с умом, и вы сможете эффективно находить и устранять узкие места в вашем приложении.
+
+**Наводящие вопросы и ответы:**
+
+*   **А он нужен, профайлер? Что там есть вообще полезного?**
+    *   Профайлер нужен для анализа и оптимизации производительности приложения.
+    *   В `pprof` есть:
+        *   CPU-профилирование: Показывает, какие функции потребляют больше всего процессорного времени.
+        *   Memory-профилирование: Показывает, какие участки кода выделяют больше всего памяти.
+        *   Block-профилирование: Показывает, какие места кода блокируются (например, при ожидании мьютекса).
+        *   Goroutine-профилирование: Показывает, какие горутины активны и что они делают.
+*   **И почему его надо встраивать, а не запускать из-под него приложение?**
+    *   Встраивание профайлера позволяет собирать данные о производительности приложения в реальном времени, когда оно работает в production-среде.
+    *   Запуск приложения из-под профайлера может изменить его поведение и не отражать реальную картину.
+    *   Встраивание профайлера позволяет собирать данные только тогда, когда это необходимо, и избегать лишней нагрузки на систему.
+    *  Встраивание (через `net/http/pprof`) позволяет получать доступ к данным профилирования удаленно, без остановки приложения.
+
+**Что оценивается:**
+
+1.  **Знание инструмента:** Понимание, что такое `pprof` и как его использовать.
+2.  **Опыт в решении проблем производительности:** Наличие опыта в анализе и оптимизации производительности приложений.
+3.  **Умение использовать инструменты:** Способность использовать `pprof` для выявления узких мест в коде.
+4.  **Понимание важности профилирования:** Знание о том, что профилирование является важной частью процесса разработки и оптимизации приложений.
+5.  **Готовность к обучению:** Готовность изучать новые инструменты и методы для решения проблем производительности.
