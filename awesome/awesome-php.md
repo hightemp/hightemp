@@ -198,6 +198,7 @@
 - Отладчики, Debugger
   - XDebug
     - Настройка xDebug с Docker в PHPStorm https://itelmenko.ru/php/xdebug-docker-phpstorm/
+    - PHP: Настраиваем отладку. PhpStorm + PHP 8 + Docker + Xdebug 3 https://dzen.ru/a/ZuFQ4zrHfAToBlJn
 - Composer
   - How to Build Your First PHP Package https://laravel-news.com/create-a-php-package-from-scratch?utm_source=weeklyphp&utm_medium=email
 - Doctrine
