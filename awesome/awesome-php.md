@@ -195,6 +195,9 @@
     - Готовимся к собеседованию по PHP: псевдотип «callable» https://habr.com/ru/articles/259991/
     - Готовимся к собеседованию по PHP: Всё об итерации и немного про псевдотип «iterable» https://habr.com/ru/articles/324934/
     - Готовимся к собеседованию по PHP: Всё, что вы хотели узнать об интерфейсах, совместимости сигнатур и не побоялись узнать https://habr.com/ru/articles/328890/
+- Отладчики
+  - XDebug
+    - Настройка xDebug с Docker в PHPStorm https://itelmenko.ru/php/xdebug-docker-phpstorm/
 - Composer
   - How to Build Your First PHP Package https://laravel-news.com/create-a-php-package-from-scratch?utm_source=weeklyphp&utm_medium=email
 - Doctrine
