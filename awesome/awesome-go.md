@@ -498,6 +498,7 @@
   - What's the best Static Analysis tool for Golang? https://www.dolthub.com/blog/2024-07-24-static-analysis/
 - Makefile
   - Makefile для самых маленьких https://habr.com/ru/articles/155201/
+  - Learn Makefiles With the tastiest examples https://makefiletutorial.com/
 - vim, nvim
   - My NeoVim Go(lang) setup — As good as Intellj/Goland IDE https://medium.com/@suyash10581108/my-neovim-go-lang-setup-as-good-as-intellj-goland-ide-d48dd765f6de
   - Configure Neovim for Golang https://andrewcourter.substack.com/p/configure-neovim-for-golang
