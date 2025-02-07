@@ -79,6 +79,7 @@
     - Symfony routing tricks (part 2) https://backbeat.tech/blog/symfony-routing-tricks-part-2
   - Service container
     - Основное
+      - Service Container https://symfony.com/doc/current/service_container.html
       - How to Create Service Aliases and Mark Services as Private https://symfony.com/doc/current/service_container/alias_private.html
     - Остальное
       - Diving into Symfony’s DependencyInjection — Part 1: First steps with the container https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first-steps-with-the-container-2fad0593c052
