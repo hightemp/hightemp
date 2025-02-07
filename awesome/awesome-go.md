@@ -482,6 +482,7 @@
     - Scheduling In Go : Part III - Concurrency https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
     - 3 Easy Ways To Add Version Flag in Go https://jerrynsh.com/3-easy-ways-to-add-version-flag-in-go/
     - Коллеги, вы меня огорчаете https://habr.com/ru/companies/oleg-bunin/articles/521582/
+    - Почему язык Go плох для НЕумных программистов https://habr.com/ru/articles/448932/
 - Подготовка к собеседованию
   - Гайд по подготовке к собеседованию для Backend-разработчиков https://habr.com/ru/articles/876808/
 - Линтеры
