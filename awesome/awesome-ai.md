@@ -119,6 +119,7 @@
 - https://chat.qwenlm.ai
 - https://www.typingmind.com/
 - https://www.aiuncensored.info/
+- https://www.hailuo.ai/
 - https://openrouter.ai/
 - https://groq.com/
 - https://openchat.team/
