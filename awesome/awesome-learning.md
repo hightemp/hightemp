@@ -48,6 +48,7 @@
 - Англиийский
   - Слова для уровня английского A2 Pre-Intermediate https://tefl-tesol-certificate.com/blog/slova-dlya-urovnya-anglijskogo-a2-pre-intermediate
   - https://word-by-word.ru/ratings/cefr-a2
+  - Слова с A1 по C2 https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000
 
 ### Инструменты
 
