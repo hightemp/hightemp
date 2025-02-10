@@ -61,6 +61,7 @@
 - L2TP IPIP
 - L2TPv3
 - GRE (Generic Routing Encapsulation) IPIP
+    - An introduction to Linux virtual interfaces: Tunnels https://developers.redhat.com/blog/2019/05/17/an-introduction-to-linux-virtual-interfaces-tunnels
 - SIT
 - VXLAN
 - Вирутальные коммутаторы
