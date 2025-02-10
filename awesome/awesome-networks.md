@@ -86,3 +86,9 @@
     - Сложно о простом. Самые популярные протоколы и принципы их работы. ARP, ICMP, IGMP, TCP, UDP, SCTP, DNS и DHCP. Часть 1 https://habr.com/ru/companies/timeweb/articles/848604/
     - Сложно о простом. Самые популярные протоколы туннелирования, динамической маршрутизации и принципы их работы. Часть 2 https://habr.com/ru/companies/timeweb/articles/851946/
     - Функционирование сетей на транспортном уровне https://habr.com/ru/companies/nauka/articles/865002/
+
+### Блоги
+
+- https://www.vanwerkhoven.org/blog/
+
+### Видео
