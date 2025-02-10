@@ -60,7 +60,7 @@
 - IPIP
 - L2TP IPIP
 - L2TPv3
-- GRE IPIP
+- GRE (Generic Routing Encapsulation) IPIP
 - SIT
 - VXLAN
 - Вирутальные коммутаторы
