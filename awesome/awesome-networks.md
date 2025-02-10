@@ -58,10 +58,12 @@
 - ECH
     - Протокол ECH в браузере https://habr.com/ru/articles/851882/
 - IPIP
+    - An introduction to Linux virtual interfaces: Tunnels https://developers.redhat.com/blog/2019/05/17/an-introduction-to-linux-virtual-interfaces-tunnels
 - L2TP IPIP
 - L2TPv3
 - GRE (Generic Routing Encapsulation) IPIP
     - An introduction to Linux virtual interfaces: Tunnels https://developers.redhat.com/blog/2019/05/17/an-introduction-to-linux-virtual-interfaces-tunnels
+    - ipip_gre_tunneling.md https://gist.github.com/kalyco/22f528066285497141a40c20292e9d3a
 - SIT
 - VXLAN
 - Вирутальные коммутаторы
