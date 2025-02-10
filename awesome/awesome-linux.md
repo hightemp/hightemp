@@ -127,6 +127,10 @@
 - RabbitMQ
     - How to Install RabbitMQ Server on Linux (Quick Guide) https://linuxtldr.com/install-rabbitmq-server-on-linux/
 - VyOS
+    - Основное
+        - https://vyos.io/
+    - Остальное
+        - Программная маршрутизация с VyOS https://selectel.ru/blog/programmnaya-marshrutizaciya-s-vyos/
 - Nix
     - NixOs
         - Немного о NixOS. Часть 1. Общая информация и установка https://habr.com/ru/articles/826148/
