@@ -38,6 +38,7 @@
   - Полное руководство по CMake. Часть первая: Синтаксис https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-pervaya-Sintaksis-02-27
   - Полное руководство по CMake. Часть вторая: Система сборки https://web.archive.org/web/20220528140444/https://habr.com/en/post/432096/
 - Make, Makefile
+  - GNU make https://www.gnu.org/software/make/manual/make.html
   - Makefile для самых маленьких https://habr.com/ru/articles/155201/
   - Makefile Tutorials and Examples to Build From https://earthly.dev/blog/make-tutorial/
   - Learn Makefiles With the tastiest examples https://makefiletutorial.com/
