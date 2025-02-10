@@ -132,9 +132,9 @@
     - Основное
         - https://vyos.net/get/nightly-builds/
         - VyOS https://ru.wikipedia.org/wiki/VyOS
-    - Routing
-        - VyOS from Scratch: Routing and VPS Edition https://blog.kroy.io/2021/06/23/vyos-from-scratch-routing-and-vps-edition/
     - Остальное
+        - VyOS from Scratch: Routing and VPS Edition https://blog.kroy.io/2021/06/23/vyos-from-scratch-routing-and-vps-edition/
+        - Homelab Proxmox + Debian + VyOS upgrade migration https://www.vanwerkhoven.org/blog/2024/homelab-upgrade-migration/
         - VyOS OpenSource Router https://habr.com/ru/articles/435568/
         - Создание отказоустойчивой ИТ инфраструктуры. Часть 3. Организация маршрутизации на роутерах VyOS https://habr.com/ru/companies/lenvendo/articles/487408/
         - Программная маршрутизация с VyOS https://selectel.ru/blog/programmnaya-marshrutizaciya-s-vyos/
