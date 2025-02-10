@@ -25,6 +25,7 @@
 
 - https://www.cppstories.com/
 - https://nullprogram.com/
+- https://www.cs.swarthmore.edu/~newhall/unixhelp/
 
 ### Статьи
 
