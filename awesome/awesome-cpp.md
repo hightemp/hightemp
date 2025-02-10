@@ -42,6 +42,7 @@
   - Learn Makefiles With the tastiest examples https://makefiletutorial.com/
   - Understanding Makefiles: How They Work and Why You Need Them https://shawnguyen.medium.com/understanding-makefiles-how-they-work-and-why-you-need-them-4b2071f0dfac
   - Using make and writing Makefiles https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html
+  - A Simple Makefile Tutorial https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
 - Exceptions
   - Understanding the .gcc_except_table section in ELF binaries (GCC) https://martin.uy/blog/understanding-the-gcc_except_table-section-in-elf-binaries-gcc/
   - How to Handle Exceptions in C++ https://rollbar.com/guides/cpp/how-to-handle-exceptions-in-cpp/
