@@ -138,6 +138,7 @@
         - VyOS from Scratch: Routing and VPS Edition https://blog.kroy.io/2021/06/23/vyos-from-scratch-routing-and-vps-edition/
         - Homelab Proxmox + Debian + VyOS upgrade migration https://www.vanwerkhoven.org/blog/2024/homelab-upgrade-migration/
     - Остальное
+        - Configuring A and AAAA records in VyOS 1.1.7 https://blog.mana.ee/2017/11/30/configuring-a-and-aaaa-records-in-vyos/
         - VPN tunnel between Cisco and VyOS routers using VTIs https://dosztal.com/blog/vpn-cisco-vyos/
         - VyOS OpenSource Router https://habr.com/ru/articles/435568/
         - Создание отказоустойчивой ИТ инфраструктуры. Часть 3. Организация маршрутизации на роутерах VyOS https://habr.com/ru/companies/lenvendo/articles/487408/
