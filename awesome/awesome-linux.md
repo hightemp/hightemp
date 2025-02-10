@@ -131,6 +131,7 @@
         - https://vyos.net/get/nightly-builds/
         - VyOS https://ru.wikipedia.org/wiki/VyOS
     - Остальное
+        - VyOS OpenSource Router https://habr.com/ru/articles/435568/
         - Программная маршрутизация с VyOS https://selectel.ru/blog/programmnaya-marshrutizaciya-s-vyos/
         - Программная маршрутизация с VyOS в условиях санкций https://lwcom.ru/blog/programmnaya-marshrutizatsiya-s-vyos-v-usloviyakh-sanktsiy/
 - Nix
