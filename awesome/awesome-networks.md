@@ -45,6 +45,7 @@
     - OpenConnect
         - Поднимаем OpenConnect SSL VPN сервер (ocserv) в docker для внутренних проектов https://dzen.ru/a/ZjP3xxLRw0ucW3dh
         - OpenConnect: недетектируемый VPN, который вам понравится https://habr.com/ru/articles/776256/
+    - PPTP
     - Остальное    
 - Wireguard
     - WireGuard inside WireGuard: Accessing my homelab through my VPN provider https://sidhion.com/blog/posts/wireguard-inside-wireguard-homelab/
@@ -59,7 +60,6 @@
 - IPIP
 - L2TP IPIP
 - L2TPv3
-- PPTP
 - GRE IPIP
 - SIT
 - VXLAN
