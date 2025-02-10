@@ -126,7 +126,7 @@
     - Podman at the edge: Keeping services alive with custom healthcheck actions https://www.redhat.com/en/blog/podman-edge-healthcheck
 - RabbitMQ
     - How to Install RabbitMQ Server on Linux (Quick Guide) https://linuxtldr.com/install-rabbitmq-server-on-linux/
-- VyOS
+- VyOS (Open-source fully functional router and firewall platform)
     - Основное
         - https://vyos.io/
     - Остальное
