@@ -42,6 +42,11 @@
 - Wireguard
     - WireGuard inside WireGuard: Accessing my homelab through my VPN provider https://sidhion.com/blog/posts/wireguard-inside-wireguard-homelab/
     - Check If a WireGuard Connection Is Up https://hjr265.me/blog/check-if-a-wireguard-connection-is-up/
+- DNS
+    - Основное
+    - Ad blocking
+        - DNS Resolvers https://www.privacyguides.org/en/dns/
+    - Остальное
 - ECH
     - Протокол ECH в браузере https://habr.com/ru/articles/851882/
 - Вирутальные коммутаторы
