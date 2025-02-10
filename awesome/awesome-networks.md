@@ -31,8 +31,8 @@
 
 ### Статьи
 
-- Протокол QUIC в деле: как его внедрял Uber, чтобы оптимизировать производительность https://habr.com/ru/companies/Voximplant/articles/463073/
-- Ищем альтернативу Ngrok в России https://habr.com/ru/articles/833884/
+- QUIC
+    - Протокол QUIC в деле: как его внедрял Uber, чтобы оптимизировать производительность https://habr.com/ru/companies/Voximplant/articles/463073/
 - SSH
     - SOCKS Proxy Over SSH https://hjr265.me/blog/socks-proxy-over-ssh/
 - VPN
@@ -62,6 +62,7 @@
     - TCP Congestion Control
     - TCP Segmentation Offload (TSO)
 - Остальное
+    - Ищем альтернативу Ngrok в России https://habr.com/ru/articles/833884/
     - Сложно о простом. Самые популярные протоколы и принципы их работы. ARP, ICMP, IGMP, TCP, UDP, SCTP, DNS и DHCP. Часть 1 https://habr.com/ru/companies/timeweb/articles/848604/
     - Сложно о простом. Самые популярные протоколы туннелирования, динамической маршрутизации и принципы их работы. Часть 2 https://habr.com/ru/companies/timeweb/articles/851946/
     - Функционирование сетей на транспортном уровне https://habr.com/ru/companies/nauka/articles/865002/
