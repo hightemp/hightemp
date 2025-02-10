@@ -129,6 +129,7 @@
 - VyOS (Open-source fully functional router and firewall platform)
     - Основное
         - https://vyos.io/
+        - https://vyos.net/get/nightly-builds/
     - Остальное
         - Программная маршрутизация с VyOS https://selectel.ru/blog/programmnaya-marshrutizaciya-s-vyos/
 - Nix
