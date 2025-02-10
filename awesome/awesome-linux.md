@@ -132,6 +132,7 @@
         - VyOS https://ru.wikipedia.org/wiki/VyOS
     - Остальное
         - VyOS OpenSource Router https://habr.com/ru/articles/435568/
+        - Создание отказоустойчивой ИТ инфраструктуры. Часть 3. Организация маршрутизации на роутерах VyOS https://habr.com/ru/companies/lenvendo/articles/487408/
         - Программная маршрутизация с VyOS https://selectel.ru/blog/programmnaya-marshrutizaciya-s-vyos/
         - Программная маршрутизация с VyOS https://habr.com/ru/companies/selectel/articles/248907/
         - Программная маршрутизация с VyOS в условиях санкций https://lwcom.ru/blog/programmnaya-marshrutizatsiya-s-vyos-v-usloviyakh-sanktsiy/
