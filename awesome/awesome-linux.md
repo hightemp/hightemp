@@ -132,6 +132,7 @@
         - VyOS https://ru.wikipedia.org/wiki/VyOS
     - Остальное
         - Программная маршрутизация с VyOS https://selectel.ru/blog/programmnaya-marshrutizaciya-s-vyos/
+        - Программная маршрутизация с VyOS в условиях санкций https://lwcom.ru/blog/programmnaya-marshrutizatsiya-s-vyos-v-usloviyakh-sanktsiy/
 - Nix
     - NixOs
         - Немного о NixOS. Часть 1. Общая информация и установка https://habr.com/ru/articles/826148/
