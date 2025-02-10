@@ -237,3 +237,7 @@
 ## Остальное
 
 - https://github1s.com/
+
+## Видео
+
+- CT Lectures (ИТМО) https://www.youtube.com/@ctlectures/playlists
