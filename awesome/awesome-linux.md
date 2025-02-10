@@ -133,7 +133,6 @@
         - https://vyos.net/get/nightly-builds/
         - VyOS https://ru.wikipedia.org/wiki/VyOS
     - Wireguard
-        - OSPF over Wireguard with VyOS https://www.eliseomartelli.it/blog/vyos-ospf-wireguard
     - Homelab
         - VyOS from Scratch: Routing and VPS Edition https://blog.kroy.io/2021/06/23/vyos-from-scratch-routing-and-vps-edition/
         - Homelab Proxmox + Debian + VyOS upgrade migration https://www.vanwerkhoven.org/blog/2024/homelab-upgrade-migration/
