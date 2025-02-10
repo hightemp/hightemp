@@ -39,6 +39,7 @@
   - Полное руководство по CMake. Часть вторая: Система сборки https://web.archive.org/web/20220528140444/https://habr.com/en/post/432096/
 - Make, Makefile
   - Makefile для самых маленьких https://habr.com/ru/articles/155201/
+  - Makefile Tutorials and Examples to Build From https://earthly.dev/blog/make-tutorial/
   - Learn Makefiles With the tastiest examples https://makefiletutorial.com/
   - Understanding Makefiles: How They Work and Why You Need Them https://shawnguyen.medium.com/understanding-makefiles-how-they-work-and-why-you-need-them-4b2071f0dfac
   - Using make and writing Makefiles https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html
