@@ -777,6 +777,7 @@
 - GPT-2 from Scratch in C (Day 1/2) https://www.youtube.com/watch?v=d1LNUvkRMEg
 - Let's build the GPT Tokenizer https://www.youtube.com/watch?v=zduSFxRajkE
 - A Hacker’s Guide to LLMs от Джереми Ховарда https://www.youtube.com/watch?v=jkrNMKz9pWU
+- Подкаст Лекса Фридмана с Дилой Пателом - Подкаст охватывает ключевые основы и актуальные темы в области нейросетей и оборудования, включая ризонинг-модели, открытые веса, особенности DeepSeek и его затраты, а также этические вопросы, связанные с использованием данных, предлагая глубокий анализ современного состояния технологий. https://youtu.be/_1f-o0nqpEI
 
 ### Полезные ссылки
 
