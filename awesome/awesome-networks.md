@@ -36,9 +36,16 @@
 - SSH
     - SOCKS Proxy Over SSH https://hjr265.me/blog/socks-proxy-over-ssh/
 - VPN
-    - Развёртывание IPsec VPN в Yandex Cloud с помощью шлюза безопасности https://github.com/yandex-cloud-examples/yc-site-to-site-vpn-with-ipsec-strongswan
-    - Поднимаем OpenConnect SSL VPN сервер (ocserv) в docker для внутренних проектов https://dzen.ru/a/ZjP3xxLRw0ucW3dh
-    - OpenConnect: недетектируемый VPN, который вам понравится https://habr.com/ru/articles/776256/
+    - OpenVPN
+    - GRE
+    - IPSec
+        - Развёртывание IPsec VPN в Yandex Cloud с помощью шлюза безопасности https://github.com/yandex-cloud-examples/yc-site-to-site-vpn-with-ipsec-strongswan
+    - IPSec VTI
+    - DMVPN
+    - OpenConnect
+        - Поднимаем OpenConnect SSL VPN сервер (ocserv) в docker для внутренних проектов https://dzen.ru/a/ZjP3xxLRw0ucW3dh
+        - OpenConnect: недетектируемый VPN, который вам понравится https://habr.com/ru/articles/776256/
+    - Остальное    
 - Wireguard
     - WireGuard inside WireGuard: Accessing my homelab through my VPN provider https://sidhion.com/blog/posts/wireguard-inside-wireguard-homelab/
     - Check If a WireGuard Connection Is Up https://hjr265.me/blog/check-if-a-wireguard-connection-is-up/
