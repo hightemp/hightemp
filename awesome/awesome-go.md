@@ -935,6 +935,8 @@
     - https://gosamples.dev/e2e-httptest/
   - Table Driven Testing, Табличные тесты
     - Table Driven Testing In Parallel https://gopherguides.com/articles/table-driven-testing-in-parallel
+  - Покрытие тестами, test caverage
+    - Визуализация покрытия автотестами для gRPC сервисов https://habr.com/ru/articles/845020/
   - Остальное
     - Как мы ускорили Golang-тесты на CI https://habr.com/ru/companies/kuper/articles/806725/
     - Optimising and Visualising Go Tests Parallelism: Why more cores don't speed up your Go tests https://threedots.tech/post/go-test-parallelism
