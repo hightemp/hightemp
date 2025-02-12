@@ -524,7 +524,7 @@
 - Оптимизация
   - SIMD
     - Go Plan9 Memo, Speeding Up Calculations 450%; В статье описывается разработка SIMD-пакета для языка Go с использованием ассемблера Plan9, что позволило ускорить вычисления на 450% за счет параллельной обработки данных на аппаратном уровне. https://pehringer.info/go_plan9_memo.html
-  - PGO
+  - PGO (Profile-guided Optimization)
     - Как ускорить программу, не переписав ни строчки кода: PGO для Go-разработчиков https://habr.com/ru/articles/846818/
   - Остальное
     - Maps and memory leaks https://100go.co/28-maps-memory-leaks/
