@@ -58,6 +58,7 @@
     - Vue.js + Vuex — JWT аутентификация (руководство и примеры) https://emackovenko.ru/vue-js-vuex-jwt-autentifikaciya-instrukciya-prime/
 - Redux
     - How We Use Redux & Redux-Observable with Vue (v3.0 Journal) https://snipcart.com/blog/redux-vue
+    - Redux vs Vuex for state management in Vue.js https://agilno.com/blog/redux-vs-vuex-for-state-management-in-vue-js/
 - Примеры приложений
     - Building an LLM chat interface using Ollama and Vue https://medium.com/@mpalmerlee/building-an-llm-chat-interface-using-ollama-and-vue-5bf4e2fc65fd
 
