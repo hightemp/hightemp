@@ -56,6 +56,8 @@
     - Контекст в Vue/Nuxt: осознать, не терять и беречь https://habr.com/ru/articles/812145/
 - JWT
     - Vue.js + Vuex — JWT аутентификация (руководство и примеры) https://emackovenko.ru/vue-js-vuex-jwt-autentifikaciya-instrukciya-prime/
+- Redux
+    - How We Use Redux & Redux-Observable with Vue (v3.0 Journal) https://snipcart.com/blog/redux-vue
 - Примеры приложений
     - Building an LLM chat interface using Ollama and Vue https://medium.com/@mpalmerlee/building-an-llm-chat-interface-using-ollama-and-vue-5bf4e2fc65fd
 
