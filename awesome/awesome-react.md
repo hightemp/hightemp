@@ -142,6 +142,7 @@
             - Учим useReducer на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-usereducer-na-primerah-react-hooks/
             - useReducer https://reactdev.ru/reference/react/useReducer/
             - React useReducer Hook - The Basics https://refine.dev/blog/react-usereducer/
+            - React useReducer Hook: The Ultimate Guide (With Examples) https://www.memberstack.com/blog/react-usereducer
         - useLayoutEffect
         - useDebugValue
         - useId
