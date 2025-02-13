@@ -186,6 +186,8 @@
         - Learning Resources https://redux.js.org/introduction/learning-resources/
         - Redux Fundamentals, Part 1: Redux Overview https://redux.js.org/tutorials/fundamentals/part-1-overview
         - Быстрый старт с React Redux https://ru.react-redux.js.org/tutorials/quick-start/
+    - Redux-Thunk
+        - Асинхронные действия Redux с Redux Thunk https://www.digitalocean.com/community/tutorials/redux-redux-thunk-ru
     - Остальное
         - Redux Middleware Comparison: Thunk, Sagas, Observable & Loop https://sandstorm.de/blog/posts/async-redux-middleware-comparison/
 - Zod
