@@ -119,6 +119,9 @@
 - https://blog.logrocket.com/
 - https://tkdodo.eu/blog/all
 - https://www.carmatec.com/category/react/
+- https://dev.to/t/react
+- https://medium.com/tag/reactjs
+- https://medium.com/tag/react
 
 ### Статьи
 
