@@ -186,6 +186,8 @@
         - Learning Resources https://redux.js.org/introduction/learning-resources/
         - Redux Fundamentals, Part 1: Redux Overview https://redux.js.org/tutorials/fundamentals/part-1-overview
         - Быстрый старт с React Redux https://ru.react-redux.js.org/tutorials/quick-start/
+    - Остальное
+        - Redux Middleware Comparison: Thunk, Sagas, Observable & Loop https://sandstorm.de/blog/posts/async-redux-middleware-comparison/
 - Zod
 - tRPC
     - Основное
