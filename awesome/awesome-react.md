@@ -145,6 +145,7 @@
         - useRef
             - Учим useRef на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-useref-na-primerah/
             - Доступ к данным через рефы в React https://it-dev-journal.ru/articles/dostup-k-dannym-cherez-refy
+            - Understanding the React useRef Hook https://refine.dev/blog/react-useref-hook-and-ref/
         - useContext
             - Проблема React Context API https://dev.to/balaevarif/react-context-api-3h01
             - Руководство по React Context и хуку useContext() https://dzen.ru/a/YV_aowLzun3KZ30z
