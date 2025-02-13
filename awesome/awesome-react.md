@@ -108,6 +108,15 @@
 
 ### Блоги 
 
+- https://www.reactbits.com/
+- http://initjs.org/
+- http://reactjs.org/
+- https://overreacted.io/
+- https://reactarmory.com/
+- https://react.rocks/
+- https://ui.dev/free-react-bootcamp
+- http://alligator.io/
+- https://blog.logrocket.com/
 - https://tkdodo.eu/blog/all
 
 ### Статьи
