@@ -46,7 +46,7 @@
     - https://github.com/radix-ui/themes https://www.radix-ui.com/
     - Origin UI - это обширная коллекция компонентов для быстрого создания пользовательского интерфейса приложений, включающая сотни настраиваемых компонентов с последовательным оформлением, регулярными обновлениями, добавлением новых элементов и поддержкой темного режима интерфейса "из коробки". https://github.com/origin-space/originui
 - Формы
-    - https://react-hook-form.com/
+    - https://react-hook-form.com/ https://github.com/react-hook-form/react-hook-form
     - https://github.com/jaredpalmer/formik
 - Таблицы
     - https://github.com/TanStack/table/tree/main Демо: https://tanstack.com/table/v8/docs/framework/react/examples/custom-features
@@ -140,6 +140,7 @@
             - useContext() Hook in Next.js - React Hooks https://www.coffeeclass.io/articles/nextjs-usecontext
         - useReducer
             - Учим useReducer на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-usereducer-na-primerah-react-hooks/
+            - 3 причины использовать useReducer() вместо useState() https://build-in-saratov.com/reasons-to-use-usereducer/
         - useLayoutEffect
         - useDebugValue
         - useId
