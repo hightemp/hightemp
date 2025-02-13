@@ -180,9 +180,11 @@
 - React Router
     - Mastering React Router DOM: The Shortcut to Smooth Navigation in React https://sweabhishek.hashnode.dev/mastering-react-router-dom-the-shortcut-to-smooth-navigation-in-react
 - Redux
-    - Подробное руководство по Redux https://codelab.pro/podrobnoe-rukovodstvo-po-redux/
-    - Redux для новичков: база, с которой можно стартовать https://habr.com/ru/companies/otus/articles/863002/
-    - Learning Resources https://redux.js.org/introduction/learning-resources/
+    - Основное
+        - Подробное руководство по Redux https://codelab.pro/podrobnoe-rukovodstvo-po-redux/
+        - Redux для новичков: база, с которой можно стартовать https://habr.com/ru/companies/otus/articles/863002/
+        - Learning Resources https://redux.js.org/introduction/learning-resources/
+        - Быстрый старт с React Redux https://ru.react-redux.js.org/tutorials/quick-start/
 - Zod
 - tRPC
     - Основное
