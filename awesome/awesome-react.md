@@ -175,6 +175,9 @@
         - Как я перестал беспокоиться и полюбил тестирование React-компонентов https://habr.com/ru/companies/elbrusbootcamp/articles/651033/
 - React Router
     - Mastering React Router DOM: The Shortcut to Smooth Navigation in React https://sweabhishek.hashnode.dev/mastering-react-router-dom-the-shortcut-to-smooth-navigation-in-react
+- Redux
+    - Подробное руководство по Redux https://codelab.pro/podrobnoe-rukovodstvo-po-redux/
+    - Redux для новичков: база, с которой можно стартовать https://habr.com/ru/companies/otus/articles/863002/
 - Zod
 - tRPC
     - Основное
