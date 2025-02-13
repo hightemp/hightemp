@@ -172,6 +172,7 @@
     - Jest
         - React: тестируем компоненты с помощью Jest и Testing Library https://habr.com/ru/companies/timeweb/articles/670480/
         - React JS Jest: Beginner's Guide https://daily.dev/blog/react-js-jest-beginners-guide
+        - Как я перестал беспокоиться и полюбил тестирование React-компонентов https://habr.com/ru/companies/elbrusbootcamp/articles/651033/
 - React Router
     - Mastering React Router DOM: The Shortcut to Smooth Navigation in React https://sweabhishek.hashnode.dev/mastering-react-router-dom-the-shortcut-to-smooth-navigation-in-react
 - Zod
