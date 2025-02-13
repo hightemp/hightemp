@@ -106,6 +106,10 @@
     - https://github.com/electron-react-boilerplate/electron-react-boilerplate
     - https://github.com/electron-vite/electron-vite-react
 
+### Блоги 
+
+- https://tkdodo.eu/blog/all
+
 ### Статьи
 
 - Основное
