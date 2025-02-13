@@ -48,6 +48,10 @@
   - FSD
     - https://github.com/feature-sliced/examples
 
+### Демо API, Fake API
+
+- Free fake and reliable API for testing and prototyping. Powered by JSON Server + LowDB. https://jsonplaceholder.typicode.com/
+
 ### Книги
 
 - Learning JavaScript Design Patterns, Addy Osmani https://patterns.addy.ie/
