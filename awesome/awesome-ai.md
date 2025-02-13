@@ -626,7 +626,7 @@
 - Nvidia Deep Learning Institute - бесплатный онлайн-курс технологической компании Nvidia по изучению нейросетей, машинного обучения, обработки данных и видео с возможностью получения сертификата в конце. https://developer.nvidia.com/join-nvidia-developer-program?ncid=pa-srch-goog-749959-Developer-Gen-Broad&_bt=719473581984&_bk=nvidia%20deep%20learning%20institute&_bm=b&_bn=g&_bg=167029173822&gad_source=1&gclid=CjwKCAiAneK8BhAVEiwAoy2HYYQvJztbOahZTEScu69BncvSxIFiBBwZ4Hrz6Yyg_qDAor08IRtpohoCJ7sQAvD_BwE
 - туториал об Instruction Tuning LlaMa-2 https://www.philschmid.de/instruction-tune-llama-2
 - Это набор лекций, которые покрывают такие прикладные темы как RAG (https://t.me/ai_newz/2566), файн-тюнинг, промпт-инжиниринг, оценка качества моделей и прочее. Курс уникальный, потому что лекции ведут 25+ разных опытных чуваков из индустрии, которые являются экспертами по соответсвующим темам. Там ребята из Pytorch (Meta), Anthropic, Mistral, Fireworks-ai и других компаний. https://parlance-labs.com/education/
-- https://imageprompt.org/ru/tutorials
+- Уроки, как писать промты к генераторам изображений. https://imageprompt.org/ru/tutorials
 
 ### Учебники
 
