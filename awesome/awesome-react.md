@@ -182,6 +182,7 @@
 - Redux
     - Подробное руководство по Redux https://codelab.pro/podrobnoe-rukovodstvo-po-redux/
     - Redux для новичков: база, с которой можно стартовать https://habr.com/ru/companies/otus/articles/863002/
+    - Learning Resources https://redux.js.org/introduction/learning-resources/
 - Zod
 - tRPC
     - Основное
