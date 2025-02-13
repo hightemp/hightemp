@@ -139,11 +139,13 @@
             - Understanding useContext Hooks in React – An introduction and a Comprehensive Guide for Web Developers https://dev.to/jlerocher/understanding-usecontext-hooks-in-react-an-introduction-and-a-comprehensive-guide-for-web-developers-1fhp
             - useContext() Hook in Next.js - React Hooks https://www.coffeeclass.io/articles/nextjs-usecontext
         - useReducer
+            - Учим useReducer на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-usereducer-na-primerah-react-hooks/
         - useLayoutEffect
         - useDebugValue
         - useId
         - useSyncExternalStore
         - Остальное
+            - Все хуки и концепты React в одной статье https://habr.com/ru/articles/660573/
             - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
     - Остальное
 - Тестирование
