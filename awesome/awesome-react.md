@@ -140,7 +140,7 @@
             - useContext() Hook in Next.js - React Hooks https://www.coffeeclass.io/articles/nextjs-usecontext
         - useReducer
             - Учим useReducer на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-usereducer-na-primerah-react-hooks/
-            - 3 причины использовать useReducer() вместо useState() https://build-in-saratov.com/reasons-to-use-usereducer/
+            - useReducer https://reactdev.ru/reference/react/useReducer/#usereducer
         - useLayoutEffect
         - useDebugValue
         - useId
