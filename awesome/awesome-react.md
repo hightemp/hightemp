@@ -143,6 +143,7 @@
             - useReducer https://reactdev.ru/reference/react/useReducer/
             - React useReducer Hook - The Basics https://refine.dev/blog/react-usereducer/
             - React useReducer Hook: The Ultimate Guide (With Examples) https://www.memberstack.com/blog/react-usereducer
+            - Choosing between useReducer and useState in React https://blog.saeloun.com/2023/03/30/when-to-use-usestate-vs-usereducer/
         - useLayoutEffect
         - useDebugValue
         - useId
