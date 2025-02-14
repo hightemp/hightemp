@@ -197,6 +197,7 @@
         - React integration https://mobx.js.org/react-integration.html
     - Остальное
         - Redux vs Mobx кого же выбрать для React-приложения в 2024 году? https://habr.com/ru/articles/795901/
+        - Под капотом у Mobx. Пишем свою реактивную библиотеку с нуля https://habr.com/ru/articles/689374/
 - Zod
 - tRPC
     - Основное
