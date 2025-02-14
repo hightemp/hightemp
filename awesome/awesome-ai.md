@@ -506,24 +506,30 @@
         - Репозиторий: [GitHub - Ultralytics YOLO11](https://github.com/ultralytics/ultralytics)  
         - Документация: [Ultralytics YOLO11 Docs](https://docs.ultralytics.com/models/yolo11/)  
         - Демо: Включает примеры использования для задач обнаружения объектов, сегментации, классификации и оценки позы .
-
     - **YOLOv9**  
         - Репозиторий: [GitHub - YOLOv9](https://github.com/MultimediaTechLab/YOLO)  
         - Демо: Примеры для обучения и инференса, включая поддержку ONNX и TensorRT .
-
     - **YOLOv8**  
         - Репозиторий: [GitHub - YOLOv8](https://github.com/orYx-models/yolov8)  
         - Документация: [Ultralytics YOLOv8 Docs](https://docs.ultralytics.com/models/yolov8/)  
         - Демо: Примеры использования для обнаружения объектов, сегментации и оценки позы .
-
     - **YOLOv5**  
         - Репозиторий: [GitHub - YOLOv5](https://github.com/ultralytics/yolov5)  
         - Документация: [PyTorch Hub - YOLOv5](https://pytorch.org/hub/ultralytics_yolov5/)  
         - Демо: Примеры инференса и обучения с использованием PyTorch Hub .
-
     - **YOLO-RD (YOLO с Retrieval-Dictionary)**  
         - Репозиторий: [GitHub - YOLO-RD](https://github.com/MultimediaTechLab/YOLO)  
         - Демо: Примеры для обучения и инференса с поддержкой программируемых градиентов .
+- Faster R-CNN: Высокоточная модель для обнаружения объектов, требующая значительных вычислительных ресурсов.
+- Vision Transformer (ViT): Использует трансформеры для обработки изображений, применяя подходы из обработки естественного языка.
+- Mask R-CNN: Расширение Faster R-CNN для сегментации объектов.
+- MobileNet: Легковесная модель для мобильных устройств.
+- EfficientNet: Оптимизированная модель для классификации изображений с высокой точностью и эффективностью.
+- DINOv2: Самообучающаяся модель от Meta Research для обучения без разметки.
+- Grounding DINO: Модель нулевого обучения для обнаружения объектов.
+- CoAtNet: Гибридная сеть, сочетающая свёрточные и трансформерные слои.
+- YOLACT: Модель для сегментации объектов в реальном времени.
+- OpenPose: Модель для детекции позы человека.
 
 ### Полезные chrome ai-расширения
 
