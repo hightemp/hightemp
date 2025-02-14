@@ -499,6 +499,32 @@
 
 - https://github.com/DenisSergeevitch/chatgpt-custom-instructions
 
+### Модели компьютерного зрения
+
+- YOLO (You Only Look Once) — это семейство моделей для задач компьютерного зрения, таких как обнаружение объектов, сегментация, классификация и оценка позы. Модели YOLO отличаются высокой скоростью и точностью, что делает их популярными для реального времени и масштабируемых решений.
+    - **Ultralytics YOLO11**  
+        - Репозиторий: [GitHub - Ultralytics YOLO11](https://github.com/ultralytics/ultralytics)  
+        - Документация: [Ultralytics YOLO11 Docs](https://docs.ultralytics.com/models/yolo11/)  
+        - Демо: Включает примеры использования для задач обнаружения объектов, сегментации, классификации и оценки позы .
+
+    - **YOLOv8**  
+        - Репозиторий: [GitHub - YOLOv8](https://github.com/orYx-models/yolov8)  
+        - Документация: [Ultralytics YOLOv8 Docs](https://docs.ultralytics.com/models/yolov8/)  
+        - Демо: Примеры использования для обнаружения объектов, сегментации и оценки позы .
+
+    - **YOLOv7 и YOLOv9**  
+        - Репозиторий: [GitHub - YOLOv9](https://github.com/MultimediaTechLab/YOLO)  
+        - Демо: Примеры для обучения и инференса, включая поддержку ONNX и TensorRT .
+
+    - **YOLOv5**  
+        - Репозиторий: [GitHub - YOLOv5](https://github.com/ultralytics/yolov5)  
+        - Документация: [PyTorch Hub - YOLOv5](https://pytorch.org/hub/ultralytics_yolov5/)  
+        - Демо: Примеры инференса и обучения с использованием PyTorch Hub .
+
+    - **YOLO-RD (YOLO с Retrieval-Dictionary)**  
+        - Репозиторий: [GitHub - YOLO-RD](https://github.com/MultimediaTechLab/YOLO)  
+        - Демо: Примеры для обучения и инференса с поддержкой программируемых градиентов .
+
 ### Полезные chrome ai-расширения
 
 - Jasper (https://chromewebstore.google.com/detail/jasper-everywhere-extensi/bpiohchncadidhohcajcnoelomephkdd) - одно из самых популярных AI расширений для написания текстов, ценный инструмент для маркетологов.
