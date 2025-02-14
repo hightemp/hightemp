@@ -195,6 +195,7 @@
     - Основное
         - Mobx: библиотека глобальных сторов (state manager) https://habr.com/ru/articles/747884/
     - Остальное
+        - Redux vs Mobx кого же выбрать для React-приложения в 2024 году? https://habr.com/ru/articles/795901/
 - Zod
 - tRPC
     - Основное
