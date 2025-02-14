@@ -198,6 +198,8 @@
     - Остальное
         - Redux vs Mobx кого же выбрать для React-приложения в 2024 году? https://habr.com/ru/articles/795901/
         - Под капотом у Mobx. Пишем свою реактивную библиотеку с нуля https://habr.com/ru/articles/689374/
+        - Использование MobX и RxJS в React.js — эффективная работа с состоянием и потоками данных https://habr.com/ru/sandbox/232432/
+- RxJS
 - Zod
 - tRPC
     - Основное
