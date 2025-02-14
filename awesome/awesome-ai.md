@@ -507,14 +507,14 @@
         - Документация: [Ultralytics YOLO11 Docs](https://docs.ultralytics.com/models/yolo11/)  
         - Демо: Включает примеры использования для задач обнаружения объектов, сегментации, классификации и оценки позы .
 
+    - **YOLOv9**  
+        - Репозиторий: [GitHub - YOLOv9](https://github.com/MultimediaTechLab/YOLO)  
+        - Демо: Примеры для обучения и инференса, включая поддержку ONNX и TensorRT .
+
     - **YOLOv8**  
         - Репозиторий: [GitHub - YOLOv8](https://github.com/orYx-models/yolov8)  
         - Документация: [Ultralytics YOLOv8 Docs](https://docs.ultralytics.com/models/yolov8/)  
         - Демо: Примеры использования для обнаружения объектов, сегментации и оценки позы .
-
-    - **YOLOv7 и YOLOv9**  
-        - Репозиторий: [GitHub - YOLOv9](https://github.com/MultimediaTechLab/YOLO)  
-        - Демо: Примеры для обучения и инференса, включая поддержку ONNX и TensorRT .
 
     - **YOLOv5**  
         - Репозиторий: [GitHub - YOLOv5](https://github.com/ultralytics/yolov5)  
