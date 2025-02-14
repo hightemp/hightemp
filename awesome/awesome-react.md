@@ -194,6 +194,7 @@
 - MobX
     - Основное
         - Mobx: библиотека глобальных сторов (state manager) https://habr.com/ru/articles/747884/
+        - React integration https://mobx.js.org/react-integration.html
     - Остальное
         - Redux vs Mobx кого же выбрать для React-приложения в 2024 году? https://habr.com/ru/articles/795901/
 - Zod
