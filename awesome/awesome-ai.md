@@ -499,6 +499,10 @@
 
 - https://github.com/DenisSergeevitch/chatgpt-custom-instructions
 
+### Модели генератора речи
+
+- Проект представляет собой скрипт для тонкой настройки генератора речи e2f5, работающего с русским языком,  позволяющий тренировать модель на пользовательских датасетах, используя  инструменты GitHub и Pinokio,  при этом для получения качественных результатов необходим большой датасет (10 000+ часов аудиозаписей). (https://t.me/Psy_Eyes/2093) (https://github.com/SWivid/F5-TTS/tree/main/src/f5_tts/train) (https://pinokio.computer/item?uri=https://github.com/pinokiofactory/e2-f5-tts) (https://github.com/SWivid/F5-TTS/issues/5) (https://huggingface.co/datasets?modality=modality:audio&language=language:ru&sort=trending) (https://github.com/SWivid/F5-TTS/discussions/57)
+
 ### Модели компьютерного зрения
 
 - YOLO (You Only Look Once) — это семейство моделей для задач компьютерного зрения, таких как обнаружение объектов, сегментация, классификация и оценка позы. Модели YOLO отличаются высокой скоростью и точностью, что делает их популярными для реального времени и масштабируемых решений.
