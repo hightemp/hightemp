@@ -191,6 +191,10 @@
         - Асинхронные действия Redux с Redux Thunk https://www.digitalocean.com/community/tutorials/redux-redux-thunk-ru
     - Остальное
         - Redux Middleware Comparison: Thunk, Sagas, Observable & Loop https://sandstorm.de/blog/posts/async-redux-middleware-comparison/
+- MobX
+    - Основное
+        - Mobx: библиотека глобальных сторов (state manager) https://habr.com/ru/articles/747884/
+    - Остальное
 - Zod
 - tRPC
     - Основное
