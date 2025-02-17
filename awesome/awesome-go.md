@@ -320,6 +320,7 @@
 
 - Описание языка
   - Основное
+    - https://dev.to/leapcell/go-124-released-massive-optimizations-key-upgrades-1mbn
     - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
     - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
     - Go range iterators demystified https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/
