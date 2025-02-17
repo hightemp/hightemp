@@ -81,6 +81,8 @@
     - TCP Handshake
     - TCP Congestion Control
     - TCP Segmentation Offload (TSO)
+- HTTP/2
+    - Знакомство с HTTP/2 https://timeweb.com/ru/community/articles/znakomstvo-s-http-2-1
 - Остальное
     - Ищем альтернативу Ngrok в России https://habr.com/ru/articles/833884/
     - Сложно о простом. Самые популярные протоколы и принципы их работы. ARP, ICMP, IGMP, TCP, UDP, SCTP, DNS и DHCP. Часть 1 https://habr.com/ru/companies/timeweb/articles/848604/
