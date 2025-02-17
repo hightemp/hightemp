@@ -320,7 +320,7 @@
 
 - Описание языка
   - Основное
-    - https://dev.to/leapcell/go-124-released-massive-optimizations-key-upgrades-1mbn
+    - Go 1.24 Released: Massive Optimizations & Key Upgrades! https://dev.to/leapcell/go-124-released-massive-optimizations-key-upgrades-1mbn
     - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
     - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
     - Go range iterators demystified https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/
@@ -466,6 +466,8 @@
   - Тестирование
     - Самоучитель по Go для начинающих. Часть 16. Тестирование кода и его виды. Table-driven подход. Параллельные тесты https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-16-testirovanie-koda-i-ego-vidy-table-driven-podhod-parallelnye-testy-2024-09-03
     - Тестирование исполняемого кода Go https://habr.com/ru/articles/728402/
+  - Swiss Table
+    - SwissTable: A High-Performance Hash Table Implementation https://dev.to/huizhou92/swisstable-a-high-performance-hash-table-implementation-1knc
   - Остальное
     - К слову об именах переменных в Go https://habr.com/ru/articles/872940/
     - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
