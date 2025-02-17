@@ -777,6 +777,7 @@
 - https://semianalysis.com/
 - https://whatdidopenaidothisweek.substack.com/
 - https://flicklabs.substack.com/
+- https://www.aimodels.fyi/papers?search=&selectedTimeRange=thisWeek&page=1
 
 ### Статьи
 
