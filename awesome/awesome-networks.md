@@ -39,6 +39,10 @@
     - SOCKS Proxy Over SSH https://hjr265.me/blog/socks-proxy-over-ssh/
 - VPN
     - OpenVPN
+    - WireGuard
+    - OpenConnect
+        - Поднимаем OpenConnect SSL VPN сервер (ocserv) в docker для внутренних проектов https://dzen.ru/a/ZjP3xxLRw0ucW3dh
+        - OpenConnect: недетектируемый VPN, который вам понравится https://habr.com/ru/articles/776256/
     - GRE
     - IPSec
         - IKEv2/IPsec
@@ -46,12 +50,8 @@
         - IPSec VTI
         - Остальное
             - Развёртывание IPsec VPN в Yandex Cloud с помощью шлюза безопасности https://github.com/yandex-cloud-examples/yc-site-to-site-vpn-with-ipsec-strongswan
-    - WireGuard
     - DMVPN
     - SSTP
-    - OpenConnect
-        - Поднимаем OpenConnect SSL VPN сервер (ocserv) в docker для внутренних проектов https://dzen.ru/a/ZjP3xxLRw0ucW3dh
-        - OpenConnect: недетектируемый VPN, который вам понравится https://habr.com/ru/articles/776256/
     - PPTP
     - Lightway
     - Остальное
