@@ -56,6 +56,7 @@
   - The Secret Life of C++: Exceptions https://web.mit.edu/tibbetts/Public/inside-c/www/exceptions.html
   - An Introduction to Stack Unwinding and Exception Handling https://www.zyma.me/post/stack-unwind-intro/
 - Остальное
+  - Bit Twiddling Hacks, By Sean Eron Anderson http://graphics.stanford.edu/~seander/bithacks.html##ValueInWord
   - Ввод-вывод в Unix-подобных ОС (примеры) https://zed.karelia.ru/go.to/for.students/computer.networks/io.examples
 
 ### Видео
