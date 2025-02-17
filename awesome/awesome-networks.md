@@ -53,6 +53,7 @@
         - Поднимаем OpenConnect SSL VPN сервер (ocserv) в docker для внутренних проектов https://dzen.ru/a/ZjP3xxLRw0ucW3dh
         - OpenConnect: недетектируемый VPN, который вам понравится https://habr.com/ru/articles/776256/
     - PPTP
+    - Lightway
     - Остальное
         - Как открыть портал наружу: самый полный гайд по VPN https://habr.com/ru/articles/757920/
         - Cloudflare представила собственный VPN-сервис на базе приложения 1.1.1.1 для мобильных устройств https://habr.com/ru/companies/itsumma/articles/446418/
