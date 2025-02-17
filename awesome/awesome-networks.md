@@ -41,9 +41,14 @@
     - OpenVPN
     - GRE
     - IPSec
-        - Развёртывание IPsec VPN в Yandex Cloud с помощью шлюза безопасности https://github.com/yandex-cloud-examples/yc-site-to-site-vpn-with-ipsec-strongswan
-    - IPSec VTI
+        - IKEv2/IPsec
+        - L2TP/IPSec
+        - IPSec VTI
+        - Остальное
+            - Развёртывание IPsec VPN в Yandex Cloud с помощью шлюза безопасности https://github.com/yandex-cloud-examples/yc-site-to-site-vpn-with-ipsec-strongswan
+    - WireGuard
     - DMVPN
+    - SSTP
     - OpenConnect
         - Поднимаем OpenConnect SSL VPN сервер (ocserv) в docker для внутренних проектов https://dzen.ru/a/ZjP3xxLRw0ucW3dh
         - OpenConnect: недетектируемый VPN, который вам понравится https://habr.com/ru/articles/776256/
