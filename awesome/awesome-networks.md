@@ -48,7 +48,8 @@
         - Поднимаем OpenConnect SSL VPN сервер (ocserv) в docker для внутренних проектов https://dzen.ru/a/ZjP3xxLRw0ucW3dh
         - OpenConnect: недетектируемый VPN, который вам понравится https://habr.com/ru/articles/776256/
     - PPTP
-    - Остальное    
+    - Остальное
+        - Как открыть портал наружу: самый полный гайд по VPN https://habr.com/ru/articles/757920/
 - Wireguard
     - WireGuard inside WireGuard: Accessing my homelab through my VPN provider https://sidhion.com/blog/posts/wireguard-inside-wireguard-homelab/
     - Check If a WireGuard Connection Is Up https://hjr265.me/blog/check-if-a-wireguard-connection-is-up/
