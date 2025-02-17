@@ -50,6 +50,7 @@
     - PPTP
     - Остальное
         - Как открыть портал наружу: самый полный гайд по VPN https://habr.com/ru/articles/757920/
+        - Cloudflare представила собственный VPN-сервис на базе приложения 1.1.1.1 для мобильных устройств https://habr.com/ru/companies/itsumma/articles/446418/
 - Wireguard
     - WireGuard inside WireGuard: Accessing my homelab through my VPN provider https://sidhion.com/blog/posts/wireguard-inside-wireguard-homelab/
     - Check If a WireGuard Connection Is Up https://hjr265.me/blog/check-if-a-wireguard-connection-is-up/
