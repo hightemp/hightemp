@@ -57,6 +57,7 @@
   - An Introduction to Stack Unwinding and Exception Handling https://www.zyma.me/post/stack-unwind-intro/
 - Остальное
   - Bit Twiddling Hacks, By Sean Eron Anderson http://graphics.stanford.edu/~seander/bithacks.html##ValueInWord
+  - More Hash Function Tests https://aras-p.info/blog/2016/08/09/More-Hash-Function-Tests/
   - Ввод-вывод в Unix-подобных ОС (примеры) https://zed.karelia.ru/go.to/for.students/computer.networks/io.examples
 
 ### Видео
