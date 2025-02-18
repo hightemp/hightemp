@@ -51,6 +51,7 @@
 ### Прием платежей, платежные системы
 
 - https://yookassa.ru/joinups
+- https://robokassa.com/
 - https://info.paymaster.ru/
 - https://www.gateline.net/
 - Подборки
