@@ -121,6 +121,7 @@
         - Как устроена MySQL-репликация https://highload.guide/blog/mysql_replication_2015.html
     - Остальное
 - Остальное
+    - Самоучитель SQL https://practicum.yandex.ru/blog/samouchitel-sql
     - Управление качеством данных на основе алгоритмов нечеткого поиска https://blog.arbinada.com/ru/category/00020.html
     - 5 сайтов для оттачивания навыков написания SQL-запросов https://proglib.io/p/sql-practice-sites
     - Масштабирование базы данных через шардирование и партиционирование https://habr.com/ru/companies/oleg-bunin/articles/309330/
