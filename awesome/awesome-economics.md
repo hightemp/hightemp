@@ -57,6 +57,7 @@
 - https://cloudpayments.ru/
 - https://www.tinkoff.ru/kassa/
 - https://www.gateline.net/
+- https://www.uniteller.ru/
 
 ### Полезные ссылки
 
