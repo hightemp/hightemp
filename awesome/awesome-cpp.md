@@ -48,6 +48,7 @@
     - Мьютексы, Mutexes
       - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
       - Mutex in C++: the story so far – Part 2 https://curiouslyrecurringthoughts.home.blog/2019/07/21/mutex-in-c-the-story-so-far-part-2/
+      - Multithreading in C++: Memory Ordering https://www.ramtintjb.com/blog/memory-ordering
   - Остальное
 - CMake
   - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
