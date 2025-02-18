@@ -21,6 +21,10 @@
 
 - https://www.vpnbook.com/
 
+### Как получить список Российских адресов
+
+- `curl https://stat.ripe.net/data/country-resource-list/data.json?resource=RU | jq -r '.data.resources.ipv4 | .[]' > ru.txt`
+
 ### Полезные ссылки
 
 - Содержит диапазоны ip по странам. Так же много разных инструментов. https://suip.biz/
