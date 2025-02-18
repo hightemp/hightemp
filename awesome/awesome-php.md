@@ -170,6 +170,8 @@
     - Attributes In PHP 8 https://www.dailycomputerscience.com/post/attributes-in-php-8
   - Числа с плавающей точкой, float
     - PHP целые числа, числа с плавающей точкой и числовые строки https://code.tutsplus.com/ru/php-integers-floats-and-number-strings--cms-32048t
+    - PHP: Сравнение чисел с плавающей точкой https://developer.donnoval.ru/sravnenie-chisel-s-plavayushhej-tochkoj-v-php/
+    - Числа с плавающей точкой в PHP https://codernotes.ru/articles/php/chisla-s-plavayushhej-tochkoj-v-php.html
   - yield, Генераторы
     - Generator syntax https://www.php.net/manual/en/language.generators.syntax.php
     - How to Use Yield and Generators in PHP https://code.tutsplus.com/how-to-use-yield-and-generators-in-php--cms-39200t
