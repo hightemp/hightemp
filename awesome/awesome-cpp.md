@@ -32,6 +32,7 @@
 ### Статьи
 
 - Основы
+  - Основное
   - Корутины, coroutines
     - Deep Dive into C++20 Coroutines https://medium.com/@threehappyer/deep-dive-into-c-20-coroutines-ef5a557d15cb
     - C++20. Coroutines https://habr.com/ru/articles/519464/
@@ -41,8 +42,9 @@
   - Condition variables
     - std::condition_variable https://ru.cppreference.com/w/cpp/thread/condition_variable
     - How-to: Use C++ Conditional Variables for Thread Synchronization https://jtchen.io/blog/cpp-conditional-variables
-- Многопоточное программирование
-  - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
+  - Многопоточное программирование
+    - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
+  - Остальное
 - CMake
   - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
   - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
