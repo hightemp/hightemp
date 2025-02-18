@@ -53,6 +53,8 @@
 - https://yookassa.ru/joinups
 - https://info.paymaster.ru/
 - https://www.gateline.net/
+- Подборки
+    - https://marketing-tech.ru/online-services_tags/payment-services/
 
 ### Полезные ссылки
 
