@@ -53,6 +53,7 @@
 - https://yookassa.ru/joinups
 - https://robokassa.com/
 - https://info.paymaster.ru/
+- https://cloudpayments.ru/
 - https://www.gateline.net/
 
 ### Полезные ссылки
