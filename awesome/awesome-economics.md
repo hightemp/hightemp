@@ -50,7 +50,9 @@
 
 ### Прием платежей, платежные системы
 
+- https://yookassa.ru/joinups
 - https://info.paymaster.ru/
+- https://www.gateline.net/
 
 ### Полезные ссылки
 
