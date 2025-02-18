@@ -414,6 +414,8 @@
    - The Best Personal Software Engineering Blogs https://www.qualified.io/blog/posts/the-best-personal-software-engineering-blogs
 - Windows
    - Полный гайд настройки Windows + WSL для разработчика https://www.youtube.com/watch?v=EH3yeiZ5JRo
+- Документирование
+   - OpenAPI/Swagger для начинающих https://habr.com/ru/articles/776538/
 - Числа с плавающей точкой
    - Числа с плавающей точкой для гуманитариев. Что это такое и как они работают https://habr.com/ru/articles/745640/
    - 5 правил работы с суммами https://habr.com/ru/articles/338108/
