@@ -54,6 +54,7 @@
 - https://robokassa.com/
 - https://info.paymaster.ru/
 - https://cloudpayments.ru/
+- https://www.tinkoff.ru/kassa/
 - https://www.gateline.net/
 
 ### Полезные ссылки
