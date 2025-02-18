@@ -40,12 +40,14 @@
     - C++20. Coroutines https://habr.com/ru/articles/519464/
   - std::unique_lock
     - std::unique_lock https://cplusplus.com/reference/mutex/unique_lock/
-    - Mutex lock guards in C++11 https://geidav.wordpress.com/2014/01/09/mutex-lock-guards-in-c11/
+    - Mutex lock guards in C++11 https://geidav.wordpress.com/2014/01/09/mutex-lock-guards-in-c11/    
   - Condition variables
     - std::condition_variable https://ru.cppreference.com/w/cpp/thread/condition_variable
     - How-to: Use C++ Conditional Variables for Thread Synchronization https://jtchen.io/blog/cpp-conditional-variables
   - Многопоточное программирование
-    - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
+    - Мьютексы, Mutexes
+      - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
+      - Mutex in C++: the story so far – Part 2 https://curiouslyrecurringthoughts.home.blog/2019/07/21/mutex-in-c-the-story-so-far-part-2/
   - Остальное
 - CMake
   - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
