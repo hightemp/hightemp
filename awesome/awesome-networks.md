@@ -94,6 +94,8 @@
 - HTTP/2
     - Знакомство с HTTP/2 https://timeweb.com/ru/community/articles/znakomstvo-s-http-2-1
     - Путь к HTTP/2 https://habr.com/ru/articles/308846/
+- ТСПУ
+    - Установка ТСПУ https://pavel.su/internet/setting-up-tspu/
 - Остальное
     - Ищем альтернативу Ngrok в России https://habr.com/ru/articles/833884/
     - Сложно о простом. Самые популярные протоколы и принципы их работы. ARP, ICMP, IGMP, TCP, UDP, SCTP, DNS и DHCP. Часть 1 https://habr.com/ru/companies/timeweb/articles/848604/
@@ -103,5 +105,6 @@
 ### Блоги
 
 - https://www.vanwerkhoven.org/blog/
+- https://pavel.su/
 
 ### Видео
