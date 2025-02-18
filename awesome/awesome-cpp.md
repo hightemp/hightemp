@@ -34,6 +34,8 @@
   - Корутины, coroutines
     - Deep Dive into C++20 Coroutines https://medium.com/@threehappyer/deep-dive-into-c-20-coroutines-ef5a557d15cb
     - C++20. Coroutines https://habr.com/ru/articles/519464/
+  - std::unique_lock
+    - std::unique_lock https://cplusplus.com/reference/mutex/unique_lock/
   - Condition variables
     - std::condition_variable https://ru.cppreference.com/w/cpp/thread/condition_variable
     - How-to: Use C++ Conditional Variables for Thread Synchronization https://jtchen.io/blog/cpp-conditional-variables
