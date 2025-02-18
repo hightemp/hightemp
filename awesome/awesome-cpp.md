@@ -37,6 +37,7 @@
     - C++20. Coroutines https://habr.com/ru/articles/519464/
   - std::unique_lock
     - std::unique_lock https://cplusplus.com/reference/mutex/unique_lock/
+    - Mutex lock guards in C++11 https://geidav.wordpress.com/2014/01/09/mutex-lock-guards-in-c11/
   - Condition variables
     - std::condition_variable https://ru.cppreference.com/w/cpp/thread/condition_variable
     - How-to: Use C++ Conditional Variables for Thread Synchronization https://jtchen.io/blog/cpp-conditional-variables
