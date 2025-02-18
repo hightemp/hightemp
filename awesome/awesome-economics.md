@@ -54,8 +54,6 @@
 - https://robokassa.com/
 - https://info.paymaster.ru/
 - https://www.gateline.net/
-- Подборки
-    - https://marketing-tech.ru/online-services_tags/payment-services/
 
 ### Полезные ссылки
 
@@ -83,5 +81,8 @@
     - Полный гид по выбору облигаций для частных инвесторов https://www.dohod.ru/blog/nash-novyij-servis-analiz-obligaczij
     - Кредитный рейтинг: что это и зачем он нужен при выборе облигаций https://smart-lab.ru/blog/1057755.php
     - Облигации: как дать в долг и заработать https://journal.tinkoff.ru/pro/invest/4-minfin-na/
+- Платежные системы
+    - Электронные платежные системы в России https://www.tadviser.ru/index.php/Статья:Электронные_платежные_системы_в_России
+    - https://marketing-tech.ru/online-services_tags/payment-services/
 - Остальное
     
