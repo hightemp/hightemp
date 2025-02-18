@@ -414,8 +414,10 @@
    - The Best Personal Software Engineering Blogs https://www.qualified.io/blog/posts/the-best-personal-software-engineering-blogs
 - Windows
    - Полный гайд настройки Windows + WSL для разработчика https://www.youtube.com/watch?v=EH3yeiZ5JRo
-- Остальное
+- Числа с плавающей точкой
+   - Числа с плавающей точкой для гуманитариев. Что это такое и как они работают https://habr.com/ru/articles/745640/
    - 5 правил работы с суммами https://habr.com/ru/articles/338108/
+- Остальное
    - How Meta, Google, Github and others leverage HTTP conditional requests to build robust REST APIs https://captainscodebook.com/p/how-meta-microsoft-google-github
    - What is Consistent Hashing? https://vivekbansal.substack.com/p/what-is-consistent-hashing
    - How we built a new powerful JSON data type for ClickHouse https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse
