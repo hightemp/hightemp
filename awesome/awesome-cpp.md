@@ -41,6 +41,8 @@
   - Condition variables
     - std::condition_variable https://ru.cppreference.com/w/cpp/thread/condition_variable
     - How-to: Use C++ Conditional Variables for Thread Synchronization https://jtchen.io/blog/cpp-conditional-variables
+- Многопоточное программирование
+  - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
 - CMake
   - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
   - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
