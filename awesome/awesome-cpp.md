@@ -28,6 +28,7 @@
 - https://www.cs.swarthmore.edu/~newhall/unixhelp/
 - https://leimao.github.io/blog/
 - https://geidav.wordpress.com/category/c/
+- https://isocpp.org/blog
 
 ### Статьи
 
