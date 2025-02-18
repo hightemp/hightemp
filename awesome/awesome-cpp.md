@@ -29,6 +29,7 @@
 - https://leimao.github.io/blog/
 - https://geidav.wordpress.com/category/c/
 - https://isocpp.org/blog
+- https://www.ramtintjb.com/blog
 
 ### Статьи
 
