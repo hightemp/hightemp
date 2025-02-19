@@ -281,7 +281,7 @@
 - https://github.com/CodeYourFuture/immersive-go-course/
 - https://code-basics.com/ru/languages/go/lessons/funcs
 - https://golangify.com/go/kurs-izucheniya-golang-dlya-nachinayuschih
-- https://github.com/akutz/go-generics-the-hard-way
+- Go generics the hard way https://github.com/akutz/go-generics-the-hard-way
 
 ### Гайды
 
