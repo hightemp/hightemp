@@ -52,6 +52,7 @@
     - Мьютексы, Mutexes
       - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
       - Mutex in C++: the story so far – Part 2 https://curiouslyrecurringthoughts.home.blog/2019/07/21/mutex-in-c-the-story-so-far-part-2/
+    - Остальное
       - Multithreading in C++: Memory Ordering https://www.ramtintjb.com/blog/memory-ordering
   - Исключения, Exceptions
     - Обработка исключений https://education.yandex.ru/handbook/cpp/article/exceptions
