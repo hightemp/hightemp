@@ -949,14 +949,14 @@
   - Mastering Task Scheduling in Go: Gron, JobRunner, and Gocron https://medium.com/@murataslan1/mastering-task-scheduling-in-go-gron-jobrunner-and-gocron-0123d5c4ee95
 - CI/CD
   - A Makefile based CI/CD chain for Go https://le-gall.bzh/post/makefile-based-ci-chain-for-go/
-- Бенчмарки, Benchmarks
-  - Leveraging benchstat Projections in Go Benchmark Analysis! https://www.bwplotka.dev/2024/go-microbenchmarks-benchstat/
 - Тестирование
   - Основное
     - Testing in Go: First Principles https://ieftimov.com/posts/testing-in-go-first-principles/
     - Testing in Go: Stop Leaking Files https://ieftimov.com/posts/testing-in-go-stop-leaking-files/
     - Testing in Go: Fixtures https://ieftimov.com/posts/testing-in-go-fixtures/
     - Testing in Go: Dependency Injection https://ieftimov.com/posts/testing-in-go-dependency-injection/
+  - Бенчмарки, Benchmarks
+    - Leveraging benchstat Projections in Go Benchmark Analysis! https://www.bwplotka.dev/2024/go-microbenchmarks-benchstat/
   - net/http
     - https://gosamples.dev/e2e-httptest/
   - Table Driven Testing, Табличные тесты
