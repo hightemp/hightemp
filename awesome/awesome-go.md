@@ -497,15 +497,18 @@
 - Подготовка к собеседованию
   - Гайд по подготовке к собеседованию для Backend-разработчиков https://habr.com/ru/articles/876808/
 - Линтеры
-  - Статический анализ в Go: как мы экономим время при проверке кода https://habr.com/ru/companies/roistat/articles/413175/
-  - Линтеры в Go. Как их готовить. Денис Исаев https://habr.com/ru/articles/457970/
-  - Introduction to Linting in Go https://www.mohitkhare.com/blog/linting-in-golang/
-  - golangci-lint: a powerful and complete Go linter https://dev.to/guiyomh/golangci-lint-a-powerful-and-complete-go-linter-5eb8
-  - Готовый набор golang линтеров (джунам и мидлам) https://habr.com/ru/articles/765784/
-  - Автоматизация оптимизаций в Go https://habr.com/ru/companies/deliveryclub/articles/646081/
-  - В поисках хорошего стиля. Часть 1. Зачем нам свои линтеры на Go в Островке https://habr.com/ru/companies/ostrovok/articles/839514/
-  - Go lintpack: менеджер компонуемых линтеров https://habr.com/ru/articles/430196/
-  - What's the best Static Analysis tool for Golang? https://www.dolthub.com/blog/2024-07-24-static-analysis/
+  - Go Vuln Check
+    - Vulnerability Management for Go https://go.dev/blog/vuln
+  - Остальное
+    - Статический анализ в Go: как мы экономим время при проверке кода https://habr.com/ru/companies/roistat/articles/413175/
+    - Линтеры в Go. Как их готовить. Денис Исаев https://habr.com/ru/articles/457970/
+    - Introduction to Linting in Go https://www.mohitkhare.com/blog/linting-in-golang/
+    - golangci-lint: a powerful and complete Go linter https://dev.to/guiyomh/golangci-lint-a-powerful-and-complete-go-linter-5eb8
+    - Готовый набор golang линтеров (джунам и мидлам) https://habr.com/ru/articles/765784/
+    - Автоматизация оптимизаций в Go https://habr.com/ru/companies/deliveryclub/articles/646081/
+    - В поисках хорошего стиля. Часть 1. Зачем нам свои линтеры на Go в Островке https://habr.com/ru/companies/ostrovok/articles/839514/
+    - Go lintpack: менеджер компонуемых линтеров https://habr.com/ru/articles/430196/
+    - What's the best Static Analysis tool for Golang? https://www.dolthub.com/blog/2024-07-24-static-analysis/
 - Makefile
   - Makefile для самых маленьких https://habr.com/ru/articles/155201/
   - Learn Makefiles With the tastiest examples https://makefiletutorial.com/
