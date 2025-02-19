@@ -418,14 +418,16 @@
     - Errors, Errors Everywhere: How We Centralized and Structured Error Handling https://olivernguyen.io/w/namespace.error/
     - ErrorHandling-патерн в golang https://habr.com/ru/articles/871394/
   - Дженерики; Generics
-    - Tilda
-    - Остальное
+    - Основное
       - Go Generics cheatsheet https://gosamples.dev/generics-cheatsheet/
-      - Mastering Generics In Go: A Comprehensive Tutorial https://www.kelche.co/blog/go/golang-generics/
-      - Mastering Generics in Go: A Comprehensive Guide https://medium.com/hprog99/mastering-generics-in-go-a-comprehensive-guide-4d05ec4b12b
       - Go generics https://zetcode.com/golang/generics/
       - When To Use Generics https://go.dev/blog/when-generics
       - GENERICS IN GO https://www.golang101.com/advanced-go-concepts/generics/
+    - Tilde
+      - Tilde ~ https://github.com/akutz/go-generics-the-hard-way/blob/main/03-getting-started/06-tilde.md
+    - Остальное
+      - Mastering Generics In Go: A Comprehensive Tutorial https://www.kelche.co/blog/go/golang-generics/
+      - Mastering Generics in Go: A Comprehensive Guide https://medium.com/hprog99/mastering-generics-in-go-a-comprehensive-guide-4d05ec4b12b
       - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
   - sync.Pool
     - How did I improve latency by 700% using sync.Pool https://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/
