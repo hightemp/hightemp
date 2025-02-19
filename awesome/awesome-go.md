@@ -494,6 +494,8 @@
     - 3 Easy Ways To Add Version Flag in Go https://jerrynsh.com/3-easy-ways-to-add-version-flag-in-go/
     - Коллеги, вы меня огорчаете https://habr.com/ru/companies/oleg-bunin/articles/521582/
     - Почему язык Go плох для НЕумных программистов https://habr.com/ru/articles/448932/
+- Разработка языка
+  - Contributing the Go Compiler: Adding New Tilde (~) Operator https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
 - Подготовка к собеседованию
   - Гайд по подготовке к собеседованию для Backend-разработчиков https://habr.com/ru/articles/876808/
 - Линтеры
@@ -1012,7 +1014,6 @@
 - Live reloading
   - Live Reloading in Go https://hovanhoa.hashnode.dev/live-reloading-in-go
 - Остальное
-  - Contributing the Go Compiler: Adding New Tilde (~) Operator https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
   - Implementing The Fieldalignment Bundle in Go https://switchupcb.com/blog/implementing-the-fieldalignment-bundle-in-go/
   - Top 15 Golang Project Ideas [With Source Code] https://www.guvi.in/blog/top-golang-project-ideas/
   - Gosh: a pluggable command shell in Go https://medium.com/@vladimirvivien/gosh-a-pluggable-command-shell-in-go-cf25102c8439
