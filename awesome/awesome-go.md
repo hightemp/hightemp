@@ -963,6 +963,8 @@
     - Table Driven Testing In Parallel https://gopherguides.com/articles/table-driven-testing-in-parallel
   - Покрытие тестами, test caverage
     - Визуализация покрытия автотестами для gRPC сервисов https://habr.com/ru/articles/845020/
+  - Параллелизм
+    - Параллелизм в Go тестах: все, что нужно знать о -p, -parallel и t.Parallel() https://habr.com/ru/articles/882222/
   - Остальное
     - Как не укусить себя за хвост во время написания функциональных тестов на Go https://habr.com/ru/companies/sberbank/articles/882060/
     - Как мы ускорили Golang-тесты на CI https://habr.com/ru/companies/kuper/articles/806725/
