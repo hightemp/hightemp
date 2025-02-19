@@ -499,6 +499,7 @@
 - Линтеры
   - Go Vuln Check
     - Vulnerability Management for Go https://go.dev/blog/vuln
+    - Go Vulnerability Management https://go.dev/doc/security/vuln/
     - Vulnerability Scanning in Go With Govulncheck https://semaphoreci.com/blog/govulncheck
   - Остальное
     - Статический анализ в Go: как мы экономим время при проверке кода https://habr.com/ru/companies/roistat/articles/413175/
