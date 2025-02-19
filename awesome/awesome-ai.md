@@ -811,6 +811,8 @@
     - What is Continuous Pretraining? https://docs.arcee.ai/continuous-pretraining/what-is-continuous-pretraining
 - Визуальные модели
     - LP-DETR: Layer-wise Progressive Relations for Object Detection https://www.aimodels.fyi/papers/arxiv/lp-detr-layer-wise-progressive-relations-object
+- Ускорение LLM
+    - Ускорение LLM: универсальные методы для популярных архитектур https://habr.com/ru/companies/yandex/articles/878230/
 - Подборки
     - 50+ полезных ML и AI-сервисов для вебмастеров https://hostpro.ua/blog/50-useful-ai-services-for-webmasters/
     - 10+ Open-source AI Agents: Based on GitHub Stars https://research.aimultiple.com/open-source-ai-agents/
