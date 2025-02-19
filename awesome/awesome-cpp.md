@@ -31,6 +31,7 @@
 - https://isocpp.org/blog
 - https://www.ramtintjb.com/blog
 - https://andreasfertig.com/blog/tag/cpp/
+- https://twdev.blog/
 
 ### Статьи
 
