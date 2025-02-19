@@ -1250,6 +1250,7 @@
 - https://earthly.dev/blog/categories/golang/
 - https://www.mohitkhare.com/categories/golang/
 - https://www.hydrogen18.com/blog/tags.html#golang
+- https://manadart.github.io/
 
 ### Подкасты
 
