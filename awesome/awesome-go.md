@@ -517,6 +517,8 @@
 - vim, nvim
   - My NeoVim Go(lang) setup — As good as Intellj/Goland IDE https://medium.com/@suyash10581108/my-neovim-go-lang-setup-as-good-as-intellj-goland-ide-d48dd765f6de
   - Configure Neovim for Golang https://andrewcourter.substack.com/p/configure-neovim-for-golang
+- Orded map
+  - Ordered map на Go https://habr.com/ru/articles/882828/
 - Логирование
   - Structured Logging In Go Using Standard Library - Slog https://programmingpercy.tech/blog/structured-logging-in-go-using-std-lib-slog/
   - Zap: Unlock the Full Potential of Logging in Go https://leapcell.medium.com/abstract-58af1d21d201
