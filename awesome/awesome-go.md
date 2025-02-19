@@ -281,6 +281,7 @@
 - https://github.com/CodeYourFuture/immersive-go-course/
 - https://code-basics.com/ru/languages/go/lessons/funcs
 - https://golangify.com/go/kurs-izucheniya-golang-dlya-nachinayuschih
+- https://github.com/akutz/go-generics-the-hard-way
 
 ### Гайды
 
@@ -417,13 +418,15 @@
     - Errors, Errors Everywhere: How We Centralized and Structured Error Handling https://olivernguyen.io/w/namespace.error/
     - ErrorHandling-патерн в golang https://habr.com/ru/articles/871394/
   - Дженерики; Generics
-    - Go Generics cheatsheet https://gosamples.dev/generics-cheatsheet/
-    - Mastering Generics In Go: A Comprehensive Tutorial https://www.kelche.co/blog/go/golang-generics/
-    - Mastering Generics in Go: A Comprehensive Guide https://medium.com/hprog99/mastering-generics-in-go-a-comprehensive-guide-4d05ec4b12b
-    - Go generics https://zetcode.com/golang/generics/
-    - When To Use Generics https://go.dev/blog/when-generics
-    - GENERICS IN GO https://www.golang101.com/advanced-go-concepts/generics/
-    - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
+    - Tilda
+    - Остальное
+      - Go Generics cheatsheet https://gosamples.dev/generics-cheatsheet/
+      - Mastering Generics In Go: A Comprehensive Tutorial https://www.kelche.co/blog/go/golang-generics/
+      - Mastering Generics in Go: A Comprehensive Guide https://medium.com/hprog99/mastering-generics-in-go-a-comprehensive-guide-4d05ec4b12b
+      - Go generics https://zetcode.com/golang/generics/
+      - When To Use Generics https://go.dev/blog/when-generics
+      - GENERICS IN GO https://www.golang101.com/advanced-go-concepts/generics/
+      - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
   - sync.Pool
     - How did I improve latency by 700% using sync.Pool https://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/
     - Performance optimization techniques in time series databases: sync.Pool for CPU-bound operations https://victoriametrics.com/blog/tsdb-performance-techniques-sync-pool/
