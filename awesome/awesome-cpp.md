@@ -30,6 +30,7 @@
 - https://geidav.wordpress.com/category/c/
 - https://isocpp.org/blog
 - https://www.ramtintjb.com/blog
+- https://andreasfertig.com/blog/tag/cpp/
 
 ### Статьи
 
