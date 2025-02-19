@@ -965,6 +965,7 @@
     - Визуализация покрытия автотестами для gRPC сервисов https://habr.com/ru/articles/845020/
   - gomock
     - How to Get Started with GoMock https://speedscale.com/blog/getting-started-gomock/
+    - Testing with GoMock: A Tutorial https://www.codecentric.de/wissens-hub/blog/gomock-tutorial
   - Параллелизм
     - Параллелизм в Go тестах: все, что нужно знать о -p, -parallel и t.Parallel() https://habr.com/ru/articles/882222/
   - Остальное
