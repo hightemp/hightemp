@@ -297,7 +297,6 @@
 
 - Go: идиомы и паттерны проектирования, 2-е изд.
   - https://www.litres.ru/book/dzhon-bodner/go-idiomy-i-patterny-proektirovaniya-pdf-epub-67893687/
-  - 
 - Книга Калеба Докси «Введение в программирование на Go»
   - https://golang-book.ru/chapter-03-types.html
 - Архивы книг
