@@ -44,6 +44,8 @@
   - Condition variables
     - std::condition_variable https://ru.cppreference.com/w/cpp/thread/condition_variable
     - How-to: Use C++ Conditional Variables for Thread Synchronization https://jtchen.io/blog/cpp-conditional-variables
+  - date
+    - Time in C++ – present and future – Part 2 https://curiouslyrecurringthoughts.home.blog/2019/08/30/time-in-c-present-and-future-part-2/
   - Шаблоны, templates
     - Шаблоны https://education.yandex.ru/handbook/cpp/article/templates
   - Многопоточное программирование
