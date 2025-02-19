@@ -53,6 +53,7 @@
     - Всё, точка, приплыли! Учимся работать с числами с плавающей точкой и разрабатываем альтернативу с фиксированной точностью десятичной дроби https://habr.com/ru/companies/xakep/articles/257897/
 - RAII
   - Концепция RAII (Resource Acquisition Is Initialization) https://habr.com/ru/companies/otus/articles/778942/
+  - Идиома RAII и умные указатели https://education.yandex.ru/handbook/cpp/article/raii-and-smart-pointers
 - CMake
   - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
   - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
