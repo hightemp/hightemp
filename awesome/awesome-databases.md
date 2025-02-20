@@ -75,6 +75,7 @@
             - Потоковая репликация в PostgreSQL https://itproffi.ru/potokovaya-replikatsiya-v-postgresql/
             - Потоковая репликация в PostgreSQL и пример фейловера https://eax.me/postgresql-replication/
         - Остальное
+            - Failover Replication Slots with Postgres 17 https://www.decodable.co/blog/failover-replication-slots-with-postgres-17
             - Как настроить репликацию в PostgreSQL https://selectel.ru/blog/tutorials/how-to-set-up-replication-in-postgresql/
             - Репликации в PostgreSQL https://habr.com/ru/companies/otus/articles/710956/
             - PostgreSQL Multi-Active Replication - Part 1: An Introduction https://dimitrij-pankratz.medium.com/postgresql-multi-active-replication-part-1-an-introduction-ff7052eb9fd0
