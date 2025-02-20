@@ -38,7 +38,9 @@
 ### Статьи
 
 - Основа
-    - Introduction to the Zig Programming Language https://andrewkelley.me/post/intro-to-zig.html
+    - Основное
+        - Introduction to the Zig Programming Language https://andrewkelley.me/post/intro-to-zig.html
+        - Getting started with the Zig programming language https://blog.logrocket.com/getting-started-zig-programming-language/
 - Многопоточное программирование
     - Understanding Multithreading in Zig Programming Language https://piembsystech.com/understanding-multithreading-in-zig-programming-language/
     - A Comprehensive Guide to Threading in Zig: Creation, Synchronization, and Data Passing https://www.xeg.io/shared-searches/a-comprehensive-guide-to-threading-in-zig-creation-synchronization-and-data-passing-666df81a5ccf5bab1ec23e5e
