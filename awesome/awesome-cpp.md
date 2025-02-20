@@ -32,6 +32,7 @@
 - https://www.ramtintjb.com/blog
 - https://andreasfertig.com/blog/tag/cpp/
 - https://twdev.blog/
+- http://cukic.co/c++/
 
 ### Статьи
 
