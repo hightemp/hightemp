@@ -46,6 +46,7 @@
     - Mutex lock guards in C++11 https://geidav.wordpress.com/2014/01/09/mutex-lock-guards-in-c11/    
   - Умные указатели, smart pointers
     - Основное
+      - Prefer unique_ptr over shared_ptr unless you need to share ownership https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rr-unique
       - About smart pointers in C++ https://www.deleaker.com/blog/2018/08/27/about-smart-pointers-in-c/
       - A Complete Guide to Smart Pointers in C++ https://iies.in/blog/a-complete-guide-to-smart-pointers-in-c/
     - std::weak_ptr
