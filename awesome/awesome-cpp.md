@@ -66,6 +66,8 @@
     - Обработка исключений https://education.yandex.ru/handbook/cpp/article/exceptions
   - Остальное
     - Всё, точка, приплыли! Учимся работать с числами с плавающей точкой и разрабатываем альтернативу с фиксированной точностью десятичной дроби https://habr.com/ru/companies/xakep/articles/257897/
+- Package management, Менеджеры пакетов
+  - #1 The state of C++ package management: The big three https://twdev.blog/2024/08/cpp_pkgmng1/
 - RAII
   - Концепция RAII (Resource Acquisition Is Initialization) https://habr.com/ru/companies/otus/articles/778942/
   - Идиома RAII и умные указатели https://education.yandex.ru/handbook/cpp/article/raii-and-smart-pointers
