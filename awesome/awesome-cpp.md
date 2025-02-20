@@ -33,6 +33,7 @@
 - https://andreasfertig.com/blog/tag/cpp/
 - https://twdev.blog/
 - http://cukic.co/c++/
+- https://embeddedartistry.com/blog/
 
 ### Статьи
 
