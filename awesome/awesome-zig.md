@@ -13,6 +13,7 @@
 ### Полезные ссылки
 
 - Zig Standard Library Documentation https://ziglang.org/documentation/master/std/#A;std
+- Learn the ⚡Zig programming language by fixing tiny broken programs. https://codeberg.org/ziglings/exercises/#ziglings
 
 ### Курсы
 
