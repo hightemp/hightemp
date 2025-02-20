@@ -6,6 +6,7 @@
 - https://www.trackawesomelist.com/catdevnull/awesome-zig/readme/
 - Zig Learning Resources https://ziggit.dev/t/zig-learning-resources/3160
 - https://awesome.ecosyste.ms/lists/zigcc%2Fawesome-zig
+- https://exercism.org/docs/tracks/zig/resources
 
 ### Библиотеки
 
