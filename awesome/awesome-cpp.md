@@ -34,6 +34,7 @@
 - https://twdev.blog/
 - http://cukic.co/c++/
 - https://embeddedartistry.com/blog/
+- https://vorbrodt.blog/
 
 ### Статьи
 
