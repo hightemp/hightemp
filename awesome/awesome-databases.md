@@ -74,6 +74,8 @@
             - Потоковая репликация PostgreSQL https://kuzevanov.ru/linux/потоковая-репликация-postgresql.html
             - Потоковая репликация в PostgreSQL https://itproffi.ru/potokovaya-replikatsiya-v-postgresql/
             - Потоковая репликация в PostgreSQL и пример фейловера https://eax.me/postgresql-replication/
+        - Разрешение конфликтов
+            - How to handle logical replication conflicts in PostgreSQL https://www.postgresql.fastware.com/blog/how-to-handle-logical-replication-conflicts-in-postgresql
         - Остальное
             - Failover Replication Slots with Postgres 17 https://www.decodable.co/blog/failover-replication-slots-with-postgres-17
             - Как настроить репликацию в PostgreSQL https://selectel.ru/blog/tutorials/how-to-set-up-replication-in-postgresql/
