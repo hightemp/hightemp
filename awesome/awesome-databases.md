@@ -57,6 +57,8 @@
         - Vector Similarity Search with PostgreSQL’s pgvector – A Deep Dive https://severalnines.com/blog/vector-similarity-search-with-postgresqls-pgvector-a-deep-dive/
     - Нейросети
         - Нейронные оптимизаторы запросов в реляционных БД (Часть 3): Погружение в ранжирование https://habr.com/ru/companies/postgrespro/articles/857998/
+    - Kubernetes
+        - Mastering high availability: PostgreSQL meets Kubernetes(En) https://weng-albert.medium.com/mastering-high-availability-postgresql-meets-kubernetes-929846f6cc88
     - Репликация
         - Логическая репликация, logical replication
             - PostgreSQL Logical Replication: Easy steps to set up https://hevodata.com/learn/postgresql-logical-replication/
