@@ -54,6 +54,7 @@
     - std::weak_ptr
       - https://en.cppreference.com/w/cpp/memory/weak_ptr
     - std::shared_ptr
+      - In-depth look at C++ shared pointers https://vorbrodt.blog/2019/10/13/in-depth-look-at-c-shared-pointers/
       - Understanding the inner workings of C++ smart pointers - The shared_ptr https://andreasfertig.com/blog/2024/09/understanding-the-inner-workings-of-cpp-smart-pointers-the-shared_ptr/
       - C++ Shared Pointer Thread-Safety https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/
       - Of common problems with shared pointers https://twdev.blog/2024/09/sharedptr/
