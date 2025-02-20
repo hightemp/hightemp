@@ -120,6 +120,11 @@
     - Репликация
         - Как устроена MySQL-репликация https://highload.guide/blog/mysql_replication_2015.html
     - Остальное
+- Clickhouse
+    - Основное
+    - Репликация
+        - CLCK 11: Настройка репликации в ClickHouse https://learning.infoteam.msk.ru/Rebrain/Clickhouse/clck_11%20Настройка%20репликации%20в%20ClickHouse/CLCK%2011_%20Настройка%20репликации%20в%20ClickHouse.html
+    - Остальное
 - Остальное
     - Самоучитель SQL https://practicum.yandex.ru/blog/samouchitel-sql
     - Управление качеством данных на основе алгоритмов нечеткого поиска https://blog.arbinada.com/ru/category/00020.html
