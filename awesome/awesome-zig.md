@@ -14,6 +14,7 @@
 
 - Zig Standard Library Documentation https://ziglang.org/documentation/master/std/#A;std
 - Learn the ⚡Zig programming language by fixing tiny broken programs. https://codeberg.org/ziglings/exercises/#ziglings
+- https://zighelp.org/
 
 ### Курсы
 
@@ -26,6 +27,7 @@
 ### Статьи
 
 - Основа
+    - Introduction to the Zig Programming Language https://andrewkelley.me/post/intro-to-zig.html
 - Многопоточное программирование
     - Understanding Multithreading in Zig Programming Language https://piembsystech.com/understanding-multithreading-in-zig-programming-language/
     - A Comprehensive Guide to Threading in Zig: Creation, Synchronization, and Data Passing https://www.xeg.io/shared-searches/a-comprehensive-guide-to-threading-in-zig-creation-synchronization-and-data-passing-666df81a5ccf5bab1ec23e5e
