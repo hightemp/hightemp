@@ -46,6 +46,7 @@
   - Умные указатели, smart pointers
     - Основное
       - About smart pointers in C++ https://www.deleaker.com/blog/2018/08/27/about-smart-pointers-in-c/
+      - A Complete Guide to Smart Pointers in C++ https://iies.in/blog/a-complete-guide-to-smart-pointers-in-c/
     - std::weak_ptr
       - https://en.cppreference.com/w/cpp/memory/weak_ptr
     - std::shared_ptr
