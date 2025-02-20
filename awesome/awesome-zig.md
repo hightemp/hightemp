@@ -43,6 +43,7 @@
     - Основное
         - Introduction to the Zig Programming Language https://andrewkelley.me/post/intro-to-zig.html
         - Getting started with the Zig programming language https://blog.logrocket.com/getting-started-zig-programming-language/
+        - Notes From the Field: Learning Zig https://registerspill.thorstenball.com/p/notes-from-the-field-learning-zig?utm_campaign=post&utm_medium=web
     - Остальное
         - Why is Zig so Cool? https://theaggressiveprogrammer.substack.com/p/why-is-zig-so-cool?utm_campaign=post&utm_medium=web
 - Многопоточное программирование
