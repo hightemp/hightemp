@@ -89,8 +89,10 @@
         - Остальное
             - An Overview of Caching for PostgreSQL https://severalnines.com/blog/overview-caching-postgresql/
             - Database Scaling: PostgreSQL Caching Explained https://www.timescale.com/blog/database-scaling-postgresql-caching-explained/            
-    - Остальное
+    - UUID
         - PostgreSQL and UUID as primary key https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/
+        - PostgreSQL Primary Key Dilemma: UUID vs. BIGINT https://medium.com/@sjksingh/postgresql-primary-key-dilemma-uuid-vs-bigint-52008685b744
+    - Остальное
         - PostgreSQL 17: Часть 5 или Коммитфест 2024-03 https://habr.com/ru/companies/postgrespro/articles/841408/
         - Неожиданная находка, которая освобождает 20 GB неиспользованного индексного пространства https://habr.com/ru/companies/otus/articles/672102/
         - PostgreSQL-триггеры: создание, удаление, примеры https://timeweb.cloud/tutorials/postgresql/postgresql-triggery-sozdanie-udalenie-primery
