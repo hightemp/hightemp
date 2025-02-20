@@ -92,6 +92,7 @@
     - UUID
         - PostgreSQL and UUID as primary key https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/
         - PostgreSQL Primary Key Dilemma: UUID vs. BIGINT https://medium.com/@sjksingh/postgresql-primary-key-dilemma-uuid-vs-bigint-52008685b744
+        - A Complete Guide to UUIDs in PostgreSQL https://www.commandprompt.com/education/a-complete-guide-to-uuids-in-postgresql/
     - Остальное
         - PostgreSQL 17: Часть 5 или Коммитфест 2024-03 https://habr.com/ru/companies/postgrespro/articles/841408/
         - Неожиданная находка, которая освобождает 20 GB неиспользованного индексного пространства https://habr.com/ru/companies/otus/articles/672102/
