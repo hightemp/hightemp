@@ -68,6 +68,7 @@
             - Logical Replication: PubSub in PostgreSQL https://medium.com/hacktive-devs/logical-replication-pubsub-in-postgresql-bec70b286f3b
             - Setup Logical Replication using pglogical in PostgreSQL https://dbsguru.com/setup-logical-replication-using-pglogical-in-postgresql/
         - Потоковая репликация, WAL
+            - How to use streaming replication with PostgreSQL https://tech.codeyellow.nl/blog/pg-replication/
             - Настройка потоковой репликации PostgreSQL https://www.dmosk.ru/miniinstruktions.php?mini=postgresql-replication&ysclid=m48bnxegz2534231408
             - Потоковая репликация в PostgreSQL – короткое введение https://prudnitskiy.pro/post/2018-01-05-pgsql-replica/
             - Потоковая репликация PostgreSQL https://kuzevanov.ru/linux/потоковая-репликация-postgresql.html
