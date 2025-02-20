@@ -54,6 +54,7 @@
       - C++ Shared Pointer Thread-Safety https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/
       - Of common problems with shared pointers https://twdev.blog/2024/09/sharedptr/
     - Остальное
+      - Singletons, shared instances, the modern way http://cukic.co/2013/06/26/singletons-shared-instances-the-modern-way/
   - Condition variables
     - std::condition_variable https://ru.cppreference.com/w/cpp/thread/condition_variable
     - How-to: Use C++ Conditional Variables for Thread Synchronization https://jtchen.io/blog/cpp-conditional-variables
