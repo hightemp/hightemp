@@ -10,6 +10,10 @@
 
 ### Репозитории
 
+### Форумы
+
+- https://ziggit.dev/
+
 ### Полезные ссылки
 
 - Zig Standard Library Documentation https://ziglang.org/documentation/master/std/#A;std
@@ -19,8 +23,12 @@
 ### Курсы
 
 - Learning Zig https://www.openmymind.net/learning_zig/
+- https://exercism.org/tracks/zig
 
 ### Книги
+
+- https://zig.guide/
+- https://cookbook.ziglang.cc/intro.html
 
 ### Блоги
 
@@ -35,3 +43,7 @@
     - A Comprehensive Guide to Threading in Zig: Creation, Synchronization, and Data Passing https://www.xeg.io/shared-searches/a-comprehensive-guide-to-threading-in-zig-creation-synchronization-and-data-passing-666df81a5ccf5bab1ec23e5e
 - Остальное
     - Writing abstract interfaces in zig is an absolute nightmare! https://twdev.blog/2025/01/zig_interfaces/
+
+### Видео
+
+- https://zig.show/
