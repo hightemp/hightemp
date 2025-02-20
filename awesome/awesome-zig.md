@@ -12,6 +12,16 @@
 
 ### Полезные ссылки
 
+- Zig Standard Library Documentation https://ziglang.org/documentation/master/std/#A;std
+
+### Курсы
+
+- Learning Zig https://www.openmymind.net/learning_zig/
+
+### Книги
+
+### Блоги
+
 ### Статьи
 
 - Основа
