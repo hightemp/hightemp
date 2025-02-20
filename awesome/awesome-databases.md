@@ -145,6 +145,7 @@
     - https://habr.com/ru/companies/postgrespro/articles/
     - https://devmark.ru/articles/tag/postgresql
     - https://www.commandprompt.com/education/category/postgres/
+    - https://www.postgresonline.com/
 
 ### Видео
 
