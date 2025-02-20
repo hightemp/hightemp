@@ -1,5 +1,10 @@
 ### Коллекции
 
+- https://github.com/zigcc/awesome-zig
+- https://github.com/nrdmn/awesome-zig
+- https://project-awesome.org/catdevnull/awesome-zig
+- https://www.trackawesomelist.com/catdevnull/awesome-zig/readme/
+
 ### Библиотеки
 
 ### Репозитории
