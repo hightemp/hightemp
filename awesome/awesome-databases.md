@@ -135,6 +135,7 @@
     - Репликация
         - CLCK 11: Настройка репликации в ClickHouse https://learning.infoteam.msk.ru/Rebrain/Clickhouse/clck_11%20Настройка%20репликации%20в%20ClickHouse/CLCK%2011_%20Настройка%20репликации%20в%20ClickHouse.html
         - Clickhouse — шардинг и репликация https://datafinder.ru/products/clickhouse-sharding-i-replikaciya
+        - Репликация ClickHouse без костылей: ожидание и реальность https://habr.com/ru/companies/tuturu/articles/576992/
         - Дом, милый дом: нюансы работы с ClickHouse. Часть 2, репликация https://habr.com/ru/companies/nixys/articles/826850/
     - Остальное
 - Остальное
