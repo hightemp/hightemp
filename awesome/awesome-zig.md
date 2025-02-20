@@ -13,6 +13,7 @@
 ### Форумы
 
 - https://ziggit.dev/
+- https://stackoverflow.com/questions/tagged/zig
 
 ### Полезные ссылки
 
