@@ -136,6 +136,7 @@
         - Возможности ClickHouse для продвинутых разработчиков. Алексей Миловидов (2018г) https://habr.com/ru/articles/519168/
     - Clickhouse-copier
         - Clickhouse-copier in practice https://altinity.com/blog/2018-8-22-clickhouse-copier-in-practice
+        - How we transferred the Clickhouse database between geographically distant data centers https://maxilect-company.medium.com/how-we-transferred-the-clickhouse-database-between-geographically-distant-data-centers-ad3c853dce3f
     - Репликация
         - CLCK 11: Настройка репликации в ClickHouse https://learning.infoteam.msk.ru/Rebrain/Clickhouse/clck_11%20Настройка%20репликации%20в%20ClickHouse/CLCK%2011_%20Настройка%20репликации%20в%20ClickHouse.html
         - Clickhouse — шардинг и репликация https://datafinder.ru/products/clickhouse-sharding-i-replikaciya
