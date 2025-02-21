@@ -36,6 +36,8 @@
   - DtcGridBundle - это Symfony бандл для генерации настраиваемых интерактивных таблиц данных из сущностей Doctrine ORM или MongoDB Documents с поддержкой различных JavaScript-библиотек (jQuery DataTables, jqGrid) и возможностью стилизации через Bootstrap. Datagrid for Symfony 2/3/4/5 https://github.com/mmucklo/DtcGridBundle 
   - Symfony DataTables Bundle - это инструмент интеграции jQuery-библиотеки DataTables с фреймворком Symfony 6.4+, который обеспечивает создание интерактивных Ajax-таблиц с поддержкой различных источников данных (Doctrine ORM, MongoDB, Elastica) через систему адаптеров и возможностью реализации собственных коннекторов. https://github.com/omines/datatables-bundle
   - Kibatic Datagrid Bundle - это пакет для фреймворка Symfony, предоставляющий гибкие инструменты для создания настраиваемых таблиц данных (datagrid) с поддержкой пагинации, сортировки, фильтрации, пакетных действий и Bootstrap-тем, основанный на Doctrine ORM. https://github.com/kibatic/datagrid-bundle
+- Логирование
+  - DakenReleaseProfilerBundle — это инструмент для Symfony, обеспечивающий комплексное логирование и профилирование HTTP-запросов, ответов сервера, SQL-запросов к базе данных и ошибок с возможностью их мониторинга через Slack и административную панель SonataAdmin. https://github.com/dakenf/ReleaseProfilerBundle
 - Остальное
 
 ### Полезные ссылки
