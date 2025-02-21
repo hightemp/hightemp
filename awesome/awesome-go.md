@@ -506,6 +506,7 @@
     - 3 Easy Ways To Add Version Flag in Go https://jerrynsh.com/3-easy-ways-to-add-version-flag-in-go/
     - Коллеги, вы меня огорчаете https://habr.com/ru/companies/oleg-bunin/articles/521582/
     - Почему язык Go плох для НЕумных программистов https://habr.com/ru/articles/448932/
+    - Named Return Parameters in Golang https://www.geeksforgeeks.org/named-return-parameters-in-golang/
 - Разработка языка
   - Contributing the Go Compiler: Adding New Tilde (~) Operator https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
 - Подготовка к собеседованию
