@@ -145,6 +145,7 @@
         - Добавление и удаление реплик в кластер ClickHouse https://stupin.su/wiki/clickhouse_cluster_add_remove/
         - Clickhouse + репликация + шардинг http://iakovlev.org/index.html?p=1435
     - Остальное
+        - НАСТРОЙКА КЛАСТЕРА CLICKHOUSE STEB-BY-STEP — ЧАСТЬ 1 https://avamk.ru/nastrojka-klastera-clickhouse-steb-by-step-chast-1.html
 - Остальное
     - Самоучитель SQL https://practicum.yandex.ru/blog/samouchitel-sql
     - Управление качеством данных на основе алгоритмов нечеткого поиска https://blog.arbinada.com/ru/category/00020.html
