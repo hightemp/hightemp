@@ -133,6 +133,7 @@
 - Clickhouse
     - Основное
         - ClickHouse для продвинутых пользователей в вопросах и ответах https://habr.com/ru/companies/avito/articles/500678/
+        - Возможности ClickHouse для продвинутых разработчиков. Алексей Миловидов (2018г) https://habr.com/ru/articles/519168/
     - Репликация
         - CLCK 11: Настройка репликации в ClickHouse https://learning.infoteam.msk.ru/Rebrain/Clickhouse/clck_11%20Настройка%20репликации%20в%20ClickHouse/CLCK%2011_%20Настройка%20репликации%20в%20ClickHouse.html
         - Clickhouse — шардинг и репликация https://datafinder.ru/products/clickhouse-sharding-i-replikaciya
