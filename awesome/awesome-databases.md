@@ -143,6 +143,7 @@
         - Репликация ClickHouse без костылей: ожидание и реальность https://habr.com/ru/companies/tuturu/articles/576992/
         - Дом, милый дом: нюансы работы с ClickHouse. Часть 2, репликация https://habr.com/ru/companies/nixys/articles/826850/
         - Добавление и удаление реплик в кластер ClickHouse https://stupin.su/wiki/clickhouse_cluster_add_remove/
+        - Clickhouse + репликация + шардинг http://iakovlev.org/index.html?p=1435
     - Остальное
 - Остальное
     - Самоучитель SQL https://practicum.yandex.ru/blog/samouchitel-sql
