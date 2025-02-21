@@ -419,6 +419,7 @@
     - Advanced error handling strategies in Go https://medium.com/@guilhermemls/advanced-error-handling-strategies-in-go-12ef4ee621d7
     - Errors, Errors Everywhere: How We Centralized and Structured Error Handling https://olivernguyen.io/w/namespace.error/
     - ErrorHandling-патерн в golang https://habr.com/ru/articles/871394/
+    - Обработка ошибок в Go — Не традиционный подход https://habr.com/ru/articles/880892/
   - Дженерики; Generics
     - Основное
       - Go Generics cheatsheet https://gosamples.dev/generics-cheatsheet/
