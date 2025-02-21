@@ -1036,6 +1036,7 @@
 - Live reloading
   - Live Reloading in Go https://hovanhoa.hashnode.dev/live-reloading-in-go
 - Остальное
+  - Golang Functional Options are named args on steroids https://uptrace.dev/blog/golang-functional-options
   - Implementing The Fieldalignment Bundle in Go https://switchupcb.com/blog/implementing-the-fieldalignment-bundle-in-go/
   - Top 15 Golang Project Ideas [With Source Code] https://www.guvi.in/blog/top-golang-project-ideas/
   - Gosh: a pluggable command shell in Go https://medium.com/@vladimirvivien/gosh-a-pluggable-command-shell-in-go-cf25102c8439
