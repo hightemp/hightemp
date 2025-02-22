@@ -460,21 +460,68 @@
 
 ### Перевод
 
-- DeepL Translate (https://www.deepl.com/translator) — популярный онлайн-переводчик, работающий на ИИ.
-- Stepes (https://www.stepes.com/ai-powered-translation-managment-system/) — сервис переводит не только текст, но и целые файлы, в котором 2 варианта перевода (AI-powered и Automated)
-- Reverso Context (https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/) — онлайн-переводчик с поиском синонимов и перевода по контексту.
-- LanguageTool (https://languagetool.org/ru) — проверит грамматику и пунктуацию в тексте.
-- SimplyTranslate Mobile (https://f-droid.org/packages/com.simplytranslate_mobile/) — переводчик от гугла в виде приложения на Android. Есть функция распознавания текста через камеру.
-- PDNob Image Translator — (https://www.pdnob.com/) захват, распознавание и перевод текста из изображений и PDF одним щелчком мыши. 
-- LibreTranslate (https://libretranslate.com/) — еще переводчик, работающий на основе ИИ.
-- Taia (https://taia.io/) — ИИ-переводчик, бесплатный, но требует регистрации.
-- Translate.ru (https://www.translate.ru/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4) — промт переводчик.
-- Firefox Translations (https://addons.mozilla.org/ru/firefox/addon/firefox-translations/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) — переводит страницу целиком. 
-- Machine Translation (https://www.machinetranslation.com/) — умный переводчик. Использует в себя разные переводчики: DeepL, Google, Amazon и другие.
-- Image Translator (https://chromewebstore.google.com/detail/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/pbhpcbdjngblklnibanbkgkogjmbjeoe?pli=1) - перевод изображений на 30 языков с помощью ИИ.
-- TransAgents — виртуальная мультиагентная переводческая компания, работающая на базе ИИ! https://github.com/minghao-wu/transagents
-- приложение, которое умеет распознавать и переводить речь в реальном времени. Причем все это происходит прямо в вашем браузере! https://supabase-community.github.io/babelfish.ai/
-- https://doctransgpt.com/
+- DeepL Translate - Популярный онлайн-переводчик на базе ИИ, поддерживающий 31 язык с высокой точностью и передачей нюансов. https://www.deepl.com/ru/translator
+- Stepes - Сервис для перевода не только текста, но и целых файлов с двумя вариантами перевода (AI-powered и Automated). https://www.stepes.com/ai-powered-translation-managment-system/
+- Reverso Context - Онлайн-переводчик с поиском синонимов и переводом с учетом контекста для повышения качества перевода. https://www.reverso.net/перевод-текста
+- LanguageTool - Сервис для проверки грамматики и пунктуации в тексте. https://languagetool.org/ru
+- SimplyTranslate Mobile - Android‑приложение для перевода с распознаванием текста через камеру. https://f-droid.org/packages/com.simplytranslate_mobile/
+- PDNob Image Translator - Инструмент для захвата, распознавания и перевода текста из изображений и PDF одним щелчком мыши. https://www.pdnob.com/
+- LibreTranslate - Переводчик на основе ИИ для машинного перевода без привязки к крупным коммерческим сервисам. https://libretranslate.com/
+- Taia - Бесплатный ИИ‑переводчик (с регистрацией) для перевода текста, речи и изображений. https://taia.io/
+- Translate.ru - Промт‑переводчик для быстрого перевода текстов. https://www.translate.ru/перевод
+- Firefox Translations - Расширение для Firefox, переводящее целые страницы прямо в браузере. https://addons.mozilla.org/ru/firefox/addon/firefox-translations/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+- Machine Translation - Умный переводчик, объединяющий возможности различных движков (DeepL, Google, Amazon и др.) для множества языков. https://www.machinetranslation.com/
+- Image Translator - Плагин для Chrome, переводящий изображения на 30 языков с помощью ИИ. https://chromewebstore.google.com/detail/переводчик-изображений/pbhpcbdjngblklnibanbkgkogjmbjeoe?pli=1
+- TransAgents - Виртуальная мультиагентная переводческая компания, работающая на базе ИИ. https://github.com/minghao-wu/transagents
+- Babelfish.ai - Веб‑приложение, которое распознает и переводит речь в реальном времени прямо в браузере. https://supabase-community.github.io/babelfish.ai/
+- DocTransGPT - Сервис для перевода документов с использованием нейросетевых технологий. https://doctransgpt.com/
+- Яндекс Переводчик - Переводчик с поддержкой более 90 языков для перевода текста, сайтов, изображений и документов с нейросетевым подходом. https://translate.yandex.ru/
+- Google Переводчик - Бесплатный переводчик с поддержкой свыше 100 языков, дополненный функциями распознавания речи и изображений. https://translate.google.ru/
+- QuillBot - Онлайн‑переводчик, позволяющий быстро переводить на 45 языков с возможностью цитирования. https://quillbot.com/translate
+- Smartling - Система перевода с автоматизированной проверкой качества и поддержкой перевода на 150+ языков. https://www.smartling.com/
+- OpenL - Платформа для создания контента и выполнения переводов с использованием технологий искусственного интеллекта. https://openl.io/ru
+- PR-CY - SEO‑инструмент с функцией перевода, оптимизирующий контент для поисковых систем. https://pr-cy.ru/translate/
+- MITUP - Сервис для генерации текста и перевода с помощью нейросетевых технологий. https://ai.mitup.ru/generation-text-translation
+- AI TXT Tools - Инструмент для перевода текстов с возможностью одновременной генерации контента. https://aitxt.ru/tools/translation/
+- HIX.AI Translate - Быстрый переводчик, поддерживающий множество языковых пар. https://translate.hix.ai/
+- Unbabel - Сервис, объединяющий машинный и человеческий перевод для достижения высокой точности на 30 языках. https://unbabel.com/
+- Bing Translator - Переводчик для текстов и веб‑страниц с использованием машинного обучения и премиум‑функциями. https://www.bing.com/translator
+- Wordly - Сервис для перевода и создания субтитров в режиме реального времени на 25+ языках. https://www.wordly.ai/
+- iTranslate - Приложение для перевода и субтитрования речи в режиме реального времени на 25+ языках. https://itranslate.com/
+- Mirai Translate - Инструмент, объединяющий несколько переводчиков (DeepL, ChatGPT, Google Translate) для точных переводов на 75+ языках. https://miraitranslate.com/en/
+- SDL FreeTranslation - Онлайн‑переводчик с нейросетевыми технологиями, поддерживающий 26 языков. https://www.freetranslation.com/
+- Translate.com - Бесплатный онлайн‑переводчик с NMT‑технологией, специализирующийся на медицинских и юридических текстах. https://www.translate.com/
+- Stenomatic - Платформа, сочетающая AI‑переводы с участием сообщества для повышения качества перевода. https://www.stenomatic.ai/
+- Microsoft Translator - Решение для перевода в режиме реального времени с поддержкой до 130 языков, интегрированное с экосистемой Microsoft. https://translator.microsoft.com/
+- Interprefy - Сервис для живого перевода, интегрированный с платформами Microsoft, поддерживающий сотни языков. https://www.interprefy.com/
+- Google Lens - Инструмент для извлечения и перевода текста с изображений в режиме реального времени. https://lens.google/
+- Wordvice AI - Система для перевода текста с изображений, обеспечивающая эффективное чтение и перевод контента с помощью ИИ. https://wordvice.ai/tools/translate
+- Alexa Translations - Переводчик на базе нейросетевых технологий для точного перевода документов без рекламы. https://alexatranslations.com/
+- Grammarly - Сервис, объединяющий машинный и человеческий перевод для 97 языков с мгновенной оценкой качества текста. https://www.grammarly.com/
+- Amazon Translate - AI‑инструмент для перевода текста и проверки грамматики, стиля и тона с поддержкой стандартов безопасности. https://aws.amazon.com/ru/translate/
+- Wordtune - Облачный сервис для перевода текстов, веб‑сайтов и документов на 75+ языках с использованием ИИ. https://www.wordtune.com/
+- Speech-to-Text API by Google Cloud - Решение для распознавания речи с поддержкой более 125 языков и созданием субтитров. https://cloud.google.com/speech-to-text/docs/reference/rest
+- TurboText AI - Сервис для точного перевода текста с поддержкой контекстной генерации (заголовки, посты, объявления). https://www.turbotext.ru/text_ai/create/generate_translate
+- Sider.AI Translator - Инструмент для создания и редактирования текстов с использованием технологий искусственного интеллекта. https://sider.ai/ru/translator/text-translator
+- Tomedes AI Translator - Сервис, переводящий текст с изображений и документов на более чем 50 языках. https://www.tomedes.com/tools/ai-translator
+- EditPad AI Translator - Решение, предлагающее персонализированные переводы с улучшенной точностью. https://www.editpad.org/tool/ai-translator
+- Linnk.AI Translator - Простой инструмент для быстрого перевода текстовых файлов. https://linnk.ai/tools/ai-translator/
+- AIDetectorWriter - Сервис для проверки и точного перевода научных и академических текстов. https://aidetectorwriter.com/online-ai-translation-tool/
+- GPT-O-1 Translator - Инструмент для проверки переводов на признаки использования ИИ. https://gpt-o-1.ru/ai/neiroset-translator/
+- Transifex - Платформа для локализации с использованием нейросетевых технологий для онлайн‑перевода текстов. https://www.transifex.com/
+- TextUnited - Система локализации с поддержкой свыше 450 языков, интегрированными AI‑функциями и SEO‑оптимизацией. https://textunited.com/
+- Lokalise AI - Сервис для совместных переводов с интеграцией в CMS. https://lokalise.com/ai
+- Smartcat - Платформа для генеративного AI‑перевода с TMS, поддерживающая более 30 языков и контекстные настройки. https://www.smartcat.com/
+- CleverSo - Сервис для AI‑перевода различных форматов с возможностью кооперативной интеграции в CMS. https://cleverso.tarjama.com/
+- TransPerfect (GlobalLink AI) - Решение для совершенствования письменного выражения через объединение языкового и концептуального мышления. https://globallink.transperfect.com/products/globallink-now
+- Language I/O - Глобальные языковые услуги и технологии локализации для перевода и управления контентом. https://languageio.com/
+- Lilt - Система реального времени перевода для служб поддержки, обслуживающая 100+ языков ежедневно. https://lilt.com/
+- ModelFront - Платформа для корпоративного AI‑перевода с контекстным ИИ и адаптивной обратной связью. https://www.modelfront.com/
+- AppTek (Neural Machine Translation Platform) - Платформа, предсказывающая необходимость редактирования машинных переводов для повышения их эффективности. https://www.apptek.ai/technology/machine-translation
+- Phrase - Система нейронного машинного перевода с поддержкой пакетных и реалтайм‑решений. https://phrase.com/platform/tms/
+- SYSTRAN Pure Neural Server - Набор инструментов для локализации с интегрированным TMS и управлением строками. https://www.systransoft.com/
+- XTM Cloud - Платформа для повышения производительности глобальной коммуникации для корпоративных клиентов. https://xtm.cloud/
+- YeeKit (GTC Tech) - Веб‑система управления переводами с интегрированным CAT‑инструментом. https://www.yeekit.com
 
 ### Тренеры
 
