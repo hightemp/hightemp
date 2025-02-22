@@ -52,6 +52,9 @@
 
 - Free fake and reliable API for testing and prototyping. Powered by JSON Server + LowDB. https://jsonplaceholder.typicode.com/
 - Platzi Fake Store API https://fakeapi.platzi.com/
+- Эмулятор интернет-магазина с товарами, пользователями и корзиной. Особенно полезен для тестирования электронной коммерции с поддержкой JWT-авторизации https://fakestoreapi.com/
+- Генератор реалистичных пользовательских профилей с фотографиями. Интегрирует параметры для фильтрации по полу и национальности https://randomuser.me
+- Криптовалютные данные с историей цен и рыночной капитализацией. Не требует API-ключа, идеален для финансовых приложений https://api.coingecko.com
 
 ### Книги
 
