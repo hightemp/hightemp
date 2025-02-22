@@ -234,11 +234,11 @@
     - Writing an OS in Rust https://os.phil-opp.com/
     - Reliable Microservices Data Exchange With the Outbox Pattern https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/
 
+## Видео
+
+- CT Lectures (ИТМО) https://www.youtube.com/@ctlectures/playlists
 
 ## Остальное
 
 - https://github1s.com/
-
-## Видео
-
-- CT Lectures (ИТМО) https://www.youtube.com/@ctlectures/playlists
+- https://www.citywalki.com/
