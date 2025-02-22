@@ -866,6 +866,8 @@
     - LLM domain adaptation using continued pre-training — Part 3/4 https://anastasia-tzeveleka.medium.com/llm-domain-adaptation-using-continued-pre-training-part-2-3-23f9133681ee
     - LLM domain adaptation using continued pre-training — Part 4/4 https://medium.com/@aris.tsakpinis/llm-domain-adaptation-using-continued-pre-training-part-4-4-e4fc3acffac7
     - What is Continuous Pretraining? https://docs.arcee.ai/continuous-pretraining/what-is-continuous-pretraining
+- Гайды
+    - Перевод гайда OpenAI по составлению промптов - неофициальный перевод руководства OpenAI, разъясняющего принципы эффективного взаимодействия с языковыми моделями и особенности формулирования запросов для достижения оптимальных результатов. https://platform.openai.com/docs/guides/reasoning-best-practices, https://teletype.in/@prompt_design/reasoning-best-practices
 - Визуальные модели
     - LP-DETR: Layer-wise Progressive Relations for Object Detection https://www.aimodels.fyi/papers/arxiv/lp-detr-layer-wise-progressive-relations-object
 - Ускорение LLM
