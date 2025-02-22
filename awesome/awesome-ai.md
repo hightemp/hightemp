@@ -38,6 +38,13 @@
 - https://github.com/jianzhnie/awesome-instruction-datasets
 - Проект предоставляет бесплатный доступ к данным веб-краулинга через Amazon Web Services, позволяя пользователям обрабатывать или скачивать информацию как через облачные сервисы AWS, так и через HTTP(S) протокол. https://commoncrawl.org/get-started
 - AgiBot World - первый крупномасштабный датасет для обучения роботов, разработанный для продвижения многоцелевых задач робототехники, включающий в себя 1 миллион+ траекторий от 100 роботов, 100+ реальных сценариев в 5 целевых областях, современное оборудование с визуальными тактильными датчиками, манипуляторами с шестью степенями свободы, двухрукими мобильными роботами и широким спектром универсальных сложных задач, а также базовые модели, тесты и экосистему для демократизации доступа к высококачественным данным. https://agibot-world.com/ https://github.com/OpenDriveLab/AgiBot-World https://huggingface.co/datasets/agibot-world/AgiBotWorld-Alpha
+- FineMath (https://huggingface.co/datasets/HuggingFaceTB/finemath) – подкорпус на 54 млрд токенов из FineWeb, содержащий математический контент, в том числе пошаговые решения. Есть еще его корпус-побратим FineWeb-edu (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu) с образовательными текстами. Лицензия ODC-by
+- FineVideo (https://huggingface.co/spaces/HuggingFaceFV/FineVideo-Explorer)  – датасет на 43 тысячи видео для обучения SORA-like моделей видео-генерации, своя лицензия License CC-By
+- FineWeb (https://huggingface.co/datasets/HuggingFaceFW/fineweb) – огромный очищенный интернет-корпус для предобучения больших языковых моделей на 15 триллионов токенов. Есть мультиязычная версия, я теперь еще и бенчмарк, доказывающий, что корпус лучше остальных для сходимости моделей. Лицензия ODC-by
+
+### Бенчмарки
+
+- FineTasks (https://huggingface.co/spaces/HuggingFaceFW/blogpost-fine-tasks) – бечнмарк для оценки качества претрейна LLM на множестве языков. Лицензия ODC-by
 
 ### Трекеры новостей
 
@@ -870,6 +877,7 @@
     - What is Continuous Pretraining? https://docs.arcee.ai/continuous-pretraining/what-is-continuous-pretraining
 - Гайды
     - Перевод гайда OpenAI по составлению промптов - неофициальный перевод руководства OpenAI, разъясняющего принципы эффективного взаимодействия с языковыми моделями и особенности формулирования запросов для достижения оптимальных результатов. https://platform.openai.com/docs/guides/reasoning-best-practices, https://teletype.in/@prompt_design/reasoning-best-practices
+    - LLM Evaluation Guidebook (https://github.com/huggingface/evaluation-guidebook)  – подробный материал с лучшими практиками по оценке языковых моделей, включая составление тестов, инструкции аннотаторам, использование LLM-as-a-judge
 - Визуальные модели
     - LP-DETR: Layer-wise Progressive Relations for Object Detection https://www.aimodels.fyi/papers/arxiv/lp-detr-layer-wise-progressive-relations-object
 - Ускорение LLM
