@@ -51,6 +51,7 @@
 ### Демо API, Fake API
 
 - Free fake and reliable API for testing and prototyping. Powered by JSON Server + LowDB. https://jsonplaceholder.typicode.com/
+- Platzi Fake Store API https://fakeapi.platzi.com/
 
 ### Книги
 
