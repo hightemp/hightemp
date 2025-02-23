@@ -89,6 +89,7 @@
     - https://andisearch.com/
     - https://mplx.run/search
     - https://learning.google.com/experiments/learn-about/signup
+    - Сервис Invesst AI - это система, базирующаяся на нейросетях для анализа рынков и рекомендаций по покупке/продаже акций пользователям. https://app.invesst.ai
 - Для разработчиков
     - https://devv.ai/
 - Научный
