@@ -157,6 +157,7 @@
     - Consistent hashing algorithm https://highscalability.com/consistent-hashing-algorithm/
     - Top 50 System Design Terminologies You Must Know https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1
     - System Design Series https://medium.com/mastering-the-system-design-interview/system-design-series-400aeef711de
+    - Методы проектирования архитектуры по https://studfile.net/preview/4593563/page:3/
 
 ### Видео
 
