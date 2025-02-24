@@ -58,6 +58,7 @@
     - System design 101 The fundamentals of system design https://computersciencesimplified.substack.com/p/system-design-101
     - A survival kit to beat APIs interview https://newsletter.systemdesignclassroom.com/p/a-survival-kit-to-beat-apis-interview
     - 6 Strategies to Build Secure APIs https://newsletter.systemdesigncodex.com/p/6-strategies-to-build-secure-apis
+    - System Design для начинающих: всё, что вам нужно. Часть 3 https://habr.com/ru/articles/885054/
 - Роадмэпы, Roadmap
     - Complete Roadmap to Learn System Design for Beginners https://www.geeksforgeeks.org/complete-roadmap-to-learn-system-design/
 - PACELC Theorem
