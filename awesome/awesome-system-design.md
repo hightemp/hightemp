@@ -36,6 +36,8 @@
 
 - System Design Interview – An insider's guide (Alex Xu)
     - https://www.amazon.nl/-/en/Alex-Xu/dp/B08CMF2CQF
+- Фундаментальный подход к программной архитектуре; Ричардc М., Форд Н.
+    - https://www.litres.ru/book/mark-richards-326443/fundamentalnyy-podhod-k-programmnoy-arhitekture-patte-69434368/
 
 ### Репозитории
 
