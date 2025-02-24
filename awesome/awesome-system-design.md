@@ -63,6 +63,7 @@
     - 6 Strategies to Build Secure APIs https://newsletter.systemdesigncodex.com/p/6-strategies-to-build-secure-apis
     - System Design для начинающих: всё, что вам нужно. Часть 3 https://habr.com/ru/articles/885054/
     - System Design For Beginners: Everything You Need in One Article https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b#cf4c
+    - Заметки об основах программной архитектуры https://habr.com/ru/companies/piter/articles/748094/
 - Роадмэпы, Roadmap
     - Complete Roadmap to Learn System Design for Beginners https://www.geeksforgeeks.org/complete-roadmap-to-learn-system-design/
 - PACELC Theorem
