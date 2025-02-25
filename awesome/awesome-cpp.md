@@ -93,6 +93,8 @@
     - Profiling with GPerfTools https://developer.ridgerun.com/wiki/index.php/Profiling_with_GPerfTools
   - Остальное
     - Профилирование в облаке и не только https://habr.com/ru/articles/536100/
+- Оптимизация, Optimization
+  - Немного размышлений и советов по оптимизации кода на С++ https://habr.com/ru/companies/vk/articles/279449/
 - CMake
   - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
   - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
