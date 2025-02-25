@@ -74,8 +74,11 @@
   - Ссылки
     - Категории выражений и виды ссылок https://pvs-studio.ru/ru/blog/terms/6517/
     - Understanding lvalues, rvalues and their references https://www.fluentcpp.com/2018/02/06/understanding-lvalues-rvalues-and-their-references/
-  - std:forward
-    - Функция std::forward https://pvs-studio.ru/ru/blog/terms/6515/
+  - Перемещение
+    - std:forward
+      - Функция std::forward https://pvs-studio.ru/ru/blog/terms/6515/  
+    - Остальное
+      - Углубляемся в C++: move семантика и rvalue https://tproger.ru/articles/move-semantics-and-rvalue
   - Умные указатели, smart pointers
     - Основное
       - Prefer unique_ptr over shared_ptr unless you need to share ownership https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rr-unique
