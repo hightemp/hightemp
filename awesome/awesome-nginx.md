@@ -140,6 +140,8 @@
             - Mastering NGINX Learn how to configure sticky sessions in NGINX to distribute incoming traffic efficiently and maintain session persistence across multiple servers https://www.pdxdev.com/nginx-reverse-proxy/configuring-sticky-sessions/
             - How Sticky Sessions Can Tilt Load Balancers https://medium.com/@iSooraj/how-sticky-sessions-can-tilt-load-balancers-c5dc8f50099c
             - Session affinity (sticky) with Nginx load balancing https://opensourcehacker.com/2011/03/21/session-affinity-sticky-with-nginx-load-balancing/
+    - Остальное
+        - Как настроить балансировку нагрузки с помощью Nginx https://timeweb.cloud/tutorials/servers/kak-nastroit-balansirovku-nagruzki-s-pomoshchyu-nginx
 - Проксирование
     - Reverse proxy конфигурация
         - Setting up an Nginx Reverse Proxy https://linuxize.com/post/nginx-reverse-proxy/
@@ -163,6 +165,7 @@
         - Nginx as Reverse Proxy with GRPC https://medium.com/nirman-tech-blog/nginx-as-reverse-proxy-with-grpc-820d35642bff
         - Deploying NGINX as an API Gateway, Part 3: Publishing gRPC Services https://www.f5.com/company/blog/nginx/deploying-nginx-plus-as-an-api-gateway-part-3-publishing-grpc-services
         - Summary of using nginx as a reverse proxy for grpc https://segmentfault.com/a/1190000040268472/en
+- Docker
+    - Сборка Dockerfile на примере Nginx https://blog.bayrell.org/ru/linux/docker/25-sborka-dockerfile-na-primere-nginx.html
 - Остальное
-    - Как настроить балансировку нагрузки с помощью Nginx https://timeweb.cloud/tutorials/servers/kak-nastroit-balansirovku-nagruzki-s-pomoshchyu-nginx
     - Is Nginx dead? Is Traefik v3 20% faster than Traefik v2? https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e
