@@ -24,6 +24,12 @@
 - https://www.programiz.com/cpp-programming/online-compiler/
 - https://onecompiler.com/cpp
 - https://cpp.sh/
+- https://cppinsights.io/
+- https://rextester.com/l/cpp_online_compiler_gcc
+- https://www.jdoodle.com/online-compiler-c++/
+- https://onecompiler.com/cpp
+- https://replit.com/languages/cpp
+- https://www.codechef.com/ide
 
 ### Compiler explorer
 
