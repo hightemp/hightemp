@@ -124,6 +124,8 @@
   - How McSema Handles C++ Exceptions https://blog.trailofbits.com/2019/01/21/how-mcsema-handles-c-exceptions/
   - The Secret Life of C++: Exceptions https://web.mit.edu/tibbetts/Public/inside-c/www/exceptions.html
   - An Introduction to Stack Unwinding and Exception Handling https://www.zyma.me/post/stack-unwind-intro/
+- Подборки
+  - Подборка крутых докладов по С++ за 2023 год https://pvs-studio.ru/ru/blog/posts/1120/
 - Остальное
   - Bit Twiddling Hacks, By Sean Eron Anderson http://graphics.stanford.edu/~seander/bithacks.html##ValueInWord
   - More Hash Function Tests https://aras-p.info/blog/2016/08/09/More-Hash-Function-Tests/
