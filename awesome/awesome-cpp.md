@@ -36,6 +36,7 @@
 - http://cukic.co/c++/
 - https://embeddedartistry.com/blog/
 - https://vorbrodt.blog/
+- https://lcellentani.github.io/
 
 ### Статьи
 
