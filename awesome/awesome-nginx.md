@@ -47,6 +47,8 @@
     - Mastering NGINX Monitoring: Comprehensive Guide to Essential Tools https://www.atatus.com/blog/mastering-nginx-monitoring-a-comprehensive-guide-to-essential-tools/
 - CORS
     - Nginx easily solves cross-domain issues https://medium.com/@hubian/nginx-easily-solves-cross-domain-issues-009b95a5185e
+- Масштабирование, scaling
+    - Масштабируемая конфигурация nginx https://highload.guide/blog/scalable-configuration-nginx.html
 - Безопасность
     - Настройка SSL/TLS сертификатов
         - How to Configure SSL/TLS Encryption on NGINX https://scohostings.com/how-to-configure-ssl-tls-encryption-on-nginx/
