@@ -572,6 +572,7 @@
     - GopherCon 2019 - Optimizing Go Code without a blindfold https://sourcegraph.com/blog/go/gophercon-2019-optimizing-go-code-without-a-blindfold
     - Оптимизация Go: как повысить скорость и эффективность кода https://habr.com/ru/companies/simbirsoft/articles/819015/
     - Микрооптимизация кода на Go на примере простого веб-сервиса https://habr.com/ru/companies/kaspersky/articles/591725/
+    - Микрооптимизация кода на Go на примере простого веб-сервиса https://github.com/andrey-shalamov/go-pprof-cpu-heap-example
 - Сигналы SIG**
   - How to Shutdown a Golang Application in a Cleaner way https://medium.com/@leonardo5621_66451/how-to-shutdown-a-golang-application-in-a-cleaner-way-e9307b0ea505
   - go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
