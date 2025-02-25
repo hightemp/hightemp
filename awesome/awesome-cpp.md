@@ -20,6 +20,8 @@
 ### Песочницы
 
 - http://coliru.stacked-crooked.com/
+- https://www.onlinegdb.com/online_c++_compiler
+- https://www.programiz.com/cpp-programming/online-compiler/
 
 ### Книги
 
