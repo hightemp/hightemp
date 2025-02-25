@@ -39,6 +39,8 @@
 - Фундаментальный подход к программной архитектуре; Ричардc М., Форд Н.
     - http://library.tsilikin.ru/Техника/Программирование/Desing/Фундаментальный%20подход%20к%20программной%20архитектуре.pdf
     - https://www.litres.ru/book/mark-richards-326443/fundamentalnyy-podhod-k-programmnoy-arhitekture-patte-69434368/
+- Современный подход к программной архитектуре: сложные компромиссы Форд Н. , Ричардс М. , Садаладж П., Дехгани Ж.
+    - https://www.piter.com/collection/all/product/sovremennyy-podhod-k-programmnoy-arhitekture-slozhnye-kompromissy
 
 ### Репозитории
 
@@ -61,6 +63,7 @@
     - System design 101 The fundamentals of system design https://computersciencesimplified.substack.com/p/system-design-101
     - A survival kit to beat APIs interview https://newsletter.systemdesignclassroom.com/p/a-survival-kit-to-beat-apis-interview
     - 6 Strategies to Build Secure APIs https://newsletter.systemdesigncodex.com/p/6-strategies-to-build-secure-apis
+    - System Design для начинающих: всё, что вам нужно. Часть 1 https://habr.com/ru/articles/873388/
     - System Design для начинающих: всё, что вам нужно. Часть 3 https://habr.com/ru/articles/885054/
     - System Design For Beginners: Everything You Need in One Article https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b#cf4c
     - Заметки об основах программной архитектуры https://habr.com/ru/companies/piter/articles/748094/
