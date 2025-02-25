@@ -104,6 +104,7 @@
   - RVO
     - RVO и NRVO https://pvs-studio.ru/ru/blog/terms/6516/
     - Return Value Optimization (RVO) https://lcellentani.github.io/post/cpp_rvo/
+    - Return value optimizations https://www.fluentcpp.com/2016/11/28/return-value-optimizations/
 - CMake
   - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
   - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
