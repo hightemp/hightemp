@@ -30,6 +30,9 @@
 - https://onecompiler.com/cpp
 - https://replit.com/languages/cpp
 - https://www.codechef.com/ide
+- https://www.mycompiler.io/new/cpp
+- https://www.cppbuzz.com/compiler/online-c++-compiler
+- https://paiza.io/en/projects/new?language=cpp
 
 ### Compiler explorer
 
