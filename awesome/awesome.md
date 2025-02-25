@@ -140,6 +140,10 @@
 
 - https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean
 
+## Инструменты PDF
+
+- https://tools.pdf24.org/en/
+
 ## Kickstart
 
 - https://github.com/nvim-lua/kickstart.nvim
