@@ -116,6 +116,7 @@
 - https://blog.bytebytego.com/
 - https://www.splunk.com/en_us/blog/devops.html
 - https://kuzevanov.ru/
+- https://trainwithshubham.blog/blogs/
 
 ### Видео
 
