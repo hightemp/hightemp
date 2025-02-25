@@ -302,6 +302,9 @@
 
 ### Книги
 
+- 100 ошибок Go и как их избежать (Харшани Т.)
+  - https://www.piter.com/collection/all/product/100-oshibok-go-i-kak-ih-izbezhat
+  - https://coollib.in/b/678133-harshani-teyva-100-oshibok-go-i-kak-ih-izbezhat
 - Go: идиомы и паттерны проектирования, 2-е изд.
   - https://www.litres.ru/book/dzhon-bodner/go-idiomy-i-patterny-proektirovaniya-pdf-epub-67893687/
 - Книга Калеба Докси «Введение в программирование на Go»
