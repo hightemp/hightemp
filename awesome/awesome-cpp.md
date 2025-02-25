@@ -49,6 +49,8 @@
     - Mutex lock guards in C++11 https://geidav.wordpress.com/2014/01/09/mutex-lock-guards-in-c11/    
   - Ссылки
     - Категории выражений и виды ссылок https://pvs-studio.ru/ru/blog/terms/6517/
+  - std:forward
+    - Функция std::forward https://pvs-studio.ru/ru/blog/terms/6515/
   - Умные указатели, smart pointers
     - Основное
       - Prefer unique_ptr over shared_ptr unless you need to share ownership https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rr-unique
