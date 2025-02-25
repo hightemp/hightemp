@@ -37,6 +37,7 @@
 - https://embeddedartistry.com/blog/
 - https://vorbrodt.blog/
 - https://lcellentani.github.io/
+- https://www.fluentcpp.com/posts/
 
 ### Статьи
 
