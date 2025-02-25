@@ -51,6 +51,7 @@
     - Mutex lock guards in C++11 https://geidav.wordpress.com/2014/01/09/mutex-lock-guards-in-c11/    
   - Ссылки
     - Категории выражений и виды ссылок https://pvs-studio.ru/ru/blog/terms/6517/
+    - Understanding lvalues, rvalues and their references https://www.fluentcpp.com/2018/02/06/understanding-lvalues-rvalues-and-their-references/
   - std:forward
     - Функция std::forward https://pvs-studio.ru/ru/blog/terms/6515/
   - Умные указатели, smart pointers
