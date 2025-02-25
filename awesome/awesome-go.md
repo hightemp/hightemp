@@ -388,6 +388,8 @@
     - Вопросы по мэпам (map) в Go https://habr.com/ru/articles/854214/
   - Waitgroup
     - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
+  - Ellipsis
+    - How to use Ellipsis (…) in Golang? https://www.geeksforgeeks.org/how-to-use-ellipsis-in-golang/
   - Тэги, Tags
     - Struct Tags in Go: Implementing Custom Tag Functionality https://medium.com/@ullauri.byron/struct-tags-in-go-implementing-custom-tag-functionality-b32c3c87423d
     - Структурные теги в golang http://xztvc.ru/post/strukturnye-tegi-v-golang
