@@ -561,6 +561,8 @@
     - Go Plan9 Memo, Speeding Up Calculations 450%; В статье описывается разработка SIMD-пакета для языка Go с использованием ассемблера Plan9, что позволило ускорить вычисления на 450% за счет параллельной обработки данных на аппаратном уровне. https://pehringer.info/go_plan9_memo.html
   - PGO (Profile-guided Optimization)
     - Как ускорить программу, не переписав ни строчки кода: PGO для Go-разработчиков https://habr.com/ru/articles/846818/  
+  - Memory pools
+    - Три способа оптимизировать работу с памятью на Go с помощью memory pools https://engineer.yadro.com/article/three-ways-to-optimize-memory-performance-on-go-with-memory-pools/
   - Остальное
     - Гармония железа и кода: ускоряем Go, проектируя приложение с учетом архитектуры процессора https://habr.com/ru/companies/cloud_ru/articles/878088/
     - Maps and memory leaks https://100go.co/28-maps-memory-leaks/
