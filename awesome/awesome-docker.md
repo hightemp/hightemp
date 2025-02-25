@@ -33,6 +33,8 @@
     - Docker Stacks and Attachable networks https://blog.alexellis.io/docker-stacks-attachable-networks/
     - Элемент верхнего уровня сети https://digitology.tech/docs/docker/compose/compose-file/06-networks.html
     - Setting Up Docker Overlay Network https://opstree.com/blog/2020/07/07/setting-up-docker-overlay-network/
+- Масштаблирование, Scaling
+    - Масштабирование сервисов https://javarush.com/quests/lectures/ru.javarush.docker.fullstack.lecture.level04.lecture07
 - Подборки
     - 5 Awesome Docker Tools To Make Your Life Easier https://dev.to/code42cate/5-awesome-docker-tools-to-make-your-life-easier-22kl
 - Остальное
