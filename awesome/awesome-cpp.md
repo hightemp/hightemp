@@ -83,6 +83,8 @@
       - Mutex in C++: the story so far – Part 2 https://curiouslyrecurringthoughts.home.blog/2019/07/21/mutex-in-c-the-story-so-far-part-2/
     - Остальное
       - Multithreading in C++: Memory Ordering https://www.ramtintjb.com/blog/memory-ordering
+  - Guards
+    - On Using Guards in C++ https://www.fluentcpp.com/2018/02/20/on-using-guards-in-cpp/
   - Исключения, Exceptions
     - Обработка исключений https://education.yandex.ru/handbook/cpp/article/exceptions
   - Остальное
