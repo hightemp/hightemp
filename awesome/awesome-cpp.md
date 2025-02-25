@@ -94,7 +94,10 @@
   - Остальное
     - Профилирование в облаке и не только https://habr.com/ru/articles/536100/
 - Оптимизация, Optimization
-  - Немного размышлений и советов по оптимизации кода на С++ https://habr.com/ru/companies/vk/articles/279449/
+  - Основное
+    - Немного размышлений и советов по оптимизации кода на С++ https://habr.com/ru/companies/vk/articles/279449/
+  - RVO
+    - RVO и NRVO https://pvs-studio.ru/ru/blog/terms/6516/
 - CMake
   - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
   - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
