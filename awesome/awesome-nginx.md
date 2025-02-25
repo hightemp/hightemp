@@ -170,6 +170,7 @@
         - Summary of using nginx as a reverse proxy for grpc https://segmentfault.com/a/1190000040268472/en
 - Docker
     - Сборка Dockerfile на примере Nginx https://blog.bayrell.org/ru/linux/docker/25-sborka-dockerfile-na-primere-nginx.html
+    - Запуск Nginx в Docker https://dockerhosting.ru/blog/nginx-v-docker/
 - Amazon cloud, AWS
     - NGINX Web Server Deployment Using Autoscaling and ELB. https://trainwithshubham.blog/nginx-webserver-using-autoscaling-and-elb/
     - Load Balancing AWS Auto Scaling Groups with NGINX Plus https://www.f5.com/company/blog/nginx/load-balancing-aws-auto-scaling-groups-nginx-plus
