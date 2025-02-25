@@ -88,8 +88,11 @@
   - Концепция RAII (Resource Acquisition Is Initialization) https://habr.com/ru/companies/otus/articles/778942/
   - Идиома RAII и умные указатели https://education.yandex.ru/handbook/cpp/article/raii-and-smart-pointers
 - Профилирование, Profiling
-  - Profiling with gperftools https://wiki.geany.org/howtos/profiling/gperftools
-  - Профилирование в облаке и не только https://habr.com/ru/articles/536100/
+  - gperftools
+    - Profiling with gperftools https://wiki.geany.org/howtos/profiling/gperftools
+    - Profiling with GPerfTools https://developer.ridgerun.com/wiki/index.php/Profiling_with_GPerfTools
+  - Остальное
+    - Профилирование в облаке и не только https://habr.com/ru/articles/536100/
 - CMake
   - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
   - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
