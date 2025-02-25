@@ -69,6 +69,7 @@
       - C++ Shared Pointer Thread-Safety https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/
       - Of common problems with shared pointers https://twdev.blog/2024/09/sharedptr/
       - std::shared_ptr and shared_from_this https://embeddedartistry.com/blog/2017/01/11/stdshared_ptr-and-shared_from_this/
+      - Exploring std::shared_ptr https://shaharmike.com/cpp/shared-ptr/
     - Остальное
       - Singletons, shared instances, the modern way http://cukic.co/2013/06/26/singletons-shared-instances-the-modern-way/
   - Condition variables
