@@ -170,5 +170,6 @@
     - Сборка Dockerfile на примере Nginx https://blog.bayrell.org/ru/linux/docker/25-sborka-dockerfile-na-primere-nginx.html
 - Amazon cloud, AWS
     - NGINX Web Server Deployment Using Autoscaling and ELB. https://trainwithshubham.blog/nginx-webserver-using-autoscaling-and-elb/
+    - Load Balancing AWS Auto Scaling Groups with NGINX Plus https://www.f5.com/company/blog/nginx/load-balancing-aws-auto-scaling-groups-nginx-plus
 - Остальное
     - Is Nginx dead? Is Traefik v3 20% faster than Traefik v2? https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e
