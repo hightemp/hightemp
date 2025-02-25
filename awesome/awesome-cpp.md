@@ -25,6 +25,10 @@
 - https://onecompiler.com/cpp
 - https://cpp.sh/
 
+### Compiler explorer
+
+- https://godbolt.org/
+
 ### Книги
 
 - https://craftinginterpreters.com/
