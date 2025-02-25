@@ -9,6 +9,7 @@
 
 - https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS
 - https://github.com/owasp-modsecurity/ModSecurity-nginx
+- NGINX Demos - это коллекция демонстрационных проектов с открытым исходным кодом, показывающих различные возможности веб-сервера NGINX и его коммерческой версии NGINX Plus в области балансировки нагрузки, автомасштабирования, service discovery и интеграции с различными технологиями (Docker, Kubernetes, Consul, etcd и др.) через практические примеры развертывания с использованием инструментов автоматизации Vagrant и Ansible. https://github.com/nginxinc/NGINX-Demos
 
 ### Книги
 
