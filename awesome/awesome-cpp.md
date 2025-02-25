@@ -17,6 +17,10 @@
     - https://github.com/facebook/rocksdb
     - https://github.com/google/leveldb
 
+### Песочницы
+
+- http://coliru.stacked-crooked.com/
+
 ### Книги
 
 - https://craftinginterpreters.com/
