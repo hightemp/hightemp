@@ -294,6 +294,7 @@
 
 ### Шпаргалки
 
+- https://devhints.io/go
 - https://quickref.me/go
 - Go features by version https://antonz.org/which-go/
 - https://refactoring.guru/design-patterns/go
