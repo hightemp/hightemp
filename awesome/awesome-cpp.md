@@ -163,6 +163,7 @@
 - Подборки
   - Подборка крутых докладов по С++ за 2023 год https://pvs-studio.ru/ru/blog/posts/1120/
 - Остальное
+  - Compiler Explorer — уникальный проект для исследования компилируемого кода https://habr.com/ru/companies/ruvds/articles/815675/
   - Bit Twiddling Hacks, By Sean Eron Anderson http://graphics.stanford.edu/~seander/bithacks.html##ValueInWord
   - More Hash Function Tests https://aras-p.info/blog/2016/08/09/More-Hash-Function-Tests/
   - Ввод-вывод в Unix-подобных ОС (примеры) https://zed.karelia.ru/go.to/for.students/computer.networks/io.examples
