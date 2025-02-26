@@ -1282,6 +1282,12 @@
 - https://cupogo.dev/
 - https://changelog.com/gotime
 
+### Поиск работы
+
+- https://golang.cafe/
+- https://www.golangprojects.com/
+- https://www.welovegolang.com/
+
 ### Примеры приложений
 
 - Anor - это полнофункциональное e-commerce приложение на Golang, HTMX и _hyperscript, вдохновленное Uzum, eBay и Zalando, использующее PostgreSQL, Redis и Typesense для хранения данных, кэширования и поиска. https://github.com/aliml92/anor
