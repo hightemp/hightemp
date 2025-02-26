@@ -177,6 +177,7 @@
 - API
   - Безопасность API
     - JWT
+      - How to use Access Token Authentication https://symfony.com/doc/current/security/access_token.html
       - Implementing Jwt Authentication In Symfony For Rest Apis https://peerdh.com/blogs/programming-insights/implementing-jwt-authentication-in-symfony-for-rest-apis
       - JWT Authentication in Symfony 7 API : A Comprehensive Step-by-Step Guide https://medium.com/devlisty/jwt-authentication-in-symfony-7-a-comprehensive-step-by-step-guide-a2a26426855d
       - How to Add JWT Login to a Symfony Project https://dev.to/daniyaljavani/how-to-add-jwt-login-to-a-symfony-6-project-3elh
