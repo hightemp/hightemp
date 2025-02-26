@@ -31,6 +31,7 @@
   - https://github.com/ForestAdmin/symfony-forestadmin
   - Tabler Bundle for Symfony - это интеграционный пакет для фреймворка Symfony, предоставляющий адаптивный HTML-шаблон Tabler.io с богатым набором инструментов Twig (функции, фильтры, макросы), двумя основными макетами интерфейса (вертикальным и горизонтальным), встроенной поддержкой многоязычности и системой безопасности, использующий Bootstrap 5 и FontAwesome 5 для быстрой разработки современных административных панелей. https://github.com/kevinpapst/TablerBundle
   - AdminLTE Bundle for Symfony - это заброшенный пакет для интеграции темы AdminLTE в проекты Symfony, предоставляющий готовые шаблоны с поддержкой меню, уведомлений, мультиязычности и популярных бандлов (KNPMenuBundle, FOSUserBundle), основанный на AdminLTE 2.4.8 и FontAwesome 5. https://github.com/kevinpapst/AdminLTEBundle
+  - EasyAdmin Demo Application https://github.com/EasyCorp/easyadmin-demo
 - Datagrid
   - Symfony GridView Bundle - это Symfony-бандл для создания настраиваемых табличных представлений данных (гридов), который предоставляет widget-компонент для быстрого отображения и управления табличными данными в Symfony-приложениях. https://github.com/tinustester/symfony-gridview-bundle
   - DtcGridBundle - это Symfony бандл для генерации настраиваемых интерактивных таблиц данных из сущностей Doctrine ORM или MongoDB Documents с поддержкой различных JavaScript-библиотек (jQuery DataTables, jqGrid) и возможностью стилизации через Bootstrap. Datagrid for Symfony 2/3/4/5 https://github.com/mmucklo/DtcGridBundle 
