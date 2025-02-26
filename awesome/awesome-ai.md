@@ -869,6 +869,7 @@
 - Агенты
     - Кто такие LLM-агенты и что они умеют? https://habr.com/ru/companies/ods/articles/776478/
     - Заменяем хабраюзеров ИИ-агентами. Гайд по browser-use https://habr.com/ru/articles/875798/
+    - AI Agent Crash Course—Part 1 https://blog.dailydoseofds.com/p/ai-agent-crash-coursepart-1
 - continued pre-training
     - Efficient Continual Pre-training for Building Domain Specific Large Language Models https://arxiv.org/abs/2311.08545
     - Continual Pretraining: Unlocking the Full Potential of Large Language Models https://www.goml.io/continual-pretraining-unlocking-the-full-potential-of-large-language-models/
