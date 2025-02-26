@@ -143,6 +143,7 @@
     - Symfony Cheat Sheet https://cheatsheetseries.owasp.org/cheatsheets/Symfony_Cheat_Sheet.html
     - Protect your Symfony application against the OWASP Top 10 https://nicwortel.nl/blog/2020/protect-symfony-application-against-owasp-top-10-security-risks
   - Authorization, Authentication, Аутентификация и авторизация
+    - Meet the new Symfony Security: Authenticators https://wouterj.nl/2020/04/authenticators-new-symfony-security
     - Implementing Authorization in Symfony: A Developer’s Guide https://www.slingacademy.com/article/implementing-authorization-in-symfony-developers-guide/
     - Simplifying Authentication and Authorization in Symfony https://moldstud.com/articles/p-simplifying-authentication-and-authorization-in-symfony
     - Implementing Authentication And Authorization In A Symfony Api https://peerdh.com/blogs/programming-insights/implementing-authentication-and-authorization-in-a-symfony-api
