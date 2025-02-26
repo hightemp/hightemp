@@ -400,6 +400,7 @@
   - Sync
     - Sync Package: What Are New Features in Golang sync.Once? https://reliasoftware.com/blog/new-features-in-golang-sync-once
     - Go sync.Map: The Right Tool for the Right Job https://victoriametrics.com/blog/go-sync-map/index.html
+    - A Closer Look at Go’s sync Package https://teivah.medium.com/a-closer-look-at-go-sync-package-9f4e4a28c35a
   - Mutex
     - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
   - Unique
