@@ -79,6 +79,7 @@
       - Функция std::forward https://pvs-studio.ru/ru/blog/terms/6515/  
     - Остальное
       - Углубляемся в C++: move семантика и rvalue https://tproger.ru/articles/move-semantics-and-rvalue
+      - What is a Move Constructor in C++? https://www.scaler.com/topics/cpp-move-constructor/
   - Умные указатели, smart pointers
     - Основное
       - Prefer unique_ptr over shared_ptr unless you need to share ownership https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rr-unique
