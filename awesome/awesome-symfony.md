@@ -50,6 +50,8 @@
 ### Вопросы
 
 - 87 interview questions on Symfonyfor developers (2025) https://welovedevs.com/app/tests/questions-techno-symfony
+- https://www.theknowledgeacademy.com/blog/symfony-interview-questions/
+- https://www.usebraintrust.com/hire/interview-questions/symfony-developers
 
 ### Курсы
 
