@@ -47,6 +47,10 @@
 - https://symfony.ru/doc/current/index.html
 - Symfony Boilerplate. A Symfony boilerplate with GraphQL and Nuxt.js https://thecodingmachine.github.io/symfony-boilerplate/
 
+### Вопросы
+
+- 87 interview questions on Symfonyfor developers (2025) https://welovedevs.com/app/tests/questions-techno-symfony
+
 ### Курсы
 
 - https://symfonycasts.com/
