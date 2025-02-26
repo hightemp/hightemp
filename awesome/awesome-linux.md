@@ -17,6 +17,11 @@
 - NixOs
     - https://github.com/nix-community/nixos-anywhere
 
+### Пакетные менеджеры
+
+- https://nix.dev/install-nix#install-nix
+- https://docs.brew.sh/Homebrew-on-Linux
+
 ### Дополнения для виртуальных машин
 
 - virt-manager, kvm, qemu
@@ -33,6 +38,11 @@
 
 ### Книги
 
+### Полезные ссылки
+
+- Образы дисков для виртуалки windows для SPICE(drag&drop, общий буфер) для virt-manager, virtio-win driver https://github.com/virtio-win/virtio-win-pkg-scripts/blob/master/README.md
+- The easiest way to run a Linux distribution or application on an Android device. With UserLAnd the power to do or create whatever you want will never be out of reach. https://userland.tech/
+
 ### Блоги
 
 - https://www.redhat.com/en/blog
@@ -40,20 +50,7 @@
 - https://linuxtldr.com/
 - https://www.linux-magazine.com
 - https://www.linuxbabe.com
-
-### Полезные ссылки
-
-- Образы дисков для виртуалки windows для SPICE(drag&drop, общий буфер) для virt-manager, virtio-win driver https://github.com/virtio-win/virtio-win-pkg-scripts/blob/master/README.md
-- The easiest way to run a Linux distribution or application on an Android device. With UserLAnd the power to do or create whatever you want will never be out of reach. https://userland.tech/
-
-### Пакетные менеджеры
-
-- https://nix.dev/install-nix#install-nix
-- https://docs.brew.sh/Homebrew-on-Linux
-
-### StackOverflow
-
-- Test if remote TCP port is open from a shell script https://stackoverflow.com/questions/4922943/test-if-remote-tcp-port-is-open-from-a-shell-script
+- https://blog.it-kb.ru/tag/linux/
 
 ### Статьи
 
@@ -175,3 +172,7 @@
 ### Видео
 
 - This homelab setup is my favorite one yet. https://www.youtube.com/watch?v=2yplBzPCghA
+
+### StackOverflow
+
+- Test if remote TCP port is open from a shell script https://stackoverflow.com/questions/4922943/test-if-remote-tcp-port-is-open-from-a-shell-script
