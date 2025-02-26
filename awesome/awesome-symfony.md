@@ -166,6 +166,7 @@
   - Firewalls
     - https://symfony.ru/doc/current/reference/configuration/security.html#firewalls
   - Остальное
+    - Symfony Security Best Practices, Vulnerabilities and Attacks https://www.vaadata.com/blog/symfony-security-best-practices-vulnerabilities-and-attacks/
     - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
     - Migrating users to a secure hashing algorithm in Symfony https://www.michaelperrin.fr/blog/2017/01/migrating-users-to-a-secure-hashing-algorithm-in-symfony
 - Symfony Voters
