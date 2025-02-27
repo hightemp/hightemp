@@ -71,6 +71,7 @@
 - https://sajadtorkamani.com/posts/
 - https://backbeat.tech/tags/symfony
 - https://easycorp.github.io/blog/
+- https://www.mon-code.net/tag/59/Symfony
 
 ### Статьи
 
