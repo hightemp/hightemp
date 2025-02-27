@@ -153,6 +153,7 @@
     - Rate Limiter https://symfony.com/doc/current/rate_limiter.html
     - How to implement the rate limiter component on a symfony 5 project https://needlify.com/post/how-to-implement-the-rate-limiter-component-on-a-symfony-5-project-ac6b0982
     - Protect your application with Symfony rate limiter component https://www.mon-code.net/post/170/protect-your-application-with-symfony-rate-limiter-component
+    - Рейт-лимитинг ваших Symfony API https://habr.com/ru/companies/otus/articles/645261/
   - Authorization, Authentication, Аутентификация и авторизация
     - Основное
       - Meet the new Symfony Security: Authenticators https://wouterj.nl/2020/04/authenticators-new-symfony-security
