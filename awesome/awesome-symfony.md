@@ -148,6 +148,8 @@
     - Understanding Symfony Security by Using it Standalone https://wouterj.nl/2019/03/understanding-symfony-security-by-using-it-standalone
     - Symfony Cheat Sheet https://cheatsheetseries.owasp.org/cheatsheets/Symfony_Cheat_Sheet.html
     - Protect your Symfony application against the OWASP Top 10 https://nicwortel.nl/blog/2020/protect-symfony-application-against-owasp-top-10-security-risks  
+  - Rate Limiter
+    - Rate Limiter https://symfony.com/doc/current/rate_limiter.html
   - Authorization, Authentication, Аутентификация и авторизация
     - Основное
       - Meet the new Symfony Security: Authenticators https://wouterj.nl/2020/04/authenticators-new-symfony-security
