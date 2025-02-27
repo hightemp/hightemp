@@ -253,6 +253,8 @@
     - Основное
     - Остальное
       - A technical look at Forest Admin, EasyAdmin and Sonata https://www.forestadmin.com/blog/forest-admin-easyadmin-sonata/
+- Примеры создания приложения или сервиса
+  - Creating your First Symfony App and Adding Authentication https://auth0.com/blog/creating-your-first-symfony-app-and-adding-authentication/
 - Архитектура
   - Hexagonal Architecture, Гексоганальная архитектура
     - Symfony и Гексагональная архитектура https://habr.com/ru/articles/539084/
