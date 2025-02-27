@@ -419,6 +419,8 @@
 - Числа с плавающей точкой
    - Числа с плавающей точкой для гуманитариев. Что это такое и как они работают https://habr.com/ru/articles/745640/
    - 5 правил работы с суммами https://habr.com/ru/articles/338108/
+- Языковые сервера
+   - Реализация языкового сервера для языка программирования Ü https://habr.com/ru/articles/761694/
 - Остальное
    - How Meta, Google, Github and others leverage HTTP conditional requests to build robust REST APIs https://captainscodebook.com/p/how-meta-microsoft-google-github
    - What is Consistent Hashing? https://vivekbansal.substack.com/p/what-is-consistent-hashing
