@@ -227,6 +227,7 @@
   - Функциональные тесты
     - Функциональные тесты на проекте: жизнь до и после (на примерах) https://habr.com/ru/companies/skyeng/articles/659559/
   - Остальное
+    - Symfony PHPUnit testing database data https://joeymasip.medium.com/symfony-phpunit-testing-database-data-322383ed0603
     - 10 советов по тестированию в Symfony https://habr.com/ru/companies/vk/articles/508376/
     - Тестирование PHP проектов на примере Symfony https://habr.com/ru/articles/713454/
     - Test POST API endpoints in Symfony https://medium.com/@tacman1123/testing-post-api-endpoints-in-symfony-464575eaf841
