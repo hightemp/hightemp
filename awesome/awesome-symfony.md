@@ -14,6 +14,7 @@
 
 ### Репозитории
 
+- https://github.com/symfony/symfony
 - Стартовые проекты (Starter Projects)
   - Vue Symfony Starter https://github.com/Monogramm/vue-symfony-starter
 - Тестирование
