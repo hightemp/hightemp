@@ -93,6 +93,7 @@
   - Money PHP - это PHP-библиотека для безопасной работы с денежными значениями, которая использует строковый тип данных вместо float для точных вычислений и предотвращения ошибок округления при финансовых операциях. https://github.com/moneyphp/money
 - Тестирование
   - Prophecy — это фреймворк для создания mock-объектов в PHP, предоставляющий мощный и гибкий инструментарий для модульного тестирования, разработанный изначально для phpspec2, но применимый в любых testing-фреймворках. https://github.com/phpspec/prophecy
+  - Prophecy PhpUnit - это программная библиотека, интегрирующая инструмент создания моков Prophecy с фреймворком тестирования PHPUnit для упрощения процесса мокирования в PHP тестах. https://github.com/phpspec/prophecy-phpunit
 - Остальное
   - Подсветка синтаксиса PHP с html рендрингом на стороне сервера, а так же в терминале. https://github.com/tempestphp/highlight
   - PHP library for the Stripe API. https://github.com/stripe/stripe-php
