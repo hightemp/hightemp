@@ -195,6 +195,8 @@
     - File Handling In PHP 8 - Reading And Writing File https://www.dailycomputerscience.com/post/file-handling-in-php-8-reading-and-writing-file
   - Property hooks
     - PHP 8.4 Property Hooks: Can we get rid of getters/setters now? A benchmark. https://tideways.com/profiler/blog/php-8-4-property-hooks-can-we-get-rid-of-getters-setters-now-a-benchmark
+  - Reflections
+    - Введение в PHP Reflection API https://habr.com/ru/articles/433266/
   - Остальное
     - Готовимся к собеседованию по PHP: Что такое «DI», «Container», «Auto-wiring» за семь простых шагов https://habr.com/ru/articles/655399/
     - Готовимся к собеседованию по PHP: ключевое слово «static» https://habr.com/ru/articles/259627/
