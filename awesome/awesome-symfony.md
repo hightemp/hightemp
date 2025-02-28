@@ -227,10 +227,11 @@
     - Не мокайте то, чем вы не владеете https://habr.com/ru/articles/554318/
   - Функциональные тесты
     - Функциональные тесты на проекте: жизнь до и после (на примерах) https://habr.com/ru/companies/skyeng/articles/659559/
-  - Остальное    
-    - Symfony PHPUnit testing database data https://joeymasip.medium.com/symfony-phpunit-testing-database-data-322383ed0603
+  - Остальное
     - 10 советов по тестированию в Symfony https://habr.com/ru/companies/vk/articles/508376/
     - Тестирование PHP проектов на примере Symfony https://habr.com/ru/articles/713454/
+    - Tips for testing the database in Symfony application https://dev.to/vikbert/tips-for-testing-the-database-in-symfony-application-1pd5
+    - Symfony PHPUnit testing database data https://joeymasip.medium.com/symfony-phpunit-testing-database-data-322383ed0603
     - Test POST API endpoints in Symfony https://medium.com/@tacman1123/testing-post-api-endpoints-in-symfony-464575eaf841
     - Unit, integration, and application tests for Symfony applications https://medium.com/ekino-france/unit-integration-and-application-tests-for-symfony-applications-2410911b87ab
     - Symfony PHPUnit testing database data https://joeymasip.medium.com/symfony-phpunit-testing-database-data-322383ed0603
