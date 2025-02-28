@@ -218,6 +218,7 @@
     - Тестирование https://symfony.ru/testing.html
     - Testing https://symfony.com/doc/current/testing.html
     - How to Test the Interaction of several Clients https://symfony.com/doc/current/testing/insulating_clients.html
+    - How to Test Code that Interacts with the Database https://symfony.com/doc/3.x/testing/database.html
   - Сodeception
     - Тесты на Codeception для PHP-бэкендов https://habr.com/ru/companies/lamoda/articles/452136/
   - Юнит тесты
