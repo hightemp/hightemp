@@ -214,6 +214,7 @@
 - Task scheduler, cron
   - Знакомство с созданием консольных команд: cron. https://php.zone/symfony-course/znakomstvo-s-konsolnymi-komandami-v-symfony-cron
   - New in Symfony 6.3 Scheduler Component https://symfony.com/blog/new-in-symfony-6-3-scheduler-component
+  - Master task scheduling with Symfony Scheduler https://jolicode.com/blog/master-task-scheduling-with-symfony-scheduler
 - Пример приложения
   - Build your own OAuth2 Server with PHP and Symfony https://davegebler.com/post/coding/build-oauth2-server-php-symfony
   - Making a Single-Page Application with HTMX and Symfony https://jolicode.com/blog/making-a-single-page-application-with-htmx-and-symfony
