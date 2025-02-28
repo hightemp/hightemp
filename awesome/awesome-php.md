@@ -285,6 +285,10 @@
   - Modern PHP Without a Framework https://kevinsmith.io/modern-php-without-a-framework/
   - FrankenPHP: A Modern PHP App Server in Go (Install + Use) https://linuxtldr.com/installing-frankenphp/
 
+### Презентации
+
+- Testing with Doubles: Why, When, and How? https://thephp.cc/presentations/testing-with-doubles-why-when-and-how
+
 ### Примеры приложений
 
 - Clean architecture
