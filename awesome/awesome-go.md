@@ -1054,6 +1054,7 @@
 - Live reloading
   - Live Reloading in Go https://hovanhoa.hashnode.dev/live-reloading-in-go
 - Остальное
+  - Алгоритм Кнута-Морриса-Пратта для поиска подстрок на Go https://habr.com/ru/companies/otus/articles/878812/
   - Golang Functional Options are named args on steroids https://uptrace.dev/blog/golang-functional-options
   - Implementing The Fieldalignment Bundle in Go https://switchupcb.com/blog/implementing-the-fieldalignment-bundle-in-go/
   - Top 15 Golang Project Ideas [With Source Code] https://www.guvi.in/blog/top-golang-project-ideas/
