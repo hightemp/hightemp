@@ -256,6 +256,8 @@
 - Тестирование
   - Основное 
     - Test Doubles https://docs.phpunit.de/en/10.5/test-doubles.html
+  - PHPUnit
+    - How to Upgrade deprecated PHPUnit withConsecutive() https://tomasvotruba.com/blog/how-to-upgrade-deprecated-phpunit-with-consecutive
   - Моки
     - Mocking APIs in Laravel Tests With Wiremock https://laravel-news.com/mocking-apis-in-laravel-tests-with-wiremock
   - Codeception
