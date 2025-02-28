@@ -213,6 +213,7 @@
   - Use Bootstrap 3 and 4 form themes in the same Symfony project https://backbeat.tech/blog/bootstrap-3-and-4-forms-in-the-same-symfony-project
 - Messenger
   - Messenger: Sync & Queued Message Handling https://symfony.com/doc/current/messenger.html
+  - How to Create Your own Messenger Transport https://symfony.com/doc/current/messenger/custom-transport.html
 - Task scheduler, cron
   - Scheduler https://symfony.com/doc/current/scheduler.html
   - Знакомство с созданием консольных команд: cron. https://php.zone/symfony-course/znakomstvo-s-konsolnymi-komandami-v-symfony-cron
