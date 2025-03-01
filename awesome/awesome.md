@@ -95,6 +95,10 @@
 - awesome-ChatGPT-repositories - Кураторский список ресурсов, посвященных открытым репозиториям на GitHub, связанным с ChatGPT. Доступен инструмент для поиска в этих репозиториях на Hugging Face Spaces. https://github.com/taishi-i/awesome-ChatGPT-repositories
 - Этот репозиторий - это сборник хорошо написанных пошаговых руководств по созданию наших любимых технологий с нуля. https://github.com/codecrafters-io/build-your-own-x
 
+## Сайты Git-хостинги
+
+- https://git.mills.io
+
 ## Поисковики
 
 - https://www.mmnt.ru/
