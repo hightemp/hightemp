@@ -128,6 +128,9 @@
     - Podman at the edge: Keeping services alive with custom healthcheck actions https://www.redhat.com/en/blog/podman-edge-healthcheck
 - RabbitMQ
     - How to Install RabbitMQ Server on Linux (Quick Guide) https://linuxtldr.com/install-rabbitmq-server-on-linux/
+- SSH
+    - Fail2Ban
+        - Fail2Ban-SSH и Brute-force attack https://hackmd.io/@AndrewMsk/rJhRSfwti
 - find
     - Find large files Linux/macOS https://www.vanwerkhoven.org/blog/2024/find-large-files-linux-macos/
 - VyOS (Open-source fully functional router and firewall platform)
