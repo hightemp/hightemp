@@ -168,6 +168,7 @@
   - Bit Twiddling Hacks, By Sean Eron Anderson http://graphics.stanford.edu/~seander/bithacks.html##ValueInWord
   - More Hash Function Tests https://aras-p.info/blog/2016/08/09/More-Hash-Function-Tests/
   - Ввод-вывод в Unix-подобных ОС (примеры) https://zed.karelia.ru/go.to/for.students/computer.networks/io.examples
+  - 20 ловушек переноса Си++ - кода на 64-битную платформу. https://club.shelek.ru/viewart.php?id=302
 
 ### Видео
 
