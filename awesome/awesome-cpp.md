@@ -66,6 +66,7 @@
 - Основы
   - Основное
     - Статическая типизация и преобразования типов https://metanit.com/cpp/tutorial/2.4.php
+    - Указатели и ссылки в языке C++ https://sysprog.ru/post/ukazateli-i-ssylki-v-yazyke-c
   - Корутины, coroutines
     - Deep Dive into C++20 Coroutines https://medium.com/@threehappyer/deep-dive-into-c-20-coroutines-ef5a557d15cb
     - C++20. Coroutines https://habr.com/ru/articles/519464/
