@@ -43,6 +43,10 @@
 - https://craftinginterpreters.com/
 - Programming with C++20 - Concepts, Coroutines, Ranges, and more https://andreasfertig.com/books/programming-with-cpp20/
 
+### Курсы
+
+- https://ravesli.com/uroki-cpp/
+
 ### Блоги
 
 - https://www.cppstories.com/
