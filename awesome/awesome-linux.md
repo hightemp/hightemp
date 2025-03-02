@@ -172,6 +172,9 @@
 ### Видео
 
 - This homelab setup is my favorite one yet. https://www.youtube.com/watch?v=2yplBzPCghA
+- POSIX
+    - pthreads
+        - АК[ОС] 28. Pthreads. Потоки в POSIX. https://www.youtube.com/watch?v=pPjDPe0duXc
 
 ### StackOverflow
 
