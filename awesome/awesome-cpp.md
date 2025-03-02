@@ -145,6 +145,7 @@
     - Немного размышлений и советов по оптимизации кода на С++ https://habr.com/ru/companies/vk/articles/279449/
     - Compilers - What Every Programmer Should Know About Compiler Optimizations https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/february/compilers-what-every-programmer-should-know-about-compiler-optimizations
     - Optimizations in C++ Compilers https://queue.acm.org/detail.cfm?id=3372264
+    - Optimizing software in C++ An optimization guide for Windows, Linux, and Mac platforms https://www.agner.org/optimize/optimizing_cpp.pdf
   - RVO (Return Value Optimization)
     - RVO и NRVO https://pvs-studio.ru/ru/blog/terms/6516/
     - Return Value Optimization (RVO) https://lcellentani.github.io/post/cpp_rvo/
