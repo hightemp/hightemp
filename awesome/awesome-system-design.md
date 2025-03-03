@@ -142,6 +142,7 @@
         - Least Privilege Pattern
     - Остальное
         - Microservices Design Patterns https://www.geeksforgeeks.org/microservices-design-patterns/
+- Two Phase Locking (2PL)
 - Two-phase commit protocol, 2PC
     - Two-Phase Commit https://www.dremio.com/wiki/two-phase-commit/
     - Understanding Two-Phase and Three-Phase Commit Protocols: Key Differences, Use Cases, and Practical Examples https://daminibansal.medium.com/understanding-two-phase-and-three-phase-commit-protocols-key-differences-use-cases-and-practical-975e7c663c67
