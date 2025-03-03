@@ -53,6 +53,8 @@
 - https://newsletter.systemdesignclassroom.com/
 - https://computersciencesimplified.substack.com/
 - https://newsletter.systemdesigncodex.com/
+- https://hongilkwon.medium.com/
+- https://daminibansal.medium.com/
 
 ### Статьи
 
