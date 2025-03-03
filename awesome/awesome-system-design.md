@@ -111,9 +111,11 @@
         - Circuit Breaker with Bulkhead Isolation in Microservices https://www.geeksforgeeks.org/circuit-breaker-with-bulkhead-isolation-in-microservices/
         - Circuit Breaker Pattern (Design Patterns for Microservices) https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33
         - The Role of Circuit Breaker in Software System Design https://systemdesignschool.io/blog/circuit-breaker-pattern
-    - Anti-Corruption Layer, ACL
-        - Anti-corruption Layer pattern https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer
-        - What is Anti-Corruption Layer? https://www.dremio.com/wiki/anti-corruption-layer/
+    - DDD
+        - Anti-Corruption Layer, ACL
+            - Anti-corruption Layer pattern https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer
+            - What is Anti-Corruption Layer? https://www.dremio.com/wiki/anti-corruption-layer/
+            - What is an Anti-Corruption Layer? https://www.qlerify.com/dddconcepts/anti-corruption-layer
     - Resilience design patterns
         - Resilience design patterns: retry, fallback, timeout, circuit breaker https://www.codecentric.de/wissens-hub/blog/resilience-design-patterns-retry-fallback-timeout-circuit-breaker
     - Deployment Patterns for Microservices
