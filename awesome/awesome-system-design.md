@@ -117,6 +117,8 @@
             - What is Anti-Corruption Layer? https://www.dremio.com/wiki/anti-corruption-layer/
             - What is an Anti-Corruption Layer? https://www.qlerify.com/dddconcepts/anti-corruption-layer
             - Шаблон «Антикоррупционный слой» https://danyloff.tech/2023/04/23/шаблон-анти-коррупционного-слоя/
+        - Остальное
+            - Доменно-ориентированный подход к интеграции https://systems.education/integration-with-ddd#showmore
     - Resilience design patterns
         - Resilience design patterns: retry, fallback, timeout, circuit breaker https://www.codecentric.de/wissens-hub/blog/resilience-design-patterns-retry-fallback-timeout-circuit-breaker
     - Deployment Patterns for Microservices
