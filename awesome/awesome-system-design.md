@@ -142,6 +142,8 @@
         - Least Privilege Pattern
     - Остальное
         - Microservices Design Patterns https://www.geeksforgeeks.org/microservices-design-patterns/
+- Two-phase commit protocol, 2PC
+    - Understanding Two-Phase and Three-Phase Commit Protocols: Key Differences, Use Cases, and Practical Examples https://daminibansal.medium.com/understanding-two-phase-and-three-phase-commit-protocols-key-differences-use-cases-and-practical-975e7c663c67
 - Distributed system, Распределенные системы
     - Building A "Simple" Distributed System - The What https://jack-vanlightly-ay5j.squarespace.com/blog/2019/1/25/building-a-simple-distributed-system-the-what
     - Building A "Simple" Distributed System - The Protocol https://jack-vanlightly.com/blog/2019/1/27/building-a-simple-distributed-system-the-protocol
