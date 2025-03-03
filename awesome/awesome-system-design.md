@@ -145,6 +145,7 @@
 - Two-phase commit protocol, 2PC
     - Two-Phase Commit https://www.dremio.com/wiki/two-phase-commit/
     - Understanding Two-Phase and Three-Phase Commit Protocols: Key Differences, Use Cases, and Practical Examples https://daminibansal.medium.com/understanding-two-phase-and-three-phase-commit-protocols-key-differences-use-cases-and-practical-975e7c663c67
+    - Two-Phase Commit https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html
 - Distributed system, Распределенные системы
     - Building A "Simple" Distributed System - The What https://jack-vanlightly-ay5j.squarespace.com/blog/2019/1/25/building-a-simple-distributed-system-the-what
     - Building A "Simple" Distributed System - The Protocol https://jack-vanlightly.com/blog/2019/1/27/building-a-simple-distributed-system-the-protocol
