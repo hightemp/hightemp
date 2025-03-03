@@ -92,6 +92,8 @@
     - mastering cache eviction policies for optimal caching efficiency https://skynix.co/resources/mastering-cache-eviction-policies-for-optimal-caching-efficiency
     - LRU Cache Implementation https://www.scaler.in/lru-cache-implementation/
 - Паттерны
+    - Основное
+        - 26 основных паттернов микросервисной разработки https://cloud.vk.com/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki/
     - API Gateway Pattern
         - Microservices Design Patterns: API Gateway Design Pattern https://medium.com/@apulatjonov/microservices-design-patterns-api-gateway-design-pattern-ddba36700d84
     - Database per Service Pattern
