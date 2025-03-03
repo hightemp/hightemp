@@ -55,6 +55,8 @@
         - Создание эффективного поиска на основе ИИ в Greenplum с помощью pgvector и OpenAI https://datafinder.ru/products/sozdanie-effektivnogo-poiska-na-osnove-ii-v-greenplum-s-pomoshchyu-pgvector-i-openai
         - Unleashing the power of vector embeddings with PostgreSQL https://tembo.io/blog/pgvector-and-embedding-solutions-with-postgres
         - Vector Similarity Search with PostgreSQL’s pgvector – A Deep Dive https://severalnines.com/blog/vector-similarity-search-with-postgresqls-pgvector-a-deep-dive/
+    - BM25
+        - VectorChord-BM25: Revolutionize PostgreSQL Search with BM25 Ranking — 3x Faster Than ElasticSearch https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch
     - Нейросети
         - Нейронные оптимизаторы запросов в реляционных БД (Часть 3): Погружение в ранжирование https://habr.com/ru/companies/postgrespro/articles/857998/
     - Kubernetes
