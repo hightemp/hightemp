@@ -152,6 +152,7 @@
     - Two-Phase Commit https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html
     - What is Two Phase Commit in Distributed Transaction? https://hongilkwon.medium.com/when-to-use-two-phase-commit-in-distributed-transaction-f1296b8c23fd
     - Distributed Transactions https://www.karanpratapsingh.com/courses/system-design/distributed-transactions
+    - Two-phase commit protocol https://www.manojphadnis.net/service-oriented-architecture/two-phase-commit-protocol 
 - Distributed system, Распределенные системы
     - Building A "Simple" Distributed System - The What https://jack-vanlightly-ay5j.squarespace.com/blog/2019/1/25/building-a-simple-distributed-system-the-what
     - Building A "Simple" Distributed System - The Protocol https://jack-vanlightly.com/blog/2019/1/27/building-a-simple-distributed-system-the-protocol
