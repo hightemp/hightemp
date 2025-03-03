@@ -56,6 +56,7 @@
 - https://newsletter.systemdesigncodex.com/
 - https://hongilkwon.medium.com/
 - https://daminibansal.medium.com/
+- https://www.manojphadnis.net/home
 
 ### Статьи
 
