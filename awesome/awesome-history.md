@@ -19,6 +19,7 @@
 - Археология России https://archeologia.ru/
 - Археология.РУ  –  Открытая библиотека имени В.Е.Еременко http://www.archaeology.ru
 - Новгородский государственный университет https://portal.novsu.ru/archeology/
+- https://www.kreml.ru/research/research-and-projects/
 
 ### Полезные ссылки
 
