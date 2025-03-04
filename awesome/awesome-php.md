@@ -171,6 +171,7 @@
 
 - Основы
   - Основное
+    - PHP 8.2: Что нового? https://wrp.ru/statii/php-8-2-chto-novogo/
     - Обзор PHP 8.2: нововведения, устаревшие функции и исправления багов https://zomro.com/rus/blog/articles/562-php-82-preview-new-features-deprecations-and-bug-fixes
   - Атирбуты, Attributes
     - Attributes in PHP 8 https://php.watch/articles/php-attributes
