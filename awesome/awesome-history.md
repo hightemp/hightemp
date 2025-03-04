@@ -30,4 +30,7 @@
 
 ### Статьи
 
+- Остальное
+    - Создана первая электронная карта археологических памятников России https://historyrussia.org/sobytiya/sozdana-pervaya-elektronnaya-karta-arkheologicheskikh-pamyatnikov-rossii.html
+
 ### Видео
