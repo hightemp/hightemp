@@ -1,3 +1,7 @@
+### Коллекции
+
+- Тематические сайты https://archaeolog.ru/pub/links/tematicheskie-sayty
+
 ### Карты
 
 - https://rutracker.org/forum/viewtopic.php?t=4654785
@@ -20,6 +24,7 @@
 - Археология.РУ  –  Открытая библиотека имени В.Е.Еременко http://www.archaeology.ru
 - Новгородский государственный университет https://portal.novsu.ru/archeology/
 - https://www.kreml.ru/research/research-and-projects/
+- Институт археологии РАН https://archaeolog.ru/
 
 ### Полезные ссылки
 
