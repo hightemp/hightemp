@@ -57,6 +57,10 @@
 - Криптовалютные данные с историей цен и рыночной капитализацией. Не требует API-ключа, идеален для финансовых приложений https://api.coingecko.com
 - E-commerce Prototyping Made Easy https://fakestoreapi.in/
 
+### Style guide, Стайл гайды
+
+- https://google.github.io/styleguide/tsguide.html
+
 ### Книги
 
 - Learning JavaScript Design Patterns, Addy Osmani https://patterns.addy.ie/
