@@ -30,6 +30,8 @@
 
 ### Статьи
 
+- Подборки
+    - Самые интересные археологические музеи‑заповедники РоссииБолгар, Фанагория и другие места — свидетели ушедших цивилизаций https://experience.tripster.ru/articles/samye-interesnye-arheologicheskie-muzei-zapovedniki-rossii/
 - Остальное
     - Создана первая электронная карта археологических памятников России https://historyrussia.org/sobytiya/sozdana-pervaya-elektronnaya-karta-arkheologicheskikh-pamyatnikov-rossii.html
 
