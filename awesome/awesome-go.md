@@ -818,8 +818,12 @@
   - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
 - Архитектура
   - Микросервисы
-    - Декларативная платформа управления доступом: от ролей к динамическим политикам https://habr.com/ru/companies/oleg-bunin/articles/875720/
-    - Building Microservices with Golang: A Comprehensive Guide https://medium.com/@abhinavv.singh/building-microservices-with-golang-a-comprehensive-guide-55e7be71b7c8
+    - Основоное
+      - Декларативная платформа управления доступом: от ролей к динамическим политикам https://habr.com/ru/companies/oleg-bunin/articles/875720/
+      - Building Microservices with Golang: A Comprehensive Guide https://medium.com/@abhinavv.singh/building-microservices-with-golang-a-comprehensive-guide-55e7be71b7c8
+    - Saga
+      - Understanding the Saga Pattern in Micro Services: A Restaurant Adventure! https://medium.com/@saiteja180/understanding-the-saga-pattern-in-micro-services-a-restaurant-adventure-667b1111368b
+    - Остальное
   - SOLID
     - Practical SOLID in Golang: Single Responsibility Principle https://www.ompluscator.com/article/golang/practical-solid-single-responsibility
     - Practical SOLID in Golang: Open/Closed Principle https://www.ompluscator.com/article/golang/practical-solid-open-closed/
