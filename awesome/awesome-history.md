@@ -26,6 +26,10 @@
 - https://www.kreml.ru/research/research-and-projects/
 - Институт археологии РАН https://archaeolog.ru/
 
+### Базы археологических находок
+
+- Электронная база данных археологических находок https://portal.novsu.ru/archeology/db/
+
 ### Полезные ссылки
 
 ### Статьи
