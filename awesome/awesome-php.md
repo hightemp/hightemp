@@ -170,6 +170,8 @@
 ### Статьи
 
 - Основы
+  - Основное
+    - Обзор PHP 8.2: нововведения, устаревшие функции и исправления багов https://zomro.com/rus/blog/articles/562-php-82-preview-new-features-deprecations-and-bug-fixes
   - Атирбуты, Attributes
     - Attributes in PHP 8 https://php.watch/articles/php-attributes
     - PHP 8.0: Attributes https://php.watch/versions/8.0/attributes
