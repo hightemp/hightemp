@@ -34,6 +34,10 @@
 
 ### Статьи
 
+- Археология
+    - Культурный слой
+        - Что такое культурный слой https://starcheolog.livejournal.com/68646.html
+        - Оценка мощности и структуры культурного слоя поселений по результатам геофизических исследований (городище Иднакар, IX-XIII вв.) И.В. Журбин https://archaeolog.ru/media/periodicals/agis/AGIS-4/Zhurbin/zhurbin.html
 - Подборки
     - Самые интересные археологические музеи‑заповедники РоссииБолгар, Фанагория и другие места — свидетели ушедших цивилизаций https://experience.tripster.ru/articles/samye-interesnye-arheologicheskie-muzei-zapovedniki-rossii/
     - Важнейшие археологические находки России: 2021–2022 https://cleverrussia.ru/vazhnejshie-arheologicheskie-nahodki-rossii-2021-2022/
