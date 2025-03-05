@@ -225,7 +225,10 @@
     - PHP: Настраиваем отладку. PhpStorm + PHP 8 + Docker + Xdebug 3 https://dzen.ru/a/ZuFQ4zrHfAToBlJn
     - New in 4.0: Easier debugging of remote PHP command line scripts https://blog.jetbrains.com/webide/2012/03/new-in-4-0-easier-debugging-of-remote-php-command-line-scripts/
 - Composer
-  - How to Build Your First PHP Package https://laravel-news.com/create-a-php-package-from-scratch?utm_source=weeklyphp&utm_medium=email
+  - Сборка пакетов
+    - How to Build Your First PHP Package https://laravel-news.com/create-a-php-package-from-scratch?utm_source=weeklyphp&utm_medium=email
+  - Альясы, Aliases
+    - Использование алиасов в Composer https://php.dragomano.ru/ispolzovanie-aliasov-v-composer/
 - Swagger, OpenAPI
   - NelmioApiDocBundle https://symfony.com/bundles/NelmioApiDocBundle/current/index.html
 - Doctrine
