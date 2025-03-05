@@ -134,6 +134,9 @@
         - Fail2Ban-SSH и Brute-force attack https://hackmd.io/@AndrewMsk/rJhRSfwti
 - find
     - Find large files Linux/macOS https://www.vanwerkhoven.org/blog/2024/find-large-files-linux-macos/
+- Системы мониторинга
+    - Zabbix
+        - Развертывание Zabbix 4.4 с nginx, php-fpm и MySQL Percona в Docker https://it-lux.ru/развертывание-zabbix-4-с-nginx-php-fpm-и-mysql-в-docker/
 - VyOS (Open-source fully functional router and firewall platform)
     - Основное
         - https://vyos.net/get/nightly-builds/
