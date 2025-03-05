@@ -19,6 +19,7 @@
 
 - https://awesome-docker-compose.com/
 - https://github.com/openfaas/faas
+- Devilbox — это открытая и настраиваемая среда для локальной веб-разработки на основе стека LAMP/MEAN. http://devilbox.org/
 
 ### Статьи
 
