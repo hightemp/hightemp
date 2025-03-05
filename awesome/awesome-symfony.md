@@ -332,3 +332,7 @@
 ### Примеры приложений
 
 - Symfony Blog - это веб-проект с открытым исходным кодом, основанный на архитектурных принципах Clean Architecture и Domain-Driven Design, включающий функциональность управления постами и категориями через модульную систему, с четким разделением на слои domain, application, infrastructure и presentation, реализованный с использованием фреймворка Symfony и паттерна порты и адаптеры для взаимодействия между модулями. https://github.com/annysmolyan/symfony-ddd-clean-architecture-blog
+
+### Stackoverflow
+
+- How to manually authenticate user after Registration with the new Symfony 5 Authenticator? https://stackoverflow.com/questions/66924935/how-to-manually-authenticate-user-after-registration-with-the-new-symfony-5-auth
