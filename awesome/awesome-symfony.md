@@ -234,11 +234,12 @@
     - How to use mock with Symfony’s WebTestCase and PHPUnit https://jolicode.com/blog/how-to-use-mock-with-symfonys-webtestcase-and-phpunit
   - Сodeception
     - Тесты на Codeception для PHP-бэкендов https://habr.com/ru/companies/lamoda/articles/452136/
-  - Юнит тесты
+  - Unit tests, Юнит тесты
     - PHPUnit. Мокаем Doctrine Entity Manager https://habr.com/ru/articles/452244/
     - Не мокайте то, чем вы не владеете https://habr.com/ru/articles/554318/
-  - Функциональные тесты
+  - Functional tests, Функциональные тесты
     - Функциональные тесты на проекте: жизнь до и после (на примерах) https://habr.com/ru/companies/skyeng/articles/659559/
+    - Functional tests, and speeding up the schema creation https://matthiasnoback.nl/2020/03/functional-tests-speeding-up-schema-creation/
   - End-2-End
     - End-to-End Testing https://symfony.com/doc/current/testing/end_to_end.html
     - End-to-end testing with Symfony and Panther https://www.strangebuzz.com/en/blog/end-to-end-testing-with-symfony-and-panther
