@@ -299,6 +299,9 @@
   - Mastering Code Refactoring: A Complete Guide to Using Rector PHP https://dev.to/peter_fox/mastering-code-refactoring-a-complete-guide-to-using-rector-php-hp1?utm_source=weeklyphp&utm_medium=email
 - PHP-VCR
   - How to use PHP-VCR to record and replay API calls in PHP https://medium.com/the-sensiolabs-tech-blog/how-to-use-php-vcr-to-record-and-replay-api-calls-in-php-cca397f9ede8
+- Интсрументы
+  - MetaStorm
+    - MetaStorm для вашего мозга https://php.dragomano.ru/meta-storm-dlya-vashego-mozga/
 - Подборки
   - The Best PHP Blogs https://draft.dev/learn/php-blogs
   - https://weeklyphp.substack.com/p/how-to-implement-a-ddd-use-case-in?utm_source=%2Fsearch%2Fphp&utm_medium=reader2
