@@ -69,6 +69,8 @@
   - https://github.com/whdigger/interview-php/blob/main/README.md
 - PHP 100 вопросов
   - https://quizlet.com/ru/782886634/php-100-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-flash-cards/
+- PHP Middle Общие вопросы
+  - https://quizlet.com/842104629/php-middle-Общие-вопросы-flash-cards/
 
 ### Репозитории
 
