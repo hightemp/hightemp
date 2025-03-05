@@ -46,6 +46,7 @@
     - Dockerizing a Laravel application https://computersciencesimplified.substack.com/p/dockerizing-a-laravel-application?utm_source=%2Fsearch%2Fphp&utm_medium=reader2
     - Установка Laravel, Nginx и MySQL с помощью Docker Compose https://www.8host.com/blog/ustanovka-laravel-nginx-i-mysql-s-pomoshhyu-docker-compose/
     - Настройка Laravel, Nginx и MySQL с помощью Docker Compose https://help.sweb.ru/nastrojka-laravel-nginx-i-mysql-s-pomosh6yu-docker-compose_1431.html
+    - Как настроить Laravel, Nginx и MySQL с помощью Docker Compose https://timeweb.cloud/tutorials/laravel/kak-nastroit-laravel-nginx-i-mysql-s-pomoschyu-docker-compose
 - Collections, Коллекции
     - Getting to Grips with Laravel Collections https://toxigon.com/understanding-laravel-collections
 - Redis
