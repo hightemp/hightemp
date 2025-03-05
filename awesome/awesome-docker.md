@@ -42,8 +42,10 @@
 - Примеры готовых решений
     - nginx
         - Running Nginx official image as non root https://forums.docker.com/t/running-nginx-official-image-as-non-root/135759
-    - Остальное
+    - Devilbox
         - Devilbox aka ящик дьявола https://php.dragomano.ru/devilbox/?ysclid=m7vn8s9mtj381038846#pristupaem
+        - Best practice https://devilbox.readthedocs.io/en/latest/intermediate/best-practice.html?highlight=mysql#php-project-hostname-settings
+    - Остальное
 - Подборки
     - 5 Awesome Docker Tools To Make Your Life Easier https://dev.to/code42cate/5-awesome-docker-tools-to-make-your-life-easier-22kl
 - Остальное
