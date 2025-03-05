@@ -302,6 +302,7 @@
 - Интсрументы
   - MetaStorm
     - MetaStorm для вашего мозга https://php.dragomano.ru/meta-storm-dlya-vashego-mozga/
+    - Meta Storm Plugin – еще один плагин для PHPStorm https://habr.com/ru/articles/868898/
     - MetaStorm – IDE в IDE. Первое большое обновление https://habr.com/ru/articles/872000/
 - Подборки
   - The Best PHP Blogs https://draft.dev/learn/php-blogs
