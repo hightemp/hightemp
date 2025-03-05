@@ -44,6 +44,7 @@
     - Creating Multi-Language Laravel 11 Database & API https://medium.com/@abdullahaymanmsre/creating-multi-language-laravel-11-database-api-e0bc82e64bea
 - Docker
     - Dockerizing a Laravel application https://computersciencesimplified.substack.com/p/dockerizing-a-laravel-application?utm_source=%2Fsearch%2Fphp&utm_medium=reader2
+    - Установка Laravel, Nginx и MySQL с помощью Docker Compose https://www.8host.com/blog/ustanovka-laravel-nginx-i-mysql-s-pomoshhyu-docker-compose/
 - Collections, Коллекции
     - Getting to Grips with Laravel Collections https://toxigon.com/understanding-laravel-collections
 - Redis
