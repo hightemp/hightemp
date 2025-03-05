@@ -55,6 +55,7 @@
 - https://www.linux-magazine.com
 - https://www.linuxbabe.com
 - https://blog.it-kb.ru/tag/linux/
+- https://www.learnlinux.tv/
 
 ### Статьи
 
