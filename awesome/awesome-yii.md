@@ -29,3 +29,5 @@
 - Примеры приложений
   - Create a Cross-Platform REST API in Yii2 https://www.cloudways.com/blog/rest-api-yii2/
   - Getting Started with Yii2: A Step-by-Step Guide to Building Your First Application https://medium.com/@imvinojanv/getting-started-with-yii2-a-step-by-step-guide-to-building-your-first-application-78a12a8e859a
+- Остальное
+  - Integrating Yii3 packages into WordPress https://glpzzz.dev/2024/03/03/integrating-yii3-packages-into-wordpress.html
