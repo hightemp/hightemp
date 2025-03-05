@@ -39,9 +39,11 @@
     - Permission Denied Nginx Docker | by Serghei Pogor | Medium https://sergheipogor.medium.com/permission-denied-nginx-docker-72caa442e351
 - Масштаблирование, Scaling
     - Масштабирование сервисов https://javarush.com/quests/lectures/ru.javarush.docker.fullstack.lecture.level04.lecture07
-- Примеры
+- Примеры готовых решений
     - nginx
         - Running Nginx official image as non root https://forums.docker.com/t/running-nginx-official-image-as-non-root/135759
+    - Остальное
+        - Devilbox aka ящик дьявола https://php.dragomano.ru/devilbox/?ysclid=m7vn8s9mtj381038846#pristupaem
 - Подборки
     - 5 Awesome Docker Tools To Make Your Life Easier https://dev.to/code42cate/5-awesome-docker-tools-to-make-your-life-easier-22kl
 - Остальное
