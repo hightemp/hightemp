@@ -285,9 +285,8 @@
     - Автоматизация с Codeception + Gherkin + PageObject для самых маленьких https://habr.com/ru/articles/427031/
   - Остальное
     - A better PHP testing experience Part II: Pick your test doubles wisely https://matthiasnoback.nl/2014/07/test-doubles/
-- Подборки
-  - The Best PHP Blogs https://draft.dev/learn/php-blogs
-  - https://weeklyphp.substack.com/p/how-to-implement-a-ddd-use-case-in?utm_source=%2Fsearch%2Fphp&utm_medium=reader2
+- Docker
+  - Fixing permissions issues with Docker Compose and PHP https://aschmelyun.com/blog/fixing-permissions-issues-with-docker-compose-and-php/
 - Поиск
   - Solr
     - Интеграция Solr с PHP https://blog.csdn.net/wizardforcel/article/details/140629198
@@ -297,6 +296,9 @@
   - Mastering Code Refactoring: A Complete Guide to Using Rector PHP https://dev.to/peter_fox/mastering-code-refactoring-a-complete-guide-to-using-rector-php-hp1?utm_source=weeklyphp&utm_medium=email
 - PHP-VCR
   - How to use PHP-VCR to record and replay API calls in PHP https://medium.com/the-sensiolabs-tech-blog/how-to-use-php-vcr-to-record-and-replay-api-calls-in-php-cca397f9ede8
+- Подборки
+  - The Best PHP Blogs https://draft.dev/learn/php-blogs
+  - https://weeklyphp.substack.com/p/how-to-implement-a-ddd-use-case-in?utm_source=%2Fsearch%2Fphp&utm_medium=reader2
 - Остальное
   - How to Speed Up Bulk Email Sending in PHP with Queues, Workers, and Cron Jobs https://medium.com/@aysunitai/how-to-speed-up-bulk-email-sending-in-php-with-queues-workers-and-cron-jobs-b5be2ac9a12f
   - Создание TodoList с помощью PHP и Lithe Framework: полное руководство https://dev.to/lithephp/creating-a-todolist-with-php-and-the-lithe-framework-a-complete-guide-28ho
