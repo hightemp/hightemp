@@ -322,6 +322,9 @@
   - https://github.com/jorge07/ddd-playground
   - https://github.com/ilyachase/monolith-decoupling-example
 
+### Stackoverflow
+
+- Permission Denied Error using Laravel & Docker https://stackoverflow.com/questions/48619445/permission-denied-error-using-laravel-docker
 
 ### Тестирование
 
