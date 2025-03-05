@@ -286,6 +286,8 @@
 - Примеры создания приложения или сервиса
   - Creating your First Symfony App and Adding Authentication https://auth0.com/blog/creating-your-first-symfony-app-and-adding-authentication/
 - Архитектура
+  - CQRS
+    - CQRS with Symfony Messenger https://dev.to/adgaray/cqrs-with-symfony-messenger-2h3g
   - Hexagonal Architecture, Гексоганальная архитектура
     - Symfony и Гексагональная архитектура https://habr.com/ru/articles/539084/
   - Остальное
