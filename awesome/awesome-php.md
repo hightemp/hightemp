@@ -225,6 +225,7 @@
     - Настройка xDebug с Docker в PHPStorm https://itelmenko.ru/php/xdebug-docker-phpstorm/
     - PHP: Настраиваем отладку. PhpStorm + PHP 8 + Docker + Xdebug 3 https://dzen.ru/a/ZuFQ4zrHfAToBlJn
     - New in 4.0: Easier debugging of remote PHP command line scripts https://blog.jetbrains.com/webide/2012/03/new-in-4-0-easier-debugging-of-remote-php-command-line-scripts/
+    - Docker + php-fpm + PhpStorm + Xdebug https://habr.com/ru/articles/473184/
 - Composer
   - Сборка пакетов
     - How to Build Your First PHP Package https://laravel-news.com/create-a-php-package-from-scratch?utm_source=weeklyphp&utm_medium=email
