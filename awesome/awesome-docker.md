@@ -45,6 +45,7 @@
     - Devilbox
         - Devilbox aka ящик дьявола https://php.dragomano.ru/devilbox/?ysclid=m7vn8s9mtj381038846#pristupaem
         - Best practice https://devilbox.readthedocs.io/en/latest/intermediate/best-practice.html?highlight=mysql#php-project-hostname-settings
+        - Лучший аналог OpenServer Для Linux (Devilbox) https://seryibaran.github.io/posts/analog-openserver-dlya-linux-devilbox/
     - Остальное
 - Подборки
     - 5 Awesome Docker Tools To Make Your Life Easier https://dev.to/code42cate/5-awesome-docker-tools-to-make-your-life-easier-22kl
