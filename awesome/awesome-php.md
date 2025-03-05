@@ -287,6 +287,7 @@
     - A better PHP testing experience Part II: Pick your test doubles wisely https://matthiasnoback.nl/2014/07/test-doubles/
 - Docker
   - Fixing permissions issues with Docker Compose and PHP https://aschmelyun.com/blog/fixing-permissions-issues-with-docker-compose-and-php/
+  - Docker: настройка nginx, php-fpm и MySQL для локальной разработки с Docker Compose https://alina.friday13.team/osnovnye-navyki-razrabotchika/docker-nastrojka-nginx-php-fpm-i-mysql-dlya-lokalnoj-razrabotki-s-docker-compose/
 - Поиск
   - Solr
     - Интеграция Solr с PHP https://blog.csdn.net/wizardforcel/article/details/140629198
