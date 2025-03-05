@@ -170,6 +170,7 @@
 - https://www.php.cn/article.html
 - https://www.phparch.com/
 - https://php.dragomano.ru/
+- https://aschmelyun.com/blog/?category=php
 
 ### Статьи
 
