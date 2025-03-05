@@ -171,7 +171,6 @@
       - [Symfony 5] Раздельная авторизация для админов и пользователей с двумя разными сущностями и формами входа https://habr.com/ru/articles/508936/
   - Registration, Регистрация
     - Symfony 4 Login & Registration System https://rojas.io/symfony-4-login-registration-system/
-    - Symfony 6 and EasyAdmin 4: Hashing password https://dev.to/nabbisen/symfony-6-and-easyadmin-4-hashing-password-3eec?ysclid=m7vx4bexh6878510950
   - CSRF
     - Combatting Login CSRF with Symfony https://wouterj.nl/2023/10/combatting-login-csrf-with-symfony
   - Работа с ролями и разрешениями (RBAC, ABAC, ACL)
@@ -266,6 +265,7 @@
     - URL
       - New in EasyAdmin: Pretty URLs https://dev.to/javiereguiluz/new-in-easyadmin-pretty-urls-2knk
     - Остальное
+      - Symfony 6 and EasyAdmin 4: Hashing password https://dev.to/nabbisen/symfony-6-and-easyadmin-4-hashing-password-3eec?ysclid=m7vx4bexh6878510950
       - EasyAdmin и Mercure: реальный юзкейс https://habr.com/ru/companies/otus/articles/754806/
       - Managing Virtual Entities in Symfony’s EasyAdmin Without Doctrine Persistence https://medium.com/@maurice2k5/managing-virtual-entities-in-symfonys-easyadmin-without-doctrine-persistence-2271c3711c41
       - Implementing CKEditor and CKFinder on EasyAdmin (Symfony5) https://medium.com/suleyman-aydoslu/implementing-ckeditor-and-ckfinder-on-easyadmin-a269888771ce
