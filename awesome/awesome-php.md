@@ -302,6 +302,7 @@
 - Интсрументы
   - MetaStorm
     - MetaStorm для вашего мозга https://php.dragomano.ru/meta-storm-dlya-vashego-mozga/
+    - MetaStorm – IDE в IDE. Первое большое обновление https://habr.com/ru/articles/872000/
 - Подборки
   - The Best PHP Blogs https://draft.dev/learn/php-blogs
   - https://weeklyphp.substack.com/p/how-to-implement-a-ddd-use-case-in?utm_source=%2Fsearch%2Fphp&utm_medium=reader2
