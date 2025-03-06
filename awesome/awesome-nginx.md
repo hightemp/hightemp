@@ -168,6 +168,8 @@
         - Nginx as Reverse Proxy with GRPC https://medium.com/nirman-tech-blog/nginx-as-reverse-proxy-with-grpc-820d35642bff
         - Deploying NGINX as an API Gateway, Part 3: Publishing gRPC Services https://www.f5.com/company/blog/nginx/deploying-nginx-plus-as-an-api-gateway-part-3-publishing-grpc-services
         - Summary of using nginx as a reverse proxy for grpc https://segmentfault.com/a/1190000040268472/en
+- Модули
+    - Пишем модули для Nginx https://habr.com/ru/companies/otus/articles/888134/
 - Docker
     - Сборка Dockerfile на примере Nginx https://blog.bayrell.org/ru/linux/docker/25-sborka-dockerfile-na-primere-nginx.html
     - Запуск Nginx в Docker https://dockerhosting.ru/blog/nginx-v-docker/
