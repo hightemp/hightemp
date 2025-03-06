@@ -248,6 +248,7 @@
   - End-2-End
     - End-to-End Testing https://symfony.com/doc/current/testing/end_to_end.html
     - End-to-end testing with Symfony and Panther https://www.strangebuzz.com/en/blog/end-to-end-testing-with-symfony-and-panther
+    - Symfony Panther: зверь в мире тестирования https://habr.com/ru/companies/otus/articles/646575/
   - Остальное
     - 10 советов по тестированию в Symfony https://habr.com/ru/companies/vk/articles/508376/
     - Тестирование PHP проектов на примере Symfony https://habr.com/ru/articles/713454/
