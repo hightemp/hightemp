@@ -171,6 +171,7 @@
       - [Symfony 5] Раздельная авторизация для админов и пользователей с двумя разными сущностями и формами входа https://habr.com/ru/articles/508936/
   - Registration, Регистрация
     - Symfony 4 Login & Registration System https://rojas.io/symfony-4-login-registration-system/
+    - Working with Symfony 4 Forms & Doctrine Entities https://rojas.io/working-with-symfony-4-forms-and-doctrine-entities/
   - CSRF
     - Combatting Login CSRF with Symfony https://wouterj.nl/2023/10/combatting-login-csrf-with-symfony
   - Работа с ролями и разрешениями (RBAC, ABAC, ACL)
