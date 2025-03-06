@@ -326,6 +326,7 @@
   - Как переиспользовать код с бандлами Symfony 5? Часть 4. Расширение бандла в хосте https://habr.com/ru/articles/499074/
   - Как переиспользовать код с бандлами Symfony 5? Часть 5. Конфигурация https://habr.com/ru/articles/499076/
   - Как переиспользовать код с бандлами Symfony 5? Часть 6. Тестирование https://habr.com/ru/articles/500044/
+  - Как переиспользовать код с бандлами Symfony 5? Часть 7. Релизный цикл, установка и обновление https://habr.com/ru/articles/500596/
 - Остальное
   - https://shieldon.io/ru/guide/symfony.html
   - A Year With Symfony https://matthiasnoback.nl/book/a-year-with-symfony/
