@@ -252,6 +252,7 @@
   - Остальное
     - 10 советов по тестированию в Symfony https://habr.com/ru/companies/vk/articles/508376/
     - Тестирование PHP проектов на примере Symfony https://habr.com/ru/articles/713454/
+    - Меняем моки репозиториев на in-memory реализации https://habr.com/ru/companies/otus/articles/792680/
     - Tips for testing the database in Symfony application https://dev.to/vikbert/tips-for-testing-the-database-in-symfony-application-1pd5
     - Symfony PHPUnit testing database data https://joeymasip.medium.com/symfony-phpunit-testing-database-data-322383ed0603
     - Test POST API endpoints in Symfony https://medium.com/@tacman1123/testing-post-api-endpoints-in-symfony-464575eaf841
