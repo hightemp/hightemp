@@ -341,6 +341,7 @@
   - Как переиспользовать код с бандлами Symfony 5? Часть 6. Тестирование https://habr.com/ru/articles/500044/
   - Как переиспользовать код с бандлами Symfony 5? Часть 7. Релизный цикл, установка и обновление https://habr.com/ru/articles/500596/
 - Остальное
+  - Перевод PHP бэкенда на шину Redis streams и выбор независимой от фреймворков библиотеки https://habr.com/ru/articles/483584/
   - https://shieldon.io/ru/guide/symfony.html
   - A Year With Symfony https://matthiasnoback.nl/book/a-year-with-symfony/
   - An introduction to Symfony | The foundation of modern PHP applications https://brunopaz.dev/blog/an-introduction-to-symfony/
