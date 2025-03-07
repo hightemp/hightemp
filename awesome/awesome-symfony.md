@@ -126,6 +126,15 @@
     - Built-in Symfony Events https://symfony.com/doc/current/reference/events.html
     - How to use events listeners in Symfony https://blowstack.com/blog/how-to-use-events-listeners-in-symfony
     - How to Create Custom Events With Symfony5 https://q.agency/blog/custom-events-with-symfony5/
+  - Messenger
+    - Messenger: Sync & Queued Message Handling https://symfony.com/doc/current/messenger.html
+    - How to Create Your own Messenger Transport https://symfony.com/doc/current/messenger/custom-transport.html
+    - AsMessage Attribute https://symfony.com/blog/new-in-symfony-7-2-asmessage-attribute
+  - Symfony Scheduler
+    - Scheduler https://symfony.com/doc/current/scheduler.html
+    - New in Symfony 6.3 Scheduler Component https://symfony.com/blog/new-in-symfony-6-3-scheduler-component
+    - Master task scheduling with Symfony Scheduler https://jolicode.com/blog/master-task-scheduling-with-symfony-scheduler
+    - Symfony Scheduler — How it Really Works https://medium.com/@fico7489/symfony-scheduler-how-it-really-works-ef5d95409c09  
   - БД
     - Doctrine
       - Основное
@@ -225,15 +234,6 @@
   - Custom Pagination in PHP and Symfony https://www.binpress.com/custom-pagination-php-symfony/
 - Email, Mailer
   - How to Send Emails in Symfony using SMTP or API Methods: A Step-by-Step Tutorial https://mailtrap.io/blog/send-emails-in-symfony/
-- Messenger
-  - Messenger: Sync & Queued Message Handling https://symfony.com/doc/current/messenger.html
-  - How to Create Your own Messenger Transport https://symfony.com/doc/current/messenger/custom-transport.html
-- Task scheduler, cron
-  - Scheduler https://symfony.com/doc/current/scheduler.html
-  - Знакомство с созданием консольных команд: cron. https://php.zone/symfony-course/znakomstvo-s-konsolnymi-komandami-v-symfony-cron
-  - New in Symfony 6.3 Scheduler Component https://symfony.com/blog/new-in-symfony-6-3-scheduler-component
-  - Master task scheduling with Symfony Scheduler https://jolicode.com/blog/master-task-scheduling-with-symfony-scheduler
-  - Symfony Scheduler — How it Really Works https://medium.com/@fico7489/symfony-scheduler-how-it-really-works-ef5d95409c09
 - Пример приложения
   - Build your own OAuth2 Server with PHP and Symfony https://davegebler.com/post/coding/build-oauth2-server-php-symfony
   - Making a Single-Page Application with HTMX and Symfony https://jolicode.com/blog/making-a-single-page-application-with-htmx-and-symfony
@@ -297,6 +297,8 @@
     - Основное
     - Остальное
       - A technical look at Forest Admin, EasyAdmin and Sonata https://www.forestadmin.com/blog/forest-admin-easyadmin-sonata/
+- Task scheduler, cron
+  - Знакомство с созданием консольных команд: cron. https://php.zone/symfony-course/znakomstvo-s-konsolnymi-komandami-v-symfony-cron
 - Примеры создания приложения или сервиса
   - Creating your First Symfony App and Adding Authentication https://auth0.com/blog/creating-your-first-symfony-app-and-adding-authentication/
 - Архитектура
