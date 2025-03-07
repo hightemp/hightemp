@@ -347,6 +347,8 @@
   
 ### Видео
 
+- Messenger
+  - Messenger vs EventDispatcher https://symfonycasts.com/screencast/messenger/messenger-event-dispatcher
 - Работа с ролями и разрешениями
   - https://symfonycasts.com/screencast/symfony4-security/dynamic-roles
 - Конференции
