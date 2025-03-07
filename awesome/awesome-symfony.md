@@ -130,6 +130,7 @@
     - Messenger: Sync & Queued Message Handling https://symfony.com/doc/current/messenger.html
     - How to Create Your own Messenger Transport https://symfony.com/doc/current/messenger/custom-transport.html
     - AsMessage Attribute https://symfony.com/blog/new-in-symfony-7-2-asmessage-attribute
+    - Symfony Messenger Component step by step https://www.blog.philodev.one/posts/2024-01-symfony-queues/
   - Symfony Scheduler
     - Scheduler https://symfony.com/doc/current/scheduler.html
     - New in Symfony 6.3 Scheduler Component https://symfony.com/blog/new-in-symfony-6-3-scheduler-component
