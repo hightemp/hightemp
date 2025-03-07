@@ -128,6 +128,7 @@
     - How to Create Custom Events With Symfony5 https://q.agency/blog/custom-events-with-symfony5/
   - Messenger
     - Messenger: Sync & Queued Message Handling https://symfony.com/doc/current/messenger.html
+    - The Messenger Component https://symfony.com/doc/current/components/messenger.html
     - How to Create Your own Messenger Transport https://symfony.com/doc/current/messenger/custom-transport.html
     - AsMessage Attribute https://symfony.com/blog/new-in-symfony-7-2-asmessage-attribute
     - Symfony Messenger Component step by step https://www.blog.philodev.one/posts/2024-01-symfony-queues/
