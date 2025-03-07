@@ -234,11 +234,12 @@
   - Custom Pagination in PHP and Symfony https://www.binpress.com/custom-pagination-php-symfony/
 - Email, Mailer
   - How to Send Emails in Symfony using SMTP or API Methods: A Step-by-Step Tutorial https://mailtrap.io/blog/send-emails-in-symfony/
-- Пример приложения
+- Примеры приложений
   - Build your own OAuth2 Server with PHP and Symfony https://davegebler.com/post/coding/build-oauth2-server-php-symfony
   - Making a Single-Page Application with HTMX and Symfony https://jolicode.com/blog/making-a-single-page-application-with-htmx-and-symfony
   - Symfony 7 CRUD Operations: A Step-by-Step https://medium.com/@addidagli/symfony-7-crud-operations-a-step-by-step-eebebf375620
   - Демо Symfony конвертер валют https://habr.com/ru/articles/671956/
+  - Creating your First Symfony App and Adding Authentication https://auth0.com/blog/creating-your-first-symfony-app-and-adding-authentication/
 - Тестирование
   - Основное
     - Тестирование https://symfony.ru/testing.html
@@ -299,8 +300,6 @@
       - A technical look at Forest Admin, EasyAdmin and Sonata https://www.forestadmin.com/blog/forest-admin-easyadmin-sonata/
 - Task scheduler, cron
   - Знакомство с созданием консольных команд: cron. https://php.zone/symfony-course/znakomstvo-s-konsolnymi-komandami-v-symfony-cron
-- Примеры создания приложения или сервиса
-  - Creating your First Symfony App and Adding Authentication https://auth0.com/blog/creating-your-first-symfony-app-and-adding-authentication/
 - Архитектура
   - CQRS
     - CQRS with Symfony Messenger https://dev.to/adgaray/cqrs-with-symfony-messenger-2h3g
