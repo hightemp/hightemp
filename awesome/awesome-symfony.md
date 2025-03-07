@@ -232,6 +232,7 @@
   - Build your own OAuth2 Server with PHP and Symfony https://davegebler.com/post/coding/build-oauth2-server-php-symfony
   - Making a Single-Page Application with HTMX and Symfony https://jolicode.com/blog/making-a-single-page-application-with-htmx-and-symfony
   - Symfony 7 CRUD Operations: A Step-by-Step https://medium.com/@addidagli/symfony-7-crud-operations-a-step-by-step-eebebf375620
+  - Демо Symfony конвертер валют https://habr.com/ru/articles/671956/
 - Тестирование
   - Основное
     - Тестирование https://symfony.ru/testing.html
