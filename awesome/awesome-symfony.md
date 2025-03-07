@@ -364,6 +364,7 @@
 ### Примеры приложений
 
 - Symfony Blog - это веб-проект с открытым исходным кодом, основанный на архитектурных принципах Clean Architecture и Domain-Driven Design, включающий функциональность управления постами и категориями через модульную систему, с четким разделением на слои domain, application, infrastructure и presentation, реализованный с использованием фреймворка Symfony и паттерна порты и адаптеры для взаимодействия между модулями. https://github.com/annysmolyan/symfony-ddd-clean-architecture-blog
+- Symfony-messenger-sample - учебный проект, демонстрирующий базовую инициализацию и использование компонента Symfony Messenger с очередями сообщений на базе Doctrine и SQLite, созданный для упрощения понимания этой технологии начинающими разработчиками. https://github.com/balpom/symfony-messenger-sample
 
 ### Stackoverflow
 
