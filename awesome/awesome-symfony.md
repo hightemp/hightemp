@@ -80,6 +80,7 @@
 - https://www.mon-code.net/tag/59/Symfony
 - https://www.strangebuzz.com/en/blog/tag/symfony
 - https://www.uvdesk.com/en/category/symfony/
+- https://weenesta.com/en/blog/tag/symfony
 
 ### Статьи
 
