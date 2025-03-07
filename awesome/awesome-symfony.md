@@ -219,6 +219,8 @@
 - Формы
   - Продвинутые методы работы с формами веб-приложений на PHP с Symfony: валидация данных, CSRF защита https://ifellow.ru/media-center/prodvinutye-metody-raboty-s-formami-veb-prilozheniy-na-php-s-symfony-validatsiya-dannykh-csrf-zashch/
   - Use Bootstrap 3 and 4 form themes in the same Symfony project https://backbeat.tech/blog/bootstrap-3-and-4-forms-in-the-same-symfony-project
+- Pagination, Пагинация
+  - Custom Pagination in PHP and Symfony https://www.binpress.com/custom-pagination-php-symfony/
 - Email, Mailer
   - How to Send Emails in Symfony using SMTP or API Methods: A Step-by-Step Tutorial https://mailtrap.io/blog/send-emails-in-symfony/
 - Messenger
