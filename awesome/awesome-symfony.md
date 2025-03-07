@@ -133,6 +133,7 @@
     - Symfony Messenger Component step by step https://www.blog.philodev.one/posts/2024-01-symfony-queues/
     - Symfony Messenger’s message and message handlers and a comparison with @QueueWorker https://www.previousnext.com.au/blog/symfony-messenger/post-2-message-and-message-handlers
     - Простой пример использования Symfony Messenger https://habr.com/ru/articles/817425/
+    - Использование компонентов symfony/messenger и symfony/console в качестве независимых компонентов https://habr.com/ru/articles/596559/
   - Symfony Scheduler
     - Scheduler https://symfony.com/doc/current/scheduler.html
     - New in Symfony 6.3 Scheduler Component https://symfony.com/blog/new-in-symfony-6-3-scheduler-component
