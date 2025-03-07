@@ -78,6 +78,7 @@
 - https://easycorp.github.io/blog/
 - https://www.mon-code.net/tag/59/Symfony
 - https://www.strangebuzz.com/en/blog/tag/symfony
+- https://www.uvdesk.com/en/category/symfony/
 
 ### Статьи
 
