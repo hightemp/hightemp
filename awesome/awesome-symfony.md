@@ -65,6 +65,7 @@
 
 ### Блоги
 
+- https://habr.com/ru/hubs/symfony/articles/
 - https://matthiasnoback.nl/archives/
 - http://fabien.potencier.org/
 - https://davegebler.com/category/php
