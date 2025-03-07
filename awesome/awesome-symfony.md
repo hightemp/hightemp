@@ -82,6 +82,8 @@
 ### Статьи
 
 - Основное
+  - Обновления
+    - Дайджест новостей по Symfony за октябрь'2024 с Кириллом Несмеяновым https://habr.com/ru/articles/859224/
   - Kernel
     - The HttpKernel Component https://symfony.com/doc/current/components/http_kernel.html    
   - Routing, Маршрутизация
