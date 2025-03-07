@@ -1153,6 +1153,7 @@
 
 ### Блоги
 
+- https://habr.com/ru/hubs/go/articles/
 - A Journey With Go https://medium.com/a-journey-with-go
 - Alex Edwards https://www.alexedwards.net/blog/
 - Alex Pliutau https://pliutau.com/
