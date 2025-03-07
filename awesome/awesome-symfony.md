@@ -334,6 +334,8 @@
   - Performance https://symfony.com/doc/current/performance.html
   - Battle log: a deep dive in Symfony stack in search of optimizations 2/n https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n
   - 5 Ways to Optimize Symfony Application Performance https://dev.to/inspector/5-ways-to-optimize-symfony-application-performance-5ap8
+- Systemd
+  - Symfony Messenger 💛 systemd https://jolicode.com/blog/symfony-messenger-systemd
 - Redis
   - Redis pub-sub vs Cron job in Symfony https://www.uvdesk.com/en/blog/redis-pub-sub-vs-cron-job-in-symfony/
   - Перевод PHP бэкенда на шину Redis streams и выбор независимой от фреймворков библиотеки https://habr.com/ru/articles/483584/
