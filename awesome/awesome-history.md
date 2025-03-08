@@ -30,6 +30,10 @@
     - http://открытаяархеология.рф/
 - Остальное
 
+### Агрегаторы
+
+- Национальный агрегатор открытых репозиториев https://www.openrepository.ru/repositories
+
 ### Библиотеки
 
 - https://www.lib.tsu.ru/sp/subjects/guide.php?subject=histor
