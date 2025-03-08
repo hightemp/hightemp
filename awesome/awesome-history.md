@@ -49,6 +49,7 @@
 
 - США
     - The Library of Congress https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/finding/
+    -  коллекция исторических газет из всех штатов США от Библиотеки Конгресса https://www.loc.gov/collections/chronicling-america/about-this-collection/
 - Россия
     - https://www.lib.tsu.ru/sp/subjects/guide.php?subject=histor
     - онлайн-репозиторий препринтов для социальных и гуманитарных наук, созданный по образцу arXiv https://osf.io/preprints/socarxiv
