@@ -30,6 +30,10 @@
     - http://открытаяархеология.рф/
 - Остальное
 
+### Библиотеки
+
+- https://www.lib.tsu.ru/sp/subjects/guide.php?subject=histor
+
 ### Базы археологических находок
 
 - Электронная база данных археологических находок https://portal.novsu.ru/archeology/db/
