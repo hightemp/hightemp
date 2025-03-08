@@ -183,6 +183,10 @@
 - с видео и аудио
     - https://aistudio.google.com/live
 
+### MCP
+
+- https://mcp.so - это веб-сайт, который представляет собой крупнейшую коллекцию серверов MCP (Model Context Protocol)
+
 ### Поиск по ai инструментам
 
 - https://www.raghut.com/
