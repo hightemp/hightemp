@@ -256,6 +256,7 @@
 - tailwind
    - https://daisyui.com/
    - https://flowbite.com/
+   - https://github.com/ibelick/prompt-kit https://www.prompt-kit.com/docs/
 
 ### Поисковые движки
 
