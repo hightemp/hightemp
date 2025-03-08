@@ -411,6 +411,10 @@
 - https://svgartista.net/ Исходный файл загружается в SVG-формате. Результат генерации копируется в виде SVG-кода и CSS-стилей. Регистрация не нужна.
 - https://animateai.pro/
 
+### Генерация теста из аудио
+
+- https://elevenlabs.io/app/speech-to-text
+
 ### Генерация аудио речи из текста
 
 - https://www.text-to-speech.online/
