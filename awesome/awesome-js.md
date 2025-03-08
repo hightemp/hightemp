@@ -61,6 +61,10 @@
 
 - https://google.github.io/styleguide/tsguide.html
 
+### ui-библиотеки
+
+- https://w2ui.com/
+
 ### Книги
 
 - Learning JavaScript Design Patterns, Addy Osmani https://patterns.addy.ie/
