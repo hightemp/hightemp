@@ -172,16 +172,19 @@
     - chatgpt неофиц. клиент https://github.com/skydoves/chatgpt-android/releases
 - Для учебы
     - https://www.studychat.app/
-- Для разработки
-    - https://v0.dev/
-    - https://replit.com/
-    - https://bolt.new
-    - https://llamacoder.together.ai/
-    - https://codebyhicham.com/
-    - http://prompt-stack.sshh.io/
-    - https://sketch.dev/
 - с видео и аудио
     - https://aistudio.google.com/live
+
+### Нейростеи, боты для разработки
+
+- https://v0.dev/
+- https://replit.com/
+- https://bolt.new
+- https://llamacoder.together.ai/
+- https://codebyhicham.com/
+- http://prompt-stack.sshh.io/
+- https://sketch.dev/
+- Gemini Code Assist - бесплатная интеллектуальная система автодополнения кода, основанная на языковой модели Gemini 2.0 для оптимизации процесса разработки программного обеспечения, способная объяснять, рекомендовать и дополнять код на более чем 20 языках программирования с ограничением до 180 тысяч дополнений в месяц, требующая установки подключаемых модулей для интеграционных сред, авторизации через аккаунт Google и создания проекта в Google Cloud. https://codeassist.google/
 
 ### MCP
 
