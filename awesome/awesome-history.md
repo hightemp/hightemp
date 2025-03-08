@@ -45,6 +45,7 @@
 
 - США
     - The Library of Congress https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/finding/
+    - Internet Modern History Sourcebook https://sourcebooks.fordham.edu/mod/modsbookfull.asp
 - Россия
     - https://www.lib.tsu.ru/sp/subjects/guide.php?subject=histor
     - онлайн-репозиторий препринтов для социальных и гуманитарных наук, созданный по образцу arXiv https://osf.io/preprints/socarxiv
