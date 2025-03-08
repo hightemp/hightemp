@@ -18,30 +18,36 @@
 ### Сайты
 
 - История древнего мира
-    - Сайт об античной литературе, античной истории и людях античности http://simposium.ru/
-    - История древнего мира https://ancientrome.ru/
+    - Россия
+        - Сайт об античной литературе, античной истории и людях античности http://simposium.ru/
+        - История древнего мира https://ancientrome.ru/
 - Археология
-    - Сервер Восточноевропейской археологии К. Полноценный археологический портал: каталог ресурсов, археологический журнал , новости, проекты, подписка и т.п. На рус. и англ. яз. Последние обновления - 2002 г. http://archaeology.kiev.ua/
-    - Археология России https://archeologia.ru/
-    - Археология.РУ  –  Открытая библиотека имени В.Е.Еременко http://www.archaeology.ru
-    - Новгородский государственный университет https://portal.novsu.ru/archeology/
-    - https://www.kreml.ru/research/research-and-projects/
-    - Институт археологии РАН https://archaeolog.ru/
-    - http://открытаяархеология.рф/
+    - Россия
+        - Сервер Восточноевропейской археологии К. Полноценный археологический портал: каталог ресурсов, археологический журнал , новости, проекты, подписка и т.п. На рус. и англ. яз. Последние обновления - 2002 г. http://archaeology.kiev.ua/
+        - Археология России https://archeologia.ru/
+        - Археология.РУ  –  Открытая библиотека имени В.Е.Еременко http://www.archaeology.ru
+        - Новгородский государственный университет https://portal.novsu.ru/archeology/
+        - https://www.kreml.ru/research/research-and-projects/
+        - Институт археологии РАН https://archaeolog.ru/
+        - http://открытаяархеология.рф/
 - Архивы
-    - National archives https://www.archives.gov/education/research/primary-sources
-    - https://www.docsteach.org/documents
+    - США
+        - National archives https://www.archives.gov/education/research/primary-sources
+        - https://www.docsteach.org/documents
 - Остальное
 
 ### Агрегаторы
 
-- Национальный агрегатор открытых репозиториев https://www.openrepository.ru/repositories
+- Россия
+    - Национальный агрегатор открытых репозиториев https://www.openrepository.ru/repositories
 
 ### Библиотеки
 
-- The Library of Congress https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/finding/
-- https://www.lib.tsu.ru/sp/subjects/guide.php?subject=histor
-- онлайн-репозиторий препринтов для социальных и гуманитарных наук, созданный по образцу arXiv https://osf.io/preprints/socarxiv
+- США
+    - The Library of Congress https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/finding/
+- Россия
+    - https://www.lib.tsu.ru/sp/subjects/guide.php?subject=histor
+    - онлайн-репозиторий препринтов для социальных и гуманитарных наук, созданный по образцу arXiv https://osf.io/preprints/socarxiv
 
 ### Базы археологических находок
 
