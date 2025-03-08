@@ -63,7 +63,10 @@
 
 ### Прокси
 
-- https://spys.one/proxys/US//
+- бесплатные
+  - https://spys.one/proxys/US//
+- платные
+  - https://rus.proxy.market/proxy-servers-usa
 
 ### Платформы для практики в InfoSec
 
