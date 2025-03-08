@@ -37,6 +37,7 @@
 ### Библиотеки
 
 - The Library of Congress https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/finding/
+- National archives https://www.archives.gov/education/research/primary-sources
 - https://www.lib.tsu.ru/sp/subjects/guide.php?subject=histor
 - онлайн-репозиторий препринтов для социальных и гуманитарных наук, созданный по образцу arXiv https://osf.io/preprints/socarxiv
 
