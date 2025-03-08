@@ -34,6 +34,10 @@
     - США
         - National archives https://www.archives.gov/education/research/primary-sources
         - https://www.docsteach.org/documents
+        - Internet Modern History Sourcebook https://sourcebooks.fordham.edu/mod/modsbookfull.asp
+        - предоставляет доступ к историческим газетам (например, New York Times, Washington Post), архивам и другим документам https://www.proquest.com/index
+        - цифровые исторические документы, включая записи о гражданской войне в США, коренных народах Америки и газетные материалы https://www.fold3.com/
+        - архив рассекреченных документов по вопросам национальной безопасности http://nsarchive.chadwyck.com/home.do
 - Остальное
 
 ### Агрегаторы
@@ -45,9 +49,6 @@
 
 - США
     - The Library of Congress https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/finding/
-    - Internet Modern History Sourcebook https://sourcebooks.fordham.edu/mod/modsbookfull.asp
-    - предоставляет доступ к историческим газетам (например, New York Times, Washington Post), архивам и другим документам https://www.proquest.com/index
-    - цифровые исторические документы, включая записи о гражданской войне в США, коренных народах Америки и газетные материалы https://www.fold3.com/
 - Россия
     - https://www.lib.tsu.ru/sp/subjects/guide.php?subject=histor
     - онлайн-репозиторий препринтов для социальных и гуманитарных наук, созданный по образцу arXiv https://osf.io/preprints/socarxiv
