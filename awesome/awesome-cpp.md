@@ -186,3 +186,5 @@
 
 - Разработка, программирование, обучение - это то немногое что вы можете здесь найти. https://www.youtube.com/@Ice.Rezzet/videos
   - C++ Быстрый старт. #11.1. Компиляция и сборка приложения https://www.youtube.com/watch?v=w4TQdL3OGe8
+- Семинары 238 группы по акосу https://www.youtube.com/watch?v=5lqdXNpKEag&list=PLdW86-ZDBvbU0_J255GNYi1YVUW_GoKmH
+- Семинары 226 группы ФКН ПМИ https://www.youtube.com/watch?v=WGxA9WTWyNQ&list=PLdW86-ZDBvbUrgXfGyETuC3qU3TrEHaP5
