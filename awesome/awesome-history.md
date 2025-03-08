@@ -33,6 +33,7 @@
 ### Библиотеки
 
 - https://www.lib.tsu.ru/sp/subjects/guide.php?subject=histor
+- онлайн-репозиторий препринтов для социальных и гуманитарных наук, созданный по образцу arXiv https://osf.io/preprints/socarxiv
 
 ### Базы археологических находок
 
