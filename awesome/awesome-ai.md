@@ -364,6 +364,10 @@
 
 - https://iki.ai/
 
+### Субтитры к видео
+
+- https://withsubtitles.com/
+
 ### Замена лиц
 
 - https://github.com/hacksider/Deep-Live-Cam
