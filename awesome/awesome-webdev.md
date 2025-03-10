@@ -415,6 +415,8 @@
    - RabbitMQ (AMQP mostly) and NATS /NATS Streaming comparison https://adam-kotwasinski.medium.com/rabbitmq-amqp-mostly-and-nats-nats-streaming-comparison-1f97753f1312
    - Modern Open Source Messaging: Apache Kafka, RabbitMQ and NATS in Action https://seroter.com/2016/05/16/modern-open-source-messaging-apache-kafka-rabbitmq-and-nats-in-action/
 - BinStomp
+- UML
+   - UML: обзор основных типов диаграмм, диаграмма Классов. Часть 1 https://habr.com/ru/articles/738428/
 - Тайм-менеджмент
    - Timeless principles of Time Management https://makemeacto.substack.com/p/timeless-principles-of-time-management
 - Хостинг
