@@ -81,6 +81,7 @@
 - https://www.strangebuzz.com/en/blog/tag/symfony
 - https://www.uvdesk.com/en/category/symfony/
 - https://weenesta.com/en/blog/tag/symfony
+- https://blog.digital-craftsman.de/
 
 ### Статьи
 
