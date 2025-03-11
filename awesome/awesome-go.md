@@ -957,6 +957,7 @@
         - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
   - Пулы, pool
     - Go sync.Pool and the Mechanics Behind It https://victoriametrics.com/blog/go-sync-pool/index.html
+    - Кастомные memory pools в Golang https://habr.com/ru/companies/otus/articles/888554/
   - Остальное
     - Go sync.Cond, the Most Overlooked Sync Mechanism https://victoriametrics.com/blog/go-sync-cond/index.html
 - Распределенные системы
