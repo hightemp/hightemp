@@ -1068,6 +1068,7 @@
 - Алгоритмы
   - Алгоритм Кнута-Морриса-Пратта для поиска подстрок на Go https://habr.com/ru/companies/otus/articles/878812/
 - Остальное
+  - Компилятор GO. Добавляем цикл WHILE https://habr.com/ru/articles/888992/
   - Golang Functional Options are named args on steroids https://uptrace.dev/blog/golang-functional-options
   - Implementing The Fieldalignment Bundle in Go https://switchupcb.com/blog/implementing-the-fieldalignment-bundle-in-go/
   - Top 15 Golang Project Ideas [With Source Code] https://www.guvi.in/blog/top-golang-project-ideas/
