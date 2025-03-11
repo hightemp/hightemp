@@ -914,6 +914,8 @@
       - Can you explain the Circuit Breaker pattern and how you would implement it in a Go service that makes external API calls? Why is this pattern useful in a distributed system? https://medium.com/@ltcong1411/can-you-explain-the-circuit-breaker-pattern-and-how-you-would-implement-it-in-a-go-service-that-248bb7b04960
     - Composite
       - Design Patterns in Golang: Composite https://blog.ralch.com/articles/design-patterns/golang-composite/
+    - Bridge
+      - Desing Patterns in Golang: Bridge https://blog.ralch.com/articles/design-patterns/golang-bridge/
     - SOLID
       - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/ 
     - Остальное
