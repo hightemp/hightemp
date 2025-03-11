@@ -173,6 +173,7 @@
 - https://php.dragomano.ru/
 - https://aschmelyun.com/blog/?category=php
 - https://www.strangebuzz.com/en/blog/tag/php
+- https://blog.digital-craftsman.de/
 
 ### Статьи
 
