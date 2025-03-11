@@ -916,6 +916,8 @@
       - Design Patterns in Golang: Composite https://blog.ralch.com/articles/design-patterns/golang-composite/
     - Bridge
       - Desing Patterns in Golang: Bridge https://blog.ralch.com/articles/design-patterns/golang-bridge/
+    - Adapter
+      - Design Patterns in Golang: Adapter https://blog.ralch.com/articles/design-patterns/golang-adapter/
     - SOLID
       - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/ 
     - Остальное
