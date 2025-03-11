@@ -154,6 +154,8 @@
         - Справочник конфигурации Doctrine (DoctrineBundle) https://symfony.ru/doc/current/reference/configuration/doctrine.html
       - MongoDB
         - Multiple class inheritance with Doctrine ODM in Symfony: One collection for multiple document types https://medium.com/enekochan/multiple-class-inheritance-with-doctrine-odm-in-symfony-one-collection-for-multiple-document-types-ccab8cef0f05
+      - JSON
+        - Using json functions by Doctrine QueryBuilder https://medium.com/@aref.tarkhani/using-json-functions-by-doctrine-querybuilder-fa2bdd319bac
       - Остальное
         - Modeling Data for an API with Symfony and Doctrine (Part 1/2) https://www.mikemilano.com/modeling-data-with-symfony
         - Symfony UUID, Doctrine and type-hinting: everything you should know https://medium.com/ekino-france/symfony-uuid-doctrine-and-type-hinting-everything-you-should-know-b846519a9927
