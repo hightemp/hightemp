@@ -157,6 +157,7 @@
       - JSON
         - Using json functions by Doctrine QueryBuilder https://medium.com/@aref.tarkhani/using-json-functions-by-doctrine-querybuilder-fa2bdd319bac
         - Using JSON fields with Doctrine ORM on PostgreSQL & MySQL https://symfony.fi/entry/using-json-fields-with-doctrine-orm-on-postgresql-mysql.html
+        - Query for JSON list in MySQL with Doctrine https://blog.digital-craftsman.de/query-for-json-list-in-mysql-with-doctrine/
       - Остальное
         - Modeling Data for an API with Symfony and Doctrine (Part 1/2) https://www.mikemilano.com/modeling-data-with-symfony
         - Symfony UUID, Doctrine and type-hinting: everything you should know https://medium.com/ekino-france/symfony-uuid-doctrine-and-type-hinting-everything-you-should-know-b846519a9927
