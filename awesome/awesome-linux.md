@@ -56,6 +56,7 @@
 - https://www.linuxbabe.com
 - https://blog.it-kb.ru/tag/linux/
 - https://www.learnlinux.tv/
+- https://idea.popcount.org/
 
 ### Статьи
 
