@@ -60,12 +60,16 @@
 ### Статьи
 
 - Linux
-    - Introduction to Linux A Hands on Guide https://tldp.org/LDP/intro-linux/html/index.html
-    - The Linux Kernel Module Programming Guide https://tldp.org/LDP/lkmpg/2.6/html/index.html
-    - The Linux System Administrator's Guide https://tldp.org/LDP/sag/html/index.html
-    - Linux's Bedtime Routine (В статье рассматриваются процессы, связанные с переходом системы Linux из активного состояния в спящий режим. В ней подробно описываются механизмы синхронизации файловых систем, управление питанием и базовые функции ядра, которые облегчают этот переход) https://tookmund.com/2024/09/hibernation-preparation 
-    - How raw sockets behave differently in macOS and Linux https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/
-    - Linux fundamentals: user space, kernel space, and the syscalls API surface https://www.form3.tech/blog/engineering/linux-fundamentals-user-kernel-space
+    - Основное
+        - Introduction to Linux A Hands on Guide https://tldp.org/LDP/intro-linux/html/index.html
+        - The Linux Kernel Module Programming Guide https://tldp.org/LDP/lkmpg/2.6/html/index.html
+        - The Linux System Administrator's Guide https://tldp.org/LDP/sag/html/index.html
+        - Linux's Bedtime Routine (В статье рассматриваются процессы, связанные с переходом системы Linux из активного состояния в спящий режим. В ней подробно описываются механизмы синхронизации файловых систем, управление питанием и базовые функции ядра, которые облегчают этот переход) https://tookmund.com/2024/09/hibernation-preparation 
+        - How raw sockets behave differently in macOS and Linux https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/
+        - Linux fundamentals: user space, kernel space, and the syscalls API surface https://www.form3.tech/blog/engineering/linux-fundamentals-user-kernel-space
+    - epoll
+        - What is epoll? https://medium.com/@avocadi/what-is-epoll-9bbc74272f7c
+    - Остальное
 - ZRAM
     - Memory Compression https://www.linux-magazine.com/Issues/2018/215/Memory-Compression
     - Benad's Web Site; RAM Compression on Linux https://benad.me/blog/2021/02/23/ram-compression-on-linux/
