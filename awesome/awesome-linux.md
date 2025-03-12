@@ -68,6 +68,8 @@
         - Linux's Bedtime Routine (В статье рассматриваются процессы, связанные с переходом системы Linux из активного состояния в спящий режим. В ней подробно описываются механизмы синхронизации файловых систем, управление питанием и базовые функции ядра, которые облегчают этот переход) https://tookmund.com/2024/09/hibernation-preparation 
         - How raw sockets behave differently in macOS and Linux https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/
         - Linux fundamentals: user space, kernel space, and the syscalls API surface https://www.form3.tech/blog/engineering/linux-fundamentals-user-kernel-space
+    - dup
+        - dup, dup2, dup3 - duplicate a file descriptor https://man7.org/linux/man-pages/man2/dup.2.html
     - select
         - Select is fundamentally broken https://idea.popcount.org/2017-01-06-select-is-fundamentally-broken/
     - epoll
