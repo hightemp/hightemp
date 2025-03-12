@@ -155,6 +155,7 @@
         - Справочник конфигурации Doctrine (DoctrineBundle) https://symfony.ru/doc/current/reference/configuration/doctrine.html
       - DQL
         - DQL User Defined Functions https://www.doctrine-project.org/projects/doctrine-orm/en/current/cookbook/dql-user-defined-functions.html
+        - How to Register custom DQL Functions https://symfony.com/doc/current/doctrine/custom_dql_functions.html
       - MongoDB
         - Multiple class inheritance with Doctrine ODM in Symfony: One collection for multiple document types https://medium.com/enekochan/multiple-class-inheritance-with-doctrine-odm-in-symfony-one-collection-for-multiple-document-types-ccab8cef0f05
       - JSON
