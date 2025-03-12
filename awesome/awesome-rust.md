@@ -622,11 +622,21 @@
 
 ### Статьи
 
-- Основное
+- Основы языка
   - Основное
     - A Gentle Introduction To Rust https://stevedonovan.github.io/rust-gentle-intro/
+    - Практическое руководство по Rust. 1/4 https://habr.com/ru/companies/timeweb/articles/790556/
+    - Практическое руководство по Rust. 2/4 https://habr.com/ru/companies/timeweb/articles/794941/
+    - Практическое руководство по Rust. 3/4 https://habr.com/ru/companies/timeweb/articles/796567/
+    - Практическое руководство по Rust. Бонус https://habr.com/ru/companies/timeweb/articles/802609/
+    - Rust basics, from the perspective of a high level programmer https://danbulant.eu/posts/rust-basics?ref=refind
+    - Большая шпаргалка по Rust. 1/2 https://habr.com/ru/companies/timeweb/articles/785096/
+    - Большая шпаргалка по Rust. 2/2 https://habr.com/ru/companies/timeweb/articles/787924/
+    - Effective substring in Rust https://letmutex.com/article/effective-substring-in-rust
   - Обновления
     - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
+  - Ошибки
+    - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
   - unsafe
     - Learn Unsafe Rust From My Mistakes https://geo-ant.github.io/blog/2023/unsafe-rust-exploration/
     - Why Rust's Unsafe Works https://jam1.re/blog/why-rusts-unsafe-works
@@ -643,18 +653,6 @@
     - Learn libp2p in Rust https://redandgreen.co.uk/learn-libp2p-in-rust/rust-programming/
     - Libp2p demo utilizing Rust https://koonts.net/articles/rust-libp2p
     - Playing with decentralized p2p network & Rust Libp2p Stacks https://medium.com/lifefunk/playing-with-decentralized-p2p-network-rust-libp2p-stacks-2022abdf3503
-- Основы языка
-  - Ошибки
-    - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
-  - Остальное
-    - Практическое руководство по Rust. 1/4 https://habr.com/ru/companies/timeweb/articles/790556/
-    - Практическое руководство по Rust. 2/4 https://habr.com/ru/companies/timeweb/articles/794941/
-    - Практическое руководство по Rust. 3/4 https://habr.com/ru/companies/timeweb/articles/796567/
-    - Практическое руководство по Rust. Бонус https://habr.com/ru/companies/timeweb/articles/802609/
-    - Rust basics, from the perspective of a high level programmer https://danbulant.eu/posts/rust-basics?ref=refind
-    - Большая шпаргалка по Rust. 1/2 https://habr.com/ru/companies/timeweb/articles/785096/
-    - Большая шпаргалка по Rust. 2/2 https://habr.com/ru/companies/timeweb/articles/787924/
-    - Effective substring in Rust https://letmutex.com/article/effective-substring-in-rust
 - WASM
   - Improving performance with React, WASM & Rust https://medium.com/@davidkelley87/improving-performance-with-react-wasm-rust-4c70f027b2c8
 - Оптимизация
