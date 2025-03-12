@@ -131,6 +131,7 @@
 - https://teach-rs.trifectatech.org/rust-for-web/
 - (Китайский) https://course.rs/about-book.html
 - https://compscicenter.ru/courses/rustprogramming/2019-spring/
+- https://coursehunter.net/course/programmirovanie-na-rust-polnoe-rukovodstvo-razrabotchika
 
 ### Блоги
 
