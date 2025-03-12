@@ -110,6 +110,7 @@
 
 ### Курсы
 
+- Rust 🦀: Начальный уровень https://stepik.org/course/195449/promo
 - Building a Movie Collection Manager - Full Stack Workshop with Rust, Actix, SQLx, Dioxus, and Shuttle https://bcnrust.github.io/devbcn-workshop/index.html
 - https://github.com/matklad/rust-course
 - https://github.com/google/comprehensive-rust
