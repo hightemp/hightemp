@@ -126,14 +126,17 @@
     - On Using Guards in C++ https://www.fluentcpp.com/2018/02/20/on-using-guards-in-cpp/
   - undefined behavior
     - Путеводитель C++ программиста по неопределённому поведению https://pvs-studio.ru/ru/blog/posts/cpp/1215/
-  - epoll
-    - Concurrent HTTP Server with Epoll https://kaleid-liner.github.io/blog/2019/06/02/epoll-web-server.html
-    - Illuminating synchronization edges for ThreadSanitizer https://nullprogram.com/blog/2022/10/03/
-    - Epoll and IO Multiplexing https://noneback.github.io/blog/epoll-and-io复用/
   - Остальное
     - Безопасное использование C++ https://habr.com/ru/companies/pvs-studio/articles/580762/
     - C++ quick tips: Overloaded virtual functions https://twdev.blog/2024/07/cpp_overloaded_virtuals/
     - Всё, точка, приплыли! Учимся работать с числами с плавающей точкой и разрабатываем альтернативу с фиксированной точностью десятичной дроби https://habr.com/ru/companies/xakep/articles/257897/
+- Linux
+  - epoll
+    - Concurrent HTTP Server with Epoll https://kaleid-liner.github.io/blog/2019/06/02/epoll-web-server.html
+    - Illuminating synchronization edges for ThreadSanitizer https://nullprogram.com/blog/2022/10/03/
+    - Epoll and IO Multiplexing https://noneback.github.io/blog/epoll-and-io复用/
+    - Socket https://www.xuxueli.com/blog/?blog=./notebook/3-网络/Socket.md
+    - Анализ исходного кода ядра Linux: epoll https://blog.hongxiaolong.com/posts/epoll.html
 - Package management, Менеджеры пакетов
   - #1 The state of C++ package management: The big three https://twdev.blog/2024/08/cpp_pkgmng1/
 - RAII
