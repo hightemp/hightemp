@@ -80,6 +80,7 @@
         - Epoll is fundamentally broken 2/2 https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/
         - I/O Multiplexing (select vs. poll vs. epoll/kqueue) https://nima101.github.io/io_multiplexing
         - Scalable Event Multiplexing: epoll vs. kqueue https://long-zhou.github.io/2012/12/21/epoll-vs-kqueue.html
+        - epoll: The API that powers the modern internet https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/
     - Остальное
 - ZRAM
     - Memory Compression https://www.linux-magazine.com/Issues/2018/215/Memory-Compression
