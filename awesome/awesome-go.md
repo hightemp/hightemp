@@ -522,6 +522,7 @@
     - Коллеги, вы меня огорчаете https://habr.com/ru/companies/oleg-bunin/articles/521582/
     - Почему язык Go плох для НЕумных программистов https://habr.com/ru/articles/448932/
     - Named Return Parameters in Golang https://www.geeksforgeeks.org/named-return-parameters-in-golang/
+    - Under the hood of TCP Socket Implementation On Golang https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
 - Разработка языка
   - Contributing the Go Compiler: Adding New Tilde (~) Operator https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
 - Подготовка к собеседованию
