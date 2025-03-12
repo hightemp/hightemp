@@ -628,6 +628,7 @@
     - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
   - unsafe
     - Learn Unsafe Rust From My Mistakes https://geo-ant.github.io/blog/2023/unsafe-rust-exploration/
+    - Why Rust's Unsafe Works https://jam1.re/blog/why-rusts-unsafe-works
   - Остальное
 - Сеть
   - VPN
