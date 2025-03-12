@@ -57,6 +57,7 @@
 - https://blog.it-kb.ru/tag/linux/
 - https://www.learnlinux.tv/
 - https://idea.popcount.org/
+- https://darkcoding.net/tags/linux/
 
 ### Статьи
 
