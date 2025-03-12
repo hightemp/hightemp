@@ -130,6 +130,7 @@
     - Built-in Symfony Events https://symfony.com/doc/current/reference/events.html
     - How to use events listeners in Symfony https://blowstack.com/blog/how-to-use-events-listeners-in-symfony
     - How to Create Custom Events With Symfony5 https://q.agency/blog/custom-events-with-symfony5/
+    - Handling Exception https://hantsy.github.io/symfony-rest-sample/api/ex/
   - Messenger
     - Messenger: Sync & Queued Message Handling https://symfony.com/doc/current/messenger.html
     - The Messenger Component https://symfony.com/doc/current/components/messenger.html
