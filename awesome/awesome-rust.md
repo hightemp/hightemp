@@ -104,6 +104,7 @@
   - https://www.cb-india.com/index.php?dispatch=attachments.getfile&attachment_id=1575&__cf_chl_tk=XlB75x5iXEvL01vfWGp1YEXf0qY51ZZFQYIyB66wLfo-1724923057-0.0.1.1-4926
 - The Embedded Rust Book https://doc.rust-lang.org/stable/embedded-book/start/index.html
 - Книги: Rust https://codelibrary.info/books/rust
+- https://ejudge.lksh.ru/lang_docs/The%20Rust%20Programming%20Language_ru.pdf
 
 ### Руководства, Гайды
 
