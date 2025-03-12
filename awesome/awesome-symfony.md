@@ -390,3 +390,4 @@
 ### Stackoverflow
 
 - How to manually authenticate user after Registration with the new Symfony 5 Authenticator? https://stackoverflow.com/questions/66924935/how-to-manually-authenticate-user-after-registration-with-the-new-symfony-5-auth
+- Symfony2 kernel exception event not handling fatal error exception in production mode https://stackoverflow.com/questions/43410718/symfony2-kernel-exception-event-not-handling-fatal-error-exception-in-production
