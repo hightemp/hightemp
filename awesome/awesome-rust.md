@@ -122,6 +122,7 @@
 - https://teach-rs.trifectatech.org/rust-for-systems/
 - https://teach-rs.trifectatech.org/rust-for-web/
 - (Китайский) https://course.rs/about-book.html
+- https://compscicenter.ru/courses/rustprogramming/2019-spring/
 
 ### Блоги
 
