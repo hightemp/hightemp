@@ -108,6 +108,7 @@
 ### Руководства, Гайды
 
 - Руководство по языку программирования Rust https://metanit.com/rust/tutorial/
+- https://github.com/rustkas/simple-about-rust
 
 ### Шпаргалки
 
