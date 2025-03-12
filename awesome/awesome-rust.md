@@ -624,6 +624,7 @@
 
 - Основное
   - Основное
+    - A Gentle Introduction To Rust https://stevedonovan.github.io/rust-gentle-intro/
   - Обновления
     - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
   - unsafe
