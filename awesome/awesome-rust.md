@@ -622,6 +622,11 @@
 
 ### Статьи
 
+- Основное
+  - Основное
+  - Обновления
+    - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
+  - Остальное
 - Сеть
   - VPN
     - A SIMPLE VPN PROTOTYPE IN RUST https://ragoragino.dev/blog/softwareengineering/2022-03-27-rust-vpn/index.html
