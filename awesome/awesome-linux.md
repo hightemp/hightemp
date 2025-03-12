@@ -70,6 +70,7 @@
     - epoll
         - epoll(7) — Linux manual page https://man7.org/linux/man-pages/man7/epoll.7.html
         - What is epoll? https://medium.com/@avocadi/what-is-epoll-9bbc74272f7c
+        - Async IO on Linux: select, poll, and epoll https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/
     - Остальное
 - ZRAM
     - Memory Compression https://www.linux-magazine.com/Issues/2018/215/Memory-Compression
