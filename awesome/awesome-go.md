@@ -1164,7 +1164,7 @@
 - SSH
   - Golang, multiple commands in the same SSH Session https://stackoverflow.com/questions/76166288/golang-multiple-commands-in-the-same-ssh-session
 
-### Кодовое заметки
+### Кодовые заметки
 
 - epoll https://github.com/golang/go/blob/91c9b0d568e41449f26858d88eb2fd085eaf306d/src/runtime/netpoll_epoll.go
 
