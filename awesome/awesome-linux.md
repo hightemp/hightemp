@@ -83,6 +83,7 @@
         - Scalable Event Multiplexing: epoll vs. kqueue https://long-zhou.github.io/2012/12/21/epoll-vs-kqueue.html
         - epoll: The API that powers the modern internet https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/
     - SO_REUSEPORT
+        - Linux TCP SO_REUSEPORT — Usage and implementation https://blog.flipkart.tech/linux-tcp-so-reuseport-usage-and-implementation-6bfbf642885a
         - True Zero Downtime HAProxy Reloads (В статье описывается, как Yelp реализовала решение для перезагрузки HAProxy без простоя, используя дисциплины очередей (qdiscs) в Linux для задержки SYN-пакетов во время перезагрузки, тем самым избегая обрывов соединений и минимизируя задержку по сравнению с другими подходами, такими как отбрасывание SYN-пакетов.) https://web.archive.org/web/20220520183147/https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html
     - Остальное
 - ZRAM
