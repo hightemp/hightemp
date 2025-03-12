@@ -105,6 +105,10 @@
 - The Embedded Rust Book https://doc.rust-lang.org/stable/embedded-book/start/index.html
 - https://www.rust-lang.org/ru/learn
 
+### Руководства, Гайды
+
+- Руководство по языку программирования Rust https://metanit.com/rust/tutorial/
+
 ### Шпаргалки
 
 - https://my-js.org/docs/cheatsheet/rust/
@@ -637,6 +641,7 @@
     - Большая шпаргалка по Rust. 2/2 https://habr.com/ru/companies/timeweb/articles/787924/
     - Effective substring in Rust https://letmutex.com/article/effective-substring-in-rust
     - Rust by Example https://doc.rust-lang.org/rust-by-example/
+    - Руководство по языку программирования Rust https://metanit.com/rust/tutorial/
   - Обновления
     - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
   - Ошибки
