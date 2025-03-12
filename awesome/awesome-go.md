@@ -377,6 +377,7 @@
     - Механика горутин и каналов в Golang: разбор с примерами https://habr.com/ru/articles/881014/
   - Linked lists, Связанные списки
     - Linked Lists in Go https://dev.to/jpoly1219/linked-lists-in-go-3g63
+    - Understanding Linked Lists with Go https://rkulla.blogspot.com/2018/03/understanding-linked-lists-with-go.html
   - Срезы, Слайсы, Slices
     - Slices in Go: Grow Big or Go Home https://victoriametrics.com/blog/go-slice/index.html
     - Как убрать повторяющиеся элементы из слайса? https://wcademy.ru/как-оставить-в-слайсе-только-уникальные-значения/
