@@ -633,6 +633,7 @@
     - Большая шпаргалка по Rust. 1/2 https://habr.com/ru/companies/timeweb/articles/785096/
     - Большая шпаргалка по Rust. 2/2 https://habr.com/ru/companies/timeweb/articles/787924/
     - Effective substring in Rust https://letmutex.com/article/effective-substring-in-rust
+    - Rust by Example https://doc.rust-lang.org/rust-by-example/
   - Обновления
     - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
   - Ошибки
