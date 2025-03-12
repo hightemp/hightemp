@@ -619,6 +619,7 @@
 - Darrien's Blog https://blog.darrien.dev
 - House Absolute(ly) Pointless https://blog.urth.org
 - cmyr.net https://www.cmyr.net/
+- https://darkcoding.net/tags/rust/
 
 ### YouTube каналы
 
