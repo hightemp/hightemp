@@ -379,6 +379,7 @@
     - Slices in Go: Grow Big or Go Home https://victoriametrics.com/blog/go-slice/index.html
     - Как убрать повторяющиеся элементы из слайса? https://wcademy.ru/как-оставить-в-слайсе-только-уникальные-значения/
     - \[Перевод\] Массивы, срезы (и строки): Механизм 'вставки' https://habr.com/ru/articles/202948/
+    - Go: Arrays and Slices, a deep dive. https://dev.to/dawkaka/go-arrays-and-slices-a-deep-dive-dp8
   - Defer
     - Golang Defer: From Basic To Traps https://victoriametrics.com/blog/defer-in-go/index.html
   - Массивы
