@@ -105,6 +105,14 @@
 - The Embedded Rust Book https://doc.rust-lang.org/stable/embedded-book/start/index.html
 - Книги: Rust https://codelibrary.info/books/rust
 - https://ejudge.lksh.ru/lang_docs/The%20Rust%20Programming%20Language_ru.pdf
+- Тим Макнамара (Tim McNamara) — «Rust в действии», 2022 ("Rust in action", 2021)
+- Клабник С., Николс К. (Steve Klabnik, Carol Nichols) — «Программирование на Rust», 2021 ("The Rust Programming Language", 2021)
+- Jim Blandy, Jason Orendorff, Leonora F.S. Tindall — «Programming Rust. Fast, Safe Systems Development», 2021.
+- Paul Johnson, Vesa Kaihlavirta — «Learning Rust», 2017.
+- Jim Blandy — «Why Rust?» 2015.
+- Vigneshwer Dhinakaran — «Rust Cookbook».
+- Carlo Milanesi — «Beginning Rust: From Novice to Professional» 2018.
+- Jan Hohenheim, Daniel Durante — «Rust Standard Library Cookbook» 2018.
 
 ### Руководства, Гайды
 
