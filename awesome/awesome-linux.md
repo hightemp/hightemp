@@ -67,10 +67,14 @@
         - Linux's Bedtime Routine (В статье рассматриваются процессы, связанные с переходом системы Linux из активного состояния в спящий режим. В ней подробно описываются механизмы синхронизации файловых систем, управление питанием и базовые функции ядра, которые облегчают этот переход) https://tookmund.com/2024/09/hibernation-preparation 
         - How raw sockets behave differently in macOS and Linux https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/
         - Linux fundamentals: user space, kernel space, and the syscalls API surface https://www.form3.tech/blog/engineering/linux-fundamentals-user-kernel-space
+    - select
+        - Select is fundamentally broken https://idea.popcount.org/2017-01-06-select-is-fundamentally-broken/
     - epoll
         - epoll(7) — Linux manual page https://man7.org/linux/man-pages/man7/epoll.7.html
         - What is epoll? https://medium.com/@avocadi/what-is-epoll-9bbc74272f7c
         - Async IO on Linux: select, poll, and epoll https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/
+        - Epoll is fundamentally broken 1/2 https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/
+        - Epoll is fundamentally broken 2/2 https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/
     - Остальное
 - ZRAM
     - Memory Compression https://www.linux-magazine.com/Issues/2018/215/Memory-Compression
