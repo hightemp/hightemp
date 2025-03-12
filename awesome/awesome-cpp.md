@@ -64,6 +64,7 @@
 - https://lcellentani.github.io/
 - https://www.fluentcpp.com/posts/
 - https://shaharmike.com/cpp/
+- https://nullprogram.com/index/
 
 ### Статьи
 
