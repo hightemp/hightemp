@@ -125,6 +125,8 @@
     - On Using Guards in C++ https://www.fluentcpp.com/2018/02/20/on-using-guards-in-cpp/
   - undefined behavior
     - Путеводитель C++ программиста по неопределённому поведению https://pvs-studio.ru/ru/blog/posts/cpp/1215/
+  - epoll
+    - Concurrent HTTP Server with Epoll https://kaleid-liner.github.io/blog/2019/06/02/epoll-web-server.html
   - Остальное
     - Безопасное использование C++ https://habr.com/ru/companies/pvs-studio/articles/580762/
     - C++ quick tips: Overloaded virtual functions https://twdev.blog/2024/07/cpp_overloaded_virtuals/
