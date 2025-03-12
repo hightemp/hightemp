@@ -68,6 +68,7 @@
         - How raw sockets behave differently in macOS and Linux https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/
         - Linux fundamentals: user space, kernel space, and the syscalls API surface https://www.form3.tech/blog/engineering/linux-fundamentals-user-kernel-space
     - epoll
+        - epoll(7) — Linux manual page https://man7.org/linux/man-pages/man7/epoll.7.html
         - What is epoll? https://medium.com/@avocadi/what-is-epoll-9bbc74272f7c
     - Остальное
 - ZRAM
