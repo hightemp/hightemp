@@ -647,6 +647,7 @@
     - Effective substring in Rust https://letmutex.com/article/effective-substring-in-rust
     - Rust by Example https://doc.rust-lang.org/rust-by-example/
     - Руководство по языку программирования Rust https://metanit.com/rust/tutorial/
+    - Русский перевод книги «The Rust Programming Language» (TRPL) https://habr.com/ru/news/498794/
   - Обновления
     - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
   - Ошибки
