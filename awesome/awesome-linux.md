@@ -84,6 +84,7 @@
         - I/O Multiplexing (select vs. poll vs. epoll/kqueue) https://nima101.github.io/io_multiplexing
         - Scalable Event Multiplexing: epoll vs. kqueue https://long-zhou.github.io/2012/12/21/epoll-vs-kqueue.html
         - epoll: The API that powers the modern internet https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/
+        - Epoll Kernel Performance Improvements https://events19.linuxfoundation.org/wp-content/uploads/2018/07/dbueso-oss-japan19.pdf
     - SO_REUSEPORT
         - Linux TCP SO_REUSEPORT — Usage and implementation https://blog.flipkart.tech/linux-tcp-so-reuseport-usage-and-implementation-6bfbf642885a
         - Performance Optimisation using SO_REUSEPORT https://medium.com/high-performance-network-programming/performance-optimisation-using-so-reuseport-c0fe4f2d3f88
