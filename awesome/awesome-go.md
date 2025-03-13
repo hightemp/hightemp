@@ -542,6 +542,8 @@
     - В поисках хорошего стиля. Часть 1. Зачем нам свои линтеры на Go в Островке https://habr.com/ru/companies/ostrovok/articles/839514/
     - Go lintpack: менеджер компонуемых линтеров https://habr.com/ru/articles/430196/
     - What's the best Static Analysis tool for Golang? https://www.dolthub.com/blog/2024-07-24-static-analysis/
+- Компилятор
+  - Компилятор GO. Добавляем цикл WHILE https://habr.com/ru/articles/888992/
 - Makefile
   - Makefile для самых маленьких https://habr.com/ru/articles/155201/
   - Learn Makefiles With the tastiest examples https://makefiletutorial.com/
@@ -1073,7 +1075,6 @@
 - Алгоритмы
   - Алгоритм Кнута-Морриса-Пратта для поиска подстрок на Go https://habr.com/ru/companies/otus/articles/878812/
 - Остальное
-  - Компилятор GO. Добавляем цикл WHILE https://habr.com/ru/articles/888992/
   - Golang Functional Options are named args on steroids https://uptrace.dev/blog/golang-functional-options
   - Implementing The Fieldalignment Bundle in Go https://switchupcb.com/blog/implementing-the-fieldalignment-bundle-in-go/
   - Top 15 Golang Project Ideas [With Source Code] https://www.guvi.in/blog/top-golang-project-ideas/
