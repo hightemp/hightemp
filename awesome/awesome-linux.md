@@ -111,6 +111,7 @@
     - tunnels
         - A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding https://iximiuz.com/en/posts/ssh-tunnels/
         - SSH Local Port Forwarding https://penkovski.com/post/ssh-local-port-forwarding/
+        - SSH port forwarding for Beginners https://nirali0.medium.com/ssh-port-forwarding-for-beginners-228d9a1d5622
     - Остальное
         - OpenSSH/Cookbook/Multiplexing https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing
 - sockets
