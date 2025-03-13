@@ -1,4 +1,9 @@
 
+### Коллекции
+
+- https://github.com/tomhuang12/awesome-k8s-resources
+- https://github.com/ramitsurana/awesome-kubernetes
+
 ### Статьи
 
 - Основное
