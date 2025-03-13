@@ -60,6 +60,7 @@
 - https://www.learnlinux.tv/
 - https://idea.popcount.org/
 - https://darkcoding.net/tags/linux/
+- https://penkovski.com/
 
 ### Статьи
 
@@ -109,6 +110,7 @@
         - How to Use The SSH Config File https://phoenixnap.com/kb/ssh-config
     - tunnels
         - A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding https://iximiuz.com/en/posts/ssh-tunnels/
+        - SSH Local Port Forwarding https://penkovski.com/post/ssh-local-port-forwarding/
     - Остальное
         - OpenSSH/Cookbook/Multiplexing https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing
 - sockets
