@@ -41,6 +41,7 @@
 - Оптимизация
     - Optimizing Nginx for Performance: Strategies for Maximum Efficiency https://medium.com/@navneetskahlon/optimizing-nginx-for-performance-strategies-for-maximum-efficiency-15e664626760
     - NGINX Performance Tuning Tips https://www.plesk.com/blog/various/nginx-performance-tuning-tips/
+    - NGINX Tuning For Best Performance https://gist.github.com/night-codes/dc3d43d082a718c273987e064d4c83da https://github.com/denji/nginx-tuning
 - Кэширование
     - High‑Performance Caching with NGINX and NGINX Plus https://www.f5.com/company/blog/nginx/nginx-high-performance-caching
 - Мониторинг
