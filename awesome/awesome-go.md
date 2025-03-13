@@ -756,6 +756,8 @@
   - prometheus
     - Пишем метрики в Prometheus на языке Go https://eax.me/golang-prometheus-metrics/
     - Monitoring the Golang App with Prometheus, Grafana, New Relic and Sentry https://medium.com/@mertcakmak2/monitoring-the-golang-app-with-prometheus-grafana-new-relic-and-sentry-fce1ca6980b5
+  - Примеры
+    - Как я создавал Observability для своих pet-проектов. Часть 2 https://habr.com/ru/articles/888682/
 - Аунтификация
   - Authentication for Go Applications: The Secure Way https://www.jetbrains.com/guide/go/tutorials/authentication-for-go-apps/auth/?ysclid=m06r9cxvkn600024780
 - Авторизация
