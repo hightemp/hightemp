@@ -326,7 +326,7 @@
 - https://www.10hostings.com/netherland/top10
 - https://dieg.info/en/tsod/netherlands-en/
 
-### Метрики
+### Мониторинг
 
 - OpenObserve - это инновационная платформа с открытым исходным кодом для мониторинга и анализа данных (observability platform), которая объединяет логи, метрики и трассировки в единую мощную систему, разработанную для развертываний петабайтного масштаба https://openobserve.ai/ https://github.com/openobserve/openobserve
 - qryn - это легковесный, полиглотный стек для мониторинга и наблюдения, совместимый с популярными стандартами (Loki, Prometheus, Tempo, Pyroscope), который позволяет собирать, хранить и анализировать логи, метрики и трейсы с помощью различных протоколов и форматов данных. https://github.com/metrico/qryn
