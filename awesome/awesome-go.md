@@ -555,6 +555,7 @@
 - CI-CD, cicd, деплой, выкладывание проекта
   - Golang deploy https://gist.github.com/night-codes/10c09f06ad78ae401c69
   - Развертывание приложения Go на своем сервере через Github Actions (Docker, Go) https://itmindco.ru/github-actions-docker-go/
+  - Ускорение выполнения деплоя через GitHub Actions https://itmindco.ru/github-deployment-build-acceleration/
 - Типы и структуры данных
   - Orded map
     - Ordered map на Go https://habr.com/ru/articles/882828/
