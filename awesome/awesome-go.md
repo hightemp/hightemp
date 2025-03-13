@@ -455,6 +455,8 @@
     - Performance optimization techniques in time series databases: sync.Pool for CPU-bound operations https://victoriametrics.com/blog/tsdb-performance-techniques-sync-pool/
     - Reference Counting in Go https://www.hydrogen18.com/blog/reference-counted-pool-golang.html
     - Use `sync.Pool` to reduce memory consumption https://blog.unknowntpo.me/syncpool/
+  - env, переменные окружения
+    - Практичный гайд по переменным окружения в Go https://habr.com/ru/articles/446468/
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
   - Reflection, Рефлексия, Отражение
