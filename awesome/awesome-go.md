@@ -559,6 +559,7 @@
   - Развертывание приложения Go на своем сервере через Github Actions (Docker, Go) https://itmindco.ru/github-actions-docker-go/
   - Ускорение выполнения деплоя через GitHub Actions https://itmindco.ru/github-deployment-build-acceleration/
   - Как настроить деплой web-приложения на Go для Gitlab на VDS https://habr.com/ru/articles/421087/
+  - Optimizing Golang Applications for Kubernetes: Best Practices for Reducing Server Load https://earthly.dev/blog/optimize-golang-for-kubernetes/
 - Типы и структуры данных
   - Orded map
     - Ordered map на Go https://habr.com/ru/articles/882828/
