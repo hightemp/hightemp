@@ -555,12 +555,17 @@
   - My NeoVim Go(lang) setup — As good as Intellj/Goland IDE https://medium.com/@suyash10581108/my-neovim-go-lang-setup-as-good-as-intellj-goland-ide-d48dd765f6de
   - Configure Neovim for Golang https://andrewcourter.substack.com/p/configure-neovim-for-golang
 - CI-CD, cicd, деплой, выкладывание проекта
-  - Golang deploy https://gist.github.com/night-codes/10c09f06ad78ae401c69
-  - Развертывание приложения Go на своем сервере через Github Actions (Docker, Go) https://itmindco.ru/github-actions-docker-go/
-  - Ускорение выполнения деплоя через GitHub Actions https://itmindco.ru/github-deployment-build-acceleration/
-  - Как настроить деплой web-приложения на Go для Gitlab на VDS https://habr.com/ru/articles/421087/
-  - Optimizing Golang Applications for Kubernetes: Best Practices for Reducing Server Load https://earthly.dev/blog/optimize-golang-for-kubernetes/
-  - Building Minimal Docker Containers for Go Applications https://www.cloudbees.com/blog/building-minimal-docker-containers-for-go-applications
+  - Kubernetes
+    - Optimizing Golang Applications for Kubernetes: Best Practices for Reducing Server Load https://earthly.dev/blog/optimize-golang-for-kubernetes/
+    - Разворачиваем Golang приложение в Kubernetes https://habr.com/ru/articles/656639/
+  - Gitlab
+    - Как настроить деплой web-приложения на Go для Gitlab на VDS https://habr.com/ru/articles/421087/
+  - Github
+    - Ускорение выполнения деплоя через GitHub Actions https://itmindco.ru/github-deployment-build-acceleration/
+    - Развертывание приложения Go на своем сервере через Github Actions (Docker, Go) https://itmindco.ru/github-actions-docker-go/
+  - Остальное
+    - Golang deploy https://gist.github.com/night-codes/10c09f06ad78ae401c69
+    - Building Minimal Docker Containers for Go Applications https://www.cloudbees.com/blog/building-minimal-docker-containers-for-go-applications
 - Типы и структуры данных
   - Orded map
     - Ordered map на Go https://habr.com/ru/articles/882828/
