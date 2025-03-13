@@ -5,6 +5,7 @@
 - https://github.com/ramitsurana/awesome-kubernetes
 - https://ramitsurana.github.io/awesome-kubernetes/projects/projects/
 - https://awesome-architecture.com/devops/kubernetes/kubernetes/
+- https://github.com/run-x/awesome-kubernetes
 
 ### Статьи
 
