@@ -326,6 +326,10 @@
 - https://www.10hostings.com/netherland/top10
 - https://dieg.info/en/tsod/netherlands-en/
 
+### Метрики
+
+- OpenObserve - это инновационная платформа с открытым исходным кодом для мониторинга и анализа данных (observability platform), которая объединяет логи, метрики и трассировки в единую мощную систему, разработанную для развертываний петабайтного масштаба https://openobserve.ai/ https://github.com/openobserve/openobserve
+
 ### Бенчи
 
 - бенчмарки фронтенд фреймворков https://krausest.github.io/js-framework-benchmark/index.html
