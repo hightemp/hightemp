@@ -107,6 +107,8 @@
 - SSH
     - ssh_config
         - How to Use The SSH Config File https://phoenixnap.com/kb/ssh-config
+    - tunnels
+        - A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding https://iximiuz.com/en/posts/ssh-tunnels/
     - Остальное
         - OpenSSH/Cookbook/Multiplexing https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing
 - sockets
