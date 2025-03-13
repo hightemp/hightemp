@@ -3,6 +3,7 @@
 
 - https://github.com/tomhuang12/awesome-k8s-resources
 - https://github.com/ramitsurana/awesome-kubernetes
+- https://ramitsurana.github.io/awesome-kubernetes/projects/projects/
 
 ### Статьи
 
