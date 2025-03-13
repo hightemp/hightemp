@@ -501,6 +501,7 @@
     - SwissTable: A High-Performance Hash Table Implementation https://dev.to/huizhou92/swisstable-a-high-performance-hash-table-implementation-1knc
     - SwissMap: A smaller, faster Golang Hash Table https://www.dolthub.com/blog/2023-03-28-swiss-map/
   - Остальное
+    - What's in the box!? Исследуем минимальное количество тредов golang-программы https://habr.com/ru/articles/888384/
     - The Top 10 Most Common Mistakes I’ve Seen in Go Projects https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
     - К слову об именах переменных в Go https://habr.com/ru/articles/872940/
     - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
@@ -524,6 +525,7 @@
     - Named Return Parameters in Golang https://www.geeksforgeeks.org/named-return-parameters-in-golang/
     - Under the hood of TCP Socket Implementation On Golang https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
 - Разработка языка
+  - Компилятор GO. Добавляем цикл WHILE https://habr.com/ru/articles/888992/
   - Contributing the Go Compiler: Adding New Tilde (~) Operator https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
 - Подготовка к собеседованию
   - Гайд по подготовке к собеседованию для Backend-разработчиков https://habr.com/ru/articles/876808/
@@ -542,8 +544,6 @@
     - В поисках хорошего стиля. Часть 1. Зачем нам свои линтеры на Go в Островке https://habr.com/ru/companies/ostrovok/articles/839514/
     - Go lintpack: менеджер компонуемых линтеров https://habr.com/ru/articles/430196/
     - What's the best Static Analysis tool for Golang? https://www.dolthub.com/blog/2024-07-24-static-analysis/
-- Компилятор
-  - Компилятор GO. Добавляем цикл WHILE https://habr.com/ru/articles/888992/
 - Makefile
   - Makefile для самых маленьких https://habr.com/ru/articles/155201/
   - Learn Makefiles With the tastiest examples https://makefiletutorial.com/
