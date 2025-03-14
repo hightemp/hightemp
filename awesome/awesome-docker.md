@@ -40,6 +40,7 @@
         - Docker Secrets: An Introductory Guide with Examples https://medium.com/@laura_67852/docker-secrets-an-introductory-guide-with-examples-d25be5fc8e50
         - A Complete Guide to Docker Secrets Management https://semaphore.io/blog/docker-secrets-management
         - How to Handle Secrets in Docker https://blog.gitguardian.com/how-to-handle-secrets-in-docker/
+        - Handling Docker Secrets the Right Way https://medium.com/@dariusmurawski/handling-docker-secrets-the-right-way-cc625be3395d
 - Права
     - Understanding File Permissions https://serversideup.net/open-source/docker-php/docs/guide/understanding-file-permissions
     - Permission Denied Nginx Docker | by Serghei Pogor | Medium https://sergheipogor.medium.com/permission-denied-nginx-docker-72caa442e351
