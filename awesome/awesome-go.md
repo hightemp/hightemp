@@ -1397,6 +1397,8 @@
   - How To Structure Your Go App - Full Course [ Hex Arch + Tests ] https://www.youtube.com/watch?v=MpFog2kZsHk
   - Go Programming - Hexagonal Architecture https://www.youtube.com/watch?v=k3JZI-sQs2k
   - dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture https://www.youtube.com/watch?v=vKbVrsMnhDc
+- Каналы
+  - Николай Тузов — Golang https://www.youtube.com/@nikolay_tuzov
 
 ### Сайты со статьями
 
