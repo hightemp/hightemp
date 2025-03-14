@@ -32,7 +32,7 @@
     - Hubble - это встроенный инструмент для мониторинга и наблюдения за сетевым трафиком в Cilium, предоставляющий расширенные возможности для анализа сетевого взаимодействия в кластерах Kubernetes
         - https://client.sbertech.ru/docs/public/K8S/2.1.0/K8SC/1.5.0/documents/administration-guide/1-Cilium-Hubble.html
     - Остальное
-- etcd
+- etcd — это высоконадёжное и строго согласованное распределённое хранилище данных типа «ключ-значение» с открытым исходным кодом. Оно используется для хранения конфигураций и данных, необходимых для работы распределённых систем, таких как Kubernetes.
     - A Guide to etcd https://www.redhat.com/en/blog/a-guide-to-etcd
     - Как работает etcd с Kubernetes и без него https://habr.com/ru/companies/slurm/articles/803739/
 - Остальное
