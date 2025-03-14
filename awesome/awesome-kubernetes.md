@@ -7,6 +7,11 @@
 - https://awesome-architecture.com/devops/kubernetes/kubernetes/
 - https://github.com/run-x/awesome-kubernetes
 
+### Книги
+
+- Книга: Лэнси В., Стронг Дж. "Kubernetes и сети. Многоуровневый подход"
+    - https://linuxcenter.shop/product/kniga-lensi-v-strong-dzh-kubernetes-i-seti-mnogourovnevyy-podhod?srsltid=AfmBOor-lDi7mxjgXGrD_K-S6xCnjY5IfFlrTytUokMf-O9Gi7ksugd3
+
 ### Статьи
 
 - Основное
