@@ -25,7 +25,12 @@
     - Основное
         - 10 антипаттернов деплоя в Kubernetes: распространенные практики, для которых есть другие решения https://cloud.vk.com/blog/antipatterny-deploya-v-kubernetes/
 - Cilium - это мощный сетевой плагин с открытым исходным кодом для Kubernetes, который использует технологию eBPF (extended Berkeley Packet Filter) для мониторинга и управления сетевым трафиком на уровне ядра операционной системы
-    - В чем силиум, брат? Обзор ключевых фишек Cilium и его преимущества на фоне других CNI-проектов https://habr.com/ru/companies/kts/articles/825136/
+    - Основное
+        - В чем силиум, брат? Обзор ключевых фишек Cilium и его преимущества на фоне других CNI-проектов https://habr.com/ru/companies/kts/articles/825136/
+        - Кратко про то, как кастомизировать сетевой стек в Kubernetes с Cilium https://habr.com/ru/companies/otus/articles/866796/
+    - Hubble - это встроенный инструмент для мониторинга и наблюдения за сетевым трафиком в Cilium, предоставляющий расширенные возможности для анализа сетевого взаимодействия в кластерах Kubernetes
+        - https://client.sbertech.ru/docs/public/K8S/2.1.0/K8SC/1.5.0/documents/administration-guide/1-Cilium-Hubble.html
+    - Остальное
 - etcd
     - A Guide to etcd https://www.redhat.com/en/blog/a-guide-to-etcd
     - Как работает etcd с Kubernetes и без него https://habr.com/ru/companies/slurm/articles/803739/
