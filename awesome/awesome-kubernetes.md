@@ -34,6 +34,7 @@
     - Остальное
 - etcd — это высоконадёжное и строго согласованное распределённое хранилище данных типа «ключ-значение» с открытым исходным кодом. Оно используется для хранения конфигураций и данных, необходимых для работы распределённых систем, таких как Kubernetes.
     - A Guide to etcd https://www.redhat.com/en/blog/a-guide-to-etcd
+    - Что такое etcd https://www.dmosk.ru/terminus.php?object=etcd
     - Как работает etcd с Kubernetes и без него https://habr.com/ru/companies/slurm/articles/803739/
 - Остальное
     - Вертикальное масштабирование подов https://cloud.ru/docs/kubernetes-evolution/ug/topics/concepts__vertical-pod-autoscaler.html#id1
