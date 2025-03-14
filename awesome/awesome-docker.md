@@ -34,8 +34,10 @@
     - Docker Stacks and Attachable networks https://blog.alexellis.io/docker-stacks-attachable-networks/
     - Элемент верхнего уровня сети https://digitology.tech/docs/docker/compose/compose-file/06-networks.html
     - Setting Up Docker Overlay Network https://opstree.com/blog/2020/07/07/setting-up-docker-overlay-network/
-- Docker Secrets
-    - How to use secrets in Docker Compose https://docs.docker.com/compose/how-tos/use-secrets/
+- Swarm
+    - Docker Secrets
+        - How to use secrets in Docker Compose https://docs.docker.com/compose/how-tos/use-secrets/
+        - Docker Secrets: An Introductory Guide with Examples https://medium.com/@laura_67852/docker-secrets-an-introductory-guide-with-examples-d25be5fc8e50
 - Права
     - Understanding File Permissions https://serversideup.net/open-source/docker-php/docs/guide/understanding-file-permissions
     - Permission Denied Nginx Docker | by Serghei Pogor | Medium https://sergheipogor.medium.com/permission-denied-nginx-docker-72caa442e351
