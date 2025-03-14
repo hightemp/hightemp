@@ -12,6 +12,7 @@
 - Основное
     - Основы Kubernetes https://habr.com/ru/articles/258443/
     - What is Kubernetes? https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes
+    - Установка и настройка кластера Kubernetes на Ubuntu Server https://www.dmosk.ru/instruktions.php?object=kubernetes-ubuntu
 - СonfigMaps
     - Управление конфигурацией приложений ConfigMap в Kubernetes https://www.itworkroom.com/configmap_k8s/
     - Kubernetes ConfigMaps и Secrets: как правильно управлять конфигурацией и секретами в кластере https://habr.com/ru/companies/beeline_cloud/articles/864222/
