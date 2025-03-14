@@ -1369,6 +1369,7 @@
   - nextjs 14, Go, Docker: Build a fullstack rest API in TypeScript and Go https://www.youtube.com/watch?v=429-r55KFmM
   - Creating Golang WebServer With Echo https://www.youtube.com/watch?v=_pww3NJuWnk&list=PLFmONUGpIk0YwlJMZOo21a9Q1juVrk4YY
 - Конференции
+  - Lamoda Tech Golang Meetup (12.12.24) https://www.youtube.com/watch?v=qqxeRBNi6zY
   - Функциональное программирование и #golang. Доклад с GopherCon UK 2024 https://www.youtube.com/watch?v=OKlhUv8R1ag
   - GopherCon UK 2024 https://www.youtube.com/watch?v=hIKRmIotkhw&list=PLDWZ5uzn69ezR6D6FUj_iBSOyRc9xaZFP
   - Google I/O 2013 — Advanced Go Concurrency Patterns Talk https://www.youtube.com/watch?v=QDDwwePbDtw&t=299s
