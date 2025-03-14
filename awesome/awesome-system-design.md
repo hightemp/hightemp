@@ -42,6 +42,8 @@
     - https://www.litres.ru/book/mark-richards-326443/fundamentalnyy-podhod-k-programmnoy-arhitekture-patte-69434368/
 - Современный подход к программной архитектуре: сложные компромиссы Форд Н. , Ричардс М. , Садаладж П., Дехгани Ж.
     - https://www.piter.com/collection/all/product/sovremennyy-podhod-k-programmnoy-arhitekture-slozhnye-kompromissy
+- REST in Practice: Hypermedia and Systems Architecture 1st Edition by Jim Webber (Author), Savas Parastatidis (Author), Ian Robinson (Author)
+    - https://www.amazon.com/gp/product/0596805829/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596805829&linkCode=as2&tag=martinfowlerc-20
 
 ### Репозитории
 
