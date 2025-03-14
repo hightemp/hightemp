@@ -1364,6 +1364,8 @@
 
 ### Видео
 
+- Основное
+  - Планировщик Go — самый подробный гайд простым языком https://www.youtube.com/watch?v=kedW1xO3Zbo
 - Примеры приложений
   - Building a TCP Chat in Go https://www.youtube.com/watch?v=Sphme0BqJiY
   - nextjs 14, Go, Docker: Build a fullstack rest API in TypeScript and Go https://www.youtube.com/watch?v=429-r55KFmM
