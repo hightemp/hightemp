@@ -43,6 +43,7 @@
         - Handling Docker Secrets the Right Way https://medium.com/@dariusmurawski/handling-docker-secrets-the-right-way-cc625be3395d
         - Managing Secrets in Docker Compose — A Developer's Guide https://phase.dev/blog/docker-compose-secrets/
         - Handling Environment Variables in Docker Compose for Secure and Flexible Configurations https://medium.com/@sh.hamzarauf/handling-environment-variables-in-docker-compose-for-secure-and-flexible-configurations-5ce6a5bb0412
+        - Secure Your Docker Stack: A Comprehensive Guide to Docker Compose Secrets https://www.bitdoze.com/docker-compose-secrets/
 - Права
     - Understanding File Permissions https://serversideup.net/open-source/docker-php/docs/guide/understanding-file-permissions
     - Permission Denied Nginx Docker | by Serghei Pogor | Medium https://sergheipogor.medium.com/permission-denied-nginx-docker-72caa442e351
