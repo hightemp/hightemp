@@ -39,5 +39,6 @@
     - Как работает etcd с Kubernetes и без него https://habr.com/ru/companies/slurm/articles/803739/
     - Краткое введение в etcd https://dotsandbrackets.com/quick-intro-etcd-ru/
     - What is etcd? https://www.armosec.io/glossary/etcd-kubernetes/
+    - Ломаем и чиним etcd-кластер https://habr.com/ru/companies/aenix/articles/544390/
 - Остальное
     - Вертикальное масштабирование подов https://cloud.ru/docs/kubernetes-evolution/ug/topics/concepts__vertical-pod-autoscaler.html#id1
