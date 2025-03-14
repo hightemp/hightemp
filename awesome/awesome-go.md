@@ -1185,6 +1185,7 @@
   - A Complete Guide to Logging in Go with Zerolog https://betterstack.com/community/guides/logging/zerolog/
   - Dockerizing a Golang API with MySQL and adding Docker Compose Support https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1
   - Разработчиками jepsen также был создан инструмент под названием maelstrom. Данный инструмент предназначен для изучения теоретических и практических аспектов распределенных систем. По указанной ссылке https://fly.io/dist-sys/1/ представлен комплексный учебный курс, посвященный распределенным системам и использованию maelstrom. 
+  - Каркас API на Golang https://habr.com/ru/articles/455302/
 
 ### StackOverflow
 
