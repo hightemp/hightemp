@@ -56,3 +56,4 @@
 ### Видео
 
 - https://zig.show/
+- ZIG | Ep1 | Introduction https://www.youtube.com/watch?v=muH6v7rpXaE
