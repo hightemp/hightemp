@@ -75,6 +75,7 @@
 
 - Rust-vpn - это простой проект на языке Rust, реализующий базовый VPN-туннель с функциями сервера и клиента, шифрованием AES-256-GCM, настройкой TUN-интерфейса и удобным интерфейсом командной строки. https://github.com/luishsr/rust-vpn
 - Проект flutter_rust_bridge v2 представляет собой генератор привязок между Flutter/Dart и Rust, обладающий богатым набором функций, но при этом простой и удобный в использовании, позволяющий легко интегрировать код на Rust в приложения Flutter. https://github.com/fzyzcjy/flutter_rust_bridge
+- Uutils coreutils - кроссплатформенная реимплементация GNU coreutils на языке Rust, предоставляющая утилиты командной строки для манипулирования и обработки файлов и текста с аналогичным функционалом. https://github.com/uutils/coreutils
 
 ### Полезные ссылки
 
@@ -629,6 +630,7 @@
 - **[Ryan Levick](https://www.youtube.com/@RyanLevicksVideos)**: Предлагает обучающие материалы и сессии программирования в прямом эфире с фокусом на Rust.
 - **[Jon Gjengset](https://www.youtube.com/@jonhoo)**: Представляет всесторонние и подробные объяснения программирования на Rust.
 - **[FireShip](https://www.youtube.com/@Fireship)**: Канал с обучающими материалами по программированию в целом.
+- MrTeamlead https://www.youtube.com/@MrTeamlead
 
 ### Видео
 
@@ -640,8 +642,6 @@
     - Exploring Rust's libp2p: A Live Learning Journey https://www.youtube.com/watch?v=u3uvd3-7g3c
     - Introduction to Rust Libp2p - Pierre Krieger https://www.youtube.com/watch?v=HqSXFlCwgMY
     - Report Back - libp2p Scaling for live broadcast https://www.youtube.com/watch?v=sc5D_yYFO3Y
-- Каналы
-  - MrTeamlead https://www.youtube.com/@MrTeamlead
 
 ### Статьи
 
