@@ -669,6 +669,7 @@
   - Остальное
 - Live Reload
   - Live Reloading in Rust with Cargo Watch https://dev.to/jorgecastro/hot-reload-in-rust-with-cargo-watch-5bon
+  - Live reloading in Rust https://dev.to/nickytonline/hot-reloading-in-rust-4i1c
 - Сеть
   - VPN
     - A SIMPLE VPN PROTOTYPE IN RUST https://ragoragino.dev/blog/softwareengineering/2022-03-27-rust-vpn/index.html
