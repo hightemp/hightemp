@@ -435,6 +435,8 @@
     - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
     - Working With Time in Golang https://www.bytesizego.com/blog/golang-time
     - Comprehensive Guide to Dates and Times in Go https://dev.to/bootdotdev/comprehensive-guide-to-dates-and-times-in-go-dpn
+  - Templates, Шаблоны
+    - GO templates https://golangforall.com/ru/post/templates.html
   - Error
     - Mastering Golang — Part 8: Error Handling https://blog.stackademic.com/mastering-golang-part-8-error-handling-4012a62ad0cb
     - Advanced error handling strategies in Go https://medium.com/@guilhermemls/advanced-error-handling-strategies-in-go-12ef4ee621d7
