@@ -1333,6 +1333,7 @@
 - https://www.hydrogen18.com/blog/tags.html#golang
 - https://manadart.github.io/
 - https://darkcoding.net/tags/go/
+- https://golangforall.com/ru/
 
 ### Подкасты
 
