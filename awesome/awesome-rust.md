@@ -667,6 +667,8 @@
     - Learn Unsafe Rust From My Mistakes https://geo-ant.github.io/blog/2023/unsafe-rust-exploration/
     - Why Rust's Unsafe Works https://jam1.re/blog/why-rusts-unsafe-works
   - Остальное
+- Live Reload
+  - Live Reloading in Rust with Cargo Watch https://dev.to/jorgecastro/hot-reload-in-rust-with-cargo-watch-5bon
 - Сеть
   - VPN
     - A SIMPLE VPN PROTOTYPE IN RUST https://ragoragino.dev/blog/softwareengineering/2022-03-27-rust-vpn/index.html
