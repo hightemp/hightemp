@@ -76,6 +76,7 @@
     - 10 самых удивительных археологических находок последних лет https://style.rbc.ru/impressions/5d0692129a79476a9e81eb6d
 - Остальное
     - КТО ПРИДУМАЛ СОЗВЕЗДИЯ? https://наука.рф/initiatives/nauchnye-detskie-ploshchadki/inzhenernye-nauki/kto-pridumal-sozvezdiya/
+    - Прикладная мифология: как и зачем люди придумали созвездия https://www.vokrugsveta.ru/vs/article/192/
     - Создана первая электронная карта археологических памятников России https://historyrussia.org/sobytiya/sozdana-pervaya-elektronnaya-karta-arkheologicheskikh-pamyatnikov-rossii.html
 
 ### Видео
