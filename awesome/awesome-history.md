@@ -74,9 +74,11 @@
     - Самые интересные археологические музеи‑заповедники РоссииБолгар, Фанагория и другие места — свидетели ушедших цивилизаций https://experience.tripster.ru/articles/samye-interesnye-arheologicheskie-muzei-zapovedniki-rossii/
     - Важнейшие археологические находки России: 2021–2022 https://cleverrussia.ru/vazhnejshie-arheologicheskie-nahodki-rossii-2021-2022/
     - 10 самых удивительных археологических находок последних лет https://style.rbc.ru/impressions/5d0692129a79476a9e81eb6d
-- Остальное
+- Астрономия
     - КТО ПРИДУМАЛ СОЗВЕЗДИЯ? https://наука.рф/initiatives/nauchnye-detskie-ploshchadki/inzhenernye-nauki/kto-pridumal-sozvezdiya/
     - Прикладная мифология: как и зачем люди придумали созвездия https://www.vokrugsveta.ru/vs/article/192/
+    - Каталог «Альмагеста» http://www.astromyth.ru/Catalogs/Almagest/
+- Остальное
     - Создана первая электронная карта археологических памятников России https://historyrussia.org/sobytiya/sozdana-pervaya-elektronnaya-karta-arkheologicheskikh-pamyatnikov-rossii.html
 
 ### Видео
