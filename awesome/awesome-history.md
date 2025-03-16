@@ -75,6 +75,7 @@
     - Важнейшие археологические находки России: 2021–2022 https://cleverrussia.ru/vazhnejshie-arheologicheskie-nahodki-rossii-2021-2022/
     - 10 самых удивительных археологических находок последних лет https://style.rbc.ru/impressions/5d0692129a79476a9e81eb6d
 - Остальное
+    - КТО ПРИДУМАЛ СОЗВЕЗДИЯ? https://наука.рф/initiatives/nauchnye-detskie-ploshchadki/inzhenernye-nauki/kto-pridumal-sozvezdiya/
     - Создана первая электронная карта археологических памятников России https://historyrussia.org/sobytiya/sozdana-pervaya-elektronnaya-karta-arkheologicheskikh-pamyatnikov-rossii.html
 
 ### Видео
