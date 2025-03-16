@@ -848,6 +848,8 @@
     - Кто такие LLM-агенты и что они умеют? https://habr.com/ru/companies/ods/articles/776478/
     - Заменяем хабраюзеров ИИ-агентами. Гайд по browser-use https://habr.com/ru/articles/875798/
     - AI Agent Crash Course—Part 1 https://blog.dailydoseofds.com/p/ai-agent-crash-coursepart-1
+- n8n
+    - Building an AI-Powered News Aggregator: My First n8n Workflow https://medium.com/@learningsomethingnew/building-an-ai-powered-news-aggregator-my-first-n8n-workflow-40cf3753a387
 - continued pre-training
     - Efficient Continual Pre-training for Building Domain Specific Large Language Models https://arxiv.org/abs/2311.08545
     - Continual Pretraining: Unlocking the Full Potential of Large Language Models https://www.goml.io/continual-pretraining-unlocking-the-full-potential-of-large-language-models/
@@ -868,8 +870,6 @@
 - Подборки
     - 50+ полезных ML и AI-сервисов для вебмастеров https://hostpro.ua/blog/50-useful-ai-services-for-webmasters/
     - 10+ Open-source AI Agents: Based on GitHub Stars https://research.aimultiple.com/open-source-ai-agents/
-- n8n
-    - Building an AI-Powered News Aggregator: My First n8n Workflow https://medium.com/@learningsomethingnew/building-an-ai-powered-news-aggregator-my-first-n8n-workflow-40cf3753a387
 - Остальное
     - Встречаем YandexGPT 5 — в Алисе, облаке и опенсорсе https://habr.com/ru/companies/yandex/articles/885218/
     - Клон ChatGPT в 3000 байтах на C, основанный на GPT-2 https://habr.com/ru/articles/879662/
