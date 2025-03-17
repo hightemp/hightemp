@@ -831,13 +831,13 @@
     - How Transformers Work https://towardsdatascience.com/transformers-141e32e69591
     - How Transformers Work: A Detailed Exploration of Transformer Architecture https://www.datacamp.com/tutorial/how-transformers-work?dc_referrer=https%3A%2F%2Fwww.google.ru%2F
     - Demystifying Transformer Architecture: The Magic of Positional Encoding https://medium.com/@waelrashwan/demystifying-transformer-architecture-the-magic-of-positional-encoding-5fe8154d4a64
-    - Explaining the need for positional encodings in Transformers https://medium.com/@ngiengkianyew/explaining-the-need-for-positional-encodings-in-transformers-db4209d4be10
 - embedding
     - 10 Top Alternatives to text-embedding-ada-002 https://www.pingcap.com/article/10-top-alternatives-to-text-embedding-ada-002/
 - Positional encoding
     - Positional Encoding https://medium.com/@hunter-j-phillips/positional-encoding-7a93db4109e6
     - Positional Encoding Explained: A Deep Dive into Transformer PE https://medium.com/thedeephub/positional-encoding-explained-a-deep-dive-into-transformer-pe-65cfe8cfe10b
     - Positional Encoding in Transformer https://medium.com/@sachinsoni600517/positional-encoding-in-transformer-2cc4ec703076
+    - Explaining the need for positional encodings in Transformers https://medium.com/@ngiengkianyew/explaining-the-need-for-positional-encodings-in-transformers-db4209d4be10
 - Списки для чтения
     - "Road to Sora" Paper Reading List https://ghost.oxen.ai/road-to-sora-reading-list/ 
     - Understanding Large Language Models -- A Transformative Reading List https://sebastianraschka.com/blog/2023/llm-reading-list.html
