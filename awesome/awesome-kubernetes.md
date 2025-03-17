@@ -22,6 +22,8 @@
 - Ingres
     - Ingress https://kubernetes.io/docs/concepts/services-networking/ingress/
     - What is Kubernetes Ingress? https://konghq.com/blog/learning-center/what-is-kubernetes-ingress
+    - Kubernetes 101: Ingress https://8grams.medium.com/kubernetes-101-ingress-d1d6bb5f82e1
+    - Understanding Ingress in Kubernetes: Key Concepts and Configuration https://medium.com/@subhampradhan966/understanding-ingress-in-kubernetes-key-concepts-and-configuration-6d5348060598
 - СonfigMaps
     - Управление конфигурацией приложений ConfigMap в Kubernetes https://www.itworkroom.com/configmap_k8s/
     - Kubernetes ConfigMaps и Secrets: как правильно управлять конфигурацией и секретами в кластере https://habr.com/ru/companies/beeline_cloud/articles/864222/
