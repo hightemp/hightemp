@@ -881,6 +881,7 @@
     - Эффективное моделирование длинных последовательностей с использованием структурированных моделей состояния (Аннотированный S4) https://srush.github.io/annotated-s4/
 - Научные публикации
     - arxiv
+        - Attention Is All You Need https://arxiv.org/pdf/1706.03762
         - What do tokens know about their characters and how do they know it? https://arxiv.org/abs/2206.02608
         - Knowledge of Pretrained Language Models on Surface Information of Tokens https://arxiv.org/pdf/2402.09808
     - Остальное
