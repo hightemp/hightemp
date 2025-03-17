@@ -619,6 +619,7 @@
     - Микрооптимизация кода на Go на примере простого веб-сервиса https://github.com/andrey-shalamov/go-pprof-cpu-heap-example
     - Performance Considerations and Optimization in Go https://withcodeexample.com/performance-optimization-go/
     - Профилирование и оптимизация программ на Go https://habr.com/ru/companies/badoo/articles/301990/
+    - Go Performance Boosters: The Top 5 Tips and Tricks You Need to Know https://blog.devtrovert.com/p/go-performance-boosters-the-top-5
 - Сигналы SIG**
   - How to Shutdown a Golang Application in a Cleaner way https://medium.com/@leonardo5621_66451/how-to-shutdown-a-golang-application-in-a-cleaner-way-e9307b0ea505
   - go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
