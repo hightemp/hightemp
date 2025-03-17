@@ -832,6 +832,8 @@
     - How Transformers Work: A Detailed Exploration of Transformer Architecture https://www.datacamp.com/tutorial/how-transformers-work?dc_referrer=https%3A%2F%2Fwww.google.ru%2F
 - embedding
     - 10 Top Alternatives to text-embedding-ada-002 https://www.pingcap.com/article/10-top-alternatives-to-text-embedding-ada-002/
+- Positional encoding
+    - Positional Encoding https://medium.com/@hunter-j-phillips/positional-encoding-7a93db4109e6
 - Списки для чтения
     - "Road to Sora" Paper Reading List https://ghost.oxen.ai/road-to-sora-reading-list/ 
     - Understanding Large Language Models -- A Transformative Reading List https://sebastianraschka.com/blog/2023/llm-reading-list.html
