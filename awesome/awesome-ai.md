@@ -838,14 +838,6 @@
     - "Road to Sora" Paper Reading List https://ghost.oxen.ai/road-to-sora-reading-list/ 
     - Understanding Large Language Models -- A Transformative Reading List https://sebastianraschka.com/blog/2023/llm-reading-list.html
     - Outline of Reading List https://www.advtopicsindeeplearning.com/reading-list.html
-- Научные публикации
-    - arxiv
-        - What do tokens know about their characters and how do they know it? https://arxiv.org/abs/2206.02608
-        - Knowledge of Pretrained Language Models on Surface Information of Tokens https://arxiv.org/pdf/2402.09808
-    - Остальное
-        - The Hidden Folk: Linguistic Properties Encoded in Multilingual Contextual Character Representations https://aclanthology.org/2023.cawl-1.2/
-        - Can large language models help augment English psycholinguistic datasets? https://link.springer.com/article/10.3758/s13428-024-02337-z
-        - Text2CAD генерация параметрических моделей САПР из текстовых подсказок. Подсказки могут варьироваться от абстрактных описаний форм до подробных параметрических инструкций. https://sadilkhan.github.io/text2cad-project/
 - Агенты
     - Кто такие LLM-агенты и что они умеют? https://habr.com/ru/companies/ods/articles/776478/
     - Заменяем хабраюзеров ИИ-агентами. Гайд по browser-use https://habr.com/ru/articles/875798/
@@ -887,6 +879,14 @@
     - Как мы создали GPT Researcher https://docs.tavily.com/blog/building-gpt-researcher
     - Postgres is all you need, even for vectors https://anyblockers.com/posts/postgres-is-all-you-need-even-for-vectors
     - Эффективное моделирование длинных последовательностей с использованием структурированных моделей состояния (Аннотированный S4) https://srush.github.io/annotated-s4/
+- Научные публикации
+    - arxiv
+        - What do tokens know about their characters and how do they know it? https://arxiv.org/abs/2206.02608
+        - Knowledge of Pretrained Language Models on Surface Information of Tokens https://arxiv.org/pdf/2402.09808
+    - Остальное
+        - The Hidden Folk: Linguistic Properties Encoded in Multilingual Contextual Character Representations https://aclanthology.org/2023.cawl-1.2/
+        - Can large language models help augment English psycholinguistic datasets? https://link.springer.com/article/10.3758/s13428-024-02337-z
+        - Text2CAD генерация параметрических моделей САПР из текстовых подсказок. Подсказки могут варьироваться от абстрактных описаний форм до подробных параметрических инструкций. https://sadilkhan.github.io/text2cad-project/
 
 
 ### Книги
