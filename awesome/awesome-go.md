@@ -367,7 +367,7 @@
     - A Comprehensive Guide to Pointers in Go https://medium.com/@jamal.kaksouri/a-comprehensive-guide-to-pointers-in-go-4acc58eb1f4d
     - Are Pointers in Go Faster Than Values? https://blog.boot.dev/golang/pointers-faster-than-values/
     - Quick Tips: Pointer Optimizations in Go https://gopherguides.com/articles/golang-quick-tips-pointers
-  - Внутреннее устройство
+  - sync.Map
     - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
   - Каналы
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
@@ -379,6 +379,10 @@
     - Demystifying Golang Channels, Goroutines, and Optimal Concurrency https://levelup.gitconnected.com/golang-channels-goroutines-and-optimal-concurrency-demystifying-through-examples-a43ba6aee74f
     - Жизненный цикл потоков ОС в Golang https://habr.com/ru/companies/tbank/articles/868390/
     - Механика горутин и каналов в Golang: разбор с примерами https://habr.com/ru/articles/881014/
+  - Scheduler, Планировщик
+    - Go Concurrency Series: Deep Dive into Go Scheduler(I) https://pratikpandey.substack.com/p/go-concurrency-series-deep-dive-into
+    - Go Concurrency Series: Deep Dive into Go Scheduler(II) https://pratikpandey.substack.com/p/go-concurrency-series-deep-dive-into-1a0
+    - Go Concurrency Series: Deep Dive into Go Scheduler(III) https://pratikpandey.substack.com/p/go-concurrency-series-deep-dive-into-dee
   - Linked lists, Связанные списки
     - Linked Lists in Go https://dev.to/jpoly1219/linked-lists-in-go-3g63
     - Understanding Linked Lists with Go https://rkulla.blogspot.com/2018/03/understanding-linked-lists-with-go.html
