@@ -20,6 +20,7 @@
     - Установка и настройка кластера Kubernetes на Ubuntu Server https://www.dmosk.ru/instruktions.php?object=kubernetes-ubuntu
     - Понимание и контроль сети в Kubernetes: Руководство для новичков https://medium.com/@anny.nov41/понимание-и-контроль-сети-в-kubernetes-руководство-для-новичков-674e66e85071
 - Ingres
+    - Ingress https://kubernetes.io/docs/concepts/services-networking/ingress/
     - What is Kubernetes Ingress? https://konghq.com/blog/learning-center/what-is-kubernetes-ingress
 - СonfigMaps
     - Управление конфигурацией приложений ConfigMap в Kubernetes https://www.itworkroom.com/configmap_k8s/
