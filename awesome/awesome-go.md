@@ -815,6 +815,7 @@
 - Фреймворки
   - GoFr
     - GoFr’s Plug-and-Play Model: Simplifying Database Interactions in Go https://medium.com/@mundhraumang.02/gofrs-plug-and-play-model-simplifying-database-interactions-in-go-8b18ac3294bf
+    - Is Switching from Gin to GoFr in 2025 Worth It? https://blog.stackademic.com/is-switching-from-gin-to-gofr-in-2025-worth-it-0f0a90d3b177
   - Fiber
     - Остальное
       - HTTP-серверы на Fiber в Golang https://habr.com/ru/companies/otus/articles/841194/
