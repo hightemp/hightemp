@@ -835,6 +835,7 @@
 - Positional encoding
     - Positional Encoding https://medium.com/@hunter-j-phillips/positional-encoding-7a93db4109e6
     - Positional Encoding Explained: A Deep Dive into Transformer PE https://medium.com/thedeephub/positional-encoding-explained-a-deep-dive-into-transformer-pe-65cfe8cfe10b
+    - Positional Encoding in Transformer https://medium.com/@sachinsoni600517/positional-encoding-in-transformer-2cc4ec703076
 - Списки для чтения
     - "Road to Sora" Paper Reading List https://ghost.oxen.ai/road-to-sora-reading-list/ 
     - Understanding Large Language Models -- A Transformative Reading List https://sebastianraschka.com/blog/2023/llm-reading-list.html
