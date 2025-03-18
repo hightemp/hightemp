@@ -519,6 +519,7 @@
       - Unit Test in Go: Best Practices for Easier Testing https://medium.com/@danarcahyadi21/unit-test-in-go-best-practices-for-easier-testing-79d194fe9a54
     - Table Driven Testing
       - A Deep Dive into Table-Driven Testing in Golang https://substack.com/home/post/p-151441510
+    - CLI
     - Testify
       - Основное
         - Step up Your Go App Testing Game With the Testify Framework https://semaphore.io/blog/testify-go
