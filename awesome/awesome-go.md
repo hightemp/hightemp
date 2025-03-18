@@ -516,10 +516,12 @@
       - Go в примерах: Тестирование (Testing) https://gobyexample.com.ru/testing
       - Go Testing? All You Need to Know Here https://blog.devtrovert.com/p/go-testing-all-you-need-to-know-here
     - Testify
-      - Step up Your Go App Testing Game With the Testify Framework https://semaphore.io/blog/testify-go
-      - Using the Testify toolkit https://www.jetbrains.com/help/go/using-the-testify-toolkit.html
-      - Top Go Modules: Writing Unit Tests with Testify https://jfrog.com/blog/top-go-modules-writing-unit-tests-with-testify/
-      - Mocks in Go tests with Testify Mock https://dev.to/salesforceeng/mocks-in-go-tests-with-testify-mock-6pd
+      - Основное
+        - Step up Your Go App Testing Game With the Testify Framework https://semaphore.io/blog/testify-go
+        - Using the Testify toolkit https://www.jetbrains.com/help/go/using-the-testify-toolkit.html
+        - Top Go Modules: Writing Unit Tests with Testify https://jfrog.com/blog/top-go-modules-writing-unit-tests-with-testify/
+      - Mock
+        - How I Do Test External Service with Testify Mock https://mgufrone.medium.com/how-i-do-test-external-service-with-testify-mock-66ff8a0dab64
     - GoConvey
     - Ginkgo
     - Httpexpect
