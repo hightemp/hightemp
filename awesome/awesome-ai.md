@@ -596,9 +596,10 @@
 - Spellbox: Code & problem solving assistant
     - https://marketplace.visualstudio.com/items?itemName=Spellbox.spellbox
 
-### collab
+### Google colab
 
 - Файнтюним LLaMa 3.1 8B бесплатно в Google Collab https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing
+- "Практический курс по глубокому обучению (Deep Learning) на ноутбуках Google Colab" — бесплатный онлайн сборник ресурсов, включающий 20 глав с теоретическими основами, примерами кода, вопросами для повторения и практическими задачами по реализации методов глубокого обучения, ориентированный на новичков и рекомендующий ознакомиться с сопутствующей книгой, https://course.fast.ai/Resources/book.html
 
 ### Токенизаторы
 
