@@ -507,7 +507,7 @@
     - Бенчмарки в Go https://habr.com/ru/articles/268585/
     - [Golang]Эталонный тест производительности https://under-sky-web.ru/post/golangetalonnyiy_test_proizvoditelnosti
     - Benchmark — тесты в Go https://habr.com/ru/articles/875476/
-    - How Go Benchmark Actually Works https://substack.com/home/post/p-138797261?utm_campaign=post&utm_medium=web
+    - How Go Benchmark Actually Works https://substack.com/home/post/p-138797261
   - Тестирование
     - Основное
       - Основы тестирования Go: простые тесты, testify и визуализация покрытия https://habr.com/ru/companies/otus/articles/739468/
@@ -515,6 +515,8 @@
       - Тестирование исполняемого кода Go https://habr.com/ru/articles/728402/
       - Go в примерах: Тестирование (Testing) https://gobyexample.com.ru/testing
       - Go Testing? All You Need to Know Here https://blog.devtrovert.com/p/go-testing-all-you-need-to-know-here
+    - Table Driven Testing
+      - A Deep Dive into Table-Driven Testing in Golang https://substack.com/home/post/p-151441510
     - Testify
       - Основное
         - Step up Your Go App Testing Game With the Testify Framework https://semaphore.io/blog/testify-go
