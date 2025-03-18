@@ -517,6 +517,7 @@
       - Go Testing? All You Need to Know Here https://blog.devtrovert.com/p/go-testing-all-you-need-to-know-here
     - Testify
       - Step up Your Go App Testing Game With the Testify Framework https://semaphore.io/blog/testify-go
+      - Using the Testify toolkit https://www.jetbrains.com/help/go/using-the-testify-toolkit.html
     - GoConvey
     - Ginkgo
     - Httpexpect
