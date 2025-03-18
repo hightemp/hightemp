@@ -433,6 +433,10 @@
 - https://github.com/snakers4/silero-models https://huggingface.co/spaces/NeuroSenko/tts-silero
 - Новая нейросеть MARS5 озвучит текст любым голосом, обучившись на вашем референсе https://camb.ai/ https://github.com/Camb-ai/MARS5-TTS
 
+### Клонирование голоса
+
+- Audio Toolkit - бесплатный универсальный инструмент для записи и преобразования аудио, обработки речи и видео, включающий функции скачивания видео с YouTube, клонирования голоса, распознавания речи, преобразования текста в речь и другие. https://github.com/abus-aikorea/voice-pro
+
 ### Генерация видео
 
 - https://www.hedra.com/
