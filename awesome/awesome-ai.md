@@ -737,6 +737,7 @@
 - Это набор лекций, которые покрывают такие прикладные темы как RAG (https://t.me/ai_newz/2566), файн-тюнинг, промпт-инжиниринг, оценка качества моделей и прочее. Курс уникальный, потому что лекции ведут 25+ разных опытных чуваков из индустрии, которые являются экспертами по соответсвующим темам. Там ребята из Pytorch (Meta), Anthropic, Mistral, Fireworks-ai и других компаний. https://parlance-labs.com/education/
 - Уроки, как писать промты к генераторам изображений. https://imageprompt.org/ru/tutorials
 - Hugging Face выпустил курс по созданию ИИ-агентов, первая часть которого доступна на YouTube и переведена на русском языке на платформе Teletype. (https://www.youtube.com/live/iLVyYDbdSmM, https://huggingface.co/learn/agents-course/unit1/introduction, https://teletype.in/@prompt_design/agents-course)
+- подборка обучающих курсов по ИИ от Петра Скальски с полным описанием популярных языковых моделей и нейронных сетей. https://github.com/SkalskiP/courses
 
 ### Учебники
 
