@@ -131,6 +131,7 @@
 - https://openrouter.ai/
 - https://groq.com/
 - https://inference.cerebras.ai/
+- Mercury Coder - первая dLLM-модель, работающая на основе диффузии, предоставляющая ответы в разы быстрее обычных LLM-моделей за счёт генерации всех токенов сразу, а не поочередно, и последующего их расположения в правильном порядке. https://chat.inceptionlabs.ai/
 - https://openchat.team/
 - http://walles.ai/
 - https://lambda.chat/chatui/
