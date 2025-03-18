@@ -863,6 +863,8 @@
     - Кто такие LLM-агенты и что они умеют? https://habr.com/ru/companies/ods/articles/776478/
     - Заменяем хабраюзеров ИИ-агентами. Гайд по browser-use https://habr.com/ru/articles/875798/
     - AI Agent Crash Course—Part 1 https://blog.dailydoseofds.com/p/ai-agent-crash-coursepart-1
+- Автоматизация
+    - Automating the Search for Artificial Life with Foundation Models https://sakana.ai/asal/
 - n8n
     - Building an AI-Powered News Aggregator: My First n8n Workflow https://medium.com/@learningsomethingnew/building-an-ai-powered-news-aggregator-my-first-n8n-workflow-40cf3753a387
 - continued pre-training
