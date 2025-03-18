@@ -953,6 +953,7 @@
 - Книга "Ultra-Scale Playbook" от Huggingface - всеобъемлющее руководство по распределённой тренировке сверхмасштабных моделей искусственного интеллекта, содержащее практические советы по выбору и оптимизации конфигурации обучения, подробное описание различных видов параллелизма, их преимущества и недостатки, а также эффективные методы ускорения и оптимизации использования памяти, основанные на более чем 4000 реальных экспериментов с использованием до 512 GPU. https://huggingface.co/spaces/nanotron/ultrascale-playbook
 - LLM Engineer's Handbook by Paul Iusztin, Maxime Labonne
 - AI Engineering by Chip Huyen
+- "Библия Reinforcement Learning" от Ричарда Саттона - второе дополненное издание, которое служит фундаментом для понимания принципов работы современных ИИ-систем, таких как ChatGPT, AlphaGo, AlphaStar, MuZero, OpenAI Five и др. https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
 
 ### Видео
 
