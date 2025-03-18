@@ -130,6 +130,7 @@
 - https://www.hailuo.ai/
 - https://openrouter.ai/
 - https://groq.com/
+- https://inference.cerebras.ai/
 - https://openchat.team/
 - http://walles.ai/
 - https://lambda.chat/chatui/
