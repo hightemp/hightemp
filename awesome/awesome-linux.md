@@ -32,6 +32,12 @@
 - tree
     - https://github.com/solidiquis/erdtree
 
+### Репозитории
+
+### Гайды
+
+- About A comprehensive guide for Linux Network (Socket) programming https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming
+
 ### Книги, Wiki
 
 - https://bottomupcs.com/index.html
