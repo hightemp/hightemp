@@ -27,6 +27,7 @@
 - Основное
   - Обработка запросов в Yii 2.x https://www.webapplex.ru/obrabotka-zaprosov-v-yii-2.x
   - Exploring The Power Of Yii Framework https://medium.com/@swarajns29/exploring-the-power-of-yii-framework-aa201420eb25
+  - The Ultimate Guide to YII PHP Framework https://naturalgroup.medium.com/the-ultimate-guide-to-yii-php-framework-8f7482793a94
 - RBAC
 - Тестирование, Testing
   - Debugging and Testing in Yii Framework: Ensuring High-Quality Code https://medium.com/@unlockliveitlimited/debugging-and-testing-in-yii-framework-ensuring-high-quality-code-b5cc79581cd4
