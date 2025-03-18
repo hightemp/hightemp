@@ -760,7 +760,11 @@
 - ODS ML System Design - курс российского сообщества открытых данных, предоставляющий комплексный путь изучения проектирования систем машинного обучения от концепций до развертывания в продукционной среде, включающий лекции от ведущих отечественных специалистов по машинному обучению. https://ods.ai/tracks/ml-system-design-23
 - видеоматериал, разъясняющий основы системного дизайна, сопровождаемый лекцией и тремя тренировочными интервью со студентами от Валерия Бабушкина. https://www.youtube.com/watch?v=KSn7PiIwtT4, https://www.youtube.com/watch?v=VPg2Uu1MYgI, https://www.youtube.com/watch?v=WKYPQtqE-m0, https://www.youtube.com/watch?v=3X-TAuWdIAc
 
-### Телеграм каналы
+### Телеграм папки, Telegram folders
+
+- https://t.me/addlist/8RYkmKVdCbg0ZGUy
+
+### Телеграм каналы, Telegram channels
 
 - https://t.me/denissexy
 - https://t.me/ai_newz
