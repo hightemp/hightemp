@@ -29,6 +29,8 @@
   - Exploring The Power Of Yii Framework https://medium.com/@swarajns29/exploring-the-power-of-yii-framework-aa201420eb25
   - The Ultimate Guide to YII PHP Framework https://naturalgroup.medium.com/the-ultimate-guide-to-yii-php-framework-8f7482793a94
 - RBAC
+- SEO
+  - Yii Seo — The Ultimate Guide https://medium.com/@maillysandhu/yii-seo-the-ultimate-guide-d6a2f45bba3e
 - Тестирование, Testing
   - Основное
     - Debugging and Testing in Yii Framework: Ensuring High-Quality Code https://medium.com/@unlockliveitlimited/debugging-and-testing-in-yii-framework-ensuring-high-quality-code-b5cc79581cd4
