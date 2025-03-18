@@ -91,6 +91,7 @@
     - Волновая теория Эллиотта https://info.exmo.me/ru/obuchenie/volnovaya-teoriya-elliota/
     - Волновая теория Эллиота: основы и применение на практике https://alfaforex.ru/faq/instrumenty-ta/osnovnye-polozheniya-teorii-voln-elliota/
 - Уровни Фибоначчи
+    - Что такое Уровни Фибоначчи? Как торговать с помощью индикатора Фибоначчи? https://www.litefinance.org/ru/blog/for-beginners/luchshie-torgovye-indikatory-foreks/cto-takoe-urovni-fibonacci/
 - Платежные системы
     - Электронные платежные системы в России https://www.tadviser.ru/index.php/Статья:Электронные_платежные_системы_в_России
     - https://marketing-tech.ru/online-services_tags/payment-services/
