@@ -1376,6 +1376,7 @@
 - https://darkcoding.net/tags/go/
 - https://golangforall.com/ru/
 - https://bitfieldconsulting.com/posts/
+- https://tillitsdone.com/blog_category/golang/
 
 ### Подкасты
 
