@@ -522,6 +522,7 @@
         - Top Go Modules: Writing Unit Tests with Testify https://jfrog.com/blog/top-go-modules-writing-unit-tests-with-testify/
       - Mock
         - How I Do Test External Service with Testify Mock https://mgufrone.medium.com/how-i-do-test-external-service-with-testify-mock-66ff8a0dab64
+        - Mocks in Go tests with Testify Mock https://dev.to/salesforceeng/mocks-in-go-tests-with-testify-mock-6pd
     - GoConvey
     - Ginkgo
     - Httpexpect
