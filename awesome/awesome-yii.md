@@ -26,6 +26,7 @@
 
 - Основное
   - Обработка запросов в Yii 2.x https://www.webapplex.ru/obrabotka-zaprosov-v-yii-2.x
+  - Exploring The Power Of Yii Framework https://medium.com/@swarajns29/exploring-the-power-of-yii-framework-aa201420eb25
 - Примеры приложений
   - Create a Cross-Platform REST API in Yii2 https://www.cloudways.com/blog/rest-api-yii2/
   - Getting Started with Yii2: A Step-by-Step Guide to Building Your First Application https://medium.com/@imvinojanv/getting-started-with-yii2-a-step-by-step-guide-to-building-your-first-application-78a12a8e859a
