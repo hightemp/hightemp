@@ -188,6 +188,80 @@
   - Burp Suite: швейцарский армейский нож для тестирования веб-приложений https://habr.com/ru/articles/328382/
   - Attacking APIs using JSON Injection https://danaepp.com/attacking-apis-using-json-injection
   - Разбор HackTheBox — MonitorsTwo (Easy) https://seq.team/blog/writeup-hackthebox-monitorstwo/
+- Active Directory
+  - Объемный и полностью бесплатный цикл статей о пентесте Active Directory, начиная с самых азов. В любых компаниях эта служба каталогов считается базой, а ее знание открывает путь к успешной компрометации.
+    - Introduction (https://hacklido.com/blog/862-pentesting-active-directory-complete-guide-part-1#1-Introduc)
+    - Trees and Forests / Components
+      - Domain Controller (https://hacklido.com/blog/862-pentesting-active-directory-complete-guide-part-1#1-Domain-C)
+      - Active Directory Data Store (https://hacklido.com/blog/862-pentesting-active-directory-complete-guide-part-1#1-Active-D)
+      - Logical Active Directory Components (https://hacklido.com/blog/862-pentesting-active-directory-complete-guide-part-1#1-Logical-)
+      - Domain (https://hacklido.com/blog/862-pentesting-active-directory-complete-guide-part-1#1-Domain-)
+      - Trees (https://hacklido.com/blog/862-pentesting-active-directory-complete-guide-part-1#1-Trees-)
+      - Forest (https://hacklido.com/blog/862-pentesting-active-directory-complete-guide-part-1#1-Forest-)
+      - Organizational Units (https://hacklido.com/blog/862-pentesting-active-directory-complete-guide-part-1#1-Organiza)
+      - Trusts (https://hacklido.com/blog/862-pentesting-active-directory-complete-guide-part-1#1-Trusts-)
+    - Authentication
+      - Kerberos Protocol (https://hacklido.com/blog/863-pentesting-active-directory-complete-guide-part-2#1-Kerberos)
+      - Lightweight Directory Access Protocol (https://hacklido.com/blog/863-pentesting-active-directory-complete-guide-part-2#1-Lightwei)
+      - LAN Manager (LM) Hash (https://hacklido.com/blog/863-pentesting-active-directory-complete-guide-part-2#1-LAN-Mana)
+      - NT LAN Manager (NTLM) Hash (https://hacklido.com/blog/863-pentesting-active-directory-complete-guide-part-2#1-NT-LAN-M)
+      - NT LAN Manager version 1 (https://hacklido.com/blog/863-pentesting-active-directory-complete-guide-part-2#1-NT-LAN-M)
+      - NT LAN Manager version 2 (NTLMv2) (https://hacklido.com/blog/863-pentesting-active-directory-complete-guide-part-2#1-NT-LAN-M)
+      - Exploit KRBTGT account - The Golden Ticket attack (https://hacklido.com/blog/863-pentesting-active-directory-complete-guide-part-2#1-Exploit-)
+      - Local accounts (https://hacklido.com/blog/863-pentesting-active-directory-complete-guide-part-2#1-Local-ac)
+    - Enumeration
+      - Finding a Domain Controller (https://hacklido.com/blog/864-pentesting-active-directory-complete-guide-part-3#1-Finding-)
+      - Enumerating File Shares (https://hacklido.com/blog/864-pentesting-active-directory-complete-guide-part-3#1-Enumerat)
+      - PowerView Recon (https://hacklido.com/blog/864-pentesting-active-directory-complete-guide-part-3#1-PowerVie)
+    - Domain Enumeration
+      - Using PowerView (https://hacklido.com/blog/864-pentesting-active-directory-complete-guide-part-3#1-Using-Po)
+      - Using AD Module (https://hacklido.com/blog/864-pentesting-active-directory-complete-guide-part-3#1-Using-AD)
+      - Using BloodHound (https://hacklido.com/blog/864-pentesting-active-directory-complete-guide-part-3#1-Using-Bl)
+      - Using Adalanche (https://hacklido.com/blog/864-pentesting-active-directory-complete-guide-part-3#1-Using-Ad)
+      - Useful Enumeration Tools (https://hacklido.com/blog/864-pentesting-active-directory-complete-guide-part-3#1-Useful-E)
+    - Hashes
+      - Responder (https://hacklido.com/blog/865-pentesting-active-directory-complete-guide-part-4#1-Responde)
+      - Cracking NTLMv2 hash from LLMNR Poisoning (https://hacklido.com/blog/865-pentesting-active-directory-complete-guide-part-4#1-Cracking)
+      - Connect the shell with netcat (https://hacklido.com/blog/865-pentesting-active-directory-complete-guide-part-4#1-Connect-)
+      - Practical Example: Using Kali & Responder.py (https://hacklido.com/blog/865-pentesting-active-directory-complete-guide-part-4#1-Practica)
+    - Lateral Movement
+      - PowerShell Remoting (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-PowerShe)
+      - Remote Code Execution with PS Credentials (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Remote-C)
+      - Import a PowerShell Module and Execute its Functions Remotely (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Import-a)
+      - Executing Remote Stateful commands (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Executin)
+      - Mimikatz (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Mimikatz)
+      - Remote Desktop Protocol (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Remote-D)
+      - URL File Attacks (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-URL-File)
+      - Useful Tools (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Useful-T)
+    - Domain Privilege Escalation
+      - Kerberoast (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Kerberoa)
+      - ASREPRoast (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-ASREPRoa)
+      - Password Spray Attack (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Password)
+      - Force Set SPN (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Force-Se)
+      - Abusing Shadow Copies (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Abusing-)
+      - List and Decrypt Stored Credentials using Mimikatz (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-List-and)
+      - Unconstrained Delegation (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Unconstr)
+      - Constrained Delegation (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Constrai)
+      - Resource Based Constrained Delegation (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Resource)
+      - Abusing Active Directory-Integraded DNS (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Abusing-)
+      - Abusing Backup Operators Group (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Abusing-)
+      - Abusing Exchange (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Abusing-)
+      - Exploiting SharePoint (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Exploiti)
+      - Zerologon (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Zerologo)
+      - PrintNightmare (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-PrintNig)
+      - Active Directory Certificate Services (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-Active-D)
+      - No PAC (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5#1-No-PAC-)
+    - Domain Persistence
+      - Golden Ticket Attack (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-Golden-T)
+      - DCsync Attack (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-DCsync-A)
+      - Silver Ticket Attack (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-Silver-T)
+      - Skeleton Key Attack (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-Skeleton)
+      - DSRM Abuse (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-DSRM-Abu)
+      - Custom SSP (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-Custom-S)
+    - Cross Forest Attacks
+      - Trust Tickets (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-Trust-Ti)
+      - Abuse MSSQL Servers (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-Abuse-MS)
+      - Breaking Forest Trusts (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-Breaking)
 
 Вот список классов уязвимостей, включающий IDOR, SQL-инъекции, XSS и другие:
 
