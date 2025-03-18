@@ -520,6 +520,7 @@
     - Table Driven Testing
       - A Deep Dive into Table-Driven Testing in Golang https://substack.com/home/post/p-151441510
     - CLI
+      - Testing CLI tools in Go https://bitfieldconsulting.com/posts/cli-testing
     - Testify
       - Основное
         - Step up Your Go App Testing Game With the Testify Framework https://semaphore.io/blog/testify-go
