@@ -1372,6 +1372,7 @@
 - https://manadart.github.io/
 - https://darkcoding.net/tags/go/
 - https://golangforall.com/ru/
+- https://bitfieldconsulting.com/posts/
 
 ### Подкасты
 
