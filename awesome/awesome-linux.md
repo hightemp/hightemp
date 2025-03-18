@@ -44,6 +44,7 @@
 - The easiest way to run a Linux distribution or application on an Android device. With UserLAnd the power to do or create whatever you want will never be out of reach. https://userland.tech/
 - Китай
     - Группа по интересам West Post Linux Бесплатный Открытый Доступ https://www.xiyoulinux.com/
+- ExplainShell — это онлайн-сервис для анализа и упрощения понимания команд командной строки в Linux, в котором пользователь вводит команду, а сайт разбирает ее, предоставляя подробное объяснение каждого аргумента и опции на основании данных из руководств.https://www.explainshell.com/
 
 ### Курсы
 
