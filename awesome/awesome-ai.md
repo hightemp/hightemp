@@ -657,6 +657,7 @@
 - Otter.ai (https://chromewebstore.google.com/detail/otterai-record-and-transc/bnmojkbbkkonlmlfgejehefjldooiedp) — расширение для транскрибирования, автоматически интегрируется в Zoom созваны и Google Meet, расшифровывая тем самым в режиме реального времени. Предоставляет не только текстовую расшифровку, но и резюме. Можно отредактировать расшифровку для более удобного чтения где несколько действующих лиц, делая различия между говорящими.
 - Copyleaks (https://chromewebstore.google.com/detail/ai-content-detector-copyl/gplcmncpklkdjiccbknjjkoidpgkcakd) - расширение обнаруживает контент, созданный с помощью ИИ, чтобы гарантировать оригинальность и избежать некачественного текста.
 - DeepL (https://chromewebstore.google.com/detail/deepl-%D0%B8%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA-%D0%B8-%D1%80%D0%B5%D0%B4/cofdbpoegempjloogbagkncekinflcnj?utm_source=deeplcom-en&utm_medium=desktop-web&utm_campaign=pageID1406-d-first-button) - ИИ-переводчик и редактор. Можно переводить  во время чтения и при вводе текста с помощью DeepL
+- Voccabi — вебсайт и расширение для браузера Chrome, позволяющее изучать иностранные языки посредством просмотра мультимедийного контента благодаря автоматическому созданию карточек с новыми словами из субтитров. http://vocabbi.com/
 
 ### Интересные статьи и работы
 
