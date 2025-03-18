@@ -33,6 +33,9 @@
   - Yii Seo — The Ultimate Guide https://medium.com/@maillysandhu/yii-seo-the-ultimate-guide-d6a2f45bba3e
 - Работа с базой данных, SQL
   - How to perform sql expression on Yii Gridview https://medium.com/@jacksontong/how-to-perform-sql-expression-on-yii-gridview-6f75fc6d9a38
+- Платежные системы
+  - Paypal
+    - Yii Framework-PayPal Integration in Web application and Testing With PayPal Sandbox Account Credentials https://medium.com/tensult/yii-framework-paypal-integration-in-web-application-and-testing-with-paypal-sandbox-account-4eea4e813404
 - Тестирование, Testing
   - Основное
     - Debugging and Testing in Yii Framework: Ensuring High-Quality Code https://medium.com/@unlockliveitlimited/debugging-and-testing-in-yii-framework-ensuring-high-quality-code-b5cc79581cd4
