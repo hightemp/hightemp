@@ -34,6 +34,8 @@
 - Примеры приложений
   - Create a Cross-Platform REST API in Yii2 https://www.cloudways.com/blog/rest-api-yii2/
   - Getting Started with Yii2: A Step-by-Step Guide to Building Your First Application https://medium.com/@imvinojanv/getting-started-with-yii2-a-step-by-step-guide-to-building-your-first-application-78a12a8e859a
+- Сервисы, Демоны
+  - Yii 2 manager for PHP start-stop-daemons , process(PID) of OS manager, up if down and force restart automatization, uptime 99.9%. Yii 2 console https://catcherholms.medium.com/manager-for-php-start-stop-daemons-process-pid-of-os-manager-5431f96db6fc
 - Остальное
   - Yii Development: Using Yii with Large scale websites and applications https://medium.com/nerd-for-tech/yii-development-using-yii-with-large-scale-websites-and-applications-20f5720813ae
   - Integrating Yii3 packages into WordPress https://glpzzz.dev/2024/03/03/integrating-yii3-packages-into-wordpress.html
