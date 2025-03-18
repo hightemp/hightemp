@@ -869,6 +869,7 @@
 - Подборки
     - 50+ полезных ML и AI-сервисов для вебмастеров https://hostpro.ua/blog/50-useful-ai-services-for-webmasters/
     - 10+ Open-source AI Agents: Based on GitHub Stars https://research.aimultiple.com/open-source-ai-agents/
+    - 4 Books to Deepen Your Understanding of LLMs: Theory & Engineering https://substack.com/home/post/p-159336911
 - Остальное
     - Встречаем YandexGPT 5 — в Алисе, облаке и опенсорсе https://habr.com/ru/companies/yandex/articles/885218/
     - Клон ChatGPT в 3000 байтах на C, основанный на GPT-2 https://habr.com/ru/articles/879662/
