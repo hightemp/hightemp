@@ -509,11 +509,19 @@
     - Benchmark — тесты в Go https://habr.com/ru/articles/875476/
     - How Go Benchmark Actually Works https://substack.com/home/post/p-138797261?utm_campaign=post&utm_medium=web
   - Тестирование
-    - Основы тестирования Go: простые тесты, testify и визуализация покрытия https://habr.com/ru/companies/otus/articles/739468/
-    - Самоучитель по Go для начинающих. Часть 16. Тестирование кода и его виды. Table-driven подход. Параллельные тесты https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-16-testirovanie-koda-i-ego-vidy-table-driven-podhod-parallelnye-testy-2024-09-03
-    - Тестирование исполняемого кода Go https://habr.com/ru/articles/728402/
-    - Go в примерах: Тестирование (Testing) https://gobyexample.com.ru/testing
-    - Go Testing? All You Need to Know Here https://blog.devtrovert.com/p/go-testing-all-you-need-to-know-here
+    - Основное
+      - Основы тестирования Go: простые тесты, testify и визуализация покрытия https://habr.com/ru/companies/otus/articles/739468/
+      - Самоучитель по Go для начинающих. Часть 16. Тестирование кода и его виды. Table-driven подход. Параллельные тесты https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-16-testirovanie-koda-i-ego-vidy-table-driven-podhod-parallelnye-testy-2024-09-03
+      - Тестирование исполняемого кода Go https://habr.com/ru/articles/728402/
+      - Go в примерах: Тестирование (Testing) https://gobyexample.com.ru/testing
+      - Go Testing? All You Need to Know Here https://blog.devtrovert.com/p/go-testing-all-you-need-to-know-here
+    - Testify
+    - GoConvey
+    - Ginkgo
+    - Httpexpect
+    - Gomega
+    - Go-cmdtest
+    - Остальное    
   - Swiss Table
     - SwissTable: A High-Performance Hash Table Implementation https://dev.to/huizhou92/swisstable-a-high-performance-hash-table-implementation-1knc
     - SwissMap: A smaller, faster Golang Hash Table https://www.dolthub.com/blog/2023-03-28-swiss-map/
