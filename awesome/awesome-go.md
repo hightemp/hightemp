@@ -516,6 +516,7 @@
       - Go в примерах: Тестирование (Testing) https://gobyexample.com.ru/testing
       - Go Testing? All You Need to Know Here https://blog.devtrovert.com/p/go-testing-all-you-need-to-know-here
     - Testify
+      - Step up Your Go App Testing Game With the Testify Framework https://semaphore.io/blog/testify-go
     - GoConvey
     - Ginkgo
     - Httpexpect
