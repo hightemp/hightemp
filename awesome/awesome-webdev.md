@@ -7,6 +7,10 @@
 - CuratedUIList - это список веб-сайтов, предлагающих бесплатные компоненты Tailwind CSS, организованные по типам (например, поля ввода, флажки), с возможностью просмотра компонента на сайте его источника. https://www.curateduilist.com/
 - Компоненты tailwind https://uipilot.dev/
 
+### Коллекци emoji
+
+- https://apps.timwhitlock.info/emoji/tables/unicode
+
 ### Сайты песочницы 
 
 - js, html, css
