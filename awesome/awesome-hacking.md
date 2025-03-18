@@ -263,6 +263,12 @@
       - Abuse MSSQL Servers (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-Abuse-MS)
       - Breaking Forest Trusts (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-Breaking)
 
+### Активация windows
+
+```
+irm https://get.activated.win | iex
+```
+
 Вот список классов уязвимостей, включающий IDOR, SQL-инъекции, XSS и другие:
 
 ### Уязвимости, связанные с веб-приложениями:
