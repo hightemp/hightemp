@@ -535,7 +535,8 @@
     - Httpexpect
     - Gomega
     - Go-cmdtest
-    - Остальное    
+    - Остальное
+      - Get Started Testing an API Built With Golang https://www.twilio.com/en-us/blog/get-started-testing-api-built-with-golang
   - Swiss Table
     - SwissTable: A High-Performance Hash Table Implementation https://dev.to/huizhou92/swisstable-a-high-performance-hash-table-implementation-1knc
     - SwissMap: A smaller, faster Golang Hash Table https://www.dolthub.com/blog/2023-03-28-swiss-map/
