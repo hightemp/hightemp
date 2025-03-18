@@ -89,6 +89,7 @@
     - Introduction to the Elliott Wave Theory https://fbs.com/analytics/guidebooks/intoduction-to-elliott-wave-analysis-230
     - Волновая теория Эллиотта. Понятие и применение на практике https://vc.ru/money/678423-volnovaya-teoriya-elliotta-ponyatie-i-primenenie-na-praktike
     - Волновая теория Эллиотта https://info.exmo.me/ru/obuchenie/volnovaya-teoriya-elliota/
+    - Волновая теория Эллиота: основы и применение на практике https://alfaforex.ru/faq/instrumenty-ta/osnovnye-polozheniya-teorii-voln-elliota/
 - Уровни Фибоначчи
 - Платежные системы
     - Электронные платежные системы в России https://www.tadviser.ru/index.php/Статья:Электронные_платежные_системы_в_России
