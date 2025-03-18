@@ -334,6 +334,7 @@
 - Writing A Compiler In Go https://compilerbook.com/
 - Go from the beginning https://github.com/softchris/golang-book/
 - Common Go Mistakes https://100go.co/
+- Learn Go with Tests https://quii.gitbook.io/learn-go-with-tests
 
 ### Статьи
 
