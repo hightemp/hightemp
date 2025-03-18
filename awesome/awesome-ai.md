@@ -410,6 +410,7 @@
 - https://play.google.com/store/apps/details?id=com.microsoft.designer
 - https://huggingface.co/spaces/Shitao/OmniGen
 - https://www.recraft.ai/
+- https://ideogram.ai/t/explore
 
 ### Анимация изображений
 
