@@ -425,11 +425,13 @@
 
 - https://elevenlabs.io/app/speech-to-text
 
-### Генерация аудио речи из текста
+### Генерация аудио речи из текста, TTS
 
 - https://www.text-to-speech.online/
 - https://ttsmp3.com/
 - Проект ebook2audiobook представляет собой нейронную сеть, которая позволяет преобразовывать любую книгу в аудиокнигу на русском языке с сохранением структуры глав и метаданных, делая процесс прослушивания книг более удобным и продуктивным. https://github.com/DrewThomasson/ebook2audiobook
+- https://github.com/snakers4/silero-models https://huggingface.co/spaces/NeuroSenko/tts-silero
+- Новая нейросеть MARS5 озвучит текст любым голосом, обучившись на вашем референсе https://camb.ai/ https://github.com/Camb-ai/MARS5-TTS
 
 ### Генерация видео
 
@@ -439,7 +441,6 @@
 
 - Сервисы
     - https://www.udio.com/
-- Новая нейросеть MARS5 озвучит текст любым голосом, обучившись на вашем референсе https://camb.ai/ https://github.com/Camb-ai/MARS5-TTS
 - Whisper WebGPU моментально распознает текст из аудио и видео и переведет на нужный язык https://huggingface.co/spaces/Xenova/whisper-webgpu https://github.com/xenova/transformers.js/tree/v3/examples/webgpu-whisper
 
 ### Генерация 3D-моделей 
@@ -489,9 +490,7 @@
 - Maybe's AI Art Detector — это модель, разработанная энтузиастом и выложенная в открытый доступ на портале Hugging Face. https://huggingface.co/spaces/umm-maybe/AI-image-detector
 - Hive AI Detector — инструмент разработан учеными и инженерами Hive. Они создали свою модель с нуля и обучили ее более чем на 1млн реальных фотографий. https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi
 
-### Преобразование текста в речь
 
-- https://github.com/snakers4/silero-models https://huggingface.co/spaces/NeuroSenko/tts-silero
 
 ### Перевод
 
