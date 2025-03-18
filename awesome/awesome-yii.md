@@ -47,5 +47,6 @@
 - Сервисы, Демоны
   - Yii 2 manager for PHP start-stop-daemons , process(PID) of OS manager, up if down and force restart automatization, uptime 99.9%. Yii 2 console https://catcherholms.medium.com/manager-for-php-start-stop-daemons-process-pid-of-os-manager-5431f96db6fc
 - Остальное
+  - What I learned hacking with Yii2 for a week https://medium.com/@azamuddin91/what-i-learned-hacking-with-yii2-for-a-week-e59867deb331
   - Yii Development: Using Yii with Large scale websites and applications https://medium.com/nerd-for-tech/yii-development-using-yii-with-large-scale-websites-and-applications-20f5720813ae
   - Integrating Yii3 packages into WordPress https://glpzzz.dev/2024/03/03/integrating-yii3-packages-into-wordpress.html
