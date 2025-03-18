@@ -45,6 +45,8 @@
     - Your brain on sugar: What the science actually says https://theconversation.com/your-brain-on-sugar-what-the-science-actually-says-126581
 - Флавоноиды
 - Полифенолы
+- Белки
+    - AP2A1
 - Биохимия 
     - Б. Преобразование сигнала G-белками https://www.drau.ru/article/523.html
     - Механизм действия G-белок-связанных рецепторов https://sportwiki.to/Рецепторы,_связанные_с_G-белками
