@@ -516,6 +516,7 @@
       - Go в примерах: Тестирование (Testing) https://gobyexample.com.ru/testing
       - Go Testing? All You Need to Know Here https://blog.devtrovert.com/p/go-testing-all-you-need-to-know-here
       - Finding Your Best Go Testing Framework https://medium.com/@dees3g/finding-your-best-go-testing-framework-5b5c6b299bd3
+      - Unit Test in Go: Best Practices for Easier Testing https://medium.com/@danarcahyadi21/unit-test-in-go-best-practices-for-easier-testing-79d194fe9a54
     - Table Driven Testing
       - A Deep Dive into Table-Driven Testing in Golang https://substack.com/home/post/p-151441510
     - Testify
