@@ -441,6 +441,9 @@
    - Blue-green deployment, Сине-зеленый деплой
       - Сине-зеленый деплой https://habr.com/ru/articles/309832/
       - Blue-green deployment, canary release: рецепт приготовления безрисковых релизов https://habr.com/ru/companies/abdigital/articles/668478/
+   - Канареечный деплой
+      - Простой и безопасный способ автоматизации канареечных деплоев с помощью Helm https://habr.com/ru/companies/itsumma/articles/468013/
+      - Как мы делаем канареечный деплой в PaaS https://habr.com/ru/companies/kuper/articles/813029/
 - BinStomp
 - UML
    - UML: обзор основных типов диаграмм, диаграмма Классов. Часть 1 https://habr.com/ru/articles/738428/
