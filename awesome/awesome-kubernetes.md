@@ -12,6 +12,8 @@
 - heml charts
     - Библиотека Bitnami для Kubernetes представляет собой набор популярных приложений, готовых к запуску в Kubernetes с помощью Helm-чартов, включающих проверенные контейнеры и инструменты для сканирования уязвимостей. https://github.com/bitnami/charts/
 
+### Гайды
+
 ### Книги
 
 - Книга: Лэнси В., Стронг Дж. "Kubernetes и сети. Многоуровневый подход"
@@ -33,6 +35,8 @@
     - Управление конфигурацией приложений ConfigMap в Kubernetes https://www.itworkroom.com/configmap_k8s/
     - Kubernetes ConfigMaps и Secrets: как правильно управлять конфигурацией и секретами в кластере https://habr.com/ru/companies/beeline_cloud/articles/864222/
     - K8s - ConfigMap, Secrets https://nixhub.ru/posts/k8s-configmap-basics/
+- minikube
+    - https://minikube.sigs.k8s.io/docs/
 - helm
     - Основное
     - chart
