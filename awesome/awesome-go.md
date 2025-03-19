@@ -618,7 +618,7 @@
 - Типы и структуры данных
   - Orded map
     - Ordered map на Go https://habr.com/ru/articles/882828/
-- Логирование
+- Логирование, Logging
   - Structured Logging In Go Using Standard Library - Slog https://programmingpercy.tech/blog/structured-logging-in-go-using-std-lib-slog/
   - Zap: Unlock the Full Potential of Logging in Go https://leapcell.medium.com/abstract-58af1d21d201
 - Валидация данных
