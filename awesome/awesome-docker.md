@@ -72,6 +72,8 @@
         - Using Docker images from scratch https://zawadidone.nl/using-docker-images-from-scratch/
         - Why Can't I Pull The Scratch Docker Image? https://mannes.tech/docker-scratch/
         - Non-privileged containers based on the scratch image https://medium.com/@lizrice/non-privileged-containers-based-on-the-scratch-image-a80105d6d341
+- Безопасность
+    - 10 самых распространенных проблем при линтинге Dockerfile'ов https://habr.com/ru/companies/flant/articles/787494/
 - Примеры готовых решений
     - nginx
         - Running Nginx official image as non root https://forums.docker.com/t/running-nginx-official-image-as-non-root/135759
