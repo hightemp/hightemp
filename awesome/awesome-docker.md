@@ -85,6 +85,7 @@
     - 10 самых распространенных проблем при линтинге Dockerfile'ов https://habr.com/ru/companies/flant/articles/787494/
     - Худшие из так называемых «лучших практик» для Docker https://habr.com/ru/companies/vk/articles/550138/
     - Способы и примеры внедрения утилит для проверки безопасности Docker https://habr.com/ru/companies/swordfish_security/articles/524490/
+    - Лучшие практики при написании безопасного Dockerfile https://habr.com/ru/companies/swordfish_security/articles/537280/
 - Примеры готовых решений
     - nginx
         - Running Nginx official image as non root https://forums.docker.com/t/running-nginx-official-image-as-non-root/135759
