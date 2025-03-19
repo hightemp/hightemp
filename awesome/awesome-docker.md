@@ -60,6 +60,7 @@
         - Building container images from scratch (with the scratch base image) https://medium.com/@m0v_3r/building-container-images-from-scratch-with-the-scratch-base-image-8ff56812124b
         - Using Docker images from scratch https://zawadidone.nl/using-docker-images-from-scratch/
         - Why Can't I Pull The Scratch Docker Image? https://mannes.tech/docker-scratch/
+        - Non-privileged containers based on the scratch image https://medium.com/@lizrice/non-privileged-containers-based-on-the-scratch-image-a80105d6d341
 - Примеры готовых решений
     - nginx
         - Running Nginx official image as non root https://forums.docker.com/t/running-nginx-official-image-as-non-root/135759
