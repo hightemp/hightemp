@@ -66,6 +66,7 @@
 - Images, Образы
     - Основное
         - 10 Docker Security Best Practices https://snyk.io/blog/10-docker-image-security-best-practices/
+        - 10 best practices to containerize Node.js web applications with Docker https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/
     - scratch
         - Building container images from scratch (with the scratch base image) https://medium.com/@m0v_3r/building-container-images-from-scratch-with-the-scratch-base-image-8ff56812124b
         - Using Docker images from scratch https://zawadidone.nl/using-docker-images-from-scratch/
