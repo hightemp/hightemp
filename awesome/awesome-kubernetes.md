@@ -7,6 +7,11 @@
 - https://awesome-architecture.com/devops/kubernetes/kubernetes/
 - https://github.com/run-x/awesome-kubernetes
 
+### Репозитории
+
+- heml charts
+    - Библиотека Bitnami для Kubernetes представляет собой набор популярных приложений, готовых к запуску в Kubernetes с помощью Helm-чартов, включающих проверенные контейнеры и инструменты для сканирования уязвимостей. https://github.com/bitnami/charts/
+
 ### Книги
 
 - Книга: Лэнси В., Стронг Дж. "Kubernetes и сети. Многоуровневый подход"
