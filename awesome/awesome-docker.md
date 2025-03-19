@@ -61,6 +61,8 @@
 - Масштаблирование, Scaling
     - Масштабирование сервисов https://javarush.com/quests/lectures/ru.javarush.docker.fullstack.lecture.level04.lecture07
 - Images, Образы
+    - Основное
+        - 10 Docker Security Best Practices https://snyk.io/blog/10-docker-image-security-best-practices/
     - scratch
         - Building container images from scratch (with the scratch base image) https://medium.com/@m0v_3r/building-container-images-from-scratch-with-the-scratch-base-image-8ff56812124b
         - Using Docker images from scratch https://zawadidone.nl/using-docker-images-from-scratch/
