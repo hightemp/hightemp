@@ -82,10 +82,13 @@
 - Лучшие практики
     - 50 years of accumulated technologies, 70+ best practices, and you need to figure it out all on your own https://pythonspeed.com/products/productionhandbook/
 - Безопасность
-    - 10 самых распространенных проблем при линтинге Dockerfile'ов https://habr.com/ru/companies/flant/articles/787494/
-    - Худшие из так называемых «лучших практик» для Docker https://habr.com/ru/companies/vk/articles/550138/
-    - Способы и примеры внедрения утилит для проверки безопасности Docker https://habr.com/ru/companies/swordfish_security/articles/524490/
-    - Лучшие практики при написании безопасного Dockerfile https://habr.com/ru/companies/swordfish_security/articles/537280/
+    - Основное
+        - 10 самых распространенных проблем при линтинге Dockerfile'ов https://habr.com/ru/companies/flant/articles/787494/
+        - Худшие из так называемых «лучших практик» для Docker https://habr.com/ru/companies/vk/articles/550138/
+        - Способы и примеры внедрения утилит для проверки безопасности Docker https://habr.com/ru/companies/swordfish_security/articles/524490/
+        - Лучшие практики при написании безопасного Dockerfile https://habr.com/ru/companies/swordfish_security/articles/537280/
+    - Trivy
+        - Безопасность контейнеров на новом уровне: Погружение в Trivy https://habr.com/ru/companies/securityvison/articles/837966/
 - Примеры готовых решений
     - nginx
         - Running Nginx official image as non root https://forums.docker.com/t/running-nginx-official-image-as-non-root/135759
