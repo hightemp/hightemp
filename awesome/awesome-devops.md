@@ -96,6 +96,8 @@
     - Внедряем DevSecOps в процесс разработки. Часть 1. Обзор инструментов, Pre-commit Checks https://habr.com/ru/companies/spectr/articles/724914/
     - Внедряем DevSecOps в процесс разработки. Часть 2. Обзор инструментов, Commit-time Checks https://habr.com/ru/companies/spectr/articles/817267/
     - Внедряем DevSecOps в процесс разработки. Часть 3. Этап Post-build Checks в DevSecOps, обзор инструментов https://habr.com/ru/companies/spectr/articles/817287/
+    - Внедряем DevSecOps в процесс разработки. Часть 4. Этап Test-time Checks, обзор инструментов https://habr.com/ru/companies/spectr/articles/836004/
+    - Внедряем DevSecOps в процесс разработки. Часть 5. Этап Deploy-time Checks, обзор инструментов https://habr.com/ru/companies/spectr/articles/837018/
 - Ceph — это свободная программная распределенная система хранения данных с открытым исходным кодом, которая предоставляет унифицированное решение для хранения объектов, блоков и файлов. Система спроектирована для обеспечения высокой масштабируемости (до уровня эксабайт), производительности и отказоустойчивости без единых точек отказа
     - Хранилище на базе Ceph: что нужно знать для эффективного использования https://www.rusonyx.ru/blog/post/hranilishche-na-baze-ceph/
 - Безопасность
