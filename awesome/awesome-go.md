@@ -600,6 +600,8 @@
 - vim, nvim
   - My NeoVim Go(lang) setup — As good as Intellj/Goland IDE https://medium.com/@suyash10581108/my-neovim-go-lang-setup-as-good-as-intellj-goland-ide-d48dd765f6de
   - Configure Neovim for Golang https://andrewcourter.substack.com/p/configure-neovim-for-golang
+- Structured concurrency
+  - Structured concurrency в языке Go https://habr.com/ru/companies/karuna/articles/816677/
 - CI-CD, cicd, деплой, выкладывание проекта
   - Kubernetes
     - Optimizing Golang Applications for Kubernetes: Best Practices for Reducing Server Load https://earthly.dev/blog/optimize-golang-for-kubernetes/
