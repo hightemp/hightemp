@@ -604,6 +604,7 @@
   - Kubernetes
     - Optimizing Golang Applications for Kubernetes: Best Practices for Reducing Server Load https://earthly.dev/blog/optimize-golang-for-kubernetes/
     - Разворачиваем Golang приложение в Kubernetes https://habr.com/ru/articles/656639/
+    - GO приложение в кластере k8s https://habr.com/ru/companies/karuna/articles/647797/
   - Gitlab
     - Как настроить деплой web-приложения на Go для Gitlab на VDS https://habr.com/ru/articles/421087/
   - Github
