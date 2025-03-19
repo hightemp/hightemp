@@ -72,6 +72,8 @@
         - Using Docker images from scratch https://zawadidone.nl/using-docker-images-from-scratch/
         - Why Can't I Pull The Scratch Docker Image? https://mannes.tech/docker-scratch/
         - Non-privileged containers based on the scratch image https://medium.com/@lizrice/non-privileged-containers-based-on-the-scratch-image-a80105d6d341
+- Лучшие практики
+    - 50 years of accumulated technologies, 70+ best practices, and you need to figure it out all on your own https://pythonspeed.com/products/productionhandbook/
 - Безопасность
     - 10 самых распространенных проблем при линтинге Dockerfile'ов https://habr.com/ru/companies/flant/articles/787494/
     - Худшие из так называемых «лучших практик» для Docker https://habr.com/ru/companies/vk/articles/550138/
