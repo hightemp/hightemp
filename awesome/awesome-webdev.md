@@ -443,6 +443,7 @@
       - Сине-зеленый деплой https://habr.com/ru/articles/309832/
       - Blue-green deployment, canary release: рецепт приготовления безрисковых релизов https://habr.com/ru/companies/abdigital/articles/668478/
    - Канареечный деплой
+      - Canary Release https://martinfowler.com/bliki/CanaryRelease.html
       - Простой и безопасный способ автоматизации канареечных деплоев с помощью Helm https://habr.com/ru/companies/itsumma/articles/468013/
       - Как мы делаем канареечный деплой в PaaS https://habr.com/ru/companies/kuper/articles/813029/
       - Canary Releases https://medium.com/epicntr/canary-releases-8c7ef772079b
