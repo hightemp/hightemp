@@ -5,6 +5,10 @@
 - https://github.com/docker/awesome-compose
 - https://gitpiper.com/resources/docker/awesomelists/n1trux-awesome-sysadmin
 
+### Репозитории
+
+- cnitch - это инструмент командной строки и фреймворк для мониторинга Docker-контейнеров, который выявляет процессы, запущенные с правами root-пользователя, что помогает обеспечить безопасность контейнеризованных приложений. https://github.com/nicholasjackson/cnitch
+
 ### Остальное
 
 - Windows in a Docker container. https://github.com/dockur/windows
