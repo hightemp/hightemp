@@ -440,6 +440,7 @@
    - Modern Open Source Messaging: Apache Kafka, RabbitMQ and NATS in Action https://seroter.com/2016/05/16/modern-open-source-messaging-apache-kafka-rabbitmq-and-nats-in-action/
 - Деплой
    - Blue-green deployment, Сине-зеленый деплой
+      - Blue Green Deployment https://martinfowler.com/bliki/BlueGreenDeployment.html
       - Сине-зеленый деплой https://habr.com/ru/articles/309832/
       - Blue-green deployment, canary release: рецепт приготовления безрисковых релизов https://habr.com/ru/companies/abdigital/articles/668478/
    - Канареечный деплой
