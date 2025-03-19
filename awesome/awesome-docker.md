@@ -83,6 +83,7 @@
         - Лучший аналог OpenServer Для Linux (Devilbox) https://seryibaran.github.io/posts/analog-openserver-dlya-linux-devilbox/
     - Остальное
 - Подборки
+    - Обзор топ-5 полезных утилит для Docker https://habr.com/ru/companies/first/articles/703708/
     - 5 Awesome Docker Tools To Make Your Life Easier https://dev.to/code42cate/5-awesome-docker-tools-to-make-your-life-easier-22kl
     - Docker Tips: Essential Tips and Tricks for Developers https://dev.to/pawanimadushika/docker-tips-essential-tips-and-tricks-for-developers-1hl8
 - Остальное
