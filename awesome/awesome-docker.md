@@ -75,6 +75,10 @@
         - Using Docker images from scratch https://zawadidone.nl/using-docker-images-from-scratch/
         - Why Can't I Pull The Scratch Docker Image? https://mannes.tech/docker-scratch/
         - Non-privileged containers based on the scratch image https://medium.com/@lizrice/non-privileged-containers-based-on-the-scratch-image-a80105d6d341
+    - Остальное
+        - The Quest for Minimal Docker Images, part 1 https://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/
+        - The Quest for Minimal Docker Images, part 2 http://jpetazzo.github.io/2020/03/01/quest-minimal-docker-images-part-2/
+        - The Quest for Minimal Docker Images, part 3 http://jpetazzo.github.io/2020/04/01/quest-minimal-docker-images-part-3/
 - Лучшие практики
     - 50 years of accumulated technologies, 70+ best practices, and you need to figure it out all on your own https://pythonspeed.com/products/productionhandbook/
 - Безопасность
