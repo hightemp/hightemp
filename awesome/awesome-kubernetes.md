@@ -37,6 +37,7 @@
     - K8s - ConfigMap, Secrets https://nixhub.ru/posts/k8s-configmap-basics/
 - Istio
     - Istio в разрезе: что умеет и не умеет самый популярный Service Mesh (обзор и видео доклада) https://habr.com/ru/companies/oleg-bunin/articles/726958/
+    - What Is Istio and Why Does Kubernetes Need it? https://tetrate.io/blog/what-is-istio-and-why-does-kubernetes-need-it/
 - minikube
     - https://minikube.sigs.k8s.io/docs/
 - helm
