@@ -35,6 +35,8 @@
     - Управление конфигурацией приложений ConfigMap в Kubernetes https://www.itworkroom.com/configmap_k8s/
     - Kubernetes ConfigMaps и Secrets: как правильно управлять конфигурацией и секретами в кластере https://habr.com/ru/companies/beeline_cloud/articles/864222/
     - K8s - ConfigMap, Secrets https://nixhub.ru/posts/k8s-configmap-basics/
+- Istio
+    - Istio в разрезе: что умеет и не умеет самый популярный Service Mesh (обзор и видео доклада) https://habr.com/ru/companies/oleg-bunin/articles/726958/
 - minikube
     - https://minikube.sigs.k8s.io/docs/
 - helm
