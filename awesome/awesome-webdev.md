@@ -445,6 +445,7 @@
    - Канареечный деплой
       - Простой и безопасный способ автоматизации канареечных деплоев с помощью Helm https://habr.com/ru/companies/itsumma/articles/468013/
       - Как мы делаем канареечный деплой в PaaS https://habr.com/ru/companies/kuper/articles/813029/
+      - Canary Releases https://medium.com/epicntr/canary-releases-8c7ef772079b
 - BinStomp
 - UML
    - UML: обзор основных типов диаграмм, диаграмма Классов. Часть 1 https://habr.com/ru/articles/738428/
