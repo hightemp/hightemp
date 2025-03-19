@@ -525,6 +525,8 @@
       - Testing CLI tools in Go https://bitfieldconsulting.com/posts/cli-testing
     - Mockery
       - Mocking with Mockery in Golang https://medium.com/the-sixt-india-blog/mocking-with-mockery-in-golang-949794372e99
+    - GoMock
+      - Testing with GoMock: A Tutorial https://www.codecentric.de/en/knowledge-hub/blog/gomock-tutorial
     - Testify
       - Основное
         - Step up Your Go App Testing Game With the Testify Framework https://semaphore.io/blog/testify-go
