@@ -92,7 +92,9 @@
 - pacemaker
     - How to Set Up Nginx High Availability Cluster using Pacemaker on CentOS 7 https://www.rosehosting.com/blog/how-to-set-up-nginx-high-availability-cluster-using-pacemaker-on-centos-7/
     - How to Configure Nginx High Availability Cluster Using Pacemaker on Ubuntu 16.04 https://www.alibabacloud.com/blog/how-to-configure-nginx-high-availability-cluster-using-pacemaker-on-ubuntu-16-04_593708
-- devsecops
+- DevSecOps
+    - Внедряем DevSecOps в процесс разработки. Часть 1. Обзор инструментов, Pre-commit Checks https://habr.com/ru/companies/spectr/articles/724914/
+    - Внедряем DevSecOps в процесс разработки. Часть 2. Обзор инструментов, Commit-time Checks https://habr.com/ru/companies/spectr/articles/817267/
     - Внедряем DevSecOps в процесс разработки. Часть 3. Этап Post-build Checks в DevSecOps, обзор инструментов https://habr.com/ru/companies/spectr/articles/817287/
 - Ceph — это свободная программная распределенная система хранения данных с открытым исходным кодом, которая предоставляет унифицированное решение для хранения объектов, блоков и файлов. Система спроектирована для обеспечения высокой масштабируемости (до уровня эксабайт), производительности и отказоустойчивости без единых точек отказа
     - Хранилище на базе Ceph: что нужно знать для эффективного использования https://www.rusonyx.ru/blog/post/hranilishche-na-baze-ceph/
