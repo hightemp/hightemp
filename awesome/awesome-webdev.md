@@ -438,7 +438,9 @@
    - RabbitMQ (AMQP mostly) and NATS /NATS Streaming comparison https://adam-kotwasinski.medium.com/rabbitmq-amqp-mostly-and-nats-nats-streaming-comparison-1f97753f1312
    - Modern Open Source Messaging: Apache Kafka, RabbitMQ and NATS in Action https://seroter.com/2016/05/16/modern-open-source-messaging-apache-kafka-rabbitmq-and-nats-in-action/
 - Деплой
-   - Сине-зеленый деплой https://habr.com/ru/articles/309832/
+   - Blue-green deployment, Сине-зеленый деплой
+      - Сине-зеленый деплой https://habr.com/ru/articles/309832/
+      - Blue-green deployment, canary release: рецепт приготовления безрисковых релизов https://habr.com/ru/companies/abdigital/articles/668478/
 - BinStomp
 - UML
    - UML: обзор основных типов диаграмм, диаграмма Классов. Часть 1 https://habr.com/ru/articles/738428/
