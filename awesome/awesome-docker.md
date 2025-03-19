@@ -89,6 +89,7 @@
         - Лучшие практики при написании безопасного Dockerfile https://habr.com/ru/companies/swordfish_security/articles/537280/
     - Trivy
         - Безопасность контейнеров на новом уровне: Погружение в Trivy https://habr.com/ru/companies/securityvison/articles/837966/
+        - Trivy: вредные советы по скрытию уязвимостей https://habr.com/ru/companies/swordfish_security/articles/822705/
 - Примеры готовых решений
     - nginx
         - Running Nginx official image as non root https://forums.docker.com/t/running-nginx-official-image-as-non-root/135759
