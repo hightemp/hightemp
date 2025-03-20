@@ -174,8 +174,10 @@
     - Find large files Linux/macOS https://www.vanwerkhoven.org/blog/2024/find-large-files-linux-macos/
 - Сеть, network
     - Основное
-    - Остальное
+    - Количество соединений
         - What limits the maximum number of connections on a Linux server? https://betterstack.com/community/questions/what-limits-the-maximum-number-of-connections-on-linux-server/
+        - Maximize your concurrent web server connections https://wakatime.com/blog/47-maximize-your-concurrent-web-server-connections
+    - Остальное
 - Системы мониторинга
     - Zabbix
         - Развертывание Zabbix 4.4 с nginx, php-fpm и MySQL Percona в Docker https://it-lux.ru/развертывание-zabbix-4-с-nginx-php-fpm-и-mysql-в-docker/
