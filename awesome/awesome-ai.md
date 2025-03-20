@@ -29,6 +29,7 @@
 - https://github.com/ozancanozdemir/AI-Tools-for-Research?tab=readme-ov-file
 - https://github.com/Not-Diamond/awesome-ai-model-routing
 - https://www.evidentlyai.com/ml-system-design
+- https://github.com/punkpeye/awesome-mcp-servers
 
 ### Данные для обучения
 
