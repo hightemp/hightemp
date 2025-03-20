@@ -172,6 +172,10 @@
         - Fail2Ban-SSH и Brute-force attack https://hackmd.io/@AndrewMsk/rJhRSfwti
 - find
     - Find large files Linux/macOS https://www.vanwerkhoven.org/blog/2024/find-large-files-linux-macos/
+- Сеть, network
+    - Основное
+    - Остальное
+        - What limits the maximum number of connections on a Linux server? https://betterstack.com/community/questions/what-limits-the-maximum-number-of-connections-on-linux-server/
 - Системы мониторинга
     - Zabbix
         - Развертывание Zabbix 4.4 с nginx, php-fpm и MySQL Percona в Docker https://it-lux.ru/развертывание-zabbix-4-с-nginx-php-fpm-и-mysql-в-docker/
