@@ -1054,6 +1054,7 @@
   - Implementing a Sieve cache in Go https://medium.com/@mehul25/implementing-a-sieve-cache-in-go-9652cfa99278
 - Логгирование, Logging
   - slog
+    - Go Wiki: Resources for slog https://tip.golang.org/wiki/Resources-for-slog
     - Структурированное логирование в Go с помощью Slog https://habr.com/ru/companies/slurm/articles/798207/
     - Structured Logging In Go Using Standard Library - Slog https://programmingpercy.tech/blog/structured-logging-in-go-using-std-lib-slog/
     - Logging in Go with Slog: The Ultimate Guide https://betterstack.com/community/guides/logging/logging-in-go/
