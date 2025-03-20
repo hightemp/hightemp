@@ -1055,6 +1055,8 @@
   - Go High-Performance Cache with TTL and Disk Persistence https://dev.to/leoantony72/go-high-performance-cache-with-ttl-and-disk-persistence-4a4m
   - Implementing a Sieve cache in Go https://medium.com/@mehul25/implementing-a-sieve-cache-in-go-9652cfa99278
 - Логгирование, Logging
+  - Основное
+    - Golang Logging Libraries in 2025 https://uptrace.dev/blog/golang-logging
   - slog
     - Go Wiki: Resources for slog https://tip.golang.org/wiki/Resources-for-slog
     - Структурированное логирование в Go с помощью Slog https://habr.com/ru/companies/slurm/articles/798207/
