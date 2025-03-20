@@ -68,6 +68,7 @@
 - https://idea.popcount.org/
 - https://darkcoding.net/tags/linux/
 - https://penkovski.com/
+- https://linuxexplore.com/
 
 ### Статьи
 
