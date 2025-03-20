@@ -361,6 +361,7 @@
 - cline, Расширение для vscode https://github.com/cline/cline  https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
 - roo-code, Расширение для vscode https://github.com/RooVetGit/Roo-Code https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline
 - https://www.augmentcode.com/
+- https://idx.google.com
 
 ### Пересказ
 
