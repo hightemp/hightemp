@@ -104,6 +104,7 @@
     - Установка ТСПУ https://pavel.su/internet/setting-up-tspu/
 - Анализ траффика
     - Wireshark & tcpdump: A Debugging Power Couple https://medium.com/javarevisited/wireshark-tcpdump-a-debugging-power-couple-c4242cc7c052
+    - Packet Sniffing Essentials: Exploring Packet Capture and Analysis using TCPDump and Wireshark https://medium.com/@samuel_ad/packet-sniffing-essentials-exploring-packet-capture-and-analysis-using-tcpdump-and-wireshark-d473196a5ace
     - Remote capturing packet with tcpdump and wireshark. https://gist.github.com/quyenlv/c37352884782b5d2da984f928487a44b
     - D.3. tcpdump: Capturing with “tcpdump” for viewing with Wireshark https://www.wireshark.org/docs/wsug_html_chunked/AppToolstcpdump.html
     - Master remote packet capturing: Combining Wireshark with tcpdump https://www.comparitech.com/net-admin/tcpdump-capture-wireshark/
