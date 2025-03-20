@@ -102,6 +102,8 @@
     - Путь к HTTP/2 https://habr.com/ru/articles/308846/
 - ТСПУ
     - Установка ТСПУ https://pavel.su/internet/setting-up-tspu/
+- Анализ траффика
+    - D.3. tcpdump: Capturing with “tcpdump” for viewing with Wireshark https://www.wireshark.org/docs/wsug_html_chunked/AppToolstcpdump.html
 - Остальное
     - Литература по сетям передачи данных https://pavel.su/noc/networking-books/
     - Как найти все российские IP-адреса? https://pavel.su/internet/list-of-russian-ip-addresses/
