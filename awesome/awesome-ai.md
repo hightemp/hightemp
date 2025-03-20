@@ -790,6 +790,7 @@
 
 - Connect any HTTP/REST API server using an Open API spec (v3) https://github.com/snaggle-ai/openapi-mcp-server
 - Docker container management and operations through MCP https://github.com/QuantGeekDev/docker-mcp
+- Interact with Postman API https://github.com/delano/postman-mcp-server
 
 ### Телеграм папки, Telegram folders
 
