@@ -235,3 +235,4 @@
 
 - Test if remote TCP port is open from a shell script https://stackoverflow.com/questions/4922943/test-if-remote-tcp-port-is-open-from-a-shell-script
 - Cloning hard disk partition to smaller SSD on laptop \[duplicate\] https://askubuntu.com/questions/842029/cloning-hard-disk-partition-to-smaller-ssd-on-laptop
+- Using Wireshark with remote interface https://superuser.com/questions/1585650/using-wireshark-with-remote-interface
