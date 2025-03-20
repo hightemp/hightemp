@@ -104,6 +104,7 @@
     - Установка ТСПУ https://pavel.su/internet/setting-up-tspu/
 - Анализ траффика
     - D.3. tcpdump: Capturing with “tcpdump” for viewing with Wireshark https://www.wireshark.org/docs/wsug_html_chunked/AppToolstcpdump.html
+    - Master remote packet capturing: Combining Wireshark with tcpdump https://www.comparitech.com/net-admin/tcpdump-capture-wireshark/
 - Остальное
     - Литература по сетям передачи данных https://pavel.su/noc/networking-books/
     - Как найти все российские IP-адреса? https://pavel.su/internet/list-of-russian-ip-addresses/
