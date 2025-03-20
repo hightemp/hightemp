@@ -617,9 +617,6 @@
 - Типы и структуры данных
   - Orded map
     - Ordered map на Go https://habr.com/ru/articles/882828/
-- Логирование, Logging
-  - Structured Logging In Go Using Standard Library - Slog https://programmingpercy.tech/blog/structured-logging-in-go-using-std-lib-slog/
-  - Zap: Unlock the Full Potential of Logging in Go https://leapcell.medium.com/abstract-58af1d21d201
 - Валидация данных
   - Using Go Validator for Efficient Data Validation in Go Applications https://www.codingexplorations.com/blog/using-go-validator-for-efficient-data-validation-in-go-applications
 - Queue, Очереди
@@ -1054,6 +1051,9 @@
   - Go High-Performance Cache with TTL and Disk Persistence https://dev.to/leoantony72/go-high-performance-cache-with-ttl-and-disk-persistence-4a4m
   - Implementing a Sieve cache in Go https://medium.com/@mehul25/implementing-a-sieve-cache-in-go-9652cfa99278
 - Логгирование, Logging
+  - Структурированное логирование в Go с помощью Slog https://habr.com/ru/companies/slurm/articles/798207/
+  - Structured Logging In Go Using Standard Library - Slog https://programmingpercy.tech/blog/structured-logging-in-go-using-std-lib-slog/
+  - Zap: Unlock the Full Potential of Logging in Go https://leapcell.medium.com/abstract-58af1d21d201
   - A Hands-On Approach to Zap - Structured Logging in Go https://www.kelche.co/blog/go/zap/
   - Logging in Go with Slog: The Ultimate Guide https://betterstack.com/community/guides/logging/logging-in-go/
   - Trace Log in Golang https://riad.run/trace-in-golang
