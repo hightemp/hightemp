@@ -1051,14 +1051,18 @@
   - Go High-Performance Cache with TTL and Disk Persistence https://dev.to/leoantony72/go-high-performance-cache-with-ttl-and-disk-persistence-4a4m
   - Implementing a Sieve cache in Go https://medium.com/@mehul25/implementing-a-sieve-cache-in-go-9652cfa99278
 - Логгирование, Logging
-  - Структурированное логирование в Go с помощью Slog https://habr.com/ru/companies/slurm/articles/798207/
-  - Structured Logging In Go Using Standard Library - Slog https://programmingpercy.tech/blog/structured-logging-in-go-using-std-lib-slog/
-  - Zap: Unlock the Full Potential of Logging in Go https://leapcell.medium.com/abstract-58af1d21d201
-  - A Hands-On Approach to Zap - Structured Logging in Go https://www.kelche.co/blog/go/zap/
-  - Logging in Go with Slog: The Ultimate Guide https://betterstack.com/community/guides/logging/logging-in-go/
-  - Trace Log in Golang https://riad.run/trace-in-golang
-  - Effective Logging in Go: Best Practices and Examples https://medium.com/novai-go-programming-101/effective-logging-in-go-best-practices-and-examples-911c31145260
-  - Integrating logrus with cobra https://le-gall.bzh/post/go/integrating-logrus-with-cobra/
+  - slog
+    - Структурированное логирование в Go с помощью Slog https://habr.com/ru/companies/slurm/articles/798207/
+    - Structured Logging In Go Using Standard Library - Slog https://programmingpercy.tech/blog/structured-logging-in-go-using-std-lib-slog/
+    - Logging in Go with Slog: The Ultimate Guide https://betterstack.com/community/guides/logging/logging-in-go/
+  - zap
+    - Zap: Unlock the Full Potential of Logging in Go https://leapcell.medium.com/abstract-58af1d21d201
+    - A Hands-On Approach to Zap - Structured Logging in Go https://www.kelche.co/blog/go/zap/
+  - logrus
+    - Integrating logrus with cobra https://le-gall.bzh/post/go/integrating-logrus-with-cobra/
+  - Остальное
+    - Trace Log in Golang https://riad.run/trace-in-golang
+    - Effective Logging in Go: Best Practices and Examples https://medium.com/novai-go-programming-101/effective-logging-in-go-best-practices-and-examples-911c31145260
 - Безопасность
   - Генераторы токенов
     - Demystifying OTPs: the logic behind the offline generation of tokens https://itnext.io/demystifying-otps-the-logic-behind-the-offline-generation-of-tokens-baefca7aa0d0
