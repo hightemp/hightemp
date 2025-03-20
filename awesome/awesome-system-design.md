@@ -59,6 +59,7 @@
 - https://hongilkwon.medium.com/
 - https://daminibansal.medium.com/
 - https://www.manojphadnis.net/home
+- https://newsletter.betterstack.com/notes
 
 ### Статьи
 
