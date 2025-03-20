@@ -380,6 +380,7 @@
     - Demystifying Golang Channels, Goroutines, and Optimal Concurrency https://levelup.gitconnected.com/golang-channels-goroutines-and-optimal-concurrency-demystifying-through-examples-a43ba6aee74f
     - Жизненный цикл потоков ОС в Golang https://habr.com/ru/companies/tbank/articles/868390/
     - Механика горутин и каналов в Golang: разбор с примерами https://habr.com/ru/articles/881014/
+    - Golang concurrency explained https://computersciencesimplified.substack.com/p/golang-concurrency-explained
   - Scheduler, Планировщик
     - Go Concurrency Series: Deep Dive into Go Scheduler(I) https://pratikpandey.substack.com/p/go-concurrency-series-deep-dive-into
     - Go Concurrency Series: Deep Dive into Go Scheduler(II) https://pratikpandey.substack.com/p/go-concurrency-series-deep-dive-into-1a0
