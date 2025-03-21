@@ -108,6 +108,7 @@
             - Парсинг логов при помощи Fluent-bit https://habr.com/ru/articles/548998/
         - Promtail
             - Kubernetes Logging with Grafana Loki & Promtail https://support.tools/kubernetes-logging-grafana-loki-promtail/
+            - How to Forward Logs to Grafana Loki using Promtail https://www.fosstechnix.com/forward-logs-to-grafana-loki-using-promtail/
     - Системы хранения логов
         - Grafana Loki
             - Разворачиваем Grafana Loki для мониторинга систем https://wiki.merionet.ru/articles/razvorachivaem-grafana-loki-dlya-monitoringa-sistem
