@@ -93,6 +93,9 @@
 - pacemaker
     - How to Set Up Nginx High Availability Cluster using Pacemaker on CentOS 7 https://www.rosehosting.com/blog/how-to-set-up-nginx-high-availability-cluster-using-pacemaker-on-centos-7/
     - How to Configure Nginx High Availability Cluster Using Pacemaker on Ubuntu 16.04 https://www.alibabacloud.com/blog/how-to-configure-nginx-high-availability-cluster-using-pacemaker-on-ubuntu-16-04_593708
+- Логирование
+    - Vector
+        - Как мы искали свой Vector в построении высоконагруженной системы логирования https://habr.com/ru/companies/sbermegamarket/articles/696844/
 - DevSecOps
     - Внедряем DevSecOps в процесс разработки. Часть 1. Обзор инструментов, Pre-commit Checks https://habr.com/ru/companies/spectr/articles/724914/
     - Внедряем DevSecOps в процесс разработки. Часть 2. Обзор инструментов, Commit-time Checks https://habr.com/ru/companies/spectr/articles/817267/
