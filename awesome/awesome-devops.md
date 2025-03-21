@@ -102,6 +102,7 @@
         - Как мы искали свой Vector в построении высоконагруженной системы логирования https://habr.com/ru/companies/sbermegamarket/articles/696844/
     - Fluentd
         - Сбор и анализ логов с Fluentd https://habr.com/ru/companies/selectel/articles/250969/
+        - Как собирать логи с помощью Fluentd и Fluent Bit https://habr.com/ru/companies/slurm/articles/726192/
 - DevSecOps
     - Внедряем DevSecOps в процесс разработки. Часть 1. Обзор инструментов, Pre-commit Checks https://habr.com/ru/companies/spectr/articles/724914/
     - Внедряем DevSecOps в процесс разработки. Часть 2. Обзор инструментов, Commit-time Checks https://habr.com/ru/companies/spectr/articles/817267/
