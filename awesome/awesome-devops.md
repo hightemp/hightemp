@@ -111,6 +111,7 @@
             - Разворачиваем Grafana Loki для мониторинга систем https://wiki.merionet.ru/articles/razvorachivaem-grafana-loki-dlya-monitoringa-sistem
             - Собираем логи с Loki https://habr.com/ru/companies/badoo/articles/507718/
             - Настраиваем логирование с помощью Loki и Grafana https://habr.com/ru/articles/800781/
+            - Настройка централизованного логирования с использованием Dokku, Loki и Grafana https://habr.com/ru/articles/789954/
 - DevSecOps
     - Внедряем DevSecOps в процесс разработки. Часть 1. Обзор инструментов, Pre-commit Checks https://habr.com/ru/companies/spectr/articles/724914/
     - Внедряем DevSecOps в процесс разработки. Часть 2. Обзор инструментов, Commit-time Checks https://habr.com/ru/companies/spectr/articles/817267/
