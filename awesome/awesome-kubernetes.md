@@ -45,6 +45,8 @@
     - chart
         - From Zero to Hero: A Beginner’s Guide to Creating Helm Charts https://medium.com/@reach2shristi.81/from-zero-to-hero-a-beginners-guide-to-creating-helm-charts-c17d7048ce85
     - Остальное
+- Логирование
+    - Логирование в Kubernetes: как собирать, хранить, парсить и обрабатывать логи https://habr.com/ru/companies/slurm/articles/517636/
 - Паттерны
     - Основное
         - 10 антипаттернов деплоя в Kubernetes: распространенные практики, для которых есть другие решения https://cloud.vk.com/blog/antipatterny-deploya-v-kubernetes/
