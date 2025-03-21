@@ -93,16 +93,15 @@
 - pacemaker
     - How to Set Up Nginx High Availability Cluster using Pacemaker on CentOS 7 https://www.rosehosting.com/blog/how-to-set-up-nginx-high-availability-cluster-using-pacemaker-on-centos-7/
     - How to Configure Nginx High Availability Cluster Using Pacemaker on Ubuntu 16.04 https://www.alibabacloud.com/blog/how-to-configure-nginx-high-availability-cluster-using-pacemaker-on-ubuntu-16-04_593708
-- Логирование
+- Лог-коллекторы
     - Основное
         - Logstash, Fluentd, Fluent Bit, or Vector? How to choose the right open-source log collector https://www.cncf.io/blog/2022/02/10/logstash-fluentd-fluent-bit-or-vector-how-to-choose-the-right-open-source-log-collector/
         - Who is the winner — Comparing Vector, Fluent Bit, Fluentd performance https://medium.com/ibm-cloud/log-collectors-performance-benchmarking-8c5218a08fea
-    - Лог-коллекторы
-        - Vector
-            - Vector: руководство по уходу за граблями https://habr.com/ru/articles/717154/
-            - Как мы искали свой Vector в построении высоконагруженной системы логирования https://habr.com/ru/companies/sbermegamarket/articles/696844/
-        - Fluentd
-            - Сбор и анализ логов с Fluentd https://habr.com/ru/companies/selectel/articles/250969/
+    - Vector
+        - Vector: руководство по уходу за граблями https://habr.com/ru/articles/717154/
+        - Как мы искали свой Vector в построении высоконагруженной системы логирования https://habr.com/ru/companies/sbermegamarket/articles/696844/
+    - Fluentd
+        - Сбор и анализ логов с Fluentd https://habr.com/ru/companies/selectel/articles/250969/
 - DevSecOps
     - Внедряем DevSecOps в процесс разработки. Часть 1. Обзор инструментов, Pre-commit Checks https://habr.com/ru/companies/spectr/articles/724914/
     - Внедряем DevSecOps в процесс разработки. Часть 2. Обзор инструментов, Commit-time Checks https://habr.com/ru/companies/spectr/articles/817267/
