@@ -96,6 +96,7 @@
 - Логирование
     - Основное
         - Logstash, Fluentd, Fluent Bit, or Vector? How to choose the right open-source log collector https://www.cncf.io/blog/2022/02/10/logstash-fluentd-fluent-bit-or-vector-how-to-choose-the-right-open-source-log-collector/
+        - Who is the winner — Comparing Vector, Fluent Bit, Fluentd performance https://medium.com/ibm-cloud/log-collectors-performance-benchmarking-8c5218a08fea
     - Лог-коллекторы
         - Vector
             - Как мы искали свой Vector в построении высоконагруженной системы логирования https://habr.com/ru/companies/sbermegamarket/articles/696844/
