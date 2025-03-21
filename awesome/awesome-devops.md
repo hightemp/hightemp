@@ -99,6 +99,7 @@
         - Who is the winner — Comparing Vector, Fluent Bit, Fluentd performance https://medium.com/ibm-cloud/log-collectors-performance-benchmarking-8c5218a08fea
     - Лог-коллекторы
         - Vector
+            - Vector: руководство по уходу за граблями https://habr.com/ru/articles/717154/
             - Как мы искали свой Vector в построении высоконагруженной системы логирования https://habr.com/ru/companies/sbermegamarket/articles/696844/
 - DevSecOps
     - Внедряем DevSecOps в процесс разработки. Часть 1. Обзор инструментов, Pre-commit Checks https://habr.com/ru/companies/spectr/articles/724914/
