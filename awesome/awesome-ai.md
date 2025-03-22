@@ -583,6 +583,7 @@
 ### Базы промтов
 
 - https://smith.langchain.com/hub/
+- https://cursor.directory/
 
 ### Расширения для кодинга
 
