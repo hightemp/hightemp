@@ -78,6 +78,7 @@
     - КТО ПРИДУМАЛ СОЗВЕЗДИЯ? https://наука.рф/initiatives/nauchnye-detskie-ploshchadki/inzhenernye-nauki/kto-pridumal-sozvezdiya/
     - Прикладная мифология: как и зачем люди придумали созвездия https://www.vokrugsveta.ru/vs/article/192/
     - Каталог «Альмагеста» http://www.astromyth.ru/Catalogs/Almagest/
+    - Античная фотометрия и Датирование звездного каталога "Альмагеста" по величинам входящих в него южных звезд https://www.pereplet.ru/pops/zakh/almagest.html
 - Остальное
     - Создана первая электронная карта археологических памятников России https://historyrussia.org/sobytiya/sozdana-pervaya-elektronnaya-karta-arkheologicheskikh-pamyatnikov-rossii.html
 
