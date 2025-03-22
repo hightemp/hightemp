@@ -363,6 +363,25 @@
 - https://www.augmentcode.com/
 - https://idx.google.com
 
+### AI инструменты для программирования без кода:
+
+- Cursor (http://cursor.com/) — лучшее для vibe-кодинга. 
+- Bolt.new — подходит всем, имеет встроенную интеграцию с supabase для данных, аутентификации.
+- blackbox.ai — обрабатывает веб, мобильные и настольные приложения. Еще создавать игры.
+- magicpatterns.com — имеется синхронизация с Figma. Он больше по дизайну. 
+- Lovable.dev — лучший инструмент для тех, кто не умеет программировать.
+- Wrapifai.com — не пробовал, но говорят его используют для создания мини-инструментов для SEO или лид-магнитов.
+- windsurf (https://codeium.com/windsurf) — как курсор 
+- Replit.AI — полнофункциональный генератор приложений. Имеет свой сервер, базу данных, хостинг.
+- v0 (https://v0.dev/) — лучше всего подходит для создания веб-страниц. 
+- Base44 (https://base44.com/) — тоже создает приложения без кодирования. 
+- Creatr (https://www.create.xyz/) — похож на lovable.
+- Trae (https://www.trae.ai/home) — бесплатный, есть поддержка Claude 3.7 
+- Webdraw (https://webdraw.com/) — превращает эскизы в веб приложения, бесплатный. 
+- softgen.ai — еще один агент для работы без кодинга
+- animaapp.com — для дизайнеров. 
+- cline (https://cline.bot/) — ИИ кодер, для небольших проектов.
+
 ### Пересказ
 
 - Пересказ книг https://sobrief.com/
@@ -495,8 +514,6 @@
 - illuminarty.ai — использует глубокое обучение для выявления изображений, сгенерированных ИИ, и является одним из самых точных сервисов обнаружения ИИ-картинок. https://illuminarty.ai
 - Maybe's AI Art Detector — это модель, разработанная энтузиастом и выложенная в открытый доступ на портале Hugging Face. https://huggingface.co/spaces/umm-maybe/AI-image-detector
 - Hive AI Detector — инструмент разработан учеными и инженерами Hive. Они создали свою модель с нуля и обучили ее более чем на 1млн реальных фотографий. https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi
-
-
 
 ### Перевод
 
