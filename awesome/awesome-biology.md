@@ -43,6 +43,7 @@
 
 - Сахар
     - Your brain on sugar: What the science actually says https://theconversation.com/your-brain-on-sugar-what-the-science-actually-says-126581
+    - Sugar and Bone Health: What You Need To Know https://www.getwellen.com/well-guide/sugar-and-bone-health-what-you-need-to-know
 - Флавоноиды
 - Полифенолы
 - Белки
