@@ -230,6 +230,9 @@
 - POSIX
     - pthreads
         - АК[ОС] 28. Pthreads. Потоки в POSIX. https://www.youtube.com/watch?v=pPjDPe0duXc
+- Ядро Linux
+    - Системные вызовы
+        - Linux Kernel. 1 - Исследуем системный вызов fork https://www.youtube.com/watch?v=KIaTpku7wEI
 
 ### StackOverflow
 
