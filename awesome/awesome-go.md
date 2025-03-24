@@ -459,6 +459,10 @@
       - Mastering Generics In Go: A Comprehensive Tutorial https://www.kelche.co/blog/go/golang-generics/
       - Mastering Generics in Go: A Comprehensive Guide https://medium.com/hprog99/mastering-generics-in-go-a-comprehensive-guide-4d05ec4b12b
       - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
+  - Итераторы
+    - Развлекаемся с итераторами в Go https://habr.com/ru/companies/beget/articles/852940/
+  - iota
+    - 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
   - bytes
     - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
   - sync
