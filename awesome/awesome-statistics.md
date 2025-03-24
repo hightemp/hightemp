@@ -3,6 +3,8 @@
 
 ### Блоги
 
+- https://ru.statisticseasily.com/
+
 ### Статьи
 
 - Модель Брэдли — Терри, Bradley–Terry model
