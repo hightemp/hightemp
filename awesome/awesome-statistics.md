@@ -12,6 +12,7 @@
     - Начальные сведения о нормальном распределении https://handbook.mathpsy.com/?page_id=525
     - Нормально разбираемся в Нормальном распределении https://habr.com/ru/articles/730936/
     - Understanding the Normal Distribution for Real https://borisagain.substack.com/p/understanding-the-normal-distribution
+    - Нормальный закон распределения (закон нормального распределения) https://allasamsonova.ru/statistika/zakon-normalnogo-raspredelenija/
 - Байесовские рейтинг-системы
     - Основное
         - Байесовские рейтинг-системы https://logic.pdmi.ras.ru/~sergey/teaching/mlkfu14/14-ratings.pdf
