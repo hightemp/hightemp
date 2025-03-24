@@ -368,6 +368,7 @@
     - Golang Context (A Complete Guide) https://www.kelche.co/blog/go/golang-context/
   - Unsafe
     - Обзор пакета unsafe: как обходить ограничения Go (но лучше этого не делать) https://habr.com/ru/companies/otus/articles/862854/
+    - Type-Unsafe Pointers https://go101.org/article/unsafe.html
   - Указатели; Pointers
     - A Comprehensive Guide to Pointers in Go https://medium.com/@jamal.kaksouri/a-comprehensive-guide-to-pointers-in-go-4acc58eb1f4d
     - Are Pointers in Go Faster Than Values? https://blog.boot.dev/golang/pointers-faster-than-values/
@@ -403,8 +404,6 @@
     - Go maps in action https://go.dev/blog/maps
     - Go Maps Explained: How Key-Value Pairs Are Actually Stored https://victoriametrics.com/blog/go-map/
     - Вопросы по мэпам (map) в Go https://habr.com/ru/articles/854214/
-  - Waitgroup
-    - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
   - Ellipsis
     - How to use Ellipsis (…) in Golang? https://www.geeksforgeeks.org/how-to-use-ellipsis-in-golang/
   - Тэги, Tags
@@ -489,6 +488,7 @@
       - Reference Counting in Go https://www.hydrogen18.com/blog/reference-counted-pool-golang.html
       - Use `sync.Pool` to reduce memory consumption https://blog.unknowntpo.me/syncpool/
     - sync.WaitGroup
+      - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
   - env, переменные окружения
     - Практичный гайд по переменным окружения в Go https://habr.com/ru/articles/446468/
   - Трассировка
