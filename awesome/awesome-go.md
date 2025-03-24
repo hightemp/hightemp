@@ -467,6 +467,7 @@
     - sync.Mutex
       - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
     - sync.semaphore
+      - Go Concurrency Visually Explained — Semaphore https://blog.stackademic.com/go-concurrency-visually-explained-semaphore-3ffe23f11388
     - sync.Map
       - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
     - sync.Pool
