@@ -1063,6 +1063,8 @@
 - Кэширование, cache
   - Go High-Performance Cache with TTL and Disk Persistence https://dev.to/leoantony72/go-high-performance-cache-with-ttl-and-disk-persistence-4a4m
   - Implementing a Sieve cache in Go https://medium.com/@mehul25/implementing-a-sieve-cache-in-go-9652cfa99278
+- Rate limiter
+  - Building a simple rate limiter in Go https://dev.to/vivekalhat/rate-limiting-for-beginners-what-it-is-and-how-to-build-one-in-go-955
 - Логгирование, Logging
   - Основное
     - Golang Logging Libraries in 2025 https://uptrace.dev/blog/golang-logging
