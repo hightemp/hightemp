@@ -623,6 +623,8 @@
     - Ordered map на Go https://habr.com/ru/articles/882828/
 - Валидация данных
   - Using Go Validator for Efficient Data Validation in Go Applications https://www.codingexplorations.com/blog/using-go-validator-for-efficient-data-validation-in-go-applications
+- Sort, Сортировка
+  - Asynchronous Sorting in Go https://www.dolthub.com/blog/2020-10-26-asynchronous-sorting-in-go/
 - Queue, Очереди
   - RabbitMQ
     - Using RabbitMQ Streams In Go https://programmingpercy.tech/blog/using-rabbitmq-streams-in-go/
