@@ -459,6 +459,8 @@
       - Mastering Generics In Go: A Comprehensive Tutorial https://www.kelche.co/blog/go/golang-generics/
       - Mastering Generics in Go: A Comprehensive Guide https://medium.com/hprog99/mastering-generics-in-go-a-comprehensive-guide-4d05ec4b12b
       - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
+  - bytes
+    - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
   - sync
     - Основное
       - Sync Package: What Are New Features in Golang sync.Once? https://reliasoftware.com/blog/new-features-in-golang-sync-once
@@ -1192,7 +1194,6 @@
   - Многопоточный генератор шоунотов на Go https://eax.me/go-show-notes-generator/
   - Modifying an interface{}-ed struct in Go via reflection http://speakmy.name/2014/09/14/modifying-interfaced-go-struct/
   - Things to know about HTTP in Go https://scene-si.org/2017/09/27/things-to-know-about-http-in-go/
-  - Развлекаемся с итераторами в Go https://habr.com/ru/companies/beget/articles/852940/
   - Using OpenSearch with Golang https://www.inanzzz.com/index.php/post/7e0s/using-opensearch-with-golang
   - Simple Fixed-window Rate Limiter With Redis https://hjr265.me/blog/simple-rate-limiter-with-redis/
   - Multi-threaded Downloads in Go https://hjr265.me/blog/multi-threaded-downloads-in-go/
@@ -1223,9 +1224,7 @@
   - Пишем сайт с риалтайм обновлениями с помощью Server-Sent Events, #golang и htmx https://threedots.tech/post/live-website-updates-go-sse-htmx
   - Avoiding Beginner Mistakes Hampering You to Scale Backend (Пример оптимизации #golang сервиса на 2 GB памяти и 1 CPU) https://dev.to/rikenshah/scaling-backend-to-1m-requests-with-just-2gb-ram-4m0c#optimization-7-avoid-overloading-goroutines
   - An Applied Introduction to eBPF with Go https://sazak.io/articles/an-applied-introduction-to-ebpf-with-go-2024-06-06
-  - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
-  - Where and When to use Iota in Go https://www.gopherguides.com/articles/how-to-use-iota-in-golang
-  - 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
+  - Where and When to use Iota in Go https://www.gopherguides.com/articles/how-to-use-iota-in-golang  
   - Golang: context изнутри https://habr.com/ru/articles/827544/
   - How To Use Contexts in Go https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go
   - Writing an OS in Go: The Bootloader https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader
