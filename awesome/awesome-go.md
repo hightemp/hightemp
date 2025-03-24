@@ -372,8 +372,6 @@
     - A Comprehensive Guide to Pointers in Go https://medium.com/@jamal.kaksouri/a-comprehensive-guide-to-pointers-in-go-4acc58eb1f4d
     - Are Pointers in Go Faster Than Values? https://blog.boot.dev/golang/pointers-faster-than-values/
     - Quick Tips: Pointer Optimizations in Go https://gopherguides.com/articles/golang-quick-tips-pointers
-  - sync.Map
-    - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
   - Каналы
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
     - Go: нужно ли закрывать канал? https://habr.com/ru/articles/861846/
@@ -415,12 +413,6 @@
   - JSON
     - How To Pretty-Print JSON in Go https://www.kelche.co/blog/go/golang-json-pretty-print/
     - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
-  - Sync
-    - Sync Package: What Are New Features in Golang sync.Once? https://reliasoftware.com/blog/new-features-in-golang-sync-once
-    - Go sync.Map: The Right Tool for the Right Job https://victoriametrics.com/blog/go-sync-map/index.html
-    - A Closer Look at Go’s sync Package https://teivah.medium.com/a-closer-look-at-go-sync-package-9f4e4a28c35a
-  - Mutex
-    - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
   - Unique
     - Остальное
       - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
@@ -467,11 +459,21 @@
       - Mastering Generics In Go: A Comprehensive Tutorial https://www.kelche.co/blog/go/golang-generics/
       - Mastering Generics in Go: A Comprehensive Guide https://medium.com/hprog99/mastering-generics-in-go-a-comprehensive-guide-4d05ec4b12b
       - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
-  - sync.Pool
-    - How did I improve latency by 700% using sync.Pool https://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/
-    - Performance optimization techniques in time series databases: sync.Pool for CPU-bound operations https://victoriametrics.com/blog/tsdb-performance-techniques-sync-pool/
-    - Reference Counting in Go https://www.hydrogen18.com/blog/reference-counted-pool-golang.html
-    - Use `sync.Pool` to reduce memory consumption https://blog.unknowntpo.me/syncpool/
+  - sync
+    - Sync
+      - Sync Package: What Are New Features in Golang sync.Once? https://reliasoftware.com/blog/new-features-in-golang-sync-once
+      - Go sync.Map: The Right Tool for the Right Job https://victoriametrics.com/blog/go-sync-map/index.html
+      - A Closer Look at Go’s sync Package https://teivah.medium.com/a-closer-look-at-go-sync-package-9f4e4a28c35a
+    - sync.Mutex
+      - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
+    - sync.semaphore
+    - sync.Map
+      - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
+    - sync.Pool
+      - How did I improve latency by 700% using sync.Pool https://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/
+      - Performance optimization techniques in time series databases: sync.Pool for CPU-bound operations https://victoriametrics.com/blog/tsdb-performance-techniques-sync-pool/
+      - Reference Counting in Go https://www.hydrogen18.com/blog/reference-counted-pool-golang.html
+      - Use `sync.Pool` to reduce memory consumption https://blog.unknowntpo.me/syncpool/
   - env, переменные окружения
     - Практичный гайд по переменным окружения в Go https://habr.com/ru/articles/446468/
   - Трассировка
