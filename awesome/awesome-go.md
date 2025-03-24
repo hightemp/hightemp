@@ -460,12 +460,13 @@
       - Mastering Generics in Go: A Comprehensive Guide https://medium.com/hprog99/mastering-generics-in-go-a-comprehensive-guide-4d05ec4b12b
       - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
   - sync
-    - Sync
+    - Основное
       - Sync Package: What Are New Features in Golang sync.Once? https://reliasoftware.com/blog/new-features-in-golang-sync-once
       - Go sync.Map: The Right Tool for the Right Job https://victoriametrics.com/blog/go-sync-map/index.html
       - A Closer Look at Go’s sync Package https://teivah.medium.com/a-closer-look-at-go-sync-package-9f4e4a28c35a
     - sync.Mutex
       - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
+    - sync.Cond
     - sync.semaphore
       - Go Concurrency Visually Explained — Semaphore https://blog.stackademic.com/go-concurrency-visually-explained-semaphore-3ffe23f11388
       - Go’s Extended Concurrency: Semaphores (Part 1) https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce
