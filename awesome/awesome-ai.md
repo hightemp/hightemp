@@ -934,9 +934,8 @@
     - LLM domain adaptation using continued pre-training — Part 3/4 https://anastasia-tzeveleka.medium.com/llm-domain-adaptation-using-continued-pre-training-part-2-3-23f9133681ee
     - LLM domain adaptation using continued pre-training — Part 4/4 https://medium.com/@aris.tsakpinis/llm-domain-adaptation-using-continued-pre-training-part-4-4-e4fc3acffac7
     - What is Continuous Pretraining? https://docs.arcee.ai/continuous-pretraining/what-is-continuous-pretraining
-- Гайды
-    - Перевод гайда OpenAI по составлению промптов - неофициальный перевод руководства OpenAI, разъясняющего принципы эффективного взаимодействия с языковыми моделями и особенности формулирования запросов для достижения оптимальных результатов. https://platform.openai.com/docs/guides/reasoning-best-practices, https://teletype.in/@prompt_design/reasoning-best-practices
-    - LLM Evaluation Guidebook (https://github.com/huggingface/evaluation-guidebook)  – подробный материал с лучшими практиками по оценке языковых моделей, включая составление тестов, инструкции аннотаторам, использование LLM-as-a-judge
+- Alignment
+    - Как мы готовим RL для Alignment в больших языковых моделях: опыт команды YandexGPT https://habr.com/ru/companies/yandex/articles/817391/
 - Визуальные модели
     - LP-DETR: Layer-wise Progressive Relations for Object Detection https://www.aimodels.fyi/papers/arxiv/lp-detr-layer-wise-progressive-relations-object
 - Ускорение LLM
@@ -945,6 +944,9 @@
     - Prompt Decorators: A Simple Way to Improve AI Responses https://kalami.medium.com/prompt-decorators-a-simple-way-to-improve-ai-responses-c3f3c2579a8c
 - Nvidia
     - Installing the NVIDIA Container Toolkit https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
+- Гайды
+    - Перевод гайда OpenAI по составлению промптов - неофициальный перевод руководства OpenAI, разъясняющего принципы эффективного взаимодействия с языковыми моделями и особенности формулирования запросов для достижения оптимальных результатов. https://platform.openai.com/docs/guides/reasoning-best-practices, https://teletype.in/@prompt_design/reasoning-best-practices
+    - LLM Evaluation Guidebook (https://github.com/huggingface/evaluation-guidebook)  – подробный материал с лучшими практиками по оценке языковых моделей, включая составление тестов, инструкции аннотаторам, использование LLM-as-a-judge
 - Подборки
     - 50+ полезных ML и AI-сервисов для вебмастеров https://hostpro.ua/blog/50-useful-ai-services-for-webmasters/
     - 10+ Open-source AI Agents: Based on GitHub Stars https://research.aimultiple.com/open-source-ai-agents/
