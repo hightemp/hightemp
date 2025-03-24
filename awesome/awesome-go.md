@@ -974,6 +974,8 @@
   - Остальное    
   - 🏗️ Паттерны
     - Concurrency Patterns
+      - Semaphore Pattern
+        - Understanding and Implementing the Semaphore Pattern in Go https://www.codingexplorations.com/blog/understanding-and-implementing-the-semaphore-pattern-in-go
       - Worker Pool Pattern
         - Efficient Concurrency in Go: A Deep Dive into the Worker Pool Pattern for Batch Processing https://rksurwase.medium.com/efficient-concurrency-in-go-a-deep-dive-into-the-worker-pool-pattern-for-batch-processing-73cac5a5bdca
       - Fan-out/Fan-in Pattern
