@@ -977,6 +977,10 @@
   - Остальное    
   - 🏗️ Паттерны
     - Concurrency Patterns
+      - Основное
+        - Go advanced concurrency patterns: part 1 https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/
+        - Go advanced concurrency patterns: part 2 (timers) https://blogtitle.github.io/go-advanced-concurrency-patterns-part-2-timers/
+        - Go advanced concurrency patterns: part 3 (channels) https://blogtitle.github.io/go-advanced-concurrency-patterns-part-3-channels/
       - Semaphore Pattern
         - Understanding and Implementing the Semaphore Pattern in Go https://www.codingexplorations.com/blog/understanding-and-implementing-the-semaphore-pattern-in-go
       - Worker Pool Pattern
