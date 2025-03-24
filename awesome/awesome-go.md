@@ -464,15 +464,20 @@
       - Sync Package: What Are New Features in Golang sync.Once? https://reliasoftware.com/blog/new-features-in-golang-sync-once
       - Go sync.Map: The Right Tool for the Right Job https://victoriametrics.com/blog/go-sync-map/index.html
       - A Closer Look at Go’s sync Package https://teivah.medium.com/a-closer-look-at-go-sync-package-9f4e4a28c35a
+    - sync/atomic
+      - Go: жарим общие данные. Атомно, быстро и без мьютексов https://habr.com/ru/companies/ruvds/articles/833264/
     - sync.Mutex
       - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
+      - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
     - sync.Cond
+      - Go sync.Cond, the Most Overlooked Sync Mechanism https://victoriametrics.com/blog/go-sync-cond/index.html
     - sync.semaphore
       - Go Concurrency Visually Explained — Semaphore https://blog.stackademic.com/go-concurrency-visually-explained-semaphore-3ffe23f11388
       - Go’s Extended Concurrency: Semaphores (Part 1) https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce
     - sync.Map
       - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
     - sync.Pool
+      - Go sync.Pool and the Mechanics Behind It https://victoriametrics.com/blog/go-sync-pool/index.html
       - How did I improve latency by 700% using sync.Pool https://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/
       - Performance optimization techniques in time series databases: sync.Pool for CPU-bound operations https://victoriametrics.com/blog/tsdb-performance-techniques-sync-pool/
       - Reference Counting in Go https://www.hydrogen18.com/blog/reference-counted-pool-golang.html
@@ -1049,17 +1054,9 @@
 - Конкурентное программирование, sync
   - Concurrency, Параллелизм
     - Mastering Concurrent Processing: A Step-by-Step Guide to Building a Scalable Worker Pool in Go https://medium.com/@souravchoudhary0306/mastering-concurrent-processing-a-step-by-step-guide-to-building-a-scalable-worker-pool-in-go-54093074c612
-  - Синхронизация
-    - Атомарные операции
-      - Go: жарим общие данные. Атомно, быстро и без мьютексов https://habr.com/ru/companies/ruvds/articles/833264/
-    - Примитивы синхронизации
-      - Mutex
-        - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
   - Пулы, pool
-    - Go sync.Pool and the Mechanics Behind It https://victoriametrics.com/blog/go-sync-pool/index.html
     - Кастомные memory pools в Golang https://habr.com/ru/companies/otus/articles/888554/
-  - Остальное
-    - Go sync.Cond, the Most Overlooked Sync Mechanism https://victoriametrics.com/blog/go-sync-cond/index.html
+  - Остальное    
 - Распределенные системы
   - Реализация Paxos на Go: создаем алгоритм консенсуса без готовых решений https://habr.com/ru/companies/otus/articles/869122/
 - Параметры структур
