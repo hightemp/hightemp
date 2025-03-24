@@ -15,3 +15,5 @@
     - Модель Брэдли — Терри, Bradley–Terry model
         - Модель Брэдли — Терри https://ru.wikipedia.org/wiki/Модель_Брэдли_—_Терри
         - Что такое: Модель Брэдли-Терри https://ru.statisticseasily.com/глоссарий/какая-модель-Брэдли-Терри/
+- Остальное
+    - Критерий Шапиро-Уилка http://www.machinelearning.ru/wiki/index.php?title=Критерий_Шапиро-Уилка
