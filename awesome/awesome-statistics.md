@@ -7,6 +7,8 @@
 
 ### Статьи
 
+- Нормальное распределение
+    - Нормальное распределение https://habr.com/ru/companies/otus/articles/671322/
 - Байесовские рейтинг-системы
     - Основное
         - Байесовские рейтинг-системы https://logic.pdmi.ras.ru/~sergey/teaching/mlkfu14/14-ratings.pdf
