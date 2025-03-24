@@ -74,6 +74,15 @@
     - Указатели и ссылки в языке C++ https://sysprog.ru/post/ukazateli-i-ssylki-v-yazyke-c
     - Урок №80. Указатели https://ravesli.com/urok-80-ukazateli-vvedenie/
     - Упрощённое руководство по работе с памятью Си https://habr.com/ru/articles/711458/
+  - RAII
+    - Концепция RAII (Resource Acquisition Is Initialization) https://habr.com/ru/companies/otus/articles/778942/
+    - Идиома RAII и умные указатели https://education.yandex.ru/handbook/cpp/article/raii-and-smart-pointers
+  - Exceptions
+    - Understanding the .gcc_except_table section in ELF binaries (GCC) https://martin.uy/blog/understanding-the-gcc_except_table-section-in-elf-binaries-gcc/
+    - How to Handle Exceptions in C++ https://rollbar.com/guides/cpp/how-to-handle-exceptions-in-cpp/
+    - How McSema Handles C++ Exceptions https://blog.trailofbits.com/2019/01/21/how-mcsema-handles-c-exceptions/
+    - The Secret Life of C++: Exceptions https://web.mit.edu/tibbetts/Public/inside-c/www/exceptions.html
+    - An Introduction to Stack Unwinding and Exception Handling https://www.zyma.me/post/stack-unwind-intro/
   - Корутины, coroutines
     - Deep Dive into C++20 Coroutines https://medium.com/@threehappyer/deep-dive-into-c-20-coroutines-ef5a557d15cb
     - C++20. Coroutines https://habr.com/ru/articles/519464/
@@ -139,9 +148,8 @@
     - Анализ исходного кода ядра Linux: epoll https://blog.hongxiaolong.com/posts/epoll.html
 - Package management, Менеджеры пакетов
   - #1 The state of C++ package management: The big three https://twdev.blog/2024/08/cpp_pkgmng1/
-- RAII
-  - Концепция RAII (Resource Acquisition Is Initialization) https://habr.com/ru/companies/otus/articles/778942/
-  - Идиома RAII и умные указатели https://education.yandex.ru/handbook/cpp/article/raii-and-smart-pointers
+- Логирование, Logging
+  - https://c-and-beyond.hashnode.dev/top-c-logging-libraries-compared-how-to-choose-the-best-one-part-1
 - Профилирование, Profiling
   - gperftools
     - Profiling with gperftools https://wiki.geany.org/howtos/profiling/gperftools
@@ -175,12 +183,6 @@
   - Tutorial on writing makefiles https://www.math.colostate.edu/~yzhou/computer/writemakefile.html
 - Swiss Tables
   - Swiss Tables and absl::Hash https://abseil.io/blog/20180927-swisstables
-- Exceptions
-  - Understanding the .gcc_except_table section in ELF binaries (GCC) https://martin.uy/blog/understanding-the-gcc_except_table-section-in-elf-binaries-gcc/
-  - How to Handle Exceptions in C++ https://rollbar.com/guides/cpp/how-to-handle-exceptions-in-cpp/
-  - How McSema Handles C++ Exceptions https://blog.trailofbits.com/2019/01/21/how-mcsema-handles-c-exceptions/
-  - The Secret Life of C++: Exceptions https://web.mit.edu/tibbetts/Public/inside-c/www/exceptions.html
-  - An Introduction to Stack Unwinding and Exception Handling https://www.zyma.me/post/stack-unwind-intro/
 - Подборки
   - Подборка крутых докладов по С++ за 2023 год https://pvs-studio.ru/ru/blog/posts/1120/
 - Остальное
