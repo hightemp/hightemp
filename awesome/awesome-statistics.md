@@ -10,6 +10,7 @@
 - Нормальное распределение
     - Нормальное распределение https://habr.com/ru/companies/otus/articles/671322/
     - Начальные сведения о нормальном распределении https://handbook.mathpsy.com/?page_id=525
+    - Нормально разбираемся в Нормальном распределении https://habr.com/ru/articles/730936/
 - Байесовские рейтинг-системы
     - Основное
         - Байесовские рейтинг-системы https://logic.pdmi.ras.ru/~sergey/teaching/mlkfu14/14-ratings.pdf
