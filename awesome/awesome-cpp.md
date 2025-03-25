@@ -175,6 +175,7 @@
     - Optimizations in C++ Compilers https://queue.acm.org/detail.cfm?id=3372264
     - Optimizing software in C++ An optimization guide for Windows, Linux, and Mac platforms https://www.agner.org/optimize/optimizing_cpp.pdf
   - RVO (Return Value Optimization)
+    - How to Return Values Effectively in C++ https://nimrod.blog/posts/how-to-return-values-effectively-in-c++/
     - Return value optimization (RVO) https://sigcpp.github.io/2020/06/08/return-value-optimization
     - RVO и NRVO https://pvs-studio.ru/ru/blog/terms/6516/
     - Return Value Optimization (RVO) https://lcellentani.github.io/post/cpp_rvo/
@@ -200,7 +201,6 @@
   - Подборка крутых докладов по С++ за 2023 год https://pvs-studio.ru/ru/blog/posts/1120/
 - Остальное
   - Tip of the Week #176: Prefer Return Values to Output Parameters https://abseil.io/tips/176
-  - How to Return Values Effectively in C++ https://nimrod.blog/posts/how-to-return-values-effectively-in-c++/
   - Compiler Explorer — уникальный проект для исследования компилируемого кода https://habr.com/ru/companies/ruvds/articles/815675/
   - Bit Twiddling Hacks, By Sean Eron Anderson http://graphics.stanford.edu/~seander/bithacks.html##ValueInWord
   - More Hash Function Tests https://aras-p.info/blog/2016/08/09/More-Hash-Function-Tests/
