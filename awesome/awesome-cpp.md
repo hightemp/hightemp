@@ -175,10 +175,11 @@
     - Optimizations in C++ Compilers https://queue.acm.org/detail.cfm?id=3372264
     - Optimizing software in C++ An optimization guide for Windows, Linux, and Mac platforms https://www.agner.org/optimize/optimizing_cpp.pdf
   - RVO (Return Value Optimization)
+    - Return value optimization (RVO) https://sigcpp.github.io/2020/06/08/return-value-optimization
     - RVO и NRVO https://pvs-studio.ru/ru/blog/terms/6516/
     - Return Value Optimization (RVO) https://lcellentani.github.io/post/cpp_rvo/
     - Return value optimizations https://www.fluentcpp.com/2016/11/28/return-value-optimizations/
-    - Return Value Optimization https://shaharmike.com/cpp/rvo/
+    - Return Value Optimization https://shaharmike.com/cpp/rvo/    
 - CMake
   - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
   - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
