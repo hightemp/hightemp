@@ -1076,7 +1076,8 @@
   - Building a simple rate limiter in Go https://dev.to/vivekalhat/rate-limiting-for-beginners-what-it-is-and-how-to-build-one-in-go-955
 - Логгирование, Logging
   - Основное
-    - Golang Logging Libraries in 2025 https://uptrace.dev/blog/golang-logging
+    - Proposal: Structured Logging Golang Logging Libraries in 2025 https://uptrace.dev/blog/golang-logging
+    - https://go.googlesource.com/proposal/+/master/design/56345-structured-logging.md
   - slog
     - Go Wiki: Resources for slog https://tip.golang.org/wiki/Resources-for-slog
     - Структурированное логирование в Go с помощью Slog https://habr.com/ru/companies/slurm/articles/798207/
