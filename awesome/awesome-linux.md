@@ -53,6 +53,10 @@
     - Группа по интересам West Post Linux Бесплатный Открытый Доступ https://www.xiyoulinux.com/
 - ExplainShell — это онлайн-сервис для анализа и упрощения понимания команд командной строки в Linux, в котором пользователь вводит команду, а сайт разбирает ее, предоставляя подробное объяснение каждого аргумента и опции на основании данных из руководств.https://www.explainshell.com/
 
+### Полезные утилиты
+
+- Muon SSH Terminal/SFTP Client (Formerly Snowflake) https://github.com/devlinx9/muon-ssh
+
 ### Курсы
 
 - https://ravesli.com/uroki-po-linux/
