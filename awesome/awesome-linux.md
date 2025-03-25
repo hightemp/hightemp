@@ -226,6 +226,8 @@
     - \[Пошагово\] Клонирование диска Clonezilla с большего на меньший https://www.diskpart.com/ru/articles/clonezilla-clone-larger-disk-to-smaller-disk-1503.html
 - Git
     - On the Matter of Beautiful git Diffs https://nathanleclaire.com/blog/2016/06/28/on-the-matter-of-beautiful-git-diffs/
+- Подборки
+    - 30 Linux Terminal Emulators https://linuxblog.io/linux-terminal-emulators/
 - Остальное
     - Мой первый контейнер без Docker https://habr.com/ru/articles/881428/
     - How to supercharge string search through a directory hierarchy on a Linux/Unix [статья](https://www.cyberciti.biz/open-source/command-line-hacks/ag-supercharge-string-search-through-directory-hierarchy/)
