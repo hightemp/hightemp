@@ -1,6 +1,7 @@
 ### Коллекции
 
 - https://github.com/viatsko/awesome-vscode
+- https://github.com/jonathandion/awesome-emails
 
 ### Скачиватели
 
