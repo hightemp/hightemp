@@ -155,6 +155,7 @@
 - Логирование, Logging
   - Top C++ Logging Libraries Compared: How to Choose the Best One - part 1 https://c-and-beyond.hashnode.dev/top-c-logging-libraries-compared-how-to-choose-the-best-one-part-1
   - Logger C++ https://habr.com/ru/articles/838412/
+  - How To Use Google Logging Library (glog) https://rpg.ifi.uzh.ch/docs/glog.html
 - Профилирование, Profiling
   - gperftools
     - Profiling with gperftools https://wiki.geany.org/howtos/profiling/gperftools
