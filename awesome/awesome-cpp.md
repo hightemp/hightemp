@@ -71,6 +71,7 @@
 - https://nullprogram.com/index/
 - https://codeyarns.com/tech/index.html#cpp&gsc.tab=0
 - https://abseil.io/tips/
+- https://nimrod.blog/
 
 ### Статьи
 
