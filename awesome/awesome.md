@@ -96,6 +96,7 @@
 - Этот репозиторий - это сборник хорошо написанных пошаговых руководств по созданию наших любимых технологий с нуля. https://github.com/codecrafters-io/build-your-own-x
 - https://github.com/LeCoupa/awesome-cheatsheets
 - https://github.com/huyingjie/Checklist-Checklist
+- https://github.com/Kristories/awesome-guidelines
 
 ## Сайты Git-хостинги
 
