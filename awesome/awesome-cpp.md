@@ -149,7 +149,8 @@
 - Package management, Менеджеры пакетов
   - #1 The state of C++ package management: The big three https://twdev.blog/2024/08/cpp_pkgmng1/
 - Логирование, Logging
-  - https://c-and-beyond.hashnode.dev/top-c-logging-libraries-compared-how-to-choose-the-best-one-part-1
+  - Top C++ Logging Libraries Compared: How to Choose the Best One - part 1 https://c-and-beyond.hashnode.dev/top-c-logging-libraries-compared-how-to-choose-the-best-one-part-1
+  - Logger C++ https://habr.com/ru/articles/838412/
 - Профилирование, Profiling
   - gperftools
     - Profiling with gperftools https://wiki.geany.org/howtos/profiling/gperftools
