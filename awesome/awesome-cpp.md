@@ -70,6 +70,7 @@
 - https://shaharmike.com/cpp/
 - https://nullprogram.com/index/
 - https://codeyarns.com/tech/index.html#cpp&gsc.tab=0
+- https://abseil.io/tips/
 
 ### Статьи
 
