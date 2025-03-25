@@ -103,6 +103,7 @@
     - Understanding Lvalues, PRvalues and Xvalues in C/C++ with Examples https://www.geeksforgeeks.org/understanding-lvalues-prvalues-and-xvalues-in-ccwith-examples/
     - Value Categories in C++17 https://medium.com/@barryrevzin/value-categories-in-c-17-f56ae54bccbe
     - Категории выражений в C++ https://habr.com/ru/articles/441742/
+    - “New” Value Terminology Bjarne Stroustrup https://www.stroustrup.com/terminology.pdf
   - Перемещение
     - std:forward
       - Функция std::forward https://pvs-studio.ru/ru/blog/terms/6515/  
