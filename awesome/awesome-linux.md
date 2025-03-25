@@ -57,6 +57,7 @@
 
 - WindTerm https://github.com/kingToolbox/WindTerm https://kingtoolbox.github.io/
 - Muon SSH Terminal/SFTP Client (Formerly Snowflake) https://github.com/devlinx9/muon-ssh
+- electerm Open-sourced terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win). https://github.com/electerm/electerm
 
 ### Курсы
 
