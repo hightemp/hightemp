@@ -97,6 +97,7 @@
 - https://github.com/LeCoupa/awesome-cheatsheets
 - https://github.com/huyingjie/Checklist-Checklist
 - https://github.com/Kristories/awesome-guidelines
+- https://github.com/zudochkin/awesome-newsletters
 
 ## Сайты Git-хостинги
 
