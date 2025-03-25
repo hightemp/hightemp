@@ -116,6 +116,8 @@
             - Настраиваем логирование с помощью Loki и Grafana https://habr.com/ru/articles/800781/
             - Настройка централизованного логирования с использованием Dokku, Loki и Grafana https://habr.com/ru/articles/789954/
             - Grafana Loki https://docs.digitalocean.com/products/marketplace/catalog/grafana-loki/
+    - Остальное
+        - Логи из docker compose / docker swarm в Grafana / Loki быстро и просто https://habr.com/ru/articles/784410/
 - DevSecOps
     - Внедряем DevSecOps в процесс разработки. Часть 1. Обзор инструментов, Pre-commit Checks https://habr.com/ru/companies/spectr/articles/724914/
     - Внедряем DevSecOps в процесс разработки. Часть 2. Обзор инструментов, Commit-time Checks https://habr.com/ru/companies/spectr/articles/817267/
