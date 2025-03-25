@@ -154,10 +154,13 @@
 - Package management, Менеджеры пакетов
   - #1 The state of C++ package management: The big three https://twdev.blog/2024/08/cpp_pkgmng1/
 - Логирование, Logging
-  - Top C++ Logging Libraries Compared: How to Choose the Best One - part 1 https://c-and-beyond.hashnode.dev/top-c-logging-libraries-compared-how-to-choose-the-best-one-part-1
-  - Logger C++ https://habr.com/ru/articles/838412/
-  - How To Use Google Logging Library (glog) https://rpg.ifi.uzh.ch/docs/glog.html
-  - How to install and use GLog https://codeyarns.com/tech/2017-10-26-how-to-install-and-use-glog.html#gsc.tab=0
+  - glog
+    - How To Use Google Logging Library (glog) https://rpg.ifi.uzh.ch/docs/glog.html
+    - How to install and use GLog https://codeyarns.com/tech/2017-10-26-how-to-install-and-use-glog.html#gsc.tab=0
+    - Glog Source Code Reading Notes https://nimrod.blog/posts/glog-source-code-reading/
+  - Остальное
+    - Top C++ Logging Libraries Compared: How to Choose the Best One - part 1 https://c-and-beyond.hashnode.dev/top-c-logging-libraries-compared-how-to-choose-the-best-one-part-1
+    - Logger C++ https://habr.com/ru/articles/838412/
 - Профилирование, Profiling
   - gperftools
     - Profiling with gperftools https://wiki.geany.org/howtos/profiling/gperftools
