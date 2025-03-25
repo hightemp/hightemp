@@ -100,6 +100,7 @@
     - Understanding lvalues, rvalues and their references https://www.fluentcpp.com/2018/02/06/understanding-lvalues-rvalues-and-their-references/
     - Lvalues and Rvalues (C++) https://learn.microsoft.com/en-us/cpp/cpp/lvalues-and-rvalues-visual-cpp?view=msvc-170
     - Understanding Lvalues, PRvalues and Xvalues in C/C++ with Examples https://www.geeksforgeeks.org/understanding-lvalues-prvalues-and-xvalues-in-ccwith-examples/
+    - Value Categories in C++17 https://medium.com/@barryrevzin/value-categories-in-c-17-f56ae54bccbe
   - Перемещение
     - std:forward
       - Функция std::forward https://pvs-studio.ru/ru/blog/terms/6515/  
