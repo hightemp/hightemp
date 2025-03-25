@@ -58,6 +58,7 @@
 - WindTerm https://github.com/kingToolbox/WindTerm https://kingtoolbox.github.io/
 - Muon SSH Terminal/SFTP Client (Formerly Snowflake) https://github.com/devlinx9/muon-ssh
 - electerm Open-sourced terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win). https://github.com/electerm/electerm
+- Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks https://www.asbru-cm.net/ https://github.com/asbru-cm/asbru-cm
 
 ### Курсы
 
