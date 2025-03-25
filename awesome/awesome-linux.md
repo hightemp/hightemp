@@ -70,6 +70,7 @@
 - https://darkcoding.net/tags/linux/
 - https://penkovski.com/
 - https://linuxexplore.com/
+- https://www.linuxlinks.com/
 
 ### Статьи
 
