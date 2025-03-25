@@ -16,6 +16,8 @@
   - Key-Value
     - https://github.com/facebook/rocksdb
     - https://github.com/google/leveldb
+- Логирование
+  - https://github.com/gabime/spdlog
 
 ### Песочницы
 
