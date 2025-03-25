@@ -46,6 +46,7 @@
 
 ### Полезные ссылки
 
+- Паксталл AUR для Ubuntu https://pacstall.dev/
 - Образы дисков для виртуалки windows для SPICE(drag&drop, общий буфер) для virt-manager, virtio-win driver https://github.com/virtio-win/virtio-win-pkg-scripts/blob/master/README.md
 - The easiest way to run a Linux distribution or application on an Android device. With UserLAnd the power to do or create whatever you want will never be out of reach. https://userland.tech/
 - Китай
