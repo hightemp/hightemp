@@ -1,3 +1,6 @@
+### Коллекции
+
+- https://github.com/viatsko/awesome-vscode
 
 ### Скачиватели
 
