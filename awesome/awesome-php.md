@@ -137,6 +137,10 @@
 
 - https://chromewebstore.google.com/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc
 
+### Книги
+
+- Clean Code PHP https://github.com/piotrplenik/clean-code-php
+
 ### Блоги
 
 - https://kevinsmith.io/
