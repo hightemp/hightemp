@@ -7,4 +7,4 @@
 ### Статьи
 
 - Подборки
-    - https://www.puttygen.com/windows-terminal-emulators
+    - 15 Best Terminal Emulators for Windows https://www.puttygen.com/windows-terminal-emulators
