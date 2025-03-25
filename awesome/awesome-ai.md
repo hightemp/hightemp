@@ -180,7 +180,11 @@
 - с видео и аудио
     - https://aistudio.google.com/live
 
-### Нейростеи, боты для разработки
+### ai терминалы, terminals
+
+- https://www.warp.dev/
+
+### ai боты для разработки
 
 - https://v0.dev/
 - https://replit.com/
