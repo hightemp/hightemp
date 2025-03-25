@@ -55,6 +55,7 @@
 
 ### Полезные утилиты
 
+- WindTerm https://github.com/kingToolbox/WindTerm https://kingtoolbox.github.io/
 - Muon SSH Terminal/SFTP Client (Formerly Snowflake) https://github.com/devlinx9/muon-ssh
 
 ### Курсы
