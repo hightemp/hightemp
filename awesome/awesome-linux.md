@@ -228,6 +228,7 @@
     - On the Matter of Beautiful git Diffs https://nathanleclaire.com/blog/2016/06/28/on-the-matter-of-beautiful-git-diffs/
 - Подборки
     - 30 Linux Terminal Emulators https://linuxblog.io/linux-terminal-emulators/
+    - 23 Best Emulator Choices of 2025 https://thectoclub.com/tools/best-terminal-emulator/
 - Остальное
     - Мой первый контейнер без Docker https://habr.com/ru/articles/881428/
     - How to supercharge string search through a directory hierarchy on a Linux/Unix [статья](https://www.cyberciti.biz/open-source/command-line-hacks/ag-supercharge-string-search-through-directory-hierarchy/)
