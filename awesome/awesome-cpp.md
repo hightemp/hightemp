@@ -180,6 +180,7 @@
 - Логирование, Logging
   - Основное
     - Сравнение библиотек логирования https://habr.com/ru/articles/313686/
+    - Questions to be answered before integrating logging library into your C++ project. https://iryna-mykytyn.medium.com/integrate-logging-into-your-c-project-do-it-right-do-it-once-9a9b0c5a8383
   - glog
     - How To Use Google Logging Library (glog) https://rpg.ifi.uzh.ch/docs/glog.html
     - How to install and use GLog https://codeyarns.com/tech/2017-10-26-how-to-install-and-use-glog.html#gsc.tab=0
