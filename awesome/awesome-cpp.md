@@ -26,6 +26,7 @@
   - https://github.com/google/glog
   - https://github.com/SergiusTheBest/plog
   - https://github.com/Carabasen/ulog
+  - https://github.com/abumq/easyloggingpp
 
 ### Песочницы
 
