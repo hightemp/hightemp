@@ -105,6 +105,7 @@
     - Категории выражений в C++ https://habr.com/ru/articles/441742/
     - “New” Value Terminology Bjarne Stroustrup https://www.stroustrup.com/terminology.pdf
     - The Story of Value Categories in C++ | Ray https://oneraynyday.github.io/dev/2020/07/03/Value-Categories/
+    - lvalues, rvalues, glvalues, prvalues, xvalues, помогите! - https://habr.com/ru/articles/869854/
   - Перемещение
     - std:forward
       - Функция std::forward https://pvs-studio.ru/ru/blog/terms/6515/  
