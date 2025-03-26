@@ -28,6 +28,7 @@
   - https://github.com/Carabasen/ulog
   - https://github.com/3Hren/blackhole
   - https://github.com/abumq/easyloggingpp
+  - https://baical.net/p7.html 
 
 ### Песочницы
 
