@@ -20,6 +20,7 @@
   - https://github.com/gabime/spdlog
   - https://github.com/log4cplus/log4cplus
   - https://github.com/google/glog
+  - https://github.com/SergiusTheBest/plog
 
 ### Песочницы
 
