@@ -191,6 +191,7 @@
     - Devlog: Writing a Logging Library in C++ https://gotz.medium.com/devlog-writing-a-logging-library-in-c-9601ec3699eb
     - Top C++ Logging Libraries Compared: How to Choose the Best One - part 1 https://c-and-beyond.hashnode.dev/top-c-logging-libraries-compared-how-to-choose-the-best-one-part-1
     - Logger C++ https://habr.com/ru/articles/838412/
+    - Logging without Compromising Performance https://medium.com/software-architecture-foundations/logging-without-compromising-performance-3ab4d9ac3caa
 - Сокеты, Sockets
   - Основное
   - Остальное
