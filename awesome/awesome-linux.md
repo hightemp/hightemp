@@ -231,6 +231,7 @@
 - Подборки
     - 30 Linux Terminal Emulators https://linuxblog.io/linux-terminal-emulators/
     - 23 Best Emulator Choices of 2025 https://thectoclub.com/tools/best-terminal-emulator/
+    - A Guide to Linux System Monitoring: top, htop, btop, and glances https://machaddr.substack.com/p/a-guide-to-linux-system-monitoring
 - Остальное
     - Мой первый контейнер без Docker https://habr.com/ru/articles/881428/
     - How to supercharge string search through a directory hierarchy on a Linux/Unix [статья](https://www.cyberciti.biz/open-source/command-line-hacks/ag-supercharge-string-search-through-directory-hierarchy/)
