@@ -993,6 +993,7 @@
   - 🏗️ Паттерны
     - Concurrency Patterns
       - Основное
+        - Разбираем конкурентность в Go: книги, блоги, выступления https://engineer.yadro.com/article/kak-pisat-konkurentnyj-kod-v-go/
         - Go advanced concurrency patterns: part 1 https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/
         - Go advanced concurrency patterns: part 2 (timers) https://blogtitle.github.io/go-advanced-concurrency-patterns-part-2-timers/
         - Go advanced concurrency patterns: part 3 (channels) https://blogtitle.github.io/go-advanced-concurrency-patterns-part-3-channels/
