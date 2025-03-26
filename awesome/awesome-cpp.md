@@ -177,6 +177,9 @@
     - Анализ исходного кода ядра Linux: epoll https://blog.hongxiaolong.com/posts/epoll.html
 - Package management, Менеджеры пакетов
   - #1 The state of C++ package management: The big three https://twdev.blog/2024/08/cpp_pkgmng1/
+- Отладка
+  - GDB
+    - Шпаргалка полезных команд GDB https://habr.com/ru/articles/535960/
 - Логирование, Logging
   - Основное
     - Сравнение библиотек логирования https://habr.com/ru/articles/313686/
