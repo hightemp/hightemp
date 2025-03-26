@@ -175,6 +175,8 @@
 - Package management, Менеджеры пакетов
   - #1 The state of C++ package management: The big three https://twdev.blog/2024/08/cpp_pkgmng1/
 - Логирование, Logging
+  - Основное
+    - Сравнение библиотек логирования https://habr.com/ru/articles/313686/
   - glog
     - How To Use Google Logging Library (glog) https://rpg.ifi.uzh.ch/docs/glog.html
     - How to install and use GLog https://codeyarns.com/tech/2017-10-26-how-to-install-and-use-glog.html#gsc.tab=0
