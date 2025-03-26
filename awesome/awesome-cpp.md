@@ -187,6 +187,7 @@
   - plog
     - Plog - portable and simple log for C++ https://www.codeproject.com/Articles/992287/Plog-portable-and-simple-log-for-Cplusplus
   - Остальное
+    - Devlog: Writing a Logging Library in C++ https://gotz.medium.com/devlog-writing-a-logging-library-in-c-9601ec3699eb
     - Top C++ Logging Libraries Compared: How to Choose the Best One - part 1 https://c-and-beyond.hashnode.dev/top-c-logging-libraries-compared-how-to-choose-the-best-one-part-1
     - Logger C++ https://habr.com/ru/articles/838412/
 - Сокеты, Sockets
