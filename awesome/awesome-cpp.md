@@ -178,6 +178,8 @@
 - Package management, Менеджеры пакетов
   - #1 The state of C++ package management: The big three https://twdev.blog/2024/08/cpp_pkgmng1/
 - Отладка
+  - Valgrind
+    - Выявление ошибок в работе с памятью в C и C++: Сравниваем Sanitizers и Valgrind https://habr.com/ru/companies/otus/articles/801123/
   - GDB
     - Шпаргалка полезных команд GDB https://habr.com/ru/articles/535960/
     - Дайте мне 15 минут, и я изменю ваш взгляд на GDB https://habr.com/ru/articles/824638/
