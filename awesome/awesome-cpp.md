@@ -141,6 +141,7 @@
     - Time in C++ – present and future – Part 2 https://curiouslyrecurringthoughts.home.blog/2019/08/30/time-in-c-present-and-future-part-2/
   - Шаблоны, templates
     - Шаблоны https://education.yandex.ru/handbook/cpp/article/templates
+  - SFINAE (Substitution Failure Is Not An Error - подстановка, не являющаяся ошибкой)
   - Многопоточное программирование
     - Мьютексы, Mutexes
       - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
@@ -171,6 +172,8 @@
     - How To Use Google Logging Library (glog) https://rpg.ifi.uzh.ch/docs/glog.html
     - How to install and use GLog https://codeyarns.com/tech/2017-10-26-how-to-install-and-use-glog.html#gsc.tab=0
     - Glog Source Code Reading Notes https://nimrod.blog/posts/glog-source-code-reading/
+  - plog
+    - Plog - portable and simple log for C++ https://www.codeproject.com/Articles/992287/Plog-portable-and-simple-log-for-Cplusplus
   - Остальное
     - Top C++ Logging Libraries Compared: How to Choose the Best One - part 1 https://c-and-beyond.hashnode.dev/top-c-logging-libraries-compared-how-to-choose-the-best-one-part-1
     - Logger C++ https://habr.com/ru/articles/838412/
