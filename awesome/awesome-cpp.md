@@ -103,6 +103,7 @@
   - Корутины, coroutines
     - Deep Dive into C++20 Coroutines https://medium.com/@threehappyer/deep-dive-into-c-20-coroutines-ef5a557d15cb
     - C++20. Coroutines https://habr.com/ru/articles/519464/
+    - C++20 Coroutines https://dimakorolev.substack.com/p/c20-coroutines
   - std::unique_lock
     - std::unique_lock https://cplusplus.com/reference/mutex/unique_lock/
     - Mutex lock guards in C++11 https://geidav.wordpress.com/2014/01/09/mutex-lock-guards-in-c11/    
