@@ -1,5 +1,9 @@
 ### Коллекции
 
+- https://cpp.libhunt.com/
+- Логирование
+  - https://cpp.libhunt.com/libs/logging
+
 ### Makefile
 
 - https://makefiletutorial.com/
@@ -21,6 +25,7 @@
   - https://github.com/log4cplus/log4cplus
   - https://github.com/google/glog
   - https://github.com/SergiusTheBest/plog
+  - https://github.com/Carabasen/ulog
 
 ### Песочницы
 
