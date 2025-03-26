@@ -180,6 +180,7 @@
 - Отладка
   - GDB
     - Шпаргалка полезных команд GDB https://habr.com/ru/articles/535960/
+    - Дайте мне 15 минут, и я изменю ваш взгляд на GDB https://habr.com/ru/articles/824638/
 - Логирование, Logging
   - Основное
     - Сравнение библиотек логирования https://habr.com/ru/articles/313686/
