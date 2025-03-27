@@ -496,6 +496,7 @@
       - Use `sync.Pool` to reduce memory consumption https://blog.unknowntpo.me/syncpool/
     - sync.WaitGroup
       - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
+    - sync.Once
   - env, переменные окружения
     - Практичный гайд по переменным окружения в Go https://habr.com/ru/articles/446468/
   - build tags
@@ -875,6 +876,8 @@
     - Авторизация в Go с использованием JWT https://kovardin.ru/articles/go/avtorizaciya-v-go-s-ispolzovaniem-jwt/?ysclid=m06qqbjia1238948380
     - API Login using echo framework Golang, Postgres and JWT https://martinyonathann.medium.com/api-login-with-echo-framework-golang-postgres-and-jwt-dca330357020
     - A guide to JWT authentication in Go https://blog.logrocket.com/jwt-authentication-go/
+- Kafka
+  - работа с Kafka в Go: практическое применение https://habr.com/ru/articles/894056/
 - Telegram
   - Telegram на go: часть 1, парсим схему https://habr.com/ru/articles/535076/
   - Telegram на go, часть 2: бинарный протокол https://habr.com/ru/articles/541920/
