@@ -372,6 +372,7 @@
     - Обзор пакета unsafe: как обходить ограничения Go (но лучше этого не делать) https://habr.com/ru/companies/otus/articles/862854/
     - Type-Unsafe Pointers https://go101.org/article/unsafe.html
     - An Introduction to Go's unsafe Package: Unsafe Operations https://reintech.io/blog/introduction-to-gos-unsafe-package
+    - Manual Memory Management Techniques using unsafe in Go https://www.codingexplorations.com/blog/manual-memory-management-techniques-using-unsafe-in-go
   - Указатели; Pointers
     - A Comprehensive Guide to Pointers in Go https://medium.com/@jamal.kaksouri/a-comprehensive-guide-to-pointers-in-go-4acc58eb1f4d
     - Are Pointers in Go Faster Than Values? https://blog.boot.dev/golang/pointers-faster-than-values/
