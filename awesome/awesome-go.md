@@ -1091,6 +1091,7 @@
     - Structured Logging In Go Using Standard Library - Slog https://programmingpercy.tech/blog/structured-logging-in-go-using-std-lib-slog/
     - Logging in Go with Slog: The Ultimate Guide https://betterstack.com/community/guides/logging/logging-in-go/
     - Embracing Go 1.21.0's slog: A Unified Logging Interface with Benchmarks against zerolog and zap https://dwarvesf.hashnode.dev/go-1-21-release-slog-with-benchmarks-zerolog-and-zap
+    - Logging in Go with Slog: A Detailed Guide https://last9.io/blog/logging-in-go-with-slog-a-detailed-guide/
   - zap
     - Zap: Unlock the Full Potential of Logging in Go https://leapcell.medium.com/abstract-58af1d21d201
     - A Hands-On Approach to Zap - Structured Logging in Go https://www.kelche.co/blog/go/zap/
