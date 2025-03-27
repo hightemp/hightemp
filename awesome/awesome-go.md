@@ -747,6 +747,7 @@
       - Как работать с cookie в Go: безопасное хранение и управление сессиями https://habr.com/ru/articles/887014/
       - The Simple Guide to Cookies in Golang: Create, Read, and Delete https://medium.com/@adrilukman73/the-simple-guide-to-cookies-in-golang-create-read-and-delete-a5397732b04b
       - Session in Go (Understanding SameSite Attribute. Lax, Mode and None) https://medium.com/@emonemrulhasan35/session-in-go-understanding-samesite-attribute-lax-mode-and-none-991bd0db5283
+      - Understanding Session-Based Authentication from Scratch https://medium.com/@884m884/understanding-session-based-authentication-from-scratch-64110bcfc00f
     - client
       - Making REST API Requests in Golang using the HTTP Client https://www.sohamkamani.com/golang/http-client/
     - Примеры
