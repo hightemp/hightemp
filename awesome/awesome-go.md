@@ -745,6 +745,7 @@
   - net/http
     - Cookie
       - Как работать с cookie в Go: безопасное хранение и управление сессиями https://habr.com/ru/articles/887014/
+      - The Simple Guide to Cookies in Golang: Create, Read, and Delete https://medium.com/@adrilukman73/the-simple-guide-to-cookies-in-golang-create-read-and-delete-a5397732b04b
     - client
       - Making REST API Requests in Golang using the HTTP Client https://www.sohamkamani.com/golang/http-client/
     - Примеры
