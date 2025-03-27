@@ -1183,6 +1183,7 @@
 - Алгоритмы
   - Алгоритм Кнута-Морриса-Пратта для поиска подстрок на Go https://habr.com/ru/companies/otus/articles/878812/
 - Остальное
+  - How MySQL indexes work? https://computersciencesimplified.substack.com/p/how-mysql-indexes-work
   - Structured concurrency в языке Go https://habr.com/ru/companies/karuna/articles/816677/
   - Golang Functional Options are named args on steroids https://uptrace.dev/blog/golang-functional-options
   - Implementing The Fieldalignment Bundle in Go https://switchupcb.com/blog/implementing-the-fieldalignment-bundle-in-go/
