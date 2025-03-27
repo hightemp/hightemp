@@ -14,5 +14,6 @@
         - ГЛАВА 4 Процессы и потоки https://vv303.narod.ru/files/inst/olifer/chapter4/default.htm
     - Потоки
         - Шаг 64. Потоки https://it.kgsu.ru/Asm_32/as32_064.html
+        - x64 Assembly: Multithreading from Scratch Part 2: Threads https://dev.to/ahmedwadod/x64-assembly-multithreading-from-scratch-part-2-threads-11g1
 - Остальное
     
