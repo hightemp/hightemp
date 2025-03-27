@@ -339,6 +339,9 @@
 - Go from the beginning https://github.com/softchris/golang-book/
 - Common Go Mistakes https://100go.co/
 - ⭐ Learn Go with Tests https://quii.gitbook.io/learn-go-with-tests
+- Основы Go. Community edition. Станислав Чернышев
+  - https://vk.cc/cKdps2
+  - https://boosty.to/madteacher/posts/fbd0739f-20ba-4a6f-afe8-ac2fee2c8f8f?share=post_link
 
 ### Статьи
 
