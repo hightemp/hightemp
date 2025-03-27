@@ -495,6 +495,8 @@
       - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
   - env, переменные окружения
     - Практичный гайд по переменным окружения в Go https://habr.com/ru/articles/446468/
+  - build tags
+    - Как управлять сборками в Go с помощью build tags https://habr.com/ru/companies/otus/articles/886044/
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
   - Reflection, Рефлексия, Отражение
