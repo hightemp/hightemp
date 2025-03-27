@@ -159,7 +159,8 @@
 - Dependency injection, DI
   - Это фреймворк для внедрения зависимостей в Go-программах, который управляет жизненным циклом объектов, создавая их по мере необходимости, разрешая зависимости между ними и корректно закрывая их, когда они больше не используются, при этом уделяя особое внимание производительности. https://github.com/sarulabs/di
   - dig — это инструментарий для внедрения зависимостей в Go, основанный на рефлексии, который специализируется на построении графа объектов во время запуска приложения и используется преимущественно как основа для фреймворков типа Fx. https://github.com/uber-go/dig
-- Scheduler, Шедулер, cron
+- Scheduler, JobRunner, cron
+  - Mastering Task Scheduling in Go: Gron, JobRunner, and Gocron https://medium.com/@murataslan1/mastering-task-scheduling-in-go-gron-jobrunner-and-gocron-0123d5c4ee95
   - Cron - это обновленная версия библиотеки планировщика задач для Go с поддержкой модулей Go, улучшенной обработкой часовых поясов, исправлением ошибок и новыми функциями, включая возможность удаления заданий и установки перехватчиков для управления выполнением задач. https://github.com/robfig/cron
 - Остальное
   - go-linq - это мощная библиотека для языка Go, реализующая интегрированный язык запросов (LINQ) с ленивым выполнением, поддержкой параллельного использования и различных типов коллекций. https://github.com/ahmetb/go-linq
@@ -1122,8 +1123,6 @@
 - Безопасность
   - Генераторы токенов
     - Demystifying OTPs: the logic behind the offline generation of tokens https://itnext.io/demystifying-otps-the-logic-behind-the-offline-generation-of-tokens-baefca7aa0d0
-- Планировщик, Scheduler
-  - Mastering Task Scheduling in Go: Gron, JobRunner, and Gocron https://medium.com/@murataslan1/mastering-task-scheduling-in-go-gron-jobrunner-and-gocron-0123d5c4ee95
 - CI/CD
   - A Makefile based CI/CD chain for Go https://le-gall.bzh/post/makefile-based-ci-chain-for-go/
 - Тестирование
