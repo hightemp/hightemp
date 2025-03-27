@@ -395,10 +395,6 @@
     - Жизненный цикл потоков ОС в Golang https://habr.com/ru/companies/tbank/articles/868390/
     - Механика горутин и каналов в Golang: разбор с примерами https://habr.com/ru/articles/881014/
     - Golang concurrency explained https://computersciencesimplified.substack.com/p/golang-concurrency-explained
-  - Scheduler, Планировщик
-    - Go Concurrency Series: Deep Dive into Go Scheduler(I) https://pratikpandey.substack.com/p/go-concurrency-series-deep-dive-into
-    - Go Concurrency Series: Deep Dive into Go Scheduler(II) https://pratikpandey.substack.com/p/go-concurrency-series-deep-dive-into-1a0
-    - Go Concurrency Series: Deep Dive into Go Scheduler(III) https://pratikpandey.substack.com/p/go-concurrency-series-deep-dive-into-dee
   - Linked lists, Связанные списки
     - Linked Lists in Go https://dev.to/jpoly1219/linked-lists-in-go-3g63
     - Understanding Linked Lists with Go https://rkulla.blogspot.com/2018/03/understanding-linked-lists-with-go.html
@@ -585,7 +581,10 @@
   - Swiss Table
     - SwissTable: A High-Performance Hash Table Implementation https://dev.to/huizhou92/swisstable-a-high-performance-hash-table-implementation-1knc
     - SwissMap: A smaller, faster Golang Hash Table https://www.dolthub.com/blog/2023-03-28-swiss-map/
-  - Планировщик, Scheduler
+  - Scheduler, Планировщик
+    - Go Concurrency Series: Deep Dive into Go Scheduler(I) https://pratikpandey.substack.com/p/go-concurrency-series-deep-dive-into
+    - Go Concurrency Series: Deep Dive into Go Scheduler(II) https://pratikpandey.substack.com/p/go-concurrency-series-deep-dive-into-1a0
+    - Go Concurrency Series: Deep Dive into Go Scheduler(III) https://pratikpandey.substack.com/p/go-concurrency-series-deep-dive-into-dee
     - Scheduling In Go : Part I - OS Scheduler https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
     - Scheduling In Go : Part II - Go Scheduler https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
     - Scheduling In Go : Part III - Concurrency https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
