@@ -864,6 +864,7 @@
     - Сайт на Golang. Авторизация. Часть 2 https://alextonkonogov.ru/?p=601 
   - JWT
     - Implementing JWT Authentication in Go — Part 1 https://medium.com/@rkb.ra0025/implementing-jwt-authentication-in-go-part-1-cc61a6b3fa17
+    - Implementing JWT Authentication in Go — Part 2 https://medium.com/@rkb.ra0025/implementing-jwt-authentication-in-go-part-2-480961dea903
     - React Gin Blog (13/19): JWT authentication https://letscode.blog/2021/06/26/react-gin-blog-13-19-jwt-authentication/
     - Implementing JWT Authentication and Authorization in Go with Gin https://medium.com/novai-go-programming-101/implementing-jwt-authentication-and-authorization-in-go-with-gin-ef0dc1cf33cd
     - Авторизация в Go с использованием JWT https://kovardin.ru/articles/go/avtorizaciya-v-go-s-ispolzovaniem-jwt/?ysclid=m06qqbjia1238948380
