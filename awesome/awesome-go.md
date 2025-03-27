@@ -743,6 +743,8 @@
   - Building a CLI App in Golang https://neo-femo.hashnode.dev/building-a-cli-app-in-golang
 - Сеть
   - net/http
+    - Cookie
+      - Как работать с cookie в Go: безопасное хранение и управление сессиями https://habr.com/ru/articles/887014/
     - client
       - Making REST API Requests in Golang using the HTTP Client https://www.sohamkamani.com/golang/http-client/
     - Примеры
