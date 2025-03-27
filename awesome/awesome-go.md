@@ -582,6 +582,7 @@
     - Scheduling In Go : Part II - Go Scheduler https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
     - Scheduling In Go : Part III - Concurrency https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
     - Внутренности планировщика Go https://habr.com/ru/articles/858490/
+    - Планировщик ОС https://habr.com/ru/articles/894338/
   - Остальное
     - 12 Personal Go Tricks That Transformed My Productivity https://substack.com/home/post/p-136328101
     - What's in the box!? Исследуем минимальное количество тредов golang-программы https://habr.com/ru/articles/888384/
