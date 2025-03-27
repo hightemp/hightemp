@@ -36,9 +36,12 @@
 
 ### Статьи
 
-- x86 Assembly Guide https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html
-- NASM Tutorial https://cs.lmu.edu/~ray/notes/nasmtutorial/
-- NASM Tutorial https://cratecode.com/info/nasm-tutorial
-- Learn Assembly Language https://asmtutor.com/
-- 19+ Assembly Project Ideas for Beginners to Advanced https://topexceltips.com/assembly-project-ideas/
-- 20 Best Assembly Books of All Time https://bookauthority.org/books/best-assembly-books
+- Основное
+    - x86 Assembly Guide https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html
+    - NASM Tutorial https://cs.lmu.edu/~ray/notes/nasmtutorial/
+    - NASM Tutorial https://cratecode.com/info/nasm-tutorial
+    - Learn Assembly Language https://asmtutor.com/
+    - 19+ Assembly Project Ideas for Beginners to Advanced https://topexceltips.com/assembly-project-ideas/
+    - 20 Best Assembly Books of All Time https://bookauthority.org/books/best-assembly-books
+- Потоки
+    - x64 Assembly: Multithreading from Scratch Part 2: Threads https://dev.to/ahmedwadod/x64-assembly-multithreading-from-scratch-part-2-threads-11g1
