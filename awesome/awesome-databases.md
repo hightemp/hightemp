@@ -21,6 +21,7 @@
 ### Полезные ссылки
 
 - Are You Qualified To Use Null in SQL? (Тест) https://agentm.github.io/project-m36/posts/2024-07-16-are-you-qualified-to-use-null.html
+- https://use-the-index-luke.com/
 
 ### Мониторинг
 
@@ -129,6 +130,7 @@
     - Индексы
         - Кластерные и «обычные» индексы MySQL (InnoDB) https://habr.com/ru/articles/141767/
         - Кластерные и некластерные индексы реляционных баз данных https://wp-yoda.com/bazy-dannyh/klasternye-i-neklasternye-indeksy/
+        - Anatomy of an SQL Index https://use-the-index-luke.com/sql/anatomy
     - Партицинирование
         - Партиционирование таблиц в MySql https://easy-code.ru/lesson/partitioning-mysql
     - Репликация
