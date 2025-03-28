@@ -17,4 +17,5 @@
 - Прерывания
     - Chapter 12: Interrupts Embedded Systems - Shape The World Modified to be compatible with EE319K Lab 6 Jonathan Valvano and Ramesh Yerraballi https://users.ece.utexas.edu/~valvano/Volume1/E-Book/C12_Interrupts.htm
 - Остальное
+    - Cooperative vs. Preemptive: a quest to maximize concurrency power https://medium.com/traveloka-engineering/cooperative-vs-preemptive-a-quest-to-maximize-concurrency-power-3b10c5a920fe
     
