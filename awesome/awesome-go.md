@@ -387,11 +387,12 @@
     - A Comprehensive Guide to Pointers in Go https://medium.com/@jamal.kaksouri/a-comprehensive-guide-to-pointers-in-go-4acc58eb1f4d
     - Are Pointers in Go Faster Than Values? https://blog.boot.dev/golang/pointers-faster-than-values/
     - Quick Tips: Pointer Optimizations in Go https://gopherguides.com/articles/golang-quick-tips-pointers
-  - Каналы
+  - Channels, Каналы
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
     - Go: нужно ли закрывать канал? https://habr.com/ru/articles/861846/
     - Go Channels Explained: More than Just a Beginner’s Guide. https://substack.com/home/post/p-138797977?utm_campaign=post&utm_medium=web
     - Забитый канал — как вы с ним поступаете в Go? https://habr.com/ru/articles/873384/
+    - Curious Channels https://dave.cheney.net/2013/04/30/curious-channels
   - Гоурутины, goroutines
     - Корутины: stackful vs stackless https://habr.com/ru/articles/850970/
     - Demystifying Golang Channels, Goroutines, and Optimal Concurrency https://levelup.gitconnected.com/golang-channels-goroutines-and-optimal-concurrency-demystifying-through-examples-a43ba6aee74f
