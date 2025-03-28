@@ -960,8 +960,6 @@
 - Кэширование
   - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
 - Архитектура
-  - Анти-паттерны
-    - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
   - Микросервисы
     - Основоное
       - Декларативная платформа управления доступом: от ролей к динамическим политикам https://habr.com/ru/companies/oleg-bunin/articles/875720/
