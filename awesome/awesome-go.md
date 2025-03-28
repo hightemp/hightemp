@@ -429,6 +429,8 @@
     - How To Pretty-Print JSON in Go https://www.kelche.co/blog/go/golang-json-pretty-print/
     - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
   - Unique
+    - Основное
+      - Inside Go's Unique Package: String Interning Simplified https://victoriametrics.com/blog/go-unique-package-intern-string/index.html
     - Остальное
       - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
       - Exploring the New Unique Package in Go 1.23 https://www.bytesizego.com/blog/go-1-23-unique-package
