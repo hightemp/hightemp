@@ -391,6 +391,7 @@
     - Quick Tips: Pointer Optimizations in Go https://gopherguides.com/articles/golang-quick-tips-pointers
   - Weak pointers, Слабые указатели
     - Глубокий разбор новых указателей в Go 1.24: слабые указатели и их реализация https://habr.com/ru/articles/891144/
+    - Weak Pointers in Go: Why They Matter Now https://victoriametrics.com/blog/go-weak-pointer/
   - Channels, Каналы
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
     - Go: нужно ли закрывать канал? https://habr.com/ru/articles/861846/
