@@ -357,6 +357,7 @@
 - Описание языка
   - Основное
     - Go 1.24 Released: Massive Optimizations & Key Upgrades! https://dev.to/leapcell/go-124-released-massive-optimizations-key-upgrades-1mbn
+    - Introduction to Go 1.24: What’s New and Why It Matters https://medium.com/technogise/introduction-to-go-1-24-whats-new-and-why-it-matters-bd6fa0bc3b77
     - Интерактивный тур по Go 1.24 https://habr.com/ru/companies/otus/articles/881708/
     - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
     - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
