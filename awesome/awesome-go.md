@@ -389,6 +389,8 @@
     - A Comprehensive Guide to Pointers in Go https://medium.com/@jamal.kaksouri/a-comprehensive-guide-to-pointers-in-go-4acc58eb1f4d
     - Are Pointers in Go Faster Than Values? https://blog.boot.dev/golang/pointers-faster-than-values/
     - Quick Tips: Pointer Optimizations in Go https://gopherguides.com/articles/golang-quick-tips-pointers
+  - Weak pointers, Слабые указатели
+    - Глубокий разбор новых указателей в Go 1.24: слабые указатели и их реализация https://habr.com/ru/articles/891144/
   - Channels, Каналы
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
     - Go: нужно ли закрывать канал? https://habr.com/ru/articles/861846/
