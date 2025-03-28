@@ -198,6 +198,8 @@
 - BlueRPC - это вдохновленный tRPC бэкенд-фреймворк, который позволяет создавать типобезопасное соединение между Golang-сервером и TypeScript-фронтендом, автоматически генерируя TypeScript-файлы для взаимодействия с сервером без необходимости в промежуточных файлах описания структуры эндпоинтов. https://github.com/blue-rpc/bluerpc
 - Go-coreutils — реализация GNU coreutils на Go, предлагающая кросс-платформенную замену стандартным Unix-утилитам с открытым исходным кодом, находящаяся в активной разработке (завершено 15 из 100 утилит полностью и 2 частично) и использующая собственную библиотеку go-gnulib. https://github.com/ericlagergren/go-coreutils
 - Go-Readability - пакет Go для нахождения основного читабельного контента и метаданных HTML страницы путем удаления лишних элементов, таких как кнопки, реклама, фоновые изображения, скрипты и т.д. https://github.com/go-readability/go-readability https://github.com/go-shiori/go-readability
+- pgsearch
+  - A full text search example in Postgresql + go + gorm https://github.com/sachaarbonel/pgsearch-gorm-example
 - Линтеры, Linters
   - sloglint - это линтер для Go, который обеспечивает унифицированный стиль кода при использовании библиотеки log/slog, предоставляя множество правил для проверки согласованности логирования в приложении. https://github.com/go-simpler/sloglint
 - Инструменты
