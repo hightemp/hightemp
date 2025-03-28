@@ -594,6 +594,8 @@
     - Внутренности планировщика Go https://habr.com/ru/articles/858490/
     - Планировщик ОС https://habr.com/ru/articles/894338/
     - Планировщик Go — самый подробный гайд простым языком https://habr.com/ru/articles/891426/
+  - Конкурентность
+    - Разбираем конкурентность в Go: книги, блоги, выступления https://habr.com/ru/companies/yadro/articles/892632/
   - Остальное
     - 12 Personal Go Tricks That Transformed My Productivity https://substack.com/home/post/p-136328101
     - What's in the box!? Исследуем минимальное количество тредов golang-программы https://habr.com/ru/articles/888384/
