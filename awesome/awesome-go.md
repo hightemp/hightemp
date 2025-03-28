@@ -350,6 +350,7 @@
   - https://vk.cc/cKdps2
   - https://boosty.to/madteacher/posts/fbd0739f-20ba-4a6f-afe8-ac2fee2c8f8f?share=post_link
 - Functional Programming in Go, Дилан Миус
+- Concurrency in Go: Tools and Techniques for Developers, Кэтрин Кокс-Будей
 
 ### Статьи
 
