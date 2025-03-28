@@ -11,6 +11,8 @@
 
 - https://github.com/nuno-faria/tetris-sql
 - Это стартовое приложение на базе Next.js, использующее OpenAI API и векторную базу данных Supabase для создания специализированного чат-бота, который, в отличие от обычного ChatGPT, работает с конкретной предметной областью и предоставляет достоверные ответы на основе заданных документов. https://github.com/gannonh/chatgpt-pgvector
+- pgsearch
+    - Docker image with pg_search extension https://github.com/stephane-klein/pg_search_docker
 
 ### Операционные системы
 
