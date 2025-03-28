@@ -392,6 +392,7 @@
   - Weak pointers, Слабые указатели
     - Глубокий разбор новых указателей в Go 1.24: слабые указатели и их реализация https://habr.com/ru/articles/891144/
     - Weak Pointers in Go: Why They Matter Now https://victoriametrics.com/blog/go-weak-pointer/
+    - Using Weak Pointers in Go https://dev.to/colindickson_78/weak-pointers-coming-in-go-124-imf
   - Channels, Каналы
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
     - Go: нужно ли закрывать канал? https://habr.com/ru/articles/861846/
