@@ -20,4 +20,7 @@
     - Context Switching https://wiki.osdev.org/Context_Switching
 - Остальное
     - Cooperative vs. Preemptive: a quest to maximize concurrency power https://medium.com/traveloka-engineering/cooperative-vs-preemptive-a-quest-to-maximize-concurrency-power-3b10c5a920fe
-    
+
+### Видео
+
+- The Fancy Algorithms That Make Your Computer Feel Smoother https://www.youtube.com/watch?v=O2tV9q6784k
