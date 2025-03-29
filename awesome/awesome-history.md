@@ -63,6 +63,8 @@
 
 ### Статьи
 
+- Пьер Марешаль, Pierre Sylvain Maréchal
+    - История России
 - Археология
     - Культурный слой
         - Что такое культурный слой https://starcheolog.livejournal.com/68646.html
