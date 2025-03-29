@@ -62,7 +62,7 @@
 ### Книги
 
 - Пьер Марешаль, Pierre Sylvain Maréchal
-    - История России; Histoire de la Russie, réduite aux seuls faits importans
+    - История России; Histoire de la Russie, réduite aux seuls faits importans; 1802
 
 ### Полезные ссылки
 
