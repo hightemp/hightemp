@@ -223,6 +223,45 @@
   - YouTube MP3 Converter (https://apihost.ru/youtube-mp3) — преобразует видео в mp3.
   - YouTube Video Finder (https://github.com/TheTechRobo/youtubevideofinder/) —  инструмент для поиска потерянных  видеороликов YouTube в архивах.
 
+### Полезные сервисы для проверки контрагентов
+
+- Проверка юр.лиц (Россия)
+  - ФНС ЕГРЮЛ/ЕГРИП (https://egrul.nalog.ru/index.html) — предоставление сведений из ЕГРЮЛ/ЕГРИП в электронном виде.
+  - Проверка ИНН юридических лиц (ФНС) (https://www.nalog.gov.ru/rn77/service/actual_inn_ul/) — сервис для проверки актуальности ИНН.
+  - Готовые решения ФНС (https://api-fns.ru/ready) — сервис ФНС, предоставляющий Excel-файл проверки контрагентов.
+  - Rusprofile (https://www.rusprofile.ru/) — быстрая проверка контрагентов.  
+  - Spark-Interfax (https://spark-interfax.ru/) — проверка  контрагентов. 
+  - ФЭК (https://fek.ru/) — бесплатная  проверка по ФНС и 27 реестрам на юр чистоту.
+  - ЗаЧестныйБизнес (https://zachestnyibiznes.ru/search?query=) — сервис для проверки российских  компаний и ИП
+  - List-Org (https://www.list-org.com/) — инструмент для проверки контрагентов.  
+  - ЕИС Закупки РФ (https://zakupki.gov.ru/epz/dishonestsupplier/search/results.html) — сведения из реестра о недобросовестных поставщиках.  
+  - БФО от ФНС (https://bo.nalog.ru/) — ГИР бухгалтерской (финансовой) отчетности.
+  - Реестр некоммерческих организаций (https://minjust.gov.ru/ru/pages/reestr-nekommercheskih-organizacij/) — данные  о некоммерческих организациях от Минюста.
+  - Роструд (https://declaration.rostrud.gov.ru/declaration/index) — реестр деклараций.
+- Проверка физических лиц
+  - ЕГРЮЛ/ЕГРИП (https://egrul.nalog.ru/index.html) — сведения из реестра юридических лиц и ИП.  
+  - Проверка самозанятого (https://npd.nalog.ru/check-status/) — проверка статуса самозанятого.  
+  - Госуслуги: паспорт (https://www.gosuslugi.ru/621102/1/) — сервис для проверки действительности паспорта.
+  - ИНН от ФНС (https://service.nalog.ru/inn.do) — узнать ИНН  физического лица.  
+  - Недействительные ИНН (https://service.nalog.ru/invalid-inn-fl.html) — недействительные ИНН физических лиц. 
+  - Субсидиарная ответственность (https://www.nalog.gov.ru/rn77/rso/) — поиск лиц, привлечённых к субсидиарной ответственности.  
+  - Госслужба.gov (https://gossluzhba.gov.ru/reestr/) — реестр лиц, уволенных в связи с утратой доверия за совершение коррупционного правонарушения.
+  - Исполнительные производства (https://fssprus.ru/iss/ip) — информация от ФССП.  
+  - Роспатент (https://searchplatform.rospatent.gov.ru/trademarks)— официальный сервис для поиска зарегистрированных товарных знаков и заявок на регистрацию в России.
+  - МВД: проверка (http://xn--b1afk4ade4e.xn--b1ab2a0a.xn--b1aew.xn--p1ai/info-service.htm?sid=3000) — миграционные  информационные сервисы МВД.  
+  - МВД: миграция (https://xn--b1aew.xn--p1ai/rkl) — реестр  контролируемых лиц.
+- Проверка на предмет противоправной деятельности
+  - Розыск МВД (https://xn--b1aew.xn--p1ai/wanted) — база разыскиваемых лиц.  
+  - Розыск ФСИН (https://fsin.gov.ru/criminal/) — список лиц, разыскиваемых ФСИН.  
+  - Розыск ФССП (https://fssp.gov.ru/iss/suspect_info) — лица, находящиеся в розыске по подозрению в совершении преступлений.  
+  - Реестр ФССП (https://fssp.gov.ru/iss/suspect_info) — реестр  розыска по исполнительным производствам.
+  - СК Москвы (https://moscow.sledcom.ru/attention/Podozrevaemie_v_sovershenii_prestuplenij) — список подозреваемых в преступлениях.  
+  - Росфинмониторинг  (https://www.fedsfm.ru/documents/terrorists-catalog-portal-act/)—  поиск по перечню организаций и физических лиц, в отношении которых имеются сведения об их причастности к экстремистской деятельности или терроризму.
+  - Признаки нелегальной деятельности (ЦБ РФ) (https://www.cbr.ru/inside/warning-list/) — реестр организаций, в  отношении которых ЦБ выявил признаки незаконной финансовой деятельности.  
+  - Интерпол: Red Notices (https://www.interpol.int/How-we-work/Notices/View-Red-Notices) — международный розыск.  
+  - EU Most Wanted (https://eumostwanted.eu/) — официальный сайт Европола с  базой данных разыскиваемых преступников.
+
+
 ### Научные статьи, исследования и публикации
 
 - CyberLeninka (https://cyberleninka.ru/) — научная электронная библиотека, построенная на парадигме открытой науки (Open Science), основными задачами которой является популяризация науки и научной деятельности.  
