@@ -195,6 +195,34 @@
 - ANY.RUN (https://app.any.run/) — безопасный просмотр подозрительных веб-ресурсов в виртуальной среде.  
 - Instant Workstation (https://instantworkstation.com/virtual-machines/) — платформа для тестов с помощью виртуальных машин прямо в браузере.
 
+### Youtube
+
+- Анализ каналов и видео
+  - SocialBlade (https://socialblade.com/) — анализ  YouTube-каналов.  
+- Скачать видео YouTube в высоком качестве 
+  - Cobalt.tools (https://cobalt.tools/) — лучшая  альтернатива youtube-dl для  скачивания видео в высоком качестве.  
+- Генерация текстового пересказа YouTube-роликов  
+  - Summarize.ing (https://summarize.ing/ru) — пересказ видео с помощью нейронки.  
+  - Ya 300 (https://300.ya.ru/summary/) — краткий пересказ видео от нейросети YandexGPT.  
+- Метаданные
+  - YouTube Metadata Viewer (https://mattw.io/youtube-metadata/) — просмотр  метаданных, тегов и  другой  информации о видео.  
+  - Bulk Metadata Viewer (https://mattw.io/youtube-metadata/bulk) — пакетная  обработка метаданных.  
+  - YouTube Lookup (https://youtube-lookup.vercel.app/) — анализ метаданных.  
+  - YTXtractor (https://seintpl.github.io/ytxtractor/) — инструмент для извлечения  превью к ролику на YouTube.  
+- Транскрипции, субтитры, комментарии
+  - Speech-to-Text (https://apihost.ru/speech-to-text) — преобразование аудио и видео (YouTube) в текст.
+  - Export Comments (https://exportcomments.com/) — экспорт  комментариев под роликом в таблицу Excel.  
+  - Summarize.ing (https://summarize.ing/ru/youtube-transcript-generator) — бесплатный  онлайн-сервис для транскрипции YouTube-видео.  
+  - SaveSubs (https://savesubs.com/ru/) — скачать  субтитры  с YouTube.  
+  - Filmot (https://filmot.com/) — сайт для поиска  по субтитрам, аннотациям и транскриптам видео на YouTube.  
+  - YouTube Comment Suite (https://github.com/mattwright324/youtube-comment-suite/) —  набор инструментов для извлечения, анализа и экспорта комментариев  с YouTube-видео.
+- Разное
+  - GetEmoji (https://getemoji.com/) — эмодзи для  оформления названий видео.
+  - Avidemux (https://avidemux.sourceforge.net/) — инструмент для  быстрой обрезки скачанного видео с YouTube.
+  - 2Short.ai (https://app.2short.ai/) — инструмент для создания Shorts.
+  - YouTube MP3 Converter (https://apihost.ru/youtube-mp3) — преобразует видео в mp3.
+  - YouTube Video Finder (https://github.com/TheTechRobo/youtubevideofinder/) —  инструмент для поиска потерянных  видеороликов YouTube в архивах.
+
 ### Научные статьи, исследования и публикации
 
 - CyberLeninka (https://cyberleninka.ru/) — научная электронная библиотека, построенная на парадигме открытой науки (Open Science), основными задачами которой является популяризация науки и научной деятельности.  
