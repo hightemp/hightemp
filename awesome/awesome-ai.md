@@ -818,6 +818,12 @@
 - Уроки, как писать промты к генераторам изображений. https://imageprompt.org/ru/tutorials
 - Hugging Face выпустил курс по созданию ИИ-агентов, первая часть которого доступна на YouTube и переведена на русском языке на платформе Teletype. (https://www.youtube.com/live/iLVyYDbdSmM, https://huggingface.co/learn/agents-course/unit1/introduction, https://teletype.in/@prompt_design/agents-course)
 - подборка обучающих курсов по ИИ от Петра Скальски с полным описанием популярных языковых моделей и нейронных сетей. https://github.com/SkalskiP/courses
+- Stanford university
+    - Машинное обучение — основы ИИ, ML-модели и создание нейросетей. https://www.coursera.org/specializations/machine-learning-introduction
+    - Кибербезопасность — кибератаки, фишинг, защита данных и карьера в сфере инфобеза. https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview
+    - Продвинутый SQL — индексы, триггеры, ограничения и авторизация в реляционных БД. https://online.stanford.edu/courses/soe-ydatabases0001-databases-advanced-topics-sql
+    - Программирование на R — для аналитиков данных и специалистов по анализу. https://online.stanford.edu/courses/xfds112-r-programming-fundamentals
+    - Теория игр — математические стратегии для рациональных агентов. https://online.stanford.edu/courses/soe-ycs0002-game-theory
 
 ### Инструменты для исследований
 
