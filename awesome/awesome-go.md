@@ -380,6 +380,8 @@
     - Погружение в интерфейсы Go https://habr.com/ru/articles/856272/
     - Interfaces and other types https://go.dev/doc/effective_go#interfaces_and_types
     - Interface types https://go.dev/ref/spec#Interface_types
+  - Label
+    - Labels in Go https://medium.com/golangspec/labels-in-go-4ffd81932339
   - Контекст; Context
     - Понимание контекста https://habr.com/ru/articles/864348/
     - Golang Context (A Complete Guide) https://www.kelche.co/blog/go/golang-context/
