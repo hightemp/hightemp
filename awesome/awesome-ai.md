@@ -1008,6 +1008,7 @@
 - AI Engineering by Chip Huyen
 - "Библия Reinforcement Learning" от Ричарда Саттона - второе дополненное издание, которое служит фундаментом для понимания принципов работы современных ИИ-систем, таких как ChatGPT, AlphaGo, AlphaStar, MuZero, OpenAI Five и др. https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
 - Учебник «Artificial Intelligence: A Modern Approach» (http://lib.ysu.am/disciplines_bk/efdd4d1d4c2087fe1cbe03d9ced67f34.pdf) - основополагающий университетский учебник по искусственному интеллекту, написанный Питером Норвигом и Стюартом Расселом в 1995 году, объёмом 1116 страниц.
+- Руководство по обучению больших языковых моделей (LLM) - руководство, предлагающее простое и понятное объяснение основных концепций разработки и развития больших языковых моделей, включая математические основы, нейросети, архитектуру и принципы работы Transformers. https://github.com/aburkov/theLMbook
 
 ### Видео
 
