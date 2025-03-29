@@ -94,3 +94,8 @@
 - How to Remember Everything You Read https://www.youtube.com/watch?v=okHkUIW46ks
 - 3 Levels of Mind Maps Every Student MUST Master https://www.youtube.com/watch?v=V8RxHtoLVTk
 - How To Read Papers Effectively 2024 | Scanning like a Scientist https://www.youtube.com/watch?v=Cv262mV4Mig
+- Pearly (https://youtube.com/@pearlywong)
+- Teacher Tiffani  (https://youtube.com/@speakenglishwithtiffani)
+- Linguamarina (https://youtube.com/@linguamarina)
+- (https://youtube.com/@robinmacphersonfilms?si=oV7aPSZ2VdiYzm6w)Robin MacPherson  (https://youtube.com/@robinmacphersonfilms)
+- Xioamanyc (https://youtube.com/@xiaomanyc)
