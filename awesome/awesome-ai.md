@@ -846,6 +846,7 @@
 - Docker container management and operations through MCP https://github.com/QuantGeekDev/docker-mcp
 - Interact with Postman API https://github.com/delano/postman-mcp-server
 - An MCP server using Playwright for browser automation and webscrapping https://github.com/executeautomation/mcp-playwright
+- Плагин даёт возможность Cursor читать, управлять и видоизменять файлы в Figma напрямую, как настоящий дизайнер. От идеи до полноценного дизайна пройдёт всего пару минут. Гайд по установке — тут. (https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) 
 
 ### Телеграм папки, Telegram folders
 
