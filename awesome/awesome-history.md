@@ -59,12 +59,15 @@
 
 - Электронная база данных археологических находок https://portal.novsu.ru/archeology/db/
 
+### Книги
+
+- Пьер Марешаль, Pierre Sylvain Maréchal
+    - История России
+
 ### Полезные ссылки
 
 ### Статьи
 
-- Пьер Марешаль, Pierre Sylvain Maréchal
-    - История России
 - Археология
     - Культурный слой
         - Что такое культурный слой https://starcheolog.livejournal.com/68646.html
