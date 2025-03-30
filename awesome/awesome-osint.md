@@ -397,3 +397,5 @@
   - OSINT Dojo https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ
   - Forensic OSINT https://www.youtube.com/@ForensicOSINT
   - Layer 8 Conference https://www.youtube.com/@Layer8Conference
+  - Bendobrown https://www.youtube.com/@bendobrown
+  - OSINT-FR https://www.youtube.com/@OSINTFR
