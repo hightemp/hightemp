@@ -50,6 +50,8 @@
 - Белки
     - AP2A1
 - Alpha GPC
+- Бета-аланин
+    - Бета-аланин (β-Alanine или beta-alanine) https://sportwiki.to/Бета-аланин
 - Биохимия 
     - Б. Преобразование сигнала G-белками https://www.drau.ru/article/523.html
     - Механизм действия G-белок-связанных рецепторов https://sportwiki.to/Рецепторы,_связанные_с_G-белками
