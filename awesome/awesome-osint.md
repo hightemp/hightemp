@@ -382,6 +382,50 @@
 - SciURLs — научный агрегатор, объединяющий новости из различных отраслей науки с ведущих сайтов, предлагающий удобный интерфейс, быструю систему поиска и персонализацию ленты новостей. https://sciurls.com/
 - Сайт OSINT Framework представляет собой интерактивный веб-портал, созданный для упрощения разведки по открытым источникам (OSINT — Open Source Intelligence). Он служит каталогом инструментов и ресурсов, которые помогают находить, собирать и анализировать данные из общедоступных источников https://osintframework.com/
 
+### Телеграм каналы
+
+- https://t.me/irozysk
+- https://t.me/rosint_info
+- https://t.me/dark3web
+- https://t.me/gebutcher
+- https://t.me/gijnRu
+- https://t.me/exploitex
+- https://t.me/osintru
+- https://t.me/PushEnter
+- https://t.me/cissp
+- https://t.me/WokeIntelDrops
+- https://t.me/PHOfficial
+- https://t.me/SecLabNews
+- https://t.me/osint_data
+- https://t.me/mytorion
+- https://t.me/osintby
+- https://t.me/black_triangle_tg
+- https://t.me/bugfeature
+- https://t.me/open_source_friend
+- https://t.me/cybdetective
+- https://t.me/b4tr_channel
+- https://t.me/tomhunter
+- https://t.me/R00tCh4n
+- https://t.me/osint_san_framework
+- https://t.me/bellingcat_en
+- https://t.me/brigadaosint
+- https://t.me/securua
+- https://t.me/iskra112
+- https://t.me/Russian_OSINT
+- https://t.me/ci_newsblock
+- https://t.me/dataleak
+- https://t.me/RadiatedMonday
+- https://t.me/osint_club_channel
+- https://t.me/vschannel
+- https://t.me/intellisfera
+- https://t.me/OSINT_Library
+- https://t.me/true_secator
+- https://t.me/in4security
+- https://t.me/forensictools
+- https://t.me/HowToFind
+- https://t.me/freeosint
+- https://t.me/molfar_bi
+
 ### Статьи
 
 - Основное
