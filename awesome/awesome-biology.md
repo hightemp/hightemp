@@ -50,6 +50,9 @@
 - Белки
     - AP2A1
 - Alpha GPC
+- Метилирование генов
+    - Метилирование ДНК https://indicator.ru/label/metilirovanie-dnk
+    - Метилирование ДНК https://axiomabio.com/index.php?route=newsblog%2Farticle&newsblog_path=1&newsblog_article_id=4
 - Бета-аланин
     - Бета-аланин (β-Alanine или beta-alanine) https://sportwiki.to/Бета-аланин
 - Биохимия 
