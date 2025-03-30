@@ -52,9 +52,10 @@
 - Alpha GPC
 - Факторы роста
     - IGF-1 (факторы роста мышц)
+        - Human conditions of insulin-like growth factor-I (IGF-I) deficiency https://translational-medicine.biomedcentral.com/articles/10.1186/1479-5876-10-224
         - IGF-1 (Insulin-like Growth Factor 1) Test https://medlineplus.gov/lab-tests/igf-1-insulin-like-growth-factor-1-test/
         - Your Guide to the Best Supplements for Muscle Growth https://www.healthline.com/nutrition/supplements-for-muscle-gain
-        - IGF1 insulin like growth factor 1 [ Homo sapiens (human) ] https://www.ncbi.nlm.nih.gov/gene/3479
+        - IGF1 insulin like growth factor 1 [ Homo sapiens (human) ] https://www.ncbi.nlm.nih.gov/gene/3479        
 - Креатин
 - Метилирование генов
     - Метилирование ДНК https://indicator.ru/label/metilirovanie-dnk
