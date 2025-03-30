@@ -5,6 +5,7 @@
 - https://osinthub.org/search-by-community
 - https://github.com/0xPugal/Awesome-Dorks
 - https://github.com/Tobee1406/Awesome-Google-Dorks
+- https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT
 
 ### Репозитории
 
