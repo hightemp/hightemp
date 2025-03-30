@@ -401,3 +401,4 @@
   - OSINT-FR https://www.youtube.com/@OSINTFR
   - Into the Shadows https://www.youtube.com/@intotheshadows
   - I.T Security Labs https://www.youtube.com/@ITSecurityLabs
+  - David Bombal https://www.youtube.com/@davidbombal
