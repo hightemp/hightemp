@@ -389,3 +389,11 @@
   - Все знают, где ты находишься https://habr.com/ru/companies/ruvds/articles/879626/
 - Остальное
     - Общедоступные данные дистанционного зондирования Земли: как получить и использовать https://habr.com/ru/articles/505578/
+
+### Видео
+
+- Каналы
+  - The OSINT Curious Project https://www.youtube.com/channel/UCjzceWf-OT3ImIKztzGkipA
+  - OSINT Dojo https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ
+  - Forensic OSINT https://www.youtube.com/@ForensicOSINT
+  - Layer 8 Conference https://www.youtube.com/@Layer8Conference
