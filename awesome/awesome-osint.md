@@ -4,6 +4,7 @@
 - https://github.com/OhShINT/ohshint.gitbook.io
 - https://osinthub.org/search-by-community
 - https://github.com/0xPugal/Awesome-Dorks
+- https://github.com/Tobee1406/Awesome-Google-Dorks
 
 ### Репозитории
 
