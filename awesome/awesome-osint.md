@@ -400,3 +400,4 @@
   - Bendobrown https://www.youtube.com/@bendobrown
   - OSINT-FR https://www.youtube.com/@OSINTFR
   - Into the Shadows https://www.youtube.com/@intotheshadows
+  - I.T Security Labs https://www.youtube.com/@ITSecurityLabs
