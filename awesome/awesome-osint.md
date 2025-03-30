@@ -425,6 +425,8 @@
 - https://t.me/HowToFind
 - https://t.me/freeosint
 - https://t.me/molfar_bi
+- https://t.me/espyOSINT
+- https://t.me/OsintLosena
 
 ### Статьи
 
