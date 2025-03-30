@@ -3,6 +3,7 @@
 - https://github.com/The-Osint-Toolbox/Geolocation-OSINT
 - https://github.com/OhShINT/ohshint.gitbook.io
 - https://osinthub.org/search-by-community
+- https://github.com/0xPugal/Awesome-Dorks
 
 ### Репозитории
 
