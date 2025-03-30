@@ -57,6 +57,7 @@
         - Your Guide to the Best Supplements for Muscle Growth https://www.healthline.com/nutrition/supplements-for-muscle-gain
         - IGF1 insulin like growth factor 1 [ Homo sapiens (human) ] https://www.ncbi.nlm.nih.gov/gene/3479        
 - Креатин
+    - Креатин: полное руководство по приему и эффективности https://ac-t.ru/articles/kreatin-polnoe-rukovodstvo-po-/
 - Метилирование генов
     - Метилирование ДНК https://indicator.ru/label/metilirovanie-dnk
     - Метилирование ДНК https://axiomabio.com/index.php?route=newsblog%2Farticle&newsblog_path=1&newsblog_article_id=4
