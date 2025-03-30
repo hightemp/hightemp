@@ -10,6 +10,7 @@
 - https://biokhimija.ru/gormony/vidy-receptorov.html
 - https://metabolicpathways.stanford.edu/
 - https://www.proteinatlas.org/
+- SportWiki — это онлайн-энциклопедия, посвящённая фитнесу, бодибилдингу, спортивному питанию и тренировкам, предоставляющая подробную информацию и советы для спортсменов и любителей. https://sportwiki.to/
 
 ### Репозитории
 
