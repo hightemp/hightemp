@@ -58,6 +58,8 @@
         - IGF1 insulin like growth factor 1 [ Homo sapiens (human) ] https://www.ncbi.nlm.nih.gov/gene/3479        
 - Креатин
     - Креатин: полное руководство по приему и эффективности https://ac-t.ru/articles/kreatin-polnoe-rukovodstvo-po-/
+    - Креатин https://ru.wikipedia.org/wiki/Креатин
+    - Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation https://www.nature.com/articles/s41598-024-54249-9
 - Метилирование генов
     - Метилирование ДНК https://indicator.ru/label/metilirovanie-dnk
     - Метилирование ДНК https://axiomabio.com/index.php?route=newsblog%2Farticle&newsblog_path=1&newsblog_article_id=4
