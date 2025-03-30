@@ -51,7 +51,7 @@
     - AP2A1
 - Alpha GPC
 - Факторы роста
-    - IGF-1
+    - IGF-1 (факторы роста мышц)
         - IGF-1 (Insulin-like Growth Factor 1) Test https://medlineplus.gov/lab-tests/igf-1-insulin-like-growth-factor-1-test/
 - Метилирование генов
     - Метилирование ДНК https://indicator.ru/label/metilirovanie-dnk
