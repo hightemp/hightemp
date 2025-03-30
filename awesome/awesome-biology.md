@@ -50,6 +50,9 @@
 - Белки
     - AP2A1
 - Alpha GPC
+- Факторы роста
+    - IGF-1
+        - IGF-1 (Insulin-like Growth Factor 1) Test https://medlineplus.gov/lab-tests/igf-1-insulin-like-growth-factor-1-test/
 - Метилирование генов
     - Метилирование ДНК https://indicator.ru/label/metilirovanie-dnk
     - Метилирование ДНК https://axiomabio.com/index.php?route=newsblog%2Farticle&newsblog_path=1&newsblog_article_id=4
