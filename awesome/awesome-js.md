@@ -77,6 +77,9 @@
     - What is JavaScript Concurrency and a Deep Dive into the Event Loop, Async Operations, and Real-World Examples https://www.mbloging.com/post/mastering-javascript-concurrency-a-deep-dive-into-the-event-loop-async-operations-and-real-world
   - Остальное
     - WeakMap и WeakSet в JavaScript https://habr.com/ru/companies/otus/articles/865512/
+- Typescript
+  - Enum
+    - TypeScript enums: Usage, advantages, and best practices https://blog.logrocket.com/typescript-enum/?ref=dailydev
 - Алгоритмы
   - JavaScript: структуры данных и алгоритмы. Часть 7 https://habr.com/ru/companies/timeweb/articles/856046/
 - VSCode
