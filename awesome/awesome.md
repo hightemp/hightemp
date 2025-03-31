@@ -215,6 +215,10 @@
     - https://www.ef.com/wwen/english-resources/english-idioms/
     - https://www.cambridge.es/en/catalogue/grammar-vocabulary-and-pronunciation/vocabulary/english-idioms-in-use-second-edition
 
+## Операционные системы
+
+- https://cryptosoft.ru/qpos.html
+
 ## Инструменты
 
 - https://onlineyamltools.com/
