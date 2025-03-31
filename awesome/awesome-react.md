@@ -125,6 +125,8 @@
 
 ### Статьи
 
+- Что нового
+    - Вышел React v19 https://habr.com/ru/articles/865416/
 - Основное
     - Хуки
         - useState
