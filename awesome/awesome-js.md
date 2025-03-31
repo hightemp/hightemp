@@ -71,6 +71,8 @@
 
 ### Статьи
 
+- Что нового
+  - Frontend в 2025 году: тренды, которые изменят разработку https://habr.com/ru/companies/usetech/articles/866268/
 - Основы
   - Event loop; Цикл событий
     - Understanding the Event Loop in JavaScript: A Comprehensive Guide https://learncodecamp.net/event-loop-in-javascript/
