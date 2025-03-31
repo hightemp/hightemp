@@ -452,6 +452,8 @@
     - Go и плагины https://habr.com/ru/articles/647623/
     - Пишем модульную Go программу с плагинами https://kovardin.ru/articles/go/plugins/
     - Pluggable Architecture in About 300 Lines of Code https://haykot.dev/blog/pluggable-architecture-in-about-300-lines-of-code/
+  - regexp
+    - Коротко про regexp в Go https://habr.com/ru/companies/otus/articles/889320/
   - init
     - \[Memo\] Go init behavior https://articles.singee.me/go-init-behaviour
     - Understanding Init Function in Go With Examples https://linuxhandbook.com/go-init-function/
