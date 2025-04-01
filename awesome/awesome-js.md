@@ -98,6 +98,7 @@
     - MikroORM
       - Introducing MikroORM, TypeScript data-mapper ORM with Identity Map https://medium.com/dailyjs/introducing-mikro-orm-typescript-data-mapper-orm-with-identity-map-9ba58d049e02
       - Easy Database Population with MikroORM, NestJS, and Seeders https://medium.com/@kisora.thomas/easy-database-population-with-mikroorm-nestjs-and-seeders-d86da561f2e9
+      - Choosing the Right TypeScript ORM: MikroORM vs. TypeORM https://medium.com/@mybytecode/choosing-the-right-typescript-orm-mikroorm-vs-typeorm-fed5d7d9b514
   - NoSQL
     - Mongoose
   - Остальное
