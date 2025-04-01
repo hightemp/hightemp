@@ -112,6 +112,8 @@
         - syslog-ng https://wiki.archlinux.org/title/Syslog-ng
     - Утилиты
         - logger
+    - Логирование
+        - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/
     - Остальное
 - ZRAM
     - Memory Compression https://www.linux-magazine.com/Issues/2018/215/Memory-Compression
