@@ -92,6 +92,10 @@
   - Mastering Microservices: A Hands-On Tutorial with Node.js, RabbitMQ, Nginx, and Docker https://dev.to/davydocsurg/mastering-microservices-a-hands-on-tutorial-with-nodejs-rabbitmq-nginx-and-docker-m4f
 - Базы данных
   - Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
+- ORM
+  - TypeORM
+  - Prisma
+  - Sequelize
 - Оптимизация
   - Убийцы оптимизации https://frontender.info/optimization-killers/
 - Генераторы
