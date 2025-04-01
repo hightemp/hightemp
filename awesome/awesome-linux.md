@@ -111,15 +111,17 @@
         - True Zero Downtime HAProxy Reloads (В статье описывается, как Yelp реализовала решение для перезагрузки HAProxy без простоя, используя дисциплины очередей (qdiscs) в Linux для задержки SYN-пакетов во время перезагрузки, тем самым избегая обрывов соединений и минимизируя задержку по сравнению с другими подходами, такими как отбрасывание SYN-пакетов.) https://web.archive.org/web/20220520183147/https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html
     - /dev
         - Understanding the /dev Directory in Linux https://www.baeldung.com/linux/dev-directory
-    - syslog
-        - syslog-ng https://wiki.archlinux.org/title/Syslog-ng
     - Утилиты
         - logger
     - Файловая система
         - Files and Filesystems https://adamdjellouli.com/articles/linux_notes/file_system
     - Логирование
-        - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/
-        - Log Files, Journals, and Logging Systems https://adamdjellouli.com/articles/linux_notes/log_files_and_journals
+        - Основное
+            - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/
+            - Log Files, Journals, and Logging Systems https://adamdjellouli.com/articles/linux_notes/log_files_and_journals
+        - syslog
+            - How to Set Up Centralized Logging on Linux with Rsyslog https://betterstack.com/community/guides/logging/how-to-configure-centralised-rsyslog-server/
+            - syslog-ng https://wiki.archlinux.org/title/Syslog-ng
     - Остальное
 - ZRAM
     - Memory Compression https://www.linux-magazine.com/Issues/2018/215/Memory-Compression
