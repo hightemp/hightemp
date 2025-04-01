@@ -220,6 +220,7 @@
 - https://medium.com/dailyjs
 - https://www.mbloging.com/category/javascript
 - https://niallmckenna.com/
+- https://www.sitepoint.com/tag/javascript/
 
 ### Вопросы
 
