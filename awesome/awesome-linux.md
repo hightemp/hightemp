@@ -78,6 +78,7 @@
 - https://penkovski.com/
 - https://linuxexplore.com/
 - https://www.linuxlinks.com/
+- https://adamdjellouli.com/articles/linux_notes
 
 ### Статьи
 
