@@ -117,6 +117,7 @@
         - ncat
             - Ncat, Netcat, nc https://kali.tools/?p=4578
         - nc
+            - https://www.hackingarticles.in/best-alternative-of-netcat-listener/
         - socat
         - logger
     - Файловая система
