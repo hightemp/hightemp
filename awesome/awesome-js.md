@@ -97,6 +97,7 @@
     - Sequelize
     - MikroORM
       - Introducing MikroORM, TypeScript data-mapper ORM with Identity Map https://medium.com/dailyjs/introducing-mikro-orm-typescript-data-mapper-orm-with-identity-map-9ba58d049e02
+      - Easy Database Population with MikroORM, NestJS, and Seeders https://medium.com/@kisora.thomas/easy-database-population-with-mikroorm-nestjs-and-seeders-d86da561f2e9
   - NoSQL
     - Mongoose
   - Остальное
