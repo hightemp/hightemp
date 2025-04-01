@@ -116,6 +116,7 @@
         - logger
     - Логирование
         - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/
+        - Log Files, Journals, and Logging Systems https://adamdjellouli.com/articles/linux_notes/log_files_and_journals
     - Остальное
 - ZRAM
     - Memory Compression https://www.linux-magazine.com/Issues/2018/215/Memory-Compression
