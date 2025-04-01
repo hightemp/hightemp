@@ -95,6 +95,8 @@
     - TypeORM
     - Prisma
     - Sequelize
+    - MikroORM
+      - Introducing MikroORM, TypeScript data-mapper ORM with Identity Map https://medium.com/dailyjs/introducing-mikro-orm-typescript-data-mapper-orm-with-identity-map-9ba58d049e02
   - NoSQL
     - Mongoose
   - Остальное
