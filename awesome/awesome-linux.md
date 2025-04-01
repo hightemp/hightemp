@@ -113,6 +113,10 @@
     - /dev
         - Understanding the /dev Directory in Linux https://www.baeldung.com/linux/dev-directory
     - Утилиты
+        - ncat
+            - Ncat, Netcat, nc https://kali.tools/?p=4578
+        - nc
+        - socat
         - logger
     - Файловая система
         - Files and Filesystems https://adamdjellouli.com/articles/linux_notes/file_system
