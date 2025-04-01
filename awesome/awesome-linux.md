@@ -124,6 +124,9 @@
             - How to Set Up Centralized Logging on Linux with Rsyslog https://betterstack.com/community/guides/logging/how-to-configure-centralised-rsyslog-server/
             - syslog-ng https://wiki.archlinux.org/title/Syslog-ng
     - Остальное
+- Файрволы, Firewalls
+    - ufw
+        - How to Set Up a Firewall with UFW on Ubuntu https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu
 - ZRAM
     - Memory Compression https://www.linux-magazine.com/Issues/2018/215/Memory-Compression
     - Benad's Web Site; RAM Compression on Linux https://benad.me/blog/2021/02/23/ram-compression-on-linux/
