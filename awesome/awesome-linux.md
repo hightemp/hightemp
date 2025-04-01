@@ -79,6 +79,7 @@
 - https://linuxexplore.com/
 - https://www.linuxlinks.com/
 - https://adamdjellouli.com/articles/linux_notes
+- https://betterstack.com/tag/linux?utm_content=&utm_medium=guides&utm_source=community&utm_term=how-to-configure-centralised-rsyslog-server
 
 ### Статьи
 
