@@ -115,6 +115,8 @@
         - syslog-ng https://wiki.archlinux.org/title/Syslog-ng
     - Утилиты
         - logger
+    - Файловая система
+        - Files and Filesystems https://adamdjellouli.com/articles/linux_notes/file_system
     - Логирование
         - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/
         - Log Files, Journals, and Logging Systems https://adamdjellouli.com/articles/linux_notes/log_files_and_journals
