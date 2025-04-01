@@ -119,6 +119,8 @@
             - Grafana Loki https://docs.digitalocean.com/products/marketplace/catalog/grafana-loki/
     - Остальное
         - Логи из docker compose / docker swarm в Grafana / Loki быстро и просто https://habr.com/ru/articles/784410/
+- Haproxy
+    - Introduction to HAProxy Logging https://www.haproxy.com/blog/introduction-to-haproxy-logging
 - DevSecOps
     - Внедряем DevSecOps в процесс разработки. Часть 1. Обзор инструментов, Pre-commit Checks https://habr.com/ru/companies/spectr/articles/724914/
     - Внедряем DevSecOps в процесс разработки. Часть 2. Обзор инструментов, Commit-time Checks https://habr.com/ru/companies/spectr/articles/817267/
