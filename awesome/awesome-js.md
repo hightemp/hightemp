@@ -92,6 +92,8 @@
   - Mastering Microservices: A Hands-On Tutorial with Node.js, RabbitMQ, Nginx, and Docker https://dev.to/davydocsurg/mastering-microservices-a-hands-on-tutorial-with-nodejs-rabbitmq-nginx-and-docker-m4f
 - Базы данных
   - ORM
+    - Основное
+      - 9 Best JavaScript and TypeScript ORMs for 2024 https://www.sitepoint.com/javascript-typescript-orms/
     - TypeORM
     - Prisma
     - Sequelize
