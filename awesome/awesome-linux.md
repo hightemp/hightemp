@@ -108,6 +108,8 @@
         - Performance Optimisation using SO_REUSEPORT https://medium.com/high-performance-network-programming/performance-optimisation-using-so-reuseport-c0fe4f2d3f88
         - Perfect locality and three epic SystemTap scripts https://blog.cloudflare.com/perfect-locality-and-three-epic-systemtap-scripts/
         - True Zero Downtime HAProxy Reloads (В статье описывается, как Yelp реализовала решение для перезагрузки HAProxy без простоя, используя дисциплины очередей (qdiscs) в Linux для задержки SYN-пакетов во время перезагрузки, тем самым избегая обрывов соединений и минимизируя задержку по сравнению с другими подходами, такими как отбрасывание SYN-пакетов.) https://web.archive.org/web/20220520183147/https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html
+    - /dev
+        - Understanding the /dev Directory in Linux https://www.baeldung.com/linux/dev-directory
     - syslog
         - syslog-ng https://wiki.archlinux.org/title/Syslog-ng
     - Утилиты
