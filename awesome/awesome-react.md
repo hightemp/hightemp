@@ -126,6 +126,7 @@
 ### Статьи
 
 - Что нового
+    - Что нового в React 19 https://habr.com/ru/companies/timeweb/articles/843016/
     - Вышел React v19 https://habr.com/ru/articles/865416/
 - Основное
     - Хуки
@@ -266,7 +267,6 @@
 - Roadmap
     - 2025 React Frontend Roadmap: Beginner to Senior Level https://dev.to/tak089/2025-react-frontend-roadmap-beginner-to-senior-level-5g25
 - Остальное
-    - Что нового в React 19 https://habr.com/ru/companies/timeweb/articles/843016/
     - Typescript для React https://habr.com/ru/articles/860418/
     - Code Splitting for React https://xylophone.hashnode.dev/code-splitting-for-react
     - Бесплатное обучение фулстек-разработке веб-сервиса с нуля по видео-урокам с исходным кодом и поддержкой https://habr.com/ru/articles/866678/
