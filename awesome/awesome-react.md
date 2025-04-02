@@ -172,6 +172,7 @@
             - Choosing between useReducer and useState in React https://blog.saeloun.com/2023/03/30/when-to-use-usestate-vs-usereducer/
         - useLayoutEffect
             - React hooks, как не выстрелить себе в ноги. Часть 2: useEffect и useLayoutEffect https://habr.com/ru/companies/otus/articles/668700/
+        - useTransition
         - useActionState
         - useFormStatus
         - useOptimistic
