@@ -187,6 +187,7 @@
             - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
     - Suspense
         - How to Use React Suspense to Improve your React Projects https://www.freecodecamp.org/news/react-suspense/
+        - React Suspense - A complete guide https://hygraph.com/blog/react-suspense
     - Остальное
 - Тестирование
     - Jest
