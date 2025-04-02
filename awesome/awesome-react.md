@@ -173,6 +173,7 @@
         - useLayoutEffect
             - React hooks, как не выстрелить себе в ноги. Часть 2: useEffect и useLayoutEffect https://habr.com/ru/companies/otus/articles/668700/
         - useTransition
+            - How to Use the useTransition Hook in React to Improve Performance https://www.dhiwise.com/post/how-to-use-the-usetransition-hook-in-react-to-improve-performance
         - useActionState
         - useFormStatus
         - useOptimistic
