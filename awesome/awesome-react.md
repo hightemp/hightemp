@@ -188,6 +188,7 @@
     - Suspense
         - How to Use React Suspense to Improve your React Projects https://www.freecodecamp.org/news/react-suspense/
         - React Suspense - A complete guide https://hygraph.com/blog/react-suspense
+        - Understanding the Suspense Component in ReactJS: A Comprehensive Guide with Real-Life Examples https://medium.com/zestgeek/understanding-the-suspense-component-in-reactjs-a-comprehensive-guide-with-real-life-examples-141d86b9ca9c
     - Остальное
 - Тестирование
     - Jest
