@@ -133,6 +133,7 @@
             - How to Set Up Centralized Logging on Linux with Rsyslog https://betterstack.com/community/guides/logging/how-to-configure-centralised-rsyslog-server/
             - How to Collect, Process, and Ship Log Data with Rsyslog https://betterstack.com/community/guides/logging/rsyslog-explained/
             - syslog-ng https://wiki.archlinux.org/title/Syslog-ng
+            - Beginner's Guide to Syslogs in Linux https://linuxhandbook.com/syslog-guide/
     - Остальное
 - Файрволы, Firewalls
     - ufw
