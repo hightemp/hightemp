@@ -128,6 +128,7 @@
             - Log Files, Journals, and Logging Systems https://adamdjellouli.com/articles/linux_notes/log_files_and_journals
         - syslog
             - How to Set Up Centralized Logging on Linux with Rsyslog https://betterstack.com/community/guides/logging/how-to-configure-centralised-rsyslog-server/
+            - How to Collect, Process, and Ship Log Data with Rsyslog https://betterstack.com/community/guides/logging/rsyslog-explained/
             - syslog-ng https://wiki.archlinux.org/title/Syslog-ng
     - Остальное
 - Файрволы, Firewalls
