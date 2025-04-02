@@ -121,6 +121,7 @@
         - socat
         - logger
             - Master the Linux ‘logger’ Command: A Comprehensive Guide https://hopeness.medium.com/master-the-linux-logger-command-a-comprehensive-guide-7743265e1ae1
+            - logger Command https://www.ibm.com/docs/en/aix/7.2?topic=l-logger-command
     - Файловая система
         - Files and Filesystems https://adamdjellouli.com/articles/linux_notes/file_system
     - Логирование
