@@ -174,6 +174,7 @@
             - React hooks, как не выстрелить себе в ноги. Часть 2: useEffect и useLayoutEffect https://habr.com/ru/companies/otus/articles/668700/
         - useTransition
             - How to Use the useTransition Hook in React to Improve Performance https://www.dhiwise.com/post/how-to-use-the-usetransition-hook-in-react-to-improve-performance
+            - useTransition hook in React 19 https://dev.to/m3cv1no/usetransition-hook-in-react-19-4if
         - useActionState
             - useActionState: A New Hero in the React World https://medium.com/@an.chmelev/useactionstate-a-new-hero-in-the-react-world-d41400d1771f
             - Understanding the useActionState Hook in React: Real-Life Examples https://medium.com/zestgeek/understanding-the-useactionstate-hook-in-react-real-life-examples-f1d2350d4932
