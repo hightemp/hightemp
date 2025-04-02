@@ -604,6 +604,7 @@
   - Swiss Table
     - SwissTable: A High-Performance Hash Table Implementation https://dev.to/huizhou92/swisstable-a-high-performance-hash-table-implementation-1knc
     - SwissMap: A smaller, faster Golang Hash Table https://www.dolthub.com/blog/2023-03-28-swiss-map/
+    - Go 1.24 — swiss tables новая реализация map https://habr.com/ru/articles/890570/
   - Scheduler, Планировщик
     - Go Concurrency Series: Deep Dive into Go Scheduler(I) https://pratikpandey.substack.com/p/go-concurrency-series-deep-dive-into
     - Go Concurrency Series: Deep Dive into Go Scheduler(II) https://pratikpandey.substack.com/p/go-concurrency-series-deep-dive-into-1a0
