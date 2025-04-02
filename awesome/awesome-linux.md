@@ -127,6 +127,7 @@
         - Основное
             - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/
             - Log Files, Journals, and Logging Systems https://adamdjellouli.com/articles/linux_notes/log_files_and_journals
+            - Linux System Logging https://medium.com/@The_Anshuman/linux-system-logging-a13142336602
         - syslog
             - How to Set Up Centralized Logging on Linux with Rsyslog https://betterstack.com/community/guides/logging/how-to-configure-centralised-rsyslog-server/
             - How to Collect, Process, and Ship Log Data with Rsyslog https://betterstack.com/community/guides/logging/rsyslog-explained/
