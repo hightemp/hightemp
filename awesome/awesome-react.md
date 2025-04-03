@@ -312,6 +312,8 @@
 - Курсы
     - https://www.youtube.com/playlist?list=PL1DRqC1tfkrBjO4SDcg5EwKnCnk27yQVD
     - THE BIGGEST REACT.JS COURSE ON THE INTERNET ( PART 1 ) https://www.youtube.com/watch?v=qnwFpjIqsrA
+- Остальное
+    - React 18 for External Store Libraries https://www.youtube.com/watch?v=oPfSC5bQPR8
 
 ### Stackoverflow
 
