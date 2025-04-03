@@ -300,3 +300,7 @@
 - Курсы
     - https://www.youtube.com/playlist?list=PL1DRqC1tfkrBjO4SDcg5EwKnCnk27yQVD
     - THE BIGGEST REACT.JS COURSE ON THE INTERNET ( PART 1 ) https://www.youtube.com/watch?v=qnwFpjIqsrA
+
+### Stackoverflow
+
+- When to use useImperativeHandle, useLayoutEffect, and useDebugValue https://stackoverflow.com/questions/57005663/when-to-use-useimperativehandle-uselayouteffect-and-usedebugvalue
