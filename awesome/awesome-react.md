@@ -194,6 +194,8 @@
             - Unveiling React’s useDebugValue Hook: Simplifying Debugging with Examples https://medium.com/zestgeek/unveiling-reacts-usedebugvalue-hook-simplifying-debugging-with-examples-015a1af72678
             - useDebugValue: A Complete Guide https://deadsimplechat.com/blog/usedebugvalue/
         - useId
+            - [React] Разбираем useId( ) хук под микроскопом https://habr.com/ru/articles/745232/
+            - A Complete Guide to useId() Hook in React 18 https://hetdesai03.medium.com/a-complete-guide-to-useid-hook-in-react-18-22119ecfd87f
         - useSyncExternalStore
         - Остальное
             - Все хуки и концепты React в одной статье https://habr.com/ru/articles/660573/
