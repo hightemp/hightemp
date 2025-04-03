@@ -208,6 +208,7 @@
         - Understanding the Suspense Component in ReactJS: A Comprehensive Guide with Real-Life Examples https://medium.com/zestgeek/understanding-the-suspense-component-in-reactjs-a-comprehensive-guide-with-real-life-examples-141d86b9ca9c
     - Остальное
         - Glossary + Explain Like I'm Five https://github.com/reactwg/react-18/discussions/46
+        - What is tearing? https://github.com/reactwg/react-18/discussions/69
 - Тестирование
     - Jest
         - React: тестируем компоненты с помощью Jest и Testing Library https://habr.com/ru/companies/timeweb/articles/670480/
