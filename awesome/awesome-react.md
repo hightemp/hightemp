@@ -197,6 +197,7 @@
             - [React] Разбираем useId( ) хук под микроскопом https://habr.com/ru/articles/745232/
             - A Complete Guide to useId() Hook in React 18 https://hetdesai03.medium.com/a-complete-guide-to-useid-hook-in-react-18-22119ecfd87f
         - useSyncExternalStore
+            - Заметка о хуке useSyncExternalStore https://habr.com/ru/companies/timeweb/articles/720136/
         - Остальное
             - Все хуки и концепты React в одной статье https://habr.com/ru/articles/660573/
             - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
