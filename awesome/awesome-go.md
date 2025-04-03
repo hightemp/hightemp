@@ -1050,6 +1050,7 @@
       - Common anti-patterns in Go https://deepsource.com/blog/common-antipatterns-in-go
       - Anti-patterns https://quii.gitbook.io/learn-go-with-tests/meta/anti-patterns
       - Go Patterns and Anti-Patterns https://appmaster.io/blog/go-patterns-anti-patterns
+      - Go Antipatterns https://hackmysql.com/golang/go-antipatterns/
     - Concurrency Patterns
       - Основное
         - Разбираем конкурентность в Go: книги, блоги, выступления https://engineer.yadro.com/article/kak-pisat-konkurentnyj-kod-v-go/
