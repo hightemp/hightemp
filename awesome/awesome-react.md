@@ -126,6 +126,7 @@
 - https://dev.to/t/react
 - https://medium.com/tag/reactjs
 - https://medium.com/tag/react
+- https://barrymichaeldoyle.com/blog
 
 ### Статьи
 
