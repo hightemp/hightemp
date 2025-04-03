@@ -188,6 +188,7 @@
             - Mastering React’s useImperativeHandle Hook: A Comprehensive Guide with Examples https://medium.com/zestgeek/mastering-reacts-useimperativehandle-hook-a-comprehensive-guide-with-examples-acb16872d99a
         - useDebugValue
             - Unveiling React’s useDebugValue Hook: Simplifying Debugging with Examples https://medium.com/zestgeek/unveiling-reacts-usedebugvalue-hook-simplifying-debugging-with-examples-015a1af72678
+            - useDebugValue: A Complete Guide https://deadsimplechat.com/blog/usedebugvalue/
         - useId
         - useSyncExternalStore
         - Остальное
