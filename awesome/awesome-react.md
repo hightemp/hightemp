@@ -202,6 +202,7 @@
             - Все хуки и концепты React в одной статье https://habr.com/ru/articles/660573/
             - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
     - Suspense
+        - New Suspense SSR Architecture in React 18 https://github.com/reactwg/react-18/discussions/37
         - How to Use React Suspense to Improve your React Projects https://www.freecodecamp.org/news/react-suspense/
         - React Suspense - A complete guide https://hygraph.com/blog/react-suspense
         - Understanding the Suspense Component in ReactJS: A Comprehensive Guide with Real-Life Examples https://medium.com/zestgeek/understanding-the-suspense-component-in-reactjs-a-comprehensive-guide-with-real-life-examples-141d86b9ca9c
