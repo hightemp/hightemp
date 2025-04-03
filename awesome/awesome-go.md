@@ -1476,6 +1476,7 @@
 - https://bitfieldconsulting.com/posts/
 - https://tillitsdone.com/blog_category/golang/
 - https://deepsource.com/blog
+- https://hackmysql.com/tags/golang/
 
 ### Подкасты
 
