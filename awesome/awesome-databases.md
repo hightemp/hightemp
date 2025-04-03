@@ -136,6 +136,7 @@
     - Репликация
         - Как устроена MySQL-репликация https://highload.guide/blog/mysql_replication_2015.html
     - Остальное
+        - Monitoring Multi-threaded Replication Lag With Performance Schema https://hackmysql.com/monitoring-replication-lag-with-performance-schema/
 - Clickhouse
     - Основное
         - ClickHouse для продвинутых пользователей в вопросах и ответах https://habr.com/ru/companies/avito/articles/500678/
@@ -163,6 +164,7 @@
 - MySQL
     - https://www.percona.com/blog/category/mysql/
     - https://peter-zaitsev.livejournal.com/
+    - https://hackmysql.com/tags/mysql/
 - PostgreSQL
     - https://habr.com/ru/companies/postgrespro/articles/
     - https://devmark.ru/articles/tag/postgresql
