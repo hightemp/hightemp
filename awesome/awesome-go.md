@@ -1047,6 +1047,7 @@
       - Common Anti-Patterns in Go Web Applications https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
       - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
       - You don’t need orm in Go https://medium.com/@enverbisevac/you-dont-need-orm-in-go-9216fb74cdfd
+      - Common anti-patterns in Go https://deepsource.com/blog/common-antipatterns-in-go
     - Concurrency Patterns
       - Основное
         - Разбираем конкурентность в Go: книги, блоги, выступления https://engineer.yadro.com/article/kak-pisat-konkurentnyj-kod-v-go/
