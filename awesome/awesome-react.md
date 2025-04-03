@@ -216,6 +216,8 @@
         - React JS Jest: Beginner's Guide https://daily.dev/blog/react-js-jest-beginners-guide
         - Как я перестал беспокоиться и полюбил тестирование React-компонентов https://habr.com/ru/companies/elbrusbootcamp/articles/651033/
 - React Router
+    - Основное
+        - React Router Hooks: Изучение принципов их работы https://habr.com/ru/companies/otus/articles/574428/
     - useHistory
         - useHistory https://v5.reactrouter.com/web/api/Hooks/usehistory
     - Остальное
