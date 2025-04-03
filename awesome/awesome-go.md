@@ -1472,6 +1472,7 @@
 - https://golangforall.com/ru/
 - https://bitfieldconsulting.com/posts/
 - https://tillitsdone.com/blog_category/golang/
+- https://deepsource.com/blog
 
 ### Подкасты
 
