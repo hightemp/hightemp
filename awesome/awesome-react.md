@@ -180,11 +180,12 @@
             - Understanding the useActionState Hook in React: Real-Life Examples https://medium.com/zestgeek/understanding-the-useactionstate-hook-in-react-real-life-examples-f1d2350d4932
         - useFormStatus
             - Understanding the useFormStatus Hook in React: A Comprehensive Guide with Examples https://medium.com/zestgeek/understanding-the-useformstatus-hook-in-react-a-comprehensive-guide-with-examples-7dc6bdfbeb0d
-        - useOptimistic
-        - useImperativeHandle
         - useDeferredValue
             - Understanding useDeferredValue in React: Enhancing Performance with Deferred Rendering https://medium.com/@ignatovich.dm/understanding-usedeferredvalue-in-react-enhancing-performance-with-deferred-rendering-ec8eb28aa997
             - Understanding React’s useDeferredValue Hook: A Comprehensive Guide with Examples https://medium.com/zestgeek/understanding-reacts-usedeferredvalue-hook-a-comprehensive-guide-with-examples-f8aa3361ee23
+        - useOptimistic
+        - useImperativeHandle
+            - Mastering React’s useImperativeHandle Hook: A Comprehensive Guide with Examples https://medium.com/zestgeek/mastering-reacts-useimperativehandle-hook-a-comprehensive-guide-with-examples-acb16872d99a
         - useDebugValue
         - useId
         - useSyncExternalStore
