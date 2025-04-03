@@ -1043,6 +1043,9 @@
     - Golang: Project Structure https://bytegoblin.io/blog/golang-project-structure
   - Остальное    
   - 🏗️ Паттерны
+    - Анти-паттерны, Anti-patterns
+      - Common Anti-Patterns in Go Web Applications https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
+      - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
     - Concurrency Patterns
       - Основное
         - Разбираем конкурентность в Go: книги, блоги, выступления https://engineer.yadro.com/article/kak-pisat-konkurentnyj-kod-v-go/
@@ -1094,8 +1097,6 @@
       - Design Patterns in Golang: The Good, the Bad and the Ugly https://blog.ralch.com/articles/design-patterns/golang-design-patterns/
       - Abstract Factory Design Pattern in Go: A Comprehensive Guide https://softwarepatternslexicon.com/patterns-go/2/1/1/
       - Sidecar на Go: позволь другому заниматься твоими проблемами https://habr.com/ru/companies/otus/articles/852642/
-      - Common Anti-Patterns in Go Web Applications https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
-      - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
       - Microservices test architecture. Can you sleep well without end-to-end tests? https://threedots.tech/post/microservices-test-architecture/
       - Safeguarding changes using the plan-execute pattern https://tn1ck.com/blog/update-plans
       - Golang Design Patterns: Creational Patterns https://medium.com/@asgrr/golang-design-patterns-creational-patterns-5b8fdb4f5ae4
