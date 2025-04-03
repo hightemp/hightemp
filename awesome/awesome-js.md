@@ -90,6 +90,8 @@
 - Примеры приложений
   - Tutorial: Create multi-container apps with MySQL and Docker Compose https://learn.microsoft.com/en-us/visualstudio/docker/tutorials/tutorial-multi-container-app-mysql
   - Mastering Microservices: A Hands-On Tutorial with Node.js, RabbitMQ, Nginx, and Docker https://dev.to/davydocsurg/mastering-microservices-a-hands-on-tutorial-with-nodejs-rabbitmq-nginx-and-docker-m4f
+- Media
+  - Understanding window.matchMedia: A Key Tool for Responsive Web Design https://medium.com/@nadeem.ahmad.na/understanding-window-matchmedia-a-key-tool-for-responsive-web-design-25966c3538e3
 - Базы данных
   - ORM
     - Основное
