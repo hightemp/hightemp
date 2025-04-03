@@ -184,6 +184,7 @@
         - useImperativeHandle
         - useDeferredValue
             - Understanding useDeferredValue in React: Enhancing Performance with Deferred Rendering https://medium.com/@ignatovich.dm/understanding-usedeferredvalue-in-react-enhancing-performance-with-deferred-rendering-ec8eb28aa997
+            - The useDeferredValue Hook: A Simple Way to Improve Performance https://medium.com/@mujaffarhssn/the-usedeferredvalue-hook-a-simple-way-to-improve-performance-7f457600cab6
         - useDebugValue
         - useId
         - useSyncExternalStore
