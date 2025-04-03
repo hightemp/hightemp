@@ -184,6 +184,7 @@
             - Understanding useDeferredValue in React: Enhancing Performance with Deferred Rendering https://medium.com/@ignatovich.dm/understanding-usedeferredvalue-in-react-enhancing-performance-with-deferred-rendering-ec8eb28aa997
             - Understanding React’s useDeferredValue Hook: A Comprehensive Guide with Examples https://medium.com/zestgeek/understanding-reacts-usedeferredvalue-hook-a-comprehensive-guide-with-examples-f8aa3361ee23
         - useOptimistic
+            - React useOptimistic and useTransition hooks Explained https://reetesh.in/blog/react-useoptimistic-and-usetransition-hooks-explained
         - useImperativeHandle
             - Mastering React’s useImperativeHandle Hook: A Comprehensive Guide with Examples https://medium.com/zestgeek/mastering-reacts-useimperativehandle-hook-a-comprehensive-guide-with-examples-acb16872d99a
         - useDebugValue
