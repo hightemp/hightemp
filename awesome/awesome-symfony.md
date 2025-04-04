@@ -151,6 +151,8 @@
     - Symfony Scheduler — How it Really Works https://medium.com/@fico7489/symfony-scheduler-how-it-really-works-ef5d95409c09  
   - Загрука файлов
     - Symfony 5 - Upload a file https://weenesta.com/en/blog/post/symfony-5-upload-file
+  - HasLifecycleCallbacks
+    - How to Work with Lifecycle Callbacks https://symfony.com/doc/2.x/doctrine/lifecycle_callbacks.html
   - БД
     - Doctrine
       - Основное
