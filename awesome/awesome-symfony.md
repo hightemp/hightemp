@@ -168,6 +168,7 @@
         - Using JSON fields with Doctrine ORM on PostgreSQL & MySQL https://symfony.fi/entry/using-json-fields-with-doctrine-orm-on-postgresql-mysql.html
         - Query for JSON list in MySQL with Doctrine https://blog.digital-craftsman.de/query-for-json-list-in-mysql-with-doctrine/
       - Остальное
+        - EntityManager is closed : Recovering from Doctrine exceptions https://dev.to/atouzard/recovering-from-doctrine-exceptions-nkg
         - Modeling Data for an API with Symfony and Doctrine (Part 1/2) https://www.mikemilano.com/modeling-data-with-symfony
         - Symfony UUID, Doctrine and type-hinting: everything you should know https://medium.com/ekino-france/symfony-uuid-doctrine-and-type-hinting-everything-you-should-know-b846519a9927
         - How I Optimized Lazy Loading in Symfony Doctrine to Improve Performance https://mtccreatives.medium.com/how-i-optimized-lazy-loading-in-symfony-doctrine-to-improve-performance-43c195cfc4e8
