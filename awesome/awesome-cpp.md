@@ -20,6 +20,8 @@
   - Key-Value
     - https://github.com/facebook/rocksdb
     - https://github.com/google/leveldb
+- Комплексные
+  - Abseil - это открытая библиотека C++, соответствующая стандарту C++17, которая разработана Google для расширения стандартной библиотеки C++ и включает проверенный на практике код, используемый в собственной кодовой базе компании. https://github.com/abseil/abseil-cpp
 - Логирование
   - https://github.com/gabime/spdlog
   - https://github.com/log4cplus/log4cplus
