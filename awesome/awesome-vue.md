@@ -61,6 +61,7 @@
     - Redux vs Vuex for state management in Vue.js https://agilno.com/blog/redux-vs-vuex-for-state-management-in-vue-js/
 - Примеры приложений
     - Building an LLM chat interface using Ollama and Vue https://medium.com/@mpalmerlee/building-an-llm-chat-interface-using-ollama-and-vue-5bf4e2fc65fd
+    - Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 2 — VueJS3 + Centrifugo с монетизацией приложения https://habr.com/ru/companies/amvera/articles/893250/
 
 ### Видео
 
