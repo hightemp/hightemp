@@ -663,6 +663,7 @@
     - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
   - Channels, Каналы
     - Channels https://doc.rust-lang.org/rust-by-example/std_misc/channels.html
+    - Channels https://dhghomon.github.io/easy_rust/Chapter_50.html
   - Ошибки
     - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
   - unsafe
