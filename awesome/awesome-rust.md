@@ -661,6 +661,8 @@
     - Русский перевод книги «The Rust Programming Language» (TRPL) https://habr.com/ru/news/498794/
   - Обновления
     - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
+  - Channels, Каналы
+    - Channels https://doc.rust-lang.org/rust-by-example/std_misc/channels.html
   - Ошибки
     - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
   - unsafe
@@ -670,6 +672,9 @@
 - Live Reload
   - Live Reloading in Rust with Cargo Watch https://dev.to/jorgecastro/hot-reload-in-rust-with-cargo-watch-5bon
   - Live reloading in Rust https://dev.to/nickytonline/hot-reloading-in-rust-4i1c
+- Tokio
+  - Channels, Каналы
+    - Channels https://tokio.rs/tokio/tutorial/channels
 - Сеть
   - VPN
     - A SIMPLE VPN PROTOTYPE IN RUST https://ragoragino.dev/blog/softwareengineering/2022-03-27-rust-vpn/index.html
