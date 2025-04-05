@@ -71,3 +71,5 @@
     - Инозитолтрифосфат и ДАГ тоже являются вторичными мессенджерами https://biokhimija.ru/gormony/fosfolipaza.html
     - Механизм действия гидрофильных гормонов https://www.chem.msu.ru/rus/teaching/kolman/372.htm
     - Механизмы передачи информации от внешних сигналов на внутриклеточные процессы. Роль ионов кальция в механизмах трансформации внешних сигналов. Калмодулин. https://infopedia.su/28xaa55.html
+- Остальное
+    - Deciphering language processing in the human brain through LLM representations https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/
