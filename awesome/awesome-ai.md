@@ -481,9 +481,9 @@
 
 ### Генерация музыки и аудио
 
-- Сервисы
-    - https://www.udio.com/
+- https://www.udio.com/
 - Whisper WebGPU моментально распознает текст из аудио и видео и переведет на нужный язык https://huggingface.co/spaces/Xenova/whisper-webgpu https://github.com/xenova/transformers.js/tree/v3/examples/webgpu-whisper
+- Riffusion - музыкально-композиторская платформа с генеративными возможностями (загрузка собственных треков, изменение вокала или инструментала, персонализация под пользователя, генерация текстов песен и др.). https://www.riffusion.com/
 
 ### Генерация 3D-моделей 
 
