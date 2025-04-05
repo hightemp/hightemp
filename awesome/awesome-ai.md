@@ -445,6 +445,7 @@
 - https://huggingface.co/spaces/Shitao/OmniGen
 - https://www.recraft.ai/
 - https://ideogram.ai/t/explore
+- Reve AI - генератор изображений, который создает реалистичные изображения, словно сделанные на iPhone, с точной передачей лиц, света и текстур без артефактов, способный генерировать надписи и имитировать человеческий почерк. https://preview.reve.art/app/explore
 
 ### Колоризация изображений
 
