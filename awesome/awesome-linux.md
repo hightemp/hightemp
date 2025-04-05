@@ -280,6 +280,7 @@
         - Linux Kernel. 1 - Исследуем системный вызов fork https://www.youtube.com/watch?v=KIaTpku7wEI
 - Плейлисты
     - Семинары 238 группы по акосу https://www.youtube.com/watch?v=mpcQwARhfDU&list=PLdW86-ZDBvbU0_J255GNYi1YVUW_GoKmH
+    - Семинары 226 группы ФКН ПМИ https://www.youtube.com/watch?v=WGxA9WTWyNQ&list=PLdW86-ZDBvbUrgXfGyETuC3qU3TrEHaP5
 
 ### StackOverflow
 
