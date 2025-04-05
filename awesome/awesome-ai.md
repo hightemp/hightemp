@@ -989,6 +989,8 @@
     - Ускорение LLM: универсальные методы для популярных архитектур https://habr.com/ru/companies/yandex/articles/878230/
 - Promt, Промтинг
     - Prompt Decorators: A Simple Way to Improve AI Responses https://kalami.medium.com/prompt-decorators-a-simple-way-to-improve-ai-responses-c3f3c2579a8c
+- RAG
+    - Как я победил в RAG Challenge: от нуля до SoTA за один конкурс https://habr.com/ru/articles/893356/
 - Nvidia
     - Installing the NVIDIA Container Toolkit https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
 - Гайды
