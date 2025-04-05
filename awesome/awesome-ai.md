@@ -1054,13 +1054,16 @@
 
 ### Видео
 
-- GPT-2 from Scratch in C (Day 1/2) https://www.youtube.com/watch?v=d1LNUvkRMEg
-- Let's build the GPT Tokenizer https://www.youtube.com/watch?v=zduSFxRajkE
-- A Hacker’s Guide to LLMs от Джереми Ховарда https://www.youtube.com/watch?v=jkrNMKz9pWU
-- Подкаст Лекса Фридмана с Дилой Пателом - Подкаст охватывает ключевые основы и актуальные темы в области нейросетей и оборудования, включая ризонинг-модели, открытые веса, особенности DeepSeek и его затраты, а также этические вопросы, связанные с использованием данных, предлагая глубокий анализ современного состояния технологий. https://youtu.be/_1f-o0nqpEI
-- Видео Андрея Карпатого доступно объясняет основы больших языковых моделей (LLM), их возможности и ограничения, а также практическое применение. https://www.youtube.com/watch?v=7xTGNNLPyMI
-- У Dwarkesh вышел подкаст с двумя глыбами Google — легендарным Jeff "Norris" Dean и Noam Shazeer, сотрудником, за которого заплатили 2 миллиарда долларов https://youtu.be/v0gjI__RyCY
-- Курс по безопасной разработке искусственного интеллекта - серия коротких обучающих видео DeepMind, посвященная вопросам безопасности и контроля за системами искусственного интеллекта, включающая введение в проблему, обзор подходов к достижению соответствия целям разработчиков (alignment), технические решения (обучение моделей, интерпретируемость, безопасные дизайн-паттерны, стресс-тестирование), а также институциональные методы управления рисками (оценка экзистенциальных рисков, лучшие практики). https://deepmindsafetyresearch.medium.com/introducing-our-short-course-on-agi-safety-1072adb7912c, https://youtube.com/playlist?list=PLw9kjlF6lD5UqaZvMTbhJB8sV-yuXu5eW&si=mSHlo4s7u6Q_aXSy
+- Остальное
+    - How DeepSeek Rewrote the Transformer [MLA] https://www.youtube.com/watch?v=0VLAoVGf_74
+    - GPT-2 from Scratch in C (Day 1/2) https://www.youtube.com/watch?v=d1LNUvkRMEg
+    - Let's build the GPT Tokenizer https://www.youtube.com/watch?v=zduSFxRajkE
+    - A Hacker’s Guide to LLMs от Джереми Ховарда https://www.youtube.com/watch?v=jkrNMKz9pWU
+    - Подкаст Лекса Фридмана с Дилой Пателом - Подкаст охватывает ключевые основы и актуальные темы в области нейросетей и оборудования, включая ризонинг-модели, открытые веса, особенности DeepSeek и его затраты, а также этические вопросы, связанные с использованием данных, предлагая глубокий анализ современного состояния технологий. https://youtu.be/_1f-o0nqpEI
+    - Видео Андрея Карпатого доступно объясняет основы больших языковых моделей (LLM), их возможности и ограничения, а также практическое применение. https://www.youtube.com/watch?v=7xTGNNLPyMI
+    - У Dwarkesh вышел подкаст с двумя глыбами Google — легендарным Jeff "Norris" Dean и Noam Shazeer, сотрудником, за которого заплатили 2 миллиарда долларов https://youtu.be/v0gjI__RyCY
+- Безопасность
+    - Курс по безопасной разработке искусственного интеллекта - серия коротких обучающих видео DeepMind, посвященная вопросам безопасности и контроля за системами искусственного интеллекта, включающая введение в проблему, обзор подходов к достижению соответствия целям разработчиков (alignment), технические решения (обучение моделей, интерпретируемость, безопасные дизайн-паттерны, стресс-тестирование), а также институциональные методы управления рисками (оценка экзистенциальных рисков, лучшие практики). https://deepmindsafetyresearch.medium.com/introducing-our-short-course-on-agi-safety-1072adb7912c, https://youtube.com/playlist?list=PLw9kjlF6lD5UqaZvMTbhJB8sV-yuXu5eW&si=mSHlo4s7u6Q_aXSy
 - Каналы
     - Сабрина Садиех https://www.youtube.com/@%D0%A1%D0%B0%D0%B1%D1%80%D0%B8%D0%BD%D0%B0%D0%A1%D0%B0%D0%B4%D0%B8%D0%B5%D1%85
 
