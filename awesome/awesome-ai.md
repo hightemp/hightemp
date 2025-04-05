@@ -1071,6 +1071,16 @@
     - Курс по безопасной разработке искусственного интеллекта - серия коротких обучающих видео DeepMind, посвященная вопросам безопасности и контроля за системами искусственного интеллекта, включающая введение в проблему, обзор подходов к достижению соответствия целям разработчиков (alignment), технические решения (обучение моделей, интерпретируемость, безопасные дизайн-паттерны, стресс-тестирование), а также институциональные методы управления рисками (оценка экзистенциальных рисков, лучшие практики). https://deepmindsafetyresearch.medium.com/introducing-our-short-course-on-agi-safety-1072adb7912c, https://youtube.com/playlist?list=PLw9kjlF6lD5UqaZvMTbhJB8sV-yuXu5eW&si=mSHlo4s7u6Q_aXSy
 - Каналы
     - Сабрина Садиех https://www.youtube.com/@%D0%A1%D0%B0%D0%B1%D1%80%D0%B8%D0%BD%D0%B0%D0%A1%D0%B0%D0%B4%D0%B8%D0%B5%D1%85
+    - Андрей Карпаты (https://www.youtube.com/andrejkarpathy) — идеально для новичков, плейлист из 10 уроков Zero to Hero обязателен к просмотру. 
+    - Umar Jamil (https://www.youtube.com/@umarjamilai) — показывает как внедрять ML и LLM подходы с нуля. 
+    - Simon Oz (https://www.youtube.com/@szymonozog7862) — для новичков в машинном обучении. 
+    - Tunadorable (https://www.youtube.com/@Tunadorable) — обзоры новейших статей про нейросети.
+    - GPU Mode (https://www.youtube.com/@GPUMODE) — технические интервью и гайды по графическим процессорам. 
+    - AI Jason (https://www.youtube.com/@AIJasonZ) — эксперименты с ИИ, разработка ПО и новые методы. 
+    - Ferdinand Mom (https://www.youtube.com/@FerdinandMom) — всё, что нужно знать про обучение нейронок. 
+    - Welch Labs (https://www.youtube.com/@WelchLabsVideo) — глубокий взгляд на все сложности машинного обучения. 
+    - Артем Кирсанов (https://www.youtube.com/@ArtemKirsanov) — нейронаука и машинное обучение с отличными визуальными эффектами. 
+    - David Ondrej (https://www.youtube.com/@DavidOndrej) — создание приложений с ИИ для разработчиков. 
 
 ### Полезные ссылки
 
