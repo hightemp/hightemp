@@ -1,4 +1,7 @@
 
+### Коллекции
+
+- https://github.com/rossant/awesome-math
 
 #### Какие открытые альтернативы есть для mathcad
 
