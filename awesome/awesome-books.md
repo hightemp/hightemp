@@ -3,6 +3,12 @@
 - https://github.com/learn-anything/books
 - https://github.com/mundimark/awesome-books
 - https://github.com/githubch/awesome-programming-books-1
+- https://github.com/eulerkochy/awesome-reading-materials
+- https://github.com/Jason2Brownlee/awesome-llm-books
+- https://github.com/fapdash/awesome-recommendations
+- https://github.com/educ8s/books
+- https://github.com/Microbiology/Awesome-Bioinformatics-Books
+- https://github.com/guilhermeoki/awesome-tech-books
 
 ### Книги
 

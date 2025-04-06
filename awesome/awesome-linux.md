@@ -282,6 +282,7 @@
     - Управление доступом в ОС Linux https://www.youtube.com/watch?v=V7oL3u_GNOg
     - Администрирование Линукс (Linux) - Урок 23 - Концепция безопасности DAC, MAC, SeLinux, AppArmor https://www.youtube.com/watch?v=3Tf5yQJJbz8
 - Плейлисты
+    - Администрирование Линукс (Linux) https://www.youtube.com/watch?v=K8W4VUJQdX4&list=PLYl91BhaOf-kkXWweBzgOw555he6S7SUs
     - Семинары 238 группы по акосу https://www.youtube.com/watch?v=mpcQwARhfDU&list=PLdW86-ZDBvbU0_J255GNYi1YVUW_GoKmH
     - Семинары 226 группы ФКН ПМИ https://www.youtube.com/watch?v=WGxA9WTWyNQ&list=PLdW86-ZDBvbUrgXfGyETuC3qU3TrEHaP5
 
