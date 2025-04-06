@@ -172,3 +172,5 @@
 ### Видео
 
 - Terraform vs Pulumi: Which IaC tool is right for you? https://www.youtube.com/watch?v=GORaENwHuPU
+- Плейлисты
+    - DevOps практикум https://www.youtube.com/watch?v=fpp1npEfbug&list=PLYl91BhaOf-mod2MEk2ewaFsr4wV3CVdy

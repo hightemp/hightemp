@@ -9,6 +9,7 @@
 - https://github.com/educ8s/books
 - https://github.com/Microbiology/Awesome-Bioinformatics-Books
 - https://github.com/guilhermeoki/awesome-tech-books
+- https://github.com/fenbf/AwesomePerfCpp
 
 ### Книги
 

@@ -3,6 +3,7 @@
 - https://cpp.libhunt.com/
 - Логирование
   - https://cpp.libhunt.com/libs/logging
+- https://github.com/fenbf/AwesomePerfCpp
 
 ### Makefile
 
