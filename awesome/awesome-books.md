@@ -1,3 +1,8 @@
+### Коллекции
+
+- https://github.com/learn-anything/books
+- https://github.com/mundimark/awesome-books
+- https://github.com/githubch/awesome-programming-books-1
 
 ### Книги
 
