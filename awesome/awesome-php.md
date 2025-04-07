@@ -266,6 +266,8 @@
     - Understanding Domain-Driven Design (DDD) and its Benefits in PHP Development https://medium.com/@CleytonBonamigo/understanding-domain-driven-design-ddd-and-its-benefits-in-php-development-b4134fa312c
     - Domain-Driven Design in PHP https://leanpub.com/ddd-in-php/read
     - Implementing a DDD Use Case in PHP https://dev.to/sebk69/implementing-a-ddd-use-case-for-tax-persistence-in-php-1gij?utm_source=weeklyphp&utm_medium=email
+  - Гексоганальная архитектура, hexagonal architecture
+    - Что такое гексагональная архитектура. Разделение бизнес-логики и инфраструктуры с помощью портов и адаптеров https://habr.com/ru/companies/timeweb/articles/771338/
   - GRASP (General Responsibility Assignment Software Patterns)
     - Основные
       - Information Expert (Информационный эксперт)
