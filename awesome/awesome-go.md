@@ -1535,6 +1535,8 @@
   - Golang 100 вопросов с собеседований. Подготовка Go разработчика Часть 1 https://www.youtube.com/watch?v=ZvaD-G5_3vQ
 - Аунтификация
   - Building the User & Auth Modules with GoLang | 3-Hour Coding Journey | FinGreat Series #3 https://www.youtube.com/watch?v=2Dp7PX70o2k
+- Архитектура
+  - Hexagonal architecture для Go-разработчика / Константин Деревцов (SibEdge) https://www.youtube.com/watch?v=3YTLDYG5MnQ
 - SSE
   - How to Implement Server-Sent Events in Go https://www.youtube.com/watch?v=nvijc5J-JAQ
 - API
