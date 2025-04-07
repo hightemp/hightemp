@@ -521,6 +521,7 @@
     - sync.WaitGroup
       - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
     - sync.Once
+      - Go sync.Once is Simple... Does It Really? https://victoriametrics.com/blog/go-sync-once/
   - archive
     - How to zip and unzip a directory in Go https://blog.nuculabs.de/posts/2025/2025-04-01-how-to-zip-and-unzip-a-directory-go/
     - Golang Zip File Example https://golang.cafe/blog/golang-zip-file-example.html
