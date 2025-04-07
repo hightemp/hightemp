@@ -1207,6 +1207,8 @@
 - AI
   - RAG
     - RAG "from Scratch" with Go and Ollama https://k33g.hashnode.dev/rag-from-scratch-with-go-and-ollama
+  - ML
+    - ML in Go with a Python sidecar https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/
   - LLM
     - Пишем сервис инференса ML-модели на go, на примере BERT-а https://habr.com/ru/companies/X5Tech/articles/864438/
     - Building LLM-powered applications in Go https://go.dev/blog/llmpowered
