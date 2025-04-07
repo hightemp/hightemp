@@ -495,9 +495,11 @@
 - https://yifan-online.com/en/km
 - https://sajadtorkamani.com/posts/
 
-### Youtube Каналы
+### Видео
 
-- https://www.youtube.com/@webstandards_ru
+- Contributing To Open Source – Beginner's Guide https://www.youtube.com/watch?v=mklEhT_RLos
+- Каналы
+   - https://www.youtube.com/@webstandards_ru
 
 ### Виртулизация
 
