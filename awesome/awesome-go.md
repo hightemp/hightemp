@@ -623,6 +623,7 @@
   - Конкурентность
     - Разбираем конкурентность в Go: книги, блоги, выступления https://habr.com/ru/companies/yadro/articles/892632/
   - Остальное
+    - Проверка готовности приложения к работе в реальном ненадежном мире. Часть 1 https://habr.com/ru/companies/slurm/articles/856582/
     - 12 Personal Go Tricks That Transformed My Productivity https://substack.com/home/post/p-136328101
     - What's in the box!? Исследуем минимальное количество тредов golang-программы https://habr.com/ru/articles/888384/
     - The Top 10 Most Common Mistakes I’ve Seen in Go Projects https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
