@@ -473,6 +473,7 @@
 - Языковые сервера
    - Реализация языкового сервера для языка программирования Ü https://habr.com/ru/articles/761694/
 - Остальное
+   - Почему сделать нормальную подсветку синтаксиса не так просто https://justine.lol/lex/
    - How Meta, Google, Github and others leverage HTTP conditional requests to build robust REST APIs https://captainscodebook.com/p/how-meta-microsoft-google-github
    - What is Consistent Hashing? https://vivekbansal.substack.com/p/what-is-consistent-hashing
    - How we built a new powerful JSON data type for ClickHouse https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse
