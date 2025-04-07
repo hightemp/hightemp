@@ -268,6 +268,7 @@
     - Implementing a DDD Use Case in PHP https://dev.to/sebk69/implementing-a-ddd-use-case-for-tax-persistence-in-php-1gij?utm_source=weeklyphp&utm_medium=email
   - Гексоганальная архитектура, hexagonal architecture
     - Что такое гексагональная архитектура. Разделение бизнес-логики и инфраструктуры с помощью портов и адаптеров https://habr.com/ru/companies/timeweb/articles/771338/
+    - Hexagonal Architecture https://wiki.c2.com/?HexagonalArchitecture
   - GRASP (General Responsibility Assignment Software Patterns)
     - Основные
       - Information Expert (Информационный эксперт)
