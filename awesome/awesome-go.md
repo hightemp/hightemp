@@ -1534,7 +1534,7 @@
 - Аунтификация
   - Building the User & Auth Modules with GoLang | 3-Hour Coding Journey | FinGreat Series #3 https://www.youtube.com/watch?v=2Dp7PX70o2k
 - SSE
-  - Реализация Server-Sent Events на #golang https://www.youtube.com/watch?v=nvijc5J-JAQ
+  - How to Implement Server-Sent Events in Go https://www.youtube.com/watch?v=nvijc5J-JAQ
 - API
   - Полноценный курс по написанию API на golang https://www.youtube.com/watch?v=h3fqD6IprIA
 - Остальное
