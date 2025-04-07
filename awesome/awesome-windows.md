@@ -1,4 +1,8 @@
 
+### Коллекции
+
+- https://github.com/0PandaDEV/awesome-windows
+
 ### Терминалы
 
 - Xshell terminal emulator https://www.netsarang.com/en/xshell/
