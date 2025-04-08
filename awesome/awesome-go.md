@@ -1019,6 +1019,8 @@
   - Lambda
     - Go: AWS Lambda Project Structure Using Golang https://medium.com/dm03514-tech-blog/go-aws-lambda-project-structure-using-golang-98b6c0a5339d
   - Чистая архитектура
+    - Чистая архитектура в Go-приложении. Часть 1 https://habr.com/ru/articles/269893/
+    - Applying The Clean Architecture to Go applications https://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/
     - Patterns for Scalable Web Development: Implementing Clean Architecture in Web Dev https://blog.jealous.dev/patterns-for-scalable-web-development-implementing-clean-architecture-in-web-dev
     - Inside The Inner Hexagon: Component Tests https://www.shaiyallin.com/post/inside-the-inner-hexagon-component-tests
     - Building a CRUD App with Clean Architecture in Go https://dev.to/michinoins/building-a-crud-app-with-mysql-gorm-echo-and-clean-architecture-in-go-h6d
