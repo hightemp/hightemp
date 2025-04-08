@@ -365,7 +365,6 @@
     - Introduction to Go 1.24: What’s New and Why It Matters https://medium.com/technogise/introduction-to-go-1-24-whats-new-and-why-it-matters-bd6fa0bc3b77
     - Интерактивный тур по Go 1.24 https://habr.com/ru/companies/otus/articles/881708/
     - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
-    - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
     - Go range iterators demystified https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/
     - Go 1.23 Iterators Tutorial https://tutorialedge.net/golang/go-123-iterators-tutorial/
     - The new maps and slices packages in Go 1.23: tour and examples https://www.dolthub.com/blog/2024-12-20-collection-functions-in-go-1-23/
@@ -477,6 +476,7 @@
     - Обработка ошибок в Go — Не традиционный подход https://habr.com/ru/articles/880892/
   - Дженерики; Generics
     - Основное
+      - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
       - Go Generics cheatsheet https://gosamples.dev/generics-cheatsheet/
       - Go generics https://zetcode.com/golang/generics/
       - When To Use Generics https://go.dev/blog/when-generics
