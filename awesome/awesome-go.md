@@ -652,6 +652,7 @@
   - Запускаем код на Go снизу вверх https://habr.com/ru/articles/890382/
 - Кросс-компиляция
   - Как писать Go код, который легко портируется https://habr.com/ru/articles/269943/
+  - Как кросс-компилировать WebView Go-приложение с CGO для Linux с macOS: Zig, Docker и немного магии https://habr.com/ru/articles/894426/
 - Подготовка к собеседованию
   - Гайд по подготовке к собеседованию для Backend-разработчиков https://habr.com/ru/articles/876808/
 - Линтеры
