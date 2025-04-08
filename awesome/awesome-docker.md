@@ -79,6 +79,9 @@
         - The Quest for Minimal Docker Images, part 1 https://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/
         - The Quest for Minimal Docker Images, part 2 http://jpetazzo.github.io/2020/03/01/quest-minimal-docker-images-part-2/
         - The Quest for Minimal Docker Images, part 3 http://jpetazzo.github.io/2020/04/01/quest-minimal-docker-images-part-3/
+- AI
+    - Docker Model Runner
+        - https://docs.docker.com/desktop/features/model-runner/
 - Лучшие практики
     - 50 years of accumulated technologies, 70+ best practices, and you need to figure it out all on your own https://pythonspeed.com/products/productionhandbook/
 - Безопасность
