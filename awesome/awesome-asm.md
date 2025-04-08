@@ -19,6 +19,10 @@
 - MIPS Assembler - [https://www.mips.com/develop/tools/](https://www.mips.com/develop/tools/)
 - SPIM (MIPS Simulator) - [http://spimsimulator.sourceforge.net/](http://spimsimulator.sourceforge.net/)
 
+### Полезные ссылки
+
+- Это веб-сайт курса "Applied Reverse Engineering" (Прикладная обратная разработка) Мэрилендского университета, который обучает студентов инструментам и методам анализа безопасности различных систем, включая язык ассемблера, форматы исполняемых файлов и анализ скомпилированных двоичных файлов https://hacs408e.umd.edu/
+
 ### Книги
 
 - Assembler для DOS, Windows и UNIX / Зубков Сергей Владимирович. - 3-е
