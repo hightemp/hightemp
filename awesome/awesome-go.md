@@ -678,6 +678,7 @@
     - Почему язык Go плох для НЕумных программистов https://habr.com/ru/articles/448932/
     - Named Return Parameters in Golang https://www.geeksforgeeks.org/named-return-parameters-in-golang/
     - Go 1.1 Function Calls https://docs.google.com/document/d/1bMwCey-gmqZVTpRax-ESeVuZGmjwbocYs1iHplK-cjo/pub
+    - The Go memory model https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15440-f11/go/doc/go_mem.html
 - Разработка языка
   - Компилятор GO. Добавляем цикл WHILE https://habr.com/ru/articles/888992/
   - Contributing the Go Compiler: Adding New Tilde (~) Operator https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
