@@ -794,29 +794,30 @@
 - CLI
   - Building a CLI App in Golang https://neo-femo.hashnode.dev/building-a-cli-app-in-golang
 - Сеть
-  - net/http
-    - Cookie
-      - Как работать с cookie в Go: безопасное хранение и управление сессиями https://habr.com/ru/articles/887014/
-      - The Simple Guide to Cookies in Golang: Create, Read, and Delete https://medium.com/@adrilukman73/the-simple-guide-to-cookies-in-golang-create-read-and-delete-a5397732b04b
-      - Session in Go (Understanding SameSite Attribute. Lax, Mode and None) https://medium.com/@emonemrulhasan35/session-in-go-understanding-samesite-attribute-lax-mode-and-none-991bd0db5283
-      - Understanding Session-Based Authentication from Scratch https://medium.com/@884m884/understanding-session-based-authentication-from-scratch-64110bcfc00f
-    - client
-      - Making REST API Requests in Golang using the HTTP Client https://www.sohamkamani.com/golang/http-client/
-    - Примеры
-      - How to Parse a JSON Request Body in Go https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
-      - Understanding bytes in Go by building a TCP protocol https://ieftimov.com/posts/understanding-bytes-golang-build-tcp-protocol/
-      - Пишем ping на Go: сможем ли составить конкуренцию стандартному ping? https://habr.com/ru/companies/yadro/articles/870584/
-    - Остальное
-      - Самоучитель по Go для начинающих. Часть 17. Основы сетевого программирования. Стек TCP/IP. Сокеты. Пакет net https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-17-osnovy-setevogo-programmirovaniya-stek-tcp-ip-sokety-paket-net-2024-11-15
-      - Самоучитель по Go для начинающих. Часть 18. Протокол HTTP. Создание HTTP-сервера и клиента. Пакет net/http https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-18-protokol-http-sozdanie-http-servera-i-klienta-paket-net-http-2024-12-13
-      - Writing HTTP client middleware in Go https://echorand.me/posts/go-http-client-middleware/
-      - HTTP request debugging in Go with httputil http://speakmy.name/2014/07/29/http-request-debugging-in-go/
-      - Diving deep into net/http : A look at http.RoundTripper https://lanre.wtf/blog/2017/07/24/roundtripper-go
-      - Adding middleware to Go HTTP client requests https://jonfriesen.ca/articles/go-http-client-middleware/
-      - Understanding Interfaces Through Golang: Mocking HTTP Server Response https://chettriyuvraj.github.io/blog/Understanding_Interfaces_Golang_Mock_HTTP
-      - Go: Dump HTTP Request https://blog.cubieserver.de/2016/go-dump-http-request/
-      - A story about Go http.Client https://www.jacoelho.com/blog/2017/08/a-story-about-go-http.client/
-      - HTTP Connection reuse in Go clients https://blog.cubieserver.de/2022/http-connection-reuse-in-go-clients/
+  - net
+    - net/http
+      - Cookie
+        - Как работать с cookie в Go: безопасное хранение и управление сессиями https://habr.com/ru/articles/887014/
+        - The Simple Guide to Cookies in Golang: Create, Read, and Delete https://medium.com/@adrilukman73/the-simple-guide-to-cookies-in-golang-create-read-and-delete-a5397732b04b
+        - Session in Go (Understanding SameSite Attribute. Lax, Mode and None) https://medium.com/@emonemrulhasan35/session-in-go-understanding-samesite-attribute-lax-mode-and-none-991bd0db5283
+        - Understanding Session-Based Authentication from Scratch https://medium.com/@884m884/understanding-session-based-authentication-from-scratch-64110bcfc00f
+      - client
+        - Making REST API Requests in Golang using the HTTP Client https://www.sohamkamani.com/golang/http-client/
+      - Примеры
+        - How to Parse a JSON Request Body in Go https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
+        - Understanding bytes in Go by building a TCP protocol https://ieftimov.com/posts/understanding-bytes-golang-build-tcp-protocol/
+        - Пишем ping на Go: сможем ли составить конкуренцию стандартному ping? https://habr.com/ru/companies/yadro/articles/870584/
+      - Остальное
+        - Самоучитель по Go для начинающих. Часть 17. Основы сетевого программирования. Стек TCP/IP. Сокеты. Пакет net https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-17-osnovy-setevogo-programmirovaniya-stek-tcp-ip-sokety-paket-net-2024-11-15
+        - Самоучитель по Go для начинающих. Часть 18. Протокол HTTP. Создание HTTP-сервера и клиента. Пакет net/http https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-18-protokol-http-sozdanie-http-servera-i-klienta-paket-net-http-2024-12-13
+        - Writing HTTP client middleware in Go https://echorand.me/posts/go-http-client-middleware/
+        - HTTP request debugging in Go with httputil http://speakmy.name/2014/07/29/http-request-debugging-in-go/
+        - Diving deep into net/http : A look at http.RoundTripper https://lanre.wtf/blog/2017/07/24/roundtripper-go
+        - Adding middleware to Go HTTP client requests https://jonfriesen.ca/articles/go-http-client-middleware/
+        - Understanding Interfaces Through Golang: Mocking HTTP Server Response https://chettriyuvraj.github.io/blog/Understanding_Interfaces_Golang_Mock_HTTP
+        - Go: Dump HTTP Request https://blog.cubieserver.de/2016/go-dump-http-request/
+        - A story about Go http.Client https://www.jacoelho.com/blog/2017/08/a-story-about-go-http.client/
+        - HTTP Connection reuse in Go clients https://blog.cubieserver.de/2022/http-connection-reuse-in-go-clients/
   - Middleware
     - Middleware на уровне сетевого стэка в Go https://habr.com/ru/companies/otus/articles/857070/
   - netpoll
