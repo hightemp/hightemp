@@ -830,6 +830,7 @@
       - Reliable TCP Connections in Go with Keepalive https://wqwq3215.medium.com/reliable-tcp-connections-in-go-with-keepalive-fd4eac7cc986
       - Maintaining Healthy TCP Connections in Golang https://bencane.com/keeping-tcp-connections-alive-in-golang-801a78b7cf1
     - Остальное
+      - Talk about Go: Network programming — TCP Connection Management https://medium.com/nerd-for-tech/talk-about-go-network-programming-tcp-connection-management-f7630a526e17
   - Middleware
     - Middleware на уровне сетевого стэка в Go https://habr.com/ru/companies/otus/articles/857070/
   - netpoll
