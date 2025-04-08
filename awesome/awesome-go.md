@@ -606,27 +606,28 @@
       - A Deep Dive into Table-Driven Testing in Golang https://substack.com/home/post/p-151441510
     - CLI
       - Testing CLI tools in Go https://bitfieldconsulting.com/posts/cli-testing
-    - Mockery
-      - Mocking with Mockery in Golang https://medium.com/the-sixt-india-blog/mocking-with-mockery-in-golang-949794372e99
-    - GoMock
-      - Testing with GoMock: A Tutorial https://www.codecentric.de/en/knowledge-hub/blog/gomock-tutorial
-    - Testify
-      - Основное
-        - Step up Your Go App Testing Game With the Testify Framework https://semaphore.io/blog/testify-go
-        - Using the Testify toolkit https://www.jetbrains.com/help/go/using-the-testify-toolkit.html
-        - Top Go Modules: Writing Unit Tests with Testify https://jfrog.com/blog/top-go-modules-writing-unit-tests-with-testify/
-      - Mock
-        - GoMock vs. Testify: Mocking frameworks for Go https://www.codecentric.de/wissens-hub/blog/gomock-vs-testify
-        - How I Do Test External Service with Testify Mock https://mgufrone.medium.com/how-i-do-test-external-service-with-testify-mock-66ff8a0dab64
-        - Mocks in Go tests with Testify Mock https://dev.to/salesforceeng/mocks-in-go-tests-with-testify-mock-6pd
-        - GOLANG TESTING WITH STRETCHR/TESTIFY AND MOCKERY https://dev.to/truongpx396/golang-testing-with-stretchrtestify-and-mockery-5849
-        - More Mocking Techniques https://www.jetbrains.com/guide/go/tutorials/mock_testing_with_go/more_techniques/
-        - Mocking in Golang Using Testify https://blog.lamida.org/mocking-in-golang-using-testify/
-    - GoConvey
-    - Ginkgo
-    - Httpexpect
-    - Gomega
-    - Go-cmdtest
+    - Библиотеки тестирования
+      - Mockery
+        - Mocking with Mockery in Golang https://medium.com/the-sixt-india-blog/mocking-with-mockery-in-golang-949794372e99
+      - GoMock
+        - Testing with GoMock: A Tutorial https://www.codecentric.de/en/knowledge-hub/blog/gomock-tutorial
+      - Testify
+        - Основное
+          - Step up Your Go App Testing Game With the Testify Framework https://semaphore.io/blog/testify-go
+          - Using the Testify toolkit https://www.jetbrains.com/help/go/using-the-testify-toolkit.html
+          - Top Go Modules: Writing Unit Tests with Testify https://jfrog.com/blog/top-go-modules-writing-unit-tests-with-testify/
+        - Mock
+          - GoMock vs. Testify: Mocking frameworks for Go https://www.codecentric.de/wissens-hub/blog/gomock-vs-testify
+          - How I Do Test External Service with Testify Mock https://mgufrone.medium.com/how-i-do-test-external-service-with-testify-mock-66ff8a0dab64
+          - Mocks in Go tests with Testify Mock https://dev.to/salesforceeng/mocks-in-go-tests-with-testify-mock-6pd
+          - GOLANG TESTING WITH STRETCHR/TESTIFY AND MOCKERY https://dev.to/truongpx396/golang-testing-with-stretchrtestify-and-mockery-5849
+          - More Mocking Techniques https://www.jetbrains.com/guide/go/tutorials/mock_testing_with_go/more_techniques/
+          - Mocking in Golang Using Testify https://blog.lamida.org/mocking-in-golang-using-testify/
+      - GoConvey
+      - Ginkgo
+      - Httpexpect
+      - Gomega
+      - Go-cmdtest
     - Остальное
       - Get Started Testing an API Built With Golang https://www.twilio.com/en-us/blog/get-started-testing-api-built-with-golang
   - Swiss Table
