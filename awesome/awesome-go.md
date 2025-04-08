@@ -650,6 +650,8 @@
   - Компилятор GO. Добавляем цикл WHILE https://habr.com/ru/articles/888992/
   - Contributing the Go Compiler: Adding New Tilde (~) Operator https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
   - Запускаем код на Go снизу вверх https://habr.com/ru/articles/890382/
+- Кросс-компиляция
+  - Как писать Go код, который легко портируется https://habr.com/ru/articles/269943/
 - Подготовка к собеседованию
   - Гайд по подготовке к собеседованию для Backend-разработчиков https://habr.com/ru/articles/876808/
 - Линтеры
