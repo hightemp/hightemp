@@ -527,6 +527,8 @@
     - sync.Once
       - Go sync.Once is Simple... Does It Really? https://victoriametrics.com/blog/go-sync-once/
   - runtime
+    - Основное
+      - The very useful runtime package in golang 🏎🏎🏎 https://dev.to/freakynit/the-very-useful-runtime-package-in-golang-5b16
     - runtime.KeepAlive
       - Go: Keeping a Variable Alive https://medium.com/a-journey-with-go/go-keeping-a-variable-alive-c28e3633673a
     - Finalizer, runtime.SetFinalizer
