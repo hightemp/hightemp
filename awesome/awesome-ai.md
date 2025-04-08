@@ -1004,6 +1004,7 @@
     - 10+ Open-source AI Agents: Based on GitHub Stars https://research.aimultiple.com/open-source-ai-agents/
     - 4 Books to Deepen Your Understanding of LLMs: Theory & Engineering https://substack.com/home/post/p-159336911
 - Остальное
+    - Emerging Patterns in Building GenAI Products https://martinfowler.com/articles/gen-ai-patterns/
     - Встречаем YandexGPT 5 — в Алисе, облаке и опенсорсе https://habr.com/ru/companies/yandex/articles/885218/
     - Клон ChatGPT в 3000 байтах на C, основанный на GPT-2 https://habr.com/ru/articles/879662/
     - Scaling test-time compute - a Hugging Face Space by HuggingFaceH4 https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute Статья рассказывает об оптимизации вычислений во время тестирования больших языковых моделей (LLM). Вместо увеличения вычислительных ресурсов во время предобучения, новый подход фокусируется на динамической стратегии вывода, позволяя моделям "дольше думать" над сложными задачами. Статья описывает методы "самоулучшения" и "поиска с верификатором", а также представляет инструмент Search and Learn для реализации стратегий поиска с LLM.

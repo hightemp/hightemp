@@ -532,6 +532,7 @@
     - runtime.Goexit
       - Graceful Goroutine Exits with runtime.Goexit() in Go https://medium.com/@hatronix/graceful-goroutine-exits-with-runtime-goexit-in-go-ee3dc2d4cd57
     - runtime.Gosched
+      - Mastering Concurrency with runtime.Gosched() in Go https://medium.com/@hatronix/mastering-concurrency-with-runtime-gosched-in-go-3b88e2eea07b
     - runtime.GC
     - runtime.LockOSThread
     - runtime.NumCPU
@@ -641,6 +642,7 @@
     - Внутренности планировщика Go https://habr.com/ru/articles/858490/
     - Планировщик ОС https://habr.com/ru/articles/894338/
     - Планировщик Go — самый подробный гайд простым языком https://habr.com/ru/articles/891426/
+    - Inside the Go Scheduler: A Step-by-Step Look at Goroutine Management https://medium.com/@hatronix/inside-the-go-scheduler-a-step-by-step-look-at-goroutine-management-1a8cbe9d5dbd
   - Конкурентность
     - Разбираем конкурентность в Go: книги, блоги, выступления https://habr.com/ru/companies/yadro/articles/892632/
   - Остальное
