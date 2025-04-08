@@ -530,6 +530,7 @@
     - Основное
       - The very useful runtime package in golang 🏎🏎🏎 https://dev.to/freakynit/the-very-useful-runtime-package-in-golang-5b16
     - runtime.Goexit
+      - Graceful Goroutine Exits with runtime.Goexit() in Go https://medium.com/@hatronix/graceful-goroutine-exits-with-runtime-goexit-in-go-ee3dc2d4cd57
     - runtime.Gosched
     - runtime.GC
     - runtime.LockOSThread
