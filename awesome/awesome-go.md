@@ -595,7 +595,6 @@
   - Тестирование
     - Основное
       - Основы тестирования Go: простые тесты, testify и визуализация покрытия https://habr.com/ru/companies/otus/articles/739468/
-      - Самоучитель по Go для начинающих. Часть 16. Тестирование кода и его виды. Table-driven подход. Параллельные тесты https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-16-testirovanie-koda-i-ego-vidy-table-driven-podhod-parallelnye-testy-2024-09-03
       - Тестирование исполняемого кода Go https://habr.com/ru/articles/728402/
       - Go в примерах: Тестирование (Testing) https://gobyexample.com.ru/testing
       - Go Testing? All You Need to Know Here https://blog.devtrovert.com/p/go-testing-all-you-need-to-know-here
@@ -604,6 +603,7 @@
       - Mocking https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking
     - Table Driven Testing
       - A Deep Dive into Table-Driven Testing in Golang https://substack.com/home/post/p-151441510
+      - Самоучитель по Go для начинающих. Часть 16. Тестирование кода и его виды. Table-driven подход. Параллельные тесты https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-16-testirovanie-koda-i-ego-vidy-table-driven-podhod-parallelnye-testy-2024-09-03
     - CLI
       - Testing CLI tools in Go https://bitfieldconsulting.com/posts/cli-testing
     - Библиотеки тестирования
