@@ -569,9 +569,12 @@
       - Go Assembly: Bridging High-Level Go and Machine Code https://ref.coddy.tech/go/go-assembly
       - Chapter I: A Primer on Go Assembly https://github.com/teh-cmc/go-internals/blob/master/chapter1_assembly_primer/README.md
       - Quick intro to go assembly https://blog.hackercat.ninja/2018/quick_intro_to_go_assembly/
+      - Things I learned writing a JIT in Go https://nelhagedebugsshit.tumblr.com/post/84342207533/things-i-learned-writing-a-jit-in-go
+      - A Foray Into Go Assembly Programming https://blog.sgmansfield.com/2017/04/a-foray-into-go-assembly-programming/
     - Plan 9
       - Go Wiki: Go on Plan 9 https://go.dev/wiki/Plan9
       - Getting Go on Plan 9 https://mike-bland.com/2015/06/08/getting-go-on-plan-9.html
+      - Plan9/Go https://9lab.org/plan9/go/
   - Go Modules
     - Управление зависимостями в Go https://habr.com/ru/companies/mvideo/articles/780776/
     - Модули Go и управление зависимостями https://appmaster.io/ru/blog/upravlenie-zavisimostiami-modulei-go
