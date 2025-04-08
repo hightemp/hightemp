@@ -563,11 +563,14 @@
     - Introduction to Go’s Reflection API: Dynamic Programming in GoLang https://clouddevs.com/go/reflection-api/    
     - Reflections in Go https://go101.org/article/reflection.html
   - Go Assembly
-    - Go Assembly by Example https://davidwong.fr/goasm/
-    - A Quick Guide to Go's Assembler https://go.dev/doc/asm
-    - Go Assembly: Bridging High-Level Go and Machine Code https://ref.coddy.tech/go/go-assembly
-    - Chapter I: A Primer on Go Assembly https://github.com/teh-cmc/go-internals/blob/master/chapter1_assembly_primer/README.md
-    - Quick intro to go assembly https://blog.hackercat.ninja/2018/quick_intro_to_go_assembly/
+    - Основное
+      - Go Assembly by Example https://davidwong.fr/goasm/
+      - A Quick Guide to Go's Assembler https://go.dev/doc/asm
+      - Go Assembly: Bridging High-Level Go and Machine Code https://ref.coddy.tech/go/go-assembly
+      - Chapter I: A Primer on Go Assembly https://github.com/teh-cmc/go-internals/blob/master/chapter1_assembly_primer/README.md
+      - Quick intro to go assembly https://blog.hackercat.ninja/2018/quick_intro_to_go_assembly/
+    - Plan 9
+      - Go Wiki: Go on Plan 9 https://go.dev/wiki/Plan9
   - Go Modules
     - Управление зависимостями в Go https://habr.com/ru/companies/mvideo/articles/780776/
     - Модули Go и управление зависимостями https://appmaster.io/ru/blog/upravlenie-zavisimostiami-modulei-go
