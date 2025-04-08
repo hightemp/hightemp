@@ -273,6 +273,7 @@
 
 ### Полезные ссылки
 
+- Go Assembly by Example предлагает пошаговые примеры работы с ассемблером Go. https://davidwong.fr/goasm/
 - https://go-proverbs.github.io/
 - TinyGo - A Go Compiler For Small Places https://tinygo.org/
 - Go в примерах https://gobyexample.com.ru/
