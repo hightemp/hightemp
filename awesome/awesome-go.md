@@ -357,6 +357,7 @@
   - https://boosty.to/madteacher/posts/fbd0739f-20ba-4a6f-afe8-ac2fee2c8f8f?share=post_link
 - Functional Programming in Go, Дилан Миус
 - Concurrency in Go: Tools and Techniques for Developers, Кэтрин Кокс-Будей
+- сайт содержит книгу "go-internals" - разрабатываемый сообществом ресурс о внутреннем устройстве языка программирования Go (версии 1.10+), который стремится предоставить лаконичную, актуальную и практическую информацию для опытных разработчиков https://cmc.gitbook.io/go-internals
 
 ### Статьи
 
