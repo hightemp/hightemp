@@ -1550,6 +1550,7 @@
 - https://deepsource.com/blog
 - https://hackmysql.com/tags/golang/
 - https://pehringer.info/
+- https://nelhagedebugsshit.tumblr.com/
 
 ### Подкасты
 
