@@ -534,6 +534,7 @@
     - runtime.Gosched
       - Mastering Concurrency with runtime.Gosched() in Go https://medium.com/@hatronix/mastering-concurrency-with-runtime-gosched-in-go-3b88e2eea07b
     - runtime.GC
+      - Garbage collection in Go https://chayandatta.medium.com/garbage-collection-in-go-959b4c164c42
     - runtime.LockOSThread
     - runtime.NumCPU
     - runtime.ReadMemStats
