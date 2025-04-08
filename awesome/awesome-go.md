@@ -403,6 +403,7 @@
     - Using Weak Pointers in Go https://dev.to/colindickson_78/weak-pointers-coming-in-go-124-imf
     - Memory Efficiency in Go 1.24: Introducing the weakPackage https://medium.com/@ajitem/memory-efficiency-in-go-1-24-introducing-the-weakpackage-91635691d53f
   - Channels, Каналы
+    - Channels in Go https://go101.org/article/channel.html
     - Internals of Go Channels https://shubhagr.medium.com/internals-of-go-channels-cf5eb15858fc
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
     - golang channel execution principle and code analysis https://medium.com/@jiang7748533/golang-channel-execution-principle-and-code-analysis-bcb10f458179
