@@ -706,6 +706,9 @@
     - Queue Data Structure in Golang https://tobin.cc/blog/queue/
     - Implementing Priority Queues in Go https://reintech.io/blog/implementing-priority-queues-in-go#google_vignette
     - Queueing with PostgreSQL and Go https://robinverton.de/blog/queueing-with-postgresql-and-go/
+- GUI
+  - gxui
+    - Нативная UI-библиотека для Go https://habr.com/ru/articles/253519/
 - Библиотеки
   - goform
     - Как я написал пакет для быстрого создания и управления формами в Go https://habr.com/ru/articles/888728/
