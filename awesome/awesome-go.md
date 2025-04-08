@@ -894,6 +894,8 @@
   - Read File in Golang https://www.scaler.com/topics/golang/golang-read-file/
   - How to Read a Text File with Go https://www.jeremymorgan.com/tutorials/go/how-to-read-text-file-go/
 - Мониторинг, метрики
+  - Victoria Metrics
+    - How vmagent Collects and Ships Metrics Fast with Aggregation, Deduplication, and More https://victoriametrics.com/blog/vmagent-how-it-works/
   - prometheus
     - Пишем метрики в Prometheus на языке Go https://eax.me/golang-prometheus-metrics/
     - Monitoring the Golang App with Prometheus, Grafana, New Relic and Sentry https://medium.com/@mertcakmak2/monitoring-the-golang-app-with-prometheus-grafana-new-relic-and-sentry-fce1ca6980b5
