@@ -404,6 +404,7 @@
     - Memory Efficiency in Go 1.24: Introducing the weakPackage https://medium.com/@ajitem/memory-efficiency-in-go-1-24-introducing-the-weakpackage-91635691d53f
   - Channels, Каналы
     - Анатомия каналов в Go https://habr.com/ru/articles/490336/
+    - golang channel execution principle and code analysis https://medium.com/@jiang7748533/golang-channel-execution-principle-and-code-analysis-bcb10f458179
     - Go: нужно ли закрывать канал? https://habr.com/ru/articles/861846/
     - Go Channels Explained: More than Just a Beginner’s Guide. https://substack.com/home/post/p-138797977?utm_campaign=post&utm_medium=web
     - Забитый канал — как вы с ним поступаете в Go? https://habr.com/ru/articles/873384/
