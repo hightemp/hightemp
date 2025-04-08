@@ -795,6 +795,8 @@
   - Building a CLI App in Golang https://neo-femo.hashnode.dev/building-a-cli-app-in-golang
 - Сеть
   - net
+    - net/context
+      - Изучаем net/context в Go https://habr.com/ru/articles/269299/
     - net/http
       - Cookie
         - Как работать с cookie в Go: безопасное хранение и управление сессиями https://habr.com/ru/articles/887014/
