@@ -82,6 +82,7 @@
 - AI
     - Docker Model Runner
         - https://docs.docker.com/desktop/features/model-runner/
+        - Docker теперь конкурент Ollama? https://habr.com/ru/articles/897326/
 - Лучшие практики
     - 50 years of accumulated technologies, 70+ best practices, and you need to figure it out all on your own https://pythonspeed.com/products/productionhandbook/
 - Безопасность
