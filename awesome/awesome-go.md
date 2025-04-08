@@ -727,6 +727,9 @@
     - Как ускорить программу, не переписав ни строчки кода: PGO для Go-разработчиков https://habr.com/ru/articles/846818/  
   - Memory pools
     - Три способа оптимизировать работу с памятью на Go с помощью memory pools https://engineer.yadro.com/article/three-ways-to-optimize-memory-performance-on-go-with-memory-pools/
+  - pprof
+    - Application Performance Optimization: How to Effectively Analyze and Optimize pprof CPU Profiles https://medium.com/@rahul.fiem/application-performance-optimization-how-to-effectively-analyze-and-optimize-pprof-cpu-profiles-95280b2f5bfb
+    - Микрооптимизация кода на Go на примере простого веб-сервиса https://github.com/andrey-shalamov/go-pprof-cpu-heap-example
   - Остальное
     - Гармония железа и кода: ускоряем Go, проектируя приложение с учетом архитектуры процессора https://habr.com/ru/companies/cloud_ru/articles/878088/
     - Maps and memory leaks https://100go.co/28-maps-memory-leaks/
@@ -736,7 +739,6 @@
     - GopherCon 2019 - Optimizing Go Code without a blindfold https://sourcegraph.com/blog/go/gophercon-2019-optimizing-go-code-without-a-blindfold
     - Оптимизация Go: как повысить скорость и эффективность кода https://habr.com/ru/companies/simbirsoft/articles/819015/
     - Микрооптимизация кода на Go на примере простого веб-сервиса https://habr.com/ru/companies/kaspersky/articles/591725/
-    - Микрооптимизация кода на Go на примере простого веб-сервиса https://github.com/andrey-shalamov/go-pprof-cpu-heap-example
     - Performance Considerations and Optimization in Go https://withcodeexample.com/performance-optimization-go/
     - Профилирование и оптимизация программ на Go https://habr.com/ru/companies/badoo/articles/301990/
     - Go Performance Boosters: The Top 5 Tips and Tricks You Need to Know https://blog.devtrovert.com/p/go-performance-boosters-the-top-5
