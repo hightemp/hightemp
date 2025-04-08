@@ -675,7 +675,7 @@
     - Коллеги, вы меня огорчаете https://habr.com/ru/companies/oleg-bunin/articles/521582/
     - Почему язык Go плох для НЕумных программистов https://habr.com/ru/articles/448932/
     - Named Return Parameters in Golang https://www.geeksforgeeks.org/named-return-parameters-in-golang/
-    - Under the hood of TCP Socket Implementation On Golang https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
+    - Go 1.1 Function Calls https://docs.google.com/document/d/1bMwCey-gmqZVTpRax-ESeVuZGmjwbocYs1iHplK-cjo/pub
 - Разработка языка
   - Компилятор GO. Добавляем цикл WHILE https://habr.com/ru/articles/888992/
   - Contributing the Go Compiler: Adding New Tilde (~) Operator https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
@@ -938,6 +938,8 @@
       - Go Tips & Common Mistakes - Go HTTP File Upload and Download https://bytegoblin.io/blog/go-tips-common-mistakes.mdx
     - Остальное
       - Golang HTTP server: basics https://medium.com/@bartosz.piekny/golang-http-server-basics-6936ddab7474
+  - Остальное
+    - Under the hood of TCP Socket Implementation On Golang https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
 - Oembed
   - Выдергивание информации из URL, в стиле Slack и Twitter https://habr.com/ru/articles/269055/
 - Криптография
