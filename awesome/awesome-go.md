@@ -531,6 +531,9 @@
       - Go: Keeping a Variable Alive https://medium.com/a-journey-with-go/go-keeping-a-variable-alive-c28e3633673a
     - Finalizer, runtime.SetFinalizer
       - Go Runtime Finalizer and Keep Alive https://victoriametrics.com/blog/go-runtime-finalizer-keepalive/
+  - time
+    - Основное
+      - How Do They Do It: Timers in Go https://blog.gopheracademy.com/advent-2016/go-timers/
   - archive
     - How to zip and unzip a directory in Go https://blog.nuculabs.de/posts/2025/2025-04-01-how-to-zip-and-unzip-a-directory-go/
     - Golang Zip File Example https://golang.cafe/blog/golang-zip-file-example.html
