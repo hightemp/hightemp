@@ -529,9 +529,15 @@
   - runtime
     - Основное
       - The very useful runtime package in golang 🏎🏎🏎 https://dev.to/freakynit/the-very-useful-runtime-package-in-golang-5b16
+    - runtime.Goexit
+    - runtime.Gosched
+    - runtime.GC
+    - runtime.LockOSThread
+    - runtime.NumCPU
+    - runtime.ReadMemStats
     - runtime.KeepAlive
       - Go: Keeping a Variable Alive https://medium.com/a-journey-with-go/go-keeping-a-variable-alive-c28e3633673a
-    - Finalizer, runtime.SetFinalizer
+    - runtime.SetFinalizer
       - Go Runtime Finalizer and Keep Alive https://victoriametrics.com/blog/go-runtime-finalizer-keepalive/
   - time
     - Основное
