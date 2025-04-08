@@ -1542,6 +1542,7 @@
 - https://tillitsdone.com/blog_category/golang/
 - https://deepsource.com/blog
 - https://hackmysql.com/tags/golang/
+- https://pehringer.info/
 
 ### Подкасты
 
