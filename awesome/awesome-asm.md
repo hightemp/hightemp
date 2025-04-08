@@ -47,5 +47,8 @@
     - Learn Assembly Language https://asmtutor.com/
     - 19+ Assembly Project Ideas for Beginners to Advanced https://topexceltips.com/assembly-project-ideas/
     - 20 Best Assembly Books of All Time https://bookauthority.org/books/best-assembly-books
+- x86
+    - Регистры
+        - Registers in x86 Assembly https://www.cs.uaf.edu/2017/fall/cs301/lecture/09_11_registers.html
 - Потоки
     - x64 Assembly: Multithreading from Scratch Part 2: Threads https://dev.to/ahmedwadod/x64-assembly-multithreading-from-scratch-part-2-threads-11g1
