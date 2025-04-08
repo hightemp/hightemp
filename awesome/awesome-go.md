@@ -571,6 +571,7 @@
       - Quick intro to go assembly https://blog.hackercat.ninja/2018/quick_intro_to_go_assembly/
     - Plan 9
       - Go Wiki: Go on Plan 9 https://go.dev/wiki/Plan9
+      - Getting Go on Plan 9 https://mike-bland.com/2015/06/08/getting-go-on-plan-9.html
   - Go Modules
     - Управление зависимостями в Go https://habr.com/ru/companies/mvideo/articles/780776/
     - Модули Go и управление зависимостями https://appmaster.io/ru/blog/upravlenie-zavisimostiami-modulei-go
