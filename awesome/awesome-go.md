@@ -716,6 +716,8 @@
 - Библиотеки
   - goform
     - Как я написал пакет для быстрого создания и управления формами в Go https://habr.com/ru/articles/888728/
+  - maphash
+    - Hacking Go's Runtime with Generics https://www.dolthub.com/blog/2022-12-19-maphash/
 - Оптимизация
   - SIMD
     - Go Plan9 Memo, Speeding Up Calculations 450%; В статье описывается разработка SIMD-пакета для языка Go с использованием ассемблера Plan9, что позволило ускорить вычисления на 450% за счет параллельной обработки данных на аппаратном уровне. https://pehringer.info/go_plan9_memo.html
