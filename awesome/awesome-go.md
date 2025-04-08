@@ -896,6 +896,8 @@
       - Go Tips & Common Mistakes - Go HTTP File Upload and Download https://bytegoblin.io/blog/go-tips-common-mistakes.mdx
     - Остальное
       - Golang HTTP server: basics https://medium.com/@bartosz.piekny/golang-http-server-basics-6936ddab7474
+- Oembed
+  - Выдергивание информации из URL, в стиле Slack и Twitter https://habr.com/ru/articles/269055/
 - Криптография
   - Go: Verify Cryptographic Signatures https://blog.cubieserver.de/2016/go-verify-cryptographic-signatures/
 - git
