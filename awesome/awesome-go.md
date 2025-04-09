@@ -577,6 +577,7 @@
     - Plan 9
       - Go Wiki: Go on Plan 9 https://go.dev/wiki/Plan9
       - Getting Go on Plan 9 https://mike-bland.com/2015/06/08/getting-go-on-plan-9.html
+      - A Manual for the Plan 9 assembler Rob Pike https://9p.io/sys/doc/asm.html
       - Plan9/Go https://9lab.org/plan9/go/
       - 0c, 5c, 6c, 8c, 9c, kc, qc, vc – C compilers https://web.archive.org/web/20170601071426/http://plan9.bell-labs.com/magic/man2html/1/8c
     - Остальное
