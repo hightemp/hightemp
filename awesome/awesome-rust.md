@@ -621,6 +621,7 @@
 - House Absolute(ly) Pointless https://blog.urth.org
 - cmyr.net https://www.cmyr.net/
 - https://darkcoding.net/tags/rust/
+- https://dr-knz.net/tags/#rust-ref
 
 ### YouTube каналы
 
