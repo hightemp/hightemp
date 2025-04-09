@@ -372,6 +372,7 @@
     - The new maps and slices packages in Go 1.23: tour and examples https://www.dolthub.com/blog/2024-12-20-collection-functions-in-go-1-23/
     - Самоучитель по Go для начинающих. Часть 10. Введение в ООП. Наследование, абстракция, полиморфизм, инкапсуляция. https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-10-vvedenie-v-oop-nasledovanie-abstrakciya-polimorfizm-inkapsulyaciya-2024-03-11
     - From unique to cleanups and weak: new low-level tools for efficiency https://go.dev/blog/cleanups-and-weak
+    - Параллельное программирование на Go https://habr.com/ru/companies/ruvds/articles/896102/
   - Типы
     - The differences between "Type Alias" and "New Types" in Go https://perfects.engineering/blog/go_alias_vs_new_types
     - All your comparable types https://go.dev/blog/comparable
@@ -673,7 +674,6 @@
   - Makefile
     - Пример создания Makefile для Go-приложений https://habr.com/ru/articles/461467/
   - Остальное
-    - Параллельное программирование на Go https://habr.com/ru/companies/ruvds/articles/896102/
     - 12 Personal Go Tricks That Transformed My Productivity https://substack.com/home/post/p-136328101
     - What's in the box!? Исследуем минимальное количество тредов golang-программы https://habr.com/ru/articles/888384/
     - The Top 10 Most Common Mistakes I’ve Seen in Go Projects https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
