@@ -894,6 +894,7 @@
     - gRPC From Scratch: Part 2 - Server https://kmcd.dev/posts/grpc-from-scratch-part-2/
     - gRPC From Scratch: Part 3 - Protobuf Encoding https://kmcd.dev/posts/grpc-from-scratch-part-3/
     - gRPC Gateway https://earthly.dev/blog/golang-grpc-gateway/
+    - Создание кастомного балансировщика нагрузки на Go для gRPC с приоритизацией адресов https://habr.com/ru/companies/vk/articles/858290/
   - DNS
     - Building a DNS Resolver in Golang: A Step-by-Step Guide https://harshagarwal29.hashnode.dev/building-a-dns-resolver-in-golang-a-step-by-step-guide
   - WebSockets
