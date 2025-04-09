@@ -577,6 +577,7 @@
       - Go Assembly on the arm64 https://www.symbolcrash.com/2021/03/02/go-assembly-on-the-arm64/
       - The Design of the Go Assembler. Gophercon 12 July 2016 Rob Pike Google https://go.dev/talks/2016/asm.slide
       - Руководство по ассемблеру Go https://habr.com/ru/companies/vk/articles/358088/
+      - Архитектура ассемблера Go https://habr.com/ru/companies/badoo/articles/317864/
     - Plan 9
       - Go Wiki: Go on Plan 9 https://go.dev/wiki/Plan9
       - Getting Go on Plan 9 https://mike-bland.com/2015/06/08/getting-go-on-plan-9.html
