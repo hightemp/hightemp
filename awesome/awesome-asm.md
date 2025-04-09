@@ -50,6 +50,8 @@
         - https://courses.ics.hawaii.edu/ReviewICS312/morea/FirstProgram/ics312_nasm_first_program.pdf
     - Примеры приложений
         - Linux X86 Assembly - How to Build a Hello World Program in NASM https://www.secureideas.com/blog/2021/05/linux-x86-assembly-how-to-build-a-hello-world-program-in-nasm.html
+    - GUI
+        - Learn x86-64 assembly by writing a GUI from scratch https://gaultier.github.io/blog/x11_x64.html
     - Остальное
         - Assembly Programming Tutorial https://www.tutorialspoint.com/assembly_programming/index.htm
         - NASM Tutorial https://cs.lmu.edu/~ray/notes/nasmtutorial/
