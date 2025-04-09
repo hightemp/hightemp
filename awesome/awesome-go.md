@@ -670,6 +670,8 @@
     - Inside the Go Scheduler: A Step-by-Step Look at Goroutine Management https://medium.com/@hatronix/inside-the-go-scheduler-a-step-by-step-look-at-goroutine-management-1a8cbe9d5dbd
   - Конкурентность
     - Разбираем конкурентность в Go: книги, блоги, выступления https://habr.com/ru/companies/yadro/articles/892632/
+  - Makefile
+    - Пример создания Makefile для Go-приложений https://habr.com/ru/articles/461467/
   - Остальное
     - Параллельное программирование на Go https://habr.com/ru/companies/ruvds/articles/896102/
     - 12 Personal Go Tricks That Transformed My Productivity https://substack.com/home/post/p-136328101
@@ -685,7 +687,6 @@
     - Введение в систему модулей Go https://habr.com/ru/articles/421411/
     - Range Over Function Types https://go.dev/blog/range-functions
     - Preemption in Go: an introduction https://unskilled.blog/posts/preemption-in-go-an-introduction/
-    - Пример создания Makefile для Go-приложений https://habr.com/ru/articles/461467/
     - Некоторые подводные грабли в языке Go https://eax.me/golang-gotchas/
     - 3 Easy Ways To Add Version Flag in Go https://jerrynsh.com/3-easy-ways-to-add-version-flag-in-go/
     - Коллеги, вы меня огорчаете https://habr.com/ru/companies/oleg-bunin/articles/521582/
