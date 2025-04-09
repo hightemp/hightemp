@@ -1560,6 +1560,7 @@
 - https://hackmysql.com/tags/golang/
 - https://pehringer.info/
 - https://nelhagedebugsshit.tumblr.com/
+- https://dr-knz.net/tags/#golang-ref
 
 ### Подкасты
 
