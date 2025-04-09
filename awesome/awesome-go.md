@@ -574,6 +574,7 @@
       - Things I learned writing a JIT in Go https://nelhagedebugsshit.tumblr.com/post/84342207533/things-i-learned-writing-a-jit-in-go
       - A Foray Into Go Assembly Programming https://blog.sgmansfield.com/2017/04/a-foray-into-go-assembly-programming/
       - Go assembly language complementary reference https://www.quasilyte.dev/blog/post/go-asm-complementary-reference/
+      - Go Assembly on the arm64 https://www.symbolcrash.com/2021/03/02/go-assembly-on-the-arm64/
     - Plan 9
       - Go Wiki: Go on Plan 9 https://go.dev/wiki/Plan9
       - Getting Go on Plan 9 https://mike-bland.com/2015/06/08/getting-go-on-plan-9.html
