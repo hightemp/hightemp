@@ -589,6 +589,7 @@
       - How to analyze Go code in assembly https://huizhou92.com/p/how-to-analyze-go-code-in-assembly/
       - Что нужно знать, если вы хотите вызывать Go функции из ассемблера https://habr.com/ru/articles/489482/
       - Встраиваемые функции в Go https://habr.com/ru/articles/467673/
+      - Go functions in assembly language https://github.com/golang/go/files/447163/GoFunctionsInAssembly.pdf
   - Go Modules
     - Управление зависимостями в Go https://habr.com/ru/companies/mvideo/articles/780776/
     - Модули Go и управление зависимостями https://appmaster.io/ru/blog/upravlenie-zavisimostiami-modulei-go
