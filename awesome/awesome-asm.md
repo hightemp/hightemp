@@ -46,10 +46,14 @@
     - 19+ Assembly Project Ideas for Beginners to Advanced https://topexceltips.com/assembly-project-ideas/
     - 20 Best Assembly Books of All Time https://bookauthority.org/books/best-assembly-books
 - NASM
-    - Assembly Programming Tutorial https://www.tutorialspoint.com/assembly_programming/index.htm
-    - NASM Tutorial https://cs.lmu.edu/~ray/notes/nasmtutorial/
-    - NASM Tutorial https://cratecode.com/info/nasm-tutorial
-    - https://courses.ics.hawaii.edu/ReviewICS312/morea/FirstProgram/ics312_nasm_first_program.pdf
+    - Основное
+        - https://courses.ics.hawaii.edu/ReviewICS312/morea/FirstProgram/ics312_nasm_first_program.pdf
+    - Примеры приложений
+        - Linux X86 Assembly - How to Build a Hello World Program in NASM https://www.secureideas.com/blog/2021/05/linux-x86-assembly-how-to-build-a-hello-world-program-in-nasm.html
+    - Остальное
+        - Assembly Programming Tutorial https://www.tutorialspoint.com/assembly_programming/index.htm
+        - NASM Tutorial https://cs.lmu.edu/~ray/notes/nasmtutorial/
+        - NASM Tutorial https://cratecode.com/info/nasm-tutorial
 - x86
     - Регистры
         - Registers in x86 Assembly https://www.cs.uaf.edu/2017/fall/cs301/lecture/09_11_registers.html
