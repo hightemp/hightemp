@@ -19,6 +19,7 @@
 - Context Switching, Смена контекста
     - Context Switching https://wiki.osdev.org/Context_Switching
 - Остальное
+    - The Importance of Computer Science Publishers for Rookies and Advanced Users https://machaddr.substack.com/p/the-importance-of-computer-science
     - Abstract Machine Models Also: what Rust got particularly right https://dr-knz.net/abstract-machine-models.html
     - Cooperative vs. Preemptive: a quest to maximize concurrency power https://medium.com/traveloka-engineering/cooperative-vs-preemptive-a-quest-to-maximize-concurrency-power-3b10c5a920fe
 
