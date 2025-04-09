@@ -46,6 +46,7 @@
     - 19+ Assembly Project Ideas for Beginners to Advanced https://topexceltips.com/assembly-project-ideas/
     - 20 Best Assembly Books of All Time https://bookauthority.org/books/best-assembly-books
 - NASM
+    - Assembly Programming Tutorial https://www.tutorialspoint.com/assembly_programming/index.htm
     - NASM Tutorial https://cs.lmu.edu/~ray/notes/nasmtutorial/
     - NASM Tutorial https://cratecode.com/info/nasm-tutorial
     - https://courses.ics.hawaii.edu/ReviewICS312/morea/FirstProgram/ics312_nasm_first_program.pdf
