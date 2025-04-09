@@ -586,6 +586,7 @@
     - Остальное
       - Как написать сборку Go https://blog.lufia.org/entry/2021/03/17/113000
       - The Go low-level calling convention on x86-64 https://dr-knz.net/go-calling-convention-x86-64.html
+      - How to analyze Go code in assembly https://huizhou92.com/p/how-to-analyze-go-code-in-assembly/
   - Go Modules
     - Управление зависимостями в Go https://habr.com/ru/companies/mvideo/articles/780776/
     - Модули Go и управление зависимостями https://appmaster.io/ru/blog/upravlenie-zavisimostiami-modulei-go
