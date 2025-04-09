@@ -1562,6 +1562,7 @@
 - https://pehringer.info/
 - https://nelhagedebugsshit.tumblr.com/
 - https://dr-knz.net/tags/#golang-ref
+- https://www.symbolcrash.com/category/golang/
 
 ### Подкасты
 
