@@ -98,8 +98,12 @@
         - Jaeger: open source, distributed tracing platform
             - Jaeger Tracing: A Friendly Guide for Beginners https://medium.com/jaegertracing/jaeger-tracing-a-friendly-guide-for-beginners-7b53a4a568ca
             - Towards Jaeger v2 💥💥💥 Moar OpenTelemetry! https://medium.com/jaegertracing/towards-jaeger-v2-moar-opentelemetry-2f8239bee48e
-    - OpenTelemetry
-    - SigNoz
+    - Стандарты и фреймворки сбора телеметрии
+        - OpenTelemetry
+    - Комплексные платформы наблюдаемости
+        - SigNoz
+        - Datadog
+        - New Relic
 - Мониторинг
 - Логирование
     - Лог-коллекторы, Парсинг логов
