@@ -115,6 +115,7 @@
             - Towards Jaeger v2 💥💥💥 Moar OpenTelemetry! https://medium.com/jaegertracing/towards-jaeger-v2-moar-opentelemetry-2f8239bee48e
     - Стандарты и фреймворки сбора телеметрии
         - OpenTelemetry
+            - What is OpenTelemetry? A Straightforward Guide https://www.bugsnag.com/resources/ebooks/what-is-opentelemetry-a-straightforward-guide/?utm_source=jaeger-medium&utm_medium=post&utm_campaign=jaeger-tracing-the-ultimate-guide
     - Комплексные платформы наблюдаемости
         - SigNoz
         - Datadog
