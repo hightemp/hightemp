@@ -44,6 +44,7 @@
     - A Deep Dive into Docker Compose https://dev.to/alexmercedcoder/a-deep-dive-into-docker-compose-27h5
     - How to use docker compose depends_on a beginner's guide https://geshan.com.np/blog/2024/02/docker-compose-depends-on/
     - The definitive Guide to Docker compose https://gabrieltanner.org/blog/docker-compose/
+    - Docker for Beginners: A Step-by-Step Guide to Get Started…. https://medium.com/@anjanathenuwara/from-beginner-to-pro-everything-you-need-to-know-about-docker-5d8f38db2ba6
 - Отладка, Debugging, Troubleshooting
     - Chapter 12: Troubleshooting and Debugging with Docker https://praneethreddybilakanti.medium.com/chapter-12-troubleshooting-and-debugging-with-docker-0a37b6d47d38
     - 13 Ways to Troubleshoot Docker Faster in 2024 https://overcast.blog/13-ways-to-troubleshoot-docker-faster-in-2024-5b064c20c9e2
