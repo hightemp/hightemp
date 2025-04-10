@@ -646,6 +646,9 @@
 
 ### Статьи
 
+- Что нового
+  - Rust 1.86.0: преобразование в родительский трейт, поддержка изменяемой индексации для HashMap и срезов https://habr.com/ru/articles/898008/
+  - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
 - Основы языка
   - Основное
     - A Gentle Introduction To Rust https://stevedonovan.github.io/rust-gentle-intro/
@@ -660,8 +663,6 @@
     - Rust by Example https://doc.rust-lang.org/rust-by-example/
     - Руководство по языку программирования Rust https://metanit.com/rust/tutorial/
     - Русский перевод книги «The Rust Programming Language» (TRPL) https://habr.com/ru/news/498794/
-  - Обновления
-    - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
   - Channels, Каналы
     - Channels https://doc.rust-lang.org/rust-by-example/std_misc/channels.html
     - Channels https://dhghomon.github.io/easy_rust/Chapter_50.html
