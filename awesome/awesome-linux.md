@@ -95,6 +95,10 @@
         - Linux's Bedtime Routine (В статье рассматриваются процессы, связанные с переходом системы Linux из активного состояния в спящий режим. В ней подробно описываются механизмы синхронизации файловых систем, управление питанием и базовые функции ядра, которые облегчают этот переход) https://tookmund.com/2024/09/hibernation-preparation 
         - How raw sockets behave differently in macOS and Linux https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/
         - Linux fundamentals: user space, kernel space, and the syscalls API surface https://www.form3.tech/blog/engineering/linux-fundamentals-user-kernel-space
+    - sockets
+        - What is a socket? https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket
+    - cgroup
+        - Practicing cgroup v2 https://medium.com/@charles.vissol/practicing-cgroup-v2-cad6743bba0c
     - dup
         - dup, dup2, dup3 - duplicate a file descriptor https://man7.org/linux/man-pages/man2/dup.2.html
     - select
@@ -169,10 +173,6 @@
         - SSH port forwarding for Beginners https://nirali0.medium.com/ssh-port-forwarding-for-beginners-228d9a1d5622
     - Остальное
         - OpenSSH/Cookbook/Multiplexing https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing
-- sockets
-    - What is a socket? https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket
-- cgroup
-    - Practicing cgroup v2 https://medium.com/@charles.vissol/practicing-cgroup-v2-cad6743bba0c
 - systemd
     - Основное
         - Systemd для начинающих: разбор юнитов и их функций https://habr.com/ru/companies/factory5/articles/842518/
@@ -191,6 +191,8 @@
         - Остальное
             - Running systemd-nspawn containers with a VPN interface https://blog.lieter.nl/posts/systemd-nspawn-multi-interfaces-container-wireguard/
             - Systemd Nspawn https://jimmyg.org/blog/2022/nspawn/index.html
+    - journald
+        - How To Use Journalctl to View and Manipulate Systemd Logs https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs
     - Остальное
         - Systemd Watchdog for Any Service https://www.medo64.com/2019/01/systemd-watchdog-for-any-service/      
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
