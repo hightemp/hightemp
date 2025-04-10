@@ -868,6 +868,8 @@
         - Understanding Session-Based Authentication from Scratch https://medium.com/@884m884/understanding-session-based-authentication-from-scratch-64110bcfc00f
       - client
         - Making REST API Requests in Golang using the HTTP Client https://www.sohamkamani.com/golang/http-client/
+      - http.FileServer
+        - http.FileServer and HTTP StripPrefix https://programmer.ink/think/http.fileserver-and-http-stripprefix.html
       - Примеры
         - How to Parse a JSON Request Body in Go https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
         - Understanding bytes in Go by building a TCP protocol https://ieftimov.com/posts/understanding-bytes-golang-build-tcp-protocol/
