@@ -194,6 +194,7 @@
     - journald
         - How To Use Journalctl to View and Manipulate Systemd Logs https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs
         - A journalctl mini-tutorial https://smarketshq.com/a-journalctl-mini-tutorial-8675a5daa072
+        - How to Use Journalctl to Consult Server Logs https://alibaba-cloud.medium.com/how-to-use-journalctl-to-consult-server-logs-4b07311b0ab4
     - Остальное
         - Systemd Watchdog for Any Service https://www.medo64.com/2019/01/systemd-watchdog-for-any-service/      
         - systemd: The Good Parts https://www.hashicorp.com/resources/systemd-the-good-parts
