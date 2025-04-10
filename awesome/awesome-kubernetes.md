@@ -67,3 +67,4 @@
     - Ломаем и чиним etcd-кластер https://habr.com/ru/companies/aenix/articles/544390/
 - Остальное
     - Вертикальное масштабирование подов https://cloud.ru/docs/kubernetes-evolution/ug/topics/concepts__vertical-pod-autoscaler.html#id1
+    - 13 Kubernetes Configurations You Should Know in 2024 https://overcast.blog/13-kubernetes-configurations-you-should-know-in-2024-54eec72f307e
