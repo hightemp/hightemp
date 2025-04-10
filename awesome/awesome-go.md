@@ -849,6 +849,9 @@
 - Файловая система
   - Mastering Golang — Part 7: Read File https://blog.stackademic.com/mastering-golang-part-6-read-file-41a8292497e5
   - Создание временного файла и временной директории в Golang http://xztvc.ru/post/sozdanie-vremennogo-fajla-i-vremennoj-direktorii-v-golang
+- Форматы сериализации данных
+  - Protocol Buffers
+    - Golang Protocol Buffers data format tutorial https://programmer.ink/think/golang-protocol-buffers-data-format-tutorial.html
 - Базы данных
   - PostgreSQL
     - Connecting to PostgreSQL in Golang https://medium.com/@dewirahmawatie/connecting-to-postgresql-in-golang-59d7b208bad2
