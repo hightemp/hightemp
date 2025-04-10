@@ -513,6 +513,7 @@
     - sync.Mutex
       - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
       - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
+      - Go mutex (sync.Mutex) and read / write lock (sync.RWMutex) https://programmer.ink/think/go-mutex-sync.mutex-and-read-write-lock-sync.rwmutex.html
     - sync.Cond
       - Go sync.Cond, the Most Overlooked Sync Mechanism https://victoriametrics.com/blog/go-sync-cond/index.html
     - sync.semaphore
