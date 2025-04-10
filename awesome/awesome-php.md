@@ -256,6 +256,8 @@
   - Optimizing PHP Performance for High-Traffic Websites: Best Practices and Techniques https://medium.com/@chirag.dave/optimizing-php-performance-for-high-traffic-websites-best-practices-and-techniques-d03fc0f79ea6
 - Лучшие практики
   - Best practices for building a production-ready Dockerfile for PHP applications https://snyk.io/blog/building-production-ready-dockerfile-php/
+- Логирование
+  - Логирование в распределенном php-приложении https://habr.com/ru/articles/456676/
 - Архитектура
   - Clean architecture
     - Clean Architecture with PHP https://medium.com/unil-ci-software-engineering/clean-architecture-with-php-22de915a6c50
