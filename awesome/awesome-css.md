@@ -5,6 +5,7 @@
     - Автор: Леа Веру
     - Ссылки:
         - https://vk.com/wall-54530371_129197
+        - https://www.piter.com/product/sekrety-css-idealnye-resheniya-ezhednevnyh-zadach
 
 ### Статьи
 
