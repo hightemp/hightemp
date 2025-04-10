@@ -70,6 +70,8 @@
     - Permission Denied Nginx Docker | by Serghei Pogor | Medium https://sergheipogor.medium.com/permission-denied-nginx-docker-72caa442e351
 - Масштаблирование, Scaling
     - Масштабирование сервисов https://javarush.com/quests/lectures/ru.javarush.docker.fullstack.lecture.level04.lecture07
+- Логирование
+    - Работа с логами (Logs) в Docker https://linux-notes.org/rabota-s-logami-logs-v-docker/
 - Images, Образы
     - Основное
         - 10 Docker Security Best Practices https://snyk.io/blog/10-docker-image-security-best-practices/
