@@ -84,6 +84,7 @@
 - https://linuxhandbook.com/latest/
 - https://ioflood.com/blog/category/linux/
 - https://programmer.ink/topic/linux
+- https://linux-notes.org/
 
 ### Статьи
 
