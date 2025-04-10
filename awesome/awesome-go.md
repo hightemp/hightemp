@@ -584,6 +584,7 @@
       - Архитектура ассемблера Go https://habr.com/ru/companies/badoo/articles/317864/
       - Go Assembly Overview https://www.sobyte.net/post/2022-08/go-assembly/
       - Introduction to Golang assembly https://programmer.ink/think/introduction-to-golang-assembly.html
+      - \[golang\] golang assembly https://www.programmerall.com/article/89761650628/
     - Plan 9
       - Go Wiki: Go on Plan 9 https://go.dev/wiki/Plan9
       - Getting Go on Plan 9 https://mike-bland.com/2015/06/08/getting-go-on-plan-9.html
