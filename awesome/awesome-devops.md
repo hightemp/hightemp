@@ -96,6 +96,7 @@
 - Инструментов наблюдаемости (observability tools)
     - Системы распределенной трассировки (distributed tracing systems)
         - Jaeger: open source, distributed tracing platform
+            - Jaeger Tracing: A Friendly Guide for Beginners https://medium.com/jaegertracing/jaeger-tracing-a-friendly-guide-for-beginners-7b53a4a568ca
             - Towards Jaeger v2 💥💥💥 Moar OpenTelemetry! https://medium.com/jaegertracing/towards-jaeger-v2-moar-opentelemetry-2f8239bee48e
     - OpenTelemetry
     - SigNoz
