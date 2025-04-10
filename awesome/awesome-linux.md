@@ -119,6 +119,8 @@
     - /dev
         - Understanding the /dev Directory in Linux https://www.baeldung.com/linux/dev-directory
     - Утилиты
+        - killall
+            - Killall command and examples in Linux https://programmer.ink/think/killall-command-and-examples-in-linux.html
         - ncat
             - Ncat, Netcat, nc https://kali.tools/?p=4578
         - nc
