@@ -392,6 +392,7 @@
   - Контекст; Context
     - Понимание контекста https://habr.com/ru/articles/864348/
     - Golang Context (A Complete Guide) https://www.kelche.co/blog/go/golang-context/
+    - Golang standard library context Context https://programmer.ink/think/golang-standard-library-context-context.html
   - Unsafe
     - Обзор пакета unsafe: как обходить ограничения Go (но лучше этого не делать) https://habr.com/ru/companies/otus/articles/862854/
     - Type-Unsafe Pointers https://go101.org/article/unsafe.html
