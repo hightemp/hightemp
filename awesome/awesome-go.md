@@ -1144,7 +1144,6 @@
   - Остальное    
   - 🏗️ Паттерны
     - Основное
-      - Practice the design pattern of GoF 23: SOLID principle https://programmer.ink/think/practice-the-design-pattern-of-gof-23-solid-principle.html
     - Анти-паттерны, Anti-patterns
       - Common Anti-Patterns in Go Web Applications https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
       - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
@@ -1193,6 +1192,7 @@
     - SOLID
       - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/ 
     - Остальное
+      - Practice the design pattern of GoF 23: SOLID principle https://programmer.ink/think/practice-the-design-pattern-of-gof-23-solid-principle.html
       - Go advanced concurrency patterns: part 4 (unlimited buffer channels) https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/
       - Head First Design Patterns using Go —1. Introduction https://faun.pub/head-first-design-patterns-using-go-introduction-d9f05a4c243a
       - Head First Design Patterns using Go — 2. Welcome to Design Patterns: the Strategy Pattern https://faun.pub/head-first-design-patterns-using-go-1-welcome-to-design-patterns-the-strategy-pattern-6cbd940e113a
