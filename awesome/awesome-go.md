@@ -1583,6 +1583,7 @@
 - https://dr-knz.net/tags/#golang-ref
 - https://www.symbolcrash.com/category/golang/
 - https://huizhou92.com/tags/golang/
+- https://programmer.ink/topic/go
 
 ### Подкасты
 
