@@ -1258,6 +1258,7 @@
   - zerolog
     - A Complete Guide to Logging in Go with Zerolog https://betterstack.com/community/guides/logging/zerolog/
     - Setting up log-rotation for zerolog https://lorefnon.me/2022/09/01/setting-up-log-rotation-for-zerolog/
+    - Zerolog Golang - Complete Guide to Logging https://signoz.io/guides/zerolog-golang/
   - zap
     - Zap: Unlock the Full Potential of Logging in Go https://leapcell.medium.com/abstract-58af1d21d201
     - A Hands-On Approach to Zap - Structured Logging in Go https://www.kelche.co/blog/go/zap/
