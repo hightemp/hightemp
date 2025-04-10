@@ -990,8 +990,6 @@
 - Файлы
   - Read File in Golang https://www.scaler.com/topics/golang/golang-read-file/
   - How to Read a Text File with Go https://www.jeremymorgan.com/tutorials/go/how-to-read-text-file-go/
-- Jaeger: open source, distributed tracing platform
-  - Towards Jaeger v2 💥💥💥 Moar OpenTelemetry! https://medium.com/jaegertracing/towards-jaeger-v2-moar-opentelemetry-2f8239bee48e
 - Мониторинг, метрики
   - Victoria Metrics
     - How vmagent Collects and Ships Metrics Fast with Aggregation, Deduplication, and More https://victoriametrics.com/blog/vmagent-how-it-works/
