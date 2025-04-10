@@ -21,6 +21,7 @@
 ### Полезные ссылки
 
 - https://www.yiiframework.ru/forum/index.php
+- https://telq.org/community/6102557b535ed8596d316672
 
 ### Статьи
 
