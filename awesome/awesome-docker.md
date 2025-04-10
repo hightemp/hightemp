@@ -46,6 +46,7 @@
     - The definitive Guide to Docker compose https://gabrieltanner.org/blog/docker-compose/
 - Отладка, Debugging, Troubleshooting
     - Chapter 12: Troubleshooting and Debugging with Docker https://praneethreddybilakanti.medium.com/chapter-12-troubleshooting-and-debugging-with-docker-0a37b6d47d38
+    - 13 Ways to Troubleshoot Docker Faster in 2024 https://overcast.blog/13-ways-to-troubleshoot-docker-faster-in-2024-5b064c20c9e2
 - Network
     - Compose Create Networks In Docker Compose https://www.warp.dev/terminus/docker-compose-networks
     - Доступ http из одного проекта docker-compose к другому https://itelmenko.ru/devops/docker-composer-2-project-network/
