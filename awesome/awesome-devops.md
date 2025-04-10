@@ -93,6 +93,21 @@
 - pacemaker
     - How to Set Up Nginx High Availability Cluster using Pacemaker on CentOS 7 https://www.rosehosting.com/blog/how-to-set-up-nginx-high-availability-cluster-using-pacemaker-on-centos-7/
     - How to Configure Nginx High Availability Cluster Using Pacemaker on Ubuntu 16.04 https://www.alibabacloud.com/blog/how-to-configure-nginx-high-availability-cluster-using-pacemaker-on-ubuntu-16-04_593708
+- Брокеры сообщений (Message Brokers)
+    - Платформы потоковой обработки событий
+        - Apache Kafka
+        - Apache Pulsar
+        - NATS Jetstream (расширение NATS для потоковой обработки)
+    - RabbitMQ
+    - Apache ActiveMQ
+    - NATS Core
+    - Облачные сервисы обработки потоков и сообщений
+        - Amazon Kinesis
+        - Google Pub/Sub
+        - Azure Event Hubs
+        - Confluent Cloud
+    - In-Memory решения с поддержкой потоков
+        - Redis Streams
 - Инструментов наблюдаемости (observability tools)
     - Системы распределенной трассировки (distributed tracing systems)
         - Jaeger: open source, distributed tracing platform
