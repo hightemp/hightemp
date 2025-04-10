@@ -342,6 +342,7 @@
 
 - Clean architecture
   - Clean Architecture in a PHP application https://github.com/gushakov/clean-php  
+  - Демонстративный проект для инструмента анализа и контроля качество архитектуры PHP-приложений https://github.com/Chetkov/php-clean-architecture-example-project
 - DDD
   - https://github.com/CodelyTV/php-ddd-example
   - https://github.com/jorge07/ddd-playground
