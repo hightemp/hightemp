@@ -1143,6 +1143,8 @@
     - Golang: Project Structure https://bytegoblin.io/blog/golang-project-structure
   - Остальное    
   - 🏗️ Паттерны
+    - Основное
+      - Practice the design pattern of GoF 23: SOLID principle https://programmer.ink/think/practice-the-design-pattern-of-gof-23-solid-principle.html
     - Анти-паттерны, Anti-patterns
       - Common Anti-Patterns in Go Web Applications https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
       - Анти-паттерны в Go Web Applications https://habr.com/ru/articles/823766/
