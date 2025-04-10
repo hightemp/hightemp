@@ -123,6 +123,7 @@
             - Основное
                 - What is OpenTelemetry? https://codeboten.medium.com/what-is-opentelemetry-6a7e5c6901c5
                 - What is OpenTelemetry — — an Introduction for Beginners https://medium.com/@greptime/what-is-opentelemetry-an-introduction-for-beginners-16035b212014
+                - OpenTelemetry на практике https://habr.com/ru/companies/ru_mts/articles/537892/
     - Комплексные платформы наблюдаемости
         - SigNoz
         - Datadog
