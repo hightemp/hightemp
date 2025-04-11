@@ -238,6 +238,7 @@
   - Using Symfony Security voters to check user permissions with ease https://titouangalopin.com/posts/1slD16VBJqb2JBJAzKyDpU/using-symfony-security-voters-to-check-user-permissions-with-ease
   - Symfony Voters reference https://sajadtorkamani.com/symfony-voters-reference/
   - Using Symfony Security voters to check user permissions with ease https://medium.com/@galopintitouan/using-symfony-security-voters-to-check-user-permissions-with-ease-9a48e2d45540
+  - Using Symfony Security voters to check user permissions with ease https://titouangalopin.com/posts/1slD16VBJqb2JBJAzKyDpU/using-symfony-security-voters-to-check-user-permissions-with-ease
 - Serialization
   - Serialize PHP objects using Symfony Serializer https://sajadtorkamani.com/serialize-php-objects-using-symfony-serializer/
   - Deserialize data into a PHP object using Symfony Serializer https://sajadtorkamani.com/deserialize-data-into-a-php-object-using-symfony-serializer/
@@ -380,6 +381,8 @@
 
 - Messenger
   - Messenger vs EventDispatcher https://symfonycasts.com/screencast/messenger/messenger-event-dispatcher
+- Voter
+  - Symfony 6 курс. Урок 8. Создание Voter и формы в зависимости от пользователя https://ya.ru/video/preview/11647862962800869844
 - Работа с ролями и разрешениями
   - https://symfonycasts.com/screencast/symfony4-security/dynamic-roles
 - Конференции
