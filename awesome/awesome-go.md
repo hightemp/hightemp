@@ -384,6 +384,8 @@
     - Как итерировать по символам в строках Go https://golang-blog.blogspot.com/2024/10/iterate-string-symbols.html
   - Struct; Структуры
     - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
+  - Функции, Functions
+    - Функции первого класса, замыкания и анонимные функции в Golang https://golangify.com/closures-anonymous-first-class-func
   - Interface; Интерфейсы
     - Погружение в интерфейсы Go https://habr.com/ru/articles/856272/
     - Interfaces and other types https://go.dev/doc/effective_go#interfaces_and_types
