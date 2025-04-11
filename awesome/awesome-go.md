@@ -1243,6 +1243,10 @@
   - Остальное    
 - Распределенные системы
   - Реализация Paxos на Go: создаем алгоритм консенсуса без готовых решений https://habr.com/ru/companies/otus/articles/869122/
+- Хранилища данных
+  - Объектные хранилища
+    - MinIO (s3)
+      - Зачем и как хранить объекты на примере MinIO https://habr.com/ru/companies/ozontech/articles/586024/
 - Параметры структур
   - The Go *Options pattern https://nuculabs.dev/p/the-go-options-pattern
 - Кэширование, cache
