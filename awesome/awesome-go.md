@@ -1153,7 +1153,8 @@
     - How to Structure a Golang Project https://blog.boot.dev/golang/golang-project-structure/
     - Golang Project Structure https://medium.com/devbulls/golang-project-structure-9737013787b7
     - Golang: Project Structure https://bytegoblin.io/blog/golang-project-structure
-  - Остальное    
+  - Остальное
+    - Архитектура продуктового Go-сервиса https://habr.com/ru/articles/881918/ 
   - 🏗️ Паттерны
     - Основное
     - Анти-паттерны, Anti-patterns
