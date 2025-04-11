@@ -231,6 +231,7 @@
     - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
     - Migrating users to a secure hashing algorithm in Symfony https://www.michaelperrin.fr/blog/2017/01/migrating-users-to-a-secure-hashing-algorithm-in-symfony
 - Symfony Voters
+  - How to Use Voters to Check User Permissions https://symfony.com/doc/current/security/voters.html
   - Access Control with Symfony Voters https://accesto.com/blog/symfony-voters/
   - Как использовать избирателей для проверки разрешений пользователей https://symfony.ru/doc/current/security/voters.html
   - How to Use Voters to Check User Permissions https://aksymfony.readthedocs.io/en/5.4/security/voters.html
