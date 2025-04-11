@@ -408,6 +408,7 @@
     - Weak Pointers in Go: Why They Matter Now https://victoriametrics.com/blog/go-weak-pointer/
     - Using Weak Pointers in Go https://dev.to/colindickson_78/weak-pointers-coming-in-go-124-imf
     - Memory Efficiency in Go 1.24: Introducing the weakPackage https://medium.com/@ajitem/memory-efficiency-in-go-1-24-introducing-the-weakpackage-91635691d53f
+    - Слабые указатели в Go: в консерватории не всё в порядке https://habr.com/ru/articles/895876/
   - Channels, Каналы
     - Channels in Go https://go101.org/article/channel.html
     - Internals of Go Channels https://shubhagr.medium.com/internals-of-go-channels-cf5eb15858fc
