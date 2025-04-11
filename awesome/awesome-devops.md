@@ -128,6 +128,9 @@
         - SigNoz
         - Datadog
         - New Relic
+- Хранилища данных
+    - Объектные хранилища
+        - Собственное S3-хранилище на базе MinIO https://pressanybutton.ru/post/primenenie-docker/sobstvennoe-s3-hranilishe-na-baze-minio/?ysclid=m9cqx48hhj791270800
 - Мониторинг
 - Логирование
     - Лог-коллекторы, Парсинг логов
