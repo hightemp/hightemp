@@ -385,6 +385,7 @@
   - Struct; Структуры
     - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
   - Функции, Functions
+    - Основы Go: функции https://habr.com/ru/companies/otus/articles/746276/
     - Функции первого класса, замыкания и анонимные функции в Golang https://golangify.com/closures-anonymous-first-class-func
     - Типы функций и функции высшего порядка на Go https://medium.com/nuances-of-programming/типы-функций-и-функции-высшего-порядка-на-go-fa0f4572b4d3
   - Interface; Интерфейсы
