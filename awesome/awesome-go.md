@@ -1698,3 +1698,4 @@
 
 - https://github.com/storj/storj
 - https://github.com/minio/minio
+- https://github.com/rook/rook
