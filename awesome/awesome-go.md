@@ -386,6 +386,7 @@
     - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
   - Функции, Functions
     - Функции первого класса, замыкания и анонимные функции в Golang https://golangify.com/closures-anonymous-first-class-func
+    - Типы функций и функции высшего порядка на Go https://medium.com/nuances-of-programming/типы-функций-и-функции-высшего-порядка-на-go-fa0f4572b4d3
   - Interface; Интерфейсы
     - Погружение в интерфейсы Go https://habr.com/ru/articles/856272/
     - Interfaces and other types https://go.dev/doc/effective_go#interfaces_and_types
