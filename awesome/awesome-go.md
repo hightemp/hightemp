@@ -1161,6 +1161,7 @@
       - Go Antipatterns https://hackmysql.com/golang/go-antipatterns/
     - Concurrency Patterns
       - Основное
+        - Разбираем паттерны конкурентности https://habr.com/ru/articles/895922/
         - Разбираем конкурентность в Go: книги, блоги, выступления https://engineer.yadro.com/article/kak-pisat-konkurentnyj-kod-v-go/
         - Go advanced concurrency patterns: part 1 https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/
         - Go advanced concurrency patterns: part 2 (timers) https://blogtitle.github.io/go-advanced-concurrency-patterns-part-2-timers/
