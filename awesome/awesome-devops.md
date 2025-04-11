@@ -130,6 +130,8 @@
         - New Relic
 - Хранилища данных
     - Объектные хранилища
+        - Основное
+            - Как работают объектные хранилища: объясняем на практике и собственных шишках https://habr.com/ru/companies/selectel/articles/705908/
         - MinIO
             - Собственное S3-хранилище на базе MinIO https://pressanybutton.ru/post/primenenie-docker/sobstvennoe-s3-hranilishe-na-baze-minio/?ysclid=m9cqx48hhj791270800
             - Настройка хранилища объектов с помощью Minio в Ubuntu 18.04 https://www.8host.com/blog/nastrojka-xranilishha-obektov-s-pomoshhyu-minio-v-ubuntu-18-04/?ysclid=m9cr0n2wir681350710
