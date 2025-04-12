@@ -86,6 +86,7 @@
 - https://ioflood.com/blog/category/linux/
 - https://programmer.ink/topic/linux
 - https://linux-notes.org/
+- https://www.linuxrsp.ru/artic/index.html
 
 ### Статьи
 
