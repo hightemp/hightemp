@@ -52,6 +52,9 @@
         - Linux X86 Assembly - How to Build a Hello World Program in NASM https://www.secureideas.com/blog/2021/05/linux-x86-assembly-how-to-build-a-hello-world-program-in-nasm.html
     - GUI
         - Learn x86-64 assembly by writing a GUI from scratch https://gaultier.github.io/blog/x11_x64.html
+    - Сеть
+        - Sockets
+            - Building a Simple 64-Bit Server in Assembly with NASM https://islamukheef.medium.com/building-a-simple-64-bit-server-in-assembly-with-nasm-e5e310a2f043
     - Остальное
         - Assembly Programming Tutorial https://www.tutorialspoint.com/assembly_programming/index.htm
         - NASM Tutorial https://cs.lmu.edu/~ray/notes/nasmtutorial/
