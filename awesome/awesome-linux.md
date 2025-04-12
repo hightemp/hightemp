@@ -87,6 +87,7 @@
 - https://programmer.ink/topic/linux
 - https://linux-notes.org/
 - https://www.linuxrsp.ru/artic/index.html
+- https://www.nixp.ru/articles
 
 ### Статьи
 
