@@ -88,6 +88,7 @@
 - https://linux-notes.org/
 - https://www.linuxrsp.ru/artic/index.html
 - https://www.nixp.ru/articles
+- https://dzen.ru/id/622f17907d728d3bad6fcfcc
 
 ### Статьи
 
