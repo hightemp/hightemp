@@ -25,10 +25,12 @@
 
 ### Книги
 
-- Assembler для DOS, Windows и UNIX / Зубков Сергей Владимирович. - 3-е
+- Assembler для DOS, Windows и UNIX - 3-е
 изд 
-1.  https://lshoshia.science.tsu.ge/assembler.pdf
-2.  https://www.litres.ru/book/sergey-zubkov-12506716/assembler-dlya-dos-windows-i-unix-27067469/
+    - Автор: Зубков Сергей Владимирович.
+    - Ссылки:
+        - https://lshoshia.science.tsu.ge/assembler.pdf
+        - https://www.litres.ru/book/sergey-zubkov-12506716/assembler-dlya-dos-windows-i-unix-27067469/
 - Modern X86 Assembly Language Programming http://www.apress.com/9781484200650
 - .NET IL Assembler http://www.apress.com/9781430267614
 - Assembly Language for x86 Processors, 7th edition http://kipirvine.com/asm/
