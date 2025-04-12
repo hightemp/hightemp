@@ -88,6 +88,7 @@
 - https://linux-notes.org/
 - https://www.linuxrsp.ru/artic/index.html
 - https://www.nixp.ru/articles
+- https://vk.com/it_blog_sysadm1n
 
 ### Статьи
 
@@ -127,6 +128,7 @@
     - /dev
         - Understanding the /dev Directory in Linux https://www.baeldung.com/linux/dev-directory
     - /proc
+        - Каталог /proc в Linux https://vk.com/@it_blog_sysadm1n-katalog-proc-v-linux
         - Изучаем файловую систему proc https://www.linuxrsp.ru/artic/fs-proc.html
         - Файловые системы /dev и /proc в Linux 2.4 https://www.nixp.ru/articles/38.html
     - Утилиты
