@@ -124,6 +124,8 @@
         - Roadmap to Learning Linux Device Drivers https://pyjamabrah.com/posts/linux-device-drivers/?s=35
     - /dev
         - Understanding the /dev Directory in Linux https://www.baeldung.com/linux/dev-directory
+    - /proc
+        - Изучаем файловую систему proc https://www.linuxrsp.ru/artic/fs-proc.html
     - Утилиты
         - killall
             - killall(1) — Linux manual page https://man7.org/linux/man-pages/man1/killall.1.html
