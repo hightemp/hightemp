@@ -634,6 +634,8 @@
 
 ### Видео
 
+- Основное
+  - Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises | Zero To Mastery https://www.youtube.com/watch?v=lzKeecy4OmQ
 - Примеры приложений
   - Next.js 14, Rust, Docker: Build a fullstack rest API in typeScript and Rust https://youtu.be/77RjzJtC_g4
   - Implementing a Lox interpreter in Rust https://www.youtube.com/watch?v=mNOLaw-_Buc&list=PLqbS7AVVErFhAhQ5s9SWcvxHh4GwsIk_d&index=9
