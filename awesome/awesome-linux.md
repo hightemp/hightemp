@@ -127,6 +127,7 @@
         - Understanding the /dev Directory in Linux https://www.baeldung.com/linux/dev-directory
     - /proc
         - Изучаем файловую систему proc https://www.linuxrsp.ru/artic/fs-proc.html
+        - Файловые системы /dev и /proc в Linux 2.4 https://www.nixp.ru/articles/38.html
     - Утилиты
         - killall
             - killall(1) — Linux manual page https://man7.org/linux/man-pages/man1/killall.1.html
