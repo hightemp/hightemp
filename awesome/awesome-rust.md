@@ -160,7 +160,6 @@
 - https://rust-osdev.com/
 - https://blog.m-ou.se/
 - https://cliffle.com/
-- Writing an OS in Rust https://os.phil-opp.com/
 - https://morestina.net/blog/
 - https://www.freecodecamp.org/news/tag/rust/
 - https://blog.orhun.dev/
@@ -721,7 +720,6 @@
 - Подборки
   - ТОП-10 книг о языке программирования Rust: от новичка до профессионала https://proglib.io/p/top-10-knig-o-yazyke-programmirovaniya-rust-ot-novichka-do-professionala-2021-12-06
 - Остальное
-  - Writing an OS in Rust https://os.phil-opp.com/
   - Why Rust? https://rerun.io/blog/why-rust
   - Небезопасный Rust сложнее C https://habr.com/ru/companies/ruvds/articles/858246/
   - How to Learn Rust in 2024: A Complete Beginner’s Guide to Mastering Rust Programming https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/
