@@ -669,6 +669,8 @@
     - Руководство по языку программирования Rust https://metanit.com/rust/tutorial/
     - Русский перевод книги «The Rust Programming Language» (TRPL) https://habr.com/ru/news/498794/
     - Getting Started with Rust https://medium.com/@rami.krispin/getting-started-with-rust-928bf7b8418f
+  - Loops
+    - Mastering Loops in Rust: An In-Depth Guide with Examples https://blog.devgenius.io/mastering-loops-in-rust-an-in-depth-guide-with-examples-83d516e1b3b2
   - Channels, Каналы
     - Channels https://doc.rust-lang.org/rust-by-example/std_misc/channels.html
     - Channels https://dhghomon.github.io/easy_rust/Chapter_50.html
