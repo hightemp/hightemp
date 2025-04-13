@@ -954,6 +954,8 @@
 
 ### Статьи
 
+- Основное
+    - Нейросети и глубокое обучение, глава 1: использование нейросетей для распознавания рукописных цифр https://habr.com/ru/articles/456738/
 - Трансформеры
     - How Transformers Work https://towardsdatascience.com/transformers-141e32e69591
     - How Transformers Work: A Detailed Exploration of Transformer Architecture https://www.datacamp.com/tutorial/how-transformers-work?dc_referrer=https%3A%2F%2Fwww.google.ru%2F
