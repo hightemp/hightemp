@@ -969,8 +969,8 @@
 - embedding
     - 10 Top Alternatives to text-embedding-ada-002 https://www.pingcap.com/article/10-top-alternatives-to-text-embedding-ada-002/
 - Обучение
-    - Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning;
- Порядок обучающих выборок имеет значение? Улучшение генерации текста из данных с помощью обучения по учебному плану https://arxiv.org/abs/2102.03554
+    - Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning; Порядок обучающих выборок имеет значение? Улучшение генерации текста из данных с помощью обучения по учебному плану https://arxiv.org/abs/2102.03554
+    - V7 Labs: Качество обучающих данных: Почему это важно в машинном обучении; An Introductory Guide to Quality Training Data for Machine Learning https://www.v7labs.com/blog/quality-training-data-for-machine-learning-guide
 - Positional encoding
     - Positional Encoding https://medium.com/@hunter-j-phillips/positional-encoding-7a93db4109e6
     - Positional Encoding Explained: A Deep Dive into Transformer PE https://medium.com/thedeephub/positional-encoding-explained-a-deep-dive-into-transformer-pe-65cfe8cfe10b
