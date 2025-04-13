@@ -958,6 +958,7 @@
     - Нейросети и глубокое обучение, глава 1: использование нейросетей для распознавания рукописных цифр https://habr.com/ru/articles/456738/
     - Нейронные сети для начинающих. Часть 1 https://habr.com/ru/articles/312450/
     - Краткий курс машинного обучения или как создать нейронную сеть для решения скоринг задачи https://habr.com/ru/articles/340792/
+    - Вкатываемся в Machine Learning с нуля за ноль рублей: что, где, в какой последовательности изучить https://habr.com/ru/articles/774844/
 - Трансформеры
     - How Transformers Work https://towardsdatascience.com/transformers-141e32e69591
     - How Transformers Work: A Detailed Exploration of Transformer Architecture https://www.datacamp.com/tutorial/how-transformers-work?dc_referrer=https%3A%2F%2Fwww.google.ru%2F
