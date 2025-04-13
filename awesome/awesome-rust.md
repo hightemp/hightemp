@@ -673,6 +673,9 @@
     - Understanding Rust Loops https://www.cloudbees.com/blog/understanding-rust-loops
     - Rust Programming Different Types of Loop — Part-3 https://diptendud.medium.com/rust-programming-different-types-of-loop-part-3-91cae2e0e950
     - Mastering Loops in Rust: An In-Depth Guide with Examples https://blog.devgenius.io/mastering-loops-in-rust-an-in-depth-guide-with-examples-83d516e1b3b2
+  - Iterators, Итераторы
+    - Iterators in Rust https://medium.com/journey-to-rust/iterators-in-rust-a73560f796ee
+    - Rust: Iterators are not faster; Anyway, you should use them https://medium.com/@jan.starke/rust-iterators-are-not-faster-anyway-you-should-use-them-8024f0ba8baf
   - Channels, Каналы
     - Channels https://doc.rust-lang.org/rust-by-example/std_misc/channels.html
     - Channels https://dhghomon.github.io/easy_rust/Chapter_50.html
