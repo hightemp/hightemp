@@ -960,11 +960,17 @@
     - Краткий курс машинного обучения или как создать нейронную сеть для решения скоринг задачи https://habr.com/ru/articles/340792/
     - Вкатываемся в Machine Learning с нуля за ноль рублей: что, где, в какой последовательности изучить https://habr.com/ru/articles/774844/
 - Трансформеры
-    - How Transformers Work https://towardsdatascience.com/transformers-141e32e69591
-    - How Transformers Work: A Detailed Exploration of Transformer Architecture https://www.datacamp.com/tutorial/how-transformers-work?dc_referrer=https%3A%2F%2Fwww.google.ru%2F
-    - Demystifying Transformer Architecture: The Magic of Positional Encoding https://medium.com/@waelrashwan/demystifying-transformer-architecture-the-magic-of-positional-encoding-5fe8154d4a64
+    - Основное
+        - How Transformers Work https://towardsdatascience.com/transformers-141e32e69591
+        - How Transformers Work: A Detailed Exploration of Transformer Architecture https://www.datacamp.com/tutorial/how-transformers-work?dc_referrer=https%3A%2F%2Fwww.google.ru%2F
+        - Demystifying Transformer Architecture: The Magic of Positional Encoding https://medium.com/@waelrashwan/demystifying-transformer-architecture-the-magic-of-positional-encoding-5fe8154d4a64
+    - Внимание
+        - Attention Is All You Need https://arxiv.org/pdf/1706.03762
 - embedding
     - 10 Top Alternatives to text-embedding-ada-002 https://www.pingcap.com/article/10-top-alternatives-to-text-embedding-ada-002/
+- Обучение
+    - Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning;
+ Порядок обучающих выборок имеет значение? Улучшение генерации текста из данных с помощью обучения по учебному плану https://arxiv.org/abs/2102.03554
 - Positional encoding
     - Positional Encoding https://medium.com/@hunter-j-phillips/positional-encoding-7a93db4109e6
     - Positional Encoding Explained: A Deep Dive into Transformer PE https://medium.com/thedeephub/positional-encoding-explained-a-deep-dive-into-transformer-pe-65cfe8cfe10b
@@ -1027,7 +1033,6 @@
     - Эффективное моделирование длинных последовательностей с использованием структурированных моделей состояния (Аннотированный S4) https://srush.github.io/annotated-s4/
 - Научные публикации
     - arxiv
-        - Attention Is All You Need https://arxiv.org/pdf/1706.03762
         - What do tokens know about their characters and how do they know it? https://arxiv.org/abs/2206.02608
         - Knowledge of Pretrained Language Models on Surface Information of Tokens https://arxiv.org/pdf/2402.09808
     - Остальное
