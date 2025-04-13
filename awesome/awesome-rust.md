@@ -676,6 +676,7 @@
   - Iterators, Итераторы
     - Iterators in Rust https://medium.com/journey-to-rust/iterators-in-rust-a73560f796ee
     - Rust: Iterators are not faster; Anyway, you should use them https://medium.com/@jan.starke/rust-iterators-are-not-faster-anyway-you-should-use-them-8024f0ba8baf
+    - Iterators in Programming and implementation ways in Rust https://medium.com/@raunakthakkar4/iterators-in-programming-and-implementation-ways-in-rust-f6abf5b2d764
   - Channels, Каналы
     - Channels https://doc.rust-lang.org/rust-by-example/std_misc/channels.html
     - Channels https://dhghomon.github.io/easy_rust/Chapter_50.html
