@@ -670,6 +670,7 @@
     - Русский перевод книги «The Rust Programming Language» (TRPL) https://habr.com/ru/news/498794/
     - Getting Started with Rust https://medium.com/@rami.krispin/getting-started-with-rust-928bf7b8418f
   - Loops
+    - Rust Programming Different Types of Loop — Part-3 https://diptendud.medium.com/rust-programming-different-types-of-loop-part-3-91cae2e0e950
     - Mastering Loops in Rust: An In-Depth Guide with Examples https://blog.devgenius.io/mastering-loops-in-rust-an-in-depth-guide-with-examples-83d516e1b3b2
   - Channels, Каналы
     - Channels https://doc.rust-lang.org/rust-by-example/std_misc/channels.html
