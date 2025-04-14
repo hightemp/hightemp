@@ -63,6 +63,8 @@
         - Assembly Programming Tutorial https://www.tutorialspoint.com/assembly_programming/index.htm
         - NASM Tutorial https://cs.lmu.edu/~ray/notes/nasmtutorial/
         - NASM Tutorial https://cratecode.com/info/nasm-tutorial
+- MASM
+    - Руководство по ассемблеру MASM для архитектуры Intel x86-64 https://metanit.com/assembler/tutorial/
 - x86
     - Регистры
         - Registers in x86 Assembly https://www.cs.uaf.edu/2017/fall/cs301/lecture/09_11_registers.html
