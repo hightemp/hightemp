@@ -512,6 +512,7 @@
     - 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
   - fmt
     - Основное
+      - The Power of Format Specifiers in Golang https://medium.com/@sahaidachnyi/format-specifiers-in-golang-d7f8d4fe88b8
       - Mastering Text Formatting and Output with Go's fmt Package https://www.codingexplorations.com/blog/mastering-text-formatting-and-output-with-gos-fmt-package
       - Mastering String formatting in Go https://www.bytesizego.com/blog/golang-format-string
       - GoLang’s FMT Library: An In-Depth Guide with Examples https://medium.com/@chaewonkong/golangs-fmt-library-an-in-depth-guide-with-examples-4d1031613ea0
