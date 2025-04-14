@@ -79,6 +79,8 @@
 - MASM
     - Руководство по ассемблеру MASM для архитектуры Intel x86-64 https://metanit.com/assembler/tutorial/
 - x86
+    - Основное
+        - Команды архитектуры x86 http://www.ccfit.nsu.ru/~kireev/lab2/lab2com.htm
     - Регистры
         - Registers in x86 Assembly https://www.cs.uaf.edu/2017/fall/cs301/lecture/09_11_registers.html
         - Регистры процессора https://av-assembler.ru/asm/afd/asm-cpu-registers.htm
