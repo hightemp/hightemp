@@ -47,6 +47,14 @@
     - Learn Assembly Language https://asmtutor.com/
     - 19+ Assembly Project Ideas for Beginners to Advanced https://topexceltips.com/assembly-project-ideas/
     - 20 Best Assembly Books of All Time https://bookauthority.org/books/best-assembly-books
+- Процессоры
+    - Intel
+        - These manuals describe the architecture and programming environment of the Intel® 64 and IA-32 architectures. https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
+    - AMD
+        - https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/24592.pdf
+        - https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/24593.pdf
+        - https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/24594.pdf
+        - https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/40332.pdf
 - NASM
     - Основное
         - https://courses.ics.hawaii.edu/ReviewICS312/morea/FirstProgram/ics312_nasm_first_program.pdf
