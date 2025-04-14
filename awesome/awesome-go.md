@@ -508,6 +508,11 @@
     - Understanding Iterators in Go: A Fun Dive! https://dev.to/tuna99/understanding-iterators-in-go-a-fun-dive-1c57
   - iota
     - 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
+  - fmt
+    - Основное
+      - Mastering Text Formatting and Output with Go's fmt Package https://www.codingexplorations.com/blog/mastering-text-formatting-and-output-with-gos-fmt-package
+    - fmt.Printf
+      - A Deep Dive into fmt Printf in Golang https://www.kosli.com/blog/a-deep-dive-into-fmt-printf-in-golang/
   - bytes
     - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
   - sync
