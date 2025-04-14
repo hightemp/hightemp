@@ -81,6 +81,8 @@
 - x86
     - Основное
         - Команды архитектуры x86 http://www.ccfit.nsu.ru/~kireev/lab2/lab2com.htm
+        - x86 instruction listings https://en.wikipedia.org/wiki/X86_instruction_listings
+        - Расширения архитектуры x86 https://ru.wikipedia.org/wiki/Расширения_архитектуры_x86
     - Регистры
         - Registers in x86 Assembly https://www.cs.uaf.edu/2017/fall/cs301/lecture/09_11_registers.html
         - Регистры процессора https://av-assembler.ru/asm/afd/asm-cpu-registers.htm
