@@ -12,6 +12,11 @@
 - Процессоры
     - Intel
         - These manuals describe the architecture and programming environment of the Intel® 64 and IA-32 architectures. https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
+    - AMD
+        - https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/24592.pdf
+        - https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/24593.pdf
+        - https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/24594.pdf
+        - https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/40332.pdf
 - Сортировки
     - Три теоремы о сортировках https://habr.com/ru/articles/893452/
     - DeepMind Paper: AlphaDev discovers faster sorting algorithms https://substack.com/home/post/p-135532204?utm_campaign=post&utm_medium=web
