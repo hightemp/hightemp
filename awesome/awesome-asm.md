@@ -59,6 +59,7 @@
 - NASM
     - Основное
         - https://courses.ics.hawaii.edu/ReviewICS312/morea/FirstProgram/ics312_nasm_first_program.pdf
+        - Руководство по ассемблеру x86 для начинающих https://habr.com/ru/articles/423077/
     - Примеры приложений
         - Linux X86 Assembly - How to Build a Hello World Program in NASM https://www.secureideas.com/blog/2021/05/linux-x86-assembly-how-to-build-a-hello-world-program-in-nasm.html
     - Strings
