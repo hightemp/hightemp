@@ -517,6 +517,8 @@
       - A Deep Dive into fmt Printf in Golang https://www.kosli.com/blog/a-deep-dive-into-fmt-printf-in-golang/
     - fmt.Sprintf
       - fmt.Sprintf vs String Concat https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/
+    - fmt.Errorf
+      - What is the golang Errorf function? https://how.dev/answers/what-is-the-golang-errorf-function
   - bytes
     - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
   - sync
