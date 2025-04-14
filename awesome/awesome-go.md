@@ -511,6 +511,7 @@
   - fmt
     - Основное
       - Mastering Text Formatting and Output with Go's fmt Package https://www.codingexplorations.com/blog/mastering-text-formatting-and-output-with-gos-fmt-package
+      - Mastering String formatting in Go https://www.bytesizego.com/blog/golang-format-string
     - fmt.Printf
       - A Deep Dive into fmt Printf in Golang https://www.kosli.com/blog/a-deep-dive-into-fmt-printf-in-golang/
   - bytes
