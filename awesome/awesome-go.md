@@ -521,6 +521,7 @@
       - fmt.Sprintf vs String Concat https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/
     - fmt.Errorf
       - What is the golang Errorf function? https://how.dev/answers/what-is-the-golang-errorf-function
+      - GoLang error handling explained https://medium.com/@sriniwasx/golang-error-handling-for-newbies-e468a40178f6
   - bytes
     - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
   - sync
