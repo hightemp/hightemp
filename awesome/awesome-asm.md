@@ -47,6 +47,7 @@
     - Learn Assembly Language https://asmtutor.com/
     - 19+ Assembly Project Ideas for Beginners to Advanced https://topexceltips.com/assembly-project-ideas/
     - 20 Best Assembly Books of All Time https://bookauthority.org/books/best-assembly-books
+    - x86 and amd64 instruction reference https://www.felixcloutier.com/x86/
 - Процессоры
     - Intel
         - These manuals describe the architecture and programming environment of the Intel® 64 and IA-32 architectures. https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
