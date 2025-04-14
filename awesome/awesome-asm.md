@@ -56,6 +56,9 @@
         - https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/24593.pdf
         - https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/24594.pdf
         - https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/40332.pdf
+- GAS
+    - Основное
+        - Знакомимся с программированием на ассемблере x86 https://habr.com/ru/companies/ruvds/articles/646629/
 - NASM
     - Основное
         - https://courses.ics.hawaii.edu/ReviewICS312/morea/FirstProgram/ics312_nasm_first_program.pdf
