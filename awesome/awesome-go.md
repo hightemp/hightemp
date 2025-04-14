@@ -515,6 +515,7 @@
       - Mastering Text Formatting and Output with Go's fmt Package https://www.codingexplorations.com/blog/mastering-text-formatting-and-output-with-gos-fmt-package
       - Mastering String formatting in Go https://www.bytesizego.com/blog/golang-format-string
       - GoLang’s FMT Library: An In-Depth Guide with Examples https://medium.com/@chaewonkong/golangs-fmt-library-an-in-depth-guide-with-examples-4d1031613ea0
+      - Stop Using fmt.Println() for Everything – Learn These Go fmt Tricks Instead https://medium.com/@emusbeny/stop-using-fmt-println-for-everything-learn-these-go-fmt-tricks-instead-e201c0766088
     - fmt.Printf
       - A Deep Dive into fmt Printf in Golang https://www.kosli.com/blog/a-deep-dive-into-fmt-printf-in-golang/
     - fmt.Sprintf
