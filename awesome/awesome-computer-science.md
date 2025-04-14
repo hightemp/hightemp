@@ -6,6 +6,7 @@
 
 - Основное
     - Stack and Heap Memory https://courses.grainger.illinois.edu/cs225/fa2022/resources/stack-heap/
+    - Stack vs Heap: Understanding Memory Allocation in Programming https://medium.com/huawei-developers/stack-vs-heap-understanding-memory-allocation-in-programming-a83a54901416
 - Сортировки
     - Три теоремы о сортировках https://habr.com/ru/articles/893452/
     - DeepMind Paper: AlphaDev discovers faster sorting algorithms https://substack.com/home/post/p-135532204?utm_campaign=post&utm_medium=web
