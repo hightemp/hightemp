@@ -514,6 +514,8 @@
       - Mastering String formatting in Go https://www.bytesizego.com/blog/golang-format-string
     - fmt.Printf
       - A Deep Dive into fmt Printf in Golang https://www.kosli.com/blog/a-deep-dive-into-fmt-printf-in-golang/
+    - fmt.Sprintf
+      - fmt.Sprintf vs String Concat https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/
   - bytes
     - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
   - sync
