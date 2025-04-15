@@ -111,6 +111,7 @@
   - Убийцы оптимизации https://frontender.info/optimization-killers/
   - 5 распространенных ошибок памяти в веб-приложениях на JavaScript https://highload.tech/5-rasprostranennyh-oshibok-pamyati-v-veb-prilozheniyah-na-javascript/
   - 4 вида утечек памяти в JavaScript и как с ними бороться https://habr.com/ru/articles/309318/
+  - Память в браузерах и в Node.js: ограничения, утечки и нестандартные оптимизации https://habr.com/ru/companies/yandex/articles/666870/
 - Генераторы
   - JavaScript Generators Explained, But On A Senior-Level https://www.reactsquad.io/blog/understanding-generators-in-javascript
 - Дата время; Date
