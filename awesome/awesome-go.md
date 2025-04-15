@@ -588,6 +588,7 @@
       - How to Use //go:generate https://blog.carlana.net/post/2016-11-27-how-to-use-go-generate/
       - A comprehensive guide to go generate https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate
       - Option Types with go generate https://markphelps.me/posts/option-types-with-go-generate/
+      - Go Client Code Generation from Swagger and OpenAPI https://medium.com/@kyodo-tech/go-client-code-generation-from-swagger-and-openapi-a0576831836c
   - env, переменные окружения
     - Практичный гайд по переменным окружения в Go https://habr.com/ru/articles/446468/
   - build tags
