@@ -582,6 +582,7 @@
     - //go:inline
     - //go:generate
       - A comprehensive guide to go generate https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate
+      - Option Types with go generate https://markphelps.me/posts/option-types-with-go-generate/
   - env, переменные окружения
     - Практичный гайд по переменным окружения в Go https://habr.com/ru/articles/446468/
   - build tags
