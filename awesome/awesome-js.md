@@ -108,6 +108,7 @@
   - Остальное
     - Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
 - Оптимизация
+  - Нужно ли чистить строки в JavaScript? https://habr.com/ru/articles/449368/
   - Убийцы оптимизации https://frontender.info/optimization-killers/
   - 5 распространенных ошибок памяти в веб-приложениях на JavaScript https://highload.tech/5-rasprostranennyh-oshibok-pamyati-v-veb-prilozheniyah-na-javascript/
   - 4 вида утечек памяти в JavaScript и как с ними бороться https://habr.com/ru/articles/309318/
