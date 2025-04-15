@@ -584,6 +584,7 @@
     - //go:inline
     - //go:generate
       - Introduction to `go generate` https://hsleep.medium.com/introduction-to-go-generate-99a93f30dc35
+      - go generate https://ehrt74.medium.com/go-generate-89b20a27f7f9
       - How to Use //go:generate https://blog.carlana.net/post/2016-11-27-how-to-use-go-generate/
       - A comprehensive guide to go generate https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate
       - Option Types with go generate https://markphelps.me/posts/option-types-with-go-generate/
