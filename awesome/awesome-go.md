@@ -729,6 +729,8 @@
     - Named Return Parameters in Golang https://www.geeksforgeeks.org/named-return-parameters-in-golang/
     - Go 1.1 Function Calls https://docs.google.com/document/d/1bMwCey-gmqZVTpRax-ESeVuZGmjwbocYs1iHplK-cjo/pub
     - The Go memory model https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15440-f11/go/doc/go_mem.html
+- Tutorial, Туториалы
+  - Приложение на Go шаг за шагом. Часть 2: отправка ответов в формате JSON https://habr.com/ru/companies/yandex_praktikum/articles/885946/
 - Разработка языка
   - Компилятор GO. Добавляем цикл WHILE https://habr.com/ru/articles/888992/
   - Contributing the Go Compiler: Adding New Tilde (~) Operator https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
