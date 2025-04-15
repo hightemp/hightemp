@@ -109,6 +109,7 @@
     - Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
 - Оптимизация
   - Exploring V8's strings: implementation and optimizations https://iliazeus.lol/articles/js-string-optimizations-en/
+  - Внутреннее представление и оптимизации строк в JavaScript-движке V8 https://iliazeus.lol/articles/js-string-optimizations-ru/
   - Нужно ли чистить строки в JavaScript? https://habr.com/ru/articles/449368/
   - Убийцы оптимизации https://frontender.info/optimization-killers/
   - 5 распространенных ошибок памяти в веб-приложениях на JavaScript https://highload.tech/5-rasprostranennyh-oshibok-pamyati-v-veb-prilozheniyah-na-javascript/
