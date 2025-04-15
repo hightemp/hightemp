@@ -691,6 +691,8 @@
   - unsafe
     - Learn Unsafe Rust From My Mistakes https://geo-ant.github.io/blog/2023/unsafe-rust-exploration/
     - Why Rust's Unsafe Works https://jam1.re/blog/why-rusts-unsafe-works
+  - macros, Макросы
+    - Macros By Example https://doc.rust-lang.org/stable/reference/macros-by-example.html
   - Остальное
 - Live Reload
   - Live Reloading in Rust with Cargo Watch https://dev.to/jorgecastro/hot-reload-in-rust-with-cargo-watch-5bon
