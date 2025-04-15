@@ -745,6 +745,7 @@
 - Аннотированная история современного искусственного интеллекта и глубокого обучения https://people.idsia.ch/~juergen/deep-learning-history.html#rnn
 - Все, что вам нужно знать для создания вашего первого приложения LLM https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac/
 - AgentRecipes — веб-сайт, содержащий примеры реализации агентов искусственного интеллекта с исходным кодом на различных языках программирования, предназначенных для обучения и интеграции в собственные проекты. https://www.agentrecipes.com/
+- n8n Cheat Sheet https://www.reddit.com/r/n8n/comments/1jy1wdc/i_made_an_n8n_cheat_sheet/
 
 ### Полезные утилиты
 
