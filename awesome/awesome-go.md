@@ -584,6 +584,7 @@
     - //go:inline
     - //go:generate
       - Generating code Rob Pike https://go.dev/blog/generate
+      - Генерация кода в Go https://habr.com/ru/articles/269887/
       - Introduction to `go generate` https://hsleep.medium.com/introduction-to-go-generate-99a93f30dc35
       - Using go generate to reduce boilerplate code https://dev.to/logrocket/using-go-generate-to-reduce-boilerplate-code-27md
       - go generate https://ehrt74.medium.com/go-generate-89b20a27f7f9
