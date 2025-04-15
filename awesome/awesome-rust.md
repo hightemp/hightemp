@@ -669,6 +669,9 @@
     - Руководство по языку программирования Rust https://metanit.com/rust/tutorial/
     - Русский перевод книги «The Rust Programming Language» (TRPL) https://habr.com/ru/news/498794/
     - Getting Started with Rust https://medium.com/@rami.krispin/getting-started-with-rust-928bf7b8418f
+  - enums, Перечисления
+  - structs, Структуры
+  - traits
   - Loops, Циклы
     - Understanding Rust Loops https://www.cloudbees.com/blog/understanding-rust-loops
     - Rust Programming Different Types of Loop — Part-3 https://diptendud.medium.com/rust-programming-different-types-of-loop-part-3-91cae2e0e950
@@ -682,7 +685,7 @@
   - Channels, Каналы
     - Channels https://doc.rust-lang.org/rust-by-example/std_misc/channels.html
     - Channels https://dhghomon.github.io/easy_rust/Chapter_50.html
-  - Ошибки
+  - Errors, Ошибки
     - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
   - unsafe
     - Learn Unsafe Rust From My Mistakes https://geo-ant.github.io/blog/2023/unsafe-rust-exploration/
