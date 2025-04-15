@@ -784,8 +784,6 @@
   - Остальное
     - Golang deploy https://gist.github.com/night-codes/10c09f06ad78ae401c69
     - Building Minimal Docker Containers for Go Applications https://www.cloudbees.com/blog/building-minimal-docker-containers-for-go-applications
-- stringler
-  - Golang's Stringer tool https://last9.io/blog/golang-stringer-tool/
 - Типы и структуры данных
   - Orded map
     - Ordered map на Go https://habr.com/ru/articles/882828/
@@ -809,11 +807,14 @@
 - GUI
   - gxui
     - Нативная UI-библиотека для Go https://habr.com/ru/articles/253519/
-- Библиотеки
+- 📚 Библиотеки
   - goform
     - Как я написал пакет для быстрого создания и управления формами в Go https://habr.com/ru/articles/888728/
   - maphash
     - Hacking Go's Runtime with Generics https://www.dolthub.com/blog/2022-12-19-maphash/
+  - goyacc
+  - stringler
+    - Golang's Stringer tool https://last9.io/blog/golang-stringer-tool/
 - Оптимизация
   - SIMD
     - Go Plan9 Memo, Speeding Up Calculations 450%; В статье описывается разработка SIMD-пакета для языка Go с использованием ассемблера Plan9, что позволило ускорить вычисления на 450% за счет параллельной обработки данных на аппаратном уровне. https://pehringer.info/go_plan9_memo.html
