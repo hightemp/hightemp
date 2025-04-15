@@ -109,6 +109,7 @@
     - Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
 - Оптимизация
   - Убийцы оптимизации https://frontender.info/optimization-killers/
+  - 5 распространенных ошибок памяти в веб-приложениях на JavaScript https://highload.tech/5-rasprostranennyh-oshibok-pamyati-v-veb-prilozheniyah-na-javascript/
 - Генераторы
   - JavaScript Generators Explained, But On A Senior-Level https://www.reactsquad.io/blog/understanding-generators-in-javascript
 - Дата время; Date
