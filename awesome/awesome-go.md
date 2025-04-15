@@ -783,6 +783,8 @@
   - Остальное
     - Golang deploy https://gist.github.com/night-codes/10c09f06ad78ae401c69
     - Building Minimal Docker Containers for Go Applications https://www.cloudbees.com/blog/building-minimal-docker-containers-for-go-applications
+- stringler
+  - Golang's Stringer tool https://last9.io/blog/golang-stringer-tool/
 - Типы и структуры данных
   - Orded map
     - Ordered map на Go https://habr.com/ru/articles/882828/
