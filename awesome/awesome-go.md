@@ -581,6 +581,7 @@
   - Сompiler directives, Директивы компилятора, magic comments
     - //go:inline
     - //go:generate
+      - How to Use //go:generate https://blog.carlana.net/post/2016-11-27-how-to-use-go-generate/
       - A comprehensive guide to go generate https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate
       - Option Types with go generate https://markphelps.me/posts/option-types-with-go-generate/
   - env, переменные окружения
