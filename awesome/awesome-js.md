@@ -93,7 +93,7 @@
     - WeakMap и WeakSet в JavaScript https://habr.com/ru/companies/otus/articles/865512/
   - Остальное
     - Глубокий JS. В память о типах и данных https://habr.com/ru/articles/774548/
-    - Deep JS. Scopes of darkness or where variables live https://blog.frontend-almanac.com/4q2JxpUOpAt  
+    - Deep JS. Scopes of darkness or where variables live https://blog.frontend-almanac.com/4q2JxpUOpAt
 - Typescript
   - Enum
     - TypeScript enums: Usage, advantages, and best practices https://blog.logrocket.com/typescript-enum/?ref=dailydev
@@ -164,6 +164,7 @@
   - ESM
     - Как использовать ESM в браузере и в Node.js https://webdevblog.ru/kak-ispolzovat-esm-v-brauzere-i-v-node-js/
 - Остальное
+  - Эффективное управление памятью в масштабе Gmail https://web.dev/articles/effectivemanagement?hl=ru
   - Как работает компьютер - глубокое погружение (на примере Linux) https://my-js.org/blog/how-computer-work/#1-основы
   - Distributed Locks in Node.js https://bpaulino.com/entries/distributed-lock-in-node-js
   - Как написать Google Calendar на коленке? Обзор FullCallendar https://habr.com/ru/companies/selectel/articles/865304/
