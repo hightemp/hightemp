@@ -374,6 +374,7 @@
     - From unique to cleanups and weak: new low-level tools for efficiency https://go.dev/blog/cleanups-and-weak
     - Параллельное программирование на Go https://habr.com/ru/companies/ruvds/articles/896102/
     - Introduction to GO language foundation https://programmer.ink/think/introduction-to-go-language-foundation.html
+    - 🚀 Visualizing memory management in Golang https://deepu.tech/memory-management-in-golang/
   - Типы
     - The differences between "Type Alias" and "New Types" in Go https://perfects.engineering/blog/go_alias_vs_new_types
     - All your comparable types https://go.dev/blog/comparable
