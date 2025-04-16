@@ -92,6 +92,7 @@
   - WeakMap
     - WeakMap и WeakSet в JavaScript https://habr.com/ru/companies/otus/articles/865512/
   - Остальное
+    - Глубокий JS. В память о типах и данных https://habr.com/ru/articles/774548/
     - Deep JS. Scopes of darkness or where variables live https://blog.frontend-almanac.com/4q2JxpUOpAt  
 - Typescript
   - Enum
