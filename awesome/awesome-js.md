@@ -116,6 +116,7 @@
   - 4 вида утечек памяти в JavaScript и как с ними бороться https://habr.com/ru/articles/309318/
   - Память в браузерах и в Node.js: ограничения, утечки и нестандартные оптимизации https://habr.com/ru/companies/yandex/articles/666870/
   - Борьба с утечками памяти в веб-приложениях https://habr.com/ru/companies/ruvds/articles/490622/
+  - Optimization killers https://github.com/petkaantonov/bluebird/wiki/Optimization-killers
 - Генераторы
   - JavaScript Generators Explained, But On A Senior-Level https://www.reactsquad.io/blog/understanding-generators-in-javascript
 - Дата время; Date
