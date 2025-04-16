@@ -91,6 +91,12 @@
     - What is JavaScript Concurrency and a Deep Dive into the Event Loop, Async Operations, and Real-World Examples https://www.mbloging.com/post/mastering-javascript-concurrency-a-deep-dive-into-the-event-loop-async-operations-and-real-world
   - WeakMap
     - WeakMap и WeakSet в JavaScript https://habr.com/ru/companies/otus/articles/865512/
+  - Web Worker
+  - Генераторы
+    - JavaScript Generators Explained, But On A Senior-Level https://www.reactsquad.io/blog/understanding-generators-in-javascript
+  - Дата время; Date
+    - JS Dates Are About to Be Fixed https://docs.timetime.in/blog/js-dates-finally-fixed/
+    - How to Sort an Object Array by Date in JavaScript: A Complete Guide https://www.mbloging.com/post/how-to-sort-an-object-array-by-date-in-javascript-a-complete-guide
   - Остальное
     - Глубокий JS. В память о типах и данных https://habr.com/ru/articles/774548/
     - Deep JS. Scopes of darkness or where variables live https://blog.frontend-almanac.com/4q2JxpUOpAt
@@ -132,11 +138,6 @@
   - Память в браузерах и в Node.js: ограничения, утечки и нестандартные оптимизации https://habr.com/ru/companies/yandex/articles/666870/
   - Борьба с утечками памяти в веб-приложениях https://habr.com/ru/companies/ruvds/articles/490622/
   - Top 10 Techniques for JavaScript Performance Optimization https://www.codesmith.io/blog/top-10-techniques-for-javascript-performance-optimization
-- Генераторы
-  - JavaScript Generators Explained, But On A Senior-Level https://www.reactsquad.io/blog/understanding-generators-in-javascript
-- Дата время; Date
-  - JS Dates Are About to Be Fixed https://docs.timetime.in/blog/js-dates-finally-fixed/
-  - How to Sort an Object Array by Date in JavaScript: A Complete Guide https://www.mbloging.com/post/how-to-sort-an-object-array-by-date-in-javascript-a-complete-guide
 - Vite
   - Vite 6.0: Новые возможности и будущее веб-разработки https://habr.com/ru/companies/first/articles/867200/
 - CORS
@@ -146,7 +147,8 @@
   - Как работать с ошибками в GraphQL? https://nodkz.github.io/conf-talks/articles/graphql/errors/
   - Почему в graphql есть проблема с N+1? https://nodkz.github.io/conf-talks/articles/graphql/dataloader/N+1.html
   - How to solve the GraphQL n+1 problem https://hygraph.com/blog/graphql-n-1-problem
-- Web Worker
+- Docker
+  - Node.js: управление памятью, доступной приложениям, выполняемым в контейнерах https://habr.com/ru/companies/ruvds/articles/454522/
 - Системы модулей
   - Модули — amd, cjs, esm и umd https://medium.com/@z4o4z/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-amd-cjs-esm-%D0%B8-umd-dff38c267117
   - Опыт модернизации пакетов в ESM https://reactdev.ru/guides/esm-modernization-lessons/
