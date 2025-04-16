@@ -100,6 +100,7 @@
     - JS Dates Are About to Be Fixed https://docs.timetime.in/blog/js-dates-finally-fixed/
     - How to Sort an Object Array by Date in JavaScript: A Complete Guide https://www.mbloging.com/post/how-to-sort-an-object-array-by-date-in-javascript-a-complete-guide
   - Остальное
+    - How Does Node.js Achieve Concurrency? https://hackernoon.com/how-does-nodejs-achieve-concurrency
     - Глубокий JS. В память о типах и данных https://habr.com/ru/articles/774548/
     - Deep JS. Scopes of darkness or where variables live https://blog.frontend-almanac.com/4q2JxpUOpAt
 - Typescript
