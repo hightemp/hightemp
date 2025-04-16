@@ -242,6 +242,7 @@
 - https://www.mbloging.com/category/javascript
 - https://niallmckenna.com/
 - https://www.sitepoint.com/tag/javascript/
+- https://www.aleksandrhovhannisyan.com/tags/javascript/
 
 ### Вопросы
 
