@@ -104,6 +104,13 @@
     - How Does Node.js Achieve Concurrency? https://hackernoon.com/how-does-nodejs-achieve-concurrency
     - Глубокий JS. В память о типах и данных https://habr.com/ru/articles/774548/
     - Deep JS. Scopes of darkness or where variables live https://blog.frontend-almanac.com/4q2JxpUOpAt
+- Node.js
+  - Debug
+    - Debugging Node.js with Chrome DevTools https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
+  - Stream
+    - Ментальная модель потоков в Node.js https://habr.com/ru/companies/timeweb/articles/854330/
+  - ESM
+    - Как использовать ESM в браузере и в Node.js https://webdevblog.ru/kak-ispolzovat-esm-v-brauzere-i-v-node-js/
 - Typescript
   - Enum
     - TypeScript enums: Usage, advantages, and best practices https://blog.logrocket.com/typescript-enum/?ref=dailydev
@@ -167,11 +174,6 @@
     - Understanding Feature-Sliced Design: Benefits and Real Code Examples https://hackernoon.com/understanding-feature-sliced-design-benefits-and-real-code-examples
 - Лучшие практики
   - Лучшие практики TypeScript https://habr.com/ru/articles/859016/
-- Node.js
-  - Stream
-    - Ментальная модель потоков в Node.js https://habr.com/ru/companies/timeweb/articles/854330/
-  - ESM
-    - Как использовать ESM в браузере и в Node.js https://webdevblog.ru/kak-ispolzovat-esm-v-brauzere-i-v-node-js/
 - Остальное
   - Эффективное управление памятью в масштабе Gmail https://web.dev/articles/effectivemanagement?hl=ru
   - Как работает компьютер - глубокое погружение (на примере Linux) https://my-js.org/blog/how-computer-work/#1-основы
