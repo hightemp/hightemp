@@ -669,6 +669,7 @@
     - Руководство по языку программирования Rust https://metanit.com/rust/tutorial/
     - Русский перевод книги «The Rust Programming Language» (TRPL) https://habr.com/ru/news/498794/
     - Getting Started with Rust https://medium.com/@rami.krispin/getting-started-with-rust-928bf7b8418f
+    - 🚀 Visualizing memory management in Rust https://deepu.tech/memory-management-in-rust/
   - enums, Перечисления
   - structs, Структуры
   - traits
