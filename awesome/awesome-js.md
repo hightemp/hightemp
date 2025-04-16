@@ -111,6 +111,9 @@
 - VSCode
   - Essential VS Code Extensions for JavaScript Developers in 2024 https://www.gitkraken.com/blog/vs-code-extensions-for-javascript-developers
   - 10 Must-Have VS Code extensions for JavaScript developers https://towardsthecloud.com/best-vscode-extensions-javascript
+- Библиотеки
+  - Ramda
+    - Streaming Logs with Transducers and Ramda https://simplectic.com/blog/2015/ramda-transducers-logs/
 - Примеры приложений
   - Tutorial: Create multi-container apps with MySQL and Docker Compose https://learn.microsoft.com/en-us/visualstudio/docker/tutorials/tutorial-multi-container-app-mysql
   - Mastering Microservices: A Hands-On Tutorial with Node.js, RabbitMQ, Nginx, and Docker https://dev.to/davydocsurg/mastering-microservices-a-hands-on-tutorial-with-nodejs-rabbitmq-nginx-and-docker-m4f
