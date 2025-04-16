@@ -78,6 +78,7 @@
     - Memory Life Cycle in JS(Heap, Stack, Call Stack, String Pool) https://pashazade-nazar.medium.com/memory-life-cycle-heap-stack-call-stack-string-pool-bba2569524cb
   - Loops, Циклы
     - JavaScript Loops Explained: For Loop, While Loop, Do...while Loop, and More https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for
+    - Understanding and Proving Looping Performance in JavaScript. https://medium.com/@muhamadwindy/understanding-and-proving-looping-performance-in-javascript-520380c0cac2
   - Event loop; Цикл событий
     - Javascript Event Loop: Explained https://medium.com/@takeshisuz57/javascript-event-loop-explained-4ea04c697244
     - Understanding the Event Loop in JavaScript: A Comprehensive Guide https://learncodecamp.net/event-loop-in-javascript/
