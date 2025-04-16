@@ -105,6 +105,7 @@
     - Глубокий JS. В память о типах и данных https://habr.com/ru/articles/774548/
     - Deep JS. Scopes of darkness or where variables live https://blog.frontend-almanac.com/4q2JxpUOpAt
     - Исправить проблемы с памятью https://developer.chrome.com/docs/devtools/memory-problems?hl=ru
+    - Taming The Unicorn: Easing JavaScript Memory Profiling In Chrome DevTools https://addyosmani.com/blog/taming-the-unicorn-easing-javascript-memory-profiling-in-devtools/
 - Node.js
   - Debug
     - Debugging Node.js with Chrome DevTools https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
