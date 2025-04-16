@@ -76,6 +76,8 @@
 - Основы
   - Основное
     - Memory Life Cycle in JS(Heap, Stack, Call Stack, String Pool) https://pashazade-nazar.medium.com/memory-life-cycle-heap-stack-call-stack-string-pool-bba2569524cb
+  - Strings, Строки
+    - V8. Working with Strings. Expanding Vocabulary https://blog.frontend-almanac.com/v8-strings
   - Loops, Циклы
     - JavaScript Loops Explained: For Loop, While Loop, Do...while Loop, and More https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for
     - Understanding and Proving Looping Performance in JavaScript. https://medium.com/@muhamadwindy/understanding-and-proving-looping-performance-in-javascript-520380c0cac2
