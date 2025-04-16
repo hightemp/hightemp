@@ -77,6 +77,7 @@
   - Loops, Циклы
     - JavaScript Loops Explained: For Loop, While Loop, Do...while Loop, and More https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for
   - Event loop; Цикл событий
+    - Javascript Event Loop: Explained https://medium.com/@takeshisuz57/javascript-event-loop-explained-4ea04c697244
     - Understanding the Event Loop in JavaScript: A Comprehensive Guide https://learncodecamp.net/event-loop-in-javascript/
     - What is JavaScript Concurrency and a Deep Dive into the Event Loop, Async Operations, and Real-World Examples https://www.mbloging.com/post/mastering-javascript-concurrency-a-deep-dive-into-the-event-loop-async-operations-and-real-world
   - WeakMap
