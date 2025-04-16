@@ -74,6 +74,8 @@
 - Что нового
   - Frontend в 2025 году: тренды, которые изменят разработку https://habr.com/ru/companies/usetech/articles/866268/
 - Основы
+  - Основное
+    - Memory Life Cycle in JS(Heap, Stack, Call Stack, String Pool) https://pashazade-nazar.medium.com/memory-life-cycle-heap-stack-call-stack-string-pool-bba2569524cb
   - Loops, Циклы
     - JavaScript Loops Explained: For Loop, While Loop, Do...while Loop, and More https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for
   - Event loop; Цикл событий
