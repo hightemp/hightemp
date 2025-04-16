@@ -81,6 +81,7 @@
     - Understanding and Proving Looping Performance in JavaScript. https://medium.com/@muhamadwindy/understanding-and-proving-looping-performance-in-javascript-520380c0cac2
     - Mastering JavaScript Loops: Performance and Practicality Compared https://medium.com/beyond-the-brackets/mastering-javascript-loops-performance-and-practicality-compared-243f848148cc
     - JavaScript Loop Mistakes to Avoid: From Infinite Loops to Performance Hacks https://medium.com/@bonifacegordian572/javascript-loop-mistakes-to-avoid-from-infinite-loops-to-performance-hacks-c93f0a9e4fe4
+    - Node.js Performance: Loops https://bhdouglass.com/blog/nodejs-performance-loops/
   - Event loop; Цикл событий
     - Javascript Event Loop: Explained https://medium.com/@takeshisuz57/javascript-event-loop-explained-4ea04c697244
     - Understanding the Event Loop in JavaScript: A Comprehensive Guide https://learncodecamp.net/event-loop-in-javascript/
