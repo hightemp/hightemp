@@ -94,6 +94,8 @@
   - Web Worker
   - Генераторы
     - JavaScript Generators Explained, But On A Senior-Level https://www.reactsquad.io/blog/understanding-generators-in-javascript
+  - ECMAScript
+    - UTF-16 https://262.ecma-international.org/7.0/#sec-utf16encoding
   - Дата время; Date
     - JS Dates Are About to Be Fixed https://docs.timetime.in/blog/js-dates-finally-fixed/
     - How to Sort an Object Array by Date in JavaScript: A Complete Guide https://www.mbloging.com/post/how-to-sort-an-object-array-by-date-in-javascript-a-complete-guide
