@@ -112,6 +112,9 @@
     - Ментальная модель потоков в Node.js https://habr.com/ru/companies/timeweb/articles/854330/
   - ESM
     - Как использовать ESM в браузере и в Node.js https://webdevblog.ru/kak-ispolzovat-esm-v-brauzere-i-v-node-js/
+  - Остальное
+    - Understanding memory leaks in Node.js apps https://blog.logrocket.com/understanding-memory-leaks-node-js-apps/
+    - Memory Leaks Demystified https://nodesource.com/blog/memory-leaks-demystified
 - Typescript
   - Enum
     - TypeScript enums: Usage, advantages, and best practices https://blog.logrocket.com/typescript-enum/?ref=dailydev
