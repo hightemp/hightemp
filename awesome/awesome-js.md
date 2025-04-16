@@ -163,7 +163,7 @@
     - Understanding Feature-Sliced Design: Benefits and Real Code Examples https://hackernoon.com/understanding-feature-sliced-design-benefits-and-real-code-examples
 - Лучшие практики
   - Лучшие практики TypeScript https://habr.com/ru/articles/859016/
-- Nodejs
+- Node.js
   - Stream
     - Ментальная модель потоков в Node.js https://habr.com/ru/companies/timeweb/articles/854330/
   - ESM
