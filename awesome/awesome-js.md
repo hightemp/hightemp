@@ -104,6 +104,7 @@
     - How Does Node.js Achieve Concurrency? https://hackernoon.com/how-does-nodejs-achieve-concurrency
     - Глубокий JS. В память о типах и данных https://habr.com/ru/articles/774548/
     - Deep JS. Scopes of darkness or where variables live https://blog.frontend-almanac.com/4q2JxpUOpAt
+    - Глубокий JS. Области тьмы или где живут переменные https://blog.frontend-almanac.ru/UH_MQVhvQ7t
     - Исправить проблемы с памятью https://developer.chrome.com/docs/devtools/memory-problems?hl=ru
     - Taming The Unicorn: Easing JavaScript Memory Profiling In Chrome DevTools https://addyosmani.com/blog/taming-the-unicorn-easing-javascript-memory-profiling-in-devtools/
 - Node.js
