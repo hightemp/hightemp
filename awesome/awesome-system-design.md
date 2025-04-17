@@ -166,6 +166,8 @@
     - Building A "Simple" Distributed System - The Implementation https://jack-vanlightly.com/blog/2019/2/1/building-a-simple-distributed-system-the-implementation
 - REST
     - Richardson Maturity Model https://martinfowler.com/articles/richardsonMaturityModel.html
+- Архитектура
+    - 7 Architectural Patterns You MUST Know https://blog.amigoscode.com/p/7-architectural-patterns-you-must?ref=dailydev
 - Лучшие практики
     - Distributed Systems Design: Tutorial & Best Practices https://www.multiplayer.app/distributed-systems-architecture/distributed-systems-design/
 - Интервью
