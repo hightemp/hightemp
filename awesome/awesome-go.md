@@ -817,9 +817,6 @@
   - goyacc
   - stringler
     - Golang's Stringer tool https://last9.io/blog/golang-stringer-tool/
-  - goose
-    - Миграции в YDB с помощью «goose» https://habr.com/ru/companies/ydb/articles/783254/
-    - В поиске оптимального подхода к миграциям в Go https://habr.com/ru/articles/780280/
 - 🚀 Оптимизация
   - SIMD
     - Go Plan9 Memo, Speeding Up Calculations 450%; В статье описывается разработка SIMD-пакета для языка Go с использованием ассемблера Plan9, что позволило ускорить вычисления на 450% за счет параллельной обработки данных на аппаратном уровне. https://pehringer.info/go_plan9_memo.html
@@ -905,6 +902,10 @@
     - GO-PG Golang Postgre ORM https://medium.com/tunaiku-tech/go-pg-golang-postgre-orm-2618b75c0430
   - sqlc
     - Меньше кода, больше результата: применяем sqlc для работы с БД https://habr.com/ru/companies/uzum/articles/890654/
+  - Миграции
+    - goose
+      - Миграции в YDB с помощью «goose» https://habr.com/ru/companies/ydb/articles/783254/
+      - В поиске оптимального подхода к миграциям в Go https://habr.com/ru/articles/780280/
 - CLI
   - Building a CLI App in Golang https://neo-femo.hashnode.dev/building-a-cli-app-in-golang
 - Форматы сериализации данных
