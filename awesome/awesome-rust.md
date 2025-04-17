@@ -148,6 +148,7 @@
 - https://github.com/rustkas/simple-about-rust
 - https://prev.rust-lang.org/ru-RU/documentation.html
 - https://www.rust-lang.org/ru/learn
+- https://rust-unofficial.github.io/too-many-lists/index.html
 
 ### Шпаргалки
 
