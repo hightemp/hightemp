@@ -918,7 +918,10 @@
       - В поиске оптимального подхода к миграциям в Go https://habr.com/ru/articles/780280/
       - Using sqlc and goose https://pressly.github.io/goose/blog/2024/goose-sqlc/
 - CLI
-  - Building a CLI App in Golang https://neo-femo.hashnode.dev/building-a-cli-app-in-golang
+  - Cobra
+    - Создание CLI утилит на Go с библиотекой Cobra https://habr.com/ru/companies/otus/articles/830082/
+  - Остальное
+    - Building a CLI App in Golang https://neo-femo.hashnode.dev/building-a-cli-app-in-golang
 - Форматы сериализации данных
   - Protocol Buffers
     - Golang Protocol Buffers data format tutorial https://programmer.ink/think/golang-protocol-buffers-data-format-tutorial.html
