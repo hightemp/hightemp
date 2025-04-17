@@ -573,6 +573,9 @@
   - time
     - Основное
       - How Do They Do It: Timers in Go https://blog.gopheracademy.com/advent-2016/go-timers/
+  - flag
+    - Основное
+      - Command-Line Arguments in Go: How to Use the Flag Library https://leapcell.medium.com/command-line-arguments-in-go-how-to-use-the-flag-library-0975f9319c6a
   - archive
     - How to zip and unzip a directory in Go https://blog.nuculabs.de/posts/2025/2025-04-01-how-to-zip-and-unzip-a-directory-go/
     - Golang Zip File Example https://golang.cafe/blog/golang-zip-file-example.html
