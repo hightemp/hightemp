@@ -905,6 +905,9 @@
       - Меньше кода, больше результата: применяем sqlc для работы с БД https://habr.com/ru/companies/uzum/articles/890654/
     - Остальное
       - Облегчаем работу с SQL в go и при этом не отстреливаем себе ноги https://habr.com/ru/companies/first/articles/652697/
+  - ORM
+    - ent
+      - Quick Introduction https://entgo.io/docs/getting-started/
   - Миграции
     - goose
       - Миграции в YDB с помощью «goose» https://habr.com/ru/companies/ydb/articles/783254/
