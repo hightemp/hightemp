@@ -462,9 +462,6 @@
     - Interning
       - New unique package https://go.dev/blog/unique
       - Interning in Go https://medium.com/google-cloud/interning-in-go-4319ea635002
-  - embed
-    - Embedding files in Go using the "embed" package https://echorand.me/posts/go-embed/
-    - Using Go Embed https://www.bytesizego.com/blog/go-embed
   - plugin
     - Getting started with Go plugin package https://echorand.me/posts/getting-started-with-golang-plugins/
     - Go и плагины https://habr.com/ru/articles/647623/
@@ -582,6 +579,9 @@
   - Комментарии
     - Go Doc Comments https://tip.golang.org/doc/comment
   - Сompiler directives, Директивы компилятора, magic comments
+    - //go:embed
+      - Embedding files in Go using the "embed" package https://echorand.me/posts/go-embed/
+      - Using Go Embed https://www.bytesizego.com/blog/go-embed
     - //go:inline
     - //go:generate
       - Generating code Rob Pike https://go.dev/blog/generate
