@@ -427,6 +427,14 @@
 - https://t.me/molfar_bi
 - https://t.me/espyOSINT
 - https://t.me/OsintLosena
+- КиберДед official  (https://t.me/deedcoin_club)
+- OSINT mindset ( https://t.me/osint_mindset )
+- Schwarz_Osint ( https://t.me/Schwarz_Osint )
+- DanaScully ( https://t.me/xbshsuwiow83 ) 
+- STEIN: ИБ OSINT ( https://t.me/secur_researcher )
+- network worm notes( https://t.me/nwnotes )
+- BeholderIsHere Media HUB( https://t.me/BeholderIsHereHub )
+- Pandora’s box ( https://t.me/pandora_intelligence )
 
 ### Статьи
 

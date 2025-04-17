@@ -1,0 +1,65 @@
+
+### Телеграм
+
+- Авторские:
+    - Пакет Безопасности (https://t.me/package_security) 
+    - Пост Лукацкого (https://t.me/alukatsky) 
+    - Сицебрекс! (https://t.me/sycebrex) и Sachok (https://t.me/CyberSachok)
+    - Ever Secure (https://t.me/ever_secure) и Технологический болт Генона (https://t.me/tech_b0lt_Genona) 
+    - Солдатов в телеграм, (https://t.me/soldatov_in_telegram) BESSEС, (https://t.me/bessec) Евгений Касперский (https://t.me/e_kaspersky)
+    - ZLONOV, (https://t.me/zlonov) Управление уязвимостями и прочее (https://t.me/avleonovrus) и Топ кибербезопасности Батранкова (https://t.me/safebdv)
+- Offensive: 
+    - Похек (https://t.me/poxek) 
+    - Red team brazzers (https://t.me/RedTeambro) 
+    - Багхантер (https://t.me/bughunter_circuit) 
+    - Кавычка (https://t.me/webpwn) 
+    - Егор Богомолов (https://t.me/YAH_Channel) 
+    - Заметки Слонсера (https://t.me/slonser_notes) и PRO:PENTEST  (https://t.me/pro_pentest)
+    - s0i37_chanel (https://t.me/s0i37_channel) 
+    - Поросенок Петр (https://t.me/pigPeter)
+    - GigaHackers (https://t.me/GigaHack)
+- Defensive: 
+    - ESCalator (https://t.me/ptescalator)
+    - README.hta (https://t.me/s3Ch1n7)
+    - Blue (h/c)at Café (https://t.me/bh_cat) и Security wine (https://t.me/sec_devops) (бывший - DevSecOps Wine) (https://t.me/bh_cat) и Makrushin (https://t.me/makrushin) 
+    - Disasm.me channel (https://t.me/disasm_me_ch)
+    - Четыре луча, (https://t.me/four_rays) AppSec Journey (https://t.me/AppSecJourney) и PurpleBear (https://t.me/purple_medved)
+- Mixed:
+    - k8s (in)security (https://t.me/k8security) 
+    - Кибервойна (https://t.me/cyberguerre) и Mobile AppSec World  (https://t.me/mobile_appsec_world)
+    - Репорты простым языком (https://t.me/critical_bug) 
+    - Сертификат безопасности (https://t.me/qcakz) 
+    - Кибербез образование, (https://t.me/cyber_edu) Райтапы по CTF {2025}, (https://t.me/writeup_ctf) ГОСТ VPN | aveselov.ru, (https://t.me/aveselov_ru) PWN AI, (https://t.me/pwnai) Monkey see, monkey do (https://t.me/moseedo)
+- Микроблоги: 
+    - Ильдар Пишет (https://t.me/nxblog) 
+    - Омский Багхантер (https://t.me/bughunter_omsk) 
+    - Банка пывна (https://t.me/banka_pwn) и Про ИБ с высоты каблуков (https://t.me/verestnikova) и Кибербез Андрея Дугина (https://t.me/cybersecdugin) 
+    - Двое из Кибермаркетинга  (https://t.me/CyberMarketingDuO)
+    - CyberBox (https://t.me/cyberboxch) и NA_SOC (https://t.me/na_soc) 
+    - Защита персональных данных и не только (https://t.me/shudrova_pdn) и SbX | Security by Xyurity (https://t.me/xyuriti)
+- Новостные/агрегаторы:
+    - SecАtor (https://t.me/true_secator) 
+    - НеЛукацкий (https://t.me/notlukatsky)
+    - НеКасперский (https://t.me/NeKaspersky) 
+    - Утечки информации (https://t.me/dataleak) и Порвали два трояна (https://t.me/kasperskyb2b) и Offensive Twitter (https://t.me/OffensiveTwitter) 
+    - Об ЭП и УЦ (https://t.me/ep_uc) 
+    - Максим Горшенин | imaxai (https://t.me/imaxairu) и RUSCADASEC news: Кибербезопасность АСУ ТП (https://t.me/ruscadasecnews)
+- Корпоративные: 
+    - Kaspersky (https://t.me/kasperskylab_ru) 
+    - Red Security (https://t.me/+yAyfd817hidhNzFi) 
+    - Positive Technologies (https://t.me/Positive_Technologies) 
+    - Борьба с киберпреступностью | F6 (https://t.me/f6_cybersecurity) и BI.ZONE  (https://t.me/bizone_channel)
+    - Innostage  (https://t.me/innostage_group)
+    - РТ-ИБ, (https://t.me/rtinfobez) ИнфоТеКС, (https://t.me/infotecs_official) Инфосистемы Джет, (https://t.me/jetinfosystems) 3side кибербезопасности (https://t.me/By3side) и Echelon Eyes (https://t.me/EchelonEyes)
+    - CURATOR, (https://t.me/curatorpro) Angara Security, (https://t.me/angarasecurity) InfoWatchOut (https://t.me/infowatchout)
+- Каналы IT-журналистов: 
+    - Грустный киберпанк (https://t.me/korolevsnotes) 
+    - КиберBEZправил (https://t.me/kiberbezpravil) 
+    - Radio Tishina (https://t.me/radio_tishina) 
+    - Игнатий Цукергрохер (https://t.me/divannyi_it) 
+    - Doomtech (https://t.me/doomtech) 
+    - Убедился корр. ТАСС, (https://t.me/zabelinTASS) Половников (https://t.me/semsotslov) и Девочки/Перцева (https://t.me/girls_pertseva) 
+    - Точксичная цифра, (https://t.me/toxic_digital) Первый канал, (https://t.me/bezumnomojnobytpervym) Электро⚡️шок, (https://t.me/electroshockNEWS) это Жабин (https://t.me/zhabinpishet)
+
+
+### Статьи
