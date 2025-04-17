@@ -67,6 +67,9 @@
 - https://minervasoft.ru/kms
 - https://kaiten.ru/
 
+### Digital Garden
+
+- Building a digital garden with Obsidian and Quartz https://notes.hamatti.org/technology/building-a-digital-garden-with-obsidian-and-quartz
 
 ### Книги
 
