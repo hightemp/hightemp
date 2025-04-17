@@ -70,6 +70,7 @@
 ### Digital Garden
 
 - Building a digital garden with Obsidian and Quartz https://notes.hamatti.org/technology/building-a-digital-garden-with-obsidian-and-quartz
+- Digital Gardening with Quartz https://be-far.com/Projects/Obsidian/digital-garden
 
 ### Книги
 
