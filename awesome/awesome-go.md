@@ -817,6 +817,8 @@
   - goyacc
   - stringler
     - Golang's Stringer tool https://last9.io/blog/golang-stringer-tool/
+  - goose
+    - Миграции в YDB с помощью «goose» https://habr.com/ru/companies/ydb/articles/783254/
 - 🚀 Оптимизация
   - SIMD
     - Go Plan9 Memo, Speeding Up Calculations 450%; В статье описывается разработка SIMD-пакета для языка Go с использованием ассемблера Plan9, что позволило ускорить вычисления на 450% за счет параллельной обработки данных на аппаратном уровне. https://pehringer.info/go_plan9_memo.html
