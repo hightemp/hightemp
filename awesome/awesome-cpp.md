@@ -243,6 +243,8 @@
   - Tutorial on writing makefiles https://www.math.colostate.edu/~yzhou/computer/writemakefile.html
 - Swiss Tables
   - Swiss Tables and absl::Hash https://abseil.io/blog/20180927-swisstables
+- Библиотеки
+  - userver
 - Примеры приложений
   - Пишем свой pastebin, используя только userver https://habr.com/ru/companies/yandex/articles/894294/
 - Подборки
