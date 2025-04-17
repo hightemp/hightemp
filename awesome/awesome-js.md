@@ -77,6 +77,7 @@
   - Основное
     - Memory Life Cycle in JS(Heap, Stack, Call Stack, String Pool) https://pashazade-nazar.medium.com/memory-life-cycle-heap-stack-call-stack-string-pool-bba2569524cb
     - 🚀 Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly) https://deepu.tech/memory-management-in-v8/
+    - Основы управления памятью в JavaScript: как это работает и какие проблемы могут возникнуть https://habr.com/ru/companies/skillbox/articles/554018/
   - Strings, Строки
     - V8. Working with Strings. Expanding Vocabulary https://blog.frontend-almanac.com/v8-strings
   - Loops, Циклы
