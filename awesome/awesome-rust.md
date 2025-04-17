@@ -673,6 +673,7 @@
   - enums, Перечисления
   - structs, Структуры
   - traits, Типажи
+    - Trait-объекты и полиморфизм в Rust https://habr.com/ru/companies/otus/articles/790060/
     - Да кто такой этот ваш impl Trait https://habr.com/ru/articles/783266/
   - Loops, Циклы
     - Understanding Rust Loops https://www.cloudbees.com/blog/understanding-rust-loops
