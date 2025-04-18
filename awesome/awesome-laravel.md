@@ -5,6 +5,10 @@
 - https://github.com/its-awesome/awesome-laravel-nova
 - https://github.com/unnawut/awesome-laravel
 
+### Репозитории
+
+- Apiato - это PHP-фреймворк на базе Laravel, предоставляющий комплексное решение для быстрой разработки масштабируемых API с множеством готовых функций, включая генераторы кода, OAuth2.0 аутентификацию, управление версиями API, кэширование данных и многоязычную поддержку. https://github.com/apiato/apiato
+
 ### Книги
 
 - https://devops-with-laravel.io/
