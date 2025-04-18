@@ -903,8 +903,12 @@
   - Создание временного файла и временной директории в Golang http://xztvc.ru/post/sozdanie-vremennogo-fajla-i-vremennoj-direktorii-v-golang
 - Базы данных
   - PostgreSQL
-    - Connecting to PostgreSQL in Golang https://medium.com/@dewirahmawatie/connecting-to-postgresql-in-golang-59d7b208bad2
-    - GO-PG Golang Postgre ORM https://medium.com/tunaiku-tech/go-pg-golang-postgre-orm-2618b75c0430
+    - Основное
+      - Connecting to PostgreSQL in Golang https://medium.com/@dewirahmawatie/connecting-to-postgresql-in-golang-59d7b208bad2
+    - Connection Pooling
+      - PostgreSQL Connection Pooling: Наш опыт и с чем его едят https://habr.com/ru/companies/hikasami/articles/884820/
+    - Остальное
+      - GO-PG Golang Postgre ORM https://medium.com/tunaiku-tech/go-pg-golang-postgre-orm-2618b75c0430
   - SQL
     - sqlc
       - Меньше кода, больше результата: применяем sqlc для работы с БД https://habr.com/ru/companies/uzum/articles/890654/
