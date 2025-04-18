@@ -916,7 +916,10 @@
       - Как работать с Postgres в Go: практики, особенности, нюансы https://habr.com/ru/companies/avito/articles/461935/
     - Connection Pooling
       - PostgreSQL Connection Pooling: Наш опыт и с чем его едят https://habr.com/ru/companies/hikasami/articles/884820/
+    - Оптимизация
+      - https://habr.com/ru/companies/avito/articles/525294/
     - Остальное
+      - Приключения одного бага или как починить pgx чужими руками https://habr.com/ru/companies/avito/articles/519610/
       - GO-PG Golang Postgre ORM https://medium.com/tunaiku-tech/go-pg-golang-postgre-orm-2618b75c0430
   - SQL
     - Основное
