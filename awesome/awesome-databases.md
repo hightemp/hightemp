@@ -69,6 +69,8 @@
         - Mastering high availability: PostgreSQL meets Kubernetes(En) https://weng-albert.medium.com/mastering-high-availability-postgresql-meets-kubernetes-929846f6cc88
     - Репликация
         - Физическая репликация
+            - Физическая репликация в PostgreSQL https://www.dbserv.ru/blog/fizicheskaya-replikaciya-v-postgresql
+            - Как настроить физическую потоковую репликацию с PostgreSQL на Ubuntu https://timeweb.cloud/tutorials/postgresql/kak-nastroit-fizicheskuyu-potokovuyu-replikatsiyu-s-postgresql-12-na-ubuntu-2004
         - Логическая репликация, logical replication
             - PostgreSQL Logical Replication: Easy steps to set up https://hevodata.com/learn/postgresql-logical-replication/
             - Subscription Chapter 29. Logical Replication https://www.postgresql.org/docs/current/logical-replication-subscription.html
