@@ -978,6 +978,10 @@
     - Positional Encoding Explained: A Deep Dive into Transformer PE https://medium.com/thedeephub/positional-encoding-explained-a-deep-dive-into-transformer-pe-65cfe8cfe10b
     - Positional Encoding in Transformer https://medium.com/@sachinsoni600517/positional-encoding-in-transformer-2cc4ec703076
     - Explaining the need for positional encodings in Transformers https://medium.com/@ngiengkianyew/explaining-the-need-for-positional-encodings-in-transformers-db4209d4be10
+- Circuit Tracing (Отслеживание нейронных цепей) - метод, позволяющий заглянуть внутрь больших языковых моделей и понять механизмы их работы, строящий упрощённую понятную версию модели и визуализирующий пути распространения информации через нейросеть с помощью графов атрибуции
+    - Статья Circuit Tracing: Revealing Computational Graphs in Language Models (https://transformer-circuits.pub/2025/attribution-graphs/methods.html) от Anthropic
+    - Исследование ACDC: Automating Circuit Discovery (https://www.lesswrong.com/posts/bGn9ZjeuJCg7HkKBj/acdc-automated-circuit-discovery)
+    - Mechanistic understanding and validation of large AI models with SemanticLens (https://arxiv.org/abs/2501.05398)
 - Списки для чтения
     - "Road to Sora" Paper Reading List https://ghost.oxen.ai/road-to-sora-reading-list/ 
     - Understanding Large Language Models -- A Transformative Reading List https://sebastianraschka.com/blog/2023/llm-reading-list.html
