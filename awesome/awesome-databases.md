@@ -87,6 +87,7 @@
             - Потоковая репликация PostgreSQL https://kuzevanov.ru/linux/потоковая-репликация-postgresql.html
             - Потоковая репликация в PostgreSQL https://itproffi.ru/potokovaya-replikatsiya-v-postgresql/
             - Потоковая репликация в PostgreSQL и пример фейловера https://eax.me/postgresql-replication/
+            - Setting Up PostgreSQL Replication with Docker https://dev.to/wallacefreitas/setting-up-postgresql-replication-with-docker-26fi
         - Разрешение конфликтов
             - How to handle logical replication conflicts in PostgreSQL https://www.postgresql.fastware.com/blog/how-to-handle-logical-replication-conflicts-in-postgresql
         - Остальное
