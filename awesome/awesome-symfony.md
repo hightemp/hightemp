@@ -336,6 +336,7 @@
     - CQRS with Symfony Messenger https://dev.to/adgaray/cqrs-with-symfony-messenger-2h3g
   - Hexagonal Architecture, Гексоганальная архитектура
     - Symfony и Гексагональная архитектура https://habr.com/ru/articles/539084/
+    - Symfony and Hexagonal Architecture https://minompi.medium.com/symfony-and-hexagonal-architecture-b3c4704e94de
   - Остальное
     - Clean Architecture, DDD, гексагональная архитектура. Разбираем на практике blog на Symfony https://habr.com/ru/articles/718916/
 - Plugin
