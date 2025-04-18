@@ -1022,6 +1022,8 @@
     - 10+ Open-source AI Agents: Based on GitHub Stars https://research.aimultiple.com/open-source-ai-agents/
     - 4 Books to Deepen Your Understanding of LLMs: Theory & Engineering https://substack.com/home/post/p-159336911
 - Остальное
+    - On the Biology of a Large Language Model https://transformer-circuits.pub/2025/attribution-graphs/biology.html
+    - Tracing the thoughts of a large language model https://www.anthropic.com/research/tracing-thoughts-language-model
     - Emerging Patterns in Building GenAI Products https://martinfowler.com/articles/gen-ai-patterns/
     - Встречаем YandexGPT 5 — в Алисе, облаке и опенсорсе https://habr.com/ru/companies/yandex/articles/885218/
     - Клон ChatGPT в 3000 байтах на C, основанный на GPT-2 https://habr.com/ru/articles/879662/
