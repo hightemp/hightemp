@@ -330,6 +330,8 @@
 - Task scheduler, cron
   - Знакомство с созданием консольных команд: cron. https://php.zone/symfony-course/znakomstvo-s-konsolnymi-komandami-v-symfony-cron
 - Архитектура
+  - Clean Architecture, Чистая архитектура
+    - POC of Clean Architecture with Symfony https://medium.com/@stefanoalletti_40357/poc-of-clean-architecture-with-symfony-66933548b305
   - CQRS
     - CQRS with Symfony Messenger https://dev.to/adgaray/cqrs-with-symfony-messenger-2h3g
   - Hexagonal Architecture, Гексоганальная архитектура
