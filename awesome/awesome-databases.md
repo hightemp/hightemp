@@ -50,6 +50,7 @@
         - How to list tables in PostgreSQL https://www.illacloud.com/blog/list-tables-in-postgresql
     - PgBouncer
         - Управление пулом подключений https://docs.arenadata.io/ru/ADPG/current/concept/architecture/pgbouncer.html
+        - PgBouncer https://evtuhovich.ru/blog/2012/02/12/pgbouncer/
     - WAL
         - Внутренности PostgreSQL: журнал предзаписи (WAL) https://eax.me/postgresql-wal/
         - Write Ahead Logging (WAL) https://www.interdb.jp/pg/pgsql09.html
