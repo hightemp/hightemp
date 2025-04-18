@@ -358,6 +358,10 @@
 - Functional Programming in Go, Дилан Миус
 - Concurrency in Go: Tools and Techniques for Developers, Кэтрин Кокс-Будей
 - сайт содержит книгу "go-internals" - разрабатываемый сообществом ресурс о внутреннем устройстве языка программирования Go (версии 1.10+), который стремится предоставить лаконичную, актуальную и практическую информацию для опытных разработчиков https://cmc.gitbook.io/go-internals
+- Let's Go Further 
+  - Автор: Алекс Эдвардс
+  - Ссылки:
+    - https://alexedwards.gumroad.com/l/lets-go-further
 
 ### Статьи
 
