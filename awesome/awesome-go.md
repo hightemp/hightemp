@@ -862,7 +862,8 @@
   - Gracefully Terminate a Program in Go https://guzalexander.com/2017/05/31/gracefully-exit-server-in-go.html
 - Syscall
   - Syscall и cgo в Go https://habr.com/ru/companies/otus/articles/886062/
-- Примеры создания приложения или сервиса
+- Примеры создания приложения или сервиса, Примеры приложений
+  - How to Easily Handle 200k RPS with Golang https://medium.com/@nikitaburov/how-to-easily-handle-200k-rps-with-golang-8b62967a01dd
   - Создание микросервисного приложения на Go по принципу CQRS https://sefus.ru/go-microservices-cqrs-docker/
   - Modern Web Development with Go: A Lightweight Alternative to React SSR https://engineering.turistikrota.com/modern-web-development-with-go-a-lightweight-alternative-to-react-ssr-cccce8631773
   - Creating a Chat Application with Go, Gorilla WebSocket, and jQuery https://arya2004.hashnode.dev/creating-chat-application-go-gorilla-websocket-jquery
