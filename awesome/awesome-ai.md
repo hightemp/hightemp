@@ -858,13 +858,14 @@
 - ODS ML System Design - курс российского сообщества открытых данных, предоставляющий комплексный путь изучения проектирования систем машинного обучения от концепций до развертывания в продукционной среде, включающий лекции от ведущих отечественных специалистов по машинному обучению. https://ods.ai/tracks/ml-system-design-23
 - видеоматериал, разъясняющий основы системного дизайна, сопровождаемый лекцией и тремя тренировочными интервью со студентами от Валерия Бабушкина. https://www.youtube.com/watch?v=KSn7PiIwtT4, https://www.youtube.com/watch?v=VPg2Uu1MYgI, https://www.youtube.com/watch?v=WKYPQtqE-m0, https://www.youtube.com/watch?v=3X-TAuWdIAc
 
-### MCP сервера
+### MCP
 
 - Connect any HTTP/REST API server using an Open API spec (v3) https://github.com/snaggle-ai/openapi-mcp-server
 - Docker container management and operations through MCP https://github.com/QuantGeekDev/docker-mcp
 - Interact with Postman API https://github.com/delano/postman-mcp-server
 - An MCP server using Playwright for browser automation and webscrapping https://github.com/executeautomation/mcp-playwright
 - Плагин даёт возможность Cursor читать, управлять и видоизменять файлы в Figma напрямую, как настоящий дизайнер. От идеи до полноценного дизайна пройдёт всего пару минут. Гайд по установке — тут. (https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) 
+- MCP Studio — предназначенное для разработки программного обеспечения под любые задачи приложение, позволяющее создавать, тестировать и публиковать собственные плагины на базе ИИ-модели Claude от Anthropic путём указания регистрационных данных пользователя, API-ключа и промпта. https://mcp.getflow.dev/
 
 ### Телеграм папки, Telegram folders
 
