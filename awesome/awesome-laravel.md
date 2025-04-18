@@ -61,6 +61,9 @@
         - Prometheus Metrics in Laravel https://fly.io/laravel-bytes/instrument-laravel-for-prometheus/
     - Примеры
         - https://habr.com/ru/articles/885224/
+- Архитектура
+    - Остальное
+        - Архитектура в Laravel. Как сделать код понятным и масштабируемым https://habr.com/ru/articles/898584/
 - Остальное
     - Building a Real-Time Currency Price Display with Laravel and SSE https://medium.com/@moaminsharifi/building-a-real-time-currency-price-display-with-laravel-and-sse-4bec46ba45b2
 - Подборки
