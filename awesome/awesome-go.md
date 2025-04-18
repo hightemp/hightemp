@@ -913,6 +913,7 @@
   - PostgreSQL
     - Основное
       - Connecting to PostgreSQL in Golang https://medium.com/@dewirahmawatie/connecting-to-postgresql-in-golang-59d7b208bad2
+      - Как работать с Postgres в Go: практики, особенности, нюансы https://habr.com/ru/companies/avito/articles/461935/
     - Connection Pooling
       - PostgreSQL Connection Pooling: Наш опыт и с чем его едят https://habr.com/ru/companies/hikasami/articles/884820/
     - Остальное
