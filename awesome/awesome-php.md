@@ -216,6 +216,8 @@
     - PHP and Generators: Simplifying Iteration with Yield https://reintech.io/blog/php-generators-simplifying-iteration-yield
     - “Yield” и деликатная работа с памятью в PHP https://habr.com/ru/companies/otus/articles/598577/
     - PHP — Generators https://medium.com/@erlandmuchasaj/php-generators-b26e98025a50
+  - Closure
+    - Closure::bind() и bindTo() в PHP https://habr.com/ru/companies/otus/articles/898094/
   - Трейты, Traits
     - PHP OOP Fundamentals - Traits In PHP 8 https://www.dailycomputerscience.com/post/php-oop-fundamentals-traits-in-php-8
   - Строки, Strings
