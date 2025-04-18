@@ -1383,6 +1383,8 @@
       - Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
       - Raft Consensus — leader election with Golang https://medium.com/@govinda.attal/raft-consensus-leader-election-with-golang-89bfdbd471cb
 - AI
+  - MCP
+    - MCP Servers — And How to Build Them With Go https://liavyona09.medium.com/mcp-servers-and-how-to-build-them-with-go-11f9aafd8131
   - RAG
     - RAG "from Scratch" with Go and Ollama https://k33g.hashnode.dev/rag-from-scratch-with-go-and-ollama
   - ML
