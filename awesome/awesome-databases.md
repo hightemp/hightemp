@@ -48,6 +48,8 @@
     - Основное
         - Изучаем PostgreSQL. Часть 1. Знакомимся с архитектурой https://habr.com/ru/companies/otus/articles/706346/
         - How to list tables in PostgreSQL https://www.illacloud.com/blog/list-tables-in-postgresql
+    - PgBouncer
+        - Управление пулом подключений https://docs.arenadata.io/ru/ADPG/current/concept/architecture/pgbouncer.html
     - WAL
         - Внутренности PostgreSQL: журнал предзаписи (WAL) https://eax.me/postgresql-wal/
         - Write Ahead Logging (WAL) https://www.interdb.jp/pg/pgsql09.html
