@@ -1062,6 +1062,8 @@
       - Golang HTTP server: basics https://medium.com/@bartosz.piekny/golang-http-server-basics-6936ddab7474
   - Остальное
     - Under the hood of TCP Socket Implementation On Golang https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
+- Траблшутинг
+  - Troubleshoot high number of goroutines in kubernetes controllers https://mirilittleme.medium.com/troubleshoot-high-number-of-goroutines-in-kubernetes-controllers-74bb93b055a6
 - Oembed
   - Выдергивание информации из URL, в стиле Slack и Twitter https://habr.com/ru/articles/269055/
 - Криптография
