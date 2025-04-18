@@ -314,6 +314,10 @@
 
 - Go Concurrency Guide https://github.com/luk4z7/go-concurrency-guide
 
+### Tutorials
+
+- Go database/sql tutorial http://go-database-sql.org/
+
 ### Шпаргалки
 
 - https://devhints.io/go
