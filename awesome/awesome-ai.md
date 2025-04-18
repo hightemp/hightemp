@@ -858,6 +858,10 @@
 - ODS ML System Design - курс российского сообщества открытых данных, предоставляющий комплексный путь изучения проектирования систем машинного обучения от концепций до развертывания в продукционной среде, включающий лекции от ведущих отечественных специалистов по машинному обучению. https://ods.ai/tracks/ml-system-design-23
 - видеоматериал, разъясняющий основы системного дизайна, сопровождаемый лекцией и тремя тренировочными интервью со студентами от Валерия Бабушкина. https://www.youtube.com/watch?v=KSn7PiIwtT4, https://www.youtube.com/watch?v=VPg2Uu1MYgI, https://www.youtube.com/watch?v=WKYPQtqE-m0, https://www.youtube.com/watch?v=3X-TAuWdIAc
 
+### Шпаргалки
+
+- Шпаргалка по нейросетям - всеобъемлющее руководство по трансформерам и большим языковым моделям, основанное на курсе CME 295 в Стэнфордском университете, охватывающее архитектуру трансформеров, методы оптимизации, промптинг, файнтюнинг и применение в областях RAG, ИИ-агентов и ризонинг-моделей. https://github.com/afshinea/stanford-cme-295-transformers-large-language-models
+
 ### MCP
 
 - Connect any HTTP/REST API server using an Open API spec (v3) https://github.com/snaggle-ai/openapi-mcp-server
