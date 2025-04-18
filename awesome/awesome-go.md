@@ -919,6 +919,7 @@
       - GO-PG Golang Postgre ORM https://medium.com/tunaiku-tech/go-pg-golang-postgre-orm-2618b75c0430
   - SQL
     - Основное
+      - Retrieving Result Sets http://go-database-sql.org/retrieving.html
       - Modifying Data and Using Transactions http://go-database-sql.org/modifying.html
     - sqlc
       - Меньше кода, больше результата: применяем sqlc для работы с БД https://habr.com/ru/companies/uzum/articles/890654/
