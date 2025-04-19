@@ -1027,6 +1027,7 @@
 - Nvidia
     - Installing the NVIDIA Container Toolkit https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
 - Гайды
+    - Гайд по созданию запросов для генерации высококачественного видео в Adobe Firefly и конкурентных сервисах, в котором подробно описываются рекомендации по составлению эффективных текстовых промптов с указанием типа съёмки, описанием персонажей, действий и локаций, заданием визуального стиля, временных элементов и описательных прилагательных для освещения, атмосферы, движения и цветовой гаммы. https://helpx.adobe.com/firefly/work-with-audio-and-video/work-with-video/writing-effective-text-prompts-for-video-generation.html 
     - Перевод гайда OpenAI по составлению промптов - неофициальный перевод руководства OpenAI, разъясняющего принципы эффективного взаимодействия с языковыми моделями и особенности формулирования запросов для достижения оптимальных результатов. https://platform.openai.com/docs/guides/reasoning-best-practices, https://teletype.in/@prompt_design/reasoning-best-practices
     - LLM Evaluation Guidebook (https://github.com/huggingface/evaluation-guidebook)  – подробный материал с лучшими практиками по оценке языковых моделей, включая составление тестов, инструкции аннотаторам, использование LLM-as-a-judge
 - Подборки
