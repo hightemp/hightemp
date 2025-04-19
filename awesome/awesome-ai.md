@@ -722,6 +722,8 @@
         - https://www.prompthub.us/blog/how-to-give-your-chatbot-more-memory
         - https://www.prompthub.us/blog/prompt-engineering-principles-for-2024
         - https://www.promptingguide.ai/techniques/fewshot
+- Остальное
+    - Agent S2 (https://www.simular.ai/articles/agent-s2) — цифровой ассистент, способный управлять и автоматизировать компьютерные системы благодаря интеллектуальным алгоритмам; он визуализирует экран, управляет мышью и клавиатурой, выполняет онлайн-операции, публикует контент в социальных сетях и более эффективно, чем другие AI, не допускает сбоев и ошибок.    
 
 ### Для резюме, hr
 
