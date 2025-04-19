@@ -741,6 +741,7 @@
   - What’s So Hard About Hashing Data? https://www.dfns.co/article/unambiguous-hashing
 - Примеры приложений
   - Rust: пример консольной программы ввода/вывода https://microsin.net/programming/pc/rust-io-project-building-a-command-line-program.html
+  - Rust: проект многопоточного web-сервера https://microsin.net/programming/pc/rust-final-project-building-multithreaded-web-server.html
   - A Basic Algo Trading System In Rust: Part I https://medium.com/rustaceans/a-basic-algo-trading-system-in-rust-26a1c5488d47
   - Build your own SQLite, Part 1: Listing tables https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables
   - Build your own SQLite, Part 2: Scanning large tables https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables
