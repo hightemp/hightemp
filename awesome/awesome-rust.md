@@ -692,6 +692,7 @@
     - Channels https://dhghomon.github.io/easy_rust/Chapter_50.html
   - Errors, Ошибки
     - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
+    - Rust: обработка ошибок https://microsin.net/programming/pc/rust-error-handling.html
   - data races
   - unsafe
     - Learn Unsafe Rust From My Mistakes https://geo-ant.github.io/blog/2023/unsafe-rust-exploration/
