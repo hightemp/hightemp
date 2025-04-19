@@ -649,6 +649,7 @@
 - cmyr.net https://www.cmyr.net/
 - https://darkcoding.net/tags/rust/
 - https://dr-knz.net/tags/#rust-ref
+- https://microsin.net/programming/pc/index.html
 
 ### Статьи
 
