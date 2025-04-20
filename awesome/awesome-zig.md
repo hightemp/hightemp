@@ -57,3 +57,5 @@
 
 - https://zig.show/
 - ZIG | Ep1 | Introduction https://www.youtube.com/watch?v=muH6v7rpXaE
+- Плейлисты
+    - [Zig Livecoding] Zine Release Day! https://www.youtube.com/watch?v=6J8L2cTB-rs&list=PLK088ZWWgH6NbDzNHs1pAu3YnU2eu4D8M
