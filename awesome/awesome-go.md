@@ -1746,6 +1746,7 @@
   - Golang / Go Crash Course 03 | Implementing Clean Architecture principles in our REST API https://www.youtube.com/watch?v=Yg_ae0UvCv4
   - Изучаем Golang. Урок 1. Основы + веб-сервер в 3 строки в конце урока! https://www.youtube.com/watch?v=G6eZaX_lgbQ&list=PLP19RjSHH4aE9pB77yT1PbXzftGsXFiGl
   - Основы Golang В Одном Видео https://www.youtube.com/watch?v=qFoG8rDOyeM&list=PLbTTxxr-hMmxZMXsvaE-PozXxktdJ5zLR
+  - Курс Golang за 100 минут для начинающих | Основы языка. Обучение разработке бесплатно. Golang с нуля https://www.youtube.com/watch?v=8dS7aT-s_H0
 - Подготовка к собеседованию
   - Golang 100 вопросов с собеседований. Подготовка Go разработчика Часть 1 https://www.youtube.com/watch?v=ZvaD-G5_3vQ
 - Аунтификация
