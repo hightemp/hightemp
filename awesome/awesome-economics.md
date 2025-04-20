@@ -99,4 +99,5 @@
 
 ### Видео
 
+- ВШЭ Курс лекций. Экономика. Игорь Ким https://www.youtube.com/watch?v=A1bkQOPUJSU&list=PL4gIgQ0wMSVEIzDsxLTx3kp0zpVh-YYuc
 - Финансовые рынки. Лекция Роберта Шиллера на русском. Часть 1.1 - Введение в неделю https://www.youtube.com/watch?v=V55JICknEsI&list=PL6-VdoXycNiQiQ1L9SmJRc5S9_m5EpmRf
