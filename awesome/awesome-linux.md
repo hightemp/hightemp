@@ -303,6 +303,8 @@
         - Linux Kernel. 1 - Исследуем системный вызов fork https://www.youtube.com/watch?v=KIaTpku7wEI
     - Остальное
         - Обзорная иллюстрация компонент и интерфейсов Linux https://www.youtube.com/watch?v=V3gI8-8k8Q4&list=PLHHm04DXWzeKZycf_ZuBgxWdVBnrjE_mj
+- Администрирование
+    - 1. LINUX. Основы - Курс · Администрирование Linux https://www.youtube.com/watch?v=CQ4YpkeG3mQ&list=PLrCZzMib1e9rx3HmaLQfLYb9ociIvYOY1
 - Безопасность
     - Управление доступом в ОС Linux https://www.youtube.com/watch?v=V7oL3u_GNOg
     - Администрирование Линукс (Linux) - Урок 23 - Концепция безопасности DAC, MAC, SeLinux, AppArmor https://www.youtube.com/watch?v=3Tf5yQJJbz8
