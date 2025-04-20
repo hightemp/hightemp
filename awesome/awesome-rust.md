@@ -673,6 +673,7 @@
     - Getting Started with Rust https://medium.com/@rami.krispin/getting-started-with-rust-928bf7b8418f
     - 🚀 Visualizing memory management in Rust https://deepu.tech/memory-management-in-rust/
   - enums, Перечисления
+    - Unlocking Rust’s Hidden Gem: A Deep Dive into Enums https://medium.com/@rahulptl1997/unlocking-rusts-hidden-gem-a-deep-dive-into-enums-d878780a5dbf
   - structs, Структуры
   - traits, Типажи
     - Trait-объекты и полиморфизм в Rust https://habr.com/ru/companies/otus/articles/790060/
