@@ -96,4 +96,7 @@
     - Электронные платежные системы в России https://www.tadviser.ru/index.php/Статья:Электронные_платежные_системы_в_России
     - https://marketing-tech.ru/online-services_tags/payment-services/
 - Остальное
-    
+
+### Видео
+
+- Финансовые рынки. Лекция Роберта Шиллера на русском. Часть 1.1 - Введение в неделю https://www.youtube.com/watch?v=V55JICknEsI&list=PL6-VdoXycNiQiQ1L9SmJRc5S9_m5EpmRf
