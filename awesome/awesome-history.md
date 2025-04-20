@@ -209,6 +209,7 @@
     - Map Maker Biography: Girolamo Ruscelli (1500 - 1566) https://nwcartographic.com/blogs/essays-articles/map-maker-biography-girolamo-ruscelli-1500-1566?srsltid=AfmBOoqhurR5ksWVq7fkQArMDJHcyDRy60DAEig9W3hbwDHJNEmLHZRq
 - Виллем Блау (Willem Blaeu)
     - Willem Blaeu https://en.wikipedia.org/wiki/Willem_Blaeu
+    - Willem Blaeu https://exhibits.library.duke.edu/exhibits/show/mappingthecity/blaeu
 - Подборки
     - Самые интересные археологические музеи‑заповедники РоссииБолгар, Фанагория и другие места — свидетели ушедших цивилизаций https://experience.tripster.ru/articles/samye-interesnye-arheologicheskie-muzei-zapovedniki-rossii/
     - Важнейшие археологические находки России: 2021–2022 https://cleverrussia.ru/vazhnejshie-arheologicheskie-nahodki-rossii-2021-2022/
