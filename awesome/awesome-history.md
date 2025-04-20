@@ -12,6 +12,7 @@
 - https://hraniteli-nasledia.com/articles/map/
 - Girolamo Ruscelli
     - https://www.raremaps.com/mapmaker/292/Girolamo_Ruscelli
+    - Brazil by Girolamo Ruscelli. 1598 https://sanderusmaps.com/our-catalogue/antique-maps/america/south-america/brazil-by-girolamo-ruscelli?srsltid=AfmBOorst1TvJ92OtU8asPlKbZvXNm-oCD1CTG8RIEew43AkgD6Xcx_3
 
 ### Библиотеки
 
