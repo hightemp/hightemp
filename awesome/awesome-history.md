@@ -203,7 +203,7 @@
         - Модель распространения и мощности культурного слоя Старой Руссы https://cyberleninka.ru/article/n/model-rasprostraneniya-i-moschnosti-kulturnogo-sloya-staroy-russy/viewer
     - Остальное
         - Аохеологическая карта России http://www.ckit.ru/maps/a15-akr.htm
-- Girolamo Ruscelli
+- Жироламо Рушелли (Girolamo Ruscelli)
     - Girolamo Ruscelli https://en.wikipedia.org/wiki/Girolamo_Ruscelli
     - Portrait of Girolamo Ruscelli https://www.artic.edu/artworks/188302/portrait-of-girolamo-ruscelli
     - Map Maker Biography: Girolamo Ruscelli (1500 - 1566) https://nwcartographic.com/blogs/essays-articles/map-maker-biography-girolamo-ruscelli-1500-1566?srsltid=AfmBOoqhurR5ksWVq7fkQArMDJHcyDRy60DAEig9W3hbwDHJNEmLHZRq
