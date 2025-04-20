@@ -202,10 +202,6 @@
 
 - Firebase Studio — облачная среда разработки, в которой есть всё для создания приложений с искусственным интеллектом: инструменты для прототипирования, написания кода, тестирования, деплоя и мониторинга, основанная на ИИ-модели Gemini, которая помогает с разработкой пользовательского интерфейса, API и AI-пайплайна на каждом этапе работы, с возможностью создать 3 проекта бесплатно. https://firebase.studio/ https://cloud.google.com/blog/products/application-development/firebase-studio-lets-you-build-full-stack-ai-apps-with-gemini
 
-### MCP
-
-- https://mcp.so - это веб-сайт, который представляет собой крупнейшую коллекцию серверов MCP (Model Context Protocol)
-
 ### Поиск по ai инструментам
 
 - https://www.raghut.com/
@@ -883,6 +879,7 @@
 
 ### MCP
 
+- https://mcp.so - это веб-сайт, который представляет собой крупнейшую коллекцию серверов MCP (Model Context Protocol)
 - Connect any HTTP/REST API server using an Open API spec (v3) https://github.com/snaggle-ai/openapi-mcp-server
 - Docker container management and operations through MCP https://github.com/QuantGeekDev/docker-mcp
 - Interact with Postman API https://github.com/delano/postman-mcp-server
