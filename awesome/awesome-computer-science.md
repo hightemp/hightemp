@@ -38,5 +38,6 @@
 
 - The Fancy Algorithms That Make Your Computer Feel Smoother https://www.youtube.com/watch?v=O2tV9q6784k
 - Операционные системы
+    - [s3 | 2024] Операционные системы (hard), А. В. Романовский, лекция 1 https://www.youtube.com/watch?v=1UBUfpgotQE&list=PLd7QXkfmSY7ZJfhwUH4UfcXL8riSX-_xQ
     - [s3 | 2021] Операционные системы PRO | Лекция 1 https://www.youtube.com/watch?v=Rpbc83lew0E&list=PLd7QXkfmSY7afUPCdL2hzDi57b8FV9EZQ
     - Архитектура операционной систем - Лекция 1. Генезис операционных систем. Назначение ОС. Базовые принципы организации ОС - https://www.youtube.com/watch?v=GMlTmG2KJH4&list=PLlb7e2G7aSpT4SMpYl6uVYi13k0k9CBiq
