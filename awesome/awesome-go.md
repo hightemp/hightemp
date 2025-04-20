@@ -1744,6 +1744,7 @@
   - Golang Tutorial for Beginners | Full Go Course https://www.youtube.com/watch?v=yyUHQIec83I
   - Synchronization in Golang - Complete Guide https://www.youtube.com/watch?v=Xf1j0FGAYUY
   - Golang / Go Crash Course 03 | Implementing Clean Architecture principles in our REST API https://www.youtube.com/watch?v=Yg_ae0UvCv4
+  - Изучаем Golang. Урок 1. Основы + веб-сервер в 3 строки в конце урока! https://www.youtube.com/watch?v=G6eZaX_lgbQ&list=PLP19RjSHH4aE9pB77yT1PbXzftGsXFiGl
 - Подготовка к собеседованию
   - Golang 100 вопросов с собеседований. Подготовка Go разработчика Часть 1 https://www.youtube.com/watch?v=ZvaD-G5_3vQ
 - Аунтификация
