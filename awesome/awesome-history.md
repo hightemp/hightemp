@@ -191,6 +191,8 @@
 - Пьер Марешаль, Pierre Sylvain Maréchal
     - История России; Histoire de la Russie, réduite aux seuls faits importans; 1802
         - https://books.google.com/books?id=7dNdAAAAcAAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false
+- Le imprese illustri by Ruscelli, Girolamo, d. ca. 1565; Rampazetto, Francesco, fl. 1540-1576, printer
+    - https://archive.org/details/leimpreseillustr00rusc/page/n9/mode/2up
 
 ### Полезные ссылки
 
