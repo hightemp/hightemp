@@ -159,6 +159,7 @@
         - Аохеологическая карта России http://www.ckit.ru/maps/a15-akr.htm
 - Girolamo Ruscelli
     - https://en.wikipedia.org/wiki/Girolamo_Ruscelli
+    - Portrait of Girolamo Ruscelli https://www.artic.edu/artworks/188302/portrait-of-girolamo-ruscelli
 - Подборки
     - Самые интересные археологические музеи‑заповедники РоссииБолгар, Фанагория и другие места — свидетели ушедших цивилизаций https://experience.tripster.ru/articles/samye-interesnye-arheologicheskie-muzei-zapovedniki-rossii/
     - Важнейшие археологические находки России: 2021–2022 https://cleverrussia.ru/vazhnejshie-arheologicheskie-nahodki-rossii-2021-2022/
