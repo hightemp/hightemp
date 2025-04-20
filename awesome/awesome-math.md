@@ -45,3 +45,4 @@ Jupyter Notebook – это веб-приложение для создания 
 
 - Плейлисты
     - [s4 | 2022] Математический анализ, К. П. Кохась, лекция 1 | Свойства почти везде https://www.youtube.com/watch?v=ptP__OBHjnY&list=PLd7QXkfmSY7akj3hIeNTcldH1mKxemX5k
+    - [s4 | 2024] Теория вероятности, Алексей Блаженов, лекция 1 https://www.youtube.com/watch?v=R4CpdqyugwA&list=PLd7QXkfmSY7YAnZoL_ObK3STLZfal2wkX
