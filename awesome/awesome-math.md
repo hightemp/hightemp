@@ -47,3 +47,4 @@ Jupyter Notebook – это веб-приложение для создания 
     - [s4 | 2022] Математический анализ, К. П. Кохась, лекция 1 | Свойства почти везде https://www.youtube.com/watch?v=ptP__OBHjnY&list=PLd7QXkfmSY7akj3hIeNTcldH1mKxemX5k
     - [s4 | 2024] Теория вероятности, Алексей Блаженов, лекция 1 https://www.youtube.com/watch?v=R4CpdqyugwA&list=PLd7QXkfmSY7YAnZoL_ObK3STLZfal2wkX
     - [s1 | 2023] Дискретная математика, Д. Ю. Клёпов, лекция 3 https://www.youtube.com/watch?v=a6wpen1awlg&list=PLd7QXkfmSY7aPZVViLl0ilwRLWQUhD8jY
+    - [s5 | 2022] Математическая статистика, А. В. Блаженов, лекция 1 https://www.youtube.com/watch?v=fY-6H5UYYms&list=PLd7QXkfmSY7az1ji61udRscvJ_Zwnhl51
