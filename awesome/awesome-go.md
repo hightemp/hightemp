@@ -1741,6 +1741,7 @@
 - Обучающие видео
   - [s5 | 2024] Программирование на Go, Панасюк И.А., лекция 0 https://www.youtube.com/watch?v=lsyH3sz5qao&list=PLd7QXkfmSY7aBM9trLARvM9kRvLAy2WCI
   - [s5 | 2024] Программирование на Go, Панасюк И.А., практика 7 https://www.youtube.com/watch?v=XQWxOIzGJlQ
+  - [s3 | 2023] Go, Я.С.Журба, лекция 1 https://www.youtube.com/watch?v=p2oFkQ6dxfE&list=PLd7QXkfmSY7bTHq_Qa11ZSJNvas4tTwYY
   - Golang Tutorial for Beginners | Full Go Course https://www.youtube.com/watch?v=yyUHQIec83I
   - Synchronization in Golang - Complete Guide https://www.youtube.com/watch?v=Xf1j0FGAYUY
   - Golang / Go Crash Course 03 | Implementing Clean Architecture principles in our REST API https://www.youtube.com/watch?v=Yg_ae0UvCv4
