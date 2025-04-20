@@ -40,3 +40,8 @@ Jupyter Notebook – это веб-приложение для создания 
 ### Статьи
 
 - Markov Chain Monte Carlo Without all the Bullshit https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
+
+### Видео
+
+- Плейлисты
+    - [s4 | 2022] Математический анализ, К. П. Кохась, лекция 1 | Свойства почти везде https://www.youtube.com/watch?v=ptP__OBHjnY&list=PLd7QXkfmSY7akj3hIeNTcldH1mKxemX5k
