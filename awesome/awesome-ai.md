@@ -486,7 +486,6 @@
 ### Генерация музыки, Генерация аудио
 
 - https://www.udio.com/
-- Whisper WebGPU моментально распознает текст из аудио и видео и переведет на нужный язык https://huggingface.co/spaces/Xenova/whisper-webgpu https://github.com/xenova/transformers.js/tree/v3/examples/webgpu-whisper
 - Riffusion - музыкально-композиторская платформа с генеративными возможностями (загрузка собственных треков, изменение вокала или инструментала, персонализация под пользователя, генерация текстов песен и др.). https://www.riffusion.com/
 - SFXengine - интеллектуальная платформа для генерации звуковых эффектов с помощью искусственного интеллекта, позволяющая создавать звуки различных животных, техноэффекты и другие типы звуков с высокой степенью настраиваемости, удобным поиском и категоризацией, а также возможностью использования генерируемых звуков без ограничений авторского права. https://sfxengine.com/
 
@@ -527,6 +526,7 @@
 ### Распознавание речи
 
 - https://huggingface.co/spaces/Xenova/whisper-web
+- Whisper WebGPU моментально распознает текст из аудио и видео и переведет на нужный язык https://huggingface.co/spaces/Xenova/whisper-webgpu https://github.com/xenova/transformers.js/tree/v3/examples/webgpu-whisper
 
 ### Апскейл, upscale, Увелечитель разрешения 
 
