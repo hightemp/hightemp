@@ -1096,6 +1096,8 @@
 
 ### Видео
 
+- Агентные системы
+    - ВШЭ. Агентные системы и обучение с подр. Model-based Reinforcement Learning https://www.youtube.com/watch?v=gov2UNB2gIo&list=PLJyTG7NfyQ8lAH1QF2Frwq6aQdxyyIqAx
 - Остальное
     - How DeepSeek Rewrote the Transformer [MLA] https://www.youtube.com/watch?v=0VLAoVGf_74
     - GPT-2 from Scratch in C (Day 1/2) https://www.youtube.com/watch?v=d1LNUvkRMEg
@@ -1108,8 +1110,8 @@
     - Курс по безопасной разработке искусственного интеллекта - серия коротких обучающих видео DeepMind, посвященная вопросам безопасности и контроля за системами искусственного интеллекта, включающая введение в проблему, обзор подходов к достижению соответствия целям разработчиков (alignment), технические решения (обучение моделей, интерпретируемость, безопасные дизайн-паттерны, стресс-тестирование), а также институциональные методы управления рисками (оценка экзистенциальных рисков, лучшие практики). https://deepmindsafetyresearch.medium.com/introducing-our-short-course-on-agi-safety-1072adb7912c, https://youtube.com/playlist?list=PLw9kjlF6lD5UqaZvMTbhJB8sV-yuXu5eW&si=mSHlo4s7u6Q_aXSy
 - Исследования
     - Мои ОТКРЫТИЯ! Потратил $600 на 4000 НОВЕЙШИХ исследований GPT по промпт-инжинирингу https://www.youtube.com/watch?v=cMR2c3vQRAc
-- Остальное
 - Каналы
+    - Научные семинары по искусственному интеллекту https://www.youtube.com/@aiseminars/playlists
     - Сабрина Садиех https://www.youtube.com/@%D0%A1%D0%B0%D0%B1%D1%80%D0%B8%D0%BD%D0%B0%D0%A1%D0%B0%D0%B4%D0%B8%D0%B5%D1%85
     - Андрей Карпаты (https://www.youtube.com/andrejkarpathy) — идеально для новичков, плейлист из 10 уроков Zero to Hero обязателен к просмотру. 
     - Umar Jamil (https://www.youtube.com/@umarjamilai) — показывает как внедрять ML и LLM подходы с нуля. 
