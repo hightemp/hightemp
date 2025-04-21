@@ -1297,6 +1297,8 @@
   - Implementing a Sieve cache in Go https://medium.com/@mehul25/implementing-a-sieve-cache-in-go-9652cfa99278
 - Rate limiter
   - Building a simple rate limiter in Go https://dev.to/vivekalhat/rate-limiting-for-beginners-what-it-is-and-how-to-build-one-in-go-955
+- Финтех
+  - Best Practices for Building Fintech Apps in Go https://web.archive.org/web/20241114212332/https://dev.to/learngo/best-practices-for-building-fintech-apps-in-go-1ghl
 - Логгирование, Logging
   - Основное
     - Proposal: Structured Logging Golang Logging Libraries in 2025 https://uptrace.dev/blog/golang-logging
