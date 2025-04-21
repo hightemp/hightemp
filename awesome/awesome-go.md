@@ -687,6 +687,9 @@
       - Самоучитель по Go для начинающих. Часть 16. Тестирование кода и его виды. Table-driven подход. Параллельные тесты https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-16-testirovanie-koda-i-ego-vidy-table-driven-podhod-parallelnye-testy-2024-09-03
     - CLI
       - Testing CLI tools in Go https://bitfieldconsulting.com/posts/cli-testing
+    - Тестирование с базой данных
+      - PostgreSQL
+        - Testing with Go and PostgreSQL: ephemeral DBs (2024) https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/
     - Библиотеки тестирования
       - Mockery
         - Mocking with Mockery in Golang https://medium.com/the-sixt-india-blog/mocking-with-mockery-in-golang-949794372e99
