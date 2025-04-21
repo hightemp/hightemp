@@ -1693,6 +1693,7 @@
 - https://www.symbolcrash.com/category/golang/
 - https://huizhou92.com/tags/golang/
 - https://programmer.ink/topic/go
+- https://michael.stapelberg.ch/posts/
 
 ### Подкасты
 
