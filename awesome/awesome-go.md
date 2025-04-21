@@ -673,47 +673,6 @@
     - [Golang]Эталонный тест производительности https://under-sky-web.ru/post/golangetalonnyiy_test_proizvoditelnosti
     - Benchmark — тесты в Go https://habr.com/ru/articles/875476/
     - How Go Benchmark Actually Works https://substack.com/home/post/p-138797261
-  - Тестирование
-    - Основное
-      - Основы тестирования Go: простые тесты, testify и визуализация покрытия https://habr.com/ru/companies/otus/articles/739468/
-      - Тестирование исполняемого кода Go https://habr.com/ru/articles/728402/
-      - Go в примерах: Тестирование (Testing) https://gobyexample.com.ru/testing
-      - Go Testing? All You Need to Know Here https://blog.devtrovert.com/p/go-testing-all-you-need-to-know-here
-      - Finding Your Best Go Testing Framework https://medium.com/@dees3g/finding-your-best-go-testing-framework-5b5c6b299bd3
-      - Unit Test in Go: Best Practices for Easier Testing https://medium.com/@danarcahyadi21/unit-test-in-go-best-practices-for-easier-testing-79d194fe9a54
-      - Mocking https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking
-    - Table Driven Testing
-      - A Deep Dive into Table-Driven Testing in Golang https://substack.com/home/post/p-151441510
-      - Самоучитель по Go для начинающих. Часть 16. Тестирование кода и его виды. Table-driven подход. Параллельные тесты https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-16-testirovanie-koda-i-ego-vidy-table-driven-podhod-parallelnye-testy-2024-09-03
-    - CLI
-      - Testing CLI tools in Go https://bitfieldconsulting.com/posts/cli-testing
-    - Тестирование с базой данных
-      - PostgreSQL
-        - Testing with Go and PostgreSQL: ephemeral DBs (2024) https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/
-    - Библиотеки тестирования
-      - Mockery
-        - Mocking with Mockery in Golang https://medium.com/the-sixt-india-blog/mocking-with-mockery-in-golang-949794372e99
-      - GoMock
-        - Testing with GoMock: A Tutorial https://www.codecentric.de/en/knowledge-hub/blog/gomock-tutorial
-      - Testify
-        - Основное
-          - Step up Your Go App Testing Game With the Testify Framework https://semaphore.io/blog/testify-go
-          - Using the Testify toolkit https://www.jetbrains.com/help/go/using-the-testify-toolkit.html
-          - Top Go Modules: Writing Unit Tests with Testify https://jfrog.com/blog/top-go-modules-writing-unit-tests-with-testify/
-        - Mock
-          - GoMock vs. Testify: Mocking frameworks for Go https://www.codecentric.de/wissens-hub/blog/gomock-vs-testify
-          - How I Do Test External Service with Testify Mock https://mgufrone.medium.com/how-i-do-test-external-service-with-testify-mock-66ff8a0dab64
-          - Mocks in Go tests with Testify Mock https://dev.to/salesforceeng/mocks-in-go-tests-with-testify-mock-6pd
-          - GOLANG TESTING WITH STRETCHR/TESTIFY AND MOCKERY https://dev.to/truongpx396/golang-testing-with-stretchrtestify-and-mockery-5849
-          - More Mocking Techniques https://www.jetbrains.com/guide/go/tutorials/mock_testing_with_go/more_techniques/
-          - Mocking in Golang Using Testify https://blog.lamida.org/mocking-in-golang-using-testify/
-      - GoConvey
-      - Ginkgo
-      - Httpexpect
-      - Gomega
-      - Go-cmdtest
-    - Остальное
-      - Get Started Testing an API Built With Golang https://www.twilio.com/en-us/blog/get-started-testing-api-built-with-golang
   - Swiss Table
     - SwissTable: A High-Performance Hash Table Implementation https://dev.to/huizhou92/swisstable-a-high-performance-hash-table-implementation-1knc
     - SwissMap: A smaller, faster Golang Hash Table https://www.dolthub.com/blog/2023-03-28-swiss-map/
@@ -1372,18 +1331,55 @@
     - Testing in Go: Stop Leaking Files https://ieftimov.com/posts/testing-in-go-stop-leaking-files/
     - Testing in Go: Fixtures https://ieftimov.com/posts/testing-in-go-fixtures/
     - Testing in Go: Dependency Injection https://ieftimov.com/posts/testing-in-go-dependency-injection/
+    - Основы тестирования Go: простые тесты, testify и визуализация покрытия https://habr.com/ru/companies/otus/articles/739468/
+    - Тестирование исполняемого кода Go https://habr.com/ru/articles/728402/
+    - Go в примерах: Тестирование (Testing) https://gobyexample.com.ru/testing
+    - Go Testing? All You Need to Know Here https://blog.devtrovert.com/p/go-testing-all-you-need-to-know-here
+    - Finding Your Best Go Testing Framework https://medium.com/@dees3g/finding-your-best-go-testing-framework-5b5c6b299bd3
+    - Unit Test in Go: Best Practices for Easier Testing https://medium.com/@danarcahyadi21/unit-test-in-go-best-practices-for-easier-testing-79d194fe9a54
+    - Mocking https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking
+  - Тестирование с базой данных
+    - PostgreSQL
+      - Testing with Go and PostgreSQL: ephemeral DBs (2024) https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/
+  - Библиотеки тестирования
+    - Mockery
+      - Mocking with Mockery in Golang https://medium.com/the-sixt-india-blog/mocking-with-mockery-in-golang-949794372e99
+    - GoMock
+      - Testing with GoMock: A Tutorial https://www.codecentric.de/en/knowledge-hub/blog/gomock-tutorial
+      - How to Get Started with GoMock https://speedscale.com/blog/getting-started-gomock/
+      - Testing with GoMock: A Tutorial https://www.codecentric.de/wissens-hub/blog/gomock-tutorial
+      - Extending GoMock With Matchers https://manadart.github.io/posts/20150212.html
+    - Testify
+      - Основное
+        - Step up Your Go App Testing Game With the Testify Framework https://semaphore.io/blog/testify-go
+        - Using the Testify toolkit https://www.jetbrains.com/help/go/using-the-testify-toolkit.html
+        - Top Go Modules: Writing Unit Tests with Testify https://jfrog.com/blog/top-go-modules-writing-unit-tests-with-testify/
+      - Mock
+        - GoMock vs. Testify: Mocking frameworks for Go https://www.codecentric.de/wissens-hub/blog/gomock-vs-testify
+        - How I Do Test External Service with Testify Mock https://mgufrone.medium.com/how-i-do-test-external-service-with-testify-mock-66ff8a0dab64
+        - Mocks in Go tests with Testify Mock https://dev.to/salesforceeng/mocks-in-go-tests-with-testify-mock-6pd
+        - GOLANG TESTING WITH STRETCHR/TESTIFY AND MOCKERY https://dev.to/truongpx396/golang-testing-with-stretchrtestify-and-mockery-5849
+        - More Mocking Techniques https://www.jetbrains.com/guide/go/tutorials/mock_testing_with_go/more_techniques/
+        - Mocking in Golang Using Testify https://blog.lamida.org/mocking-in-golang-using-testify/
+    - GoConvey
+    - Ginkgo
+    - Httpexpect
+    - Gomega
+    - Go-cmdtest
+  - CLI
+    - Testing CLI tools in Go https://bitfieldconsulting.com/posts/cli-testing
+  - API
+    - Get Started Testing an API Built With Golang https://www.twilio.com/en-us/blog/get-started-testing-api-built-with-golang
   - Бенчмарки, Benchmarks
     - Leveraging benchstat Projections in Go Benchmark Analysis! https://www.bwplotka.dev/2024/go-microbenchmarks-benchstat/
   - net/http
     - https://gosamples.dev/e2e-httptest/
   - Table Driven Testing, Табличные тесты
     - Table Driven Testing In Parallel https://gopherguides.com/articles/table-driven-testing-in-parallel
+    - A Deep Dive into Table-Driven Testing in Golang https://substack.com/home/post/p-151441510
+    - Самоучитель по Go для начинающих. Часть 16. Тестирование кода и его виды. Table-driven подход. Параллельные тесты https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-16-testirovanie-koda-i-ego-vidy-table-driven-podhod-parallelnye-testy-2024-09-03
   - Покрытие тестами, test caverage
     - Визуализация покрытия автотестами для gRPC сервисов https://habr.com/ru/articles/845020/
-  - gomock
-    - How to Get Started with GoMock https://speedscale.com/blog/getting-started-gomock/
-    - Testing with GoMock: A Tutorial https://www.codecentric.de/wissens-hub/blog/gomock-tutorial
-    - Extending GoMock With Matchers https://manadart.github.io/posts/20150212.html
   - Параллелизм
     - Параллелизм в Go тестах: все, что нужно знать о -p, -parallel и t.Parallel() https://habr.com/ru/articles/882222/
   - Остальное
