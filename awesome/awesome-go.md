@@ -509,6 +509,7 @@
       - Mastering Generics In Go: A Comprehensive Tutorial https://www.kelche.co/blog/go/golang-generics/
       - Mastering Generics in Go: A Comprehensive Guide https://medium.com/hprog99/mastering-generics-in-go-a-comprehensive-guide-4d05ec4b12b
       - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
+      - Are Golang Generics Simple or Incomplete? A Design Study https://www.dolthub.com/blog/2024-11-22-are-golang-generics-simple-or-incomplete-1/
   - Итераторы
     - Развлекаемся с итераторами в Go https://habr.com/ru/companies/beget/articles/852940/
     - Understanding Iterators in Go: A Fun Dive! https://dev.to/tuna99/understanding-iterators-in-go-a-fun-dive-1c57
