@@ -749,6 +749,7 @@
   - A Basic Algo Trading System In Rust: Part I https://medium.com/rustaceans/a-basic-algo-trading-system-in-rust-26a1c5488d47
   - Build your own SQLite, Part 1: Listing tables https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables
   - Build your own SQLite, Part 2: Scanning large tables https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables
+  - Build your own SQLite, Part 3: SQL parsing 101 https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101
   - Rust в деталях: пишем масштабируемый чат с нуля, часть 1 https://habr.com/ru/articles/268609/
 - Подборки
   - ТОП-10 книг о языке программирования Rust: от новичка до профессионала https://proglib.io/p/top-10-knig-o-yazyke-programmirovaniya-rust-ot-novichka-do-professionala-2021-12-06
