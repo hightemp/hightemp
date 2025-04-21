@@ -111,6 +111,7 @@
     - epoll
         - epoll(7) — Linux manual page https://man7.org/linux/man-pages/man7/epoll.7.html
         - What is epoll? https://medium.com/@avocadi/what-is-epoll-9bbc74272f7c
+        - The method to epoll’s madness https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642
         - Async IO on Linux: select, poll, and epoll https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/
         - Epoll is fundamentally broken 1/2 https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/
         - Epoll is fundamentally broken 2/2 https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/
