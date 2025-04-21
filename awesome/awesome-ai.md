@@ -522,6 +522,10 @@
 - https://app.illuminarty.ai/
 - https://hivemoderation.com/ai-generated-content-detection
 
+### Детектор ai для текста
+
+- https://retext.ai/ru/ai-detector
+
 ### Распознавание речи
 
 - https://huggingface.co/spaces/Xenova/whisper-web
