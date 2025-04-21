@@ -694,6 +694,7 @@
   - Makefile
     - Пример создания Makefile для Go-приложений https://habr.com/ru/articles/461467/
   - Остальное
+    - Getting a pointer to a constant in Go https://xeiaso.net/notes/2024/go-pointer-constant/
     - 12 Personal Go Tricks That Transformed My Productivity https://substack.com/home/post/p-136328101
     - What's in the box!? Исследуем минимальное количество тредов golang-программы https://habr.com/ru/articles/888384/
     - The Top 10 Most Common Mistakes I’ve Seen in Go Projects https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
