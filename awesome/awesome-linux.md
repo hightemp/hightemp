@@ -222,6 +222,11 @@
         - Capabilities (Русский) https://wiki.archlinux.org/title/Capabilities_(Русский)
     - capsh
         - capsh command https://linux-audit.com/system-administration/commands/capsh/
+- Утилиты
+    - rsync
+        - rsync, article 1: Scenarios (2022) https://michael.stapelberg.ch/posts/2022-06-18-rsync-article-1-scenarios/
+        - rsync, article 2: Surroundings (2022) https://michael.stapelberg.ch/posts/2022-07-02-rsync-surroundings/
+        - rsync, article 3: How does rsync work? (2022) https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/
 - getfattr, setfattr
 - setfacl, getfacl
 - setpriv
