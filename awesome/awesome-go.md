@@ -1025,6 +1025,7 @@
     - Остальное
       - Golang HTTP server: basics https://medium.com/@bartosz.piekny/golang-http-server-basics-6936ddab7474
   - Остальное
+    - The Magic Behind Go's Lightweight Goroutines https://hadar.gr/2017/lightweight-goroutines
     - Building an Event Loop in Go with kqueue: I/O Multiplexing from Scratch https://medium.com/@smafjal/io-multiplexing-in-go-14917eb4258f
     - Under the hood of TCP Socket Implementation On Golang https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
 - Траблшутинг
