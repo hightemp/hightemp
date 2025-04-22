@@ -25,6 +25,8 @@
         - ГЛАВА 4 Процессы и потоки https://vv303.narod.ru/files/inst/olifer/chapter4/default.htm
     - Потоки
         - Шаг 64. Потоки https://it.kgsu.ru/Asm_32/as32_064.html
+    - Остальное
+        - Lecture 19: Events, Threads, and Asynchronous I/O https://web.stanford.edu/class/archive/cs/cs110/cs110.1202/static/lectures/19-events-threads.pdf
 - Прерывания
     - Chapter 12: Interrupts Embedded Systems - Shape The World Modified to be compatible with EE319K Lab 6 Jonathan Valvano and Ramesh Yerraballi https://users.ece.utexas.edu/~valvano/Volume1/E-Book/C12_Interrupts.htm
 - Context Switching, Смена контекста
