@@ -625,6 +625,7 @@
     - Garbage Collection In Go : Part II - GC Traces https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
     - Garbage Collection In Go : Part III - GC Pacing https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html
     - Garbage Collection https://github.com/ardanlabs/gotraining/tree/master/reading#garbage-collection
+    - GC Pacer Redesign https://github.com/golang/proposal/blob/master/design/44167-gc-pacer-redesign.md
   - Go Race detector
     - Data Race Detector https://go.dev/doc/articles/race_detector
   - Go Assembly
