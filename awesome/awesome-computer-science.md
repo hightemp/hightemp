@@ -20,10 +20,11 @@
         - Stack vs Heap: Understanding Memory Allocation in Programming https://medium.com/huawei-developers/stack-vs-heap-understanding-memory-allocation-in-programming-a83a54901416
         - Stack vs Heap Memory Allocation https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/?ysclid=m9gxaq184a683232825
 - Сортировки
-    - Три теоремы о сортировках https://habr.com/ru/articles/893452/
-    - DeepMind Paper: AlphaDev discovers faster sorting algorithms https://substack.com/home/post/p-135532204?utm_campaign=post&utm_medium=web
-    - A lower bound on sorting https://kanaye.substack.com/p/a-lower-bound-on-sorting
-    - The sorting problem https://kanaye.substack.com/p/the-sorting-problem
+    - Основное
+        - Три теоремы о сортировках https://habr.com/ru/articles/893452/
+        - DeepMind Paper: AlphaDev discovers faster sorting algorithms https://substack.com/home/post/p-135532204?utm_campaign=post&utm_medium=web
+        - A lower bound on sorting https://kanaye.substack.com/p/a-lower-bound-on-sorting
+        - The sorting problem https://kanaye.substack.com/p/the-sorting-problem
 - Фильтр Блума
 - Потоки и Процессы
     - Основное
