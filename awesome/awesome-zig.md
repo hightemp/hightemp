@@ -22,6 +22,7 @@
 - Zig Standard Library Documentation https://ziglang.org/documentation/master/std/#A;std
 - Learn the ⚡Zig programming language by fixing tiny broken programs. https://codeberg.org/ziglings/exercises/#ziglings
 - https://zighelp.org/
+- https://github.com/dee0xeed/learning-zig-rus
 
 ### Курсы
 
