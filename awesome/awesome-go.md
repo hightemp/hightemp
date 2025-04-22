@@ -621,6 +621,9 @@
     - Reflections in Go https://go101.org/article/reflection.html
   - Go GC
     - GC в Go: приоритет на скорость и простоту https://habr.com/ru/articles/265833/
+    - Garbage Collection In Go : Part I - Semantics https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
+    - Garbage Collection In Go : Part II - GC Traces https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
+    - Garbage Collection In Go : Part III - GC Pacing https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html
   - Go Race detector
     - Data Race Detector https://go.dev/doc/articles/race_detector
   - Go Assembly
