@@ -837,6 +837,7 @@
 - Syscall
   - Syscall и cgo в Go https://habr.com/ru/companies/otus/articles/886062/
 - Примеры создания приложения или сервиса, Примеры приложений
+  - Разработка менеджера закачек на GO https://habr.com/ru/articles/267943/
   - How to Easily Handle 200k RPS with Golang https://medium.com/@nikitaburov/how-to-easily-handle-200k-rps-with-golang-8b62967a01dd
   - Создание микросервисного приложения на Go по принципу CQRS https://sefus.ru/go-microservices-cqrs-docker/
   - Modern Web Development with Go: A Lightweight Alternative to React SSR https://engineering.turistikrota.com/modern-web-development-with-go-a-lightweight-alternative-to-react-ssr-cccce8631773
