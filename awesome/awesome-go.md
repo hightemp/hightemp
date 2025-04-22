@@ -619,7 +619,9 @@
     - A Deep Dive Into Reflection in Go https://umatechnology.org/a-deep-dive-into-reflection-in-go/
     - Introduction to Go’s Reflection API: Dynamic Programming in GoLang https://clouddevs.com/go/reflection-api/    
     - Reflections in Go https://go101.org/article/reflection.html
-  - Go race detector
+  - Go GC
+    - GC в Go: приоритет на скорость и простоту https://habr.com/ru/articles/265833/
+  - Go Race detector
     - Data Race Detector https://go.dev/doc/articles/race_detector
   - Go Assembly
     - Основное
