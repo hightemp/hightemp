@@ -24,6 +24,7 @@
     - DeepMind Paper: AlphaDev discovers faster sorting algorithms https://substack.com/home/post/p-135532204?utm_campaign=post&utm_medium=web
     - A lower bound on sorting https://kanaye.substack.com/p/a-lower-bound-on-sorting
     - The sorting problem https://kanaye.substack.com/p/the-sorting-problem
+- Фильтр Блума
 - Потоки и Процессы
     - Основное
         - ГЛАВА 4 Процессы и потоки https://vv303.narod.ru/files/inst/olifer/chapter4/default.htm
