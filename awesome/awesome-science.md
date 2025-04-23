@@ -167,6 +167,9 @@
 
 ### Статьи
 
+- Электроника
+    - Пямять
+        - Subnanosecond flash memory enabled by 2D-enhanced hot-carrier injection https://www.nature.com/articles/s41586-025-08839-w
 - Остальное
     - Лошадь стала домашней только один раз https://www.mcb.nsc.ru/history/media/1513
     - ABC's of Nuclear Science https://www2.lbl.gov/abc/Basic.html
