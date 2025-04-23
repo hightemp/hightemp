@@ -309,6 +309,7 @@
 - https://code-basics.com/ru/languages/go/lessons/funcs
 - https://golangify.com/go/kurs-izucheniya-golang-dlya-nachinayuschih
 - Go generics the hard way https://github.com/akutz/go-generics-the-hard-way
+- https://olezhek28.courses/free-lesson
 
 ### Гайды
 
