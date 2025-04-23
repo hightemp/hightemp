@@ -600,12 +600,16 @@
   - Сompiler directives, Директивы компилятора, magic comments
     - Основное
       - Go’s hidden #pragmas https://dave.cheney.net/2018/01/08/gos-hidden-pragmas
+      - Compiler Directives https://gcc.gnu.org/onlinedocs/gcc-11.1.0/gccgo/Compiler-Directives.html
     - //go:embed
       - Embedding files in Go using the "embed" package https://echorand.me/posts/go-embed/
       - Using Go Embed https://www.bytesizego.com/blog/go-embed
     - //go:inline //go:noinline
     - //go:nosplit //go:split
     - //go:norace
+    - //go:systemstack
+    - //go:nowritebarrier
+    - //go:uintptrkeepalive
     - //go:generate
       - Generating code Rob Pike https://go.dev/blog/generate
       - Генерация кода в Go https://habr.com/ru/articles/269887/
