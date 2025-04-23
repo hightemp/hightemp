@@ -601,6 +601,7 @@
     - Основное
       - Go’s hidden #pragmas https://dave.cheney.net/2018/01/08/gos-hidden-pragmas
       - Compiler Directives https://gcc.gnu.org/onlinedocs/gcc-11.1.0/gccgo/Compiler-Directives.html
+      - Go compiler declaration “// Go” https://dev.mo4tech.com/go-compiler-declaration-go.html
     - //go:embed
       - Embedding files in Go using the "embed" package https://echorand.me/posts/go-embed/
       - Using Go Embed https://www.bytesizego.com/blog/go-embed
