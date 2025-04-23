@@ -498,6 +498,7 @@
     - Обработка ошибок в Go — Не традиционный подход https://habr.com/ru/articles/880892/
   - Дженерики; Generics
     - Основное
+      - Tutorial: Getting started with generics https://go.dev/doc/tutorial/generics
       - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
       - Go Generics cheatsheet https://gosamples.dev/generics-cheatsheet/
       - Go generics https://zetcode.com/golang/generics/
