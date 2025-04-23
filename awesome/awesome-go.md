@@ -625,6 +625,8 @@
     - A Deep Dive Into Reflection in Go https://umatechnology.org/a-deep-dive-into-reflection-in-go/
     - Introduction to Go’s Reflection API: Dynamic Programming in GoLang https://clouddevs.com/go/reflection-api/    
     - Reflections in Go https://go101.org/article/reflection.html
+  - Go Linker
+    - Building a better Go linker https://docs.google.com/document/d/1D13QhciikbdLtaI67U6Ble5d_1nsI4befEd6_k1z91U/edit?tab=t.0#heading=h.g4m43nddv64t
   - Go GC
     - GC в Go: приоритет на скорость и простоту https://habr.com/ru/articles/265833/
     - Garbage Collection In Go : Part I - Semantics https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
