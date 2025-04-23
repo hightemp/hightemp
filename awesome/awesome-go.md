@@ -1736,6 +1736,7 @@
 - https://programmer.ink/topic/go
 - https://michael.stapelberg.ch/posts/
 - https://eklitzke.org/
+- https://dev.mo4tech.com/tag/go
 
 ### Подкасты
 
