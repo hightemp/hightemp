@@ -502,6 +502,7 @@
       - Go generics https://zetcode.com/golang/generics/
       - When To Use Generics https://go.dev/blog/when-generics
       - GENERICS IN GO https://www.golang101.com/advanced-go-concepts/generics/
+      - Дженерики в go https://habr.com/ru/companies/otus/articles/782414/
     - Tilde
       - Tilde ~ https://github.com/akutz/go-generics-the-hard-way/blob/main/03-getting-started/06-tilde.md
       - Tilde Operator in Go https://towardsdev.com/tilde-operator-in-go-7325a6988790
