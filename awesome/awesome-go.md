@@ -499,6 +499,7 @@
   - Дженерики; Generics
     - Основное
       - Туториал по дженерикам в Go https://kovardin.ru/articles/go/generics/
+      - Самоучитель по Go для начинающих. Часть 12. Обобщенное программирование. Дженерики https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-12-obobshchennoe-programmirovanie-dzheneriki-2024-05-03
       - Tutorial: Getting started with generics https://go.dev/doc/tutorial/generics
       - Go Generics: Everything You Need To Know https://medium.com/the-godev-corner/go-generics-everything-you-need-to-know-52dd3796d8a1
       - Go Generics cheatsheet https://gosamples.dev/generics-cheatsheet/
