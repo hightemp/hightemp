@@ -609,6 +609,7 @@
     - //go:compile go_name extern_name
     - //go:inline //go:noinline
     - //go:nosplit //go:split
+      - Go directives https://www.conner.dev/blog/go-directives
     - //go:norace
     - //go:systemstack
     - //go:nowritebarrier
