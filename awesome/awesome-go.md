@@ -587,6 +587,7 @@
         - Working with Time Data in Go https://levelup.gitconnected.com/time-in-go-b5da2f3a4bea
         - Golang — Time utility functions you will always need https://medium.com/canopas/golang-time-utility-functions-you-will-always-need-d7840d091468
         - The complete guide to dates and times in Go https://www.honeybadger.io/blog/complete-guide-to-dates-and-times-in-go/
+        - Математические операции над временем в Golang https://golangify.com/add-date-time
       - time.Now
         - Do you really understand time.Now()? https://articles.singee.me/golang-time
       - Остальное
