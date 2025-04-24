@@ -1444,8 +1444,10 @@
     - Визуализация покрытия автотестами для gRPC сервисов https://habr.com/ru/articles/845020/
   - Параллелизм
     - Параллелизм в Go тестах: все, что нужно знать о -p, -parallel и t.Parallel() https://habr.com/ru/articles/882222/
-  - Остальное
+  - Mocking time
     - Mocking time and testing event loops in Go https://dmitryfrank.com/articles/mocking_time_in_go
+    - Testing and Mocking Time in Go https://golang.howtos.io/testing-and-mocking-time-in-go/
+  - Остальное
     - Как не укусить себя за хвост во время написания функциональных тестов на Go https://habr.com/ru/companies/sberbank/articles/882060/
     - Как мы ускорили Golang-тесты на CI https://habr.com/ru/companies/kuper/articles/806725/
     - Optimising and Visualising Go Tests Parallelism: Why more cores don't speed up your Go tests https://threedots.tech/post/go-test-parallelism
