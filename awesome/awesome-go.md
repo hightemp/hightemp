@@ -577,6 +577,9 @@
         - Go Runtime Finalizer and Keep Alive https://victoriametrics.com/blog/go-runtime-finalizer-keepalive/
     - sys
       - sys.Prefetch
+    - golang.org/x/time
+      - time/rate
+        - A Guide to Go's `x/time` Package: Advanced Time Operations https://reintech.io/blog/guide-to-golang-x-time-package-advanced-time-operations
     - time
       - Основное
         - How Do They Do It: Timers in Go https://blog.gopheracademy.com/advent-2016/go-timers/
