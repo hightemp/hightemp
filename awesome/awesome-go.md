@@ -592,6 +592,10 @@
         - Самоучитель по Go для начинающих. Часть 13. Работа с датой и временем. Пакет time https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-13-rabota-s-datoy-i-vremenem-paket-time-2024-06-26?ysclid=m9v38bvgpl262344140
       - time.Now
         - Do you really understand time.Now()? https://articles.singee.me/golang-time
+      - time.After
+        - Ставим лимит на время выполнения программы (Timeout) https://golangify.com/code-timeout
+      - time.NewTimer
+        - Go: Ticker vs Timer https://dev.to/ankitmalikg/go-ticker-vs-timer-4glb
       - Остальное
         - How to parse a time or date in Go https://www.willem.dev/articles/how-to-parse-time-date/
         - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
