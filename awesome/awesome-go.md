@@ -599,6 +599,7 @@
     - json
       - How To Pretty-Print JSON in Go https://www.kelche.co/blog/go/golang-json-pretty-print/
       - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
+      - Маршалинг и анмаршалинг нестандартных форматов дат в Go https://habr.com/ru/articles/492996/
   - Комментарии
     - Go Doc Comments https://tip.golang.org/doc/comment
   - Сompiler directives, Директивы компилятора, magic comments
