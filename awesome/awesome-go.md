@@ -626,13 +626,14 @@
       - Go compiler declaration “// Go” https://dev.mo4tech.com/go-compiler-declaration-go.html
       - Golang compiler //go: parsing https://programmersought.com/article/84394394619/
       - Compiler Directives https://andrewwphillips.github.io/blog/directive.html
+    - gccgo
+      - //line file:line
+      - //extern extern_name
+      - //go:compile go_name extern_name
     - //go:debug
     - //go:embed
       - Embedding files in Go using the "embed" package https://echorand.me/posts/go-embed/
       - Using Go Embed https://www.bytesizego.com/blog/go-embed
-    - //line file:line
-    - //extern extern_name
-    - //go:compile go_name extern_name
     - //go:inline //go:noinline
     - //go:nosplit //go:split
       - Go directives https://www.conner.dev/blog/go-directives
