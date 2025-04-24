@@ -596,6 +596,7 @@
         - Ставим лимит на время выполнения программы (Timeout) https://golangify.com/code-timeout
       - time.NewTimer
         - Go: Ticker vs Timer https://dev.to/ankitmalikg/go-ticker-vs-timer-4glb
+        - Master Timer in Go: A Simple Guide in Just 4 Easy Steps https://everythingcoding.in/timer-in-go/
       - Остальное
         - How to parse a time or date in Go https://www.willem.dev/articles/how-to-parse-time-date/
         - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
