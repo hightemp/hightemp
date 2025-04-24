@@ -409,11 +409,6 @@
     - Понимание контекста https://habr.com/ru/articles/864348/
     - Golang Context (A Complete Guide) https://www.kelche.co/blog/go/golang-context/
     - Golang standard library context Context https://programmer.ink/think/golang-standard-library-context-context.html
-  - Unsafe
-    - Обзор пакета unsafe: как обходить ограничения Go (но лучше этого не делать) https://habr.com/ru/companies/otus/articles/862854/
-    - Type-Unsafe Pointers https://go101.org/article/unsafe.html
-    - An Introduction to Go's unsafe Package: Unsafe Operations https://reintech.io/blog/introduction-to-gos-unsafe-package
-    - Manual Memory Management Techniques using unsafe in Go https://www.codingexplorations.com/blog/manual-memory-management-techniques-using-unsafe-in-go
   - Указатели; Pointers
     - A Comprehensive Guide to Pointers in Go https://medium.com/@jamal.kaksouri/a-comprehensive-guide-to-pointers-in-go-4acc58eb1f4d
     - Are Pointers in Go Faster Than Values? https://blog.boot.dev/golang/pointers-faster-than-values/
@@ -460,37 +455,12 @@
   - Тэги, Tags
     - Struct Tags in Go: Implementing Custom Tag Functionality https://medium.com/@ullauri.byron/struct-tags-in-go-implementing-custom-tag-functionality-b32c3c87423d
     - Структурные теги в golang http://xztvc.ru/post/strukturnye-tegi-v-golang
-  - JSON
-    - How To Pretty-Print JSON in Go https://www.kelche.co/blog/go/golang-json-pretty-print/
-    - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
-  - Unique
-    - Основное
-      - Inside Go's Unique Package: String Interning Simplified https://victoriametrics.com/blog/go-unique-package-intern-string/index.html
-    - Остальное
-      - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
-      - Exploring the New Unique Package in Go 1.23 https://www.bytesizego.com/blog/go-1-23-unique-package
-    - Interning
-      - New unique package https://go.dev/blog/unique
-      - Interning in Go https://medium.com/google-cloud/interning-in-go-4319ea635002
-  - plugin
-    - Getting started with Go plugin package https://echorand.me/posts/getting-started-with-golang-plugins/
-    - Go и плагины https://habr.com/ru/articles/647623/
-    - Пишем модульную Go программу с плагинами https://kovardin.ru/articles/go/plugins/
-    - Pluggable Architecture in About 300 Lines of Code https://haykot.dev/blog/pluggable-architecture-in-about-300-lines-of-code/
-  - regexp
-    - Коротко про regexp в Go https://habr.com/ru/companies/otus/articles/889320/
   - init
     - \[Memo\] Go init behavior https://articles.singee.me/go-init-behaviour
     - Understanding Init Function in Go With Examples https://linuxhandbook.com/go-init-function/
   - Templates, Шаблоны
     - GO templates https://golangforall.com/ru/post/templates.html
     - Golang Templates-1: Introduction https://medium.com/@back_to_basics/golang-template-1-bcb690165663
-  - Error
-    - Mastering Golang — Part 8: Error Handling https://blog.stackademic.com/mastering-golang-part-8-error-handling-4012a62ad0cb
-    - Advanced error handling strategies in Go https://medium.com/@guilhermemls/advanced-error-handling-strategies-in-go-12ef4ee621d7
-    - Errors, Errors Everywhere: How We Centralized and Structured Error Handling https://olivernguyen.io/w/namespace.error/
-    - ErrorHandling-патерн в golang https://habr.com/ru/articles/871394/
-    - Обработка ошибок в Go — Не традиционный подход https://habr.com/ru/articles/880892/
   - Дженерики; Generics
     - Основное
       - Туториал по дженерикам в Go https://kovardin.ru/articles/go/generics/
@@ -514,91 +484,121 @@
   - Итераторы
     - Развлекаемся с итераторами в Go https://habr.com/ru/companies/beget/articles/852940/
     - Understanding Iterators in Go: A Fun Dive! https://dev.to/tuna99/understanding-iterators-in-go-a-fun-dive-1c57
-  - Errors, Ошибки
-    - Работа с ошибками в Go 1.13 https://habr.com/ru/companies/vk/articles/473658/
   - iota
     - 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
-  - fmt
-    - Основное
-      - The Power of Format Specifiers in Golang https://medium.com/@sahaidachnyi/format-specifiers-in-golang-d7f8d4fe88b8
-      - Mastering Text Formatting and Output with Go's fmt Package https://www.codingexplorations.com/blog/mastering-text-formatting-and-output-with-gos-fmt-package
-      - Mastering String formatting in Go https://www.bytesizego.com/blog/golang-format-string
-      - GoLang’s FMT Library: An In-Depth Guide with Examples https://medium.com/@chaewonkong/golangs-fmt-library-an-in-depth-guide-with-examples-4d1031613ea0
-      - Stop Using fmt.Println() for Everything – Learn These Go fmt Tricks Instead https://medium.com/@emusbeny/stop-using-fmt-println-for-everything-learn-these-go-fmt-tricks-instead-e201c0766088
-    - fmt.Printf
-      - A Deep Dive into fmt Printf in Golang https://www.kosli.com/blog/a-deep-dive-into-fmt-printf-in-golang/
-    - fmt.Sprintf
-      - fmt.Sprintf vs String Concat https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/
-    - fmt.Errorf
-      - What is the golang Errorf function? https://how.dev/answers/what-is-the-golang-errorf-function
-      - GoLang error handling explained https://medium.com/@sriniwasx/golang-error-handling-for-newbies-e468a40178f6
-  - bytes
-    - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
-  - sync
-    - Основное
-      - Sync Package: What Are New Features in Golang sync.Once? https://reliasoftware.com/blog/new-features-in-golang-sync-once
-      - A Closer Look at Go’s sync Package https://teivah.medium.com/a-closer-look-at-go-sync-package-9f4e4a28c35a
-    - sync/atomic
-      - Go: жарим общие данные. Атомно, быстро и без мьютексов https://habr.com/ru/companies/ruvds/articles/833264/
-    - sync.Mutex
-      - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
-      - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
-      - Go mutex (sync.Mutex) and read / write lock (sync.RWMutex) https://programmer.ink/think/go-mutex-sync.mutex-and-read-write-lock-sync.rwmutex.html
-    - sync.Cond
-      - Go sync.Cond, the Most Overlooked Sync Mechanism https://victoriametrics.com/blog/go-sync-cond/index.html
-    - sync.semaphore
-      - Go Concurrency Visually Explained — Semaphore https://blog.stackademic.com/go-concurrency-visually-explained-semaphore-3ffe23f11388
-      - Go’s Extended Concurrency: Semaphores (Part 1) https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce
-    - sync.Map
-      - Go sync.Map: The Right Tool for the Right Job https://victoriametrics.com/blog/go-sync-map/index.html
-      - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
-    - sync.Pool
-      - Go sync.Pool and the Mechanics Behind It https://victoriametrics.com/blog/go-sync-pool/index.html
-      - How did I improve latency by 700% using sync.Pool https://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/
-      - Performance optimization techniques in time series databases: sync.Pool for CPU-bound operations https://victoriametrics.com/blog/tsdb-performance-techniques-sync-pool/
-      - Reference Counting in Go https://www.hydrogen18.com/blog/reference-counted-pool-golang.html
-      - Use `sync.Pool` to reduce memory consumption https://blog.unknowntpo.me/syncpool/
-    - sync.WaitGroup
-      - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
-    - sync.Once
-      - Go sync.Once is Simple... Does It Really? https://victoriametrics.com/blog/go-sync-once/
-  - runtime
-    - Основное
-      - The very useful runtime package in golang 🏎🏎🏎 https://dev.to/freakynit/the-very-useful-runtime-package-in-golang-5b16
-    - runtime.Goexit
-      - Graceful Goroutine Exits with runtime.Goexit() in Go https://medium.com/@hatronix/graceful-goroutine-exits-with-runtime-goexit-in-go-ee3dc2d4cd57
-    - runtime.Gosched
-      - Mastering Concurrency with runtime.Gosched() in Go https://medium.com/@hatronix/mastering-concurrency-with-runtime-gosched-in-go-3b88e2eea07b
-    - runtime.GC
-      - Garbage collection in Go https://chayandatta.medium.com/garbage-collection-in-go-959b4c164c42
-    - runtime.LockOSThread
-    - runtime.NumCPU
-    - runtime.ReadMemStats
-    - runtime.KeepAlive
-      - Go: Keeping a Variable Alive https://medium.com/a-journey-with-go/go-keeping-a-variable-alive-c28e3633673a
-    - runtime.SetFinalizer
-      - Go Runtime Finalizer and Keep Alive https://victoriametrics.com/blog/go-runtime-finalizer-keepalive/
-  - sys
-    - sys.Prefetch
-  - time
-    - Основное
-      - How Do They Do It: Timers in Go https://blog.gopheracademy.com/advent-2016/go-timers/
-      - Time in Go: A Comprehensive Overview with Examples https://medium.com/@rezauditore/mastering-time-in-golang-a-comprehensive-guide-76a146981d9c
-      - Working with Time Data in Go https://levelup.gitconnected.com/time-in-go-b5da2f3a4bea
-      - Golang — Time utility functions you will always need https://medium.com/canopas/golang-time-utility-functions-you-will-always-need-d7840d091468
-    - time.Now
-      - Do you really understand time.Now()? https://articles.singee.me/golang-time
-    - Остальное
-      - How to parse a time or date in Go https://www.willem.dev/articles/how-to-parse-time-date/
-      - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
-      - Working With Time in Golang https://www.bytesizego.com/blog/golang-time
-      - Comprehensive Guide to Dates and Times in Go https://dev.to/bootdotdev/comprehensive-guide-to-dates-and-times-in-go-dpn
-  - flag
-    - Основное
-      - Command-Line Arguments in Go: How to Use the Flag Library https://leapcell.medium.com/command-line-arguments-in-go-how-to-use-the-flag-library-0975f9319c6a
-  - archive
-    - How to zip and unzip a directory in Go https://blog.nuculabs.de/posts/2025/2025-04-01-how-to-zip-and-unzip-a-directory-go/
-    - Golang Zip File Example https://golang.cafe/blog/golang-zip-file-example.html
+  - Пакеты стандартной библиотеки
+    - unsafe
+      - Обзор пакета unsafe: как обходить ограничения Go (но лучше этого не делать) https://habr.com/ru/companies/otus/articles/862854/
+      - Type-Unsafe Pointers https://go101.org/article/unsafe.html
+      - An Introduction to Go's unsafe Package: Unsafe Operations https://reintech.io/blog/introduction-to-gos-unsafe-package
+      - Manual Memory Management Techniques using unsafe in Go https://www.codingexplorations.com/blog/manual-memory-management-techniques-using-unsafe-in-go
+    - unique
+      - Основное
+        - Inside Go's Unique Package: String Interning Simplified https://victoriametrics.com/blog/go-unique-package-intern-string/index.html
+      - Остальное
+        - Reduce allocations and comparison performance with the new unique package in Go 1.23 https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23
+        - Exploring the New Unique Package in Go 1.23 https://www.bytesizego.com/blog/go-1-23-unique-package
+      - Interning
+        - New unique package https://go.dev/blog/unique
+        - Interning in Go https://medium.com/google-cloud/interning-in-go-4319ea635002
+    - errors
+      - Работа с ошибками в Go 1.13 https://habr.com/ru/companies/vk/articles/473658/
+      - Mastering Golang — Part 8: Error Handling https://blog.stackademic.com/mastering-golang-part-8-error-handling-4012a62ad0cb
+      - Advanced error handling strategies in Go https://medium.com/@guilhermemls/advanced-error-handling-strategies-in-go-12ef4ee621d7
+      - Errors, Errors Everywhere: How We Centralized and Structured Error Handling https://olivernguyen.io/w/namespace.error/
+      - ErrorHandling-патерн в golang https://habr.com/ru/articles/871394/
+      - Обработка ошибок в Go — Не традиционный подход https://habr.com/ru/articles/880892/
+    - plugin
+      - Getting started with Go plugin package https://echorand.me/posts/getting-started-with-golang-plugins/
+      - Go и плагины https://habr.com/ru/articles/647623/
+      - Пишем модульную Go программу с плагинами https://kovardin.ru/articles/go/plugins/
+      - Pluggable Architecture in About 300 Lines of Code https://haykot.dev/blog/pluggable-architecture-in-about-300-lines-of-code/
+    - regexp
+      - Коротко про regexp в Go https://habr.com/ru/companies/otus/articles/889320/
+    - fmt
+      - Основное
+        - The Power of Format Specifiers in Golang https://medium.com/@sahaidachnyi/format-specifiers-in-golang-d7f8d4fe88b8
+        - Mastering Text Formatting and Output with Go's fmt Package https://www.codingexplorations.com/blog/mastering-text-formatting-and-output-with-gos-fmt-package
+        - Mastering String formatting in Go https://www.bytesizego.com/blog/golang-format-string
+        - GoLang’s FMT Library: An In-Depth Guide with Examples https://medium.com/@chaewonkong/golangs-fmt-library-an-in-depth-guide-with-examples-4d1031613ea0
+        - Stop Using fmt.Println() for Everything – Learn These Go fmt Tricks Instead https://medium.com/@emusbeny/stop-using-fmt-println-for-everything-learn-these-go-fmt-tricks-instead-e201c0766088
+      - fmt.Printf
+        - A Deep Dive into fmt Printf in Golang https://www.kosli.com/blog/a-deep-dive-into-fmt-printf-in-golang/
+      - fmt.Sprintf
+        - fmt.Sprintf vs String Concat https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/
+      - fmt.Errorf
+        - What is the golang Errorf function? https://how.dev/answers/what-is-the-golang-errorf-function
+        - GoLang error handling explained https://medium.com/@sriniwasx/golang-error-handling-for-newbies-e468a40178f6
+    - bytes
+      - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
+    - sync
+      - Основное
+        - Sync Package: What Are New Features in Golang sync.Once? https://reliasoftware.com/blog/new-features-in-golang-sync-once
+        - A Closer Look at Go’s sync Package https://teivah.medium.com/a-closer-look-at-go-sync-package-9f4e4a28c35a
+      - sync/atomic
+        - Go: жарим общие данные. Атомно, быстро и без мьютексов https://habr.com/ru/companies/ruvds/articles/833264/
+      - sync.Mutex
+        - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
+        - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
+        - Go mutex (sync.Mutex) and read / write lock (sync.RWMutex) https://programmer.ink/think/go-mutex-sync.mutex-and-read-write-lock-sync.rwmutex.html
+      - sync.Cond
+        - Go sync.Cond, the Most Overlooked Sync Mechanism https://victoriametrics.com/blog/go-sync-cond/index.html
+      - sync.semaphore
+        - Go Concurrency Visually Explained — Semaphore https://blog.stackademic.com/go-concurrency-visually-explained-semaphore-3ffe23f11388
+        - Go’s Extended Concurrency: Semaphores (Part 1) https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce
+      - sync.Map
+        - Go sync.Map: The Right Tool for the Right Job https://victoriametrics.com/blog/go-sync-map/index.html
+        - Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex https://habr.com/ru/companies/karuna/articles/834400/
+      - sync.Pool
+        - Go sync.Pool and the Mechanics Behind It https://victoriametrics.com/blog/go-sync-pool/index.html
+        - How did I improve latency by 700% using sync.Pool https://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/
+        - Performance optimization techniques in time series databases: sync.Pool for CPU-bound operations https://victoriametrics.com/blog/tsdb-performance-techniques-sync-pool/
+        - Reference Counting in Go https://www.hydrogen18.com/blog/reference-counted-pool-golang.html
+        - Use `sync.Pool` to reduce memory consumption https://blog.unknowntpo.me/syncpool/
+      - sync.WaitGroup
+        - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
+      - sync.Once
+        - Go sync.Once is Simple... Does It Really? https://victoriametrics.com/blog/go-sync-once/
+    - runtime
+      - Основное
+        - The very useful runtime package in golang 🏎🏎🏎 https://dev.to/freakynit/the-very-useful-runtime-package-in-golang-5b16
+      - runtime.Goexit
+        - Graceful Goroutine Exits with runtime.Goexit() in Go https://medium.com/@hatronix/graceful-goroutine-exits-with-runtime-goexit-in-go-ee3dc2d4cd57
+      - runtime.Gosched
+        - Mastering Concurrency with runtime.Gosched() in Go https://medium.com/@hatronix/mastering-concurrency-with-runtime-gosched-in-go-3b88e2eea07b
+      - runtime.GC
+        - Garbage collection in Go https://chayandatta.medium.com/garbage-collection-in-go-959b4c164c42
+      - runtime.LockOSThread
+      - runtime.NumCPU
+      - runtime.ReadMemStats
+      - runtime.KeepAlive
+        - Go: Keeping a Variable Alive https://medium.com/a-journey-with-go/go-keeping-a-variable-alive-c28e3633673a
+      - runtime.SetFinalizer
+        - Go Runtime Finalizer and Keep Alive https://victoriametrics.com/blog/go-runtime-finalizer-keepalive/
+    - sys
+      - sys.Prefetch
+    - time
+      - Основное
+        - How Do They Do It: Timers in Go https://blog.gopheracademy.com/advent-2016/go-timers/
+        - Time in Go: A Comprehensive Overview with Examples https://medium.com/@rezauditore/mastering-time-in-golang-a-comprehensive-guide-76a146981d9c
+        - Working with Time Data in Go https://levelup.gitconnected.com/time-in-go-b5da2f3a4bea
+        - Golang — Time utility functions you will always need https://medium.com/canopas/golang-time-utility-functions-you-will-always-need-d7840d091468
+      - time.Now
+        - Do you really understand time.Now()? https://articles.singee.me/golang-time
+      - Остальное
+        - How to parse a time or date in Go https://www.willem.dev/articles/how-to-parse-time-date/
+        - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
+        - Working With Time in Golang https://www.bytesizego.com/blog/golang-time
+        - Comprehensive Guide to Dates and Times in Go https://dev.to/bootdotdev/comprehensive-guide-to-dates-and-times-in-go-dpn
+    - flag
+      - Основное
+        - Command-Line Arguments in Go: How to Use the Flag Library https://leapcell.medium.com/command-line-arguments-in-go-how-to-use-the-flag-library-0975f9319c6a
+    - archive
+      - How to zip and unzip a directory in Go https://blog.nuculabs.de/posts/2025/2025-04-01-how-to-zip-and-unzip-a-directory-go/
+      - Golang Zip File Example https://golang.cafe/blog/golang-zip-file-example.html
+    - json
+      - How To Pretty-Print JSON in Go https://www.kelche.co/blog/go/golang-json-pretty-print/
+      - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
   - Комментарии
     - Go Doc Comments https://tip.golang.org/doc/comment
   - Сompiler directives, Директивы компилятора, magic comments
