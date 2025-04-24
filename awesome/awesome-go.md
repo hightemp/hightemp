@@ -756,13 +756,14 @@
     - Разбираем конкурентность в Go: книги, блоги, выступления https://habr.com/ru/companies/yadro/articles/892632/
   - Makefile
     - Пример создания Makefile для Go-приложений https://habr.com/ru/articles/461467/
+  - Ошибки при работе
+    - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
+    - The Top 10 Most Common Mistakes I’ve Seen in Go Projects https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
   - Остальное
     - Getting a pointer to a constant in Go https://xeiaso.net/notes/2024/go-pointer-constant/
     - 12 Personal Go Tricks That Transformed My Productivity https://substack.com/home/post/p-136328101
     - What's in the box!? Исследуем минимальное количество тредов golang-программы https://habr.com/ru/articles/888384/
-    - The Top 10 Most Common Mistakes I’ve Seen in Go Projects https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
     - К слову об именах переменных в Go https://habr.com/ru/articles/872940/
-    - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
     - Functional options in Go https://habr.com/ru/articles/859676/
     - Functional options for friendly APIs https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
     - Notes on Go https://echorand.me/posts/go-notes/
