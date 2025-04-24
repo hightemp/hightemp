@@ -720,6 +720,7 @@
     - An Overview of Go's Tooling https://www.alexedwards.net/blog/an-overview-of-go-tooling
     - go tool trace http://web.archive.org/web/20180701005226/https://making.pusher.com/go-tool-trace/
   - Debugger
+    - Debugging Go Code with GDB https://go.dev/doc/gdb
     - go delve - The Golang Debugger https://earthly.dev/blog/golang-dlv/
     - Golang Debugging With Delve [Step by Step] https://golang.cafe/blog/golang-debugging-with-delve.html
     - Golang Debugging Tutorial https://www.rookout.com/blog/golang-debugging-tutorial/
