@@ -590,6 +590,7 @@
     - Основное
       - How Do They Do It: Timers in Go https://blog.gopheracademy.com/advent-2016/go-timers/
       - Time in Go: A Comprehensive Overview with Examples https://medium.com/@rezauditore/mastering-time-in-golang-a-comprehensive-guide-76a146981d9c
+      - Working with Time Data in Go https://levelup.gitconnected.com/time-in-go-b5da2f3a4bea
   - flag
     - Основное
       - Command-Line Arguments in Go: How to Use the Flag Library https://leapcell.medium.com/command-line-arguments-in-go-how-to-use-the-flag-library-0975f9319c6a
