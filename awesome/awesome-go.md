@@ -555,6 +555,7 @@
         - Performance optimization techniques in time series databases: sync.Pool for CPU-bound operations https://victoriametrics.com/blog/tsdb-performance-techniques-sync-pool/
         - Reference Counting in Go https://www.hydrogen18.com/blog/reference-counted-pool-golang.html
         - Use `sync.Pool` to reduce memory consumption https://blog.unknowntpo.me/syncpool/
+        - Golang sync.Pool is not a silver bullet https://wundergraph.com/blog/golang-sync-pool
       - sync.WaitGroup
         - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
       - sync.Once
