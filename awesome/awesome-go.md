@@ -1488,6 +1488,8 @@
     - Пишем сервис инференса ML-модели на go, на примере BERT-а https://habr.com/ru/companies/X5Tech/articles/864438/
     - Building LLM-powered applications in Go https://go.dev/blog/llmpowered
     - Prompt Engineering to Grow Yourself a Nanoservice Garden https://nathanleclaire.com/blog/2024/06/23/prompt-engineering-to-grow-yourself-a-nanoservice-garden/
+  - Agents; Агенты
+    - How to Build an Agent https://ampcode.com/how-to-build-an-agent
 - SSH
   - Некоторые возможности ssh в golang https://habr.com/ru/articles/788094/
   - Forwarding a Port Over SSH in Go https://hjr265.me/blog/forwarding-a-port-over-ssh-in-go/
