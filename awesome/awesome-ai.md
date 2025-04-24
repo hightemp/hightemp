@@ -1044,7 +1044,7 @@
     - LLM domain adaptation using continued pre-training — Part 3/4 https://anastasia-tzeveleka.medium.com/llm-domain-adaptation-using-continued-pre-training-part-2-3-23f9133681ee
     - LLM domain adaptation using continued pre-training — Part 4/4 https://medium.com/@aris.tsakpinis/llm-domain-adaptation-using-continued-pre-training-part-4-4-e4fc3acffac7
     - What is Continuous Pretraining? https://docs.arcee.ai/continuous-pretraining/what-is-continuous-pretraining
-- Reinforcement learning
+- Reinforcement learning; обучение с подкреплением
     - Как мы готовим RL для Alignment в больших языковых моделях: опыт команды YandexGPT https://habr.com/ru/companies/yandex/articles/817391/
 - Визуальные модели
     - LP-DETR: Layer-wise Progressive Relations for Object Detection https://www.aimodels.fyi/papers/arxiv/lp-detr-layer-wise-progressive-relations-object
