@@ -588,6 +588,7 @@
         - Golang — Time utility functions you will always need https://medium.com/canopas/golang-time-utility-functions-you-will-always-need-d7840d091468
         - The complete guide to dates and times in Go https://www.honeybadger.io/blog/complete-guide-to-dates-and-times-in-go/
         - Математические операции над временем в Golang https://golangify.com/add-date-time
+        - Golang time и Golang date: форматирование даты и времени в Go https://otus.ru/nest/post/1678/
       - time.Now
         - Do you really understand time.Now()? https://articles.singee.me/golang-time
       - Остальное
