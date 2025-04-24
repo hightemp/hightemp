@@ -606,6 +606,7 @@
         - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
         - Working With Time in Golang https://www.bytesizego.com/blog/golang-time
         - Comprehensive Guide to Dates and Times in Go https://dev.to/bootdotdev/comprehensive-guide-to-dates-and-times-in-go-dpn
+        - Прокаченный таймер на Go https://ivahaev.ru/advanced-go-timer/
     - flag
       - Основное
         - Command-Line Arguments in Go: How to Use the Flag Library https://leapcell.medium.com/command-line-arguments-in-go-how-to-use-the-flag-library-0975f9319c6a
