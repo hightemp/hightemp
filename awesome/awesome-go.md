@@ -1766,6 +1766,7 @@
 - https://michael.stapelberg.ch/posts/
 - https://eklitzke.org/
 - https://dev.mo4tech.com/tag/go
+- https://ivahaev.ru/tags/go/
 
 ### Подкасты
 
