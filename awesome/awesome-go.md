@@ -599,6 +599,8 @@
         - Master Timer in Go: A Simple Guide in Just 4 Easy Steps https://everythingcoding.in/timer-in-go/
       - time.Tick
         - Timer and Ticker: events in the future https://yourbasic.org/golang/time-reset-wait-stop-timeout-cancel-interval/
+      - time.Duration
+        - Работа с временными интервалами (duration) в Golang https://purpleschool.ru/knowledge-base/article/duration
       - Остальное
         - How to parse a time or date in Go https://www.willem.dev/articles/how-to-parse-time-date/
         - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
