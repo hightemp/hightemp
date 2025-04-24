@@ -776,6 +776,7 @@
     - Named Return Parameters in Golang https://www.geeksforgeeks.org/named-return-parameters-in-golang/
     - Go 1.1 Function Calls https://docs.google.com/document/d/1bMwCey-gmqZVTpRax-ESeVuZGmjwbocYs1iHplK-cjo/pub
     - The Go memory model https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15440-f11/go/doc/go_mem.html
+    - Cheating the Reaper in Go https://mcyoung.xyz/2025/04/21/go-arenas/
 - Tutorial, Туториалы
   - Приложение на Go шаг за шагом. Часть 2: отправка ответов в формате JSON https://habr.com/ru/companies/yandex_praktikum/articles/885946/
 - Разработка языка
