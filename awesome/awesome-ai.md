@@ -49,6 +49,10 @@
 - FineVideo (https://huggingface.co/spaces/HuggingFaceFV/FineVideo-Explorer)  – датасет на 43 тысячи видео для обучения SORA-like моделей видео-генерации, своя лицензия License CC-By
 - FineWeb (https://huggingface.co/datasets/HuggingFaceFW/fineweb) – огромный очищенный интернет-корпус для предобучения больших языковых моделей на 15 триллионов токенов. Есть мультиязычная версия, я теперь еще и бенчмарк, доказывающий, что корпус лучше остальных для сходимости моделей. Лицензия ODC-by
 
+### Сравнение моделей; Арены
+
+- https://arena.lmsys.org/
+
 ### Бенчмарки
 
 - FineTasks (https://huggingface.co/spaces/HuggingFaceFW/blogpost-fine-tasks) – бечнмарк для оценки качества претрейна LLM на множестве языков. Лицензия ODC-by
