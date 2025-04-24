@@ -781,6 +781,9 @@
 - Все, что вам нужно знать для создания вашего первого приложения LLM https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac/
 - AgentRecipes — веб-сайт, содержащий примеры реализации агентов искусственного интеллекта с исходным кодом на различных языках программирования, предназначенных для обучения и интеграции в собственные проекты. https://www.agentrecipes.com/
 - n8n Cheat Sheet https://www.reddit.com/r/n8n/comments/1jy1wdc/i_made_an_n8n_cheat_sheet/
+- Выжимка 4000 статей по промтингу
+    1. Архив со статьями, построенных на исследованиях и упомянутые в видео: https://drive.google.com/file/d/1v2tDUwmqIVa4QT74Qie9vVrxLQX0trCE/view?usp=sharing
+    2. Книга с 1/4 исследований с краткими выводами по методам промпт-инижиниринга: https://drive.google.com/file/d/1UdWJ3eb-cr2sp0EJP-q58o__KUlrlFf8/view?usp=sharing
 
 ### Полезные утилиты
 
