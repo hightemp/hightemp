@@ -631,6 +631,7 @@
       - //extern extern_name
       - //go:compile go_name extern_name
     - //go:debug
+      - Go, Backwards Compatibility, and GODEBUG https://go.dev/doc/godebug
     - //go:embed
       - Embedding files in Go using the "embed" package https://echorand.me/posts/go-embed/
       - Using Go Embed https://www.bytesizego.com/blog/go-embed
