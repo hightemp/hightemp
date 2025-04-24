@@ -589,6 +589,7 @@
         - The complete guide to dates and times in Go https://www.honeybadger.io/blog/complete-guide-to-dates-and-times-in-go/
         - Математические операции над временем в Golang https://golangify.com/add-date-time
         - Golang time и Golang date: форматирование даты и времени в Go https://otus.ru/nest/post/1678/
+        - Самоучитель по Go для начинающих. Часть 13. Работа с датой и временем. Пакет time https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-13-rabota-s-datoy-i-vremenem-paket-time-2024-06-26?ysclid=m9v38bvgpl262344140
       - time.Now
         - Do you really understand time.Now()? https://articles.singee.me/golang-time
       - Остальное
