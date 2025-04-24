@@ -482,12 +482,6 @@
   - init
     - \[Memo\] Go init behavior https://articles.singee.me/go-init-behaviour
     - Understanding Init Function in Go With Examples https://linuxhandbook.com/go-init-function/
-  - time
-    - How to parse a time or date in Go https://www.willem.dev/articles/how-to-parse-time-date/
-    - Do you really understand time.Now()? https://articles.singee.me/golang-time
-    - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
-    - Working With Time in Golang https://www.bytesizego.com/blog/golang-time
-    - Comprehensive Guide to Dates and Times in Go https://dev.to/bootdotdev/comprehensive-guide-to-dates-and-times-in-go-dpn
   - Templates, Шаблоны
     - GO templates https://golangforall.com/ru/post/templates.html
     - Golang Templates-1: Introduction https://medium.com/@back_to_basics/golang-template-1-bcb690165663
@@ -592,6 +586,13 @@
       - Time in Go: A Comprehensive Overview with Examples https://medium.com/@rezauditore/mastering-time-in-golang-a-comprehensive-guide-76a146981d9c
       - Working with Time Data in Go https://levelup.gitconnected.com/time-in-go-b5da2f3a4bea
       - Golang — Time utility functions you will always need https://medium.com/canopas/golang-time-utility-functions-you-will-always-need-d7840d091468
+    - time.Now
+      - Do you really understand time.Now()? https://articles.singee.me/golang-time
+    - Остальное
+      - How to parse a time or date in Go https://www.willem.dev/articles/how-to-parse-time-date/
+      - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
+      - Working With Time in Golang https://www.bytesizego.com/blog/golang-time
+      - Comprehensive Guide to Dates and Times in Go https://dev.to/bootdotdev/comprehensive-guide-to-dates-and-times-in-go-dpn
   - flag
     - Основное
       - Command-Line Arguments in Go: How to Use the Flag Library https://leapcell.medium.com/command-line-arguments-in-go-how-to-use-the-flag-library-0975f9319c6a
