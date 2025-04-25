@@ -538,6 +538,10 @@
         - Go's bytes.Buffer vs. strings.Builder https://brandur.org/fragments/bytes-buffer-vs-strings-builder
     - text/template
     - html/template
+    - io
+      - io.Reader
+        - How to use the io.Reader interface https://yourbasic.org/golang/io-reader-interface-explained/
+        - Go I/O Readers, Writers, and Data in Motion https://victoriametrics.com/blog/go-io-reader-writer/
     - fmt
       - Основное
         - The Power of Format Specifiers in Golang https://medium.com/@sahaidachnyi/format-specifiers-in-golang-d7f8d4fe88b8
