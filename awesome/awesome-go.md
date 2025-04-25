@@ -454,6 +454,7 @@
     - Arrays, Slices and Maps in Go https://go101.org/article/container.html
   - Defer
     - Golang Defer: From Basic To Traps https://victoriametrics.com/blog/defer-in-go/index.html
+    - More about Deferred Function Calls https://go101.org/article/defer-more.html
   - Массивы
     - How Go Arrays Work and Get Tricky with For-Range https://victoriametrics.com/blog/go-array/index.html
   - Map
