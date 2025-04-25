@@ -681,6 +681,8 @@
   - traits, Типажи
     - Trait-объекты и полиморфизм в Rust https://habr.com/ru/companies/otus/articles/790060/
     - Да кто такой этот ваш impl Trait https://habr.com/ru/articles/783266/
+  - Lifetimes; Время жизни
+    - Mastering Lifetimes in Rust: Memory Safety and Borrow Checking https://leapcell.medium.com/mastering-lifetimes-in-rust-memory-safety-and-borrow-checking-4a8c082a54ee
   - Loops, Циклы
     - Understanding Rust Loops https://www.cloudbees.com/blog/understanding-rust-loops
     - Rust Programming Different Types of Loop — Part-3 https://diptendud.medium.com/rust-programming-different-types-of-loop-part-3-91cae2e0e950
