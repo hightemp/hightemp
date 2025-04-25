@@ -697,6 +697,8 @@
   - Errors, Ошибки
     - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
     - Rust: обработка ошибок https://microsin.net/programming/pc/rust-error-handling.html
+  - Option
+  - Result
   - derive
     - Derive https://doc.rust-lang.org/rust-by-example/trait/derive.html
     - Understanding derive in Rust: Automating Trait Implementations https://leapcell.io/blog/understanding-derive-in-rust
