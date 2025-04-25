@@ -829,6 +829,8 @@
 - Типы и структуры данных
   - Ordered map
     - Ordered map на Go https://habr.com/ru/articles/882828/
+  - protobuf; Protocol Buffers
+    - Go и Protocol Buffers, ускорение https://habr.com/ru/articles/276905/
 - Валидация данных
   - Using Go Validator for Efficient Data Validation in Go Applications https://www.codingexplorations.com/blog/using-go-validator-for-efficient-data-validation-in-go-applications
 - Sort, Сортировка
