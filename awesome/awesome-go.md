@@ -401,6 +401,7 @@
   - Struct; Структуры
     - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
     - Structs in Go https://go101.org/article/struct.html
+    - Type Embedding https://go101.org/article/type-embedding.html
   - Функции, Functions
     - Основы Go: функции https://habr.com/ru/companies/otus/articles/746276/
     - Функции первого класса, замыкания и анонимные функции в Golang https://golangify.com/closures-anonymous-first-class-func
