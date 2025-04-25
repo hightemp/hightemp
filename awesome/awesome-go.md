@@ -388,6 +388,7 @@
   - Типы
     - The differences between "Type Alias" and "New Types" in Go https://perfects.engineering/blog/go_alias_vs_new_types
     - All your comparable types https://go.dev/blog/comparable
+    - Go Zero Values Make Sense https://yoric.github.io/post/go-nil-values/
   - nil
     - nils in Go https://go101.org/article/nil.html
   - String
