@@ -534,6 +534,7 @@
         - string package in Golang https://www.geeksforgeeks.org/string-package-in-golang/
       - strings.Builder
         - Concatenating and Building Strings in Go 1.10+ https://www.calhoun.io/concatenating-and-building-strings-in-go/
+        - High-Performance String Building in Go (Golang) https://medium.com/swlh/high-performance-string-building-in-go-golang-3fd99b9ca856
     - text/template
     - html/template
     - fmt
