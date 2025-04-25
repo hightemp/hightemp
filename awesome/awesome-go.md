@@ -536,9 +536,14 @@
         - Concatenating and Building Strings in Go 1.10+ https://www.calhoun.io/concatenating-and-building-strings-in-go/
         - High-Performance String Building in Go (Golang) https://medium.com/swlh/high-performance-string-building-in-go-golang-3fd99b9ca856
         - Go's bytes.Buffer vs. strings.Builder https://brandur.org/fragments/bytes-buffer-vs-strings-builder
+      - strings.Replacer
+        - Golang: Strings Replace vs Strings Replacer https://medium.com/@vikram.ingawale91/golang-strings-replace-vs-strings-replacer-a7b2d2b71593
     - text/template
     - html/template
     - io
+      - Основное
+        - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
+        - Fundamentals of I/O in Go: Part 2 https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-part-2-e7bb68cd5608
       - io.Reader
         - How to use the io.Reader interface https://yourbasic.org/golang/io-reader-interface-explained/
         - Go I/O Readers, Writers, and Data in Motion https://victoriametrics.com/blog/go-io-reader-writer/
