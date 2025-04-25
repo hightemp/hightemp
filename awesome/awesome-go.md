@@ -940,9 +940,6 @@
 - Файловая система
   - Mastering Golang — Part 7: Read File https://blog.stackademic.com/mastering-golang-part-6-read-file-41a8292497e5
   - Создание временного файла и временной директории в Golang http://xztvc.ru/post/sozdanie-vremennogo-fajla-i-vremennoj-direktorii-v-golang
-- Структуры данных
-  - Ordered map
-    - Ordered map на Go https://habr.com/ru/articles/882828/
 - Базы данных
   - PostgreSQL
     - Основное
