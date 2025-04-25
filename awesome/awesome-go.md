@@ -497,6 +497,8 @@
   - iota
     - 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
   - Пакеты стандартной библиотеки
+    - reflect
+      - Reflections in Go https://go101.org/article/reflection.html
     - unsafe
       - Обзор пакета unsafe: как обходить ограничения Go (но лучше этого не делать) https://habr.com/ru/companies/otus/articles/862854/
       - Type-Unsafe Pointers https://go101.org/article/unsafe.html
