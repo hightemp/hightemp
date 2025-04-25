@@ -765,6 +765,7 @@
     - Debugging with GoLand – Getting Started https://blog.jetbrains.com/go/2019/02/06/debugging-with-goland-getting-started/
     - Debugging in Go with Delve https://eleni.blog/2020/12/19/debugging-in-go-with-delve/
   - Bechmarking
+    - More predictable benchmarking with testing.B.Loop https://go.dev/blog/testing-b-loop
     - How to write benchmarks in Go https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go
     - Бенчмарки в Go https://habr.com/ru/articles/268585/
     - [Golang]Эталонный тест производительности https://under-sky-web.ru/post/golangetalonnyiy_test_proizvoditelnosti
