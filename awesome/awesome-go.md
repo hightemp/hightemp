@@ -646,10 +646,12 @@
     - archive
       - How to zip and unzip a directory in Go https://blog.nuculabs.de/posts/2025/2025-04-01-how-to-zip-and-unzip-a-directory-go/
       - Golang Zip File Example https://golang.cafe/blog/golang-zip-file-example.html
-    - encoding/json
-      - How To Pretty-Print JSON in Go https://www.kelche.co/blog/go/golang-json-pretty-print/
-      - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
-      - Маршалинг и анмаршалинг нестандартных форматов дат в Go https://habr.com/ru/articles/492996/
+    - encoding
+      - encoding/base64
+      - encoding/json
+        - How To Pretty-Print JSON in Go https://www.kelche.co/blog/go/golang-json-pretty-print/
+        - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
+        - Маршалинг и анмаршалинг нестандартных форматов дат в Go https://habr.com/ru/articles/492996/
   - Комментарии
     - Go Doc Comments https://tip.golang.org/doc/comment
   - Сompiler directives, Директивы компилятора, magic comments
