@@ -697,6 +697,7 @@
   - Errors, Ошибки
     - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
     - Rust: обработка ошибок https://microsin.net/programming/pc/rust-error-handling.html
+    - Demystifying Error Handling in Rust https://medium.com/better-programming/error-handling-in-rust-that-every-beginner-should-know-9efa59deb934
   - Option
   - Result
   - derive
