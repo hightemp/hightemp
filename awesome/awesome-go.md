@@ -529,7 +529,11 @@
     - regexp
       - Коротко про regexp в Go https://habr.com/ru/companies/otus/articles/889320/
     - strings
-      - An Introduction to the Strings Package in Go https://www.digitalocean.com/community/tutorials/an-introduction-to-the-strings-package-in-go
+      - Основное
+        - An Introduction to the Strings Package in Go https://www.digitalocean.com/community/tutorials/an-introduction-to-the-strings-package-in-go
+        - string package in Golang https://www.geeksforgeeks.org/string-package-in-golang/
+      - strings.Builder
+        - Concatenating and Building Strings in Go 1.10+ https://www.calhoun.io/concatenating-and-building-strings-in-go/
     - text/template
     - html/template
     - fmt
