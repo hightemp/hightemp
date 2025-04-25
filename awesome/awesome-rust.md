@@ -697,6 +697,8 @@
   - Errors, Ошибки
     - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
     - Rust: обработка ошибок https://microsin.net/programming/pc/rust-error-handling.html
+  - derive
+    - Derive https://doc.rust-lang.org/rust-by-example/trait/derive.html
   - data races
   - unsafe
     - Learn Unsafe Rust From My Mistakes https://geo-ant.github.io/blog/2023/unsafe-rust-exploration/
