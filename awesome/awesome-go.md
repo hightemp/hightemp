@@ -520,6 +520,10 @@
       - Pluggable Architecture in About 300 Lines of Code https://haykot.dev/blog/pluggable-architecture-in-about-300-lines-of-code/
     - regexp
       - Коротко про regexp в Go https://habr.com/ru/companies/otus/articles/889320/
+    - strings
+      - An Introduction to the Strings Package in Go https://www.digitalocean.com/community/tutorials/an-introduction-to-the-strings-package-in-go
+    - text/template
+    - html/template
     - fmt
       - Основное
         - The Power of Format Specifiers in Golang https://medium.com/@sahaidachnyi/format-specifiers-in-golang-d7f8d4fe88b8
@@ -619,7 +623,7 @@
     - archive
       - How to zip and unzip a directory in Go https://blog.nuculabs.de/posts/2025/2025-04-01-how-to-zip-and-unzip-a-directory-go/
       - Golang Zip File Example https://golang.cafe/blog/golang-zip-file-example.html
-    - json
+    - encoding/json
       - How To Pretty-Print JSON in Go https://www.kelche.co/blog/go/golang-json-pretty-print/
       - Go: десериализация JSON с неправильной типизацией, или как обходить ошибки разработчиков API https://habr.com/ru/articles/502176/
       - Маршалинг и анмаршалинг нестандартных форматов дат в Go https://habr.com/ru/articles/492996/
