@@ -1200,6 +1200,8 @@
     - Saga
       - Understanding the Saga Pattern in Micro Services: A Restaurant Adventure! https://medium.com/@saiteja180/understanding-the-saga-pattern-in-micro-services-a-restaurant-adventure-667b1111368b
     - Остальное
+  - Dependency Injection
+    - Understanding Dependency Injection in Go: A Practical Approach https://medium.com/@schalla024/understanding-dependency-injection-in-go-a-practical-approach-05901458812b
   - SOLID
     - Practical SOLID in Golang: Single Responsibility Principle https://www.ompluscator.com/article/golang/practical-solid-single-responsibility
     - Practical SOLID in Golang: Open/Closed Principle https://www.ompluscator.com/article/golang/practical-solid-open-closed/
