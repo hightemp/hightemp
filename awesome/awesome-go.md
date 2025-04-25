@@ -646,6 +646,8 @@
     - archive
       - How to zip and unzip a directory in Go https://blog.nuculabs.de/posts/2025/2025-04-01-how-to-zip-and-unzip-a-directory-go/
       - Golang Zip File Example https://golang.cafe/blog/golang-zip-file-example.html
+    - compress
+      - compress/gzip
     - encoding
       - encoding/base64
       - encoding/json
