@@ -699,6 +699,7 @@
     - Rust: обработка ошибок https://microsin.net/programming/pc/rust-error-handling.html
   - derive
     - Derive https://doc.rust-lang.org/rust-by-example/trait/derive.html
+    - Understanding derive in Rust: Automating Trait Implementations https://leapcell.io/blog/understanding-derive-in-rust
   - data races
   - unsafe
     - Learn Unsafe Rust From My Mistakes https://geo-ant.github.io/blog/2023/unsafe-rust-exploration/
