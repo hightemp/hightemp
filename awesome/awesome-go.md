@@ -405,6 +405,7 @@
     - Основы Go: функции https://habr.com/ru/companies/otus/articles/746276/
     - Функции первого класса, замыкания и анонимные функции в Golang https://golangify.com/closures-anonymous-first-class-func
     - Типы функций и функции высшего порядка на Go https://medium.com/nuances-of-programming/типы-функций-и-функции-высшего-порядка-на-go-fa0f4572b4d3
+    - Functions in Go https://go101.org/article/function.html
   - Interface; Интерфейсы
     - Погружение в интерфейсы Go https://habr.com/ru/articles/856272/
     - Interfaces and other types https://go.dev/doc/effective_go#interfaces_and_types
