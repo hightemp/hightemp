@@ -1883,6 +1883,8 @@
   - Building the User & Auth Modules with GoLang | 3-Hour Coding Journey | FinGreat Series #3 https://www.youtube.com/watch?v=2Dp7PX70o2k
 - Архитектура
   - Hexagonal architecture для Go-разработчика / Константин Деревцов (SibEdge) https://www.youtube.com/watch?v=3YTLDYG5MnQ
+- PostgreSQL
+  - Работа в Go с PostgreSQL | Golang https://www.youtube.com/watch?v=Wi0UwT9O81o
 - SSE
   - How to Implement Server-Sent Events in Go https://www.youtube.com/watch?v=nvijc5J-JAQ
 - API
@@ -1900,6 +1902,7 @@
   - dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture https://www.youtube.com/watch?v=vKbVrsMnhDc
 - Каналы
   - Николай Тузов — Golang https://www.youtube.com/@nikolay_tuzov
+  - Go Developer https://www.youtube.com/@go_developer
 
 ### Сайты со статьями
 
