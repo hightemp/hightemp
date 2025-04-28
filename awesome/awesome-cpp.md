@@ -234,6 +234,7 @@
       - Собираем C++ с bazel https://habr.com/ru/articles/489566/
     - rules_foreign_cc
       - How to use the make rule from rules_foreign_cc repository for bazel https://www.hdlfactory.com/post/2023/06/13/how-to-use-the-make-rule-from-rules_foreign_cc-repository-for-bazel/
+      - Adding a Dependency Based on Autotools to a Bazel Project https://bloggerbust.ca/post/adding-a-dependency-based-on-autotools-to-a-bazel-project/
   - CMake; генератор систем сборки
     - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
     - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
