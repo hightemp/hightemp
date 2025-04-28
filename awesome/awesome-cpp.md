@@ -229,8 +229,11 @@
     - Return Value Optimization https://shaharmike.com/cpp/rvo/    
 - Системы сборки
   - Bazel
-    - Understanding Bazel: An Introductory Overview https://medium.com/@d.s.m/understanding-bazel-an-introductory-overview-0c9ddb1b1ce9
-    - Собираем C++ с bazel https://habr.com/ru/articles/489566/
+    - Основное
+      - Understanding Bazel: An Introductory Overview https://medium.com/@d.s.m/understanding-bazel-an-introductory-overview-0c9ddb1b1ce9
+      - Собираем C++ с bazel https://habr.com/ru/articles/489566/
+    - rules_foreign_cc
+      - How to use the make rule from rules_foreign_cc repository for bazel https://www.hdlfactory.com/post/2023/06/13/how-to-use-the-make-rule-from-rules_foreign_cc-repository-for-bazel/
   - CMake; генератор систем сборки
     - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
     - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
