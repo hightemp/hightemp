@@ -227,6 +227,8 @@
     - Return Value Optimization (RVO) https://lcellentani.github.io/post/cpp_rvo/
     - Return value optimizations https://www.fluentcpp.com/2016/11/28/return-value-optimizations/
     - Return Value Optimization https://shaharmike.com/cpp/rvo/    
+- Bazel
+  - Understanding Bazel: An Introductory Overview https://medium.com/@d.s.m/understanding-bazel-an-introductory-overview-0c9ddb1b1ce9
 - CMake
   - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
   - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
