@@ -227,22 +227,23 @@
     - Return Value Optimization (RVO) https://lcellentani.github.io/post/cpp_rvo/
     - Return value optimizations https://www.fluentcpp.com/2016/11/28/return-value-optimizations/
     - Return Value Optimization https://shaharmike.com/cpp/rvo/    
-- Bazel
-  - Understanding Bazel: An Introductory Overview https://medium.com/@d.s.m/understanding-bazel-an-introductory-overview-0c9ddb1b1ce9
-- CMake
-  - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
-  - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
-  - Полное руководство по CMake. Часть первая: Синтаксис https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-pervaya-Sintaksis-02-27
-  - Полное руководство по CMake. Часть вторая: Система сборки https://web.archive.org/web/20220528140444/https://habr.com/en/post/432096/
-- Make, Makefile
-  - GNU make https://www.gnu.org/software/make/manual/make.html
-  - Makefile для самых маленьких https://habr.com/ru/articles/155201/
-  - Makefile Tutorials and Examples to Build From https://earthly.dev/blog/make-tutorial/
-  - Learn Makefiles With the tastiest examples https://makefiletutorial.com/
-  - Understanding Makefiles: How They Work and Why You Need Them https://shawnguyen.medium.com/understanding-makefiles-how-they-work-and-why-you-need-them-4b2071f0dfac
-  - Using make and writing Makefiles https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html
-  - A Simple Makefile Tutorial https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
-  - Tutorial on writing makefiles https://www.math.colostate.edu/~yzhou/computer/writemakefile.html
+- Системы сборки
+  - Bazel
+    - Understanding Bazel: An Introductory Overview https://medium.com/@d.s.m/understanding-bazel-an-introductory-overview-0c9ddb1b1ce9
+  - CMake
+    - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
+    - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
+    - Полное руководство по CMake. Часть первая: Синтаксис https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-pervaya-Sintaksis-02-27
+    - Полное руководство по CMake. Часть вторая: Система сборки https://web.archive.org/web/20220528140444/https://habr.com/en/post/432096/
+  - Make, Makefile
+    - GNU make https://www.gnu.org/software/make/manual/make.html
+    - Makefile для самых маленьких https://habr.com/ru/articles/155201/
+    - Makefile Tutorials and Examples to Build From https://earthly.dev/blog/make-tutorial/
+    - Learn Makefiles With the tastiest examples https://makefiletutorial.com/
+    - Understanding Makefiles: How They Work and Why You Need Them https://shawnguyen.medium.com/understanding-makefiles-how-they-work-and-why-you-need-them-4b2071f0dfac
+    - Using make and writing Makefiles https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html
+    - A Simple Makefile Tutorial https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
+    - Tutorial on writing makefiles https://www.math.colostate.edu/~yzhou/computer/writemakefile.html
 - Swiss Tables
   - Swiss Tables and absl::Hash https://abseil.io/blog/20180927-swisstables
 - Библиотеки
