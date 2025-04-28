@@ -231,7 +231,7 @@
   - Bazel
     - Understanding Bazel: An Introductory Overview https://medium.com/@d.s.m/understanding-bazel-an-introductory-overview-0c9ddb1b1ce9
     - Собираем C++ с bazel https://habr.com/ru/articles/489566/
-  - CMake
+  - CMake; генератор систем сборки
     - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
     - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
     - Полное руководство по CMake. Часть первая: Синтаксис https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-pervaya-Sintaksis-02-27
