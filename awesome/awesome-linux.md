@@ -134,6 +134,11 @@
         - Каталог /proc в Linux https://vk.com/@it_blog_sysadm1n-katalog-proc-v-linux
         - Изучаем файловую систему proc https://www.linuxrsp.ru/artic/fs-proc.html
         - Файловые системы /dev и /proc в Linux 2.4 https://www.nixp.ru/articles/38.html
+    - resolve.conf
+        - Resolv.conf http://tdkare.ru/sysadmin/index.php/Resolv.conf
+        - resolv.conf https://en.wikipedia.org/wiki/Resolv.conf
+        - Настройка хоста для применения сервера имен https://www.ibm.com/docs/ru/aix/7.1?topic=resolution-configuring-host-use-name-server
+        - Взаимоотношения dhcpclient и resolv.conf'а в Linux https://habr.com/ru/articles/280037/
     - Утилиты
         - killall
             - killall(1) — Linux manual page https://man7.org/linux/man-pages/man1/killall.1.html
