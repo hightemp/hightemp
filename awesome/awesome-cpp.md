@@ -240,6 +240,8 @@
     - Return value optimizations https://www.fluentcpp.com/2016/11/28/return-value-optimizations/
     - Return Value Optimization https://shaharmike.com/cpp/rvo/    
 - Системы сборки
+  - Основное
+    - Сборка проектов Си и Си++: от простого к сложному. Часть II. Сборщики https://habr.com/ru/companies/ruvds/articles/875620/
   - Bazel
     - Основное
       - Understanding Bazel: An Introductory Overview https://medium.com/@d.s.m/understanding-bazel-an-introductory-overview-0c9ddb1b1ce9
