@@ -97,6 +97,8 @@
   - Компиляция
     - О GCC, компиляции и библиотеках часть 2 https://uzverss.livejournal.com/57883.html
   - Библиотеки
+    - Основное
+      - Глава 3. БИБЛИОТЕКИ https://www.opennet.ru/docs/RUS/zlp/003.html
     - .so (shared object)
     - .a (archive)
   - RAII
