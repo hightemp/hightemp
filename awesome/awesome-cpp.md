@@ -181,6 +181,8 @@
     - Путеводитель C++ программиста по неопределённому поведению https://pvs-studio.ru/ru/blog/posts/cpp/1215/
   - Name mangling 
     - Name mangling https://en.wikipedia.org/wiki/Name_mangling
+  - Undefined Behavior
+    - Что каждый программист на C должен знать об Undefined Behavior. Часть 1/3 https://habr.com/ru/articles/341048/
   - Остальное
     - What does C++ Object Layout Look Like? https://nimrod.blog/posts/what-does-cpp-object-layout-look-like/
     - Безопасное использование C++ https://habr.com/ru/companies/pvs-studio/articles/580762/
