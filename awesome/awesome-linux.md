@@ -134,14 +134,6 @@
         - Каталог /proc в Linux https://vk.com/@it_blog_sysadm1n-katalog-proc-v-linux
         - Изучаем файловую систему proc https://www.linuxrsp.ru/artic/fs-proc.html
         - Файловые системы /dev и /proc в Linux 2.4 https://www.nixp.ru/articles/38.html
-    - Служба доменных имен
-        - Основное
-            - Служба доменных имен (DNS) https://www.opennet.ru/docs/RUS/tcp_conf/tcp07.html
-        - resolve.conf
-            - Resolv.conf http://tdkare.ru/sysadmin/index.php/Resolv.conf
-            - resolv.conf https://en.wikipedia.org/wiki/Resolv.conf
-            - Настройка хоста для применения сервера имен https://www.ibm.com/docs/ru/aix/7.1?topic=resolution-configuring-host-use-name-server
-            - Взаимоотношения dhcpclient и resolv.conf'а в Linux https://habr.com/ru/articles/280037/
     - Утилиты
         - killall
             - killall(1) — Linux manual page https://man7.org/linux/man-pages/man1/killall.1.html
@@ -200,6 +192,14 @@
         - SSH port forwarding for Beginners https://nirali0.medium.com/ssh-port-forwarding-for-beginners-228d9a1d5622
     - Остальное
         - OpenSSH/Cookbook/Multiplexing https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing
+- Служба доменных имен
+    - Основное
+        - Служба доменных имен (DNS) https://www.opennet.ru/docs/RUS/tcp_conf/tcp07.html
+    - resolve.conf
+        - Resolv.conf http://tdkare.ru/sysadmin/index.php/Resolv.conf
+        - resolv.conf https://en.wikipedia.org/wiki/Resolv.conf
+        - Настройка хоста для применения сервера имен https://www.ibm.com/docs/ru/aix/7.1?topic=resolution-configuring-host-use-name-server
+        - Взаимоотношения dhcpclient и resolv.conf'а в Linux https://habr.com/ru/articles/280037/
 - systemd
     - Основное
         - Systemd для начинающих: разбор юнитов и их функций https://habr.com/ru/companies/factory5/articles/842518/
