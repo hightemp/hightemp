@@ -263,6 +263,8 @@
     - Using make and writing Makefiles https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html
     - A Simple Makefile Tutorial https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
     - Tutorial on writing makefiles https://www.math.colostate.edu/~yzhou/computer/writemakefile.html
+- Анти-паттерны
+  - 60 антипаттернов для С++ программиста https://pvs-studio.ru/ru/blog/posts/cpp/1053/
 - Swiss Tables
   - Swiss Tables and absl::Hash https://abseil.io/blog/20180927-swisstables
 - Библиотеки
