@@ -160,6 +160,8 @@
             - Beginner's Guide to Syslogs in Linux https://linuxhandbook.com/syslog-guide/
     - ELF Файлы
         - Рецепты для ELFов https://habr.com/ru/companies/inforion/articles/460247/
+    - linux-vdso.so.1
+        - Linux Mystery: linux-vdso.so.1 http://austinkeeley.com/2021/04/25/linux-mystery-vsdo.html
     - Остальное
 - Файрволы, Firewalls
     - ufw
