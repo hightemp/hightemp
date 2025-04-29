@@ -96,6 +96,9 @@
     - Упрощённое руководство по работе с памятью Си https://habr.com/ru/articles/711458/
   - Компиляция
     - О GCC, компиляции и библиотеках часть 2 https://uzverss.livejournal.com/57883.html
+  - Библиотеки
+    - .so (shared object)
+    - .a (archive)
   - RAII
     - Концепция RAII (Resource Acquisition Is Initialization) https://habr.com/ru/companies/otus/articles/778942/
     - Идиома RAII и умные указатели https://education.yandex.ru/handbook/cpp/article/raii-and-smart-pointers
