@@ -105,7 +105,8 @@
     - .so (shared object)
     - .a (archive)
   - Типы
-    - unions
+    - Основное
+    - union
   - RAII
     - Концепция RAII (Resource Acquisition Is Initialization) https://habr.com/ru/companies/otus/articles/778942/
     - Идиома RAII и умные указатели https://education.yandex.ru/handbook/cpp/article/raii-and-smart-pointers
