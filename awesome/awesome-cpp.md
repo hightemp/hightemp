@@ -100,6 +100,8 @@
     - Основное
       - Глава 3. БИБЛИОТЕКИ https://www.opennet.ru/docs/RUS/zlp/003.html
       - Сборка проектов Си и Си++: от простого к сложному. Часть I. Библиотеки https://habr.com/ru/companies/ruvds/articles/871940/
+    - linux-vdso.so.1
+      - Linux Mystery: linux-vdso.so.1 http://austinkeeley.com/2021/04/25/linux-mystery-vsdo.html
     - .so (shared object)
     - .a (archive)
   - RAII
