@@ -184,6 +184,8 @@
   - Undefined Behavior
     - Что каждый программист на C должен знать об Undefined Behavior. Часть 1/3 https://habr.com/ru/articles/341048/
     - A Guide to Undefined Behavior in C and C++, Part 1 https://blog.regehr.org/archives/213
+    - A Guide to Undefined Behavior in C and C++, Part 2 https://blog.regehr.org/archives/226
+    - A Guide to Undefined Behavior in C and C++, Part 3 https://blog.regehr.org/archives/232
   - Остальное
     - What does C++ Object Layout Look Like? https://nimrod.blog/posts/what-does-cpp-object-layout-look-like/
     - Безопасное использование C++ https://habr.com/ru/companies/pvs-studio/articles/580762/
