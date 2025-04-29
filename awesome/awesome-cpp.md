@@ -99,6 +99,7 @@
   - Библиотеки
     - Основное
       - Глава 3. БИБЛИОТЕКИ https://www.opennet.ru/docs/RUS/zlp/003.html
+      - Сборка проектов Си и Си++: от простого к сложному. Часть I. Библиотеки https://habr.com/ru/companies/ruvds/articles/871940/
     - .so (shared object)
     - .a (archive)
   - RAII
