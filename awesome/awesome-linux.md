@@ -161,10 +161,11 @@
             - Beginner's Guide to Syslogs in Linux https://linuxhandbook.com/syslog-guide/
     - ELF Файлы
         - Рецепты для ELFов https://habr.com/ru/companies/inforion/articles/460247/
-    - linux-vdso.so.1
+    - vDSO; linux-vdso.so.1
         - Linux Mystery: linux-vdso.so.1 http://austinkeeley.com/2021/04/25/linux-mystery-vsdo.html
         - vdso(7) — Linux manual page https://man7.org/linux/man-pages/man7/vdso.7.html
         - Understanding linux-vdso.so.1 https://github.com/ANSANJAY/VDSO/blob/main/5_linux-vdso/readme.md
+        - vDSO https://en.wikipedia.org/wiki/VDSO
     - Остальное
 - Файрволы, Firewalls
     - ufw
