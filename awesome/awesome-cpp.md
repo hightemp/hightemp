@@ -106,6 +106,7 @@
     - .a (archive)
   - Типы
     - Основное
+      - The types int and char https://www.ime.usp.br/~pf/algorithms/chapters/int-and-char.html#:~:text=An%20unsigned%20char%20is%20an,1%20byte%20using%20binary%20notation.
     - union
     - unsigned char
       - unsigned char in C with Examples https://www.geeksforgeeks.org/unsigned-char-in-c-with-examples/
