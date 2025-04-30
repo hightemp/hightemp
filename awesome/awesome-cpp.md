@@ -111,6 +111,7 @@
       - unsigned char in C with Examples https://www.geeksforgeeks.org/unsigned-char-in-c-with-examples/
   - union; Объединения
     - union https://learn.microsoft.com/ru-ru/cpp/cpp/unions
+    - Объединение https://www.scrutator.me/post/2023/12/25/union.aspx
     - Understanding Unions in C/C++ Programming https://medium.com/@pawan2505/understanding-unions-in-c-c-programming-43e16728a911
     - A Deep Dive into Struct, Union and Enum in C++ https://medium.com/@shantanulagvankar/a-deep-dive-into-struct-union-and-enum-in-c-8e155859ed1d
   - RAII
