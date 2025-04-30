@@ -107,6 +107,7 @@
     - .a (archive)
   - Типы
     - Основное
+      - Урок №33. Типы данных с плавающей точкой: float, double и long double https://ravesli.com/urok-33-tip-dannyh-s-plavayushhej-tochkoj-floating-point/
       - Типы данных в языке C++ https://allineed.ru/development/cpp-development/24-cpp-data-types
       - The types int and char https://www.ime.usp.br/~pf/algorithms/chapters/int-and-char.html#:~:text=An%20unsigned%20char%20is%20an,1%20byte%20using%20binary%20notation.
     - unsigned char
