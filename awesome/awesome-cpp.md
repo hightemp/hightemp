@@ -225,6 +225,8 @@
     - Анализ исходного кода ядра Linux: epoll https://blog.hongxiaolong.com/posts/epoll.html
 - Package management, Менеджеры пакетов
   - #1 The state of C++ package management: The big three https://twdev.blog/2024/08/cpp_pkgmng1/
+- Практики программирования 
+  - -Werror is Not Your Friend https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/
 - Отладка
   - Valgrind
     - Выявление ошибок в работе с памятью в C и C++: Сравниваем Sanitizers и Valgrind https://habr.com/ru/companies/otus/articles/801123/
