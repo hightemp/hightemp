@@ -193,6 +193,8 @@
   - Шаблоны, templates
     - Шаблоны https://education.yandex.ru/handbook/cpp/article/templates
   - SFINAE (Substitution Failure Is Not An Error - подстановка, не являющаяся ошибкой)
+  - LTO
+    - LinkTimeOptimization https://gcc.gnu.org/wiki/LinkTimeOptimization
   - Многопоточное программирование
     - Мьютексы, Mutexes
       - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
