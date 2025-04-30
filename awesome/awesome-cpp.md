@@ -112,6 +112,7 @@
       - Урок №31. Целочисленные типы данных: short, int и long https://ravesli.com/urok-31-tselochislennyj-tip-dannyh-integer/
       - Урок №32. Фиксированный размер целочисленных типов данных https://ravesli.com/urok-32-fiksirovannyj-razmer-integers-spor-naschet-unsigned/
       - Урок №33. Типы данных с плавающей точкой: float, double и long double https://ravesli.com/urok-33-tip-dannyh-s-plavayushhej-tochkoj-floating-point/
+      - Урок №34. Логический тип данных bool https://ravesli.com/urok-34-logicheskij-tip-dannyh-boolean/
       - Типы данных в языке C++ https://allineed.ru/development/cpp-development/24-cpp-data-types
       - The types int and char https://www.ime.usp.br/~pf/algorithms/chapters/int-and-char.html#:~:text=An%20unsigned%20char%20is%20an,1%20byte%20using%20binary%20notation.
     - Ссылочные типы
