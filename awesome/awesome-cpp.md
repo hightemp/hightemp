@@ -107,6 +107,8 @@
   - Типы
     - Основное
     - union
+    - unsigned char
+      - unsigned char in C with Examples https://www.geeksforgeeks.org/unsigned-char-in-c-with-examples/
   - RAII
     - Концепция RAII (Resource Acquisition Is Initialization) https://habr.com/ru/companies/otus/articles/778942/
     - Идиома RAII и умные указатели https://education.yandex.ru/handbook/cpp/article/raii-and-smart-pointers
