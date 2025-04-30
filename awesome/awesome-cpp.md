@@ -107,12 +107,12 @@
   - Типы
     - Основное
       - The types int and char https://www.ime.usp.br/~pf/algorithms/chapters/int-and-char.html#:~:text=An%20unsigned%20char%20is%20an,1%20byte%20using%20binary%20notation.
-    - union
-      - union https://learn.microsoft.com/ru-ru/cpp/cpp/unions
-      - Understanding Unions in C/C++ Programming https://medium.com/@pawan2505/understanding-unions-in-c-c-programming-43e16728a911
-      - A Deep Dive into Struct, Union and Enum in C++ https://medium.com/@shantanulagvankar/a-deep-dive-into-struct-union-and-enum-in-c-8e155859ed1d
     - unsigned char
       - unsigned char in C with Examples https://www.geeksforgeeks.org/unsigned-char-in-c-with-examples/
+  - union; Объединения
+    - union https://learn.microsoft.com/ru-ru/cpp/cpp/unions
+    - Understanding Unions in C/C++ Programming https://medium.com/@pawan2505/understanding-unions-in-c-c-programming-43e16728a911
+    - A Deep Dive into Struct, Union and Enum in C++ https://medium.com/@shantanulagvankar/a-deep-dive-into-struct-union-and-enum-in-c-8e155859ed1d
   - RAII
     - Концепция RAII (Resource Acquisition Is Initialization) https://habr.com/ru/companies/otus/articles/778942/
     - Идиома RAII и умные указатели https://education.yandex.ru/handbook/cpp/article/raii-and-smart-pointers
