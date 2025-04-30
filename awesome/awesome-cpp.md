@@ -103,6 +103,7 @@
     - Основное
       - Глава 3. БИБЛИОТЕКИ https://www.opennet.ru/docs/RUS/zlp/003.html
       - Сборка проектов Си и Си++: от простого к сложному. Часть I. Библиотеки https://habr.com/ru/companies/ruvds/articles/871940/
+      - Динамические и статические библиотеки. https://cpp-kt.github.io/cpp-notes/10_libraries.html
     - linux-vdso.so.1
       - Linux Mystery: linux-vdso.so.1 http://austinkeeley.com/2021/04/25/linux-mystery-vsdo.html
     - .so (shared object)
