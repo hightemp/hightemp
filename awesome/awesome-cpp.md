@@ -107,6 +107,7 @@
     - .a (archive)
   - Типы
     - Основное
+      - Урок №29. Тип данных void https://ravesli.com/urok-29-void/
       - Урок №30. Размер типов данных https://ravesli.com/urok-30-razmer-peremennyh-operator-sizeof/
       - Урок №31. Целочисленные типы данных: short, int и long https://ravesli.com/urok-31-tselochislennyj-tip-dannyh-integer/
       - Урок №32. Фиксированный размер целочисленных типов данных https://ravesli.com/urok-32-fiksirovannyj-razmer-integers-spor-naschet-unsigned/
