@@ -64,6 +64,7 @@
 ### Курсы
 
 - https://ravesli.com/uroki-cpp/
+- https://cpp-kt.github.io/cpp-notes/
 
 ### Блоги
 
