@@ -87,6 +87,7 @@
 - https://codeyarns.com/tech/index.html#cpp&gsc.tab=0
 - https://abseil.io/tips/
 - https://nimrod.blog/
+- https://maskray.me/blog/tags/clang/
 
 ### Статьи
 
