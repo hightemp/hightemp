@@ -128,6 +128,8 @@
         - True Zero Downtime HAProxy Reloads (В статье описывается, как Yelp реализовала решение для перезагрузки HAProxy без простоя, используя дисциплины очередей (qdiscs) в Linux для задержки SYN-пакетов во время перезагрузки, тем самым избегая обрывов соединений и минимизируя задержку по сравнению с другими подходами, такими как отбрасывание SYN-пакетов.) https://web.archive.org/web/20220520183147/https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html
     - Драйверы
         - Roadmap to Learning Linux Device Drivers https://pyjamabrah.com/posts/linux-device-drivers/?s=35
+    - FHS (Filesystem Hierarchy Standard); стандарт иерархии файловой системы
+        - FHS https://ru.wikipedia.org/wiki/FHS
     - /dev
         - Understanding the /dev Directory in Linux https://www.baeldung.com/linux/dev-directory
     - /proc
