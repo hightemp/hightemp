@@ -197,6 +197,7 @@
   - Флаги
     - -fno-semantic-interposition
       - -fno-semantic-interposition https://maskray.me/blog/2021-05-09-fno-semantic-interposition
+      - Red Hat Enterprise Linux 8.2 brings faster Python 3.8 run speeds https://developers.redhat.com/blog/2020/06/25/red-hat-enterprise-linux-8-2-brings-faster-python-3-8-run-speeds
     - -flto; LTO
       - LinkTimeOptimization https://gcc.gnu.org/wiki/LinkTimeOptimization
   - Многопоточное программирование
