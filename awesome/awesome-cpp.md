@@ -97,6 +97,7 @@
     - Упрощённое руководство по работе с памятью Си https://habr.com/ru/articles/711458/
   - Компиляция
     - О GCC, компиляции и библиотеках часть 2 https://uzverss.livejournal.com/57883.html
+    - Оптимизируя неоптимизируемое: ускорение компиляции C++ https://habr.com/ru/companies/ruvds/articles/785420/
   - Библиотеки
     - Основное
       - Глава 3. БИБЛИОТЕКИ https://www.opennet.ru/docs/RUS/zlp/003.html
