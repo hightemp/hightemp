@@ -96,6 +96,7 @@
     - Урок №80. Указатели https://ravesli.com/urok-80-ukazateli-vvedenie/
     - Упрощённое руководство по работе с памятью Си https://habr.com/ru/articles/711458/
   - Компиляция
+    - О GCC, компиляции и библиотеках https://pyviy.blogspot.com/2010/12/gcc.html
     - О GCC, компиляции и библиотеках часть 2 https://uzverss.livejournal.com/57883.html
     - Оптимизируя неоптимизируемое: ускорение компиляции C++ https://habr.com/ru/companies/ruvds/articles/785420/
   - Библиотеки
