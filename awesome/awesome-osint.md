@@ -127,6 +127,10 @@
 - Fire MAP NASA (https://firms.modaps.eosdis.nasa.gov/map/) — проект NASA, ориентированный на пожары и другие тепловые аномалии. Получает данные со спутников VIIRS и MODIS, обновляется ежедневно.
 - tertremo Live Earthquake Map (https://www.tertremo.com/), Earthquake Track (https://earthquaketrack.com/), Recent USGS Earthquakes (https://geoxc.maps.arcgis.com/apps/dashboards/91ad25496ee042fb91c8cd5f0e43f54d) и USGS Monthly Earthquakes (https://geoxc-apps2.bd.esri.com/Visualization/USGSQuakes/index.html) — фиксируют землетрясения, данные о которых собраны при помощи сети датчиков Геологической службы США (USGS).
 
+### Базы уязвимостей
+
+- EUVD (ENISA Vulnerability Database) — публичная база данных уязвимостей, собираемая регулирующим органом ЕС Европейским агентством кибербезопасности (ENISA), которая состоит из списка уязвимостей CVE с фильтрацией по продуктам, вендорам, оценкам CVSS и EPSS, включает альтернативные идентификаторы GHSA и EUVD, подробности уязвимостей и ссылки на эксплойты. https://euvd.enisa.europa.eu/
+
 ### Проверка IP/веб-сайта на абьюз и жалобы
 
 - https://www.abuseipdb.com - информация о  вредоносной активности с различных IP. Проект борется с вредоносной активностью в Интернете.
