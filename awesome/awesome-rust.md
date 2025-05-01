@@ -696,6 +696,8 @@
   - Channels, Каналы
     - Channels https://doc.rust-lang.org/rust-by-example/std_misc/channels.html
     - Channels https://dhghomon.github.io/easy_rust/Chapter_50.html
+  - Multithreading, Многопоточность
+    - Rust Multithreading: A Comprehensive Guide https://medium.com/@TechSavvyScribe/rust-multithreading-a-comprehensive-guide-f1e4a4cc0887
   - Errors, Ошибки
     - Rust error handling is perfect actually https://bitfieldconsulting.com/posts/rust-errors-option-result
     - Rust: обработка ошибок https://microsin.net/programming/pc/rust-error-handling.html
