@@ -44,6 +44,14 @@
 
 ### Книги
 
+- Время UNIX. A History and a Memoir 
+    - Автор: Брайан Керниган
+    - Статьи
+        - https://habr.com/ru/companies/piter/articles/525422/
+    - Ссылки
+        - https://www.litres.ru/book/brayan-kernigan/vremya-unix-a-history-and-a-memoir-pdf-epub-64082042/
+
+
 ### Полезные ссылки
 
 - Список инструментов Kali Linux https://kali.tools/
