@@ -913,6 +913,7 @@
 - Плагин даёт возможность Cursor читать, управлять и видоизменять файлы в Figma напрямую, как настоящий дизайнер. От идеи до полноценного дизайна пройдёт всего пару минут. Гайд по установке — тут. (https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) 
 - MCP Studio — предназначенное для разработки программного обеспечения под любые задачи приложение, позволяющее создавать, тестировать и публиковать собственные плагины на базе ИИ-модели Claude от Anthropic путём указания регистрационных данных пользователя, API-ключа и промпта. https://mcp.getflow.dev/
 - Toolbox by Smithery - многоагентный ИИ-помощник для одновременного взаимодействия с 4000 сервисами через интеграцию с MCP (Mechanism Component Pipeline). https://smithery.ai/server/@smithery/toolbox
+- MCP Inspector - разработческий инструмент для тестирования и отладки серверов MCP (Model Context Protocol). https://github.com/modelcontextprotocol/inspector
 
 ### Телеграм папки, Telegram folders
 
