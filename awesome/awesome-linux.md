@@ -344,6 +344,8 @@
     - LPIC-1 (exam 101) - Вводное видео для LPIC-1 (exam 101), или подготовка к курсу по администрированию Linux https://www.youtube.com/watch?v=rKCu-tfL730&list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc
     - LPIC-2 (exam 201) - LPIC 200.1 часть первая. Мониторинг CPU https://www.youtube.com/watch?v=wq2YcCoOKkE&list=PLmxB7JSpraidTqByo0ihkyExIbKfAB-B9
     - Linux System Administration Full Course https://www.youtube.com/watch?v=UCr04qIB7uc
+    - Linux System Administration Crash Course https://www.youtube.com/watch?v=qAMWG86sEm8
+    - Learn Linux - The Full Course https://www.youtube.com/watch?v=v392lEyM29A
 - Безопасность
     - Управление доступом в ОС Linux https://www.youtube.com/watch?v=V7oL3u_GNOg
     - Администрирование Линукс (Linux) - Урок 23 - Концепция безопасности DAC, MAC, SeLinux, AppArmor https://www.youtube.com/watch?v=3Tf5yQJJbz8
