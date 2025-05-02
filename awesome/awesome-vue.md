@@ -71,6 +71,7 @@
     - Visual Guide to the Modern Frontend Toolchain (Vite) https://www.youtube.com/watch?v=M_edImKoEt8
 - Курсы, Обучающие видео
     - The Ultimate Vue 3 Tutorial (100% Composition API) https://www.youtube.com/watch?v=I_xLMmNeLDY
+    - Master Vue.js Composition API: Build 10 Stunning Projects for Real-world Expertise! https://www.youtube.com/watch?v=pgWZLS75Nmo
 - https://www.youtube.com/c/LachlanMiller
 
 ### Книги
