@@ -69,6 +69,8 @@
     - Vue 3 для начинающих / Разработка интернет-магазина Vue Sneakers https://www.youtube.com/watch?v=U_-Ht_v-oAs
 - Vite
     - Visual Guide to the Modern Frontend Toolchain (Vite) https://www.youtube.com/watch?v=M_edImKoEt8
+- Курсы, Обучающие видео
+    - The Ultimate Vue 3 Tutorial (100% Composition API) https://www.youtube.com/watch?v=I_xLMmNeLDY
 - https://www.youtube.com/c/LachlanMiller
 
 ### Книги
