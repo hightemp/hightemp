@@ -74,6 +74,7 @@
     - Master Vue.js Composition API: Build 10 Stunning Projects for Real-world Expertise! https://www.youtube.com/watch?v=pgWZLS75Nmo
     - Vue 101 Crash Course: Learn Vue JS (6 HOURS!) + Build Your First Project | Zero To Mastery https://www.youtube.com/watch?v=IgBOT0QyByQ
     - Vue 3 Tutorial - Full Course 10 Hours 10 apps https://www.youtube.com/watch?v=e-E0UB-YDRk
+    - Архитектура больших Vue-приложений и лучшие практики // Демо-занятие курса «Vue.js разработчик» https://www.youtube.com/watch?v=4svekvtxYJs
 - https://www.youtube.com/c/LachlanMiller
 
 ### Книги
