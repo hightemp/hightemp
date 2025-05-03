@@ -1877,6 +1877,7 @@
   - Основы Golang В Одном Видео https://www.youtube.com/watch?v=qFoG8rDOyeM&list=PLbTTxxr-hMmxZMXsvaE-PozXxktdJ5zLR
   - Курс Golang за 100 минут для начинающих | Основы языка. Обучение разработке бесплатно. Golang с нуля https://www.youtube.com/watch?v=8dS7aT-s_H0
   - Go с нуля! Полный курс для начинающих простым и понятным языком https://www.youtube.com/watch?v=d91sOEh1vfc
+  - GOLANG ПОЛНЫЙ КУРС ДЛЯ НАЧИНАЮЩИХ | ЧАСТЬ 1 | ОСНОВЫ ПРОГРАММИРОВАНИЯ https://www.youtube.com/watch?v=dpvRDJjUJf8
 - Подготовка к собеседованию
   - Golang 100 вопросов с собеседований. Подготовка Go разработчика Часть 1 https://www.youtube.com/watch?v=ZvaD-G5_3vQ
 - Аунтификация
