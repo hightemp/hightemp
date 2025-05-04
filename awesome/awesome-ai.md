@@ -923,6 +923,7 @@
 - MCP Studio — предназначенное для разработки программного обеспечения под любые задачи приложение, позволяющее создавать, тестировать и публиковать собственные плагины на базе ИИ-модели Claude от Anthropic путём указания регистрационных данных пользователя, API-ключа и промпта. https://mcp.getflow.dev/
 - Toolbox by Smithery - многоагентный ИИ-помощник для одновременного взаимодействия с 4000 сервисами через интеграцию с MCP (Mechanism Component Pipeline). https://smithery.ai/server/@smithery/toolbox
 - MCP Inspector - разработческий инструмент для тестирования и отладки серверов MCP (Model Context Protocol). https://github.com/modelcontextprotocol/inspector
+- Twitter MCP (Массовый поиск и извлечение) - протокол для поиска и получения данных из социальных сетей, основанный на открытом программном обеспечении, позволяющий собирать твиты и профили пользователей сети Twitter без использования официального Twitter/X API. https://github.com/exa-labs/exa-mcp-server
 
 ### Телеграм папки, Telegram folders
 
