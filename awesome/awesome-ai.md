@@ -1023,11 +1023,14 @@
     - Нейронные сети для начинающих. Часть 1 https://habr.com/ru/articles/312450/
     - Краткий курс машинного обучения или как создать нейронную сеть для решения скоринг задачи https://habr.com/ru/articles/340792/
     - Вкатываемся в Machine Learning с нуля за ноль рублей: что, где, в какой последовательности изучить https://habr.com/ru/articles/774844/
-- Трансформеры
+- Трансформеры; Transformers
     - Основное
         - How Transformers Work https://towardsdatascience.com/transformers-141e32e69591
         - How Transformers Work: A Detailed Exploration of Transformer Architecture https://www.datacamp.com/tutorial/how-transformers-work?dc_referrer=https%3A%2F%2Fwww.google.ru%2F
         - Demystifying Transformer Architecture: The Magic of Positional Encoding https://medium.com/@waelrashwan/demystifying-transformer-architecture-the-magic-of-positional-encoding-5fe8154d4a64
+    - Diffusion transformers
+        - Autoregressive Distillation of Diffusion Transformers – CVPR25, Oral https://arxiv.org/abs/2504.11295
+        - FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute (https://arxiv.org/abs/2502.20126) – CVPR25, Spotlight
     - Внимание
         - Attention Is All You Need https://arxiv.org/pdf/1706.03762
 - embedding
@@ -1035,6 +1038,8 @@
 - Обучение
     - Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning; Порядок обучающих выборок имеет значение? Улучшение генерации текста из данных с помощью обучения по учебному плану https://arxiv.org/abs/2102.03554
     - V7 Labs: Качество обучающих данных: Почему это важно в машинном обучении; An Introductory Guide to Quality Training Data for Machine Learning https://www.v7labs.com/blog/quality-training-data-for-machine-learning-guide
+- Оптимизация вычислений; Computational Optimization
+    - Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment  (https://arxiv.org/abs/2501.19309)– ICLR25, Oral
 - Positional encoding
     - Positional Encoding https://medium.com/@hunter-j-phillips/positional-encoding-7a93db4109e6
     - Positional Encoding Explained: A Deep Dive into Transformer PE https://medium.com/thedeephub/positional-encoding-explained-a-deep-dive-into-transformer-pe-65cfe8cfe10b
