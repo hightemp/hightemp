@@ -1115,6 +1115,9 @@ https://arxiv.org/pdf/2411.08804v1
     - Как я победил в RAG Challenge: от нуля до SoTA за один конкурс https://habr.com/ru/articles/893356/
 - Nvidia
     - Installing the NVIDIA Container Toolkit https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
+- Когнитивная психология
+    - Метод "thin-slicing" (оценка на основе минимальной информации)
+        - The Art of Audience Engagement: LLM-Based Thin-Slicing of Scientific Talks https://arxiv.org/abs/2504.10768
 - Биология
     - Предсказание белков
         - Highly accurate protein structure prediction with AlphaFold https://www.nature.com/articles/s41586-021-03819-2
