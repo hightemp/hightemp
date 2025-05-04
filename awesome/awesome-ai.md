@@ -1114,6 +1114,9 @@ https://arxiv.org/pdf/2411.08804v1
     - Как я победил в RAG Challenge: от нуля до SoTA за один конкурс https://habr.com/ru/articles/893356/
 - Nvidia
     - Installing the NVIDIA Container Toolkit https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
+- Биология
+    - Предсказание белков
+        - Highly accurate protein structure prediction with AlphaFold https://www.nature.com/articles/s41586-021-03819-2
 - Подборки
     - 50+ полезных ML и AI-сервисов для вебмастеров https://hostpro.ua/blog/50-useful-ai-services-for-webmasters/
     - 10+ Open-source AI Agents: Based on GitHub Stars https://research.aimultiple.com/open-source-ai-agents/
@@ -1173,6 +1176,8 @@ https://arxiv.org/pdf/2411.08804v1
 - Учебник «Artificial Intelligence: A Modern Approach» (http://lib.ysu.am/disciplines_bk/efdd4d1d4c2087fe1cbe03d9ced67f34.pdf) - основополагающий университетский учебник по искусственному интеллекту, написанный Питером Норвигом и Стюартом Расселом в 1995 году, объёмом 1116 страниц.
 - Руководство по обучению больших языковых моделей (LLM) - руководство, предлагающее простое и понятное объяснение основных концепций разработки и развития больших языковых моделей, включая математические основы, нейросети, архитектуру и принципы работы Transformers. https://github.com/aburkov/theLMbook
 - Interpretable Machine Learning. A Guide for Making Black Box Models Explainable. Author Christoph Molnar https://christophm.github.io/interpretable-ml-book/
+- The Spike: An Epic Journey Through the Brain in 2.1 Seconds — книга, в которой обсуждаются идеи Хассабиса о связи нейронауки и ИИ. Демис Хассабис (Demis Hassabis) — британский учёный, сооснователь и глава Google DeepMind, пионер в области искусственного интеллекта, лауреат Нобелевской премии по химии 2024 года за прорывную работу в предсказании структуры белков с помощью ИИ.
+https://www.sackett.net/The-Spike.pdf
 
 ### Гайды
 
