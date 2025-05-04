@@ -169,6 +169,7 @@
 - https://www.ai21.com/
 - https://www.ninjachat.ai/
 - https://lambda.chat/
+- http://chat.z.ai/
 - [https://chat.kuki.ai/](https://chat.kuki.ai/) (простой чат)
 - [https://chatdoc.com/](https://chatdoc.com/) (аналогично ChatPDF)
 - [https://chatgpt.com](https://chatgpt.com) (ChatGPT)
