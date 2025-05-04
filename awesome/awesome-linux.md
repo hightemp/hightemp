@@ -338,6 +338,8 @@
         - Linux Kernel. 1 - Исследуем системный вызов fork https://www.youtube.com/watch?v=KIaTpku7wEI
     - Остальное
         - Обзорная иллюстрация компонент и интерфейсов Linux https://www.youtube.com/watch?v=V3gI8-8k8Q4&list=PLHHm04DXWzeKZycf_ZuBgxWdVBnrjE_mj
+- ELF
+    - In-depth: ELF - The Extensible & Linkable Format https://www.youtube.com/watch?v=nC1U1LJQL8o
 - Администрирование
     - 1. LINUX. Основы - Курс · Администрирование Linux https://www.youtube.com/watch?v=CQ4YpkeG3mQ&list=PLrCZzMib1e9rx3HmaLQfLYb9ociIvYOY1
     - Настройка Linux - Настраиваем iptables с нуля https://www.youtube.com/watch?v=Q0EC8kJlB64&list=PLc7C4rck3fYuj44Uun6-XyxXw_hoyRwPj
