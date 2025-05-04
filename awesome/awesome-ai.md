@@ -224,6 +224,7 @@
 
 - https://learnprompting.org/
 - https://promptmetheus.com/
+- обнародованная коллекция скрытых инструкций (промптов), позволяющих обходить встроенные ограничения у передовых систем искусственного интеллекта, таких как ChatGPT, Claude, Grok-3, GitHub Copilot и Perplexity https://github.com/jujumilk3/leaked-system-prompts
 
 ### Работа с документами
 
