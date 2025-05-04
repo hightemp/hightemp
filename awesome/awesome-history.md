@@ -198,6 +198,9 @@
         Издательство предлагает читателю текст Северной и Восточной Тартарии в полном объёме и с оригинальными иллюстрациями издания 1705 года.
     - Ссылки
         - https://m.vk.com/wall-56611080_188736
+        - Купить
+            - https://osnt.ru/product/severnaya-i-vostochnaya-tartariya-nikolaas-vitsen-v-3-tomah/
+            - https://www.avito.ru/moskva/knigi_i_zhurnaly/severnaya_i_vostochnaya_tartariya.nikolaas_vitsen_3139884263
 - Пьер Марешаль, Pierre Sylvain Maréchal
     - История России; Histoire de la Russie, réduite aux seuls faits importans; 1802
         - https://books.google.com/books?id=7dNdAAAAcAAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false
