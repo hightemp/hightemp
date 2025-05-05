@@ -914,6 +914,7 @@
   - Утечки памяти
     - Avoiding Memory Leak in Golang API https://medium.easyread.co/avoiding-memory-leak-in-golang-api-1843ef45fca8
   - Остальное
+    - Optimizing Go Microservices for Low Latency & High Throughput https://muratdemirci.com.tr/en/optimizing-go-microservices/
     - Оптимизация доступа к элементам слайса в Go https://habr.com/ru/articles/717716/
     - Гармония железа и кода: ускоряем Go, проектируя приложение с учетом архитектуры процессора https://habr.com/ru/companies/cloud_ru/articles/878088/
     - Maps and memory leaks https://100go.co/28-maps-memory-leaks/
