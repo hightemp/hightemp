@@ -497,6 +497,8 @@
     - Understanding Iterators in Go: A Fun Dive! https://dev.to/tuna99/understanding-iterators-in-go-a-fun-dive-1c57
   - iota
     - 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
+  - panic
+    - When is it OK to panic in Go? https://www.alexedwards.net/blog/when-is-it-ok-to-panic-in-go
   - Пакеты стандартной библиотеки
     - reflect
       - Reflections in Go https://go101.org/article/reflection.html
