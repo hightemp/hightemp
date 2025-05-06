@@ -274,6 +274,7 @@
 - Расширения
   - pthreads
     - Ubuntu 16.04: How to install ZTS enabled PHP7 and the pThreads module https://www.rapidspike.com/blog/php7-pthreads/
+    - Ubuntu 16.04: How to manually compile PHP 7.2 with ZTS enabled and the pThreads module installed https://www.rapidspike.com/blog/php72-pthreads/
   - parallel
     - Exploring Concurrency and Parallelism in PHP: Hands-On Tutorials and Tips https://dev.to/mdarifulhaque/exploring-concurrency-and-parallelism-in-php-hands-on-tutorials-and-tips-2kc6
     - Handling Concurrency and Parallelism in PHP Applications: Techniques and Tools https://dev.to/abhay_yt_52a8e72b213be229/handling-concurrency-and-parallelism-in-php-applications-techniques-and-tools-56l
