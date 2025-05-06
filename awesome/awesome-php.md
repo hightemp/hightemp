@@ -217,6 +217,7 @@
     - hashtables. Basic structure https://www.phpinternalsbook.com/php5/hashtables/basic_structure.html
     - PHP's new hashtable implementation 22. December 2014 https://www.npopov.com/2014/12/22/PHPs-new-hashtable-implementation.html
     - Understanding PHP's internal array implementation (PHP's Source Code for PHP Developers - Part 4) 28. March 2012 https://www.npopov.com/2012/03/28/Understanding-PHPs-internal-array-implementation.html
+    - Writing PHP Extensions - 9. PHP Arrays https://www.zend.com/resources/php-extensions/php-arrays
   - Числа с плавающей точкой, float
     - PHP целые числа, числа с плавающей точкой и числовые строки https://code.tutsplus.com/ru/php-integers-floats-and-number-strings--cms-32048t
     - PHP: Сравнение чисел с плавающей точкой https://developer.donnoval.ru/sravnenie-chisel-s-plavayushhej-tochkoj-v-php/
