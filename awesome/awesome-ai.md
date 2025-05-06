@@ -1182,6 +1182,7 @@ https://arxiv.org/pdf/2411.08804v1
 - Interpretable Machine Learning. A Guide for Making Black Box Models Explainable. Author Christoph Molnar https://christophm.github.io/interpretable-ml-book/
 - The Spike: An Epic Journey Through the Brain in 2.1 Seconds — книга, в которой обсуждаются идеи Хассабиса о связи нейронауки и ИИ. Демис Хассабис (Demis Hassabis) — британский учёный, сооснователь и глава Google DeepMind, пионер в области искусственного интеллекта, лауреат Нобелевской премии по химии 2024 года за прорывную работу в предсказании структуры белков с помощью ИИ.
 https://www.sackett.net/The-Spike.pdf
+- это веб-сайт, содержащий бесплатную онлайн-книгу "Neural Networks and Deep Learning" (Нейронные сети и глубокое обучение) http://neuralnetworksanddeeplearning.com/
 
 ### Гайды
 
