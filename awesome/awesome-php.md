@@ -248,6 +248,8 @@
     - File Handling In PHP 8 - Reading And Writing File https://www.dailycomputerscience.com/post/file-handling-in-php-8-reading-and-writing-file
   - Property hooks
     - PHP 8.4 Property Hooks: Can we get rid of getters/setters now? A benchmark. https://tideways.com/profiler/blog/php-8-4-property-hooks-can-we-get-rid-of-getters-setters-now-a-benchmark
+  - Errors; Ошибки
+    - Modern Error handling in PHP https://netgen.io/blog/modern-error-handling-in-php
   - Reflections
     - Введение в PHP Reflection API https://habr.com/ru/articles/433266/
     - Exploring the Power of ReflectionClass in PHP https://rakibdevs.medium.com/exploring-the-power-of-reflectionclass-in-php-a26d5ce533f3
