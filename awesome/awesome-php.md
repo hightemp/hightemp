@@ -155,6 +155,7 @@
 ### Книги
 
 - Clean Code PHP https://github.com/piotrplenik/clean-code-php
+- PHP Internals Book https://www.phpinternalsbook.com/index.html
 
 ### Блоги
 
