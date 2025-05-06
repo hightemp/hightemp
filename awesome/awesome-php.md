@@ -275,6 +275,7 @@
   - pthreads
   - parallel
     - Exploring Concurrency and Parallelism in PHP: Hands-On Tutorials and Tips https://dev.to/mdarifulhaque/exploring-concurrency-and-parallelism-in-php-hands-on-tutorials-and-tips-2kc6
+    - Handling Concurrency and Parallelism in PHP Applications: Techniques and Tools https://dev.to/abhay_yt_52a8e72b213be229/handling-concurrency-and-parallelism-in-php-applications-techniques-and-tools-56l
   - pcntl
 - Swagger, OpenAPI
   - NelmioApiDocBundle https://symfony.com/bundles/NelmioApiDocBundle/current/index.html
