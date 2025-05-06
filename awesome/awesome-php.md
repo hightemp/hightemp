@@ -214,7 +214,8 @@
   - Arrays; Массивы
     - Как устроены массивы в PHP https://habr.com/ru/articles/162685/
     - PHP 7 получит в два раза более эффективный Hashtable https://habr.com/ru/articles/247145/
-    - hashtables Basic structure https://www.phpinternalsbook.com/php5/hashtables/basic_structure.html
+    - hashtables. Basic structure https://www.phpinternalsbook.com/php5/hashtables/basic_structure.html
+    - Understanding PHP's internal array implementation (PHP's Source Code for PHP Developers - Part 4) 28. March 2012 https://www.npopov.com/2012/03/28/Understanding-PHPs-internal-array-implementation.html
   - Числа с плавающей точкой, float
     - PHP целые числа, числа с плавающей точкой и числовые строки https://code.tutsplus.com/ru/php-integers-floats-and-number-strings--cms-32048t
     - PHP: Сравнение чисел с плавающей точкой https://developer.donnoval.ru/sravnenie-chisel-s-plavayushhej-tochkoj-v-php/
