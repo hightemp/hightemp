@@ -1105,6 +1105,8 @@ https://arxiv.org/pdf/2411.08804v1
     - What is Continuous Pretraining? https://docs.arcee.ai/continuous-pretraining/what-is-continuous-pretraining
 - Reinforcement learning; обучение с подкреплением
     - Как мы готовим RL для Alignment в больших языковых моделях: опыт команды YandexGPT https://habr.com/ru/companies/yandex/articles/817391/
+- Квантование
+    - Quantization for Neural Networks https://leimao.github.io/article/Neural-Networks-Quantization/
 - Визуальные модели
     - LP-DETR: Layer-wise Progressive Relations for Object Detection https://www.aimodels.fyi/papers/arxiv/lp-detr-layer-wise-progressive-relations-object
 - Ускорение LLM
