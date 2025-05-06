@@ -1107,6 +1107,7 @@ https://arxiv.org/pdf/2411.08804v1
     - Как мы готовим RL для Alignment в больших языковых моделях: опыт команды YandexGPT https://habr.com/ru/companies/yandex/articles/817391/
 - Квантование
     - Quantization for Neural Networks https://leimao.github.io/article/Neural-Networks-Quantization/
+    - Building a quantization paradigm from first principles https://github.com/google/gemmlowp/blob/16e8662c34917be0065110bfcd9cc27d30f52fdf/doc/quantization.md
 - Визуальные модели
     - LP-DETR: Layer-wise Progressive Relations for Object Detection https://www.aimodels.fyi/papers/arxiv/lp-detr-layer-wise-progressive-relations-object
 - Ускорение LLM
