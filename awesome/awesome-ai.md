@@ -1120,6 +1120,8 @@ https://arxiv.org/pdf/2411.08804v1
     - Installing the NVIDIA Container Toolkit https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
 - TinyML
     - TinyML - Quantization Aware Training https://github.com/thommaskevin/TinyML/tree/cc0b870e1e86ce2ac56ab9b0df58193c16b12c89/22_QAT
+- Микроконтроллеры
+    - Towards the cutest neural network https://kevinlynagh.com/towards-the-cutest-neural-network/
 - Когнитивная психология
     - Метод "thin-slicing" (оценка на основе минимальной информации)
         - The Art of Audience Engagement: LLM-Based Thin-Slicing of Scientific Talks https://arxiv.org/abs/2504.10768
