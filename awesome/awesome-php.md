@@ -271,6 +271,11 @@
     - How to Build Your First PHP Package https://laravel-news.com/create-a-php-package-from-scratch?utm_source=weeklyphp&utm_medium=email
   - Альясы, Aliases
     - Использование алиасов в Composer https://php.dragomano.ru/ispolzovanie-aliasov-v-composer/
+- Расширения
+  - pthreads
+  - parallel
+    - Exploring Concurrency and Parallelism in PHP: Hands-On Tutorials and Tips https://dev.to/mdarifulhaque/exploring-concurrency-and-parallelism-in-php-hands-on-tutorials-and-tips-2kc6
+  - pcntl
 - Swagger, OpenAPI
   - NelmioApiDocBundle https://symfony.com/bundles/NelmioApiDocBundle/current/index.html
 - Doctrine
