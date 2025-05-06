@@ -277,8 +277,6 @@
     - Ubuntu 16.04: How to manually compile PHP 7.2 with ZTS enabled and the pThreads module installed https://www.rapidspike.com/blog/php72-pthreads/
   - parallel
     - Install PHP 8.0 ZTS with ext-parallel in Ubuntu https://harry.plus/blog/install-php-zts-with-ext-parallel-in-ubuntu/
-    - Exploring Concurrency and Parallelism in PHP: Hands-On Tutorials and Tips https://dev.to/mdarifulhaque/exploring-concurrency-and-parallelism-in-php-hands-on-tutorials-and-tips-2kc6
-    - Handling Concurrency and Parallelism in PHP Applications: Techniques and Tools https://dev.to/abhay_yt_52a8e72b213be229/handling-concurrency-and-parallelism-in-php-applications-techniques-and-tools-56l
   - pcntl
 - Swagger, OpenAPI
   - NelmioApiDocBundle https://symfony.com/bundles/NelmioApiDocBundle/current/index.html
@@ -291,7 +289,11 @@
   - pthreads
     - How to use Multithreading in php https://medium.com/@codingpanel/how-to-use-multithreading-in-php-55b4e3ad69ee
     - PHP and Threads: Multithreading and Parallel Execution in PHP https://reintech.io/blog/php-and-threads-multithreading-and-parallel-execution
+  - System V
+    - Parallelism in PHP — fork & system V message queues https://medium.com/@mikhail.chuloshnikov/parallelism-in-php-fork-system-v-message-queues-cf410a7f6a20
   - Остальное
+    - Exploring Concurrency and Parallelism in PHP: Hands-On Tutorials and Tips https://dev.to/mdarifulhaque/exploring-concurrency-and-parallelism-in-php-hands-on-tutorials-and-tips-2kc6
+    - Handling Concurrency and Parallelism in PHP Applications: Techniques and Tools https://dev.to/abhay_yt_52a8e72b213be229/handling-concurrency-and-parallelism-in-php-applications-techniques-and-tools-56l
     - Getting Symfony app ready for Swoole, RoadRunner, and FrankenPHP (no AI involved) https://dev.to/sergiid/getting-symfony-app-ready-for-swoole-roadrunner-and-frankenphp-no-ai-involved-2d0g
 - Оптимизация
   - Optimizing PHP Performance for High-Traffic Websites: Best Practices and Techniques https://medium.com/@chirag.dave/optimizing-php-performance-for-high-traffic-websites-best-practices-and-techniques-d03fc0f79ea6
