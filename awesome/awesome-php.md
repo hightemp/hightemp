@@ -250,6 +250,7 @@
     - PHP 8.4 Property Hooks: Can we get rid of getters/setters now? A benchmark. https://tideways.com/profiler/blog/php-8-4-property-hooks-can-we-get-rid-of-getters-setters-now-a-benchmark
   - Errors; Ошибки
     - Modern Error handling in PHP https://netgen.io/blog/modern-error-handling-in-php
+    - WTF is T_PAAMAYIM_NEKUDOTAYIM https://philsturgeon.com/wtf-is-t-paamayim-nekudotayim/
   - Reflections
     - Введение в PHP Reflection API https://habr.com/ru/articles/433266/
     - Exploring the Power of ReflectionClass in PHP https://rakibdevs.medium.com/exploring-the-power-of-reflectionclass-in-php-a26d5ce533f3
