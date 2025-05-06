@@ -208,6 +208,10 @@
     - A guide to PHP attributes https://www.honeybadger.io/blog/php-attributes-guide/
     - Using PHP attributes easily https://dev.to/icolomina/using-php-attributes-easily-2fpo
     - Attributes In PHP 8 https://www.dailycomputerscience.com/post/attributes-in-php-8
+  - Objects; Объекты
+    - Объекты в PHP 7 https://habr.com/ru/companies/vk/articles/275497/
+  - Arrays; Массивы
+    - Как устроены массивы в PHP https://habr.com/ru/articles/162685/
   - Числа с плавающей точкой, float
     - PHP целые числа, числа с плавающей точкой и числовые строки https://code.tutsplus.com/ru/php-integers-floats-and-number-strings--cms-32048t
     - PHP: Сравнение чисел с плавающей точкой https://developer.donnoval.ru/sravnenie-chisel-s-plavayushhej-tochkoj-v-php/
