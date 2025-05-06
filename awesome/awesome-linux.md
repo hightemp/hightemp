@@ -62,6 +62,7 @@
     - Группа по интересам West Post Linux Бесплатный Открытый Доступ https://www.xiyoulinux.com/
 - ExplainShell — это онлайн-сервис для анализа и упрощения понимания команд командной строки в Linux, в котором пользователь вводит команду, а сайт разбирает ее, предоставляя подробное объяснение каждого аргумента и опции на основании данных из руководств.https://www.explainshell.com/
 - Переводы man'ов http://linuxshare.ru/projects/trans/index.html
+- Linux kernel syscall tables https://syscalls.mebeim.net/?table=x86/64/x64/latest
 
 ### Полезные утилиты
 
