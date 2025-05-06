@@ -213,6 +213,7 @@
   - Arrays; Массивы
     - Как устроены массивы в PHP https://habr.com/ru/articles/162685/
     - PHP 7 получит в два раза более эффективный Hashtable https://habr.com/ru/articles/247145/
+    - hashtables Basic structure https://www.phpinternalsbook.com/php5/hashtables/basic_structure.html
   - Числа с плавающей точкой, float
     - PHP целые числа, числа с плавающей точкой и числовые строки https://code.tutsplus.com/ru/php-integers-floats-and-number-strings--cms-32048t
     - PHP: Сравнение чисел с плавающей точкой https://developer.donnoval.ru/sravnenie-chisel-s-plavayushhej-tochkoj-v-php/
