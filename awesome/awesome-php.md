@@ -194,6 +194,7 @@
 - https://aschmelyun.com/blog/?category=php
 - https://www.strangebuzz.com/en/blog/tag/php
 - https://blog.digital-craftsman.de/
+- https://lukasrotermund.de/tags/php/
 
 ### Статьи
 
@@ -218,6 +219,7 @@
     - PHP's new hashtable implementation 22. December 2014 https://www.npopov.com/2014/12/22/PHPs-new-hashtable-implementation.html
     - Understanding PHP's internal array implementation (PHP's Source Code for PHP Developers - Part 4) 28. March 2012 https://www.npopov.com/2012/03/28/Understanding-PHPs-internal-array-implementation.html
     - Writing PHP Extensions - 9. PHP Arrays https://www.zend.com/resources/php-extensions/php-arrays
+    - PHP arrays have driven me mad https://lukasrotermund.de/posts/php-array-object-benchmarking/
   - Числа с плавающей точкой, float
     - PHP целые числа, числа с плавающей точкой и числовые строки https://code.tutsplus.com/ru/php-integers-floats-and-number-strings--cms-32048t
     - PHP: Сравнение чисел с плавающей точкой https://developer.donnoval.ru/sravnenie-chisel-s-plavayushhej-tochkoj-v-php/
