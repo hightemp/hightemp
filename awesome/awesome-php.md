@@ -167,6 +167,7 @@
   - Автор: Larry Garfield
   - Ссылки:
     - https://leanpub.com/exploringphp80
+    - https://platform.sh/static/80ff61e9996c5b21a106a78574b9edf5/exploringphp80_2a7796a9e1.pdf
 
 ### Блоги
 
