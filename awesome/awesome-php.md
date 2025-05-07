@@ -226,6 +226,7 @@
     - Подробно об объектах и классах в PHP https://habr.com/ru/companies/vk/articles/255237/
     - Объекты в PHP 7 https://habr.com/ru/companies/vk/articles/275497/
   - Arrays; Массивы
+    - PHP: Use associative arrays basically never https://hive.blog/php/@crell/php-use-associative-arrays-basically-never
     - Как устроены массивы в PHP https://habr.com/ru/articles/162685/
     - PHP 7 получит в два раза более эффективный Hashtable https://habr.com/ru/articles/247145/
     - hashtables. Basic structure https://www.phpinternalsbook.com/php5/hashtables/basic_structure.html
