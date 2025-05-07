@@ -258,6 +258,7 @@
     - Exploring the Power of ReflectionClass in PHP https://rakibdevs.medium.com/exploring-the-power-of-reflectionclass-in-php-a26d5ce533f3
     - Reflection API. Заглянуть внутрь своего кода или как программа может модифицировать собственную структуру https://dev.awelite.ru/blog/reflection-api-zaglyanut-vnutr-svoego-koda-ili-kak-programma-mozhet-modifitsirovat-sobstvennuyu-stru/
   - Остальное
+    - Type variance in PHP 08. November 2021 https://www.npopov.com/2021/11/08/Type-variance-in-PHP.html
     - Готовимся к собеседованию по PHP: Что такое «DI», «Container», «Auto-wiring» за семь простых шагов https://habr.com/ru/articles/655399/
     - Готовимся к собеседованию по PHP: ключевое слово «static» https://habr.com/ru/articles/259627/
     - Готовимся к собеседованию по PHP: псевдотип «callable» https://habr.com/ru/articles/259991/
