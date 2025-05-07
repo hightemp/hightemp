@@ -207,6 +207,7 @@
 - https://www.strangebuzz.com/en/blog/tag/php
 - https://blog.digital-craftsman.de/
 - https://lukasrotermund.de/tags/php/
+- https://www.npopov.com/
 
 ### Статьи
 
