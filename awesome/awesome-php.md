@@ -262,6 +262,8 @@
     - File Handling In PHP 8 - Reading And Writing File https://www.dailycomputerscience.com/post/file-handling-in-php-8-reading-and-writing-file
   - Property hooks
     - PHP 8.4 Property Hooks: Can we get rid of getters/setters now? A benchmark. https://tideways.com/profiler/blog/php-8-4-property-hooks-can-we-get-rid-of-getters-setters-now-a-benchmark
+  - Garbage collector; Сборщик мусора
+    - https://tideways.com/profiler/blog/how-to-optimize-the-php-garbage-collector-usage-to-improve-memory-and-performance
   - Errors; Ошибки
     - Modern Error handling in PHP https://netgen.io/blog/modern-error-handling-in-php
     - WTF is T_PAAMAYIM_NEKUDOTAYIM https://philsturgeon.com/wtf-is-t-paamayim-nekudotayim/
