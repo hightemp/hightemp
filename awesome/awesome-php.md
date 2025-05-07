@@ -265,6 +265,7 @@
   - Garbage collector; Сборщик мусора
     - What Is Garbage Collection in PHP And How Do You Make The Most Of It? https://tideways.com/profiler/blog/what-is-garbage-collection-in-php-and-how-do-you-make-the-most-of-it
     - How to optimize the PHP garbage collector usage to improve memory and performance? https://tideways.com/profiler/blog/how-to-optimize-the-php-garbage-collector-usage-to-improve-memory-and-performance
+    - PHP: The Garbage Collector explained with simple words https://dev.to/spo0q/php-the-garbage-collector-explained-with-simple-words-1b7d
   - Errors; Ошибки
     - Modern Error handling in PHP https://netgen.io/blog/modern-error-handling-in-php
     - WTF is T_PAAMAYIM_NEKUDOTAYIM https://philsturgeon.com/wtf-is-t-paamayim-nekudotayim/
