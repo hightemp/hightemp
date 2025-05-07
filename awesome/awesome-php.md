@@ -383,6 +383,10 @@
   - Modern PHP Without a Framework https://kevinsmith.io/modern-php-without-a-framework/
   - FrankenPHP: A Modern PHP App Server in Go (Install + Use) https://linuxtldr.com/installing-frankenphp/
 
+### Видео
+
+- PHPKonf 2021 - Larry Garfield: Never* use arrays https://www.youtube.com/watch?v=nNtulOOZ0GY
+
 ### Презентации
 
 - Testing with Doubles: Why, When, and How? https://thephp.cc/presentations/testing-with-doubles-why-when-and-how
