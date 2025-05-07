@@ -11,6 +11,7 @@
 - Учебник «Программирование: введение в профессию» ориентирован на самостоятельное изучение и предполагает использование систем семейства Unix (в т.ч. Linux) в роли сквозной среды для обучения. Андрей Викторович Столяров
     - http://stolyarov.info/books/pdf/progintro_2_9_v1.pdf
     - http://stolyarov.info/books/pdf/progintro_2_9_v2.pdf
+- The Garbage Collection Handbook. The art of automatic memory management. Richard Jones, Antony Hosking, Eliot Moss https://gchandbook.org/
 
 ### Статьи
 
