@@ -158,6 +158,15 @@
 
 - Clean Code PHP https://github.com/piotrplenik/clean-code-php
 - PHP Internals Book https://www.phpinternalsbook.com/index.html
+- Thinking Functionally in PHP
+  - Автор: Larry Garfield
+  - Ссылки:
+    - https://www.goodreads.com/book/show/55921135-thinking-functionally-in-php
+    - https://leanpub.com/thinking-functionally-in-php
+- Exploring PHP 8.0
+  - Автор: Larry Garfield
+  - Ссылки:
+    - https://leanpub.com/exploringphp80
 
 ### Блоги
 
