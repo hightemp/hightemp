@@ -225,6 +225,7 @@
   - Objects; Объекты
     - Подробно об объектах и классах в PHP https://habr.com/ru/companies/vk/articles/255237/
     - Объекты в PHP 7 https://habr.com/ru/companies/vk/articles/275497/
+    - Why objects (usually) use less memory than arrays in PHP https://gist.github.com/nikic/5015323
   - Arrays; Массивы
     - PHP: Use associative arrays basically never https://hive.blog/php/@crell/php-use-associative-arrays-basically-never
     - Как устроены массивы в PHP https://habr.com/ru/articles/162685/
