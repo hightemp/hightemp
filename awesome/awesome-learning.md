@@ -74,6 +74,9 @@
 ### Тренажеры слепой печати
 
 - https://www.typingclub.com/
+- https://www.keybr.com/
+- https://www.ratatype.com/
+- https://staminaon.com/en/
 
 ### Digital Garden
 
