@@ -811,3 +811,5 @@
     - Exploring Rust's libp2p: A Live Learning Journey https://www.youtube.com/watch?v=u3uvd3-7g3c
     - Introduction to Rust Libp2p - Pierre Krieger https://www.youtube.com/watch?v=HqSXFlCwgMY
     - Report Back - libp2p Scaling for live broadcast https://www.youtube.com/watch?v=sc5D_yYFO3Y
+- Остальное
+  - Rust База до Отказа: Анатомия и Парадигма Rust https://www.youtube.com/watch?v=oKydVXrzU6Q
