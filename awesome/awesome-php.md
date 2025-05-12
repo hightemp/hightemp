@@ -208,6 +208,7 @@
 - https://blog.digital-craftsman.de/
 - https://lukasrotermund.de/tags/php/
 - https://www.npopov.com/
+- https://hive.blog/@crell
 
 ### Статьи
 
