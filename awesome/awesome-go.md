@@ -1038,6 +1038,8 @@
         - How to Parse a JSON Request Body in Go https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
         - Understanding bytes in Go by building a TCP protocol https://ieftimov.com/posts/understanding-bytes-golang-build-tcp-protocol/
         - Пишем ping на Go: сможем ли составить конкуренцию стандартному ping? https://habr.com/ru/companies/yadro/articles/870584/
+      - http.ServeMux
+        - An Introduction to Handlers and Servemuxes in Go https://www.alexedwards.net/blog/an-introduction-to-handlers-and-servemuxes-in-go
       - Остальное
         - Самоучитель по Go для начинающих. Часть 17. Основы сетевого программирования. Стек TCP/IP. Сокеты. Пакет net https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-17-osnovy-setevogo-programmirovaniya-stek-tcp-ip-sokety-paket-net-2024-11-15
         - Самоучитель по Go для начинающих. Часть 18. Протокол HTTP. Создание HTTP-сервера и клиента. Пакет net/http https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-18-protokol-http-sozdanie-http-servera-i-klienta-paket-net-http-2024-12-13
