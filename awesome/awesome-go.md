@@ -1051,6 +1051,7 @@
         - Go: Dump HTTP Request https://blog.cubieserver.de/2016/go-dump-http-request/
         - A story about Go http.Client https://www.jacoelho.com/blog/2017/08/a-story-about-go-http.client/
         - HTTP Connection reuse in Go clients https://blog.cubieserver.de/2022/http-connection-reuse-in-go-clients/
+        - Пишем web-фреймворк на Go: как работают современные web-фреймворки под капотом https://habr.com/ru/articles/902496/
     - KeepAlive
       - Reliable TCP Connections in Go with Keepalive https://wqwq3215.medium.com/reliable-tcp-connections-in-go-with-keepalive-fd4eac7cc986
       - Maintaining Healthy TCP Connections in Golang https://bencane.com/keeping-tcp-connections-alive-in-golang-801a78b7cf1
