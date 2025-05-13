@@ -988,6 +988,7 @@
   - Mastering Golang — Part 7: Read File https://blog.stackademic.com/mastering-golang-part-6-read-file-41a8292497e5
   - Создание временного файла и временной директории в Golang http://xztvc.ru/post/sozdanie-vremennogo-fajla-i-vremennoj-direktorii-v-golang
 - FFI
+  - Туториал: использование Go из PHP через FFI https://habr.com/ru/articles/902532/
   - Cross-Language Data Encryption: PHP and Golang with PHP FFI https://encoresky.com/blog/cross-language-data-encryption-php-and-golang-with-php-ffi
 - Базы данных
   - PostgreSQL
