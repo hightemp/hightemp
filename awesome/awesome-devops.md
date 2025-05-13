@@ -39,6 +39,8 @@
 
 - https://proverator.ru/
 - https://www.ssllabs.com/ssltest/
+- https://github.com/selivan/https-ssl-cert-check-zabbix
+- https://github.com/timewasted/go-check-certs
 
 ### Полезные ссылки
 
@@ -176,6 +178,8 @@
     - Хранилище на базе Ceph: что нужно знать для эффективного использования https://www.rusonyx.ru/blog/post/hranilishche-na-baze-ceph/
 - Безопасность
     - Повышаем безопасность контейнеров Docker https://habr.com/ru/companies/slurm/articles/320552/
+- Подборки
+    - List of Free & Open Source self hosted Application for SSL Certificate expiration Check https://www.devopsschool.com/blog/list-of-free-open-source-self-hosted-application-for-ssl-certificate-expiration-check/
 
 ### Блоги
 
