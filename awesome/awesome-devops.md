@@ -41,6 +41,7 @@
 - https://www.ssllabs.com/ssltest/
 - https://github.com/selivan/https-ssl-cert-check-zabbix
 - https://github.com/timewasted/go-check-certs
+- https://github.com/drtoful/certinel
 
 ### Полезные ссылки
 
