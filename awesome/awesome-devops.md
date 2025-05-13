@@ -41,7 +41,7 @@
 - https://www.ssllabs.com/ssltest/
 - https://github.com/selivan/https-ssl-cert-check-zabbix
 - https://github.com/timewasted/go-check-certs
-- https://github.com/drtoful/certinel
+- Certinel - это небольшая утилита, позволяющая отслеживать действительность и статус ваших веб-сайтов с поддержкой SSL/TLS, созданная для мониторинга срока действия SSL-сертификатов и их статуса, так как сертификаты Let's Encrypt действительны всего 90 дней, и в настоящее время нет доступных средств автоматизации или мониторинга, поэтому лучше следить за статусом сертификатов с помощью Certinel. https://github.com/drtoful/certinel
 
 ### Полезные ссылки
 
