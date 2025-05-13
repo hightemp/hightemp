@@ -264,6 +264,7 @@
     - File Handling In PHP 8 - Reading And Writing File https://www.dailycomputerscience.com/post/file-handling-in-php-8-reading-and-writing-file
   - Property hooks
     - PHP 8.4 Property Hooks: Can we get rid of getters/setters now? A benchmark. https://tideways.com/profiler/blog/php-8-4-property-hooks-can-we-get-rid-of-getters-setters-now-a-benchmark
+    - Property hooks in Practice https://hive.blog/hive-168588/@crell/property-hooks-in-practice
   - Garbage collector; Сборщик мусора
     - What Is Garbage Collection in PHP And How Do You Make The Most Of It? https://tideways.com/profiler/blog/what-is-garbage-collection-in-php-and-how-do-you-make-the-most-of-it
     - How to optimize the PHP garbage collector usage to improve memory and performance? https://tideways.com/profiler/blog/how-to-optimize-the-php-garbage-collector-usage-to-improve-memory-and-performance
