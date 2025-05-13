@@ -28,6 +28,7 @@
 - [PHP Conferences around the world](https://www.php.net/conferences/index.php)
 - [PHP chatroom on StackOverflow](https://chat.stackoverflow.com/rooms/11/php)
 - [When is the Next PHP Meetup?](https://friendsofphp.org/)
+- https://phpc.social/about
 
 ### Материалы для подготовки
 
