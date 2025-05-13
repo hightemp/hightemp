@@ -279,6 +279,8 @@
     - Введение в PHP Reflection API https://habr.com/ru/articles/433266/
     - Exploring the Power of ReflectionClass in PHP https://rakibdevs.medium.com/exploring-the-power-of-reflectionclass-in-php-a26d5ce533f3
     - Reflection API. Заглянуть внутрь своего кода или как программа может модифицировать собственную структуру https://dev.awelite.ru/blog/reflection-api-zaglyanut-vnutr-svoego-koda-ili-kak-programma-mozhet-modifitsirovat-sobstvennuyu-stru/
+  - PSR
+    - Using PSR-3 placeholders properly https://hive.blog/hive-168588/@crell/using-psr-3-placeholders-properly
   - Остальное
     - Type variance in PHP 08. November 2021 https://www.npopov.com/2021/11/08/Type-variance-in-PHP.html
     - Готовимся к собеседованию по PHP: Что такое «DI», «Container», «Auto-wiring» за семь простых шагов https://habr.com/ru/articles/655399/
