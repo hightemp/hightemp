@@ -1047,6 +1047,7 @@
         - Пишем ping на Go: сможем ли составить конкуренцию стандартному ping? https://habr.com/ru/companies/yadro/articles/870584/
       - http.ServeMux
         - An Introduction to Handlers and Servemuxes in Go https://www.alexedwards.net/blog/an-introduction-to-handlers-and-servemuxes-in-go
+        - Go's http.ServeMux Is All You Need https://dev.to/leapcell/gos-httpservemux-is-all-you-need-1mam
       - Routing; Маршрутизация
         - Different approaches to HTTP routing in Go https://benhoyt.com/writings/go-routing/
         - How to not use an http-router in go https://web.archive.org/web/20190314101015/https://blog.merovius.de/2017/06/18/how-not-to-use-an-http-router.html
