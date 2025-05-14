@@ -243,6 +243,8 @@
         - Под капотом у Mobx. Пишем свою реактивную библиотеку с нуля https://habr.com/ru/articles/689374/
         - Использование MobX и RxJS в React.js — эффективная работа с состоянием и потоками данных https://habr.com/ru/sandbox/232432/
         - MobX с MVVM упрощает жизнь Frontend разработчика гораздо сильнее Redux'а https://habr.com/ru/articles/692218/
+- useSWR
+    - Введение в SWR: React Hooks для удаленной выборки данных https://teacher.army/blog/vvedenie-v-swr-react-hooks-dlya-udalennoi-viborki-dannikh
 - RxJS
 - Zod
 - tRPC
