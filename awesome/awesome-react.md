@@ -224,6 +224,7 @@
         - Mastering React Router DOM: The Shortcut to Smooth Navigation in React https://sweabhishek.hashnode.dev/mastering-react-router-dom-the-shortcut-to-smooth-navigation-in-react
 - React Query
     - Почему вам необходим React Query https://habr.com/ru/articles/806431/
+    - Преобразования данных с React Query https://habr.com/ru/articles/810211/
 - Redux
     - Основное
         - Подробное руководство по Redux https://codelab.pro/podrobnoe-rukovodstvo-po-redux/
