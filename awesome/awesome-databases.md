@@ -56,6 +56,7 @@
         - Write Ahead Logging (WAL) https://www.interdb.jp/pg/pgsql09.html
     - EXPLAIN
         - Оптимизация запросов. Основы EXPLAIN в PostgreSQL https://habr.com/ru/articles/203320/
+        - POSTGRES EXPLAIN https://habr.com/ru/companies/spectr/articles/869472/
     - pgvector
         - Оптимизируй свой AI: разоблачение 6 мифов о работе с векторами в Pgvector https://proglib.io/p/optimiziruy-svoy-ai-razoblachenie-6-mifov-o-rabote-s-vektorami-v-pgvector-2024-10-22
         - Практический пример использования pgvector https://eax.me/pgvector/
