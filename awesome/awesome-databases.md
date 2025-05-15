@@ -57,6 +57,7 @@
     - EXPLAIN
         - Оптимизация запросов. Основы EXPLAIN в PostgreSQL https://habr.com/ru/articles/203320/
         - Оптимизация запросов. Основы EXPLAIN в PostgreSQL (часть 2) https://habr.com/ru/articles/203386/
+        - Оптимизация запросов. Основы EXPLAIN в PostgreSQL (часть 3) https://habr.com/ru/articles/203484/
         - POSTGRES EXPLAIN https://habr.com/ru/companies/spectr/articles/869472/
         - Анализ запросов https://docs.arenadata.io/ru/ADPG/current/how-to/queries/analize-queries.html
         - Understanding EXPLAIN https://public.dalibo.com/exports/conferences/_archives/_2012/201211_explain/understanding_explain.pdf
