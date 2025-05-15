@@ -225,6 +225,7 @@
 - React Query
     - Почему вам необходим React Query https://habr.com/ru/articles/806431/
     - Преобразования данных с React Query https://habr.com/ru/articles/810211/
+    - React Query: стейт-менеджер для любителей кэша https://habr.com/ru/companies/ru_mts/articles/828240/
 - Redux
     - Основное
         - Подробное руководство по Redux https://codelab.pro/podrobnoe-rukovodstvo-po-redux/

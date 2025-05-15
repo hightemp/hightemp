@@ -824,6 +824,8 @@
     - Cheating the Reaper in Go https://mcyoung.xyz/2025/04/21/go-arenas/
 - Tutorial, Туториалы
   - Приложение на Go шаг за шагом. Часть 2: отправка ответов в формате JSON https://habr.com/ru/companies/yandex_praktikum/articles/885946/
+- Собеседование
+  - Как быстро проверить скилы Go-разработчика: пул задач для собеседований и одна фаворитка https://habr.com/ru/companies/ru_mts/articles/909158/
 - Разработка языка
   - Компилятор GO. Добавляем цикл WHILE https://habr.com/ru/articles/888992/
   - Contributing the Go Compiler: Adding New Tilde (~) Operator https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
