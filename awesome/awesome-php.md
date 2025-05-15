@@ -80,6 +80,8 @@
 - PHP-VCR - это инструмент для автоматизации тестирования HTTP-взаимодействий в PHP-приложениях, который записывает и воспроизводит HTTP-запросы во время выполнения тестов, поддерживая работу с основными HTTP-функциями (curl, SoapClient, file_get_contents), различными форматами сериализации (YAML, JSON) и PHPUnit-аннотациями для быстрого, детерминированного и точного тестирования. https://github.com/php-vcr/php-vcr
 - WireMock-php - это PHP-библиотека для создания и управления заглушками (stubs) и макетами (mocks) веб-сервисов, использующая JSON API оригинального Java-проекта WireMock для имитации HTTP-взаимодействий в тестовом окружении с помощью удобного fluent-интерфейса. https://github.com/rowanhill/wiremock-php
 - Devilbox: универсальный, высоко настраиваемый стек Docker для PHP с нулевой конфигурацией, поддерживающий LEMP, MEAN и различные веб-технологии через автоматическую интеграцию обратного прокси. https://github.com/cytopia/devilbox
+- Oracle
+  - https://github.com/kool-dev/docker-php-oci8
 
 ### Quality tools
 
