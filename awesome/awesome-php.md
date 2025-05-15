@@ -313,6 +313,9 @@
 - Prometheus
   - PHProm: A Prometheus Datastore for PHP Applications https://chaseisabelle.medium.com/phprom-a-prometheus-datastore-for-php-applications-c761c5587215
   - Application Monitoring Using Prometheus https://www.vthink.co.in/blogs/application-monitoring-using-prometheus
+- Базы данных
+  - Oracle
+    - INSTALLATION PHP OCI8 PHP_PDO_OCI https://github.com/CaptainClaquette/composer-database-client/blob/main/How%20to%20install%20PHP%2C%20Instantclient%20and%20PHP_PDO_OCI.md
 - Многопоточность, Конкурентность, Concurrency
   - pthreads
     - How to use Multithreading in php https://medium.com/@codingpanel/how-to-use-multithreading-in-php-55b4e3ad69ee
