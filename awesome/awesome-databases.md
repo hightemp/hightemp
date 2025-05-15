@@ -58,6 +58,7 @@
         - Оптимизация запросов. Основы EXPLAIN в PostgreSQL https://habr.com/ru/articles/203320/
         - POSTGRES EXPLAIN https://habr.com/ru/companies/spectr/articles/869472/
         - Анализ запросов https://docs.arenadata.io/ru/ADPG/current/how-to/queries/analize-queries.html
+        - Understanding EXPLAIN https://public.dalibo.com/exports/conferences/_archives/_2012/201211_explain/understanding_explain.pdf
     - pgvector
         - Оптимизируй свой AI: разоблачение 6 мифов о работе с векторами в Pgvector https://proglib.io/p/optimiziruy-svoy-ai-razoblachenie-6-mifov-o-rabote-s-vektorami-v-pgvector-2024-10-22
         - Практический пример использования pgvector https://eax.me/pgvector/
