@@ -317,6 +317,7 @@
   - Oracle
     - INSTALLATION PHP OCI8 PHP_PDO_OCI https://github.com/CaptainClaquette/composer-database-client/blob/main/How%20to%20install%20PHP%2C%20Instantclient%20and%20PHP_PDO_OCI.md
     - Configuring PHP with OCI8 https://www.php.net/manual/en/oci8.installation.php
+    - How to install OCI8 on Ubuntu 18.04 and PHP 7.2 https://gist.github.com/Yukibashiri/cebaeaccbe531665a5704b1b34a3498e
 - Многопоточность, Конкурентность, Concurrency
   - pthreads
     - How to use Multithreading in php https://medium.com/@codingpanel/how-to-use-multithreading-in-php-55b4e3ad69ee
