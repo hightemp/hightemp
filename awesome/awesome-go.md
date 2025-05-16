@@ -859,6 +859,7 @@
     - Bazel, stamping, remote cache https://habr.com/ru/companies/joom/articles/720792/
     - Bazel, stamping, remote cache (часть 2) https://habr.com/ru/companies/joom/articles/799201/
     - Building a Go project using Bazel https://www.tweag.io/blog/2021-09-08-rules_go-gazelle/
+    - Building Golang With Bazel and Gazelle https://earthly.dev/blog/build-golang-bazel-gazelle/
 - vim, nvim
   - My NeoVim Go(lang) setup — As good as Intellj/Goland IDE https://medium.com/@suyash10581108/my-neovim-go-lang-setup-as-good-as-intellj-goland-ide-d48dd765f6de
   - Configure Neovim for Golang https://andrewcourter.substack.com/p/configure-neovim-for-golang
