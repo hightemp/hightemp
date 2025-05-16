@@ -856,6 +856,7 @@
     - Learn Makefiles With the tastiest examples https://makefiletutorial.com/
   - Bazel
     - Зачем мигрировать с go build на Bazel? https://habr.com/ru/companies/joom/articles/718340/
+    - Bazel, stamping, remote cache https://habr.com/ru/companies/joom/articles/720792/
 - vim, nvim
   - My NeoVim Go(lang) setup — As good as Intellj/Goland IDE https://medium.com/@suyash10581108/my-neovim-go-lang-setup-as-good-as-intellj-goland-ide-d48dd765f6de
   - Configure Neovim for Golang https://andrewcourter.substack.com/p/configure-neovim-for-golang
