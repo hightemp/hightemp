@@ -150,6 +150,7 @@
         - Кластерные и «обычные» индексы MySQL (InnoDB) https://habr.com/ru/articles/141767/
         - Кластерные и некластерные индексы реляционных баз данных https://wp-yoda.com/bazy-dannyh/klasternye-i-neklasternye-indeksy/
         - Anatomy of an SQL Index https://use-the-index-luke.com/sql/anatomy
+        - Работа с индексами: лучшие практики для MySQL 5.6 (Пётр Зайцев) https://highload.ru/2015/abstracts/1560.html
     - Партицинирование
         - Партиционирование таблиц в MySql https://easy-code.ru/lesson/partitioning-mysql
     - Репликация
