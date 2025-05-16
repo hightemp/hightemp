@@ -145,6 +145,7 @@
         - Optimizing your MySQL queries https://mauricio.github.io/2022/02/16/optimizing-your-mysql-queries.html
     - EXPLAIN
         - Читаем EXPLAIN на максималках https://habr.com/ru/companies/citymobil/articles/545004/
+        - Основы индексирования и возможности EXPLAIN в MySQL https://habr.com/ru/companies/oleg-bunin/articles/309328/
     - Индексы
         - Кластерные и «обычные» индексы MySQL (InnoDB) https://habr.com/ru/articles/141767/
         - Кластерные и некластерные индексы реляционных баз данных https://wp-yoda.com/bazy-dannyh/klasternye-i-neklasternye-indeksy/
