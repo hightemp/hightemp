@@ -13,6 +13,25 @@
 
 ### Книги
 
+- Компьютерные науки / Информационные технологии
+    - Кибербезопасность
+        - Реверс-инжиниринг
+            - The Antivirus Hacker's Handbook
+                - Авторы: Joxean Koret, Elias Bachaalany
+                - Описание:
+                    Hack your antivirus software to stamp out future vulnerabilities
+                    The Antivirus Hacker's Handbook guides you through the process of reverse engineering antivirus software. You explore how to detect and exploit vulnerabilities that can be leveraged to improve future software design, protect your network, and anticipate attacks that may sneak through your antivirus' line of defense. You'll begin building your knowledge by diving into the reverse engineering process, which details how to start from a finished antivirus software program and work your way back through its development using the functions and other key elements of the software. Next, you leverage your new knowledge about software development to evade, attack, and exploit antivirus software—all of which can help you strengthen your network and protect your data.
+
+                    While not all viruses are damaging, understanding how to better protect your computer against them can help you maintain the integrity of your network.
+
+                    Discover how to reverse engineer your antivirus software
+                    Explore methods of antivirus software evasion
+                    Consider different ways to attack and exploit antivirus software
+                    Understand the current state of the antivirus software market, and get recommendations for users and vendors who are leveraging this software
+                    The Antivirus Hacker's Handbook is the essential reference for software reverse engineers, penetration testers, security researchers, exploit writers, antivirus vendors, and software engineers who want to understand how to leverage current antivirus software to improve future applications.
+                - Ссылки:
+                    - https://onlinelibrary.wiley.com/doi/book/10.1002/9781119183525
+                    - https://www.ozon.ru/product/the-antivirus-hacker-s-handbook-bachaalany-elias-koret-joxean-elektronnaya-kniga-936629241/
 - Бизнес-литература
     - Предпринимательство и управление бизнесом
         "Бизнес как игра" (Дмитрий Кибкало)
