@@ -1268,6 +1268,7 @@ https://www.sackett.net/The-Spike.pdf
     - Подкаст Лекса Фридмана с Дилой Пателом - Подкаст охватывает ключевые основы и актуальные темы в области нейросетей и оборудования, включая ризонинг-модели, открытые веса, особенности DeepSeek и его затраты, а также этические вопросы, связанные с использованием данных, предлагая глубокий анализ современного состояния технологий. https://youtu.be/_1f-o0nqpEI
     - Видео Андрея Карпатого доступно объясняет основы больших языковых моделей (LLM), их возможности и ограничения, а также практическое применение. https://www.youtube.com/watch?v=7xTGNNLPyMI
     - У Dwarkesh вышел подкаст с двумя глыбами Google — легендарным Jeff "Norris" Dean и Noam Shazeer, сотрудником, за которого заплатили 2 миллиарда долларов https://youtu.be/v0gjI__RyCY
+    - Radiance Fields and the Future of Generative Media - обзорная лекция Джона Баррона о его исследованиях в области radiance fields за последние пять лет, в которой он также рассматривает вопрос о необходимости генерации 3D-контента в современном мире. https://www.youtube.com/watch?v=hFlF33JZbA0 https://t.me/ai_newz/1857
 - Каналы
     - Deep Learning School https://www.youtube.com/@DeepLearningSchool
     - Научные семинары по искусственному интеллекту https://www.youtube.com/@aiseminars/playlists
