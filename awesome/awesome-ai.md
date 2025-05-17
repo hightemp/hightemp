@@ -109,6 +109,9 @@
     - https://www.researchrabbit.ai/
     - https://www.semanticscholar.org/
     - https://app.dimensions.ai/
+- Агенты
+    - https://manus.im/
+    - https://www.genspark.ai/ 
 - 3d моделей
     - Проект Scout Assets — это инновационный инструмент для упрощения поиска 3D-моделей, текстур и материалов с использованием искусственного интеллекта и компьютерного зрения, ориентированный на художников, архитекторов и дизайнеров и позволяющий загружать изображения для нахождения похожих 3D-объектов из различных стоковых библиотек, таких как 3ddd.ru, 3dsky.org, CGTrader и Quixel Megascans. https://scout.asseter.ai/
 
