@@ -145,6 +145,8 @@
         - Каталог /proc в Linux https://vk.com/@it_blog_sysadm1n-katalog-proc-v-linux
         - Изучаем файловую систему proc https://www.linuxrsp.ru/artic/fs-proc.html
         - Файловые системы /dev и /proc в Linux 2.4 https://www.nixp.ru/articles/38.html
+    - io_uring
+        - io_uring Is Back, This Time as a Rootkit https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security/
     - Утилиты
         - killall
             - killall(1) — Linux manual page https://man7.org/linux/man-pages/man1/killall.1.html
