@@ -139,14 +139,23 @@
         - Roadmap to Learning Linux Device Drivers https://pyjamabrah.com/posts/linux-device-drivers/?s=35
     - FHS (Filesystem Hierarchy Standard); стандарт иерархии файловой системы
         - FHS https://ru.wikipedia.org/wiki/FHS
+    - Сетевые технологии
+        - AF_XDP
+        - kTLS
+        - MPTCP (MultiPath TCP)
+        - QUIC
+    - eBPF (Extended Berkeley Packet Filter) 
+    - XDP (eXpress Data Path)
+    - DPDK (Data Plane Development Kit)
+    - AIO (Asynchronous I/O)
+    - io_uring
+        - io_uring Is Back, This Time as a Rootkit https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security/
     - /dev
         - Understanding the /dev Directory in Linux https://www.baeldung.com/linux/dev-directory
     - /proc
         - Каталог /proc в Linux https://vk.com/@it_blog_sysadm1n-katalog-proc-v-linux
         - Изучаем файловую систему proc https://www.linuxrsp.ru/artic/fs-proc.html
         - Файловые системы /dev и /proc в Linux 2.4 https://www.nixp.ru/articles/38.html
-    - io_uring
-        - io_uring Is Back, This Time as a Rootkit https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security/
     - Утилиты
         - killall
             - killall(1) — Linux manual page https://man7.org/linux/man-pages/man1/killall.1.html
