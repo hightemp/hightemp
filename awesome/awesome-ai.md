@@ -1134,6 +1134,7 @@ https://arxiv.org/pdf/2411.08804v1
     - Automating the Search for Artificial Life with Foundation Models https://sakana.ai/asal/
 - MCP
     - Test a Remote MCP Server https://developers.cloudflare.com/agents/guides/test-remote-mcp-server/
+    - Model Context Protocol (MCP) – универсальный протокол для взаимодействия с ИИ, и почему это замечательно https://habr.com/ru/articles/899088/
 - n8n
     - Building an AI-Powered News Aggregator: My First n8n Workflow https://medium.com/@learningsomethingnew/building-an-ai-powered-news-aggregator-my-first-n8n-workflow-40cf3753a387
 - continued pre-training
