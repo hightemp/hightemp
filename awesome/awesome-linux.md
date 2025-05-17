@@ -144,6 +144,7 @@
         - kTLS
         - MPTCP (MultiPath TCP)
         - QUIC
+    - RDMA (Remote Direct Memory Access)
     - eBPF (Extended Berkeley Packet Filter) 
     - XDP (eXpress Data Path)
     - DPDK (Data Plane Development Kit)
