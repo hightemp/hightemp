@@ -180,3 +180,6 @@
 
 
 ### Статьи
+
+- Penetration testing
+    - Stockholm Syndrome: Accurate network testing https://blog.exploit.org/caster-stockholm-syndrome/
