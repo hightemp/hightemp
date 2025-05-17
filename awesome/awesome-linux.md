@@ -146,6 +146,7 @@
         - QUIC
     - RDMA (Remote Direct Memory Access)
         - An In-Depth Understanding of RDMA Interaction Mechanism between Software and Hardware https://www.alibabacloud.com/blog/601598
+        - Infiniband https://www.altlinux.org/Infiniband
     - eBPF (Extended Berkeley Packet Filter) 
     - XDP (eXpress Data Path)
     - DPDK (Data Plane Development Kit)
