@@ -35,7 +35,6 @@
             - Ссылки:
                 - https://www.litres.ru/book/zig-ziglar-2/sekrety-zaklucheniya-sdelok-12625625/
                 - https://www.rulit.me/books/sekrety-zaklyucheniya-sdelok-download-417064.html
-        - "Секреты эффективных сделок" (Зиг Зиглар)
         - "Разработка ценностных предложений" (Алекс Остервальдер)
         - "На крючке" (Эяль Нир)        
     - Бизнес-ошибки и антикризисное управление
