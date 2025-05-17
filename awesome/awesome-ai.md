@@ -581,6 +581,7 @@
 
 - https://huggingface.co/spaces/Xenova/whisper-web
 - Whisper WebGPU моментально распознает текст из аудио и видео и переведет на нужный язык https://huggingface.co/spaces/Xenova/whisper-webgpu https://github.com/xenova/transformers.js/tree/v3/examples/webgpu-whisper
+- Parakeet (Parakeet от Nvidia) — бесплатная нейросетевая модель для автоматического распознавания и преобразования в текст устной речи с расстановкой знаков пунктуации, отметками времени, поддержкой контекста, музыкальных произведений, цифр и длинных аудиозаписей, доступная для использования через веб-интерфейс или для загрузки на компьютер, весом 2 Гб. https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2
 
 ### Апскейл, upscale, Увелечитель разрешения 
 
