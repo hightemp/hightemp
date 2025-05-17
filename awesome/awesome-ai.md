@@ -993,6 +993,7 @@ https://arxiv.org/pdf/2411.08804v1
 - Toolbox by Smithery - многоагентный ИИ-помощник для одновременного взаимодействия с 4000 сервисами через интеграцию с MCP (Mechanism Component Pipeline). https://smithery.ai/server/@smithery/toolbox
 - MCP Inspector - разработческий инструмент для тестирования и отладки серверов MCP (Model Context Protocol). https://github.com/modelcontextprotocol/inspector
 - Exa MCP Server - сервер Model Context Protocol (MCP), предоставляющий доступ AI-ассистентам, таким как Claude, к поисковому API Exa AI для веб-поиска, что позволяет моделям ИИ получать актуальную веб-информацию безопасным и контролируемым способом.  https://github.com/exa-labs/exa-mcp-server
+- GitMCP (https://gitmcp.io/) — веб-сервис, представляющий собой удобный инструмент для мгновенного подключения любого открытого или закрытого репозитория к Claude, Cursor, Windsurf или VS Code, обеспечивающий интеграцию вариативного программного обеспечения средством манипуляции ссылками на репозитории. https://gitmcp.io/
 
 ### Телеграм папки, Telegram folders
 
