@@ -456,6 +456,7 @@
     - \[Перевод\] Массивы, срезы (и строки): Механизм 'вставки' https://habr.com/ru/articles/202948/
     - Go: Arrays and Slices, a deep dive. https://dev.to/dawkaka/go-arrays-and-slices-a-deep-dive-dp8
     - Arrays, Slices and Maps in Go https://go101.org/article/container.html
+    - Срезы(slices) в Go https://habr.com/ru/articles/901128/
   - Defer
     - Golang Defer: From Basic To Traps https://victoriametrics.com/blog/defer-in-go/index.html
     - More about Deferred Function Calls https://go101.org/article/defer-more.html
