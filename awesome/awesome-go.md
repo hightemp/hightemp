@@ -924,6 +924,7 @@
   - PGO (Profile-guided Optimization)
     - Как ускорить программу, не переписав ни строчки кода: PGO для Go-разработчиков https://habr.com/ru/articles/846818/  
     - Как работает PGO-оптимизация в Go «на пальцах» https://habr.com/ru/companies/yandex_praktikum/articles/729570/
+    - Automating Efficiency of Go programs with Profile-Guided Optimizations https://www.uber.com/en-NL/blog/automating-efficiency-of-go-programs-with-pgo/
   - Memory pools
     - Три способа оптимизировать работу с памятью на Go с помощью memory pools https://engineer.yadro.com/article/three-ways-to-optimize-memory-performance-on-go-with-memory-pools/
   - pprof
