@@ -146,6 +146,8 @@
     - Understanding Unions in C/C++ Programming https://medium.com/@pawan2505/understanding-unions-in-c-c-programming-43e16728a911
     - A Deep Dive into Struct, Union and Enum in C++ https://medium.com/@shantanulagvankar/a-deep-dive-into-struct-union-and-enum-in-c-8e155859ed1d
     - Объединения в С++ (union C++) https://purecodecpp.com/archives/2306
+  - sizeof...
+    - sizeof... operator (since C++11) https://en.cppreference.com/w/cpp/language/sizeof...
   - RAII
     - Концепция RAII (Resource Acquisition Is Initialization) https://habr.com/ru/companies/otus/articles/778942/
     - Идиома RAII и умные указатели https://education.yandex.ru/handbook/cpp/article/raii-and-smart-pointers
