@@ -134,6 +134,8 @@
   - Strings; Строки
     - facet; Фасеты
       - Не забываем о языковых и культурных особенностях https://habr.com/ru/articles/104417/
+      - Интернационализация. Фацеты https://it.kgsu.ru/C_STL/c_stl533.html
+      - The Facets https://www.chem.kuleuven.be/peeters/manuals/pgi/doc/pgC++_lib/stdlibug/fac_3537.htm
     - unicode; Юникод
       - Additional Unicode support in C++ https://learnmoderncpp.com/2024/11/15/additional-unicode-support-in-c/
       - Строки с поддержкой Unicode https://metanit.com/cpp/tutorial/12.2.php
