@@ -700,7 +700,7 @@
       - Option Types with go generate https://markphelps.me/posts/option-types-with-go-generate/
       - Go Client Code Generation from Swagger and OpenAPI https://medium.com/@kyodo-tech/go-client-code-generation-from-swagger-and-openapi-a0576831836c
   - CGO
-    
+
   - Создание билиотеки
     - Go: Как подключить внешнюю библиотеку и исключить ненужные зависимости https://habr.com/ru/articles/521942/
   - env, переменные окружения
@@ -1888,6 +1888,7 @@
 - This is an example of implementation of Clean Architecture with S.O.L.I.D Principles in Go (Golang) projects. https://github.com/DoWithLogic/golang-clean-architecture
 - https://github.com/FelipeRosa/go-libp2p-chat
 - Каркас приложения https://github.com/zubroide/go-api-boilerplate
+- Using Go with and C (Static and Dynamic) Libraries https://github.com/lxwagn/using-go-with-c-libraries
 
 ### Видео
 
