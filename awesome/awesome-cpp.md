@@ -136,6 +136,7 @@
       - Кодировки https://habr.com/ru/articles/107679/
     - Префиксы строковых литералов
       - String and character literals (C++) https://learn.microsoft.com/en-us/cpp/cpp/string-and-character-literals-cpp?view=msvc-170
+      - Строковые и символьные литералы (C++) https://learn.microsoft.com/ru-ru/cpp/cpp/string-and-character-literals-cpp?view=msvc-170
   - union; Объединения
     - union https://learn.microsoft.com/ru-ru/cpp/cpp/unions
     - Объединение https://www.scrutator.me/post/2023/12/25/union.aspx
