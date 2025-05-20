@@ -132,7 +132,7 @@
     - unsigned char
       - unsigned char in C with Examples https://www.geeksforgeeks.org/unsigned-char-in-c-with-examples/
   - Strings; Строки
-    - facet
+    - facet; Фасеты
       - Не забываем о языковых и культурных особенностях https://habr.com/ru/articles/104417/
     - unicode; Юникод
       - Additional Unicode support in C++ https://learnmoderncpp.com/2024/11/15/additional-unicode-support-in-c/
