@@ -138,6 +138,8 @@
       - String and character literals (C++) https://learn.microsoft.com/en-us/cpp/cpp/string-and-character-literals-cpp?view=msvc-170
       - Строковые и символьные литералы (C++) https://learn.microsoft.com/ru-ru/cpp/cpp/string-and-character-literals-cpp?view=msvc-170
       - Creating C++ Literals with Prefixes and Suffixes https://www.dummies.com/article/technology/programming-web-design/cplusplus/creating-c-literals-with-prefixes-and-suffixes-147634/
+  - Литералы; ""_suffix
+    - Пользовательские литералы в C++11 https://habr.com/ru/articles/140357/
   - union; Объединения
     - union https://learn.microsoft.com/ru-ru/cpp/cpp/unions
     - Объединение https://www.scrutator.me/post/2023/12/25/union.aspx
