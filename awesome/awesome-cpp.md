@@ -60,6 +60,11 @@
 - https://craftinginterpreters.com/
 - Programming with C++20 - Concepts, Coroutines, Ranges, and more https://andreasfertig.com/books/programming-with-cpp20/
 - Algorithms Design (in C) https://www.ime.usp.br/~pf/algorithms/index.html#C-language
+- C++ Templates The Complete Guide, 2nd Edition
+  - Авторы:
+    - by David Vandevoorde (Author), Nicolai Josuttis (Author), Douglas Gregor (Author)
+  - Ссылки:
+    - https://github.com/xuchen-tech/Books/blob/main/C%2B%2B%20Templates%20The%20Complete%20Guide%2C%202nd%20Edition%20%5BBooxRack%5D.pdf
 
 ### Курсы
 
