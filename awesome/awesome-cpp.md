@@ -125,10 +125,12 @@
       - Ссылки и ссылочные типы в C++ https://habr.com/ru/articles/646005/
     - unsigned char
       - unsigned char in C with Examples https://www.geeksforgeeks.org/unsigned-char-in-c-with-examples/
-  - unicode; Юникод
-    - Additional Unicode support in C++ https://learnmoderncpp.com/2024/11/15/additional-unicode-support-in-c/
   - facet
     - Не забываем о языковых и культурных особенностях https://habr.com/ru/articles/104417/
+  - unicode; Юникод
+    - Additional Unicode support in C++ https://learnmoderncpp.com/2024/11/15/additional-unicode-support-in-c/
+    - Строки с поддержкой Unicode https://metanit.com/cpp/tutorial/12.2.php
+    - std::filesystem::path::string, std::filesystem::path::wstring, std::filesystem::path::u8string, std::filesystem::path::u16string, std::filesystem::path::u32string https://en.cppreference.com/w/cpp/filesystem/path/string
   - Кодировки
     - Кодировки https://habr.com/ru/articles/107679/
   - union; Объединения
