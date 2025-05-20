@@ -65,6 +65,7 @@
     - by David Vandevoorde (Author), Nicolai Josuttis (Author), Douglas Gregor (Author)
   - Ссылки:
     - https://github.com/xuchen-tech/Books/blob/main/C%2B%2B%20Templates%20The%20Complete%20Guide%2C%202nd%20Edition%20%5BBooxRack%5D.pdf
+    - https://agorism.dev/book/c++/David%20Vandevoorde%2C%20Nicolai%20M.%20Josuttis%2C%20Douglas%20Gregor%20-%20C%2B%2B%20Templates_%20The%20Complete%20Guide-Addison-Wesley%20%282017%29.pdf
 
 ### Курсы
 
