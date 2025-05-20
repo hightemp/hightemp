@@ -477,6 +477,8 @@
   - Templates, Шаблоны
     - GO templates https://golangforall.com/ru/post/templates.html
     - Golang Templates-1: Introduction https://medium.com/@back_to_basics/golang-template-1-bcb690165663
+  - context, Контекст
+    - Mastering Go's Context: From Basics to Best Practices https://claudiuconstantinbogdan.me/articles/go-context
   - Дженерики; Generics
     - Основное
       - Туториал по дженерикам в Go https://kovardin.ru/articles/go/generics/
