@@ -1013,6 +1013,9 @@
   - Туториал: использование Go из PHP через FFI https://habr.com/ru/articles/902532/
   - Cross-Language Data Encryption: PHP and Golang with PHP FFI https://encoresky.com/blog/cross-language-data-encryption-php-and-golang-with-php-ffi
 - Базы данных
+  - Oracle
+    - Основное
+      - Connecting a Go application to Oracle Database https://blogs.oracle.com/developers/post/connecting-a-go-application-to-oracle-database
   - PostgreSQL
     - Основное
       - Connecting to PostgreSQL in Golang https://medium.com/@dewirahmawatie/connecting-to-postgresql-in-golang-59d7b208bad2
