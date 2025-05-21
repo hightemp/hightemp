@@ -1865,6 +1865,7 @@
 - https://ivahaev.ru/tags/go/
 - https://mcyoung.xyz/
 - https://yoric.github.io/tags/go/
+- https://mt165.co.uk/
 
 ### Подкасты
 
