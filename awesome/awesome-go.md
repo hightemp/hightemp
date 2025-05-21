@@ -701,6 +701,7 @@
       - Go Client Code Generation from Swagger and OpenAPI https://medium.com/@kyodo-tech/go-client-code-generation-from-swagger-and-openapi-a0576831836c
   - CGO
     - Understand how to use C libraries in Go, with CGO https://dev.to/metal3d/understand-how-to-use-c-libraries-in-go-with-cgo-3dbn
+    - Static Linking of cgo Programs https://ragoragino.dev/tech/2021-03-23-cgo-static/
   - Создание билиотеки
     - Go: Как подключить внешнюю библиотеку и исключить ненужные зависимости https://habr.com/ru/articles/521942/
   - env, переменные окружения
