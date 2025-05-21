@@ -703,6 +703,7 @@
     - Understand how to use C libraries in Go, with CGO https://dev.to/metal3d/understand-how-to-use-c-libraries-in-go-with-cgo-3dbn
     - Static Linking of cgo Programs https://ragoragino.dev/tech/2021-03-23-cgo-static/
     - Statically Linking Go in 2022 https://mt165.co.uk/blog/static-link-go/
+    - Building Statically Linked Go Executables with CGO and Zig https://calabro.io/zig-cgo
   - Создание билиотеки
     - Go: Как подключить внешнюю библиотеку и исключить ненужные зависимости https://habr.com/ru/articles/521942/
   - env, переменные окружения
