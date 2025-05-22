@@ -901,6 +901,7 @@
     - Развертывание приложения Go на своем сервере через Github Actions (Docker, Go) https://itmindco.ru/github-actions-docker-go/
     - Transforming Development Workflow: Cross-Building Go Binaries with GitHub Actions https://medium.com/@dedicatted/transforming-development-workflow-cross-building-go-binaries-with-github-actions-ea96d77e2cbf
     - Learning Go by examples: part 8 - Automatically cross-compile & release your Go app https://dev.to/aurelievache/learning-go-by-examples-part-8-automatically-cross-compile-release-your-go-app-457a
+    - Go Package CI/CD with GitHub Actions https://forcepush.tech/go-package-ci-cd-with-git-hub-actions
   - Остальное
     - Golang deploy https://gist.github.com/night-codes/10c09f06ad78ae401c69
     - Building Minimal Docker Containers for Go Applications https://www.cloudbees.com/blog/building-minimal-docker-containers-for-go-applications
