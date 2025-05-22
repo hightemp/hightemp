@@ -94,6 +94,7 @@
 - https://abseil.io/tips/
 - https://nimrod.blog/
 - https://maskray.me/blog/tags/clang/
+- https://preshing.com/
 
 ### Статьи
 
