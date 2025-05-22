@@ -330,6 +330,7 @@
 ### Гайды
 
 - Go Concurrency Guide https://github.com/luk4z7/go-concurrency-guide
+- How To Code in Go https://www.digitalocean.com/community/tutorial-series/how-to-code-in-go
 
 ### Tutorials
 
