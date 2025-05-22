@@ -177,6 +177,10 @@
     - Внедряем DevSecOps в процесс разработки. Часть 5. Этап Deploy-time Checks, обзор инструментов https://habr.com/ru/companies/spectr/articles/837018/
 - Ceph — это свободная программная распределенная система хранения данных с открытым исходным кодом, которая предоставляет унифицированное решение для хранения объектов, блоков и файлов. Система спроектирована для обеспечения высокой масштабируемости (до уровня эксабайт), производительности и отказоустойчивости без единых точек отказа
     - Хранилище на базе Ceph: что нужно знать для эффективного использования https://www.rusonyx.ru/blog/post/hranilishche-na-baze-ceph/
+- Github
+    - Actions
+        - Matrix strategy
+            - The matrix strategy in GitHub Actions https://runs-on.com/github-actions/the-matrix-strategy/
 - Безопасность
     - Повышаем безопасность контейнеров Docker https://habr.com/ru/companies/slurm/articles/320552/
 - Подборки
