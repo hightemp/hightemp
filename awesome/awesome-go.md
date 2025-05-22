@@ -900,9 +900,11 @@
     - Ускорение выполнения деплоя через GitHub Actions https://itmindco.ru/github-deployment-build-acceleration/
     - Развертывание приложения Go на своем сервере через Github Actions (Docker, Go) https://itmindco.ru/github-actions-docker-go/
     - Transforming Development Workflow: Cross-Building Go Binaries with GitHub Actions https://medium.com/@dedicatted/transforming-development-workflow-cross-building-go-binaries-with-github-actions-ea96d77e2cbf
+    - Learning Go by examples: part 8 - Automatically cross-compile & release your Go app https://dev.to/aurelievache/learning-go-by-examples-part-8-automatically-cross-compile-release-your-go-app-457a
   - Остальное
     - Golang deploy https://gist.github.com/night-codes/10c09f06ad78ae401c69
     - Building Minimal Docker Containers for Go Applications https://www.cloudbees.com/blog/building-minimal-docker-containers-for-go-applications
+    - A Makefile based CI/CD chain for Go https://le-gall.bzh/post/makefile-based-ci-chain-for-go/
 - Error Handling; Обработка ошибок
   - Retry в Go: От граблей к дзену отказоустойчивости https://habr.com/ru/articles/903576/
 - Типы и структуры данных
@@ -1500,8 +1502,6 @@
 - Безопасность
   - Генераторы токенов
     - Demystifying OTPs: the logic behind the offline generation of tokens https://itnext.io/demystifying-otps-the-logic-behind-the-offline-generation-of-tokens-baefca7aa0d0
-- CI/CD
-  - A Makefile based CI/CD chain for Go https://le-gall.bzh/post/makefile-based-ci-chain-for-go/
 - Тестирование
   - Основное
     - Testing in Go: First Principles https://ieftimov.com/posts/testing-in-go-first-principles/
