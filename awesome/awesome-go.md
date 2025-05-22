@@ -692,6 +692,8 @@
       - //line file:line
       - //extern extern_name
       - //go:compile go_name extern_name
+    - //go:linkname
+      - go:linkname в Go https://habr.com/ru/companies/otus/articles/900306/
     - //go:debug
       - Go, Backwards Compatibility, and GODEBUG https://go.dev/doc/godebug
     - //go:embed
