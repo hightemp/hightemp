@@ -250,6 +250,10 @@
 - Мобильная разработка
   - matcha - это приложение для iOS и Android, написанное на языке Go, которое обеспечивает библиотеку компонентов пользовательского интерфейса, похожую на ReactNative, предоставляет доступ к кодам Objective-C и Java через отражение и содержит API для выполнения часто используемых задач приложения. https://github.com/gomatcha/matcha
 
+### Github actions
+
+- GitHub Action: go-build-action генерирует исполняемые файлы для различных платформ из модуля на языке Go. https://github.com/marketplace/actions/go-cross-build
+
 #### GUI
 
 - https://github.com/guark/guark Guark - это open-source фреймворк для создания кроссплатформенных настольных приложений с графическим интерфейсом, позволяющий разрабатывать логику на Go, а пользовательский интерфейс - с использованием современных веб-технологий, таких как Vue.js и React.js.
@@ -902,6 +906,7 @@
     - Transforming Development Workflow: Cross-Building Go Binaries with GitHub Actions https://medium.com/@dedicatted/transforming-development-workflow-cross-building-go-binaries-with-github-actions-ea96d77e2cbf
     - Learning Go by examples: part 8 - Automatically cross-compile & release your Go app https://dev.to/aurelievache/learning-go-by-examples-part-8-automatically-cross-compile-release-your-go-app-457a
     - Go Package CI/CD with GitHub Actions https://forcepush.tech/go-package-ci-cd-with-git-hub-actions
+    - Build Go projects with Github Actions https://sosedoff.com/2019/02/12/go-github-actions.html
   - Остальное
     - Golang deploy https://gist.github.com/night-codes/10c09f06ad78ae401c69
     - Building Minimal Docker Containers for Go Applications https://www.cloudbees.com/blog/building-minimal-docker-containers-for-go-applications
