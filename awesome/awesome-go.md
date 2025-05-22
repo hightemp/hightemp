@@ -1505,6 +1505,7 @@
     - Finding Your Best Go Testing Framework https://medium.com/@dees3g/finding-your-best-go-testing-framework-5b5c6b299bd3
     - Unit Test in Go: Best Practices for Easier Testing https://medium.com/@danarcahyadi21/unit-test-in-go-best-practices-for-easier-testing-79d194fe9a54
     - Mocking https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking
+    - 100 % cover, 0 % спокойствия https://habr.com/ru/companies/otus/articles/901522/
   - Тестирование с базой данных
     - PostgreSQL
       - Testing with Go and PostgreSQL: ephemeral DBs (2024) https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/
