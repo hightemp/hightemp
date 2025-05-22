@@ -253,6 +253,7 @@
 ### Github actions
 
 - GitHub Action: go-build-action генерирует исполняемые файлы для различных платформ из модуля на языке Go. https://github.com/marketplace/actions/go-cross-build
+- GitHub Action для xgo, кросс-компилятора Golang с поддержкой CGO, позволяющий собирать бинарные файлы для различных целевых платформ, таких как Windows, Linux и macOS, с возможностью настройки входных параметров и опций сборки, доступный только для виртуальных окружений Linux. https://github.com/marketplace/actions/golang-cgo-cross-compiler
 
 #### GUI
 
