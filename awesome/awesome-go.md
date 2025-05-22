@@ -169,6 +169,8 @@
 - retry
   - Этот проект представляет собой порт на языке Go алгоритма экспоненциального ожидания из библиотеки клиентов HTTP от Google для языка Java, позволяющий уменьшать скорость процесса на основе обратной связи для поиска приемлемой скорости, а также увеличивающий количество повторных попыток экспоненциально, останавливая увеличение, когда достигнут определенный порог. https://github.com/cenkalti/backoff
   - Проект представляет собой простую библиотеку для механизма повтора попыток выполнения операций, вдохновленную немного Try::Tiny::Retry, с использованием функций HTTP GET и повтора, а также содержит примеры использования и упоминания схожих проектов для Go. https://github.com/avast/retry-go
+- Scraping
+  - Geziyor - это быстрый фреймворк для веб-скрапинга и веб-краулинга, способный обходить веб-сайты и извлекать структурированные данные, полезный для многих задач, таких как data mining, мониторинг и автоматизированное тестирование, обладающий широким набором функций, включая рендеринг JS, кеширование, экспорт данных в JSON, CSV или другие форматы, управление прокси и другие возможности. https://github.com/geziyor/geziyor
 - Остальное
   - go-linq - это мощная библиотека для языка Go, реализующая интегрированный язык запросов (LINQ) с ленивым выполнением, поддержкой параллельного использования и различных типов коллекций. https://github.com/ahmetb/go-linq
   - LiveKit - это открытый проект, предоставляющий масштабируемую многопользовательскую платформу для конференций на основе WebRTC, который включает в себя все необходимое для создания возможностей передачи видео, аудио и данных в реальном времени в ваших приложениях. https://github.com/livekit/livekit
@@ -1462,6 +1464,8 @@
   - Implementing a Sieve cache in Go https://medium.com/@mehul25/implementing-a-sieve-cache-in-go-9652cfa99278
 - Rate limiter
   - Building a simple rate limiter in Go https://dev.to/vivekalhat/rate-limiting-for-beginners-what-it-is-and-how-to-build-one-in-go-955
+- Scraping; Извлечение данных
+  - How to Use Geziyor for Web Scraping? https://medium.com/@datajournal/geziyor-web-scraping-f522d07abe43
 - Финтех
   - Best Practices for Building Fintech Apps in Go https://web.archive.org/web/20241114212332/https://dev.to/learngo/best-practices-for-building-fintech-apps-in-go-1ghl
 - Логгирование, Logging
