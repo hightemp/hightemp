@@ -708,6 +708,7 @@
     - Static Linking of cgo Programs https://ragoragino.dev/tech/2021-03-23-cgo-static/
     - Statically Linking Go in 2022 https://mt165.co.uk/blog/static-link-go/
     - Building Statically Linked Go Executables with CGO and Zig https://calabro.io/zig-cgo
+    - Cgo Call Practice https://www.dingyuqi.com/en/article/cgo/
   - Создание билиотеки
     - Go: Как подключить внешнюю библиотеку и исключить ненужные зависимости https://habr.com/ru/articles/521942/
   - env, переменные окружения
