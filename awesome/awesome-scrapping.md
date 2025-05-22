@@ -27,6 +27,10 @@
 
 - Burp Awesome TLS - расширение для Burp Suite, состоящее из набора ресурсов и инфраструктуры для тестирования TLS traffic manipulations в целях обхода вэб-приложений, использующих облачные WAF (Web Application Firewall) и антиреверс-инжиниринговые защиты, основанные на отпечатках сокетов браузеров. https://github.com/sleeyax/burp-awesome-tls
 
+### Сервисы для тренировки
+
+- https://toscrape.com
+
 ### Сервисы проксирующие запросы
 
 - https://proxiesapi.com/
