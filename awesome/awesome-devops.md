@@ -181,6 +181,8 @@
     - Actions
         - Matrix strategy
             - The matrix strategy in GitHub Actions https://runs-on.com/github-actions/the-matrix-strategy/
+            - GitHub Actions matrices https://graphite.dev/guides/github-actions-matrix
+            - GitHub Actions Matrix Strategy: Basics, Tutorial & Best Practices https://codefresh.io/learn/github-actions/github-actions-matrix/
 - Безопасность
     - Повышаем безопасность контейнеров Docker https://habr.com/ru/companies/slurm/articles/320552/
 - Подборки
