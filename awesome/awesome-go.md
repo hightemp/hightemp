@@ -1465,7 +1465,8 @@
 - Rate limiter
   - Building a simple rate limiter in Go https://dev.to/vivekalhat/rate-limiting-for-beginners-what-it-is-and-how-to-build-one-in-go-955
 - Scraping; Извлечение данных
-  - How to Use Geziyor for Web Scraping? https://medium.com/@datajournal/geziyor-web-scraping-f522d07abe43
+  - geziyor
+    - How to Use Geziyor for Web Scraping? https://medium.com/@datajournal/geziyor-web-scraping-f522d07abe43
 - Финтех
   - Best Practices for Building Fintech Apps in Go https://web.archive.org/web/20241114212332/https://dev.to/learngo/best-practices-for-building-fintech-apps-in-go-1ghl
 - Логгирование, Logging
