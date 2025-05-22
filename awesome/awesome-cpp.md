@@ -72,6 +72,21 @@
 - https://ravesli.com/uroki-cpp/
 - https://cpp-kt.github.io/cpp-notes/
 
+### Telegram каналы
+
+- C++ and other lectures https://t.me/cpp_lects_rus
+- Грокаем C++ https://t.me/grokaemcpp
+- Истовый инженер https://t.me/ultimate_engineer
+- NR Electronics https://t.me/NR_electronics
+- Experimental chill https://t.me/experimentalchill
+- commit -m "better" https://t.me/itpgchannel
+- Doque Embedded https://t.me/doque_embedded
+- Embedded Doka https://t.me/embedoka
+- VLSI HUB https://t.me/vlsihub
+- SCILab https://t.me/vladimir_medintsev
+- Дегенератехника https://t.me/shitsch
+- Бестиарий программирования https://t.me/programming_tales
+
 ### Блоги
 
 - https://www.cppstories.com/
