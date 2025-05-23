@@ -1348,6 +1348,8 @@
     - Layered Design in Go https://jerf.org/iri/post/2025/go_layered_design/
   - Clean architecture; Чистая архитектура
     - Чистая архитектура в Go-приложении. Часть 1 https://habr.com/ru/articles/269893/
+    - Чистая архитектура в Go-приложении. Часть 2 https://habr.com/ru/articles/270351/
+    - Применение чистой архитектуры в Go https://habr.com/ru/companies/timeweb/articles/810857/
     - Applying The Clean Architecture to Go applications https://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/
     - Patterns for Scalable Web Development: Implementing Clean Architecture in Web Dev https://blog.jealous.dev/patterns-for-scalable-web-development-implementing-clean-architecture-in-web-dev
     - Inside The Inner Hexagon: Component Tests https://www.shaiyallin.com/post/inside-the-inner-hexagon-component-tests
