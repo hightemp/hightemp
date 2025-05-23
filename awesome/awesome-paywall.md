@@ -1,3 +1,5 @@
+### Сервисы обхода
+
 - Medium
   - https://freedium.cfd/
 - Остальное
@@ -17,6 +19,7 @@
     - https://web.archive.org/
     - https://12ft.io/
     - https://www.spaywall.com/
+    - https://textfrom.website/
 
 ### Статьи
 
