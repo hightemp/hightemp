@@ -500,6 +500,10 @@
   - context, Контекст
     - Mastering Go's Context: From Basics to Best Practices https://claudiuconstantinbogdan.me/articles/go-context
     - Golang Context (A Complete Guide) https://www.kelche.co/blog/go/golang-context/
+  - Sort, Сортировка
+    - Asynchronous Sorting in Go https://www.dolthub.com/blog/2020-10-26-asynchronous-sorting-in-go/
+    - Sorting in Go — From Slices to Structs https://bytegoblin.io/blog/sorting-in-go-from-slices-to-structs
+    - How to use sort method in Golang https://labex.io/tutorials/go-how-to-use-sort-method-in-golang-419309
   - Дженерики; Generics
     - Основное
       - Туториал по дженерикам в Go https://kovardin.ru/articles/go/generics/
@@ -928,8 +932,6 @@
     - Go и Protocol Buffers, ускорение https://habr.com/ru/articles/276905/
 - Валидация данных
   - Using Go Validator for Efficient Data Validation in Go Applications https://www.codingexplorations.com/blog/using-go-validator-for-efficient-data-validation-in-go-applications
-- Sort, Сортировка
-  - Asynchronous Sorting in Go https://www.dolthub.com/blog/2020-10-26-asynchronous-sorting-in-go/
 - Queue, Очереди
   - RabbitMQ
     - Using RabbitMQ Streams In Go https://programmingpercy.tech/blog/using-rabbitmq-streams-in-go/
