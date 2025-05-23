@@ -1286,6 +1286,8 @@ https://www.sackett.net/The-Spike.pdf
 
 ### Видео
 
+- Transformers
+    - Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy https://www.youtube.com/watch?v=XfpMkf4rD6E
 - Агентные системы
     - ВШЭ. Агентные системы и обучение с подр. Model-based Reinforcement Learning https://www.youtube.com/watch?v=gov2UNB2gIo&list=PLJyTG7NfyQ8lAH1QF2Frwq6aQdxyyIqAx
 - Diffusion transformers
