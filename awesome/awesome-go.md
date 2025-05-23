@@ -424,6 +424,8 @@
     - embedding; Встраивание
       - Type Embedding https://go101.org/article/type-embedding.html
       - Embedding in Go: Part 1 - structs in structs https://eli.thegreenplace.net/2020/embedding-in-go-part-1-structs-in-structs/
+      - Embedding in Go: Part 2 - interfaces in interfaces https://eli.thegreenplace.net/2020/embedding-in-go-part-2-interfaces-in-interfaces/
+      - Embedding in Go: Part 3 - interfaces in structs https://eli.thegreenplace.net/2020/embedding-in-go-part-3-interfaces-in-structs/
   - Функции, Functions
     - Основы Go: функции https://habr.com/ru/companies/otus/articles/746276/
     - Функции первого класса, замыкания и анонимные функции в Golang https://golangify.com/closures-anonymous-first-class-func
