@@ -1901,6 +1901,7 @@
 - https://mcyoung.xyz/
 - https://yoric.github.io/tags/go/
 - https://mt165.co.uk/
+- https://bytegoblin.io/?tag=GOLANG
 
 ### Подкасты
 
