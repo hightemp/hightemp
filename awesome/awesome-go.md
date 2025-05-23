@@ -500,10 +500,6 @@
   - context, Контекст
     - Mastering Go's Context: From Basics to Best Practices https://claudiuconstantinbogdan.me/articles/go-context
     - Golang Context (A Complete Guide) https://www.kelche.co/blog/go/golang-context/
-  - Sort, Сортировка
-    - Asynchronous Sorting in Go https://www.dolthub.com/blog/2020-10-26-asynchronous-sorting-in-go/
-    - Sorting in Go — From Slices to Structs https://bytegoblin.io/blog/sorting-in-go-from-slices-to-structs
-    - How to use sort method in Golang https://labex.io/tutorials/go-how-to-use-sort-method-in-golang-419309
   - Дженерики; Generics
     - Основное
       - Туториал по дженерикам в Go https://kovardin.ru/articles/go/generics/
@@ -532,6 +528,10 @@
   - panic
     - When is it OK to panic in Go? https://www.alexedwards.net/blog/when-is-it-ok-to-panic-in-go
   - Пакеты стандартной библиотеки
+    - sort; Сортировка
+      - Asynchronous Sorting in Go https://www.dolthub.com/blog/2020-10-26-asynchronous-sorting-in-go/
+      - Sorting in Go — From Slices to Structs https://bytegoblin.io/blog/sorting-in-go-from-slices-to-structs
+      - How to use sort method in Golang https://labex.io/tutorials/go-how-to-use-sort-method-in-golang-419309
     - reflect
       - Reflections in Go https://go101.org/article/reflection.html
     - unsafe
