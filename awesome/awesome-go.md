@@ -418,9 +418,12 @@
     - Golang String Manipulation https://www.kelche.co/blog/go/golang-strings/
     - Как итерировать по символам в строках Go https://golang-blog.blogspot.com/2024/10/iterate-string-symbols.html
   - Struct; Структуры
-    - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
-    - Structs in Go https://go101.org/article/struct.html
-    - Type Embedding https://go101.org/article/type-embedding.html
+    - Основное
+      - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
+      - Structs in Go https://go101.org/article/struct.html
+    - embedding; Встраивание
+      - Type Embedding https://go101.org/article/type-embedding.html
+      - Embedding in Go: Part 1 - structs in structs https://eli.thegreenplace.net/2020/embedding-in-go-part-1-structs-in-structs/
   - Функции, Functions
     - Основы Go: функции https://habr.com/ru/companies/otus/articles/746276/
     - Функции первого класса, замыкания и анонимные функции в Golang https://golangify.com/closures-anonymous-first-class-func
