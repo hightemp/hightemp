@@ -200,3 +200,4 @@
     - Типичные ошибки при разработке приложений, работащих с PostgreSQL / Иван Фролков https://www.youtube.com/watch?v=dDryrO8y82c
 - Остальное
     - 10 - Recovery Protocols (CMU Databases / Spring 2020) https://www.youtube.com/watch?v=r0qZKOVByi4
+    - Всё про изоляции транзакций БД. Тотальный гайд к подготовке к собесу IT transaction isolation levels https://www.youtube.com/watch?v=SMv5_-uVwRo
