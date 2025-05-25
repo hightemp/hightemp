@@ -52,12 +52,6 @@
 
 ### Полезные ссылки
 
-### Видео
-
-- Learn how to design your own computer chips! The Zero to ASIC course covers everything you need to design your own chip using the open source tools. You can even get it manufactured into a real chip! https://www.youtube.com/@ZeroToASICcourse
-- How To Design and Manufacture Your Own Chip https://www.youtube.com/watch?v=caXwuuXSB-A
-- Build Your Own Drone Tracking Radar: Part 1 https://www.youtube.com/watch?v=igrN_wd_g74
-
 ### Блоги
 
 - https://nicolasbrailo.github.io/blog/
@@ -80,6 +74,13 @@
     - Our Top 10 printed circuit design software programmes https://www.proto-electronics.com/blog/our-top-10-printed-circuit-design-software-programmes
     - 10+ Online Circuit Design & Simulation Tools for Electrical & Electronics Engineers https://www.electricaltechnology.org/2014/04/design-simulation-tools-electrical-electronics-engineers-online.html
     - 10 Best Circuit Simulation Software- 2024(Free and Paid) https://www.etechnophiles.com/best-circuit-simulation-software/
+
+### Видео
+
+- Learn how to design your own computer chips! The Zero to ASIC course covers everything you need to design your own chip using the open source tools. You can even get it manufactured into a real chip! https://www.youtube.com/@ZeroToASICcourse
+- How To Design and Manufacture Your Own Chip https://www.youtube.com/watch?v=caXwuuXSB-A
+- Build Your Own Drone Tracking Radar: Part 1 https://www.youtube.com/watch?v=igrN_wd_g74
+- USB HID + запуск хоть чего-то на разных микроконтроллерах • C • Live coding https://www.youtube.com/watch?v=r0vElts5pb0
 
 ### Компоненты
 
