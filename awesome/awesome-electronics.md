@@ -88,3 +88,9 @@
         - https://alltransistors.com/transistor.php?transistor=1942
         - https://www.farnell.com/datasheets/296638.pdf
         - https://www.pilianidis.gr/images/sync_products/01-2N2369/2N2369.pdf
+- Радиочастотные усилители
+    - RF2126
+        - https://www.ozon.ru/product/rf2126-radiochastotnyy-usilitel-moshchnosti-2-4-ggts-1-vt-wifi-bluetooth-radio-1764798466/
+- Генераторы
+    - ADF4351
+        - ADF4351 Модуль генератора RF сигнала yesido M5TE13AC806845 https://aliexpress.ru/item/1005008457942086.html?sku_id=12000045220850929&spm=a2g2w.productlist.search_results.1.749249a6bWG9Ff
