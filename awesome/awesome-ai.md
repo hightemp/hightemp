@@ -535,6 +535,7 @@
 - https://stableaudio.com/
 - https://huggingface.co/spaces/facebook/MusicGen
 - https://ilovesong.ai/
+- https://beatoven.ai
 
 ### Генерация 3D-моделей 
 
