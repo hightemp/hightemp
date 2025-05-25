@@ -41,6 +41,11 @@
 
 - https://deeppcb.ai/
 
+### Базы
+
+- https://alltransistors.com/
+- https://www.rfparts.com/
+
 ### Курсы
 
 - How to use AI ChatGPT to design an electronic circuit https://www.udemy.com/course/how-to-use-ai-chatgpt-to-design-an-electronic-circuit/?couponCode=CMCPSALE24
@@ -75,4 +80,9 @@
     - Our Top 10 printed circuit design software programmes https://www.proto-electronics.com/blog/our-top-10-printed-circuit-design-software-programmes
     - 10+ Online Circuit Design & Simulation Tools for Electrical & Electronics Engineers https://www.electricaltechnology.org/2014/04/design-simulation-tools-electrical-electronics-engineers-online.html
     - 10 Best Circuit Simulation Software- 2024(Free and Paid) https://www.etechnophiles.com/best-circuit-simulation-software/
-   
+
+### Компоненты
+
+- Транзисторы
+    - 2N2369
+        - https://www.pilianidis.gr/images/sync_products/01-2N2369/2N2369.pdf
