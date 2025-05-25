@@ -192,6 +192,10 @@ irm https://get.activated.win | iex
 - Netcraft. Анализ безопасности сайтов, информация о доменах, защита от фишинга https://www.netcraft.com/
 - Farsight DNSDB. Исторические данные DNS, анализ и исследование доменах и IP https://www.domaintools.com/
 
+### Shodan
+
+- Web-камеры https://www.shodan.io/search?query=%22Server%3A+IP+Webcam+Server%22+%22200+OK%22
+
 ### Полезные ссылки
 
 - Это персональный сайт MrXcrypt, представляющий собой постоянно пополняемый архив его заметок, исследований и блогов по кибербезопасности, где он делится знаниями о киберугрозах, OSINT, социальной инженерии и киберпреступности, а также публикует свои статьи с Medium. https://misterxcrypt.github.io/cryptic-grove/
