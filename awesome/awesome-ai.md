@@ -140,6 +140,7 @@
 
 ### Чаты с ботами
 
+- https://github.com/copilot
 - https://chat.deepseek.com
 - https://kimi.ai/
 - https://yiyan.baidu.com
