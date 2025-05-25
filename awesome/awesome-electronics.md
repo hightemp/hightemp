@@ -85,4 +85,6 @@
 
 - Транзисторы
     - 2N2369
+        - https://alltransistors.com/transistor.php?transistor=1942
+        - https://www.farnell.com/datasheets/296638.pdf
         - https://www.pilianidis.gr/images/sync_products/01-2N2369/2N2369.pdf
