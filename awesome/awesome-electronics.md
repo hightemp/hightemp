@@ -95,6 +95,8 @@
         - https://alitools.io/ru/showcase/tqp7m9103-moshtnosty-usiliteli-maketnaya-plata-1-ggts-1-vt-visokaya-lineynosty-moshtnosty-usilitely-dlya-opticheskie-transiveri-33044482700
     - SPF5189
         - https://de.aliexpress.com/item/1005005983920229.html?gatewayAdapt=glo2deu
+    - Остальное
+        - https://aliexpress.ru/item/1005004609821709.html?sku_id=12000029818904095&spm=a2g2w.productlist.search_results.10.56cf32ceQBXF5I
 - Генераторы
     - ADF4351
         - ADF4351 Модуль генератора RF сигнала yesido M5TE13AC806845 https://aliexpress.ru/item/1005008457942086.html?sku_id=12000045220850929&spm=a2g2w.productlist.search_results.1.749249a6bWG9Ff
