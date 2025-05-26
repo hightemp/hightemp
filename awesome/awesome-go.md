@@ -541,6 +541,8 @@
       - Type-Unsafe Pointers https://go101.org/article/unsafe.html
       - An Introduction to Go's unsafe Package: Unsafe Operations https://reintech.io/blog/introduction-to-gos-unsafe-package
       - Manual Memory Management Techniques using unsafe in Go https://www.codingexplorations.com/blog/manual-memory-management-techniques-using-unsafe-in-go
+    - unicode/utf8
+      - Unicode and UTF-8 in Golang https://www.sobyte.net/post/2022-07/golang-unicode-utf8/
     - unique
       - Основное
         - Inside Go's Unique Package: String Interning Simplified https://victoriametrics.com/blog/go-unique-package-intern-string/index.html
