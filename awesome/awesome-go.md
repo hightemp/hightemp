@@ -418,6 +418,7 @@
     - Golang String Manipulation https://www.kelche.co/blog/go/golang-strings/
     - Как итерировать по символам в строках Go https://golang-blog.blogspot.com/2024/10/iterate-string-symbols.html
     - Строки(strings) в Go https://habr.com/ru/articles/911614/
+    - Strings, bytes, runes and characters in Go https://go.dev/blog/strings
   - Struct; Структуры
     - Основное
       - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
