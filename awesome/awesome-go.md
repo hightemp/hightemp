@@ -1608,6 +1608,7 @@
 - AI
   - MCP
     - MCP Servers — And How to Build Them With Go https://liavyona09.medium.com/mcp-servers-and-how-to-build-them-with-go-11f9aafd8131
+    - Trading with Claude (and writing your own MCP server) https://dangelov.com/blog/trading-with-claude/
   - RAG
     - RAG "from Scratch" with Go and Ollama https://k33g.hashnode.dev/rag-from-scratch-with-go-and-ollama
   - ML
