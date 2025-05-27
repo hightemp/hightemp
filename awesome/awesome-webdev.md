@@ -451,6 +451,7 @@
       - Inversion of Control Containers and the Dependency Injection pattern https://www.martinfowler.com/articles/injection.html
    - Hexagonal architecture
       - Hexagonal architecture https://alistair.cockburn.us/hexagonal-architecture/
+      - Ports & Adapters (aka hexagonal) architecture explained https://codesoapbox.dev/ports-adapters-aka-hexagonal-architecture-explained/
 - Снифферы
    - Снифферы трафика в мобильном тестировании: Обзор инструментов и их особенности https://habr.com/ru/articles/840084/
 - Безопасность, Security
