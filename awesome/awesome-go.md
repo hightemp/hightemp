@@ -1329,6 +1329,7 @@
     - Practical SOLID in Golang: Interface Segregation Principle https://www.ompluscator.com/article/golang/practical-solid-interface-segregation/
     - Practical SOLID in Golang: Dependency Inversion Principle https://www.ompluscator.com/article/golang/practical-solid-dependency-inversion
   - DDD
+    - Go-микросервисы: Стандартизация архитектуры с Clean Architecture и DDD https://habr.com/ru/articles/911018/
     - Domain Driven Design в Go – это почти не больно https://habr.com/ru/companies/oleg-bunin/articles/791420/
     - Refactoring Application Services with DDD in Golang https://medium.com/@parserdigital/refactoring-application-services-with-ddd-in-golang-a0b6d37ac70e
     - Applying Domain Driven Design (DDD) in Golang https://dev.to/elioenaiferrari/applying-domain-driven-design-ddd-in-golang-5d4m
