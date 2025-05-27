@@ -1329,7 +1329,6 @@
     - Practical SOLID in Golang: Interface Segregation Principle https://www.ompluscator.com/article/golang/practical-solid-interface-segregation/
     - Practical SOLID in Golang: Dependency Inversion Principle https://www.ompluscator.com/article/golang/practical-solid-dependency-inversion
   - DDD
-    - Go-микросервисы: Стандартизация архитектуры с Clean Architecture и DDD https://habr.com/ru/articles/911018/
     - Domain Driven Design в Go – это почти не больно https://habr.com/ru/companies/oleg-bunin/articles/791420/
     - Refactoring Application Services with DDD in Golang https://medium.com/@parserdigital/refactoring-application-services-with-ddd-in-golang-a0b6d37ac70e
     - Applying Domain Driven Design (DDD) in Golang https://dev.to/elioenaiferrari/applying-domain-driven-design-ddd-in-golang-5d4m
@@ -1345,6 +1344,7 @@
     - Implementing Domain Patterns with Hexagonal Architecture in Go https://medium.com/@jmanuelabanto/implementing-domain-patterns-with-hexagonal-architecture-in-go-5aac29fde7e1
     - Event Sourcing in Go https://victoramartinez.com/posts/event-sourcing-in-go/
     - CREATING A PROJECT TEMPLATE? GO WITH DOMAIN-DRIVEN DESIGN https://www.strv.com/blog/creating-a-project-template-go-with-domain-driven-design
+    - Go-микросервисы: Стандартизация архитектуры с Clean Architecture и DDD https://habr.com/ru/articles/911018/
   - CQRS (использование разных моделей для чтения и записи)
     - How to use basic CQRS in Go https://threedots.tech/post/basic-cqrs-in-go/
   - Lambda
