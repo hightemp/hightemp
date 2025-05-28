@@ -666,6 +666,7 @@
         - Do you really understand time.Now()? https://articles.singee.me/golang-time
       - time.After
         - Ставим лимит на время выполнения программы (Timeout) https://golangify.com/code-timeout
+        - time.After() Function in Golang With Examples https://www.geeksforgeeks.org/time-after-function-in-golang-with-examples/
       - time.NewTimer
         - Go: Ticker vs Timer https://dev.to/ankitmalikg/go-ticker-vs-timer-4glb
         - Master Timer in Go: A Simple Guide in Just 4 Easy Steps https://everythingcoding.in/timer-in-go/
