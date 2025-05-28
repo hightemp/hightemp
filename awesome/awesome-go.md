@@ -994,6 +994,7 @@
     - Профилирование и оптимизация программ на Go https://habr.com/ru/companies/badoo/articles/301990/
     - Go Performance Boosters: The Top 5 Tips and Tricks You Need to Know https://blog.devtrovert.com/p/go-performance-boosters-the-top-5
 - Сигналы SIG**
+  - Graceful Shutdown в Go на практике https://habr.com/ru/articles/908344/
   - How to Shutdown a Golang Application in a Cleaner way https://medium.com/@leonardo5621_66451/how-to-shutdown-a-golang-application-in-a-cleaner-way-e9307b0ea505
   - go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
   - Terminating Elegantly: A Guide to Graceful Shutdowns https://itnext.io/terminating-elegantly-a-guide-to-graceful-shutdowns-e0dcd9940f4b
