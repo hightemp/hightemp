@@ -894,6 +894,7 @@
     - Готовый набор golang линтеров (джунам и мидлам) https://habr.com/ru/articles/765784/
     - Автоматизация оптимизаций в Go https://habr.com/ru/companies/deliveryclub/articles/646081/
     - В поисках хорошего стиля. Часть 1. Зачем нам свои линтеры на Go в Островке https://habr.com/ru/companies/ostrovok/articles/839514/
+    - В поисках хорошего стиля. Часть 2. Пишем свой линтер на Go для golangci-lint https://habr.com/ru/companies/ostrovok/articles/908768/
     - Go lintpack: менеджер компонуемых линтеров https://habr.com/ru/articles/430196/
     - What's the best Static Analysis tool for Golang? https://www.dolthub.com/blog/2024-07-24-static-analysis/
 - Системы сборки
