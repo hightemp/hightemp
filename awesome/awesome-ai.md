@@ -886,6 +886,7 @@ https://arxiv.org/pdf/2411.08804v1
 - Выжимка 4000 статей по промтингу
     1. Архив со статьями, построенных на исследованиях и упомянутые в видео: https://drive.google.com/file/d/1v2tDUwmqIVa4QT74Qie9vVrxLQX0trCE/view?usp=sharing
     2. Книга с 1/4 исследований с краткими выводами по методам промпт-инижиниринга: https://drive.google.com/file/d/1UdWJ3eb-cr2sp0EJP-q58o__KUlrlFf8/view?usp=sharing
+- Упаковка файлов в читабельный для AI формат. https://repomix.com/
 
 ### Полезные утилиты
 
