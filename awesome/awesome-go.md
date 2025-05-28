@@ -994,18 +994,23 @@
     - Профилирование и оптимизация программ на Go https://habr.com/ru/companies/badoo/articles/301990/
     - Go Performance Boosters: The Top 5 Tips and Tricks You Need to Know https://blog.devtrovert.com/p/go-performance-boosters-the-top-5
 - Сигналы SIG**
-  - Graceful Shutdown в Go на практике https://habr.com/ru/articles/908344/
-  - SIGHUP Signal for Configuration Reloads https://blog.devtrovert.com/p/sighup-signal-for-configuration-reloads
-  - How to Shutdown a Golang Application in a Cleaner way https://medium.com/@leonardo5621_66451/how-to-shutdown-a-golang-application-in-a-cleaner-way-e9307b0ea505
-  - go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
-  - Terminating Elegantly: A Guide to Graceful Shutdowns https://itnext.io/terminating-elegantly-a-guide-to-graceful-shutdowns-e0dcd9940f4b
-  - Listening to OS signals in Golang https://dev.to/lautarojayat/listening-to-os-signals-in-golang-nkh
-  - Signal handling and graceful shutdown in Go https://riad.run/go-signals-and-graceful-shutdown
-  - Go Tidbit: Handling Signals, Exiting Gracefully https://hjr265.me/blog/go-tidbit-handling-signals-exitting-gracefully/
-  - Catching Multiple SIGINTs in Go - Confirming if You Really Want to Quit https://vlads.me/post/catching-multiple-sigints-in-go-confirming-if-you-really-want-to-quit/
-  - SIGKILL vs SIGTERM: A Developer's Guide to Process Termination https://www.stackstate.com/blog/sigkill-vs-sigterm-a-developers-guide-to-process-termination/
-  - Implementing Graceful Shutdown in Go https://www.rudderstack.com/blog/implementing-graceful-shutdown-in-go/
-  - Gracefully Terminate a Program in Go https://guzalexander.com/2017/05/31/gracefully-exit-server-in-go.html
+  - Основное
+    - Graceful Shutdown в Go на практике https://habr.com/ru/articles/908344/
+  - SIGHUP
+    - SIGHUP Signal for Configuration Reloads https://blog.devtrovert.com/p/sighup-signal-for-configuration-reloads
+  - signal.NotifyContext
+    - signal.NotifyContext: handling cancelation with Unix signals using context https://henvic.dev/posts/signal-notify-context/
+  - Остальное
+    - How to Shutdown a Golang Application in a Cleaner way https://medium.com/@leonardo5621_66451/how-to-shutdown-a-golang-application-in-a-cleaner-way-e9307b0ea505
+    - go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
+    - Terminating Elegantly: A Guide to Graceful Shutdowns https://itnext.io/terminating-elegantly-a-guide-to-graceful-shutdowns-e0dcd9940f4b
+    - Listening to OS signals in Golang https://dev.to/lautarojayat/listening-to-os-signals-in-golang-nkh
+    - Signal handling and graceful shutdown in Go https://riad.run/go-signals-and-graceful-shutdown
+    - Go Tidbit: Handling Signals, Exiting Gracefully https://hjr265.me/blog/go-tidbit-handling-signals-exitting-gracefully/
+    - Catching Multiple SIGINTs in Go - Confirming if You Really Want to Quit https://vlads.me/post/catching-multiple-sigints-in-go-confirming-if-you-really-want-to-quit/
+    - SIGKILL vs SIGTERM: A Developer's Guide to Process Termination https://www.stackstate.com/blog/sigkill-vs-sigterm-a-developers-guide-to-process-termination/
+    - Implementing Graceful Shutdown in Go https://www.rudderstack.com/blog/implementing-graceful-shutdown-in-go/
+    - Gracefully Terminate a Program in Go https://guzalexander.com/2017/05/31/gracefully-exit-server-in-go.html
 - Syscall
   - Syscall и cgo в Go https://habr.com/ru/companies/otus/articles/886062/
 - Примеры создания приложения или сервиса, Примеры приложений
