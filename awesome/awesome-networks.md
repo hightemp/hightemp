@@ -35,6 +35,8 @@
 
 ### Статьи
 
+- Основное
+    - Сети для самых маленьких. Часть нулевая. Планирование https://linkmeup.ru/blog/1188/
 - TCP/IP
     - Блог Джерри - Протокол TCP/IP в действии http://blog.gerryyang.com/tcp/ip/2020/09/08/tcpip-in-action.html
 - UNenLab
