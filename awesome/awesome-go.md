@@ -1262,8 +1262,10 @@
     - Авторизация в Go с использованием JWT https://kovardin.ru/articles/go/avtorizaciya-v-go-s-ispolzovaniem-jwt/?ysclid=m06qqbjia1238948380
     - API Login using echo framework Golang, Postgres and JWT https://martinyonathann.medium.com/api-login-with-echo-framework-golang-postgres-and-jwt-dca330357020
     - A guide to JWT authentication in Go https://blog.logrocket.com/jwt-authentication-go/
-- Kafka
-  - работа с Kafka в Go: практическое применение https://habr.com/ru/articles/894056/
+- Очереди
+  - Kafka
+    - работа с Kafka в Go: практическое применение https://habr.com/ru/articles/894056/
+    - Синхронизация кеша в распределенных Go (и не только) приложениях с помощью Kafka https://habr.com/ru/articles/908876/
 - Telegram
   - Telegram на go: часть 1, парсим схему https://habr.com/ru/articles/535076/
   - Telegram на go, часть 2: бинарный протокол https://habr.com/ru/articles/541920/
