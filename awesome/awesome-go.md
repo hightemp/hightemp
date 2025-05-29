@@ -1551,6 +1551,7 @@
     - Unit Test in Go: Best Practices for Easier Testing https://medium.com/@danarcahyadi21/unit-test-in-go-best-practices-for-easier-testing-79d194fe9a54
     - Mocking https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking
     - 100 % cover, 0 % спокойствия https://habr.com/ru/companies/otus/articles/901522/
+    - Comprehensive Guide to Testing in Go https://blog.jetbrains.com/go/2022/11/22/comprehensive-guide-to-testing-in-go/
   - Тестирование с базой данных
     - PostgreSQL
       - Testing with Go and PostgreSQL: ephemeral DBs (2024) https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/
