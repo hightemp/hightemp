@@ -147,7 +147,8 @@
     - RDMA (Remote Direct Memory Access)
         - An In-Depth Understanding of RDMA Interaction Mechanism between Software and Hardware https://www.alibabacloud.com/blog/601598
         - Infiniband https://www.altlinux.org/Infiniband
-    - eBPF (Extended Berkeley Packet Filter) 
+    - BPF; eBPF (Extended Berkeley Packet Filter) 
+        - BPF для самых маленьких, часть нулевая: classic BPF https://habr.com/ru/articles/493880/
     - XDP (eXpress Data Path)
     - DPDK (Data Plane Development Kit)
     - AIO (Asynchronous I/O)
