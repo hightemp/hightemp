@@ -149,6 +149,7 @@
         - Infiniband https://www.altlinux.org/Infiniband
     - BPF; eBPF (Extended Berkeley Packet Filter) 
         - BPF для самых маленьких, часть нулевая: classic BPF https://habr.com/ru/articles/493880/
+        - The BSD Packet Filter: A New Architecture for User-level Packet Capture https://www.tcpdump.org/papers/bpf-usenix93.pdf
     - XDP (eXpress Data Path)
     - DPDK (Data Plane Development Kit)
     - AIO (Asynchronous I/O)
