@@ -844,6 +844,8 @@
     - Разбираем конкурентность в Go: книги, блоги, выступления https://habr.com/ru/companies/yadro/articles/892632/
   - Makefile
     - Пример создания Makefile для Go-приложений https://habr.com/ru/articles/461467/
+  - Версионирование
+    - Кто ты, воин? Версионирование go бинарников https://habr.com/ru/articles/909230/
   - Ошибки при работе
     - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
     - The Top 10 Most Common Mistakes I’ve Seen in Go Projects https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
