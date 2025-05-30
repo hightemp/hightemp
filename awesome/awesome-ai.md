@@ -1215,6 +1215,8 @@ https://arxiv.org/pdf/2411.08804v1
     - Prompt Decorators: A Simple Way to Improve AI Responses https://kalami.medium.com/prompt-decorators-a-simple-way-to-improve-ai-responses-c3f3c2579a8c
 - RAG
     - Как я победил в RAG Challenge: от нуля до SoTA за один конкурс https://habr.com/ru/articles/893356/
+    - Часть 1. Обзор подходов RAG https://habr.com/ru/articles/893650/
+    - Часть 4. Обзор технологий RAG для LLM: аугментация извлеченных данных https://habr.com/ru/articles/910162/
 - Nvidia
     - Installing the NVIDIA Container Toolkit https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
 - TinyML
