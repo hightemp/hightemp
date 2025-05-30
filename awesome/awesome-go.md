@@ -2011,6 +2011,7 @@
   - Go Clean Template | Чистая Архитектура и как её готовить, Михаил Непряхин https://www.youtube.com/watch?v=V6lQG6d5LgU
   - Configure Golang in Neovim https://www.youtube.com/watch?v=EgwiPok2nbU
   - Буквально 4 минуты про гуся. Goose - тулза для миграций на #golang https://www.youtube.com/watch?v=tyDan_pFUHE
+  - https://youtu.be/R121Xpb28og
 - Чистая архитектура
   - Clean architecture in Go. How to organize a project structure? https://www.youtube.com/watch?v=goC-gCNWhS4
   - GO - Clean Architecture https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB
