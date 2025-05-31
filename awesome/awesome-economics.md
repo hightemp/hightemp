@@ -2,6 +2,7 @@
 
 ### Инвестиции
 
+- https://www.sravni.ru/invest/investicii-v-biznes/
 - https://brainbox.vc/
 - https://bizmall.ru
 - https://aktivo.ru/realty
