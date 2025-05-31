@@ -202,6 +202,10 @@
 - с видео и аудио
     - https://aistudio.google.com/live
 
+### ai-chat, чат программы
+
+- https://github.com/nanbingxyz/5ire
+
 ### ai терминалы, terminals
 
 - https://www.warp.dev/
