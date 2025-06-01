@@ -1315,6 +1315,8 @@ https://www.sackett.net/The-Spike.pdf
 
 ### Видео
 
+- Основное
+    - ML Foundations for AI Engineers (in 34 Minutes) https://www.youtube.com/watch?v=BUTjcAjfMgY
 - Transformers
     - Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy https://www.youtube.com/watch?v=XfpMkf4rD6E
 - Агентные системы
