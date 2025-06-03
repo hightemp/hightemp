@@ -788,6 +788,9 @@
       - Introduction to Golang assembly https://programmer.ink/think/introduction-to-golang-assembly.html
       - \[golang\] golang assembly https://www.programmerall.com/article/89761650628/
       - Quick intro to go assembly https://blog.hackercat.ninja/2018/quick_intro_to_go_assembly/
+      - Часть 1. Почему Go-ассемблер и векторизация могут быть полезны: идея для ускорения https://habr.com/ru/companies/oleg-bunin/articles/905966/
+      - Часть 2. Векторизация и SIMD в Go: ускорение поиска и сравнения в массивах https://habr.com/ru/companies/oleg-bunin/articles/905968/
+      - Часть 3. Векторизация на Go: CGo, транзакции, компиляторы, поддержка, байтовые инструкции https://habr.com/ru/companies/oleg-bunin/articles/905972/ 
     - Plan 9
       - Go Wiki: Go on Plan 9 https://go.dev/wiki/Plan9
       - Getting Go on Plan 9 https://mike-bland.com/2015/06/08/getting-go-on-plan-9.html
