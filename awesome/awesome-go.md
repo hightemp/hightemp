@@ -981,6 +981,7 @@
     - Assembly SIMD Optimization in Go https://goroutines.com/asm
     - Assembler в Go: техники ускорения и оптимизации https://habr.com/ru/articles/720582/
     - How to Use AVX512 in Golang via C Compiler https://gorse.io/posts/avx512-in-golang.html
+    - Binary Search Tree with SIMD https://clement-jean.github.io/simd_binary_search_tree/
   - PGO (Profile-guided Optimization)
     - Как ускорить программу, не переписав ни строчки кода: PGO для Go-разработчиков https://habr.com/ru/articles/846818/  
     - Как работает PGO-оптимизация в Go «на пальцах» https://habr.com/ru/companies/yandex_praktikum/articles/729570/
@@ -1723,7 +1724,6 @@
   - Свой артефактори для Android библиотек https://kovardin.ru/articles/miniservices/depot/
   - SCALING ONE MILLION CHECKBOXES TO 650,000,000 CHECKS https://eieio.games/essays/scaling-one-million-checkboxes/
   - Enums in Go: A Practical Guide https://blog.stackademic.com/enums-in-go-a-practical-guide-aa26d0cb3e22
-  - Binary Search Tree with SIMD https://clement-jean.github.io/simd_binary_search_tree/
   - Parsing Protobuf Definitions with Tree-sitter https://relistan.com/parsing-protobuf-files-with-treesitter
   - Quick Sort in Go https://thedevelopercafe.com/articles/quick-sort-in-go-1c4ef4b5
   - Write a time-series database engine from scratch https://nakabonne.dev/posts/write-tsdb-from-scratch/
