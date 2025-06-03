@@ -264,6 +264,7 @@
     - A Guide to Undefined Behavior in C and C++, Part 2 https://blog.regehr.org/archives/226
     - A Guide to Undefined Behavior in C and C++, Part 3 https://blog.regehr.org/archives/232
   - Остальное
+    - Implementing a Struct of Arrays https://brevzin.github.io/c++/2025/05/02/soa/
     - What does C++ Object Layout Look Like? https://nimrod.blog/posts/what-does-cpp-object-layout-look-like/
     - Безопасное использование C++ https://habr.com/ru/companies/pvs-studio/articles/580762/
     - C++ quick tips: Overloaded virtual functions https://twdev.blog/2024/07/cpp_overloaded_virtuals/
