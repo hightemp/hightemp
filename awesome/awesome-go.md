@@ -2002,6 +2002,8 @@
   - GOLANG ПОЛНЫЙ КУРС ДЛЯ НАЧИНАЮЩИХ | ЧАСТЬ 1 | ОСНОВЫ ПРОГРАММИРОВАНИЯ https://www.youtube.com/watch?v=dpvRDJjUJf8
 - Подготовка к собеседованию
   - Golang 100 вопросов с собеседований. Подготовка Go разработчика Часть 1 https://www.youtube.com/watch?v=ZvaD-G5_3vQ
+- Go asm
+  - GopherCon 2016: Rob Pike - The Design of the Go Assembler https://www.youtube.com/watch?v=KINIAgRpkDA
 - Аунтификация
   - Building the User & Auth Modules with GoLang | 3-Hour Coding Journey | FinGreat Series #3 https://www.youtube.com/watch?v=2Dp7PX70o2k
 - Архитектура
