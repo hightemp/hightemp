@@ -115,6 +115,7 @@
         - What is a socket? https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket
     - cgroup
         - Practicing cgroup v2 https://medium.com/@charles.vissol/practicing-cgroup-v2-cad6743bba0c
+        - Linux cgroup from first principles https://fzakaria.com/2025/05/26/linux-cgroup-from-first-principles
     - dup
         - dup, dup2, dup3 - duplicate a file descriptor https://man7.org/linux/man-pages/man2/dup.2.html
     - select
