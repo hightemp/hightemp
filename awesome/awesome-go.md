@@ -562,6 +562,7 @@
       - Errors, Errors Everywhere: How We Centralized and Structured Error Handling https://olivernguyen.io/w/namespace.error/
       - ErrorHandling-патерн в golang https://habr.com/ru/articles/871394/
       - Обработка ошибок в Go — Не традиционный подход https://habr.com/ru/articles/880892/
+      - Structured errors in Go https://southcla.ws/structured-errors-in-go
     - plugin
       - Getting started with Go plugin package https://echorand.me/posts/getting-started-with-golang-plugins/
       - Go и плагины https://habr.com/ru/articles/647623/
