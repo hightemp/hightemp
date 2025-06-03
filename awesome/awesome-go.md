@@ -1067,6 +1067,8 @@
 - FFI
   - Туториал: использование Go из PHP через FFI https://habr.com/ru/articles/902532/
   - Cross-Language Data Encryption: PHP and Golang with PHP FFI https://encoresky.com/blog/cross-language-data-encryption-php-and-golang-with-php-ffi
+- BPF, eBPF
+  - Diving into eBPF: Building a Process Tracer from Scratch! https://blog.smidt.dev/posts/0003/
 - Базы данных
   - Oracle
     - Основное
