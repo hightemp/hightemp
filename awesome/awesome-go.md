@@ -1266,6 +1266,7 @@
     - Авторизация в Go с использованием JWT https://kovardin.ru/articles/go/avtorizaciya-v-go-s-ispolzovaniem-jwt/?ysclid=m06qqbjia1238948380
     - API Login using echo framework Golang, Postgres and JWT https://martinyonathann.medium.com/api-login-with-echo-framework-golang-postgres-and-jwt-dca330357020
     - A guide to JWT authentication in Go https://blog.logrocket.com/jwt-authentication-go/
+    - Implementing JWT Token Authentication in Golang https://medium.com/@cheickzida/golang-implementing-jwt-token-authentication-bba9bfd84d60
 - Очереди
   - Kafka
     - работа с Kafka в Go: практическое применение https://habr.com/ru/articles/894056/
@@ -1364,6 +1365,7 @@
     - Event Sourcing in Go https://victoramartinez.com/posts/event-sourcing-in-go/
     - CREATING A PROJECT TEMPLATE? GO WITH DOMAIN-DRIVEN DESIGN https://www.strv.com/blog/creating-a-project-template-go-with-domain-driven-design
     - Go-микросервисы: Стандартизация архитектуры с Clean Architecture и DDD https://habr.com/ru/articles/911018/
+    - Хань Мэнсюань; реализация golang на основе DDD https://www.cnblogs.com/siyunianhua/p/17189349.html
   - CQRS (использование разных моделей для чтения и записи)
     - How to use basic CQRS in Go https://threedots.tech/post/basic-cqrs-in-go/
   - Lambda
