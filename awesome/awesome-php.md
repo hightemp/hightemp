@@ -286,6 +286,7 @@
     - Using PSR-3 placeholders properly https://hive.blog/hive-168588/@crell/using-psr-3-placeholders-properly
   - Остальное
     - Внутреннее представление значений в PHP7 (часть 1) https://habr.com/ru/companies/vk/articles/257999/
+    - Внутреннее представление значений в PHP 7 (часть 2) https://habr.com/ru/companies/vk/articles/261131/
     - Type variance in PHP 08. November 2021 https://www.npopov.com/2021/11/08/Type-variance-in-PHP.html
     - Готовимся к собеседованию по PHP: Что такое «DI», «Container», «Auto-wiring» за семь простых шагов https://habr.com/ru/articles/655399/
     - Готовимся к собеседованию по PHP: ключевое слово «static» https://habr.com/ru/articles/259627/
