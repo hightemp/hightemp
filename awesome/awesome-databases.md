@@ -176,6 +176,8 @@
         - Дом, милый дом: нюансы работы с ClickHouse. Часть 2, репликация https://habr.com/ru/companies/nixys/articles/826850/
         - Добавление и удаление реплик в кластер ClickHouse https://stupin.su/wiki/clickhouse_cluster_add_remove/
         - Clickhouse + репликация + шардинг http://iakovlev.org/index.html?p=1435
+    - CDC
+        - Совместное использование ClickHouse и PostgreSQL: CDC с PeerDB https://bigdataschool.ru/blog/news/clickhouse/cdc-etl-from-postgresql-to-clickhouse-with-peerdb.html
     - Остальное
         - НАСТРОЙКА КЛАСТЕРА CLICKHOUSE STEB-BY-STEP — ЧАСТЬ 1 https://avamk.ru/nastrojka-klastera-clickhouse-steb-by-step-chast-1.html
 - Остальное
