@@ -1069,6 +1069,7 @@
   - Cross-Language Data Encryption: PHP and Golang with PHP FFI https://encoresky.com/blog/cross-language-data-encryption-php-and-golang-with-php-ffi
 - BPF, eBPF
   - Diving into eBPF: Building a Process Tracer from Scratch! https://blog.smidt.dev/posts/0003/
+  - An Applied Introduction to eBPF with Go https://sazak.io/articles/an-applied-introduction-to-ebpf-with-go-2024-06-06
 - Базы данных
   - Oracle
     - Основное
@@ -1740,7 +1741,6 @@
   - No sleep until we build the ideal pub/sub library in Go; Автор рассматривает разные подходы к написанию pub/sub библиотеки на #golang; https://rauljordan.com/no-sleep-until-we-build-the-perfect-library-in-go/
   - Пишем сайт с риалтайм обновлениями с помощью Server-Sent Events, #golang и htmx https://threedots.tech/post/live-website-updates-go-sse-htmx
   - Avoiding Beginner Mistakes Hampering You to Scale Backend (Пример оптимизации #golang сервиса на 2 GB памяти и 1 CPU) https://dev.to/rikenshah/scaling-backend-to-1m-requests-with-just-2gb-ram-4m0c#optimization-7-avoid-overloading-goroutines
-  - An Applied Introduction to eBPF with Go https://sazak.io/articles/an-applied-introduction-to-ebpf-with-go-2024-06-06
   - Where and When to use Iota in Go https://www.gopherguides.com/articles/how-to-use-iota-in-golang  
   - Golang: context изнутри https://habr.com/ru/articles/827544/
   - How To Use Contexts in Go https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go
