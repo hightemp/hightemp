@@ -1635,6 +1635,7 @@
     - f-tests as a replacement for table-driven tests in Go https://itnext.io/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e
     - Testing in Go - a crash article to get you going https://thedevelopercafe.com/articles/testing-in-go-929e2ad2
     - Emulating real dependencies in Integration Tests using Testcontainers https://itnext.io/emulating-real-dependencies-in-integration-tests-using-testcontainers-6244f0cbe027
+    - Написание функционального тестирования в Go https://habr.com/ru/articles/836664/
 - Distributed Systems, Распределенные системы
   - Consensus Algorithms, Алгоритмы консенсуса
     - Raft Consensus Algorithm, Алгоритм консенсуса Raft
