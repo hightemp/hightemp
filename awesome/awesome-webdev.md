@@ -452,6 +452,10 @@
    - Hexagonal architecture
       - Hexagonal architecture https://alistair.cockburn.us/hexagonal-architecture/
       - Ports & Adapters (aka hexagonal) architecture explained https://codesoapbox.dev/ports-adapters-aka-hexagonal-architecture-explained/
+   - Чистая архитектура; Clean architecture
+      - Чистая архитектура https://habr.com/ru/articles/269589/
+   - Остальное
+      - 10 Best Resources to Learn Software Architecture in 2025 https://medium.com/javarevisited/10-best-resources-to-learn-software-architecture-in-2025-2524ac91dc76
 - Снифферы
    - Снифферы трафика в мобильном тестировании: Обзор инструментов и их особенности https://habr.com/ru/articles/840084/
 - Безопасность, Security
@@ -462,8 +466,6 @@
    - The power of two random choices https://brooker.co.za/blog/2012/01/17/two-random.html
 - Базы данных
    - Gotchas with SQLite in Production https://blog.pecar.me/sqlite-prod
-- Архитектура
-   - 10 Best Resources to Learn Software Architecture in 2025 https://medium.com/javarevisited/10-best-resources-to-learn-software-architecture-in-2025-2524ac91dc76
 - WebAssembly
    - How we sped up Notion in the browser with WASM SQLite https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite
 - Тестирование
