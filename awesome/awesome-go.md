@@ -605,6 +605,17 @@
         - GoLang error handling explained https://medium.com/@sriniwasx/golang-error-handling-for-newbies-e468a40178f6
     - bytes
       - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
+    - reflect; Reflection, Рефлексия, Отражение
+      - Основное
+        - Законы рефлексии в Gо https://habr.com/ru/articles/415171/
+        - Рефлексия в Go. Выясняем – что такое рефлексия. Плюсы и минусы. Альтернативные подходы https://vporoshok.me/post/2019/01/reflection/
+        - Reflection в Go https://habr.com/ru/companies/otus/articles/833770/
+        - Reflection in Golang https://www.geeksforgeeks.org/reflection-in-golang/
+        - A Deep Dive Into Reflection in Go https://umatechnology.org/a-deep-dive-into-reflection-in-go/
+        - Introduction to Go’s Reflection API: Dynamic Programming in GoLang https://clouddevs.com/go/reflection-api/    
+        - Reflections in Go https://go101.org/article/reflection.html
+      - reflect.Value
+        - Как устроен reflect.Value и что происходит, когда вы вызываете .Field(i) https://habr.com/ru/companies/otus/articles/913690/
     - sync
       - Основное
         - Sync Package: What Are New Features in Golang sync.Once? https://reliasoftware.com/blog/new-features-in-golang-sync-once
@@ -751,15 +762,6 @@
     - Understanding Go Build Tags https://leapcell.io/blog/understanding-go-build-tags
   - Трассировка
     - Go: фокусы трассировки https://habr.com/ru/articles/865812/
-  - reflect; Reflection, Рефлексия, Отражение
-    - Законы рефлексии в Gо https://habr.com/ru/articles/415171/
-    - Рефлексия в Go. Выясняем – что такое рефлексия. Плюсы и минусы. Альтернативные подходы https://vporoshok.me/post/2019/01/reflection/
-    - Reflection в Go https://habr.com/ru/companies/otus/articles/833770/
-    - Reflection in Golang https://www.geeksforgeeks.org/reflection-in-golang/
-    - A Deep Dive Into Reflection in Go https://umatechnology.org/a-deep-dive-into-reflection-in-go/
-    - Introduction to Go’s Reflection API: Dynamic Programming in GoLang https://clouddevs.com/go/reflection-api/    
-    - Reflections in Go https://go101.org/article/reflection.html
-    - Как устроен reflect.Value и что происходит, когда вы вызываете .Field(i) https://habr.com/ru/companies/otus/articles/913690/
   - Go Linker
     - Building a better Go linker https://docs.google.com/document/d/1D13QhciikbdLtaI67U6Ble5d_1nsI4befEd6_k1z91U/edit?tab=t.0#heading=h.g4m43nddv64t
   - Go GC
