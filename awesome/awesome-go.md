@@ -1586,6 +1586,7 @@
       - Testing with GoMock: A Tutorial https://www.codecentric.de/wissens-hub/blog/gomock-tutorial
       - Extending GoMock With Matchers https://manadart.github.io/posts/20150212.html
       - Еще разок про gomock и функциональные тесты https://habr.com/ru/articles/913734/
+      - Табличные тесты в Go с использованием Gomock https://habr.com/ru/companies/avito/articles/658907/
     - Testify
       - Основное
         - Step up Your Go App Testing Game With the Testify Framework https://semaphore.io/blog/testify-go
