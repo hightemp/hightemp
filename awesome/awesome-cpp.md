@@ -145,6 +145,7 @@
       - The types int and char https://www.ime.usp.br/~pf/algorithms/chapters/int-and-char.html#:~:text=An%20unsigned%20char%20is%20an,1%20byte%20using%20binary%20notation.
     - Ссылочные типы
       - Ссылки и ссылочные типы в C++ https://habr.com/ru/articles/646005/
+      - Ссылки и указатели в C++ https://habr.com/ru/companies/otus/articles/914262/
     - unsigned char
       - unsigned char in C with Examples https://www.geeksforgeeks.org/unsigned-char-in-c-with-examples/
   - Strings; Строки
