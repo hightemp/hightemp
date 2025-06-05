@@ -142,6 +142,10 @@
 - Vigneshwer Dhinakaran — «Rust Cookbook».
 - Carlo Milanesi — «Beginning Rust: From Novice to Professional» 2018.
 - Jan Hohenheim, Daniel Durante — «Rust Standard Library Cookbook» 2018.
+- Эффективный Rust. 35 конкретных способов улучшить код 
+  - Автор: Дрисдейл Д.
+  - Ссылки:
+    - https://www.piter.com/collection/all/product/effektivnyy-rust-35-konkretnyh-sposobov-uluchshit-kod?utm_source=habr&utm_medium=post&utm_campaign=oreilly&utm_content=effektivnyy-rust-35&utm_term=book1
 
 ### Руководства, Гайды
 
