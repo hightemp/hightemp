@@ -675,8 +675,9 @@
     - 🚀 Visualizing memory management in Rust https://deepu.tech/memory-management-in-rust/
   - cargo
     - Как работает Cargo https://habr.com/ru/companies/otus/articles/902584/
-  - enums, Перечисления
+  - enum, Перечисления
     - Unlocking Rust’s Hidden Gem: A Deep Dive into Enums https://medium.com/@rahulptl1997/unlocking-rusts-hidden-gem-a-deep-dive-into-enums-d878780a5dbf
+    - Удивительная оптимизация размера enum в компиляторе Rust https://habr.com/ru/articles/899834/
   - structs, Структуры
   - traits, Типажи
     - Trait-объекты и полиморфизм в Rust https://habr.com/ru/companies/otus/articles/790060/
