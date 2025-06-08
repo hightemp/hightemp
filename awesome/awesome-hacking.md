@@ -107,6 +107,10 @@
 - https://geonode.com/free-proxy-list 
   - https://proxylist.geonode.com/api/proxy-list?limit=500&page=1&sort_by=lastChecked&sort_type=desc
   
+### Детекторы движков сайтов
+
+- webanalyze — высокопроизводительный инструмент для анализа веб-технологий, представляющий собой портированную на язык Go версию Wappalyzer, предназначенный для массового тестирования списков хостов с возможностью обновления базы определений технологий, поддержкой различных форматов вывода (stdout, CSV, JSON), настраиваемым количеством воркеров и функцией сканирования связанных URL-адресов в том же базовом домене. https://github.com/rverton/webanalyze
+
 ### Руководства и справочники
 
 - OWASP Web Security Testing Guide - owasp.org/www-project-web-security-testing-guide/
