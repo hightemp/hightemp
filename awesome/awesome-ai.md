@@ -766,9 +766,10 @@ https://arxiv.org/pdf/2411.08804v1
 - https://github.com/openai/tiktoken
 - https://huggingface.co/Xenova/text-embedding-ada-002
 
-### Промты
+### Промты; Промптинг
 
 - https://github.com/DenisSergeevitch/chatgpt-custom-instructions
+- Prompt Jesus — бесплатная платформа для автоматического улучшения пользовательских запросов к языковым моделям, которая преобразует простые текстовые инструкции в структурированные профессиональные промпты с использованием методологий от Google, OpenAI и Anthropic, включая добавление ролей, цепочек рассуждений и механизмов защиты от ошибок. https://promptjesus.com
 
 ### Мультимодальные модели
 
