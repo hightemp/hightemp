@@ -158,6 +158,7 @@
 ### Шпаргалки
 
 - https://my-js.org/docs/cheatsheet/rust/
+- https://cheats.rs/
 
 ### Курсы
 
