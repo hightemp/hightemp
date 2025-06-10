@@ -20,6 +20,7 @@
 ### VPN
 
 - https://www.vpnbook.com/
+- Бесплатные ключи протокола VLESS | V2RAY https://vpnkeys.org/vless
 
 ### Как получить список Российских адресов
 
