@@ -1706,6 +1706,8 @@
 - gokrazy — это минималистичная операционная система, предназначенная для запуска программ, написанных на языке Go, в виде так называемых "апплаенсов" (appliances) на различных платформах: Raspberry Pi, виртуальных машинах, встраиваемых и обычных ПК
   - gokrazy is really cool https://xeiaso.net/blog/gokrazy/
 - Остальное
+  - Контейнер с нуля https://habr.com/ru/companies/timeweb/articles/913902/
+  - Container From Scratch https://prabhujayakumar.dev/blog/container-from-scratch/
   - Golang developers should try Odin https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/
   - How MySQL indexes work? https://computersciencesimplified.substack.com/p/how-mysql-indexes-work
   - Structured concurrency в языке Go https://habr.com/ru/companies/karuna/articles/816677/
