@@ -49,6 +49,8 @@
     - Основное
         - Изучаем PostgreSQL. Часть 1. Знакомимся с архитектурой https://habr.com/ru/companies/otus/articles/706346/
         - How to list tables in PostgreSQL https://www.illacloud.com/blog/list-tables-in-postgresql
+    - subtransactions; Подтранзакции
+        - Why we spent the last month eliminating PostgreSQL subtransactions https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/
     - PgBouncer
         - Управление пулом подключений https://docs.arenadata.io/ru/ADPG/current/concept/architecture/pgbouncer.html
         - PgBouncer https://evtuhovich.ru/blog/2012/02/12/pgbouncer/
