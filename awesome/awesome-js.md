@@ -183,6 +183,7 @@
 - Лучшие практики
   - Лучшие практики TypeScript https://habr.com/ru/articles/859016/
 - Остальное
+  - Насколько быстр Javascript? Симулируем 20 миллионов частиц https://habr.com/ru/articles/829220/
   - Эффективное управление памятью в масштабе Gmail https://web.dev/articles/effectivemanagement?hl=ru
   - Как работает компьютер - глубокое погружение (на примере Linux) https://my-js.org/blog/how-computer-work/#1-основы
   - Distributed Locks in Node.js https://bpaulino.com/entries/distributed-lock-in-node-js
