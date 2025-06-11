@@ -1431,6 +1431,7 @@
     - Golang: Project Structure https://bytegoblin.io/blog/golang-project-structure
   - Остальное
     - Архитектура продуктового Go-сервиса https://habr.com/ru/articles/881918/ 
+    - Application Layer на примере Go — зачем он нужен, если уже есть сервисы? https://habr.com/ru/companies/otus/articles/913532/
     - Еще один вариант структуры go-приложения https://habr.com/ru/articles/911248/
     - Некоторые приёмы ООП в golang https://habr.com/ru/articles/908396/
   - 🏗️ Паттерны
