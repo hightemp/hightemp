@@ -1091,6 +1091,7 @@
     - Оптимизация
       - https://habr.com/ru/companies/avito/articles/525294/
     - Остальное
+      - Бесполезная статья. SimpleProtocol vs BinaryParameters https://habr.com/ru/articles/913754/
       - Приключения одного бага или как починить pgx чужими руками https://habr.com/ru/companies/avito/articles/519610/
       - GO-PG Golang Postgre ORM https://medium.com/tunaiku-tech/go-pg-golang-postgre-orm-2618b75c0430
   - SQL
