@@ -93,7 +93,8 @@
     - What is JavaScript Concurrency and a Deep Dive into the Event Loop, Async Operations, and Real-World Examples https://www.mbloging.com/post/mastering-javascript-concurrency-a-deep-dive-into-the-event-loop-async-operations-and-real-world
   - WeakMap
     - WeakMap и WeakSet в JavaScript https://habr.com/ru/companies/otus/articles/865512/
-  - Web Worker
+  - Web Worker; Веб-воркеры
+    - Веб-воркеры — многопоточность в JavaScript https://habr.com/ru/articles/915518/
   - Генераторы
     - JavaScript Generators Explained, But On A Senior-Level https://www.reactsquad.io/blog/understanding-generators-in-javascript
   - ECMAScript
