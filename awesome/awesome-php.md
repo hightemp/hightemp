@@ -278,6 +278,7 @@
   - Errors handling
     - Modern Error handling in PHP https://netgen.io/blog/modern-error-handling-in-php
     - Error Logging in PHP https://www.swiftorial.com/tutorials/web_development/php/error_handling/error_logging/
+    - set_error_handler - Задает определенный пользователем обработчик ошибок https://php.ru/manual/function.set-error-handler.html
   - Errors; Ошибки
     - Modern Error handling in PHP https://netgen.io/blog/modern-error-handling-in-php
     - WTF is T_PAAMAYIM_NEKUDOTAYIM https://philsturgeon.com/wtf-is-t-paamayim-nekudotayim/
