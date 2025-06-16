@@ -262,6 +262,8 @@
     - PHP OOP Fundamentals - Traits In PHP 8 https://www.dailycomputerscience.com/post/php-oop-fundamentals-traits-in-php-8
   - Строки, Strings
     - Manipulating Strings with PHP: A Comprehensive Guide https://medium.com/@tejeswar_79802/manipulating-strings-with-php-ca5b7cebc50e
+  - Генераторы; Generators
+    - Действительно ли генераторы помогают экономить память? https://habr.com/ru/articles/599113/
   - Регулярные выражения
     - PHP - Regular Expressions https://www.tutorialspoint.com/php/php_regular_expression.htm
   - Dependency injection
