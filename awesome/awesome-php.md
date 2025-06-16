@@ -288,6 +288,9 @@
     - PHP: The Garbage Collector explained with simple words https://dev.to/spo0q/php-the-garbage-collector-explained-with-simple-words-1b7d
     - Investigating PHP garbage collection https://www.ekreative.com/blog/investigating-php-garbage-collection/
     - https://www.sitepoint.com/better-understanding-phps-garbage-collection/
+  - php://
+    - Основное
+      - php:// https://www.php.net/manual/en/wrappers.php.php
   - Errors handling
     - Error Handling in PHP: A Complete Guide https://dev.to/patoliyainfotech/error-handling-in-php-a-complete-guide-2nm7
     - Modern Error handling in PHP https://netgen.io/blog/modern-error-handling-in-php
