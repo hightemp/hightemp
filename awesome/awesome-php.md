@@ -276,6 +276,7 @@
     - Investigating PHP garbage collection https://www.ekreative.com/blog/investigating-php-garbage-collection/
     - https://www.sitepoint.com/better-understanding-phps-garbage-collection/
   - Errors handling
+    - Error Handling in PHP: A Complete Guide https://dev.to/patoliyainfotech/error-handling-in-php-a-complete-guide-2nm7
     - Modern Error handling in PHP https://netgen.io/blog/modern-error-handling-in-php
     - Error Logging in PHP https://www.swiftorial.com/tutorials/web_development/php/error_handling/error_logging/
     - set_error_handler - Задает определенный пользователем обработчик ошибок https://php.ru/manual/function.set-error-handler.html
