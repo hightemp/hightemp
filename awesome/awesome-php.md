@@ -264,6 +264,7 @@
     - Manipulating Strings with PHP: A Comprehensive Guide https://medium.com/@tejeswar_79802/manipulating-strings-with-php-ca5b7cebc50e
   - Генераторы; Generators
     - Действительно ли генераторы помогают экономить память? https://habr.com/ru/articles/599113/
+    - Генераторы в действии https://habr.com/ru/articles/189796/
   - Регулярные выражения
     - PHP - Regular Expressions https://www.tutorialspoint.com/php/php_regular_expression.htm
   - Dependency injection
