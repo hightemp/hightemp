@@ -154,6 +154,8 @@
     - XDP (eXpress Data Path)
     - DPDK (Data Plane Development Kit)
     - AIO (Asynchronous I/O)
+    - MMU
+        - How Does the Memory Management Unit (MMU) Work with the Unix/Linux Kernel? https://chessman7.substack.com/p/how-does-the-memory-management-unit
     - io_uring
         - io_uring Is Back, This Time as a Rootkit https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security/
     - /dev
