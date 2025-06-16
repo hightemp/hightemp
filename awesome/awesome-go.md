@@ -533,6 +533,7 @@
     - 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
   - panic
     - When is it OK to panic in Go? https://www.alexedwards.net/blog/when-is-it-ok-to-panic-in-go
+    - Go Wiki: PanicAndRecover https://go.dev/wiki/PanicAndRecover
   - Пакеты стандартной библиотеки
     - sort; Сортировка
       - Asynchronous Sorting in Go https://www.dolthub.com/blog/2020-10-26-asynchronous-sorting-in-go/
