@@ -153,6 +153,10 @@
 - Свободный перевод официального руководства по Codeception https://github.com/yupe/codeception-guide-ru/tree/master
 - http://phpsadness.com/ созданный Эриком Вастлом для документирования реальных ошибок и странного поведения PHP.
 
+### Доступно ли в PHP
+
+- https://php.watch/codex/CURLOPT_FILE
+
 ### Расширения chrome
 
 - https://chromewebstore.google.com/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc
