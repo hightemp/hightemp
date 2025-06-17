@@ -558,16 +558,18 @@
         - New unique package https://go.dev/blog/unique
         - Interning in Go https://medium.com/google-cloud/interning-in-go-4319ea635002
     - errors
-      - Работа с ошибками в Go 1.13 https://habr.com/ru/companies/vk/articles/473658/
-      - Mastering Golang — Part 8: Error Handling https://blog.stackademic.com/mastering-golang-part-8-error-handling-4012a62ad0cb
-      - Advanced error handling strategies in Go https://medium.com/@guilhermemls/advanced-error-handling-strategies-in-go-12ef4ee621d7
-      - Errors, Errors Everywhere: How We Centralized and Structured Error Handling https://olivernguyen.io/w/namespace.error/
-      - ErrorHandling-патерн в golang https://habr.com/ru/articles/871394/
-      - Обработка ошибок в Go — Не традиционный подход https://habr.com/ru/articles/880892/
-      - Structured errors in Go https://southcla.ws/structured-errors-in-go
-      - Errors are values https://go.dev/blog/errors-are-values
-      - Error handling in Upspin https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html
-      - Don’t just check errors, handle them gracefully https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully
+      - Основное
+        - Работа с ошибками в Go 1.13 https://habr.com/ru/companies/vk/articles/473658/
+        - Mastering Golang — Part 8: Error Handling https://blog.stackademic.com/mastering-golang-part-8-error-handling-4012a62ad0cb
+      - Остальное
+        - Advanced error handling strategies in Go https://medium.com/@guilhermemls/advanced-error-handling-strategies-in-go-12ef4ee621d7
+        - Errors, Errors Everywhere: How We Centralized and Structured Error Handling https://olivernguyen.io/w/namespace.error/
+        - ErrorHandling-патерн в golang https://habr.com/ru/articles/871394/
+        - Обработка ошибок в Go — Не традиционный подход https://habr.com/ru/articles/880892/
+        - Structured errors in Go https://southcla.ws/structured-errors-in-go
+        - Errors are values https://go.dev/blog/errors-are-values
+        - Error handling in Upspin https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html
+        - Don’t just check errors, handle them gracefully https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully
     - plugin
       - Getting started with Go plugin package https://echorand.me/posts/getting-started-with-golang-plugins/
       - Go и плагины https://habr.com/ru/articles/647623/
