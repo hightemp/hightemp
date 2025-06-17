@@ -302,6 +302,8 @@
   - Errors; Ошибки
     - Modern Error handling in PHP https://netgen.io/blog/modern-error-handling-in-php
     - WTF is T_PAAMAYIM_NEKUDOTAYIM https://philsturgeon.com/wtf-is-t-paamayim-nekudotayim/
+  - Exceptions;
+    - Hierarchy of PHP exceptions https://php.watch/articles/PHP-exception-hierarchy
   - Reflections
     - Введение в PHP Reflection API https://habr.com/ru/articles/433266/
     - Exploring the Power of ReflectionClass in PHP https://rakibdevs.medium.com/exploring-the-power-of-reflectionclass-in-php-a26d5ce533f3
