@@ -166,6 +166,7 @@
             - Настройка централизованного логирования с использованием Dokku, Loki и Grafana https://habr.com/ru/articles/789954/
             - Grafana Loki https://docs.digitalocean.com/products/marketplace/catalog/grafana-loki/
             - How labels in Loki can make log queries faster and easier https://grafana.com/blog/2020/04/21/how-labels-in-loki-can-make-log-queries-faster-and-easier/
+            - Loki — сбор логов, используя подход Prometheus https://habr.com/ru/companies/otus/articles/487118/
     - Остальное
         - Логи из docker compose / docker swarm в Grafana / Loki быстро и просто https://habr.com/ru/articles/784410/
 - Haproxy
