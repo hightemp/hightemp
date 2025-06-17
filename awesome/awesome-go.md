@@ -492,6 +492,7 @@
     - Go maps in action https://go.dev/blog/maps
     - Go Maps Explained: How Key-Value Pairs Are Actually Stored https://victoriametrics.com/blog/go-map/
     - Вопросы по мэпам (map) в Go https://habr.com/ru/articles/854214/
+    - Эти сложные map & slice в GO https://habr.com/ru/articles/912272/
   - Ellipsis
     - How to use Ellipsis (…) in Golang? https://www.geeksforgeeks.org/how-to-use-ellipsis-in-golang/
   - Тэги, Tags
