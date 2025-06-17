@@ -306,6 +306,7 @@
     - Hierarchy of PHP exceptions https://php.watch/articles/PHP-exception-hierarchy
     - New error handling mechanism in PHP8.0: throwable interface https://www.php.cn/faq/538803.html
     - Mastering Exception Handling in PHP 8: A Deep Dive into try-catch Enhancements https://dev.to/olivia_madison_b0ad7090ad/mastering-exception-handling-in-php-8-a-deep-dive-into-try-catch-enhancements-i2a
+    - Exception Handling in PHP 8 https://www.atatus.com/blog/exception-handling-in-php8/
   - Reflections
     - Введение в PHP Reflection API https://habr.com/ru/articles/433266/
     - Exploring the Power of ReflectionClass in PHP https://rakibdevs.medium.com/exploring-the-power-of-reflectionclass-in-php-a26d5ce533f3
