@@ -168,6 +168,7 @@
             - How labels in Loki can make log queries faster and easier https://grafana.com/blog/2020/04/21/how-labels-in-loki-can-make-log-queries-faster-and-easier/
             - Loki — сбор логов, используя подход Prometheus https://habr.com/ru/companies/otus/articles/487118/
             - Introduction to Grafana Loki https://www.baeldung.com/ops/grafana-loki
+            - Пример docker-compose файла для развертывания Grafana + Grafana Loki https://www.dmosk.ru/scripts.php?object=loki-docker-compose
     - Остальное
         - Логи из docker compose / docker swarm в Grafana / Loki быстро и просто https://habr.com/ru/articles/784410/
 - Haproxy
