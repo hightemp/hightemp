@@ -297,7 +297,6 @@
     - Modern Error handling in PHP https://netgen.io/blog/modern-error-handling-in-php
     - Error Logging in PHP https://www.swiftorial.com/tutorials/web_development/php/error_handling/error_logging/
     - set_error_handler - Задает определенный пользователем обработчик ошибок https://php.ru/manual/function.set-error-handler.html
-    - New error handling mechanism in PHP8.0: throwable interface https://www.php.cn/faq/538803.html
   - try; catch; finally
     - When to use finally in exception handling in PHP https://www.amitmerchant.com/when-use-finally-try-catch-php/
   - Errors; Ошибки
@@ -305,6 +304,8 @@
     - WTF is T_PAAMAYIM_NEKUDOTAYIM https://philsturgeon.com/wtf-is-t-paamayim-nekudotayim/
   - Exceptions;
     - Hierarchy of PHP exceptions https://php.watch/articles/PHP-exception-hierarchy
+    - New error handling mechanism in PHP8.0: throwable interface https://www.php.cn/faq/538803.html
+    - Mastering Exception Handling in PHP 8: A Deep Dive into try-catch Enhancements https://dev.to/olivia_madison_b0ad7090ad/mastering-exception-handling-in-php-8-a-deep-dive-into-try-catch-enhancements-i2a
   - Reflections
     - Введение в PHP Reflection API https://habr.com/ru/articles/433266/
     - Exploring the Power of ReflectionClass in PHP https://rakibdevs.medium.com/exploring-the-power-of-reflectionclass-in-php-a26d5ce533f3
