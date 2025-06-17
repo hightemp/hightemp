@@ -270,6 +270,7 @@
     - Действительно ли генераторы помогают экономить память? https://habr.com/ru/articles/599113/
     - Генераторы в действии https://habr.com/ru/articles/189796/
     - A Quick Performance Optimization Guide Using PHP Generators https://medium.com/better-programming/a-quick-performance-optimization-example-using-php-generators-9e71aac810e0
+    - Функциональное программирование с PHP-генераторами https://habr.com/ru/companies/vk/articles/351818/
   - Регулярные выражения
     - PHP - Regular Expressions https://www.tutorialspoint.com/php/php_regular_expression.htm
   - Dependency injection
