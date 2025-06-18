@@ -86,5 +86,7 @@
     - Регистры
         - Registers in x86 Assembly https://www.cs.uaf.edu/2017/fall/cs301/lecture/09_11_registers.html
         - Регистры процессора https://av-assembler.ru/asm/afd/asm-cpu-registers.htm
+    - Инструкции
+        - Инструкции процессоров Intel https://av-assembler.ru/instructions/
 - Потоки
     - x64 Assembly: Multithreading from Scratch Part 2: Threads https://dev.to/ahmedwadod/x64-assembly-multithreading-from-scratch-part-2-threads-11g1
