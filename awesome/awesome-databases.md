@@ -79,7 +79,9 @@
         - Mastering high availability: PostgreSQL meets Kubernetes(En) https://weng-albert.medium.com/mastering-high-availability-postgresql-meets-kubernetes-929846f6cc88
     - Репликация
         - Основное
+        - Слоты репликации
             - Question: What are PostgreSQL replication slots and how do they work? https://www.dragonflydb.io/faq/postgresql-replication-slots
+            - About replication slot https://docs.byteplus.com/en/docs/RDS_for_PG/about_replication_slot
         - Физическая репликация
             - Физическая репликация в PostgreSQL https://www.dbserv.ru/blog/fizicheskaya-replikaciya-v-postgresql
             - Как настроить физическую потоковую репликацию с PostgreSQL на Ubuntu https://timeweb.cloud/tutorials/postgresql/kak-nastroit-fizicheskuyu-potokovuyu-replikatsiyu-s-postgresql-12-na-ubuntu-2004
