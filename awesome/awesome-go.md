@@ -631,6 +631,7 @@
         - A Closer Look at Go’s sync Package https://teivah.medium.com/a-closer-look-at-go-sync-package-9f4e4a28c35a
       - sync/atomic
         - Go: жарим общие данные. Атомно, быстро и без мьютексов https://habr.com/ru/companies/ruvds/articles/833264/
+        - Атомики в Go: особенности внутренней реализации https://habr.com/ru/articles/744822/
       - sync.Mutex
         - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
         - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
