@@ -1132,6 +1132,8 @@
     - net/context
       - Изучаем net/context в Go https://habr.com/ru/articles/269299/
     - net/http
+      - Основное
+        - net/http: Разбираем работу сервера «под капотом» https://habr.com/ru/articles/919348/
       - Cookie
         - Как работать с cookie в Go: безопасное хранение и управление сессиями https://habr.com/ru/articles/887014/
         - The Simple Guide to Cookies in Golang: Create, Read, and Delete https://medium.com/@adrilukman73/the-simple-guide-to-cookies-in-golang-create-read-and-delete-a5397732b04b
