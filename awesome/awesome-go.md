@@ -633,6 +633,7 @@
       - sync/atomic
         - Go: жарим общие данные. Атомно, быстро и без мьютексов https://habr.com/ru/companies/ruvds/articles/833264/
         - Атомики в Go: особенности внутренней реализации https://habr.com/ru/articles/744822/
+        - Go: How to Reduce Lock Contention with the Atomic Package https://medium.com/a-journey-with-go/go-how-to-reduce-lock-contention-with-the-atomic-package-ba3b2664b549
       - sync.Mutex
         - Go sync.Mutex: Normal and Starvation Mode https://victoriametrics.com/blog/go-sync-mutex/
         - Using a Mutex in Go (Golang) - with Examples https://www.sohamkamani.com/golang/mutex/
