@@ -105,6 +105,7 @@
         - Разрешение конфликтов
             - How to handle logical replication conflicts in PostgreSQL https://www.postgresql.fastware.com/blog/how-to-handle-logical-replication-conflicts-in-postgresql
         - Остальное
+            - Возможные причины разрастания pg_wal в PostgreSQL. https://edu.fors.ru/ugolok-professora/vozmozhnye-prichiny-razrastaniya-pg-wal-v-postgresql/
             - Failover Replication Slots with Postgres 17 https://www.decodable.co/blog/failover-replication-slots-with-postgres-17
             - Как настроить репликацию в PostgreSQL https://selectel.ru/blog/tutorials/how-to-set-up-replication-in-postgresql/
             - Репликации в PostgreSQL https://habr.com/ru/companies/otus/articles/710956/
