@@ -507,6 +507,7 @@
   - context, Контекст
     - Mastering Go's Context: From Basics to Best Practices https://claudiuconstantinbogdan.me/articles/go-context
     - Golang Context (A Complete Guide) https://www.kelche.co/blog/go/golang-context/
+    - Pitfalls of context values and how to avoid or mitigate them in Go https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/
   - Дженерики; Generics
     - Основное
       - Туториал по дженерикам в Go https://kovardin.ru/articles/go/generics/
