@@ -597,6 +597,8 @@
       - Основное
         - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
         - Fundamentals of I/O in Go: Part 2 https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-part-2-e7bb68cd5608
+        - Go I/O Readers, Writers, and Data in Motion https://victoriametrics.com/blog/go-io-reader-writer/index.html
+        - Go I/O Closer, Seeker, WriterTo, and ReaderFrom https://victoriametrics.com/blog/go-io-closer-seeker-readfrom-writeto/
       - io.Reader
         - How to use the io.Reader interface https://yourbasic.org/golang/io-reader-interface-explained/
         - Go I/O Readers, Writers, and Data in Motion https://victoriametrics.com/blog/go-io-reader-writer/
