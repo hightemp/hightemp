@@ -56,6 +56,8 @@
 
 ### Roadmaps
 
+- https://www.figma.com/board/wggq517IfGNDpw63hLvSGa/Go-Roadmap-2025-0--%3E-Middle?node-id=0-1
+  - https://habr.com/ru/articles/918316/
 - https://roadmap.sh/golang
 - https://github.com/darius-khll/golang-developer-roadmap
 - https://github.com/baselrabia/Golang-Roadmap
