@@ -420,6 +420,7 @@
 - Отладка
   - Трейсинг; Трассировка
     - Tracing PHP Applications https://docs.datadoghq.com/tracing/trace_collection/automatic_instrumentation/dd_libraries/php/
+    - Practical Logging for PHP Applications with OpenTelemetry https://betterstack.com/community/guides/logging/php-logging-opentelemetry/
 - Docker
   - Fixing permissions issues with Docker Compose and PHP https://aschmelyun.com/blog/fixing-permissions-issues-with-docker-compose-and-php/
   - Docker: настройка nginx, php-fpm и MySQL для локальной разработки с Docker Compose https://alina.friday13.team/osnovnye-navyki-razrabotchika/docker-nastrojka-nginx-php-fpm-i-mysql-dlya-lokalnoj-razrabotki-s-docker-compose/
