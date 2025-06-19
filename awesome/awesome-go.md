@@ -449,6 +449,8 @@
     - Понимание контекста https://habr.com/ru/articles/864348/
     - Golang Context (A Complete Guide) https://www.kelche.co/blog/go/golang-context/
     - Golang standard library context Context https://programmer.ink/think/golang-standard-library-context-context.html
+  - dots; ellipsis;
+    - 3 dots in 4 places https://yourbasic.org/golang/three-dots-ellipsis/
   - Указатели; Pointers
     - A Comprehensive Guide to Pointers in Go https://medium.com/@jamal.kaksouri/a-comprehensive-guide-to-pointers-in-go-4acc58eb1f4d
     - Are Pointers in Go Faster Than Values? https://blog.boot.dev/golang/pointers-faster-than-values/
