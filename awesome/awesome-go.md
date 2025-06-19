@@ -1010,6 +1010,7 @@
   - pprof
     - Application Performance Optimization: How to Effectively Analyze and Optimize pprof CPU Profiles https://medium.com/@rahul.fiem/application-performance-optimization-how-to-effectively-analyze-and-optimize-pprof-cpu-profiles-95280b2f5bfb
     - Микрооптимизация кода на Go на примере простого веб-сервиса https://github.com/andrey-shalamov/go-pprof-cpu-heap-example
+    - Ваш девопс не виноват, а база данных — тем более. Ищем кто жрет память с pprof на Go https://habr.com/ru/articles/918738/
   - Утечки памяти
     - Avoiding Memory Leak in Golang API https://medium.easyread.co/avoiding-memory-leak-in-golang-api-1843ef45fca8
   - Остальное
