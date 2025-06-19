@@ -1,123 +1,169 @@
 # Напиши мне о всех ньюансах в php о которых должен знать очень опытный разработчик
 
-Ниже — концентрированный «список памяти» для действительно опытного PHP-разработчика. Он разбит на тематические блоки, чтобы им было удобно пользоваться как чек-листом. В каждом пункте перечислены самые частые тонкие места, к которым рано или поздно приходится обращаться в «боевом» коде.
+## 1. Типы, сравнения, строгий режим
 
-1. Типы, сравнения, строгий режим
-• declare(strict_types=1) — включайте везде, иначе сигнатуры функций дают ложное чувство безопасности.  
-• === против ==: «магическое» приведение '0e123' == 0, '' == 0 и т. п.  
-• Булевы ловушки: (int)'false' == 0, но (bool)'false' == true.  
-• Float ≈ IEEE-754: 0.1 + 0.2 != 0.3; bcmath/gmp для финансов.  
-• Целые 32/64-bit: PHP_INT_SIZE; касты из string на 32-битных Windows.  
-• null safe оператор ?-> (8.0) — не путать с ??: короткое-замыкание происходит позже.  
-• Новые самостоятельные типы true/false/null (8.2); scalar всё ещё удобен в атрибутах.  
-• Union, intersection (8.1), stand-alone null|Foo, never, mixed.  
-• Динамические свойства deprecated (8.2) — __get/__set или атрибут #[AllowDynamicProperties].  
+* `declare(strict_types=1)` — включайте везде, иначе сигнатуры функций дают ложное чувство безопасности.  
+* `===` vs `==`: «магические» приведения  
+  * `'0e123' == 0`, `'' == 0`, `'false' == 0`  
+* Булевы ловушки  
+  * `(int)'false' == 0`, но `(bool)'false' == true`  
+* Float ≈ IEEE-754: `0.1 + 0.2 != 0.3`; для денег используйте `bcmath`/`gmp`.  
+* Целые 32/64-bit: `PHP_INT_SIZE`; каст string→int на 32-битных Windows.  
+* Null-safe оператор `?->` (8.0) — не путать с `??`: короткое-замыкание позже.  
+* Новые самостоятельные типы `true|false|null` (8.2); `scalar` ещё удобен в атрибутах.  
+* Union, intersection (8.1), `never`, `mixed`.  
+* Динамические свойства deprecated (8.2) — `__get/__set` или `#[AllowDynamicProperties]`.
 
-2. Ошибки и исключения
-• Throwable объединяет Error и Exception; fatal != Error.  
-• try {…} finally всегда выполняется, даже при fatal внутри генератора отмена Yield может «проглотить» исключение.  
-• error_reporting + set_error_handler + ErrorException = единый стек ошибок.  
-• При @-супрессии ошибка всё равно попадает в error_get_last().  
-• Memory limit и Shutdown function: вызываться может уже после fatal OOM, в $last_error нет стектрейса.  
+---
 
-3. Управление памятью, ZVAL и производительность
-• «Copy-on-write»: $b = $a копирует zval, но не буфер; модификация «отцепляет» (иметь в виду при больших массивах).  
-• unset() не всегда освобождает сразу — пока refcount > 0 (особенно внутрь замыканий).  
-• GC циклов: gc_enable/gc_collect_cycles; контур-утечки в SPL SplObjectStorage.  
-• OPcache: обязательные флаги opcache.validate_timestamps, revalidate_freq, memory_consumption.  
-• Preloading (7.4+) — определяйте immutable-классы; при deploy надо перезагружать FPM.  
-• JIT (8.0+) ускоряет математику и плечо FFI, но почти не влияет на IO-heavy веб.  
+## 2. Ошибки и исключения
 
-4. Объектная модель
-• self/parent/static (LSB). static внутри замыканий до 8.1 не работал в типах.  
-• __clone и объектные свойства-ссылки (SplObjectStorage внутри).  
-• readonly-свойства (8.1) и readonly-классы (8.2) — не путать: первый вариант до клонирования.  
-• Traits: конфликт имён, insteadof, as visibility, private alias для DI.  
-• Enum (Backed/Unit) 8.1: value нельзя переопределить, switch(exhaustive) + instanceof UnitEnum.  
-• Новые атрибуты #[Attribute] (8.0) — резолвятся рантайм-рефлексией, не во время компиляции.  
-• WeakMap/WeakRef (7.4) — кеши без утечек, но держатся пока хотя бы один strong-ref.  
+* `Throwable` объединяет `Error` и `Exception`; fatal ≠ `Error`.  
+* `try { … } finally` выполняется всегда, но генераторы могут «проглотить» исключение.  
+* `set_error_handler` + `ErrorException` → единый стек ошибок.  
+* При `@`-супрессии ошибка всё равно в `error_get_last()`.  
+* Memory limit + `register_shutdown_function`: при OOM стектрейса нет.
 
-5. Функциональные возможности
-• Замыкания: $this внутри функций с 7.1 при bindTo(null,'Class').  
-• Arrow fn fn($x) => $x*$y; захватывают переменные по value, но вложенные объекты всё равно по ссылке.  
-• Generators + yield from; send() в middleware-стеке.  
-• Fibers (8.1) — низкоуровневые корутины; ReactPHP/Amp 3 уже используют.  
-• First-class callable Foo::bar(...) (8.1) возвращает Closure.  
-• throw как expression (8.0); match вместо switch без падения.  
+---
 
-6. Стандартная библиотека и SPL
-• Streams: php://memory, php://filter; контекст, таймауты, ssl://, обёртка ftps:// (разные от ftp+tls).  
-• SPL-итераторы: RecursiveDirectoryIterator с RegexIterator, CallbackFilterIterator.  
-• SplFixedArray/ SplPriorityQueue — спасают память, но не совместимы с [].  
-• DateTimeImmutable + timezone — не доверять default_timezone ini при CLI-кронах.  
+## 3. Память, ZVAL, производительность
 
-7. Современный async-/high-performance стек
-• Swoole/FPM conflict: Swoole CLI или ext-swoole без FPM, помнить про coroutine-хук.  
-• RoadRunner (Go worker) — shared-nothing, объекты остаются между запросами; помнить про state-reset.  
-• ReactPHP/Amp: event-loop, cancellation token, back-pressure через promises.  
-• parallel / pthreads для CPU-bound в CLI; Fork-менеджмент через pcntl.  
+* Copy-on-write: `$b = $a` копирует zval, но не буфер; модификация «отцепляет».  
+* `unset()` освобождает, только если `refcount==1` (замыкания!).  
+* GC циклов: `gc_enable()` / `gc_collect_cycles()`.  
+* OPcache: `validate_timestamps`, `revalidate_freq`, `memory_consumption`.  
+* Preloading (7.4+) — immutable-классы; после deploy нужно перезапускать FPM.  
+* JIT (8.0+) ускоряет математику, почти не влияет на IO-heavy веб.
 
-8. Безопасность
-• SQL — PDO prepared ok, но не забудьте charset при mysqlnd («SET NAMES …» устарел, используйте DSN ;charset).  
-• XSS — htmlspecialchars($x, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8').  
-• CSRF — SameSite=Lax/Strict + double submit token; в SPA — origin-header проверка.  
-• Passwords: password_hash(), Argon2id, pepper + libsodium_crypto_pwhash.  
-• random_bytes()/random_int() — не mt_rand().  
-• Timing attacks: hash_equals.  
-• Session-cookie: session.cookie_secure/httponly/samesite=Strict + custom session_set_save_handler.  
+---
 
-9. Composer и экосистема
-• composer.lock — версионирование в CI; --prefer-dist vs --prefer-source.  
-• Semver: ^1.2 = >=1.2 <2.0.0; все еще недопустимо ^0.x ломать API.  
-• Autoload-optimization: composer dump-autoload -o, classmap-authoritative.  
-• Scripts & Plugins: post-install-cmd, composer-plugin-api, требует allow-plugins в 2.2+.  
-• Repositories path/vcs — локально патчите форки, не оставляйте в production.  
+## 4. Объектная модель
 
-10. Тестирование и статический анализ
-• PHPUnit 10: тест-классы final, dataProvider → static.  
-• Pest — BBD-DSL, shared beforeAll(); doctrine annotations устарели, используйте атрибуты #[CoversClass].  
-• php-stan/psalm: уровни 8/9, generics через @template/@param-out; baseline для легаси.  
-• Infection (mutation testing): требует 100 % прохождения набора тестов.  
+* `self` / `parent` / `static` (LSB).  
+* `__clone` и ссылки на объекты внутри свойств.  
+* `readonly`-свойства (8.1) и `readonly`-классы (8.2) — разные вещи.  
+* Traits: `insteadof`, `as`, private-alias для DI.  
+* Enum (8.1): `Backed`/`Unit`; `switch` без default — `exhaustive`.  
+* Атрибуты `#[Attribute]` (8.0) — резолвятся рантаймом.  
+* `WeakMap` / `WeakRef` (7.4) — кеши без утечек.
 
-11. Инфраструктура
-• FPM: pm = dynamic/request_terminate_timeout; process_control 1 для graceful reload.  
-• Docker: компоновка alpine + glibc или debian-slim; слои с pecl-install иначе кеш раздувается.  
-• php.ini приоритет: SAPI-global → php-fpm.d/pool → .user.ini → ini_set().  
-• OPCache + Docker: opcache.file_cache_only=1 в read-only volume.  
-• Preloading требует absolute-path; в Kubernetes после нового Pod надо reload-script.  
+---
 
-12. Расширения и FFI
-• ext-intl: Collator vs strcmp; MessageFormatter ICU-plural-rules.  
-• ext-gd vs imagick: память на один пиксель = 4 байта, при 100 Мп = 400 МБ.  
-• Redis — persistent = pconnect + AUTH EACH WORKER; иначе 127.0.0.1: Connection lost.  
-• FFI (7.4+) — можно дергать C-библиотеки, но не под FPM с preload и JIT — segfault, фикшено 8.1.  
-• OPcache-huge_code_pages на Linux 2 % выигрыша; держать vm.nr_hugepages.  
+## 5. Функциональные возможности
 
-13. Локализация и кодировки
-• UTF-8 everywhere; declare(encoding='UTF-8') не нужен, но BOM ломает header().  
-• mbstring.func_overload устарел; используйте строгие функции mb_substr, iconv_substr.  
-• grapheme_* для emoji, иначе substr() рвёт surrogate-pair.  
+* Замыкания: `$this` внутри `closure->bindTo()`.  
+* Arrow fn: переменные по value, но объекты по ссылке.  
+* Generators + `yield from`; `send()` для middleware.  
+* Fibers (8.1) — корутины уровня ядра.  
+* First-class callable `Foo::bar(...)` (8.1) возвращает `Closure`.  
+* `throw` как expression (8.0); `match` вместо `switch`.
 
-14. Дата/время
-• DateTimeImmutable vs DateTime (мутабелен).  
-• Zoned intervals: $tz->getTransitions() на DST; «прыгающий» час 02:30 не существует.  
-• Carbon/Luxon? Carbon 2 уже на Immutable.  
+---
 
-15. Разное, но полезное вспомнить
-• forearch (&$value) меняет проходной массив, следите за удержанной ссылкой после цикла.  
-• list(,,$c) + array_is_list (8.1) — оптимизация сериализации JSON.  
-• glob() невидим в phar, используйте RecursiveIteratorIterator.  
-• json_encode(JSON_INVALID_UTF8_SUBSTITUTE) вместо silent truncate.  
-• stream_select не работает с файловыми дескрипторами на Windows.  
-• Headers already sent — var_dump в output-buffer до session_start().  
-• assert() отключён по умолчанию, в prod используйте polyfill webmozart/assert.  
+## 6. Стандартная библиотека и SPL
 
-16. Что читать/смотреть
-• RFC-архив php-internals (wiki.php.net/rfc).  
-• Nikita Popov & Ilija Tovilo блоги — все подробности новых фич.  
-• Sara Golemon «Extending and Embedding PHP» (для FFI/расширений).  
-• OWASP-PHP-cheatsheet.  
-• PHP-FIG PSR-1…PSR-20, особенно PSR-12, PSR-18, PSR-14.  
+* Streams: `php://memory`, `php://filter`; контекст, таймауты, `ssl://`.  
+* SPL-итераторы: `RecursiveDirectoryIterator` + `RegexIterator`.  
+* `SplFixedArray`, `SplPriorityQueue` — экономят память, несовместимы с `[]`.  
+* `DateTimeImmutable` + timezone — не доверять `date_default_timezone`.
+
+---
+
+## 7. Async / High-Performance стек
+
+* Swoole CLI или ext-swoole без FPM; помнить про coroutine-hooks.  
+* RoadRunner — объекты живут между запросами; нужен state-reset.  
+* ReactPHP / Amp: event-loop, cancellation token, back-pressure.  
+* `parallel` / `pthreads` для CPU-bound CLI; `pcntl_fork` для процессов.
+
+---
+
+## 8. Безопасность
+
+* SQL — PDO prepared + правильный charset в DSN (`charset=utf8mb4`).  
+* XSS — `htmlspecialchars($x, ENT_QUOTES|ENT_SUBSTITUTE,'UTF-8')`.  
+* CSRF — SameSite=`Lax|Strict` + double-submit token / Origin-check.  
+* Пароли: `password_hash()` (Argon2id), pepper, libsodium.  
+* `random_bytes()` / `random_int()` — не `mt_rand()`.  
+* Тайминг-атаки: `hash_equals()`.  
+* Сессии: `session.cookie_secure`, `httponly`, `samesite`, custom store.
+
+---
+
+## 9. Composer и экосистема
+
+* `composer.lock` — коммитим; `--prefer-dist` vs `--prefer-source`.  
+* Semver: `^1.2 = >=1.2 <2.0.0`; `^0.x` — ломать API нельзя.  
+* Автолоад: `composer dump-autoload -o`, `--classmap-authoritative`.  
+* Плагины требуют `allow-plugins` (Composer 2.2+).  
+* `repositories` path/vcs — не оставлять в production.
+
+---
+
+## 10. Тестирование и статический анализ
+
+* PHPUnit 10: тест-классы `final`, `@dataProvider` → `static`.  
+* Pest — BDD DSL, `beforeAll()`.  
+* PhpStan / Psalm: уровни 8/9, generics через `@template`.  
+* Infection (mutation testing) — 100 % прохождение тестов обязательно.
+
+---
+
+## 11. Инфраструктура
+
+* FPM: `pm=dynamic`, `request_terminate_timeout`, `process_control=1`.  
+* Docker: `alpine` + `glibc` или `debian-slim`; слои с `pecl install`.  
+* Приоритет `php.ini`: SAPI → pool → `.user.ini` → `ini_set()`.  
+* OPcache + Docker: `opcache.file_cache_only=1` в RO-volume.  
+* Preload: абсолютные пути; в k8s после нового Pod — reload.
+
+---
+
+## 12. Расширения и FFI
+
+* ext-intl: `Collator` vs `strcmp`; `MessageFormatter` ICU-plural.  
+* GD vs Imagick: 1 px = 4 байта; 100 Мп = 400 МБ RAM.  
+* Redis: `pconnect` + AUTH в каждом worker.  
+* FFI (7.4+) — не под FPM с preload+JIT до 8.1 (segfault).  
+* `opcache.huge_code_pages` — +2 % перфоманса.
+
+---
+
+## 13. Локализация и кодировки
+
+* UTF-8 everywhere; BOM ломает `header()`.  
+* `mbstring.func_overload` устарел; используйте `mb_…`.  
+* `grapheme_*` для emoji, иначе `substr()` рвёт surrogate-pair.
+
+---
+
+## 14. Дата/время
+
+* `DateTimeImmutable` vs `DateTime` (мутабелен).  
+* DST: `$tz->getTransitions()`; «прыгающий» час 02:30 не существует.  
+* Carbon 2 уже на Immutable.
+
+---
+
+## 15. Разное, но полезное
+
+* `foreach (&$value)` меняет массив; не забудьте `unset($value)` после цикла.  
+* `list(,, $c)` + `array_is_list()` (8.1) оптимизирует JSON.  
+* `glob()` не видит файлы внутри phar — используйте `RecursiveIteratorIterator`.  
+* `json_encode(JSON_INVALID_UTF8_SUBSTITUTE)` вместо silent truncate.  
+* `stream_select()` не работает с файлами на Windows.  
+* «Headers already sent» — `var_dump` до `session_start()`.  
+* `assert()` отключён в prod; используйте `webmozart/assert`.
+
+---
+
+## 16. Что читать/смотреть
+
+* Архив RFC: <https://wiki.php.net/rfc>  
+* Блоги Nikita Popov, Ilija Tovilo.  
+* Sara Golemon «Extending and Embedding PHP».  
+* OWASP PHP Cheat-Sheet.  
+* PHP-FIG: PSR-1…20 (особенно 12, 18, 14).
 
 # «Copy-on-write»: $b = $a копирует zval, но не буфер; модификация «отцепляет» (иметь в виду при больших массивах).
 
