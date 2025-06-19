@@ -1355,8 +1355,9 @@
 - Таймеры
   - Resetting timers in Go https://antonz.org/timer-reset/
 - Отладка
-  - Трассировщики
+  - Tracing; Трассировка; Трассировщики
     - Jaeger для трассировки в микросервисной архитектуре https://habr.com/ru/companies/yandex_praktikum/articles/729906/
+    - Трейсинг в Go — это просто https://habr.com/ru/articles/710644/
 - Android
   - Build golang application to run on Android device https://medium.com/@liwp.stephen/build-golang-application-to-run-on-android-device-a46d1a24d585
   - Using native module that built by gomobile on React Native https://medium.com/@hatajoe/using-native-module-that-built-by-gomobile-on-react-native-76d21006a48
