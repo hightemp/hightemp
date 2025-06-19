@@ -346,6 +346,9 @@
   - Докеризируем Symfony https://habr.com/ru/companies/otus/articles/715672/
 - Best practices
   - The Symfony Framework Best Practices https://symfony.com/doc/current/best_practices.html
+- Отладка
+  - Трейсинг; Трассировка
+    - OpenTelemetry Symfony monitoring https://uptrace.dev/guides/opentelemetry-symfony
 - Мониторинг
   - Prometheus
     - Metrics in optimization process: Start to measure your app with the Prometheus tool (2/4) https://tsh.io/blog/grafana-and-prometheus-metrics/
