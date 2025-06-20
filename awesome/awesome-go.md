@@ -1015,6 +1015,7 @@
     - Ваш девопс не виноват, а база данных — тем более. Ищем кто жрет память с pprof на Go https://habr.com/ru/articles/918738/
     - Использование pprof в Golang https://purpleschool.ru/knowledge-base/article/using-pprof
     - Непрерывное профилирование в Go https://habr.com/ru/articles/470443/
+    - Создание кастомных Go-профилей с помощью pprof. Запоминаем стеки https://habr.com/ru/companies/badoo/articles/318336/
   - Утечки памяти
     - Avoiding Memory Leak in Golang API https://medium.easyread.co/avoiding-memory-leak-in-golang-api-1843ef45fca8
   - Остальное
