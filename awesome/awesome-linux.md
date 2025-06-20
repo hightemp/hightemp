@@ -198,6 +198,8 @@
         - vdso(7) — Linux manual page https://man7.org/linux/man-pages/man7/vdso.7.html
         - Understanding linux-vdso.so.1 https://github.com/ANSANJAY/VDSO/blob/main/5_linux-vdso/readme.md
         - vDSO https://en.wikipedia.org/wiki/VDSO
+    - dns
+        - Как работает DNS в Linux. Часть 1: от getaddrinfo до resolv.conf https://habr.com/ru/companies/k2tech/articles/919194/
     - Остальное
 - Файрволы, Firewalls
     - ufw
