@@ -881,6 +881,8 @@
   - Ошибки при работе
     - 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков https://habr.com/ru/companies/vk/articles/314804/
     - The Top 10 Most Common Mistakes I’ve Seen in Go Projects https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
+  - Внутрення работа
+    - Deep Dive into Go Runtime: Advanced Thread Management Explained https://blog.stackademic.com/deep-dive-into-go-runtime-advanced-thread-management-explained-fd5c97b4daa4
   - Остальное
     - Getting a pointer to a constant in Go https://xeiaso.net/notes/2024/go-pointer-constant/
     - 12 Personal Go Tricks That Transformed My Productivity https://substack.com/home/post/p-136328101
