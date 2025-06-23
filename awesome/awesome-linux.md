@@ -72,6 +72,10 @@
 - electerm Open-sourced terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win). https://github.com/electerm/electerm
 - Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks https://www.asbru-cm.net/ https://github.com/asbru-cm/asbru-cm
 
+### Гайды
+
+- https://kernelnewbies.org/
+
 ### Курсы
 
 - https://ravesli.com/uroki-po-linux/
