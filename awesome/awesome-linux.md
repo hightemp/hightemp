@@ -78,6 +78,7 @@
 
 ### Блоги
 
+- http://kroah.com/log/
 - https://www.redhat.com/en/blog
 - https://www.brendangregg.com/blog/
 - https://linuxtldr.com/
