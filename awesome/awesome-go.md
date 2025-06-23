@@ -578,6 +578,7 @@
         - Golang error handling demystified. errors.Is(), errors.As(), errors.Unwrap(), custom errors and more https://adrianlarion.com/golang-error-handling-demystified-errors-is-errors-as-errors-unwrap-custom-errors-and-more/
       - errors.Join
         - Wrapping multiple errors in Go 1.20 https://blog.devgenius.io/wrapping-multiple-errors-in-go-1-20-78163ef5fc2c
+        - errors.Join ❤️ defer https://wstrm.dev/posts/errors-join-heart-defer/
       - Остальное
         - Регламент для работы с ошибками в Go https://habr.com/ru/companies/oleg-bunin/articles/913096/
         - Advanced error handling strategies in Go https://medium.com/@guilhermemls/advanced-error-handling-strategies-in-go-12ef4ee621d7
