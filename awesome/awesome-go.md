@@ -401,14 +401,18 @@
 ### Статьи
 
 - Описание языка
+  - Что нового
+    - 1.24
+      - Go 1.24 Released: Massive Optimizations & Key Upgrades! https://dev.to/leapcell/go-124-released-massive-optimizations-key-upgrades-1mbn
+      - Introduction to Go 1.24: What’s New and Why It Matters https://medium.com/technogise/introduction-to-go-1-24-whats-new-and-why-it-matters-bd6fa0bc3b77
+      - Интерактивный тур по Go 1.24 https://habr.com/ru/companies/otus/articles/881708/
+    - 1.23
+      - Go 1.23 Iterators Tutorial https://tutorialedge.net/golang/go-123-iterators-tutorial/
+      - The new maps and slices packages in Go 1.23: tour and examples https://www.dolthub.com/blog/2024-12-20-collection-functions-in-go-1-23/
   - Основное
-    - Go 1.24 Released: Massive Optimizations & Key Upgrades! https://dev.to/leapcell/go-124-released-massive-optimizations-key-upgrades-1mbn
-    - Introduction to Go 1.24: What’s New and Why It Matters https://medium.com/technogise/introduction-to-go-1-24-whats-new-and-why-it-matters-bd6fa0bc3b77
-    - Интерактивный тур по Go 1.24 https://habr.com/ru/companies/otus/articles/881708/
     - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
     - Go range iterators demystified https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/
-    - Go 1.23 Iterators Tutorial https://tutorialedge.net/golang/go-123-iterators-tutorial/
-    - The new maps and slices packages in Go 1.23: tour and examples https://www.dolthub.com/blog/2024-12-20-collection-functions-in-go-1-23/
+    - The ecosystem of the Go programming language https://henvic.dev/posts/go/
     - Самоучитель по Go для начинающих. Часть 10. Введение в ООП. Наследование, абстракция, полиморфизм, инкапсуляция. https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-10-vvedenie-v-oop-nasledovanie-abstrakciya-polimorfizm-inkapsulyaciya-2024-03-11
     - From unique to cleanups and weak: new low-level tools for efficiency https://go.dev/blog/cleanups-and-weak
     - Параллельное программирование на Go https://habr.com/ru/companies/ruvds/articles/896102/
