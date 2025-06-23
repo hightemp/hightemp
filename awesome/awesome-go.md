@@ -1667,6 +1667,8 @@
   - Интеграционные тесты
     - Go: Unit and Integration Tests https://dzone.com/articles/unit-and-integration-tests-in-go
     - Integration Testing in Go https://go-cookbook.com/snippets/testing/integration-testing
+  - GoBDD
+    - Golang Best Practices — Behavior-driven development and Continuous Integration https://medium.com/@durgaprasadbudhwani/golang-best-practices-behavior-driven-development-and-continuous-integration-53ed72c915a5
   - Table Driven Testing, Табличные тесты
     - Table Driven Testing In Parallel https://gopherguides.com/articles/table-driven-testing-in-parallel
     - A Deep Dive into Table-Driven Testing in Golang https://substack.com/home/post/p-151441510
