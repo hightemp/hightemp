@@ -114,6 +114,8 @@
         - Linux fundamentals: user space, kernel space, and the syscalls API surface https://www.form3.tech/blog/engineering/linux-fundamentals-user-kernel-space
     - Сборка ядра
         - Собираем и запускаем минимальное ядро Linux https://habr.com/ru/companies/timeweb/articles/899312/
+    - Разработка модуля
+        - Kernel Internals and Kernel Module Development in Fedora Linux https://dev.to/0x113/kernel-internals-and-kernel-module-development-in-fedora-linux-1geb
     - sockets
         - What is a socket? https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket
     - cgroup
