@@ -51,6 +51,7 @@
     - Ссылки
         - https://www.litres.ru/book/brayan-kernigan/vremya-unix-a-history-and-a-memoir-pdf-epub-64082042/
 - linux-insides A book-in-progress about the linux kernel and its insides. https://github.com/0xAX/linux-insides
+- LINUX KERNEL IN A NUTSHELL https://bootlin.com/doc/books/lkn.pdf
 
 ### Полезные ссылки
 
