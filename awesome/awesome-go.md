@@ -576,6 +576,8 @@
         - Работа с ошибками в Go 1.13 https://habr.com/ru/companies/vk/articles/473658/
         - Mastering Golang — Part 8: Error Handling https://blog.stackademic.com/mastering-golang-part-8-error-handling-4012a62ad0cb
         - Golang error handling demystified. errors.Is(), errors.As(), errors.Unwrap(), custom errors and more https://adrianlarion.com/golang-error-handling-demystified-errors-is-errors-as-errors-unwrap-custom-errors-and-more/
+      - errors.Is
+        - Handle errors in Go with errors.Is() and errors.As() https://gosamples.dev/check-error-type/
       - errors.Join
         - Wrapping multiple errors in Go 1.20 https://blog.devgenius.io/wrapping-multiple-errors-in-go-1-20-78163ef5fc2c
         - errors.Join ❤️ defer https://wstrm.dev/posts/errors-join-heart-defer/
