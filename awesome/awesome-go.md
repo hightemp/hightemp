@@ -2080,6 +2080,9 @@
   - How to Implement Server-Sent Events in Go https://www.youtube.com/watch?v=nvijc5J-JAQ
 - API
   - Полноценный курс по написанию API на golang https://www.youtube.com/watch?v=h3fqD6IprIA
+- Тестирование
+  - Интеграционные тесты
+    - Интеграционные тесты на Go Лучшие практики https://golangconf.ru/2019/abstracts/5650
 - Остальное
   - https://vk.com/video/playlist/-211870343_13
   - Go Clean Template | Чистая Архитектура и как её готовить, Михаил Непряхин https://www.youtube.com/watch?v=V6lQG6d5LgU
