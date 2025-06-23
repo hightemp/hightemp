@@ -33,6 +33,10 @@
 - https://www.boot.dev/playground/go
 - https://verytools.net/go-playground
 
+### Шпаргалки
+
+- https://go-cookbook.com/
+
 ### Форумы
 
 - https://forum.golangbridge.org/
