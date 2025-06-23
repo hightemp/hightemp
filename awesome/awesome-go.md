@@ -1660,6 +1660,8 @@
     - Leveraging benchstat Projections in Go Benchmark Analysis! https://www.bwplotka.dev/2024/go-microbenchmarks-benchstat/
   - net/http
     - https://gosamples.dev/e2e-httptest/
+  - Интеграционные тесты
+    - Go: Unit and Integration Tests https://dzone.com/articles/unit-and-integration-tests-in-go
   - Table Driven Testing, Табличные тесты
     - Table Driven Testing In Parallel https://gopherguides.com/articles/table-driven-testing-in-parallel
     - A Deep Dive into Table-Driven Testing in Golang https://substack.com/home/post/p-151441510
