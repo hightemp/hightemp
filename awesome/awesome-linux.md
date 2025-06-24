@@ -136,6 +136,7 @@
                     - Memory Management in Linux https://ebooks.inflibnet.ac.in/csp3/chapter/memory-management-in-linux/
                 - Виртуальная и Физическая память (Virtual and Physical Memory)
                     - What is Virtual Memory on Linux? https://www.scaler.com/topics/virtual-memory-in-linux/
+                    - Describing Physical Memory https://www.kernel.org/doc/gorman/html/understand/understand005.html
                 - Адресные пространства процессов (Process Address Spaces)
             - Механизмы управления памятью (Memory Management Mechanisms)
                 - Страничная организация и Свопинг (Paging and Swapping)
