@@ -62,6 +62,11 @@
     - Ссылки
         - https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1118063333
         - https://www.os-book.com/OS9/
+- Understanding the Linux Kernel: From I/O Ports to Process Management
+    - Авторы: Daniel P. Bovet, Marco Cesati
+    - Ссылки
+        - https://buffalostreetbooks.com/book/9780596005658
+        - https://www.cs.utexas.edu/~rossbach/cs380p/papers/ulk3.pdf
 
 ### Полезные ссылки
 
