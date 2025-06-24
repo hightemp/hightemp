@@ -1042,6 +1042,7 @@
   - Утечки памяти
     - Avoiding Memory Leak in Golang API https://medium.easyread.co/avoiding-memory-leak-in-golang-api-1843ef45fca8
   - Остальное
+    - Performance Optimization on Kitex https://www.cloudwego.io/blog/2021/09/23/performance-optimization-on-kitex/
     - Как оптимизировать код на Go? Раскладываем по полочкам https://habr.com/ru/companies/vk/articles/902820/
     - Optimizing Go Microservices for Low Latency & High Throughput https://muratdemirci.com.tr/en/optimizing-go-microservices/
     - Оптимизация доступа к элементам слайса в Go https://habr.com/ru/articles/717716/
@@ -1210,7 +1211,6 @@
     - Middleware на уровне сетевого стэка в Go https://habr.com/ru/companies/otus/articles/857070/
   - netpoll
     - Netpoll: пишем сервера, которые не умирают от нагрузки https://habr.com/ru/companies/otus/articles/859964/
-    - Performance Optimization on Kitex https://www.cloudwego.io/blog/2021/09/23/performance-optimization-on-kitex/
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
   - HTTP
