@@ -1652,6 +1652,8 @@
         - GOLANG TESTING WITH STRETCHR/TESTIFY AND MOCKERY https://dev.to/truongpx396/golang-testing-with-stretchrtestify-and-mockery-5849
         - More Mocking Techniques https://www.jetbrains.com/guide/go/tutorials/mock_testing_with_go/more_techniques/
         - Mocking in Golang Using Testify https://blog.lamida.org/mocking-in-golang-using-testify/
+      - Остальное
+        - Четыре простых лайфхака при написании тестов на Go + testify https://temofeev.ru/info/articles/chetyre-prostykh-layfkhaka-pri-napisanii-testov-na-go-testify/
     - GoConvey
     - Ginkgo
     - Httpexpect
