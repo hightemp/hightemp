@@ -1210,6 +1210,7 @@
     - Middleware на уровне сетевого стэка в Go https://habr.com/ru/companies/otus/articles/857070/
   - netpoll
     - Netpoll: пишем сервера, которые не умирают от нагрузки https://habr.com/ru/companies/otus/articles/859964/
+    - Performance Optimization on Kitex https://www.cloudwego.io/blog/2021/09/23/performance-optimization-on-kitex/
   - HTTP/3
     - gRPC Over HTTP/3 https://kmcd.dev/posts/grpc-over-http3/
   - HTTP
