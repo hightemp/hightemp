@@ -98,11 +98,14 @@
     - TCP Handshake
     - TCP Congestion Control
     - TCP Segmentation Offload (TSO)
-- HTTP/1
-    - Key differences between HTTP=1.0 and HTTP=1.1 https://www.ra.ethz.ch/cdstore/www8/data/2136/pdf/pd1.pdf
-- HTTP/2
-    - Знакомство с HTTP/2 https://timeweb.com/ru/community/articles/znakomstvo-s-http-2-1
-    - Путь к HTTP/2 https://habr.com/ru/articles/308846/
+- HTTP
+    - HTTP/1
+        - Key differences between HTTP=1.0 and HTTP=1.1 https://www.ra.ethz.ch/cdstore/www8/data/2136/pdf/pd1.pdf
+    - HTTP/2
+        - Знакомство с HTTP/2 https://timeweb.com/ru/community/articles/znakomstvo-s-http-2-1
+        - Путь к HTTP/2 https://habr.com/ru/articles/308846/
+    - Chunked Encoding
+        - What is HTTP Chunked Encoding? https://www.ioriver.io/terms/http-chunked-encoding
 - ТСПУ
     - Установка ТСПУ https://pavel.su/internet/setting-up-tspu/
 - Анализ траффика
