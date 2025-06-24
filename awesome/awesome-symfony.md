@@ -281,6 +281,7 @@
   - Unit tests, Юнит тесты
     - PHPUnit. Мокаем Doctrine Entity Manager https://habr.com/ru/articles/452244/
     - Не мокайте то, чем вы не владеете https://habr.com/ru/articles/554318/
+    - How to write Unit Tests in Symfony https://pguso.medium.com/how-to-write-unit-tests-in-symfony-0a3cf12bcfd2
   - Functional tests, Функциональные тесты
     - Функциональные тесты на проекте: жизнь до и после (на примерах) https://habr.com/ru/companies/skyeng/articles/659559/
     - Functional tests, and speeding up the schema creation https://matthiasnoback.nl/2020/03/functional-tests-speeding-up-schema-creation/
@@ -297,7 +298,6 @@
     - Test POST API endpoints in Symfony https://medium.com/@tacman1123/testing-post-api-endpoints-in-symfony-464575eaf841
     - Unit, integration, and application tests for Symfony applications https://medium.com/ekino-france/unit-integration-and-application-tests-for-symfony-applications-2410911b87ab
     - Symfony PHPUnit testing database data https://joeymasip.medium.com/symfony-phpunit-testing-database-data-322383ed0603
-    - How to write Unit Tests in Symfony https://pguso.medium.com/how-to-write-unit-tests-in-symfony-0a3cf12bcfd2
     - Беги, PHPUnit, беги: как я оптимизировал время выполнения тестов https://habr.com/ru/articles/505736/
     - TDD & Symfony & Monolog: adding some logging to that endpoint from last time https://blog.adamcameron.me/2023/01/tdd-symfony-monolog-adding-some-logging.html
     - Symfony 5 : Mocking private autowired services in Controller functional tests https://dev.to/nikolastojilj12/symfony-5-mocking-private-autowired-services-in-controller-functional-tests-24j4
