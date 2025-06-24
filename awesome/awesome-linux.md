@@ -111,111 +111,133 @@
 ### Статьи
 
 - Linux
-    - Основное
-        - Introduction to Linux A Hands on Guide https://tldp.org/LDP/intro-linux/html/index.html
-        - The Linux Kernel Module Programming Guide https://tldp.org/LDP/lkmpg/2.6/html/index.html
-        - The Linux System Administrator's Guide https://tldp.org/LDP/sag/html/index.html
-        - Linux's Bedtime Routine (В статье рассматриваются процессы, связанные с переходом системы Linux из активного состояния в спящий режим. В ней подробно описываются механизмы синхронизации файловых систем, управление питанием и базовые функции ядра, которые облегчают этот переход) https://tookmund.com/2024/09/hibernation-preparation 
-        - How raw sockets behave differently in macOS and Linux https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/
-        - Linux fundamentals: user space, kernel space, and the syscalls API surface https://www.form3.tech/blog/engineering/linux-fundamentals-user-kernel-space
-    - Сборка ядра
-        - Собираем и запускаем минимальное ядро Linux https://habr.com/ru/companies/timeweb/articles/899312/
-    - Разработка модуля
-        - Kernel Internals and Kernel Module Development in Fedora Linux https://dev.to/0x113/kernel-internals-and-kernel-module-development-in-fedora-linux-1geb
-    - sockets
-        - What is a socket? https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket
-    - cgroup
-        - Practicing cgroup v2 https://medium.com/@charles.vissol/practicing-cgroup-v2-cad6743bba0c
-        - Linux cgroup from first principles https://fzakaria.com/2025/05/26/linux-cgroup-from-first-principles
-    - dup
-        - dup, dup2, dup3 - duplicate a file descriptor https://man7.org/linux/man-pages/man2/dup.2.html
-    - select
-        - Select is fundamentally broken https://idea.popcount.org/2017-01-06-select-is-fundamentally-broken/
-    - epoll
-        - epoll(7) — Linux manual page https://man7.org/linux/man-pages/man7/epoll.7.html
-        - What is epoll? https://medium.com/@avocadi/what-is-epoll-9bbc74272f7c
-        - The method to epoll’s madness https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642
-        - Async IO on Linux: select, poll, and epoll https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/
-        - Epoll is fundamentally broken 1/2 https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/
-        - Epoll is fundamentally broken 2/2 https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/
-        - I/O Multiplexing (select vs. poll vs. epoll/kqueue) https://nima101.github.io/io_multiplexing
-        - Scalable Event Multiplexing: epoll vs. kqueue https://long-zhou.github.io/2012/12/21/epoll-vs-kqueue.html
-        - epoll: The API that powers the modern internet https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/
-        - Epoll Kernel Performance Improvements https://events19.linuxfoundation.org/wp-content/uploads/2018/07/dbueso-oss-japan19.pdf
-    - SO_REUSEPORT
-        - Linux TCP SO_REUSEPORT — Usage and implementation https://blog.flipkart.tech/linux-tcp-so-reuseport-usage-and-implementation-6bfbf642885a
-        - Performance Optimisation using SO_REUSEPORT https://medium.com/high-performance-network-programming/performance-optimisation-using-so-reuseport-c0fe4f2d3f88
-        - Perfect locality and three epic SystemTap scripts https://blog.cloudflare.com/perfect-locality-and-three-epic-systemtap-scripts/
-        - True Zero Downtime HAProxy Reloads (В статье описывается, как Yelp реализовала решение для перезагрузки HAProxy без простоя, используя дисциплины очередей (qdiscs) в Linux для задержки SYN-пакетов во время перезагрузки, тем самым избегая обрывов соединений и минимизируя задержку по сравнению с другими подходами, такими как отбрасывание SYN-пакетов.) https://web.archive.org/web/20220520183147/https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html
-    - Драйверы
-        - Roadmap to Learning Linux Device Drivers https://pyjamabrah.com/posts/linux-device-drivers/?s=35
-    - FHS (Filesystem Hierarchy Standard); стандарт иерархии файловой системы
-        - FHS https://ru.wikipedia.org/wiki/FHS
-    - Сетевые технологии
-        - AF_XDP
-        - kTLS
-        - MPTCP (MultiPath TCP)
-        - QUIC
-    - RDMA (Remote Direct Memory Access)
-        - An In-Depth Understanding of RDMA Interaction Mechanism between Software and Hardware https://www.alibabacloud.com/blog/601598
-        - Infiniband https://www.altlinux.org/Infiniband
-    - BPF; eBPF (Extended Berkeley Packet Filter) 
-        - BPF для самых маленьких, часть нулевая: classic BPF https://habr.com/ru/articles/493880/
-        - The BSD Packet Filter: A New Architecture for User-level Packet Capture https://www.tcpdump.org/papers/bpf-usenix93.pdf
-    - XDP (eXpress Data Path)
-    - DPDK (Data Plane Development Kit)
-    - AIO (Asynchronous I/O)
-    - MMU
-        - How Does the Memory Management Unit (MMU) Work with the Unix/Linux Kernel? https://chessman7.substack.com/p/how-does-the-memory-management-unit
-    - System Calls
+    - **Основы (Fundamentals)**
+        - Введение и Общие концепции (Introduction and General Concepts)
+            - Introduction to Linux A Hands on Guide https://tldp.org/LDP/intro-linux/html/index.html
+            - The Linux System Administrator's Guide https://tldp.org/LDP/sag/html/index.html
+            - Linux fundamentals: user space, kernel space, and the syscalls API surface https://www.form3.tech/blog/engineering/linux-fundamentals-user-kernel-space
+            - Linux's Bedtime Routine (В статье рассматриваются процессы...) https://tookmund.com/2024/09/hibernation-preparation
+
+    - **Архитектура (Architecture)**
+        - Управление памятью (Memory Management)
+            - MMU (Memory Management Unit)
+                - How Does the Memory Management Unit (MMU) Work...? https://chessman7.substack.com/p/how-does-the-memory-management-unit
+            - vDSO; linux-vdso.so.1
+                - Linux Mystery: linux-vdso.so.1 http://austinkeeley.com/2021/04/25/linux-mystery-vsdo.html
+                - vdso(7) — Linux manual page https://man7.org/linux/man-pages/man7/vdso.7.html
+                - Understanding linux-vdso.so.1 https://github.com/ANSANJAY/VDSO/blob/main/5_linux-vdso/readme.md
+                - vDSO https://en.wikipedia.org/wiki/VDSO
+        - Cgroups (Контрольные группы)
+            - Practicing cgroup v2 https://medium.com/@charles.vissol/practicing-cgroup-v2-cad6743bba0c
+            - Linux cgroup from first principles https://fzakaria.com/2025/05/26/linux-cgroup-from-first-principles
+        - ELF Файлы и Библиотеки (ELF Files and Libraries)
+            - ELF Файлы (ELF Files)
+                - Рецепты для ELFов https://habr.com/ru/companies/inforion/articles/460247/
+            - Библиотеки (Libraries)
+                - What is a Shared Object File https://cloudmersive.com/article/What-is-a-Shared-Object-File
+
+    - **Ядро и Разработка (Kernel and Development)**
+        - Общее (General)
+            - The Linux Kernel Module Programming Guide https://tldp.org/LDP/lkmpg/2.6/html/index.html
+        - Сборка ядра (Kernel Build)
+            - Собираем и запускаем минимальное ядро Linux https://habr.com/ru/companies/timeweb/articles/899312/
+        - Разработка модулей и драйверов (Module and Driver Development)
+            - Kernel Internals and Kernel Module Development in Fedora Linux https://dev.to/0x113/kernel-internals-and-kernel-module-development-in-fedora-linux-1geb
+            - Roadmap to Learning Linux Device Drivers https://pyjamabrah.com/posts/linux-device-drivers/?s=35
+
+    - **Файловая система (Filesystem)**
+        - Общее (General)
+            - Files and Filesystems https://adamdjellouli.com/articles/linux_notes/file_system
+            - FHS (Filesystem Hierarchy Standard); стандарт иерархии файловой системы https://ru.wikipedia.org/wiki/FHS
+        - Специальные ФС (/dev, /proc) (Special Filesystems)
+            - /dev
+                - Understanding the /dev Directory in Linux https://www.baeldung.com/linux/dev-directory
+            - /proc
+                - Каталог /proc в Linux https://vk.com/@it_blog_sysadm1n-katalog-proc-v-linux
+                - Изучаем файловую систему proc https://www.linuxrsp.ru/artic/fs-proc.html
+                - Файловые системы /dev и /proc в Linux 2.4 https://www.nixp.ru/articles/38.html
+
+    - **Системные вызовы (System Calls)**
         - eventfd
             - eventfd(2) — Linux manual page https://man7.org/linux/man-pages/man2/eventfd.2.html
-    - io_uring
-        - io_uring Is Back, This Time as a Rootkit https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security/
-    - /dev
-        - Understanding the /dev Directory in Linux https://www.baeldung.com/linux/dev-directory
-    - /proc
-        - Каталог /proc в Linux https://vk.com/@it_blog_sysadm1n-katalog-proc-v-linux
-        - Изучаем файловую систему proc https://www.linuxrsp.ru/artic/fs-proc.html
-        - Файловые системы /dev и /proc в Linux 2.4 https://www.nixp.ru/articles/38.html
-    - Утилиты
-        - killall
-            - killall(1) — Linux manual page https://man7.org/linux/man-pages/man1/killall.1.html
-            - Killall command and examples in Linux https://programmer.ink/think/killall-command-and-examples-in-linux.html
-        - ncat
-            - Ncat, Netcat, nc https://kali.tools/?p=4578
-        - nc
-            - https://www.hackingarticles.in/best-alternative-of-netcat-listener/
-        - socat
-        - logger
-            - Master the Linux ‘logger’ Command: A Comprehensive Guide https://hopeness.medium.com/master-the-linux-logger-command-a-comprehensive-guide-7743265e1ae1
-            - logger Command https://www.ibm.com/docs/en/aix/7.2?topic=l-logger-command
-            - The ‘logger’ Command: Linux System Administration Guide https://ioflood.com/blog/logger-linux-command/
-        - nproc
-            - Intro To 'nproc' Command In Linux https://blog.robertelder.org/intro-to-nproc-command/
-    - Файловая система
-        - Files and Filesystems https://adamdjellouli.com/articles/linux_notes/file_system
-    - Логирование
-        - Основное
-            - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/
-            - Log Files, Journals, and Logging Systems https://adamdjellouli.com/articles/linux_notes/log_files_and_journals
-            - Linux System Logging https://medium.com/@The_Anshuman/linux-system-logging-a13142336602
-        - syslog
-            - How to Set Up Centralized Logging on Linux with Rsyslog https://betterstack.com/community/guides/logging/how-to-configure-centralised-rsyslog-server/
-            - How to Collect, Process, and Ship Log Data with Rsyslog https://betterstack.com/community/guides/logging/rsyslog-explained/
-            - syslog-ng https://wiki.archlinux.org/title/Syslog-ng
-            - Beginner's Guide to Syslogs in Linux https://linuxhandbook.com/syslog-guide/
-    - ELF Файлы
-        - Рецепты для ELFов https://habr.com/ru/companies/inforion/articles/460247/
-    - vDSO; linux-vdso.so.1
-        - Linux Mystery: linux-vdso.so.1 http://austinkeeley.com/2021/04/25/linux-mystery-vsdo.html
-        - vdso(7) — Linux manual page https://man7.org/linux/man-pages/man7/vdso.7.html
-        - Understanding linux-vdso.so.1 https://github.com/ANSANJAY/VDSO/blob/main/5_linux-vdso/readme.md
-        - vDSO https://en.wikipedia.org/wiki/VDSO
-    - DNS
-        - Как работает DNS в Linux. Часть 1: от getaddrinfo до resolv.conf https://habr.com/ru/companies/k2tech/articles/919194/
-    - Библиотеки
-        - What is a Shared Object File https://cloudmersive.com/article/What-is-a-Shared-Object-File
+        - dup
+            - dup, dup2, dup3 - duplicate a file descriptor https://man7.org/linux/man-pages/man2/dup.2.html
+
+    - **Ввод/Вывод (I/O)**
+        - Сокеты (Sockets)
+            - Общее (General)
+                - What is a socket? https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket
+                - How raw sockets behave differently in macOS and Linux https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/
+            - SO_REUSEPORT
+                - Linux TCP SO_REUSEPORT — Usage and implementation https://blog.flipkart.tech/linux-tcp-so-reuseport-usage-and-implementation-6bfbf642885a
+                - Performance Optimisation using SO_REUSEPORT https://medium.com/high-performance-network-programming/performance-optimisation-using-so-reuseport-c0fe4f2d3f88
+                - Perfect locality and three epic SystemTap scripts https://blog.cloudflare.com/perfect-locality-and-three-epic-systemtap-scripts/
+                - True Zero Downtime HAProxy Reloads (В статье описывается, как Yelp...) https://web.archive.org/web/20220520183147/https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html
+        - Мультиплексирование (Multiplexing)
+            - Общее (General)
+                - Async IO on Linux: select, poll, and epoll https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/
+                - I/O Multiplexing (select vs. poll vs. epoll/kqueue) https://nima101.github.io/io_multiplexing
+                - Scalable Event Multiplexing: epoll vs. kqueue https://long-zhou.github.io/2012/12/21/epoll-vs-kqueue.html
+            - select
+                - Select is fundamentally broken https://idea.popcount.org/2017-01-06-select-is-fundamentally-broken/
+            - epoll
+                - epoll(7) — Linux manual page https://man7.org/linux/man-pages/man7/epoll.7.html
+                - What is epoll? https://medium.com/@avocadi/what-is-epoll-9bbc74272f7c
+                - The method to epoll’s madness https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642
+                - Epoll is fundamentally broken 1/2 https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/
+                - Epoll is fundamentally broken 2/2 https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/
+                - epoll: The API that powers the modern internet https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/
+                - Epoll Kernel Performance Improvements https://events19.linuxfoundation.org/wp-content/uploads/2018/07/dbueso-oss-japan19.pdf
+        - Асинхронный ввод/вывод (Asynchronous I/O)
+            - AIO (Asynchronous I/O)
+            - io_uring
+                - io_uring Is Back, This Time as a Rootkit https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security/
+
+    - **Сетевые технологии (Networking Technologies)**
+        - Общее (General)
+            - DNS
+                - Как работает DNS в Linux. Часть 1: от getaddrinfo до resolv.conf https://habr.com/ru/companies/k2tech/articles/919194/
+        - Высокопроизводительные (High-Performance)
+            - BPF; eBPF (Extended Berkeley Packet Filter)
+                - BPF для самых маленьких, часть нулевая: classic BPF https://habr.com/ru/articles/493880/
+                - The BSD Packet Filter: A New Architecture for User-level Packet Capture https://www.tcpdump.org/papers/bpf-usenix93.pdf
+            - XDP (eXpress Data Path)
+            - DPDK (Data Plane Development Kit)
+            - RDMA (Remote Direct Memory Access)
+                - An In-Depth Understanding of RDMA Interaction Mechanism... https://www.alibabacloud.com/blog/601598
+                - Infiniband https://www.altlinux.org/Infiniband
+            - AF_XDP
+        - Протоколы (Protocols)
+            - kTLS
+            - MPTCP (MultiPath TCP)
+            - QUIC
+
+    - **Системное администрирование и Утилиты (System Administration and Utilities)**
+        - Логирование (Logging)
+            - Общее (General)
+                - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/
+                - Log Files, Journals, and Logging Systems https://adamdjellouli.com/articles/linux_notes/log_files_and_journals
+                - Linux System Logging https://medium.com/@The_Anshuman/linux-system-logging-a13142336602
+            - syslog
+                - How to Set Up Centralized Logging on Linux with Rsyslog https://betterstack.com/community/guides/logging/how-to-configure-centralised-rsyslog-server/
+                - How to Collect, Process, and Ship Log Data with Rsyslog https://betterstack.com/community/guides/logging/rsyslog-explained/
+                - syslog-ng https://wiki.archlinux.org/title/Syslog-ng
+                - Beginner's Guide to Syslogs in Linux https://linuxhandbook.com/syslog-guide/
+        - Утилиты командной строки (Command Line Utilities)
+            - killall
+                - killall(1) — Linux manual page https://man7.org/linux/man-pages/man1/killall.1.html
+                - Killall command and examples in Linux https://programmer.ink/think/killall-command-and-examples-in-linux.html
+            - ncat
+                - Ncat, Netcat, nc https://kali.tools/?p=4578
+            - nc
+                - https://www.hackingarticles.in/best-alternative-of-netcat-listener/
+            - socat
+            - logger
+                - Master the Linux ‘logger’ Command: A Comprehensive Guide https://hopeness.medium.com/master-the-linux-logger-command-a-comprehensive-guide-7743265e1ae1
+                - logger Command https://www.ibm.com/docs/en/aix/7.2?topic=l-logger-command
+                - The ‘logger’ Command: Linux System Administration Guide https://ioflood.com/blog/logger-linux-command/
+            - nproc
+                - Intro To 'nproc' Command In Linux https://blog.robertelder.org/intro-to-nproc-command/
     - Остальное
 - Файрволы, Firewalls
     - ufw
