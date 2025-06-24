@@ -1667,6 +1667,7 @@
   - Интеграционные тесты
     - Go: Unit and Integration Tests https://dzone.com/articles/unit-and-integration-tests-in-go
     - Integration Testing in Go https://go-cookbook.com/snippets/testing/integration-testing
+    - Integration Tests in Go with Cucumber, Testcontainers, and HTTPMock https://dev.to/joseboretto/integration-tests-in-go-with-cucumber-testcontainers-and-httpmock-5hb9
   - BDD
     - GoBDD
       - Golang Best Practices — Behavior-driven development and Continuous Integration https://medium.com/@durgaprasadbudhwani/golang-best-practices-behavior-driven-development-and-continuous-integration-53ed72c915a5
