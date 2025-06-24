@@ -56,6 +56,7 @@
     - Автор: Mel Gorman
     - Ссылки
         - https://pdos.csail.mit.edu/~sbw/links/gorman_book.pdf
+        - https://www.kernel.org/doc/gorman/html/understand/index.html
 - Operating System Concepts, Ninth Edition
     - Авторы: Abraham Silberschatz, Peter B. Galvin, Greg Gagne
     - Ссылки
