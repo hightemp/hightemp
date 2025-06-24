@@ -663,6 +663,7 @@
         - Go mutex (sync.Mutex) and read / write lock (sync.RWMutex) https://programmer.ink/think/go-mutex-sync.mutex-and-read-write-lock-sync.rwmutex.html
       - sync.Cond
         - Go sync.Cond, the Most Overlooked Sync Mechanism https://victoriametrics.com/blog/go-sync-cond/index.html
+        - Understanding sync.Cond in Go: A Guide for Beginner's https://hackernoon.com/understanding-synccond-in-go-a-guide-for-beginners
       - sync.semaphore
         - Go Concurrency Visually Explained — Semaphore https://blog.stackademic.com/go-concurrency-visually-explained-semaphore-3ffe23f11388
         - Go’s Extended Concurrency: Semaphores (Part 1) https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce
