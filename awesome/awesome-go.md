@@ -1644,6 +1644,7 @@
         - Using the Testify toolkit https://www.jetbrains.com/help/go/using-the-testify-toolkit.html
         - Top Go Modules: Writing Unit Tests with Testify https://jfrog.com/blog/top-go-modules-writing-unit-tests-with-testify/
         - Четыре простых лайфхака при написании тестов на Go + testify https://habr.com/ru/companies/joom/articles/666440/
+        - Testing in Go with Testify https://betterstack.com/community/guides/scaling-go/golang-testify/
       - Mock
         - GoMock vs. Testify: Mocking frameworks for Go https://www.codecentric.de/wissens-hub/blog/gomock-vs-testify
         - How I Do Test External Service with Testify Mock https://mgufrone.medium.com/how-i-do-test-external-service-with-testify-mock-66ff8a0dab64
