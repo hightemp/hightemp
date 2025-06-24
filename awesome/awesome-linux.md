@@ -128,6 +128,7 @@
                 - Основное 
                     - Числа и байты: как работает память в Linux? https://habr.com/ru/companies/timeweb/articles/804865/
                     - Управление памятью в Linux https://habr.com/ru/articles/793232/
+                    - Memory Management in Linux https://ebooks.inflibnet.ac.in/csp3/chapter/memory-management-in-linux/
                 - Виртуальная и Физическая память (Virtual and Physical Memory)
                     - What is Virtual Memory on Linux? https://www.scaler.com/topics/virtual-memory-in-linux/
                 - Адресные пространства процессов (Process Address Spaces)
