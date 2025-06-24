@@ -120,13 +120,28 @@
 
     - **Архитектура (Architecture)**
         - Управление памятью (Memory Management)
-            - MMU (Memory Management Unit)
-                - How Does the Memory Management Unit (MMU) Work...? https://chessman7.substack.com/p/how-does-the-memory-management-unit
-            - vDSO; linux-vdso.so.1
-                - Linux Mystery: linux-vdso.so.1 http://austinkeeley.com/2021/04/25/linux-mystery-vsdo.html
-                - vdso(7) — Linux manual page https://man7.org/linux/man-pages/man7/vdso.7.html
-                - Understanding linux-vdso.so.1 https://github.com/ANSANJAY/VDSO/blob/main/5_linux-vdso/readme.md
-                - vDSO https://en.wikipedia.org/wiki/VDSO
+            - Общие концепции (General Concepts)
+                - Виртуальная и Физическая память (Virtual and Physical Memory)
+                - Адресные пространства процессов (Process Address Spaces)
+            - Механизмы управления памятью (Memory Management Mechanisms)
+                - Страничная организация и Свопинг (Paging and Swapping)
+                - Выделение памяти (Memory Allocation)
+                - Отображение памяти (Memory Mapping - mmap)
+            - Кэши памяти (Memory Caches)
+                - Page Cache и Buffer Cache
+            - Аппаратные аспекты (Hardware Aspects)
+                - MMU (Memory Management Unit)
+                    - How Does the Memory Management Unit (MMU) Work...? https://chessman7.substack.com/p/how-does-the-memory-management-unit
+                - NUMA (Non-Uniform Memory Access)
+            - Специфические возможности (Specific Features)
+                - vDSO; linux-vdso.so.1
+                    - Linux Mystery: linux-vdso.so.1 http://austinkeeley.com/2021/04/25/linux-mystery-vsdo.html
+                    - vdso(7) — Linux manual page https://man7.org/linux/man-pages/man7/vdso.7.html
+                    - Understanding linux-vdso.so.1 https://github.com/ANSANJAY/VDSO/blob/main/5_linux-vdso/readme.md
+                    - vDSO https://en.wikipedia.org/wiki/VDSO
+                - Transparent Huge Pages (THP)
+                - OOM Killer (Убийца процессов при нехватке памяти)
+            - Отладка и профилирование (Debugging and Profiling)
         - Cgroups (Контрольные группы)
             - Practicing cgroup v2 https://medium.com/@charles.vissol/practicing-cgroup-v2-cad6743bba0c
             - Linux cgroup from first principles https://fzakaria.com/2025/05/26/linux-cgroup-from-first-principles
