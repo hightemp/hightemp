@@ -121,6 +121,9 @@
     - **Архитектура (Architecture)**
         - Управление памятью (Memory Management)
             - Общие концепции (General Concepts)
+                - Основное 
+                    - Числа и байты: как работает память в Linux? https://habr.com/ru/companies/timeweb/articles/804865/
+                    - Управление памятью в Linux https://habr.com/ru/articles/793232/
                 - Виртуальная и Физическая память (Virtual and Physical Memory)
                 - Адресные пространства процессов (Process Address Spaces)
             - Механизмы управления памятью (Memory Management Mechanisms)
