@@ -1411,6 +1411,7 @@
       - Внедрение зависимостей в GO https://habr.com/ru/articles/541676/
       - Understanding Dependency Injection in Go: A Practical Approach https://medium.com/@schalla024/understanding-dependency-injection-in-go-a-practical-approach-05901458812b
     - Wire
+      - Go with Wire https://www.jetbrains.com/guide/go/tutorials/dependency_injection_part_two/inject_wire/
       - The official Golang dependency injection tool Wire Usage Guidelines https://www.sobyte.net/post/2022-09/go-wire/
       - Google’s Wire: Automated Dependency Injection in Go https://medium.com/better-programming/googles-wire-automated-dependency-injection-in-go-4e98864c3dd5
       - Structuring Wire provider sets https://app.studyraid.com/en/read/11453/358959/structuring-wire-provider-sets
