@@ -2035,6 +2035,7 @@
 - https://southcla.ws/
 - https://www.sobyte.net/tags/golang/
 - https://www.santekno.com/en/tags/golang/
+- https://principal-engineering.ru/tags/golang/
 
 ### Подкасты
 
