@@ -1300,6 +1300,8 @@
     - Under the hood of TCP Socket Implementation On Golang https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
 - epoll
   - Scaling Go to 192 Cores with Heavy I/O https://jazco.dev/2024/01/10/golang-and-epoll/
+- io_uring
+  - io_uring basics: Writing a file to disk https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html
 - Траблшутинг
   - Troubleshoot high number of goroutines in kubernetes controllers https://mirilittleme.medium.com/troubleshoot-high-number-of-goroutines-in-kubernetes-controllers-74bb93b055a6
 - Oembed
