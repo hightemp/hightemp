@@ -1418,6 +1418,7 @@
       - 12 Creating Dependecy Injection Library Google Wire https://www.santekno.com/en/12-creating-dependecy-injection-library-google-wire/
     - Fx (Uber)
       - Внедрение зависимостей с Fx https://kovardin.ru/articles/go/fx/
+      - uber/fx + gRPC https://principal-engineering.ru/posts/go-uber-fx-grpc-showcase/
   - SOLID
     - Practical SOLID in Golang: Single Responsibility Principle https://www.ompluscator.com/article/golang/practical-solid-single-responsibility
     - Practical SOLID in Golang: Open/Closed Principle https://www.ompluscator.com/article/golang/practical-solid-open-closed/
