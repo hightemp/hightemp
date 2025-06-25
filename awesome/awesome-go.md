@@ -2026,6 +2026,7 @@
 - https://bytegoblin.io/?tag=GOLANG
 - https://labex.io/skilltrees/go
 - https://southcla.ws/
+- https://www.sobyte.net/tags/golang/
 
 ### Подкасты
 
