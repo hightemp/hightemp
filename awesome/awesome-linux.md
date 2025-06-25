@@ -228,6 +228,7 @@
             - AIO (Asynchronous I/O)
             - io_uring
                 - io_uring Is Back, This Time as a Rootkit https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security/
+                - The rapid growth of io_uring https://lwn.net/Articles/810414/
 
     - **Сетевые технологии (Networking Technologies)**
         - Общее (General)
