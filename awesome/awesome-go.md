@@ -2030,6 +2030,7 @@
 - https://labex.io/skilltrees/go
 - https://southcla.ws/
 - https://www.sobyte.net/tags/golang/
+- https://www.santekno.com/en/tags/golang/
 
 ### Подкасты
 
