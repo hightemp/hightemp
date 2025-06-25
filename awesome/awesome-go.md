@@ -1114,6 +1114,8 @@
     - Пишем свой SMTP сервер на Go https://kovardin.ru/articles/go/smtp-server/
   - Как создать простой планировщик событий в Go https://vk.com/@nuancesprog-kak-sozdat-prostoi-planirovschik-sobytii-v-go
   - Пишем сервис на Go для Kubernetes https://otus.ru/nest/post/1389/
+- Кэширование
+  - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
 - Шаблонные движки
   - Templ vs Gomponents https://nuage.quimerch.com/-/ewen/articles/templ-vs-gomponents
 - Файловая система
