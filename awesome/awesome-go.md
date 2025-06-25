@@ -1297,6 +1297,8 @@
     - The Magic Behind Go's Lightweight Goroutines https://hadar.gr/2017/lightweight-goroutines
     - Building an Event Loop in Go with kqueue: I/O Multiplexing from Scratch https://medium.com/@smafjal/io-multiplexing-in-go-14917eb4258f
     - Under the hood of TCP Socket Implementation On Golang https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
+- epoll
+  - Scaling Go to 192 Cores with Heavy I/O https://jazco.dev/2024/01/10/golang-and-epoll/
 - Траблшутинг
   - Troubleshoot high number of goroutines in kubernetes controllers https://mirilittleme.medium.com/troubleshoot-high-number-of-goroutines-in-kubernetes-controllers-74bb93b055a6
 - Oembed
