@@ -350,9 +350,10 @@
 - Go Concurrency Guide https://github.com/luk4z7/go-concurrency-guide
 - How To Code in Go https://www.digitalocean.com/community/tutorial-series/how-to-code-in-go
 
-### Tutorials
+### Туториалы; Tutorials
 
 - Go database/sql tutorial http://go-database-sql.org/
+- Этот репозиторий представляет собой практическое руководство по пошаговому созданию блокчейна с нуля на языке Go с использованием gRPC, охватывающее все ключевые компоненты современного блокчейна включая консенсус Proof of Authority, синхронизацию состояния, обнаружение пиров и ретрансляцию транзакций. https://github.com/volodymyrprokopyuk/go-blockchain
 
 ### Шпаргалки
 
