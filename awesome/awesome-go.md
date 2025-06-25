@@ -1414,6 +1414,7 @@
       - The official Golang dependency injection tool Wire Usage Guidelines https://www.sobyte.net/post/2022-09/go-wire/
       - Google’s Wire: Automated Dependency Injection in Go https://medium.com/better-programming/googles-wire-automated-dependency-injection-in-go-4e98864c3dd5
       - Structuring Wire provider sets https://app.studyraid.com/en/read/11453/358959/structuring-wire-provider-sets
+      - 12 Creating Dependecy Injection Library Google Wire https://www.santekno.com/en/12-creating-dependecy-injection-library-google-wire/
   - SOLID
     - Practical SOLID in Golang: Single Responsibility Principle https://www.ompluscator.com/article/golang/practical-solid-single-responsibility
     - Practical SOLID in Golang: Open/Closed Principle https://www.ompluscator.com/article/golang/practical-solid-open-closed/
