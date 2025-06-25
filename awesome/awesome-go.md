@@ -2103,7 +2103,16 @@
 - Аунтификация
   - Building the User & Auth Modules with GoLang | 3-Hour Coding Journey | FinGreat Series #3 https://www.youtube.com/watch?v=2Dp7PX70o2k
 - Архитектура
-  - Hexagonal architecture для Go-разработчика / Константин Деревцов (SibEdge) https://www.youtube.com/watch?v=3YTLDYG5MnQ
+  - Hexagonal architecture
+    - Hexagonal architecture для Go-разработчика / Константин Деревцов (SibEdge) https://www.youtube.com/watch?v=3YTLDYG5MnQ
+  - Чистая архитектура
+    - Clean architecture in Go. How to organize a project structure? https://www.youtube.com/watch?v=goC-gCNWhS4
+    - GO - Clean Architecture https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB
+    - How To Structure Your Go App - Full Course [ Hex Arch + Tests ] https://www.youtube.com/watch?v=MpFog2kZsHk
+    - Go Programming - Hexagonal Architecture https://www.youtube.com/watch?v=k3JZI-sQs2k
+    - dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture https://www.youtube.com/watch?v=vKbVrsMnhDc
+  - Dependency Injection
+    - Dependency Injection на примере Uber fx | Эйч Навыки https://www.youtube.com/watch?v=KRdrH9a98HQ&t=1s
 - PostgreSQL
   - Работа в Go с PostgreSQL | Golang https://www.youtube.com/watch?v=Wi0UwT9O81o
 - SSE
@@ -2119,12 +2128,6 @@
   - Configure Golang in Neovim https://www.youtube.com/watch?v=EgwiPok2nbU
   - Буквально 4 минуты про гуся. Goose - тулза для миграций на #golang https://www.youtube.com/watch?v=tyDan_pFUHE
   - https://youtu.be/R121Xpb28og
-- Чистая архитектура
-  - Clean architecture in Go. How to organize a project structure? https://www.youtube.com/watch?v=goC-gCNWhS4
-  - GO - Clean Architecture https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB
-  - How To Structure Your Go App - Full Course [ Hex Arch + Tests ] https://www.youtube.com/watch?v=MpFog2kZsHk
-  - Go Programming - Hexagonal Architecture https://www.youtube.com/watch?v=k3JZI-sQs2k
-  - dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture https://www.youtube.com/watch?v=vKbVrsMnhDc
 - Каналы
   - Николай Тузов — Golang https://www.youtube.com/@nikolay_tuzov
   - Go Developer https://www.youtube.com/@go_developer
