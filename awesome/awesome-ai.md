@@ -758,6 +758,10 @@ https://arxiv.org/pdf/2411.08804v1
 
 - https://aitutorpro.ca/
 
+### Генераторы курсов
+
+- https://app.studyraid.com/en/generate
+
 ### Базы промтов
 
 - https://smith.langchain.com/hub/
