@@ -212,6 +212,7 @@
                 - What is a socket? https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket
                 - How raw sockets behave differently in macOS and Linux https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/
             - SO_REUSEPORT
+                - Linux TCP SO_REUSEPORT: Usage and Implementation https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html
                 - Linux TCP SO_REUSEPORT — Usage and implementation https://blog.flipkart.tech/linux-tcp-so-reuseport-usage-and-implementation-6bfbf642885a
                 - Performance Optimisation using SO_REUSEPORT https://medium.com/high-performance-network-programming/performance-optimisation-using-so-reuseport-c0fe4f2d3f88
                 - Perfect locality and three epic SystemTap scripts https://blog.cloudflare.com/perfect-locality-and-three-epic-systemtap-scripts/
