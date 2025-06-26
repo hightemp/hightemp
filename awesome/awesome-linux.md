@@ -217,6 +217,7 @@
                 - Performance Optimisation using SO_REUSEPORT https://medium.com/high-performance-network-programming/performance-optimisation-using-so-reuseport-c0fe4f2d3f88
                 - Perfect locality and three epic SystemTap scripts https://blog.cloudflare.com/perfect-locality-and-three-epic-systemtap-scripts/
                 - True Zero Downtime HAProxy Reloads (В статье описывается, как Yelp...) https://web.archive.org/web/20220520183147/https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html
+                - Loadbalancing TCP connections in the Linux kernel https://blog.domainmess.org/post/so_portreuse/
         - Мультиплексирование (Multiplexing)
             - Общее (General)
                 - Async IO on Linux: select, poll, and epoll https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/
