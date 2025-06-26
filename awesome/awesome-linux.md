@@ -219,6 +219,7 @@
                 - Perfect locality and three epic SystemTap scripts https://blog.cloudflare.com/perfect-locality-and-three-epic-systemtap-scripts/
                 - True Zero Downtime HAProxy Reloads (В статье описывается, как Yelp...) https://web.archive.org/web/20220520183147/https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html
                 - Loadbalancing TCP connections in the Linux kernel https://blog.domainmess.org/post/so_portreuse/
+                - SO_REUSEPORT Scaling Techniques for Servers with High Connection Rates https://domsch.com/linux/lpc2010/Scaling_techniques_for_servers_with_high_connection%20rates.pdf
         - Мультиплексирование (Multiplexing)
             - Общее (General)
                 - Async IO on Linux: select, poll, and epoll https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/
