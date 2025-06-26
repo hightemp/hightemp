@@ -895,6 +895,7 @@
     - Планировщик Go — самый подробный гайд простым языком https://habr.com/ru/articles/891426/
     - Inside the Go Scheduler: A Step-by-Step Look at Goroutine Management https://medium.com/@hatronix/inside-the-go-scheduler-a-step-by-step-look-at-goroutine-management-1a8cbe9d5dbd
     - https://go.dev/src/runtime/HACKING
+    - The Go scheduler https://morsmachine.dk/go-scheduler
   - Конкурентность; Многопоточность
     - Разбираем конкурентность в Go: книги, блоги, выступления https://habr.com/ru/companies/yadro/articles/892632/
     - Секреты дедлоков в Go https://habr.com/ru/companies/ozonbank/articles/908978/
