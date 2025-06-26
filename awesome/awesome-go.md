@@ -1301,6 +1301,7 @@
 - epoll
   - Scaling Go to 192 Cores with Heavy I/O https://jazco.dev/2024/01/10/golang-and-epoll/
 - io_uring
+  - Getting Hands on with io_uring using Go https://developers.mattermost.com/blog/hands-on-iouring-go/
   - Начало работы с io_uring с помощью Go https://softdroid.net/nachalo-raboty-s-iouring-s-pomoshchyu-go
   - io_uring basics: Writing a file to disk https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html
   - IO_URING. Часть 1. Введение https://habr.com/ru/articles/589389/
