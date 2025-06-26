@@ -237,6 +237,7 @@
                 - io_uring Is Back, This Time as a Rootkit https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security/
                 - The rapid growth of io_uring https://lwn.net/Articles/810414/
                 - What Is io_uring? High‑Performance I/O in Linux https://www.gocodeo.com/post/what-is-io-uring-high-performance-i-o-in-linux
+                - io_uring vs. epoll – Which Is Better in Network Programming? https://www.alibabacloud.com/blog/io-uring-vs--epoll-which-is-better-in-network-programming_599544
 
     - **Сетевые технологии (Networking Technologies)**
         - Общее (General)
