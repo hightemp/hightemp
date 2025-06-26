@@ -2057,6 +2057,7 @@
 - https://principal-engineering.ru/tags/golang/
 - https://notes.eatonphil.com/tags/go.html
 - https://morsmachine.dk/
+- https://swatimodi.com/tags/golang/
 
 ### Подкасты
 
