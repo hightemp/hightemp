@@ -239,6 +239,7 @@
                 - What Is io_uring? High‑Performance I/O in Linux https://www.gocodeo.com/post/what-is-io-uring-high-performance-i-o-in-linux
                 - io_uring vs. epoll – Which Is Better in Network Programming? https://www.alibabacloud.com/blog/io-uring-vs--epoll-which-is-better-in-network-programming_599544
                 - Проблема в Linux io_uring ведет к скрытым атакам руткитов https://xakep.ru/2025/04/25/io_uring-rootkits/
+                - The Backend Revolution or Why io_uring Is So Important. https://dev.to/siy/the-backend-revolution-or-why-iouring-is-so-important-444f
 
     - **Сетевые технологии (Networking Technologies)**
         - Общее (General)
