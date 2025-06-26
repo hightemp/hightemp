@@ -793,6 +793,9 @@
     - Statically Linking Go in 2022 https://mt165.co.uk/blog/static-link-go/
     - Building Statically Linked Go Executables with CGO and Zig https://calabro.io/zig-cgo
     - Cgo Call Practice https://www.dingyuqi.com/en/article/cgo/
+  - Go netpoller
+    - The Go netpoller https://morsmachine.dk/netpoller
+    - Go Internals: HTTP request multiplexing in Go https://akshay-kumar.hashnode.dev/go-internals-http-request-multiplexing-in-go-1
   - Создание билиотеки
     - Go: Как подключить внешнюю библиотеку и исключить ненужные зависимости https://habr.com/ru/articles/521942/
   - env, переменные окружения
@@ -1300,7 +1303,6 @@
     - Under the hood of TCP Socket Implementation On Golang https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
 - epoll
   - Scaling Go to 192 Cores with Heavy I/O https://jazco.dev/2024/01/10/golang-and-epoll/
-  - Go Internals: HTTP request multiplexing in Go https://akshay-kumar.hashnode.dev/go-internals-http-request-multiplexing-in-go-1
 - io_uring
   - Getting Hands on with io_uring using Go https://developers.mattermost.com/blog/hands-on-iouring-go/
   - Начало работы с io_uring с помощью Go https://softdroid.net/nachalo-raboty-s-iouring-s-pomoshchyu-go
