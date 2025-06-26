@@ -122,6 +122,7 @@
 - https://eklitzke.org/
 - http://austinkeeley.com/
 - https://www.linuxheart.net/content/category/Ядро
+- https://blog.domainmess.org/categories/linux/
 
 ### Статьи
 
