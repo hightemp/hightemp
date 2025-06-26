@@ -444,6 +444,8 @@
         - Linux Kernel. 1 - Исследуем системный вызов fork https://www.youtube.com/watch?v=KIaTpku7wEI
     - Остальное
         - Обзорная иллюстрация компонент и интерфейсов Linux https://www.youtube.com/watch?v=V3gI8-8k8Q4&list=PLHHm04DXWzeKZycf_ZuBgxWdVBnrjE_mj
+- io_uring
+    - Kernel Recipes 2019 - Faster IO through io_uring https://www.youtube.com/watch?v=-5T4Cjw46ys
 - ELF
     - In-depth: ELF - The Extensible & Linkable Format https://www.youtube.com/watch?v=nC1U1LJQL8o
 - Администрирование
