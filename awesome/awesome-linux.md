@@ -127,7 +127,10 @@
 
 - Linux
     - Что нового
-        - Релиз Linux 6.13 https://habr.com/ru/news/874842/
+        - 6.13
+            - Релиз Linux 6.13 https://habr.com/ru/news/874842/
+        - 6.4
+            - Linux 6.4: новые возможности ядра — что изменилось в релизе https://habr.com/ru/companies/selectel/articles/744356/
     - **Основы (Fundamentals)**
         - Введение и Общие концепции (Introduction and General Concepts)
             - Introduction to Linux A Hands on Guide https://tldp.org/LDP/intro-linux/html/index.html
