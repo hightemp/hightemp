@@ -48,6 +48,8 @@
         - Глава I. Обзор языка, часть первая https://github.com/dee0xeed/learning-zig-rus/blob/main/src/ch01.md
     - Остальное
         - Why is Zig so Cool? https://theaggressiveprogrammer.substack.com/p/why-is-zig-so-cool?utm_campaign=post&utm_medium=web
+- io_uring
+    - A Programmer-Friendly I/O Abstraction Over io_uring and kqueue https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/
 - Многопоточное программирование
     - Understanding Multithreading in Zig Programming Language https://piembsystech.com/understanding-multithreading-in-zig-programming-language/
     - A Comprehensive Guide to Threading in Zig: Creation, Synchronization, and Data Passing https://www.xeg.io/shared-searches/a-comprehensive-guide-to-threading-in-zig-creation-synchronization-and-data-passing-666df81a5ccf5bab1ec23e5e
