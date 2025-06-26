@@ -1222,123 +1222,160 @@ https://arxiv.org/pdf/2411.08804v1
 
 ### Статьи
 
-- Основное
-    - Нейросети и глубокое обучение, глава 1: использование нейросетей для распознавания рукописных цифр https://habr.com/ru/articles/456738/
-    - Нейронные сети для начинающих. Часть 1 https://habr.com/ru/articles/312450/
-    - Краткий курс машинного обучения или как создать нейронную сеть для решения скоринг задачи https://habr.com/ru/articles/340792/
-    - Вкатываемся в Machine Learning с нуля за ноль рублей: что, где, в какой последовательности изучить https://habr.com/ru/articles/774844/
-- Трансформеры; Transformers
-    - Основное
-        - How Transformers Work https://towardsdatascience.com/transformers-141e32e69591
-        - How Transformers Work: A Detailed Exploration of Transformer Architecture https://www.datacamp.com/tutorial/how-transformers-work?dc_referrer=https%3A%2F%2Fwww.google.ru%2F
+- **Основы и Введение (Foundations & Introduction)** {#основы-и-введение}
+    - Введение в нейросети и глубокое обучение
+        - Нейросети и глубокое обучение, глава 1: использование нейросетей для распознания рукописных цифр https://habr.com/ru/articles/456738/
+        - Нейронные сети для начинающих. Часть 1 https://habr.com/ru/articles/312450/
+        - Краткий курс машинного обучения или как создать нейронную сеть для решения скоринг задачи https://habr.com/ru/articles/340792/
+    - Введение в Machine Learning
+        - Вкатываемся в Machine Learning с нуля за ноль рублей: что, где, в какой последовательности изучить https://habr.com/ru/articles/774844/
+    - Введение в LLM
+        - Large language models, explained with a minimum of math and jargon https://seantrott.substack.com/p/large-language-models-explained
+
+- **Архитектуры нейросетей (Neural Network Architectures)** {#архитектуры-нейросетей}
+    - Трансформеры (Transformers)
+        - Основное устройство
+            - Attention Is All You Need https://arxiv.org/pdf/1706.03762
+            - How Transformers Work https://towardsdatascience.com/transformers-141e32e69591
+            - How Transformers Work: A Detailed Exploration of Transformer Architecture https://www.datacamp.com/tutorial/how-transformers-work?dc_referrer=https%3A%2F%2Fwww.google.ru%2F
+        - Diffusion Transformers
+            - Autoregressive Distillation of Diffusion Transformers https://arxiv.org/abs/2504.11295
+            - FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute https://arxiv.org/abs/2502.20126
+    - Другие архитектуры
+        - Эффективное моделирование длинных последовательностей с использованием структурированных моделей состояния (Аннотированный S4) https://srush.github.io/annotated-s4/
+
+- **Ключевые Концепции и Механизмы (Key Concepts & Mechanisms)** {#ключевые-концепции-и-механизмы}
+    - Внимание (Attention)
+        - [См. также: Attention Is All You Need в разделе Трансформеры](#архитектуры-нейросетей)
+    - Эмбеддинги (Embeddings)
+        - 10 Top Alternatives to text-embedding-ada-002 https://www.pingcap.com/article/10-top-alternatives-to-text-embedding-ada-002/
+    - Позиционное кодирование (Positional Encoding)
         - Demystifying Transformer Architecture: The Magic of Positional Encoding https://medium.com/@waelrashwan/demystifying-transformer-architecture-the-magic-of-positional-encoding-5fe8154d4a64
-    - Diffusion transformers
-        - Autoregressive Distillation of Diffusion Transformers – CVPR25, Oral https://arxiv.org/abs/2504.11295
-        - FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute (https://arxiv.org/abs/2502.20126) – CVPR25, Spotlight
-    - Внимание
-        - Attention Is All You Need https://arxiv.org/pdf/1706.03762
-- embedding
-    - 10 Top Alternatives to text-embedding-ada-002 https://www.pingcap.com/article/10-top-alternatives-to-text-embedding-ada-002/
-- Обучение
-    - Основное
-        - Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning; Порядок обучающих выборок имеет значение? Улучшение генерации текста из данных с помощью обучения по учебному плану https://arxiv.org/abs/2102.03554
+        - Positional Encoding https://medium.com/@hunter-j-phillips/positional-encoding-7a93db4109e6
+        - Positional Encoding Explained: A Deep Dive into Transformer PE https://medium.com/thedeephub/positional-encoding-explained-a-deep-dive-into-transformer-pe-65cfe8cfe10b
+        - Positional Encoding in Transformer https://medium.com/@sachinsoni600517/positional-encoding-in-transformer-2cc4ec703076
+        - Explaining the need for positional encodings in Transformers https://medium.com/@ngiengkianyew/explaining-the-need-for-positional-encodings-in-transformers-db4209d4be10
+    - Квантование (Quantization)
+        - Quantization for Neural Networks https://leimao.github.io/article/Neural-Networks-Quantization/
+        - Building a quantization paradigm from first principles https://github.com/google/gemmlowp/blob/16e8662c34917be0065110bfcd9cc27d30f52fdf/doc/quantization.md
+        - [См. также: TinyML - Quantization Aware Training в разделе TinyML](#tinyml-и-периферийные-устройства)
+    - Токенизация (Tokenization)
+        - Tokenization in large language models, explained https://seantrott.substack.com/p/tokenization-in-large-language-models
+
+- **Обучение и Тюнинг (Training & Tuning)** {#обучение-и-тюнинг}
+    - Общее и Оптимизация обучения
+        - Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning https://arxiv.org/abs/2102.03554
         - V7 Labs: Качество обучающих данных: Почему это важно в машинном обучении; An Introductory Guide to Quality Training Data for Machine Learning https://www.v7labs.com/blog/quality-training-data-for-machine-learning-guide
+    - Обучение с подкреплением (Reinforcement Learning)
+        - Как мы готовим RL для Alignment в больших языковых моделях: опыт команды YandexGPT https://habr.com/ru/companies/yandex/articles/817391/
     - Meta-Learning
         - Advances and Challenges in Meta-Learning: A Technical Review https://arxiv.org/html/2307.04722
-- Оптимизация вычислений; Computational Optimization
-    - Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment  (https://arxiv.org/abs/2501.19309)– ICLR25, Oral
-- Positional encoding
-    - Positional Encoding https://medium.com/@hunter-j-phillips/positional-encoding-7a93db4109e6
-    - Positional Encoding Explained: A Deep Dive into Transformer PE https://medium.com/thedeephub/positional-encoding-explained-a-deep-dive-into-transformer-pe-65cfe8cfe10b
-    - Positional Encoding in Transformer https://medium.com/@sachinsoni600517/positional-encoding-in-transformer-2cc4ec703076
-    - Explaining the need for positional encodings in Transformers https://medium.com/@ngiengkianyew/explaining-the-need-for-positional-encodings-in-transformers-db4209d4be10
-- Circuit Tracing (Отслеживание нейронных цепей) - метод, позволяющий заглянуть внутрь больших языковых моделей и понять механизмы их работы, строящий упрощённую понятную версию модели и визуализирующий пути распространения информации через нейросеть с помощью графов атрибуции
-    - Статья Circuit Tracing: Revealing Computational Graphs in Language Models (https://transformer-circuits.pub/2025/attribution-graphs/methods.html) от Anthropic
-    - Исследование ACDC: Automating Circuit Discovery (https://www.lesswrong.com/posts/bGn9ZjeuJCg7HkKBj/acdc-automated-circuit-discovery)
-    - Mechanistic understanding and validation of large AI models with SemanticLens (https://arxiv.org/abs/2501.05398)
-- Списки для чтения
-    - "Road to Sora" Paper Reading List https://ghost.oxen.ai/road-to-sora-reading-list/ 
-    - Understanding Large Language Models -- A Transformative Reading List https://sebastianraschka.com/blog/2023/llm-reading-list.html
-    - Outline of Reading List https://www.advtopicsindeeplearning.com/reading-list.html
-- Агенты
-    - Кто такие LLM-агенты и что они умеют? https://habr.com/ru/companies/ods/articles/776478/
-    - Заменяем хабраюзеров ИИ-агентами. Гайд по browser-use https://habr.com/ru/articles/875798/
-    - AI Agent Crash Course—Part 1 https://blog.dailydoseofds.com/p/ai-agent-crash-coursepart-1
-- Автоматизация
-    - Automating the Search for Artificial Life with Foundation Models https://sakana.ai/asal/
-- MCP
-    - Test a Remote MCP Server https://developers.cloudflare.com/agents/guides/test-remote-mcp-server/
-    - Model Context Protocol (MCP) – универсальный протокол для взаимодействия с ИИ, и почему это замечательно https://habr.com/ru/articles/899088/
-    - Как обезопасить Spring AI MCP сервер с помощью OAuth2 https://habr.com/ru/companies/spring_aio/articles/901360/
-- n8n
-    - Building an AI-Powered News Aggregator: My First n8n Workflow https://medium.com/@learningsomethingnew/building-an-ai-powered-news-aggregator-my-first-n8n-workflow-40cf3753a387
-- continued pre-training
-    - Efficient Continual Pre-training for Building Domain Specific Large Language Models https://arxiv.org/abs/2311.08545
-    - Continual Pretraining: Unlocking the Full Potential of Large Language Models https://www.goml.io/continual-pretraining-unlocking-the-full-potential-of-large-language-models/
-    - LLM domain adaptation using continued pre-training — Part 1/4 https://medium.com/@gilinachum/llm-domain-adaptation-using-continued-pre-training-part-1-3-e3d10fcfdae1
-    - LLM domain adaptation using continued pre-training — Part 2/4 https://medium.com/@aris.tsakpinis/llm-domain-adaptation-using-continued-pre-training-part-3-4-cbaa7a395bd8
-    - LLM domain adaptation using continued pre-training — Part 3/4 https://anastasia-tzeveleka.medium.com/llm-domain-adaptation-using-continued-pre-training-part-2-3-23f9133681ee
-    - LLM domain adaptation using continued pre-training — Part 4/4 https://medium.com/@aris.tsakpinis/llm-domain-adaptation-using-continued-pre-training-part-4-4-e4fc3acffac7
-    - What is Continuous Pretraining? https://docs.arcee.ai/continuous-pretraining/what-is-continuous-pretraining
-- Reinforcement learning; обучение с подкреплением
-    - Как мы готовим RL для Alignment в больших языковых моделях: опыт команды YandexGPT https://habr.com/ru/companies/yandex/articles/817391/
-- Квантование
-    - Quantization for Neural Networks https://leimao.github.io/article/Neural-Networks-Quantization/
-    - Building a quantization paradigm from first principles https://github.com/google/gemmlowp/blob/16e8662c34917be0065110bfcd9cc27d30f52fdf/doc/quantization.md
-- Визуальные модели
-    - LP-DETR: Layer-wise Progressive Relations for Object Detection https://www.aimodels.fyi/papers/arxiv/lp-detr-layer-wise-progressive-relations-object
-- Ускорение LLM
-    - Ускорение LLM: универсальные методы для популярных архитектур https://habr.com/ru/companies/yandex/articles/878230/
-- Promt, Промтинг
-    - Prompt Decorators: A Simple Way to Improve AI Responses https://kalami.medium.com/prompt-decorators-a-simple-way-to-improve-ai-responses-c3f3c2579a8c
-- RAG
-    - Как я победил в RAG Challenge: от нуля до SoTA за один конкурс https://habr.com/ru/articles/893356/
-    - Часть 1. Обзор подходов RAG https://habr.com/ru/articles/893650/
-    - Часть 2. Обзор технологий RAG для LLM: поиск и извлечение информации https://habr.com/ru/articles/902976/
-    - Часть 3. Обзор технологий RAG для LLM: оптимизация извлеченных данных https://habr.com/ru/articles/904232/
-    - Часть 4. Обзор технологий RAG для LLM: аугментация извлеченных данных https://habr.com/ru/articles/910162/
-- Nvidia
-    - Installing the NVIDIA Container Toolkit https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
-- TinyML
-    - TinyML - Quantization Aware Training https://github.com/thommaskevin/TinyML/tree/cc0b870e1e86ce2ac56ab9b0df58193c16b12c89/22_QAT
-- Микроконтроллеры
-    - Towards the cutest neural network https://kevinlynagh.com/towards-the-cutest-neural-network/
-- Когнитивная психология
-    - Метод "thin-slicing" (оценка на основе минимальной информации)
-        - The Art of Audience Engagement: LLM-Based Thin-Slicing of Scientific Talks https://arxiv.org/abs/2504.10768
-- Биология
-    - Предсказание белков
-        - Highly accurate protein structure prediction with AlphaFold https://www.nature.com/articles/s41586-021-03819-2
-- Подборки
-    - 50+ полезных ML и AI-сервисов для вебмастеров https://hostpro.ua/blog/50-useful-ai-services-for-webmasters/
-    - 10+ Open-source AI Agents: Based on GitHub Stars https://research.aimultiple.com/open-source-ai-agents/
-    - 4 Books to Deepen Your Understanding of LLMs: Theory & Engineering https://substack.com/home/post/p-159336911
-- Остальное
-    - On the Biology of a Large Language Model https://transformer-circuits.pub/2025/attribution-graphs/biology.html
-    - Tracing the thoughts of a large language model https://www.anthropic.com/research/tracing-thoughts-language-model
-    - Emerging Patterns in Building GenAI Products https://martinfowler.com/articles/gen-ai-patterns/
-    - Встречаем YandexGPT 5 — в Алисе, облаке и опенсорсе https://habr.com/ru/companies/yandex/articles/885218/
-    - Клон ChatGPT в 3000 байтах на C, основанный на GPT-2 https://habr.com/ru/articles/879662/
-    - Scaling test-time compute - a Hugging Face Space by HuggingFaceH4 https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute Статья рассказывает об оптимизации вычислений во время тестирования больших языковых моделей (LLM). Вместо увеличения вычислительных ресурсов во время предобучения, новый подход фокусируется на динамической стратегии вывода, позволяя моделям "дольше думать" над сложными задачами. Статья описывает методы "самоулучшения" и "поиска с верификатором", а также представляет инструмент Search and Learn для реализации стратегий поиска с LLM.
-    - Alibaba Marco-o1 : Open-source alternative for OpenAI-o1 https://medium.com/data-science-in-your-pocket/alibaba-marco-o1-open-source-alternative-for-openai-o1-31d77a0b095c
-    - Tokenization in large language models, explained https://seantrott.substack.com/p/tokenization-in-large-language-models
-    - Large language models, explained with a minimum of math and jargon https://seantrott.substack.com/p/large-language-models-explained
-    - Advanced Prompt Engineering Techniques https://www.mercity.ai/blog-post/advanced-prompt-engineering-techniques
-    - Can LLMs Critique and Iterate on Their Own Outputs? https://evjang.com/2023/03/26/self-reflection.html
-    - Reflexion https://www.promptingguide.ai/techniques/reflexion
-    - Step-Based Cascading Prompts: Deterministic Signals from the LLM Vibe Space https://shelbyjenkins.github.io/blog/cascade-prompt/
-    - How to Create Diagrams with ChatGPT and draw.io [link](https://medium.com/@paritoshraval100/how-to-create-diagrams-with-chatgpt-and-draw-io-851efb626f08?source=email-89e31b1a2a97-1712706638855-digest.reader-4e2c1156667e-851efb626f08----9-98------------------73380b94_ed6c_4216_9065_a1583eaf002e-1)
-    - Как мы создали GPT Researcher https://docs.tavily.com/blog/building-gpt-researcher
-    - Postgres is all you need, even for vectors https://anyblockers.com/posts/postgres-is-all-you-need-even-for-vectors
-    - Эффективное моделирование длинных последовательностей с использованием структурированных моделей состояния (Аннотированный S4) https://srush.github.io/annotated-s4/
-- Научные публикации
-    - arxiv
+    - Continual Pre-training (Непрерывное дообучение)
+        - Efficient Continual Pre-training for Building Domain Specific Large Language Models https://arxiv.org/abs/2311.08545
+        - Continual Pretraining: Unlocking the Full Potential of Large Language Models https://www.goml.io/continual-pretraining-unlocking-the-full-potential-of-large-language-models/
+        - LLM domain adaptation using continued pre-training — Part 1/4 https://medium.com/@gilinachum/llm-domain-adaptation-using-continued-pre-training-part-1-3-e3d10fcfdae1
+        - LLM domain adaptation using continued pre-training — Part 2/4 https://medium.com/@aris.tsakpinis/llm-domain-adaptation-using-continued-pre-training-part-3-4-cbaa7a395bd8
+        - LLM domain adaptation using continued pre-training — Part 3/4 https://anastasia-tzeveleka.medium.com/llm-domain-adaptation-using-continued-pre-training-part-2-3-23f9133681ee
+        - LLM domain adaptation using continued pre-training — Part 4/4 https://medium.com/@aris.tsakpinis/llm-domain-adaptation-using-continued-pre-training-part-4-4-e4fc3acffac7
+        - What is Continuous Pretraining? https://docs.arcee.ai/continuous-pretraining/what-is-continuous-pretraining
+
+- **Оптимизация Вычислений (Computational Optimization)** {#оптимизация-вычислений}
+    - Ускорение Инференса (Inference Acceleration)
+        - Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment https://arxiv.org/abs/2501.19309
+        - Ускорение LLM: универсальные методы для популярных архитектур https://habr.com/ru/companies/yandex/articles/878230/
+        - Scaling test-time compute - a Hugging Face Space by HuggingFaceH4 https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute
+    - [См. также: Квантование в разделе Ключевые Концепции](#квантование)
+
+- **Интерпретируемость и Отладка Моделей (Model Interpretability & Debugging)** {#интерпретируемость-и-отладка-моделей}
+    - Circuit Tracing (Отслеживание нейронных цепей)
+        - Статья Circuit Tracing: Revealing Computational Graphs in Language Models https://transformer-circuits.pub/2025/attribution-graphs/methods.html от Anthropic
+        - Исследование ACDC: Automating Circuit Discovery https://www.lesswrong.com/posts/bGn9ZjeuJCg7HkKBg/acdc-automated-circuit-discovery
+        - Mechanistic understanding and validation of large AI models with SemanticLens https://arxiv.org/abs/2501.05398
+        - On the Biology of a Large Language Model https://transformer-circuits.pub/2025/attribution-graphs/biology.html
+        - Tracing the thoughts of a large language model https://www.anthropic.com/research/tracing-thoughts-language-model
+
+- **Большие Языковые Модели (LLM)** {#большие-языковые-модели}
+    - [См. также: Введение в LLM в разделе Основы и Введение](#основы-и-введение)
+    - Prompt Engineering и Управление Выводом (Prompt Engineering & Output Control)
+        - Prompt Decorators: A Simple Way to Improve AI Responses https://kalami.medium.com/prompt-decorators-a-simple-way-to-improve-ai-responses-c3f3c2579a8c
+        - Advanced Prompt Engineering Techniques https://www.mercity.ai/blog-post/advanced-prompt-engineering-techniques
+        - Step-Based Cascading Prompts: Deterministic Signals from the LLM Vibe Space https://shelbyjenkins.github.io/blog/cascade-prompt/
+    - Методы самосовершенствования и рефлексии (Self-Improvement & Reflection)
+        - Can LLMs Critique and Iterate on Their Own Outputs? https://evjang.com/2023/03/26/self-reflection.html
+        - Reflexion https://www.promptingguide.ai/techniques/reflexion
+    - RAG (Retrieval Augmented Generation)
+        - Как я победил в RAG Challenge: от нуля до SoTA за один конкурс https://habr.com/ru/articles/893356/
+        - Часть 1. Обзор подходов RAG https://habr.com/ru/articles/893650/
+        - Часть 2. Обзор технологий RAG для LLM: поиск и извлечение информации https://habr.com/ru/articles/902976/
+        - Часть 3. Обзор технологий RAG для LLM: оптимизация извлеченных данных https://habr.com/ru/articles/904232/
+        - Часть 4. Обзор технологий RAG для LLM: аугментация извлеченных данных https://habr.com/ru/articles/910162/
+    - Ускорение Вычислений LLM (LLM Computation Acceleration)
+        - [См. также: Ускорение Инференса в разделе Оптимизация Вычислений](#оптимизация-вычислений)
+    - Специфические Модели и Реализации (Specific Models & Implementations)
+        - Встречаем YandexGPT 5 — в Алисе, облаке и опенсорсе https://habr.com/ru/companies/yandex/articles/885218/
+        - Клон ChatGPT в 3000 байтах на C, основанный на GPT-2 https://habr.com/ru/articles/879662/
+        - Alibaba Marco-o1 : Open-source alternative for OpenAI-o1 https://medium.com/data-science-in-your-pocket/alibaba-marco-o1-open-source-alternative-for-openai-o1-31d77a0b095c
+    - Лингвистические аспекты LLM
         - What do tokens know about their characters and how do they know it? https://arxiv.org/abs/2206.02608
         - Knowledge of Pretrained Language Models on Surface Information of Tokens https://arxiv.org/pdf/2402.09808
-    - Остальное
         - The Hidden Folk: Linguistic Properties Encoded in Multilingual Contextual Character Representations https://aclanthology.org/2023.cawl-1.2/
         - Can large language models help augment English psycholinguistic datasets? https://link.springer.com/article/10.3758/s13428-024-02337-z
-        - Text2CAD генерация параметрических моделей САПР из текстовых подсказок. Подсказки могут варьироваться от абстрактных описаний форм до подробных параметрических инструкций. https://sadilkhan.github.io/text2cad-project/
+
+- **Прикладные Области и Типы Моделей (Applications & Model Types)** {#прикладные-области-и-типы-моделей}
+    - Визуальные модели (Vision Models)
+        - LP-DETR: Layer-wise Progressive Relations for Object Detection https://www.aimodels.fyi/papers/arxiv/lp-detr-layer-wise-progressive-relations-object
+    - AI в Биологии (AI in Biology)
+        - Предсказание белков (Protein Prediction)
+            - Highly accurate protein structure prediction with AlphaFold https://www.nature.com/articles/s41586-021-03819-2
+    - TinyML и Периферийные Устройства (TinyML & Edge Devices)
+        - TinyML - Quantization Aware Training https://github.com/thommaskevin/TinyML/tree/cc0b870e1e86ce2ac56ab9b0df58193c16b12c89/22_QAT
+        - Микроконтроллеры
+            - Towards the cutest neural network https://kevinlynagh.com/towards-the-cutest-neural-network/
+    - AI Агенты (AI Agents)
+        - Кто такие LLM-агенты и что они умеют? https://habr.com/ru/companies/ods/articles/776478/
+        - Заменяем хабраюзеров ИИ-агентами. Гайд по browser-use https://habr.com/ru/articles/875798/
+        - AI Agent Crash Course—Part 1 https://blog.dailydoseofds.com/p/ai-agent-crash-coursepart-1
+        - Как мы создали GPT Researcher https://docs.tavily.com/blog/building-gpt-researcher
+    - AI в Конкретных Задачах (AI in Specific Tasks)
+        - Автоматизация исследований
+            - Automating the Search for Artificial Life with Foundation Models https://sakana.ai/asal/
+        - Генерация контента (кроме текста)
+            - Text2CAD генерация параметрических моделей САПР из текстовых подсказок https://sadilkhan.github.io/text2cad-project/
+        - Вспомогательные инструменты с AI
+            - How to Create Diagrams with ChatGPT and draw.io https://medium.com/@paritoshraval100/how-to-create-diagrams-with-chatgpt-and-draw-io-851efb626f08?source=email-89e31b1a2a97-1712706638855-digest.reader-4e2c1156667e-851efb626f08----9-98------------------73380b94_ed6c_4216_9065_a1583eaf002e-1
+
+- **Инструменты и Инфраструктура (Tools & Infrastructure)** {#инструменты-и-инфраструктура}
+    - Работа с Аппаратным Обеспечением (Hardware Interaction)
+        - Nvidia
+            - Installing the NVIDIA Container Toolkit https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
+    - Протоколы и Интеграция (Protocols & Integration)
+        - MCP (Model Context Protocol)
+            - Model Context Protocol (MCP) – универсальный протокол для взаимодействия с ИИ, и почему это замечательно https://habr.com/ru/articles/899088/
+            - Как обезопасить Spring AI MCP сервер с помощью OAuth2 https://habr.com/ru/companies/spring_aio/articles/901360/
+            - Test a Remote MCP Server https://developers.cloudflare.com/agents/guides/test-remote-mcp-server/
+    - Оркестрация и Автоматизация (Orchestration & Automation)
+        - n8n
+            - Building an AI-Powered News Aggregator: My First n8n Workflow https://medium.com/@learningsomethingnew/building-an-ai-powered-news-aggregator-my-first-n8n-workflow-40cf3753a387
+    - Базы Данных для AI (Databases for AI)
+        - Векторные базы данных (Vector Databases)
+            - Postgres is all you need, even for vectors https://anyblockers.com/posts/postgres-is-all-you-need-even-for-vectors
+    - Инженерные и Архитектурные Паттерны (Engineering & Architectural Patterns)
+        - Emerging Patterns in Building GenAI Products https://martinfowler.com/articles/gen-ai-patterns/
+
+- **Ресурсы и Подборки (Resources & Curated Lists)** {#ресурсы-и-подборки}
+    - Списки для чтения (Reading Lists)
+        - "Road to Sora" Paper Reading List https://ghost.oxen.ai/road-to-sora-reading-list/
+        - Understanding Large Language Models -- A Transformative Reading List https://sebastianraschka.com/blog/2023/llm-reading-list.html
+        - Outline of Reading List https://www.advtopicsindeeplearning.com/reading-list.html
+    - Каталоги и Обзоры (Catalogs & Reviews)
+        - 50+ полезных ML и AI-сервисов для вебмастеров https://hostpro.ua/blog/50-useful-ai-services-for-webmasters/
+        - 10+ Open-source AI Agents: Based on GitHub Stars https://research.aimultiple.com/open-source-ai-agents/
+        - 4 Books to Deepen Your Understanding of LLMs: Theory & Engineering https://substack.com/home/post/p-159336911
+
+- **Кросс-дисциплинарные Темы (Cross-Disciplinary Topics)** {#кросс-дисциплинарные-темы}
+    - Когнитивная психология и AI
+        - Метод "thin-slicing" (оценка на основе минимальной информации)
+            - The Art of Audience Engagement: LLM-Based Thin-Slicing of Scientific Talks https://arxiv.org/abs/2504.10768
 
 
 ### Книги
