@@ -126,6 +126,8 @@
 ### Статьи
 
 - Linux
+    - Что нового
+        - Релиз Linux 6.13 https://habr.com/ru/news/874842/
     - **Основы (Fundamentals)**
         - Введение и Общие концепции (Introduction and General Concepts)
             - Introduction to Linux A Hands on Guide https://tldp.org/LDP/intro-linux/html/index.html
