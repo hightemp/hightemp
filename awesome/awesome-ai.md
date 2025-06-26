@@ -1240,8 +1240,11 @@ https://arxiv.org/pdf/2411.08804v1
 - embedding
     - 10 Top Alternatives to text-embedding-ada-002 https://www.pingcap.com/article/10-top-alternatives-to-text-embedding-ada-002/
 - Обучение
-    - Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning; Порядок обучающих выборок имеет значение? Улучшение генерации текста из данных с помощью обучения по учебному плану https://arxiv.org/abs/2102.03554
-    - V7 Labs: Качество обучающих данных: Почему это важно в машинном обучении; An Introductory Guide to Quality Training Data for Machine Learning https://www.v7labs.com/blog/quality-training-data-for-machine-learning-guide
+    - Основное
+        - Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning; Порядок обучающих выборок имеет значение? Улучшение генерации текста из данных с помощью обучения по учебному плану https://arxiv.org/abs/2102.03554
+        - V7 Labs: Качество обучающих данных: Почему это важно в машинном обучении; An Introductory Guide to Quality Training Data for Machine Learning https://www.v7labs.com/blog/quality-training-data-for-machine-learning-guide
+    - Meta-Learning
+        - Advances and Challenges in Meta-Learning: A Technical Review https://arxiv.org/html/2307.04722
 - Оптимизация вычислений; Computational Optimization
     - Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment  (https://arxiv.org/abs/2501.19309)– ICLR25, Oral
 - Positional encoding
