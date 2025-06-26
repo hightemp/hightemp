@@ -1495,6 +1495,7 @@
     - Hexagonal Architecture: Structuring a project and the influence of granularity https://medium.com/@TonyBologni/hexagonal-architecture-structuring-a-project-and-the-influence-of-granularity-df4e0851ab5c
     - [Hands-on Guide] How to Implement Clean Architecture in Golang? https://reliasoftware.com/blog/clean-architecture-golang
     - Why Clean Architecture Struggles in Golang and What Works Better https://dev.to/lucasdeataides/why-clean-architecture-struggles-in-golang-and-what-works-better-m4g
+    - How I implement Clean Code Architecture on Golang projects https://nurcahyaari.medium.com/how-i-implement-clean-code-architecture-on-golang-projects-68be58830621
   - Структура проекта(папки)
     - Organize Like a Pro: A Simple Guide to Go Project Folder Structures https://medium.com/@smart_byte_labs/organize-like-a-pro-a-simple-guide-to-go-project-folder-structures-e85e9c1769c2
     - Catching Up With Kat Zien on the Structure of Go Apps in 2023 https://blog.jetbrains.com/go/2023/04/11/catching-up-with-kat-zien-on-the-structure-of-go-apps-in-2023/
