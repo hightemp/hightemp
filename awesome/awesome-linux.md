@@ -238,6 +238,7 @@
                 - The rapid growth of io_uring https://lwn.net/Articles/810414/
                 - What Is io_uring? High‑Performance I/O in Linux https://www.gocodeo.com/post/what-is-io-uring-high-performance-i-o-in-linux
                 - io_uring vs. epoll – Which Is Better in Network Programming? https://www.alibabacloud.com/blog/io-uring-vs--epoll-which-is-better-in-network-programming_599544
+                - Проблема в Linux io_uring ведет к скрытым атакам руткитов https://xakep.ru/2025/04/25/io_uring-rootkits/
 
     - **Сетевые технологии (Networking Technologies)**
         - Общее (General)
