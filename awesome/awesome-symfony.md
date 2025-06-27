@@ -119,9 +119,10 @@
     - How to Log Messages to different Files https://symfony.com/doc/current/logging/channels_handlers.html
     - Symfony + Filebeat + Elasticsearch https://habr.com/ru/companies/otus/articles/733436/
     - Logging events to database in Symfony https://nehalist.io/logging-events-to-database-in-symfony/
-  - CLI
+  - CLI; Console Commands
     - How to Define Commands as Services https://symfony.com/doc/current/console/commands_as_services.html
     - Правильная регистрация консольных команд Symfony в DI https://medium.com/phpyh/правильная-регистрация-консольных-команд-в-symfony-di-f7536c254926
+    - Track Memory Usage and Runtime of Symfony Commands https://www.flagbit.de/blog/track-memory-usage-and-runtime-of-symfony-commands/
   - Errors
     - A guide to custom error handling in Symfony https://inviqa.com/blog/guide-custom-error-handling-symfony
   - Middleware
