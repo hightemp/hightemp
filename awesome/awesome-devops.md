@@ -249,6 +249,7 @@
 - https://www.splunk.com/en_us/blog/devops.html
 - https://kuzevanov.ru/
 - https://trainwithshubham.blog/blogs/
+- https://vsupalov.com/
 
 ### Видео
 
