@@ -352,6 +352,7 @@
   - Докеризируем Symfony https://habr.com/ru/companies/otus/articles/715672/
 - Best practices
   - The Symfony Framework Best Practices https://symfony.com/doc/current/best_practices.html
+  - Preparing Your Symfony Application for Production Deployment - Best Practices and Tips https://moldstud.com/articles/p-preparing-your-symfony-application-for-production-deployment-best-practices-and-tips
 - Отладка
   - Трейсинг; Трассировка
     - OpenTelemetry Symfony monitoring https://uptrace.dev/guides/opentelemetry-symfony
