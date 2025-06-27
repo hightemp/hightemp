@@ -145,6 +145,7 @@
 - Мониторинг
     - Prometheus
         - An introduction to Prometheus — a tool for collecting metrics and monitoring services https://eytanmanor.medium.com/an-introduction-to-prometheus-a-tool-for-collecting-metrics-and-monitoring-services-12fcc3bdb5d6
+        - Prometheus 101: Metrics, Monitoring, Practical Setup and More https://harsh05.medium.com/prometheus-101-metrics-monitoring-practical-setup-and-more-eaccf18bdf91
 - Логирование
     - Лог-коллекторы, Парсинг логов
         - Основное
