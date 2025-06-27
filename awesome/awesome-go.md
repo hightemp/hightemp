@@ -1292,6 +1292,7 @@
     - Building a simple load balancer in Go https://dev.to/vivekalhat/building-a-simple-load-balancer-in-go-70d
     - Building a load balancer in Go part 2 https://computersciencesimplified.substack.com/p/building-a-load-balancer-in-go-part-5cb
     - Building a load balancer in Go part 3 https://computersciencesimplified.substack.com/p/building-a-load-balancer-in-go-part-39f
+    - Let's Build! A Simple Load Balancer with Golang https://www.codereliant.io/p/lets-build-loadbalancer-go
   - Веб-сервер, HTTP
     - load-balancer
       - Building a simple load balancer in Go https://dev.to/vivekalhat/building-a-simple-load-balancer-in-go-70d
