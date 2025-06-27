@@ -2063,6 +2063,7 @@
 - https://morsmachine.dk/
 - https://swatimodi.com/tags/golang/
 - https://www.codereliant.io/
+- https://thegolangblueprint.substack.com/
 
 ### Подкасты
 
