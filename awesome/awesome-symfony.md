@@ -150,6 +150,8 @@
     - New in Symfony 6.3 Scheduler Component https://symfony.com/blog/new-in-symfony-6-3-scheduler-component
     - Master task scheduling with Symfony Scheduler https://jolicode.com/blog/master-task-scheduling-with-symfony-scheduler
     - Symfony Scheduler — How it Really Works https://medium.com/@fico7489/symfony-scheduler-how-it-really-works-ef5d95409c09  
+  - symfony/profiler-pack
+    - Ultimate Guide to Symfony Profiler https://inspector.dev/ultimate-guide-to-symfony-profiler/
   - Загрука файлов
     - Symfony 5 - Upload a file https://weenesta.com/en/blog/post/symfony-5-upload-file
   - HasLifecycleCallbacks
