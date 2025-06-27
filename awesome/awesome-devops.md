@@ -144,10 +144,13 @@
             - Настройка хранилища объектов с помощью Minio в Ubuntu 18.04 https://www.8host.com/blog/nastrojka-xranilishha-obektov-s-pomoshhyu-minio-v-ubuntu-18-04/?ysclid=m9cr0n2wir681350710
 - Мониторинг
     - Prometheus
-        - Полное руководство по Prometheus в 2019 году https://habr.com/ru/companies/slurm/articles/455290/
-        - An introduction to Prometheus — a tool for collecting metrics and monitoring services https://eytanmanor.medium.com/an-introduction-to-prometheus-a-tool-for-collecting-metrics-and-monitoring-services-12fcc3bdb5d6
-        - Prometheus 101: Metrics, Monitoring, Practical Setup and More https://harsh05.medium.com/prometheus-101-metrics-monitoring-practical-setup-and-more-eaccf18bdf91
-        - Система мониторинга Prometheus https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/sistema-monitoringa-prometheus#1
+        - Основное
+            - Полное руководство по Prometheus в 2019 году https://habr.com/ru/companies/slurm/articles/455290/
+            - An introduction to Prometheus — a tool for collecting metrics and monitoring services https://eytanmanor.medium.com/an-introduction-to-prometheus-a-tool-for-collecting-metrics-and-monitoring-services-12fcc3bdb5d6
+            - Prometheus 101: Metrics, Monitoring, Practical Setup and More https://harsh05.medium.com/prometheus-101-metrics-monitoring-practical-setup-and-more-eaccf18bdf91
+            - Система мониторинга Prometheus https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/sistema-monitoringa-prometheus#1
+        - PromQL
+            - Что такое PromQL и как с ним работать https://timeweb.com/ru/community/articles/chto-takoe-promql-i-kak-s-nim-rabotat
 - База данных временых рядов
     - InfluxDB
         - The Definitive Guide To InfluxDB In 2019 https://devconnected.com/the-definitive-guide-to-influxdb-in-2019/
