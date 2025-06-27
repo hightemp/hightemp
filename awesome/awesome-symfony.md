@@ -360,6 +360,7 @@
     - Metrics in infrastructure optimization process: Finding application bottlenecks (1/4) https://tsh.io/blog/infrastructure-metrics-optimization/
     - Metrics in optimization process: Start to measure your app with the Prometheus tool (2/4) https://tsh.io/blog/grafana-and-prometheus-metrics/
     - Metrics in optimization process: collecting data with Prometheus (3/4) https://tsh.io/blog/prometheus-data-collection/
+    - Metrics in optimization process: Grafana dashboard tutorial (4/4) https://tsh.io/blog/grafana-custom-dashboard/
     - Understanding your Symfony app with Prometheus https://medium.com/4xxi/understanding-your-symfony-app-with-prometheus-fdb4b0124d99
   - Остальное
     - Symofny application monitoring with a simple package – Tutorial https://inspector.dev/code-execution-monitoring-for-symfony-applications-using-inspector/
