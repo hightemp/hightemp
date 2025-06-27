@@ -357,6 +357,7 @@
     - OpenTelemetry Symfony monitoring https://uptrace.dev/guides/opentelemetry-symfony
 - Мониторинг
   - Prometheus
+    - Metrics in infrastructure optimization process: Finding application bottlenecks (1/4) https://tsh.io/blog/infrastructure-metrics-optimization/
     - Metrics in optimization process: Start to measure your app with the Prometheus tool (2/4) https://tsh.io/blog/grafana-and-prometheus-metrics/
     - Metrics in optimization process: collecting data with Prometheus (3/4) https://tsh.io/blog/prometheus-data-collection/
     - Understanding your Symfony app with Prometheus https://medium.com/4xxi/understanding-your-symfony-app-with-prometheus-fdb4b0124d99
