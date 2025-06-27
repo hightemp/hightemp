@@ -1381,6 +1381,10 @@ https://arxiv.org/pdf/2411.08804v1
 
 ### Книги
 
+- Python и машинное обучение. Машинное и глубокое обучение с использованием Python, scikit-learn и TensorFlow 2
+    - Авторы: Рашка Себастьян, Мирджалили Вахид
+    - Ссылки
+        - https://www.ozon.ru/product/python-i-mashinnoe-obuchenie-mashinnoe-i-glubokoe-obuchenie-s-ispolzovaniem-python-scikit-learn-i-206611349/
 - Build a Large Language Model (From Scratch) https://github.com/rasbt/LLMs-from-scratch/
 - Учебник, где собрана коллекция задачек о нейросетях, параллельно даётся необходимая теория с объяснением https://fulyankin.github.io/deep_learning_masha_book/intro.html
 - Deep Learning: Foundations and Concepts (Bishop & Bishop, 2023)
