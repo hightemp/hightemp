@@ -1471,6 +1471,8 @@
     - Go: AWS Lambda Project Structure Using Golang https://medium.com/dm03514-tech-blog/go-aws-lambda-project-structure-using-golang-98b6c0a5339d
   - Layered Design; Слоистая архитектура
     - Layered Design in Go https://jerf.org/iri/post/2025/go_layered_design/
+  - Vertical Slice Architecture; VSA
+    - Still Stuck in Layered Architecture? My Journey to Faster & Saner Development with Vertical Slices https://substack.com/home/post/p-163319345
   - Clean architecture; Чистая архитектура
     - Чистая архитектура в Go-приложении. Часть 1 https://habr.com/ru/articles/269893/
     - Чистая архитектура в Go-приложении. Часть 2 https://habr.com/ru/articles/270351/
