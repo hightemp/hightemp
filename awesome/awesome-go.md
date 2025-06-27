@@ -2059,6 +2059,7 @@
 - https://notes.eatonphil.com/tags/go.html
 - https://morsmachine.dk/
 - https://swatimodi.com/tags/golang/
+- https://www.codereliant.io/
 
 ### Подкасты
 
