@@ -147,6 +147,7 @@
         - Полное руководство по Prometheus в 2019 году https://habr.com/ru/companies/slurm/articles/455290/
         - An introduction to Prometheus — a tool for collecting metrics and monitoring services https://eytanmanor.medium.com/an-introduction-to-prometheus-a-tool-for-collecting-metrics-and-monitoring-services-12fcc3bdb5d6
         - Prometheus 101: Metrics, Monitoring, Practical Setup and More https://harsh05.medium.com/prometheus-101-metrics-monitoring-practical-setup-and-more-eaccf18bdf91
+        - Система мониторинга Prometheus https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/sistema-monitoringa-prometheus#1
 - База данных временых рядов
     - InfluxDB
         - The Definitive Guide To InfluxDB In 2019 https://devconnected.com/the-definitive-guide-to-influxdb-in-2019/
