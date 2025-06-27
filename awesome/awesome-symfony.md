@@ -144,6 +144,7 @@
     - Использование компонентов symfony/messenger и symfony/console в качестве независимых компонентов https://habr.com/ru/articles/596559/
     - How to Stop Symfony Messenger Worker When Idle https://victorsh.dev/blog/stop-symfony-messenger-worker-when-idle
     - Symfony Messenger : background task https://weenesta.com/en/blog/post/symfony-messenger-background-task
+    - Background jobs with Symfony messenger component https://dev.to/bornfightcompany/background-jobs-with-symfony-messenger-component-p63
   - Symfony Scheduler
     - Scheduler https://symfony.com/doc/current/scheduler.html
     - New in Symfony 6.3 Scheduler Component https://symfony.com/blog/new-in-symfony-6-3-scheduler-component
