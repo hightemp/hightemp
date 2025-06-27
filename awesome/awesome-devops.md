@@ -86,13 +86,14 @@
 - SSH
     - SSH: Best practices https://blog.0xbadc0de.be/archives/300
     - Secure Secure Shell https://blog.stribik.technology/2015/01/04/secure-secure-shell.html
-- TCP/UDP https://awesome-devops.pages.dev/networking/tcp-udp
-- Как избежать 10 частых ошибок в настройке NGINX https://habr.com/ru/companies/nixys/articles/661233/
+- Networking
+    - TCP/UDP https://awesome-devops.pages.dev/networking/tcp-udp
 - docker
     - Установка Docker на Linux https://www.dmosk.ru/miniinstruktions.php?mini=docker-install-linux
     - Should You Run Your Database in Docker? https://vsupalov.com/database-in-docker/
 - nginx
     - Nginx: шпаргалка https://habr.com/ru/articles/789360/
+    - Как избежать 10 частых ошибок в настройке NGINX https://habr.com/ru/companies/nixys/articles/661233/
     - Как настроить Nginx в качестве балансировщика нагрузки https://habr.com/ru/companies/first/articles/683870/
     - Nginx Performance Tuning: Benchmarking and Optimization Techniques https://codedamn.com/news/backend/performance-tuning-benchmarking-optimization
     - Ускоряем Nginx за 5 минут https://habr.com/ru/articles/198982/
