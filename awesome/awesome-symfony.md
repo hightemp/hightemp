@@ -157,6 +157,8 @@
     - Symfony 5 - Upload a file https://weenesta.com/en/blog/post/symfony-5-upload-file
   - HasLifecycleCallbacks
     - How to Work with Lifecycle Callbacks https://symfony.com/doc/2.x/doctrine/lifecycle_callbacks.html
+  - Cache; Кэш
+    - Maximizing Performance - Advanced Caching Techniques in Symfony for Optimal Web Applications https://moldstud.com/articles/p-maximizing-performance-advanced-caching-techniques-in-symfony-for-optimal-web-applications
   - БД
     - Doctrine
       - Основное
