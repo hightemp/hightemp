@@ -1229,6 +1229,7 @@ https://arxiv.org/pdf/2411.08804v1
         - Краткий курс машинного обучения или как создать нейронную сеть для решения скоринг задачи https://habr.com/ru/articles/340792/
     - Введение в Machine Learning
         - Вкатываемся в Machine Learning с нуля за ноль рублей: что, где, в какой последовательности изучить https://habr.com/ru/articles/774844/
+        - Как стать разработчиком ML и нейронок https://habr.com/ru/companies/slsoft/articles/832176/
     - Введение в LLM
         - Large language models, explained with a minimum of math and jargon https://seantrott.substack.com/p/large-language-models-explained
 
