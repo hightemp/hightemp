@@ -203,6 +203,7 @@
 - Observability
     - Observability 101: A Beginner's Journey Free of Print Statements https://cloudnativeengineer.substack.com/p/observability-101-free-of-print-statements
     - Для чего нужен Observability Engineering https://habr.com/ru/companies/slurm/articles/713196/
+    - Observability vs Monitoring: почему в 2025 году это две стороны одной медали https://habr.com/ru/companies/monq/articles/878278/
 - Безопасность
     - Повышаем безопасность контейнеров Docker https://habr.com/ru/companies/slurm/articles/320552/
 - Подборки
