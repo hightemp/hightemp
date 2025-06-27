@@ -1216,8 +1216,11 @@
       - Maintaining Healthy TCP Connections in Golang https://bencane.com/keeping-tcp-connections-alive-in-golang-801a78b7cf1
     - Остальное
       - Talk about Go: Network programming — TCP Connection Management https://medium.com/nerd-for-tech/talk-about-go-network-programming-tcp-connection-management-f7630a526e17
-  - SO_REUSEPORT
-    - Socket Options & Go: Multiple Listeners, One Port https://bencane.com/socket-options-go-multiple-listeners-one-port-7e5257044bb1
+  - Переиспользование порта
+    - cmux
+      - Golang: Run multiple services on one port https://hypermode.com/blog/cmux
+    - SO_REUSEPORT
+      - Socket Options & Go: Multiple Listeners, One Port https://bencane.com/socket-options-go-multiple-listeners-one-port-7e5257044bb1
   - Middleware
     - Middleware на уровне сетевого стэка в Go https://habr.com/ru/companies/otus/articles/857070/
   - netpoll
