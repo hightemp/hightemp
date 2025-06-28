@@ -250,6 +250,7 @@
 - https://kuzevanov.ru/
 - https://trainwithshubham.blog/blogs/
 - https://vsupalov.com/
+- https://iximiuz.com/en/
 
 ### Видео
 
