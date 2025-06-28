@@ -2148,6 +2148,9 @@
     - dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture https://www.youtube.com/watch?v=vKbVrsMnhDc
   - Dependency Injection
     - Dependency Injection на примере Uber fx | Эйч Навыки https://www.youtube.com/watch?v=KRdrH9a98HQ&t=1s
+  - Патерны
+    - Go concurrency patterns
+      - Master Go Programming With These Concurrency Patterns (in 40 minutes) https://www.youtube.com/watch?v=qyM8Pi1KiiM
 - PostgreSQL
   - Работа в Go с PostgreSQL | Golang https://www.youtube.com/watch?v=Wi0UwT9O81o
 - SSE
