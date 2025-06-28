@@ -2151,6 +2151,7 @@
   - Патерны
     - Go concurrency patterns
       - Master Go Programming With These Concurrency Patterns (in 40 minutes) https://www.youtube.com/watch?v=qyM8Pi1KiiM
+      - Master Go Programming With These Concurrency Patterns | Part 2 (in 40 minutes) https://www.youtube.com/watch?v=wELNUHb3kuA
 - PostgreSQL
   - Работа в Go с PostgreSQL | Golang https://www.youtube.com/watch?v=Wi0UwT9O81o
 - SSE
