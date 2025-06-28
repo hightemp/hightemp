@@ -1223,6 +1223,7 @@
       - Socket Options & Go: Multiple Listeners, One Port https://bencane.com/socket-options-go-multiple-listeners-one-port-7e5257044bb1
       - Socket sharding in Linux example with Go https://douglasmakey.medium.com/socket-sharding-in-linux-example-with-go-b0514d6b5d08
       - Go sets up socket port multiplexing https://www.sobyte.net/post/2022-01/reuse-port/
+      - Socket sharding in Linux example with Go https://dev.to/douglasmakey/socket-sharding-in-linux-example-with-go-4mi7
   - Middleware
     - Middleware на уровне сетевого стэка в Go https://habr.com/ru/companies/otus/articles/857070/
   - netpoll
