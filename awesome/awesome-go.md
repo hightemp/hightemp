@@ -1224,6 +1224,7 @@
       - Socket sharding in Linux example with Go https://douglasmakey.medium.com/socket-sharding-in-linux-example-with-go-b0514d6b5d08
       - Go sets up socket port multiplexing https://www.sobyte.net/post/2022-01/reuse-port/
       - Socket sharding in Linux example with Go https://dev.to/douglasmakey/socket-sharding-in-linux-example-with-go-4mi7
+      - Go 设置 socket 端口复用 https://luyuhuang.tech/2021/01/24/reuse-port.html
   - Middleware
     - Middleware на уровне сетевого стэка в Go https://habr.com/ru/companies/otus/articles/857070/
   - netpoll
