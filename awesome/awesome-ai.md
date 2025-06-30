@@ -221,6 +221,7 @@
 
 ### ai боты для разработки
 
+- https://www.rocket.new/
 - https://v0.dev/
 - https://replit.com/
 - https://bolt.new
