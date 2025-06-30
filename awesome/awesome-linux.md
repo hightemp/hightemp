@@ -252,6 +252,9 @@
             - DNS
                 - Как работает DNS в Linux. Часть 1: от getaddrinfo до resolv.conf https://habr.com/ru/companies/k2tech/articles/919194/
                 - Anatomy of a Linux DNS Lookup – Part I https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
+                - Anatomy of a Linux DNS Lookup – Part II https://zwischenzugs.com/2018/06/18/anatomy-of-a-linux-dns-lookup-part-ii/
+                - Anatomy of a Linux DNS Lookup – Part III https://zwischenzugs.com/2018/07/06/anatomy-of-a-linux-dns-lookup-part-iii/
+                - Anatomy of a Linux DNS Lookup – Part IV https://zwischenzugs.com/2018/08/06/anatomy-of-a-linux-dns-lookup-part-iv/
         - Высокопроизводительные (High-Performance)
             - BPF; eBPF (Extended Berkeley Packet Filter)
                 - BPF для самых маленьких, часть нулевая: classic BPF https://habr.com/ru/articles/493880/
