@@ -785,6 +785,8 @@
       - Option Types with go generate https://markphelps.me/posts/option-types-with-go-generate/
       - Go Client Code Generation from Swagger and OpenAPI https://medium.com/@kyodo-tech/go-client-code-generation-from-swagger-and-openapi-a0576831836c
   - GODEBUG
+    - Основное
+      - Using GODEBUG Environment Variable https://go-cookbook.com/snippets/debugging/using-godebug-environment-vatiable
     - GODEBUG=netdns=1
       - Golang DNS Resolving https://revs.runtime-revolution.com/golang-dns-resolving-a56ed59981fe
   - CGO
