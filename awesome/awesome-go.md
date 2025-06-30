@@ -1251,6 +1251,7 @@
     - Остальное
   - DNS
     - Building a DNS Resolver in Golang: A Step-by-Step Guide https://harshagarwal29.hashnode.dev/building-a-dns-resolver-in-golang-a-step-by-step-guide
+    - Как в восемь раз уменьшить количество DNS-запросов в Go https://habr.com/ru/companies/ozontech/articles/570936/
   - WebSockets
     - Implementing WebSockets in Golang: Real-Time Communication for Modern Applications https://medium.com/wisemonks/implementing-websockets-in-golang-d3e8e219733b
     - How to implement instant messaging with WebSockets in Go https://yalantis.com/blog/how-to-build-websockets-in-go/
