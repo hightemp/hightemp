@@ -625,6 +625,7 @@
       - io.Pipe
         - Understanding io.Pipe in Go: Streamline Your Data Flow https://www.codingexplorations.com/blog/understanding-io-pipe-go
         - Пакет io в Golang, функция Pipe https://golang-blog.blogspot.com/2020/07/package-io-in-golang-pipe.html
+        - Examples For Using io.Pipe in Go https://luckymrwang.github.io/2020/12/17/Examples-For-Using-io-Pipe-in-Go/
       - io.Reader
         - How to use the io.Reader interface https://yourbasic.org/golang/io-reader-interface-explained/
     - fmt
