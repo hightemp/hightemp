@@ -624,6 +624,7 @@
         - Go I/O Closer, Seeker, WriterTo, and ReaderFrom https://victoriametrics.com/blog/go-io-closer-seeker-readfrom-writeto/
       - io.Pipe
         - Understanding io.Pipe in Go: Streamline Your Data Flow https://www.codingexplorations.com/blog/understanding-io-pipe-go
+        - Пакет io в Golang, функция Pipe https://golang-blog.blogspot.com/2020/07/package-io-in-golang-pipe.html
       - io.Reader
         - How to use the io.Reader interface https://yourbasic.org/golang/io-reader-interface-explained/
     - fmt
