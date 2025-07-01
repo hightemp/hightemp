@@ -4,3 +4,6 @@
 
 ### Статьи
 
+- SQLAlchemy
+- Alembic
+    - Best Practices for Alembic and SQLAlchemy https://medium.com/@pavel.loginov.dev/best-practices-for-alembic-and-sqlalchemy-73e4c8a6c205
