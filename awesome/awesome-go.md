@@ -1146,6 +1146,8 @@
       - PostgreSQL Connection Pooling: Наш опыт и с чем его едят https://habr.com/ru/companies/hikasami/articles/884820/
     - Оптимизация
       - Оптимизация работы с PostgreSQL в Go: от 50 до 5000 RPS https://habr.com/ru/companies/avito/articles/525294/
+    - pgx; CopyFrom
+      - Performing Bulk Insert Using pgx and CopyFrom https://blog.devgenius.io/performing-bulk-insert-using-pgx-and-copyfrom-ce34c8b12bac
     - Остальное
       - Бесполезная статья. SimpleProtocol vs BinaryParameters https://habr.com/ru/articles/913754/
       - Приключения одного бага или как починить pgx чужими руками https://habr.com/ru/companies/avito/articles/519610/

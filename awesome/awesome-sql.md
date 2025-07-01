@@ -1,3 +1,7 @@
+### Учебники
+
+- https://www.sparkcodehub.com/sql/fundamentals/introduction-to-sql
+
 ### Статьи
 
 - Common SQL
