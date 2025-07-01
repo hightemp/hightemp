@@ -622,6 +622,8 @@
         - Fundamentals of I/O in Go: Part 2 https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-part-2-e7bb68cd5608
         - Go I/O Readers, Writers, and Data in Motion https://victoriametrics.com/blog/go-io-reader-writer/
         - Go I/O Closer, Seeker, WriterTo, and ReaderFrom https://victoriametrics.com/blog/go-io-closer-seeker-readfrom-writeto/
+      - io.TeeReader
+        - Understanding io.TeeReader https://mustafanafizdurukan.github.io/posts/understanding-io-teereader/
       - io.Pipe
         - Understanding io.Pipe in Go: Streamline Your Data Flow https://www.codingexplorations.com/blog/understanding-io-pipe-go
         - Пакет io в Golang, функция Pipe https://golang-blog.blogspot.com/2020/07/package-io-in-golang-pipe.html
