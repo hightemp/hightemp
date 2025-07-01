@@ -255,6 +255,7 @@
                 - Anatomy of a Linux DNS Lookup – Part II https://zwischenzugs.com/2018/06/18/anatomy-of-a-linux-dns-lookup-part-ii/
                 - Anatomy of a Linux DNS Lookup – Part III https://zwischenzugs.com/2018/07/06/anatomy-of-a-linux-dns-lookup-part-iii/
                 - Anatomy of a Linux DNS Lookup – Part IV https://zwischenzugs.com/2018/08/06/anatomy-of-a-linux-dns-lookup-part-iv/
+                - Tracing Linux Hostname Resolution https://www.kickflop.net/blog/2011/01/02/tracing-linux-hostname-resolution/
         - Высокопроизводительные (High-Performance)
             - BPF; eBPF (Extended Berkeley Packet Filter)
                 - BPF для самых маленьких, часть нулевая: classic BPF https://habr.com/ru/articles/493880/
