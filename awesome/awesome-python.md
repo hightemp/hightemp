@@ -8,6 +8,7 @@
 - Alembic
     - Основное
         - Создаем начальную миграцию с alembic для существующей базы https://habr.com/ru/articles/585228/
+        - SQLAlchemy + Alembic - Как делать Миграции Базы Данных на Python #11 https://dzen.ru/a/Zk8n6u9EfT1zJIIE
     - Остальное
         - Zero-downtime Upgrades With Alembic and SQLAlchemy https://that.guru/blog/zero-downtime-upgrades-with-alembic-and-sqlalchemy/
         - Effortless Database Migrations: Why Alembic is Your Python Must-Have https://dev.to/vivekthedev/effortless-database-migrations-why-alembic-is-your-python-must-have-2f0n
