@@ -624,6 +624,7 @@
         - Go I/O Closer, Seeker, WriterTo, and ReaderFrom https://victoriametrics.com/blog/go-io-closer-seeker-readfrom-writeto/
       - io.TeeReader
         - Understanding io.TeeReader https://mustafanafizdurukan.github.io/posts/understanding-io-teereader/
+        - How to Utilize io.TeeReader in Golang https://medium.com/@nicksoetaert/how-to-utilize-io-teereader-in-golang-7ffdea1a602b
       - io.Pipe
         - Understanding io.Pipe in Go: Streamline Your Data Flow https://www.codingexplorations.com/blog/understanding-io-pipe-go
         - Пакет io в Golang, функция Pipe https://golang-blog.blogspot.com/2020/07/package-io-in-golang-pipe.html
