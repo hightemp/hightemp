@@ -1147,7 +1147,7 @@
     - Оптимизация
       - Оптимизация работы с PostgreSQL в Go: от 50 до 5000 RPS https://habr.com/ru/companies/avito/articles/525294/
     - pgx
-      - CopyFrom
+      - CopyFrom; COPY protocol
         - Performing Bulk Insert Using pgx and CopyFrom https://blog.devgenius.io/performing-bulk-insert-using-pgx-and-copyfrom-ce34c8b12bac
     - Остальное
       - Бесполезная статья. SimpleProtocol vs BinaryParameters https://habr.com/ru/articles/913754/
