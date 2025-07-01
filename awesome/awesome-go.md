@@ -623,6 +623,7 @@
         - Go I/O Readers, Writers, and Data in Motion https://victoriametrics.com/blog/go-io-reader-writer/
         - Go I/O Closer, Seeker, WriterTo, and ReaderFrom https://victoriametrics.com/blog/go-io-closer-seeker-readfrom-writeto/
       - io.TeeReader
+         T-shaped Pipelines in Go - io.TeeReader and io.MultiWriter The Influence of Plumbing on Programming https://iximiuz.com/en/posts/go-io-tee-reader-and-multi-writer/
         - Understanding io.TeeReader https://mustafanafizdurukan.github.io/posts/understanding-io-teereader/
         - How to Utilize io.TeeReader in Golang https://medium.com/@nicksoetaert/how-to-utilize-io-teereader-in-golang-7ffdea1a602b
       - io.Pipe
