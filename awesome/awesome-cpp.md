@@ -310,6 +310,9 @@
   - Основное
   - Остальное
     - Some notes on Sockets programming https://cybersect.substack.com/p/some-notes-on-sockets-programming
+- Ввод/Вывод (I/O)
+  - Остальное
+    - Select, poll and EINTR https://www.hardening-consulting.com/en/posts/20210322-select-poll-and-eintr.html
 - Профилирование, Profiling
   - gperftools
     - Profiling with gperftools https://wiki.geany.org/howtos/profiling/gperftools
