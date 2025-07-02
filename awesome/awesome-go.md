@@ -620,6 +620,7 @@
     - io
       - Основное
         - Разбираемся в Go: пакет io https://habr.com/ru/articles/306914/
+        - Go Walkthrough: io package https://medium.com/go-walkthrough/go-walkthrough-io-package-8ac5e95a9fbd#.8dnmizt1f
         - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
         - Fundamentals of I/O in Go: Part 2 https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-part-2-e7bb68cd5608
         - Go I/O Readers, Writers, and Data in Motion https://victoriametrics.com/blog/go-io-reader-writer/
