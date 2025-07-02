@@ -626,6 +626,7 @@
          T-shaped Pipelines in Go - io.TeeReader and io.MultiWriter The Influence of Plumbing on Programming https://iximiuz.com/en/posts/go-io-tee-reader-and-multi-writer/
         - Understanding io.TeeReader https://mustafanafizdurukan.github.io/posts/understanding-io-teereader/
         - How to Utilize io.TeeReader in Golang https://medium.com/@nicksoetaert/how-to-utilize-io-teereader-in-golang-7ffdea1a602b
+        - A silly mistake that I made with io.TeeReader https://vishnubharathi.codes/blog/a-silly-mistake-that-i-made-with-io.teereader/
       - io.Pipe
         - Understanding io.Pipe in Go: Streamline Your Data Flow https://www.codingexplorations.com/blog/understanding-io-pipe-go
         - Пакет io в Golang, функция Pipe https://golang-blog.blogspot.com/2020/07/package-io-in-golang-pipe.html
@@ -2087,6 +2088,7 @@
 - https://swatimodi.com/tags/golang/
 - https://www.codereliant.io/
 - https://thegolangblueprint.substack.com/
+- https://vishnubharathi.codes/tags/go/
 
 ### Подкасты
 
