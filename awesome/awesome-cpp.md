@@ -110,6 +110,7 @@
 - https://nimrod.blog/
 - https://maskray.me/blog/tags/clang/
 - https://preshing.com/
+- https://herbsutter.com/
 
 ### Статьи
 
