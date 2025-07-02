@@ -72,6 +72,10 @@
 - https://ravesli.com/uroki-cpp/
 - https://cpp-kt.github.io/cpp-notes/
 
+### Гайды
+
+- https://www.gnu.org/software/libc/manual/html_node/index.html
+
 ### Telegram каналы
 
 - C++ and other lectures https://t.me/cpp_lects_rus
