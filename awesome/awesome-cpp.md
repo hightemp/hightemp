@@ -74,7 +74,7 @@
 
 ### Гайды
 
-- https://www.gnu.org/software/libc/manual/html_node/index.html
+- Библиотека GNU C https://www.gnu.org/software/libc/manual/html_node/index.html
 
 ### Telegram каналы
 
