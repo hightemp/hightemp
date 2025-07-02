@@ -638,6 +638,7 @@
         - How to use the io.Reader interface https://yourbasic.org/golang/io-reader-interface-explained/
     - fmt
       - Основное
+        - Go Walkthrough: fmt https://medium.com/go-walkthrough/go-walkthrough-fmt-55a14bbbfc53
         - The Power of Format Specifiers in Golang https://medium.com/@sahaidachnyi/format-specifiers-in-golang-d7f8d4fe88b8
         - Mastering Text Formatting and Output with Go's fmt Package https://www.codingexplorations.com/blog/mastering-text-formatting-and-output-with-gos-fmt-package
         - Mastering String formatting in Go https://www.bytesizego.com/blog/golang-format-string
