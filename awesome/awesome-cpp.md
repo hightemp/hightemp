@@ -279,6 +279,8 @@
 - Курс по разработке 64-битных приложений на языке C и C++
   - Урок 13. Паттерн 5. Адресная арифметика https://pvs-studio.ru/ru/blog/lessons/0013/
 - Linux
+  - Signals; Сигналы
+    - Сигналы https://ejudge.ru/study/3sem/sem13.pdf
   - epoll
     - Concurrent HTTP Server with Epoll https://kaleid-liner.github.io/blog/2019/06/02/epoll-web-server.html
     - Illuminating synchronization edges for ThreadSanitizer https://nullprogram.com/blog/2022/10/03/
