@@ -1821,6 +1821,7 @@
   - Getting started with Go and React - API Routes https://mpolinowski.github.io/docs/Development/Go/2021-09-22--golang-react-starter-part-ii/2021-09-22
   - Getting started with Go and React - PostgreSQL https://mpolinowski.github.io/docs/Development/Go/2021-09-23--golang-react-starter-part-iii/2021-09-23
   - Getting started with Go and React - React & REST API's https://mpolinowski.github.io/docs/Development/Go/2021-09-24--golang-react-starter-part-iv/2021-09-24
+  - Baking a React App into a Go server https://vishnubharathi.codes/blog/baking-a-react-app-into-a-go-server/
 - Live reloading
   - Live Reloading in Go https://hovanhoa.hashnode.dev/live-reloading-in-go
 - Алгоритмы
