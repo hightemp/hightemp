@@ -10,6 +10,7 @@
 ### Статьи
 
 - SQLAlchemy
+    - Асинхронный SQLAlchemy 2: простой пошаговый гайд по настройке, моделям, связям и миграциям с использованием Alembic https://habr.com/ru/companies/amvera/articles/849836/
 - Alembic
     - Основное
         - Создаем начальную миграцию с alembic для существующей базы https://habr.com/ru/articles/585228/
