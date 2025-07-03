@@ -19,6 +19,7 @@
         - Пишем и тестируем миграции БД с Alembic. Доклад Яндекса https://habr.com/ru/companies/yandex/articles/511892/
         - Alembic migrations https://blog.volodichev.com/alembic
         - Миграции http://bobrobotirk.ru/books/python/page/migracii
+        - Cheat sheet of 'Alembic' commands https://dev.to/atifwattoo/cheat-sheet-of-alembic-commands-1b9i
     - Лучшие практики; Best Practices
         - Best Practices for Alembic Schema Migration https://www.pingcap.com/article/best-practices-alembic-schema-migration/
         - Best Practices for Alembic and SQLAlchemy https://medium.com/@pavel.loginov.dev/best-practices-for-alembic-and-sqlalchemy-73e4c8a6c205
