@@ -1473,7 +1473,6 @@
     - Practical SOLID in Golang: Liskov Substitution Principle https://www.ompluscator.com/article/golang/practical-solid-liskov-substitution
     - Practical SOLID in Golang: Interface Segregation Principle https://www.ompluscator.com/article/golang/practical-solid-interface-segregation/
     - Practical SOLID in Golang: Dependency Inversion Principle https://www.ompluscator.com/article/golang/practical-solid-dependency-inversion
-    - OCP из SOLID https://habr.com/ru/articles/917048/
   - DDD
     - Domain Driven Design в Go – это почти не больно https://habr.com/ru/companies/oleg-bunin/articles/791420/
     - Refactoring Application Services with DDD in Golang https://medium.com/@parserdigital/refactoring-application-services-with-ddd-in-golang-a0b6d37ac70e
