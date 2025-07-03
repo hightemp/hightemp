@@ -1682,6 +1682,7 @@
     - Demystifying OTPs: the logic behind the offline generation of tokens https://itnext.io/demystifying-otps-the-logic-behind-the-offline-generation-of-tokens-baefca7aa0d0
 - Тестирование
   - Основное
+    - Go-тесты: путь к надежному коду https://habr.com/ru/articles/916464/
     - Testing in Go: First Principles https://ieftimov.com/posts/testing-in-go-first-principles/
     - Testing in Go: Stop Leaking Files https://ieftimov.com/posts/testing-in-go-stop-leaking-files/
     - Testing in Go: Fixtures https://ieftimov.com/posts/testing-in-go-fixtures/
