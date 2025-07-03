@@ -797,6 +797,8 @@
       - A comprehensive guide to go generate https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate
       - Option Types with go generate https://markphelps.me/posts/option-types-with-go-generate/
       - Go Client Code Generation from Swagger and OpenAPI https://medium.com/@kyodo-tech/go-client-code-generation-from-swagger-and-openapi-a0576831836c
+  - GOEXPERIMENT
+    - Go synctest: Решение проблемы нестабильных тестов https://habr.com/ru/articles/916510/
   - GODEBUG
     - Основное
       - Using GODEBUG Environment Variable https://go-cookbook.com/snippets/debugging/using-godebug-environment-vatiable
