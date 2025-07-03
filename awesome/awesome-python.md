@@ -18,6 +18,7 @@
         - SQLAlchemy + Alembic - Как делать Миграции Базы Данных на Python #11 https://dzen.ru/a/Zk8n6u9EfT1zJIIE
         - Пишем и тестируем миграции БД с Alembic. Доклад Яндекса https://habr.com/ru/companies/yandex/articles/511892/
         - Alembic migrations https://blog.volodichev.com/alembic
+        - Миграции http://bobrobotirk.ru/books/python/page/migracii
     - Остальное
         - #16 Миграции базы данных с помощью Alembic https://pythonru.com/uroki/16-migracii-bazy-dannyh-s-pomoshhju-alembic
         - Simplify Database Migrations and Management using Python with SQLAlchemy and Alembic https://www.kubeblogs.com/build-databases-with-sqlalchemy-and-alembic/
