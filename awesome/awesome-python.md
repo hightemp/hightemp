@@ -19,6 +19,9 @@
         - Пишем и тестируем миграции БД с Alembic. Доклад Яндекса https://habr.com/ru/companies/yandex/articles/511892/
         - Alembic migrations https://blog.volodichev.com/alembic
         - Миграции http://bobrobotirk.ru/books/python/page/migracii
+    - Лучшие практики; Best Practices
+        - Best Practices for Alembic Schema Migration https://www.pingcap.com/article/best-practices-alembic-schema-migration/
+        - Best Practices for Alembic and SQLAlchemy https://medium.com/@pavel.loginov.dev/best-practices-for-alembic-and-sqlalchemy-73e4c8a6c205
     - Остальное
         - #16 Миграции базы данных с помощью Alembic https://pythonru.com/uroki/16-migracii-bazy-dannyh-s-pomoshhju-alembic
         - Simplify Database Migrations and Management using Python with SQLAlchemy and Alembic https://www.kubeblogs.com/build-databases-with-sqlalchemy-and-alembic/
@@ -26,4 +29,3 @@
         - Zero-downtime Upgrades With Alembic and SQLAlchemy https://that.guru/blog/zero-downtime-upgrades-with-alembic-and-sqlalchemy/
         - Effortless Database Migrations: Why Alembic is Your Python Must-Have https://dev.to/vivekthedev/effortless-database-migrations-why-alembic-is-your-python-must-have-2f0n
         - \[Tips\] How to Make Alembic Migration History Reading Easier https://fresult.medium.com/how-to-make-alembic-migration-history-reading-is-easier-ca7f15cd0636
-        - Best Practices for Alembic and SQLAlchemy https://medium.com/@pavel.loginov.dev/best-practices-for-alembic-and-sqlalchemy-73e4c8a6c205
