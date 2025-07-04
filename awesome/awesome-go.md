@@ -2101,6 +2101,7 @@
 - https://www.codereliant.io/
 - https://thegolangblueprint.substack.com/
 - https://vishnubharathi.codes/tags/go/
+- https://laradrom.ru/category/languages/golang/
 
 ### Подкасты
 
