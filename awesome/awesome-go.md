@@ -897,6 +897,7 @@
     - Benchmark — тесты в Go https://habr.com/ru/articles/875476/
     - How Go Benchmark Actually Works https://substack.com/home/post/p-138797261
   - Swiss Table
+    - Faster Go maps with Swiss Tables https://go.dev/blog/swisstable
     - SwissTable: A High-Performance Hash Table Implementation https://dev.to/huizhou92/swisstable-a-high-performance-hash-table-implementation-1knc
     - SwissMap: A smaller, faster Golang Hash Table https://www.dolthub.com/blog/2023-03-28-swiss-map/
     - Go 1.24 — swiss tables новая реализация map https://habr.com/ru/articles/890570/
