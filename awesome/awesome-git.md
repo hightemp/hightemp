@@ -17,5 +17,6 @@
     - git bisect: путешествие по времени и багам https://habr.com/ru/articles/591447/
 - Reflog
     - Git reflog: Восстановление истории коммитов https://icoder.uz/testirovanie-i-devops/ys0zwa9wafu-git-reflog-history/
+    - Using Refs And Reflogs In Git https://www.geeksforgeeks.org/git/using-refs-and-reflogs-in-git/
 - Остальное
     - Advanced Git: разбор сложных сценариев работы с репозиторием https://tproger.ru/articles/advanced-git--razbor-slozhnyh-scenariev-raboty-s-repozitoriem
