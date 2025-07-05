@@ -15,5 +15,7 @@
 - Bisect: Отладка с помощью бинарного поиска
     - Using git bisect, the detective tool for debugging https://joeattardi.dev/using-git-bisect-the-detective-tool-for-debugging
     - git bisect: путешествие по времени и багам https://habr.com/ru/articles/591447/
+- Reflog
+    - Git reflog: Восстановление истории коммитов https://icoder.uz/testirovanie-i-devops/ys0zwa9wafu-git-reflog-history/
 - Остальное
     - Advanced Git: разбор сложных сценариев работы с репозиторием https://tproger.ru/articles/advanced-git--razbor-slozhnyh-scenariev-raboty-s-repozitoriem
