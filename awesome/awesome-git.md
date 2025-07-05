@@ -20,3 +20,4 @@
     - Using Refs And Reflogs In Git https://www.geeksforgeeks.org/git/using-refs-and-reflogs-in-git/
 - Остальное
     - Advanced Git: разбор сложных сценариев работы с репозиторием https://tproger.ru/articles/advanced-git--razbor-slozhnyh-scenariev-raboty-s-repozitoriem
+    - Полезные команды Git: безопасная отмена коммитов, добавление файла из другой ветки и другие https://tproger.ru/translations/git-tips-and-tricks
