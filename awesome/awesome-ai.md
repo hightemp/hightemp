@@ -203,6 +203,7 @@
 - [https://copilot.microsoft.com/](https://copilot.microsoft.com/)
 - [https://doc.tock.ai/en/](https://doc.tock.ai/en/) (строительный разговорный бот)
 - https://aistudio.google.com/prompts/new_chat
+- https://poe.com
 - android
     - chatgpt неофиц. клиент https://github.com/skydoves/chatgpt-android/releases
 - Для учебы
