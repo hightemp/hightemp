@@ -81,6 +81,8 @@
 - How To Design and Manufacture Your Own Chip https://www.youtube.com/watch?v=caXwuuXSB-A
 - Build Your Own Drone Tracking Radar: Part 1 https://www.youtube.com/watch?v=igrN_wd_g74
 - USB HID + запуск хоть чего-то на разных микроконтроллерах • C • Live coding https://www.youtube.com/watch?v=r0vElts5pb0
+- Радар
+    - This ESP32 Antenna Array Can See WiFi https://youtu.be/sXwDrcd1t-E?si=wPvPbj_oQYgwunHB
 
 ### Компоненты
 
