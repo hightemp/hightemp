@@ -12,5 +12,6 @@
     - Git Rebase vs. Merge: Which to Use? https://builtin.com/software-engineering-perspectives/git-rebase-vs-merge
 - cherry pick
     - Git cherry pick https://www.atlassian.com/git/tutorials/cherry-pick
-- Git Bisect: Отладка с помощью бинарного поиска
+- Bisect: Отладка с помощью бинарного поиска
     - Using git bisect, the detective tool for debugging https://joeattardi.dev/using-git-bisect-the-detective-tool-for-debugging
+    - git bisect: путешествие по времени и багам https://habr.com/ru/articles/591447/
