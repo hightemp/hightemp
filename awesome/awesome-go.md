@@ -934,6 +934,9 @@
     - The Go scheduler https://morsmachine.dk/go-scheduler
   - Memory management
     - Go To Memory https://habr.com/ru/companies/oleg-bunin/articles/676332/
+  - Escape Analysis
+    - Understanding Escape Analysis in Golang https://thomasnguyen.hashnode.dev/understanding-escape-analysis-in-golang
+    - Understanding Escape Analysis in Go https://dzone.com/articles/understanding-escape-analysis-in-go
   - Конкурентность; Многопоточность
     - Разбираем конкурентность в Go: книги, блоги, выступления https://habr.com/ru/companies/yadro/articles/892632/
     - Секреты дедлоков в Go https://habr.com/ru/companies/ozonbank/articles/908978/
