@@ -847,6 +847,8 @@
     - Green Tea
       - Green tea makes your life easier (if you're a garbage collector) https://appliedgo.net/spotlight/green-tea-garbage-collector/
       - Green Tea 🍵 Garbage Collector https://github.com/golang/go/issues/73581
+    - Остальное
+      - How To Perform Memory Optimization and Garbage Collector Management in Go? (with code example) https://dev.to/nikl/how-to-perform-memory-optimization-and-garbage-collector-management-in-go-1j7
   - Go Race detector
     - Data Race Detector https://go.dev/doc/articles/race_detector
   - Go Assembly
