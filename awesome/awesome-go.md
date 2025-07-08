@@ -517,6 +517,8 @@
   - Тэги, Tags
     - Struct Tags in Go: Implementing Custom Tag Functionality https://medium.com/@ullauri.byron/struct-tags-in-go-implementing-custom-tag-functionality-b32c3c87423d
     - Структурные теги в golang http://xztvc.ru/post/strukturnye-tegi-v-golang
+  - function variables; Функциональные переменные
+    - What is a Go function variable? https://philpearl.github.io/post/functionpointers/
   - init
     - \[Memo\] Go init behavior https://articles.singee.me/go-init-behaviour
     - Understanding Init Function in Go With Examples https://linuxhandbook.com/go-init-function/
