@@ -834,13 +834,16 @@
   - Go Linker
     - Building a better Go linker https://docs.google.com/document/d/1D13QhciikbdLtaI67U6Ble5d_1nsI4befEd6_k1z91U/edit?tab=t.0#heading=h.g4m43nddv64t
   - Go GC; Garbage Collector
-    - GC в Go: приоритет на скорость и простоту https://habr.com/ru/articles/265833/
-    - Garbage Collection In Go : Part I - Semantics https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
-    - Garbage Collection In Go : Part II - GC Traces https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
-    - Garbage Collection In Go : Part III - GC Pacing https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html
-    - Garbage Collection https://github.com/ardanlabs/gotraining/tree/master/reading#garbage-collection
-    - GC Pacer Redesign https://github.com/golang/proposal/blob/master/design/44167-gc-pacer-redesign.md
-    - A Guide to the Go Garbage Collector https://go.dev/doc/gc-guide
+    - Основное
+      - GC в Go: приоритет на скорость и простоту https://habr.com/ru/articles/265833/
+      - Garbage Collection In Go : Part I - Semantics https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
+      - Garbage Collection In Go : Part II - GC Traces https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
+      - Garbage Collection In Go : Part III - GC Pacing https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html
+      - Garbage Collection https://github.com/ardanlabs/gotraining/tree/master/reading#garbage-collection
+      - GC Pacer Redesign https://github.com/golang/proposal/blob/master/design/44167-gc-pacer-redesign.md
+      - A Guide to the Go Garbage Collector https://go.dev/doc/gc-guide
+    - Green Tea
+      - Green tea makes your life easier (if you're a garbage collector) https://appliedgo.net/spotlight/green-tea-garbage-collector/
   - Go Race detector
     - Data Race Detector https://go.dev/doc/articles/race_detector
   - Go Assembly
