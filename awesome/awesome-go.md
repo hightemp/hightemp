@@ -941,6 +941,7 @@
     - Understanding Escape Analysis in Go https://dzone.com/articles/understanding-escape-analysis-in-go
     - Escape Analysis in Go: Stack vs Heap Allocation Explained https://dev.to/abstractmusa/escape-analysis-in-go-stack-vs-heap-allocation-explained-506a
     - Stack or Heap? Going Deeper with Escape Analysis in Go for Better Performance https://syntactic-sugar.dev/blog/nested-route/go-escape-analysis
+    - Concept of Escape Analysis in Go https://englyk.com/book2/Concept_of_Escape_Analysis/
   - Конкурентность; Многопоточность
     - Разбираем конкурентность в Go: книги, блоги, выступления https://habr.com/ru/companies/yadro/articles/892632/
     - Секреты дедлоков в Go https://habr.com/ru/companies/ozonbank/articles/908978/
