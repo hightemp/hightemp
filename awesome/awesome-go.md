@@ -936,6 +936,7 @@
     - The Go scheduler https://morsmachine.dk/go-scheduler
   - Memory management
     - Go To Memory https://habr.com/ru/companies/oleg-bunin/articles/676332/
+    - Stack Allocation: Understanding Stack Memory Allocation for Function Calls and Local Variables https://englyk.com/book2/Stack_Allocation/
   - Escape Analysis
     - Understanding Escape Analysis in Golang https://thomasnguyen.hashnode.dev/understanding-escape-analysis-in-golang
     - Understanding Escape Analysis in Go https://dzone.com/articles/understanding-escape-analysis-in-go
