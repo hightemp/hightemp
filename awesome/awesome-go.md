@@ -2124,6 +2124,7 @@
 - https://vishnubharathi.codes/tags/go/
 - https://laradrom.ru/category/languages/golang/
 - https://philpearl.github.io/
+- https://thomasnguyen.hashnode.dev/tag/golang?source=tags_bottom_blogs
 
 ### Подкасты
 
