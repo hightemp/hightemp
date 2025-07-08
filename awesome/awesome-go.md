@@ -717,6 +717,7 @@
         - Go Runtime Finalizer and Keep Alive https://victoriametrics.com/blog/go-runtime-finalizer-keepalive/
       - runtime.Caller
         - How to get the caller's function name, filename, and line number in a Go function https://www.sobyte.net/post/2022-06/go-func-caller/
+      - runtime.FuncForPC
     - signal
     - sys
       - sys.Prefetch
@@ -1685,6 +1686,7 @@
   - logrus
     - Integrating logrus with cobra https://le-gall.bzh/post/go/integrating-logrus-with-cobra/
   - Остальное
+    - Logging Like a Pro in Go https://godfreyowidi.medium.com/logging-like-a-pro-in-go-7a6a5bde9b54
     - Trace Log in Golang https://riad.run/trace-in-golang
     - Effective Logging in Go: Best Practices and Examples https://medium.com/novai-go-programming-101/effective-logging-in-go-best-practices-and-examples-911c31145260
 - Безопасность
