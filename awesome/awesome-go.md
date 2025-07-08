@@ -940,6 +940,7 @@
     - Stack Allocation: Understanding Stack Memory Allocation for Function Calls and Local Variables https://englyk.com/book2/Stack_Allocation/
     - Heap Allocation: How Go Manages Heap Memory for Dynamically Allocated Objects https://englyk.com/book2/Heap_Allocation/
     - Understanding Stack and Heap in Go: A Simple Guide https://dev.to/tuna99/understanding-stack-and-heap-in-go-a-simple-guide-20i
+    - Optimizing Heap Allocations in Golang: A Case Study https://www.dolthub.com/blog/2025-04-18-optimizing-heap-allocations/
   - Escape Analysis
     - Understanding Escape Analysis in Golang https://thomasnguyen.hashnode.dev/understanding-escape-analysis-in-golang
     - Understanding Escape Analysis in Go https://dzone.com/articles/understanding-escape-analysis-in-go
