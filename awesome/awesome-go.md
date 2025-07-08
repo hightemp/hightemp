@@ -402,6 +402,7 @@
   - Автор: Алекс Эдвардс
   - Ссылки:
     - https://alexedwards.gumroad.com/l/lets-go-further
+- Becoming a Senior Go Developer: Mastering Go and Its Ecosystem https://englyk.com/book2/
 
 ### Статьи
 
