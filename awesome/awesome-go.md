@@ -937,6 +937,7 @@
   - Escape Analysis
     - Understanding Escape Analysis in Golang https://thomasnguyen.hashnode.dev/understanding-escape-analysis-in-golang
     - Understanding Escape Analysis in Go https://dzone.com/articles/understanding-escape-analysis-in-go
+    - Escape Analysis in Go: Stack vs Heap Allocation Explained https://dev.to/abstractmusa/escape-analysis-in-go-stack-vs-heap-allocation-explained-506a
   - Конкурентность; Многопоточность
     - Разбираем конкурентность в Go: книги, блоги, выступления https://habr.com/ru/companies/yadro/articles/892632/
     - Секреты дедлоков в Go https://habr.com/ru/companies/ozonbank/articles/908978/
