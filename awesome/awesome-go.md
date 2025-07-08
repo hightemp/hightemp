@@ -715,6 +715,8 @@
         - Go: Keeping a Variable Alive https://medium.com/a-journey-with-go/go-keeping-a-variable-alive-c28e3633673a
       - runtime.SetFinalizer
         - Go Runtime Finalizer and Keep Alive https://victoriametrics.com/blog/go-runtime-finalizer-keepalive/
+      - runtime.Caller
+        - How to get the caller's function name, filename, and line number in a Go function https://www.sobyte.net/post/2022-06/go-func-caller/
     - signal
     - sys
       - sys.Prefetch
