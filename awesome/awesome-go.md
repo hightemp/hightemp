@@ -844,6 +844,7 @@
       - A Guide to the Go Garbage Collector https://go.dev/doc/gc-guide
     - Green Tea
       - Green tea makes your life easier (if you're a garbage collector) https://appliedgo.net/spotlight/green-tea-garbage-collector/
+      - Green Tea 🍵 Garbage Collector https://github.com/golang/go/issues/73581
   - Go Race detector
     - Data Race Detector https://go.dev/doc/articles/race_detector
   - Go Assembly
