@@ -2112,6 +2112,7 @@
 - https://thegolangblueprint.substack.com/
 - https://vishnubharathi.codes/tags/go/
 - https://laradrom.ru/category/languages/golang/
+- https://philpearl.github.io/
 
 ### Подкасты
 
