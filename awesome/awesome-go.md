@@ -842,6 +842,7 @@
       - Garbage Collection https://github.com/ardanlabs/gotraining/tree/master/reading#garbage-collection
       - GC Pacer Redesign https://github.com/golang/proposal/blob/master/design/44167-gc-pacer-redesign.md
       - A Guide to the Go Garbage Collector https://go.dev/doc/gc-guide
+      - Mark-and-Sweep: Garbage Collection Algorithm https://www.geeksforgeeks.org/java/mark-and-sweep-garbage-collection-algorithm/
     - Green Tea
       - Green tea makes your life easier (if you're a garbage collector) https://appliedgo.net/spotlight/green-tea-garbage-collector/
       - Green Tea 🍵 Garbage Collector https://github.com/golang/go/issues/73581
