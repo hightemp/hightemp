@@ -293,6 +293,7 @@
     - PHP: The Garbage Collector explained with simple words https://dev.to/spo0q/php-the-garbage-collector-explained-with-simple-words-1b7d
     - Investigating PHP garbage collection https://www.ekreative.com/blog/investigating-php-garbage-collection/
     - https://www.sitepoint.com/better-understanding-phps-garbage-collection/
+    - Collecting Garbage: PHP's take on variables https://derickrethans.nl/collecting-garbage-phps-take-on-variables.html
   - php://
     - Основное
       - php:// https://www.php.net/manual/en/wrappers.php.php
