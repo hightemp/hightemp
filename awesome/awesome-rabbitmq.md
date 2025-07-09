@@ -7,3 +7,5 @@
 - Best practicies
     - Part 2: RabbitMQ Best Practice for High Performance (High Throughput) https://www.cloudamqp.com/blog/part2-rabbitmq-best-practice-for-high-performance.html
     - Part 3: RabbitMQ Best Practice for High Availability https://www.cloudamqp.com/blog/part3-rabbitmq-best-practice-for-high-availability.html
+- Exchange types
+    - Dealing with RabbitMQ exchange types https://dev.to/larapulse/dealing-with-rabbitmq-exchange-types-44ck
