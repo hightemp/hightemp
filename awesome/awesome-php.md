@@ -361,6 +361,7 @@
 - Очереди
   - RabbitMQ
     - Ныряем в кроличью нору https://php.zone/post/rabbitmq
+    - Ныряем в кроличью нору: йинещбоос кодяроп меуритнараг https://php.zone/post/rabbitmq-scaling-ordering
 - Многопоточность, Конкурентность, Concurrency
   - pthreads
     - How to use Multithreading in php https://medium.com/@codingpanel/how-to-use-multithreading-in-php-55b4e3ad69ee
