@@ -442,6 +442,7 @@
   - PHP-CS-Fixer
     - Внедрение PHP-CS-Fixer в легаси PHP-проекты https://www.dev-notes.ru/articles/php/introducing-php-cs-fixer-into-legacy-projects/
     - Настройка PHP-CS-Fixer https://antonshell.me/post/php-cs-fixer
+    - Usage https://cs.symfony.com/doc/usage.html
 - Интсрументы
   - Rector PHP
     - Mastering Code Refactoring: A Complete Guide to Using Rector PHP https://dev.to/peter_fox/mastering-code-refactoring-a-complete-guide-to-using-rector-php-hp1?utm_source=weeklyphp&utm_medium=email
