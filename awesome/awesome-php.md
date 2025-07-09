@@ -231,6 +231,7 @@
     - Депрекации в грядущем PHP 8.2, о которых вам следует знать https://habr.com/ru/companies/otus/articles/678176/
   - Memory management
     - Understanding PHP Memory Management https://200oksolutions.com/blog/understanding-php-memory-management/
+    - Zend Memory Manager https://www.phpinternalsbook.com/php7/memory_management/zend_memory_manager.html
   - Атирбуты, Attributes
     - Attributes in PHP 8 https://php.watch/articles/php-attributes
     - PHP 8.0: Attributes https://php.watch/versions/8.0/attributes
