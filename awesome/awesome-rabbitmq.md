@@ -9,3 +9,5 @@
     - Part 3: RabbitMQ Best Practice for High Availability https://www.cloudamqp.com/blog/part3-rabbitmq-best-practice-for-high-availability.html
 - Exchange types
     - Dealing with RabbitMQ exchange types https://dev.to/larapulse/dealing-with-rabbitmq-exchange-types-44ck
+- Monitoring
+    - Introduction to RabbitMQ Monitoring and Alerting https://drdroid.io/engineering-tools/rabbitmq-monitoring-alerting-best-practices
