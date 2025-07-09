@@ -232,6 +232,7 @@
   - Memory management
     - Understanding PHP Memory Management https://200oksolutions.com/blog/understanding-php-memory-management/
     - Zend Memory Manager https://www.phpinternalsbook.com/php7/memory_management/zend_memory_manager.html
+    - Streamline Your PHP Applications: 14 Ways to Improve Memory Allocation https://wepri.net/blog/streamline-your-php-applications-14-ways-to-improve-memory-allocation
   - Атирбуты, Attributes
     - Attributes in PHP 8 https://php.watch/articles/php-attributes
     - PHP 8.0: Attributes https://php.watch/versions/8.0/attributes
