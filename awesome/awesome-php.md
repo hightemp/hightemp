@@ -229,6 +229,8 @@
     - Обзор PHP 8.2: нововведения, устаревшие функции и исправления багов https://zomro.com/rus/blog/articles/562-php-82-preview-new-features-deprecations-and-bug-fixes
     - PHP под капотом: как работает генерация случайных чисел https://habr.com/ru/articles/896650/
     - Депрекации в грядущем PHP 8.2, о которых вам следует знать https://habr.com/ru/companies/otus/articles/678176/
+  - Memory management
+    - Understanding PHP Memory Management https://200oksolutions.com/blog/understanding-php-memory-management/
   - Атирбуты, Attributes
     - Attributes in PHP 8 https://php.watch/articles/php-attributes
     - PHP 8.0: Attributes https://php.watch/versions/8.0/attributes
