@@ -202,6 +202,8 @@
                 - Файловые системы /dev и /proc в Linux 2.4 https://www.nixp.ru/articles/38.html
 
     - **Системные вызовы (System Calls)**
+        - Основное
+            - Linux Process and Thread Creation: System Call Architecture https://chessman7.substack.com/p/linux-process-and-thread-creation
         - eventfd
             - eventfd(2) — Linux manual page https://man7.org/linux/man-pages/man2/eventfd.2.html
         - dup
