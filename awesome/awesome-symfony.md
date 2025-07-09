@@ -249,6 +249,9 @@
 - Serialization
   - Serialize PHP objects using Symfony Serializer https://sajadtorkamani.com/serialize-php-objects-using-symfony-serializer/
   - Deserialize data into a PHP object using Symfony Serializer https://sajadtorkamani.com/deserialize-data-into-a-php-object-using-symfony-serializer/
+- Логирование
+  - Логирование изменений
+    - Логгирование изменений сущностей в Symfony 4 https://antonshell.me/post/symfony-entity-history
 - API
   - Безопасность API
     - JWT
