@@ -13,6 +13,8 @@
 - Авторизация
   - JWT
     - https://github.com/sizeg/yii2-jwt
+- Логирование изменений
+  - https://github.com/nhkey/yii2-activerecord-history
 
 ### Билиотеки
 
