@@ -375,6 +375,8 @@
 - Логирование
   - Логирование в распределенном php-приложении https://habr.com/ru/articles/456676/
 - Архитектура
+  - DI; Dependency Injection; Внедрение зависимостей
+    - Dependency Injection в мире Software Engineering https://habr.com/ru/companies/avito/articles/556924/
   - Clean architecture
     - Clean Architecture with PHP https://medium.com/unil-ci-software-engineering/clean-architecture-with-php-22de915a6c50
     - Чистая архитектура на PHP. Как её измерять и контролировать? https://habr.com/ru/articles/504590/
