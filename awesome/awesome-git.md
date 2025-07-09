@@ -21,5 +21,6 @@
 - git flow
     - GitFlow, GithubFlow, Trunk based development. Выбираем оптимальную модель ветвления https://timeweb.cloud/tutorials/microservices/kak-vybrat-optimalnuyu-model-vetvleniya
 - Остальное
+    - Ship / Show / Ask A modern branching strategy https://martinfowler.com/articles/ship-show-ask.html
     - Advanced Git: разбор сложных сценариев работы с репозиторием https://tproger.ru/articles/advanced-git--razbor-slozhnyh-scenariev-raboty-s-repozitoriem
     - Полезные команды Git: безопасная отмена коммитов, добавление файла из другой ветки и другие https://tproger.ru/translations/git-tips-and-tricks
