@@ -23,5 +23,7 @@
     - More on Using Bash's Built-in /dev/tcp File (TCP/IP) https://www.linuxjournal.com/content/more-using-bashs-built-devtcp-file-tcpip
     - Sockets In Your Shell https://who23.github.io/2020/12/03/sockets-in-your-shell.html
     - Some useful tips about /dev/tcp https://andreafortuna.org/2021/03/06/some-useful-tips-about-dev-tcp/
+- read
+    - Guide to the Linux read Command https://www.baeldung.com/linux/read-command
 - IFS
     - The Meaning of IFS in Bash Scripting https://www.baeldung.com/linux/ifs-shell-variable
