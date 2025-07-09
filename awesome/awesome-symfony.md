@@ -234,6 +234,8 @@
     - How to ensure that all the routes on my Symfony app have access control https://dev.to/theodo/how-to-ensure-that-all-the-routes-on-my-symfony-app-have-access-control-jff
   - Firewalls
     - https://symfony.ru/doc/current/reference/configuration/security.html#firewalls
+  - Bundles
+    - Best Practices for Reusable Bundles https://symfony.com/doc/current/bundles/best_practices.html
   - Остальное
     - Symfony Security Best Practices, Vulnerabilities and Attacks https://www.vaadata.com/blog/symfony-security-best-practices-vulnerabilities-and-attacks/
     - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
