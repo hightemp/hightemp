@@ -233,6 +233,7 @@
     - Understanding PHP Memory Management https://200oksolutions.com/blog/understanding-php-memory-management/
     - Zend Memory Manager https://www.phpinternalsbook.com/php7/memory_management/zend_memory_manager.html
     - Streamline Your PHP Applications: 14 Ways to Improve Memory Allocation https://wepri.net/blog/streamline-your-php-applications-14-ways-to-improve-memory-allocation
+    - PHP Memory : ZVAL, Symbols and GC https://heera.it/php-memory-zval-symbol-tables-and-garbage-collection
   - Атирбуты, Attributes
     - Attributes in PHP 8 https://php.watch/articles/php-attributes
     - PHP 8.0: Attributes https://php.watch/versions/8.0/attributes
@@ -435,11 +436,12 @@
     - Интеграция Solr с PHP https://blog.csdn.net/wizardforcel/article/details/140629198
 - CI/CD
   - PHP and Continuous Integration with Travis CI https://www.sitepoint.com/php-continuous-integration-travis-ci/
-- Rector PHP
-  - Mastering Code Refactoring: A Complete Guide to Using Rector PHP https://dev.to/peter_fox/mastering-code-refactoring-a-complete-guide-to-using-rector-php-hp1?utm_source=weeklyphp&utm_medium=email
 - PHP-VCR
   - How to use PHP-VCR to record and replay API calls in PHP https://medium.com/the-sensiolabs-tech-blog/how-to-use-php-vcr-to-record-and-replay-api-calls-in-php-cca397f9ede8
+- Quality tools
 - Интсрументы
+  - Rector PHP
+    - Mastering Code Refactoring: A Complete Guide to Using Rector PHP https://dev.to/peter_fox/mastering-code-refactoring-a-complete-guide-to-using-rector-php-hp1?utm_source=weeklyphp&utm_medium=email
   - MetaStorm
     - MetaStorm для вашего мозга https://php.dragomano.ru/meta-storm-dlya-vashego-mozga/
     - Meta Storm Plugin – еще один плагин для PHPStorm https://habr.com/ru/articles/868898/
