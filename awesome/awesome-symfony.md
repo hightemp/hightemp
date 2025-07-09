@@ -124,6 +124,7 @@
     - How to Define Commands as Services https://symfony.com/doc/current/console/commands_as_services.html
     - Правильная регистрация консольных команд Symfony в DI https://medium.com/phpyh/правильная-регистрация-консольных-команд-в-symfony-di-f7536c254926
     - Track Memory Usage and Runtime of Symfony Commands https://www.flagbit.de/blog/track-memory-usage-and-runtime-of-symfony-commands/
+    - Консольные команды в Symfony: расширенные возможности https://php.zone/symfony-course/konsolnye-komandy-v-symfony-rasshirennye-vozmozhnosti
   - Errors
     - A guide to custom error handling in Symfony https://inviqa.com/blog/guide-custom-error-handling-symfony
   - Middleware
