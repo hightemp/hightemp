@@ -439,6 +439,8 @@
 - PHP-VCR
   - How to use PHP-VCR to record and replay API calls in PHP https://medium.com/the-sensiolabs-tech-blog/how-to-use-php-vcr-to-record-and-replay-api-calls-in-php-cca397f9ede8
 - Quality tools
+  - PHP-CS-Fixer
+    - Внедрение PHP-CS-Fixer в легаси PHP-проекты https://www.dev-notes.ru/articles/php/introducing-php-cs-fixer-into-legacy-projects/
 - Интсрументы
   - Rector PHP
     - Mastering Code Refactoring: A Complete Guide to Using Rector PHP https://dev.to/peter_fox/mastering-code-refactoring-a-complete-guide-to-using-rector-php-hp1?utm_source=weeklyphp&utm_medium=email
