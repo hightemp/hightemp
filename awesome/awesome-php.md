@@ -233,6 +233,8 @@
 
 - Основы
   - Что нового
+    - 8.5
+      - Что нового в PHP 8.5Что нового в PHP 8.5 https://sergeymukhin.com/blog/chto-novogo-v-php-85
     - 8.4
       - Что нового в PHP 8.4 https://sergeymukhin.com/blog/cto-novogo-v-php-84
     - 8.2
