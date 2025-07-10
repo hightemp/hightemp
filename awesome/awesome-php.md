@@ -232,6 +232,8 @@
 ### Статьи
 
 - Основы
+  - Что нового
+
   - Основное
     - PHP 8.2: Что нового? https://wrp.ru/statii/php-8-2-chto-novogo/
     - Обзор PHP 8.2: нововведения, устаревшие функции и исправления багов https://zomro.com/rus/blog/articles/562-php-82-preview-new-features-deprecations-and-bug-fixes
@@ -281,6 +283,8 @@
     - Manipulating Strings with PHP: A Comprehensive Guide https://medium.com/@tejeswar_79802/manipulating-strings-with-php-ca5b7cebc50e
   - enum
     - PHP 8.1: Enums (Перечисления) https://sergeymukhin.com/blog/php-81-enums-perecisleniya
+  - request_parse_body
+    - PHP 8.4: Новая функция request_parse_body https://sergeymukhin.com/blog/php-84-novaia-funkciia-request-parse-body
   - Генераторы; Generators
     - Действительно ли генераторы помогают экономить память? https://habr.com/ru/articles/599113/
     - Генераторы в действии https://habr.com/ru/articles/189796/
