@@ -129,6 +129,8 @@
     - A guide to custom error handling in Symfony https://inviqa.com/blog/guide-custom-error-handling-symfony
   - Middleware
     - Create a Request ID handler for Symfony with Messenger support https://www.dylan-ballandras.fr/blog/symfony-request-id-handler
+  - Workflow
+    - Dynamic workflows with the Symfony Workflow Component https://joppe.dev/2024/10/11/dynamic-workflows-with-symfony-workflow-component/
   - Events
     - Events and Event Listeners https://symfony.com/doc/current/event_dispatcher.html
     - Built-in Symfony Events https://symfony.com/doc/current/reference/events.html
