@@ -227,6 +227,7 @@
 - https://lukasrotermund.de/tags/php/
 - https://www.npopov.com/
 - https://hive.blog/@crell
+- https://sergeymukhin.com/blog/categoriya/php
 
 ### Статьи
 
