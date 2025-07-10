@@ -164,6 +164,10 @@
 
 - https://chromewebstore.google.com/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc
 
+### Roadmap
+
+- https://sergeymukhin.com/blog/roadmap-php
+
 ### Книги
 
 - Clean Code PHP https://github.com/piotrplenik/clean-code-php
