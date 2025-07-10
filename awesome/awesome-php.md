@@ -298,6 +298,7 @@
   - Property hooks
     - PHP 8.4 Property Hooks: Can we get rid of getters/setters now? A benchmark. https://tideways.com/profiler/blog/php-8-4-property-hooks-can-we-get-rid-of-getters-setters-now-a-benchmark
     - Property hooks in Practice https://hive.blog/hive-168588/@crell/property-hooks-in-practice
+    - https://sergeymukhin.com/blog/php-84-property-hooks
   - Garbage collector; Сборщик мусора
     - What Is Garbage Collection in PHP And How Do You Make The Most Of It? https://tideways.com/profiler/blog/what-is-garbage-collection-in-php-and-how-do-you-make-the-most-of-it
     - How to optimize the PHP garbage collector usage to improve memory and performance? https://tideways.com/profiler/blog/how-to-optimize-the-php-garbage-collector-usage-to-improve-memory-and-performance
@@ -481,6 +482,7 @@
 ### Видео
 
 - PHPKonf 2021 - Larry Garfield: Never* use arrays https://www.youtube.com/watch?v=nNtulOOZ0GY
+- Let's talk about property hooks! https://www.youtube.com/watch?v=ULUrhIrjyAg
 
 ### Презентации
 
