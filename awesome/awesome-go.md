@@ -1040,6 +1040,7 @@
     - Go Package CI/CD with GitHub Actions https://forcepush.tech/go-package-ci-cd-with-git-hub-actions
     - Build Go projects with Github Actions https://sosedoff.com/2019/02/12/go-github-actions.html
   - Остальное
+    - BASS: CI, воспроизводимые сборки и пакетный менеджер https://habr.com/ru/articles/925292/
     - Golang deploy https://gist.github.com/night-codes/10c09f06ad78ae401c69
     - Building Minimal Docker Containers for Go Applications https://www.cloudbees.com/blog/building-minimal-docker-containers-for-go-applications
     - A Makefile based CI/CD chain for Go https://le-gall.bzh/post/makefile-based-ci-chain-for-go/
