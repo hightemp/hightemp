@@ -130,6 +130,7 @@
   - Middleware
     - Create a Request ID handler for Symfony with Messenger support https://www.dylan-ballandras.fr/blog/symfony-request-id-handler
   - Workflow
+    - The Workflow Component https://symfony.com/doc/current/components/workflow.html
     - Dynamic workflows with the Symfony Workflow Component https://joppe.dev/2024/10/11/dynamic-workflows-with-symfony-workflow-component/
   - Events
     - Events and Event Listeners https://symfony.com/doc/current/event_dispatcher.html
