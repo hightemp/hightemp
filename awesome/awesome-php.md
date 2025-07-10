@@ -107,6 +107,7 @@
   - Money PHP - это PHP-библиотека для безопасной работы с денежными значениями, которая использует строковый тип данных вместо float для точных вычислений и предотвращения ошибок округления при финансовых операциях. https://github.com/moneyphp/money
 - Дата, Время
   - https://github.com/briannesbitt/Carbon
+  - https://github.com/jenssegers/date
 - Тестирование
   - Prophecy — это фреймворк для создания mock-объектов в PHP, предоставляющий мощный и гибкий инструментарий для модульного тестирования, разработанный изначально для phpspec2, но применимый в любых testing-фреймворках. https://github.com/phpspec/prophecy
   - Prophecy PhpUnit - это программная библиотека, интегрирующая инструмент создания моков Prophecy с фреймворком тестирования PHPUnit для упрощения процесса мокирования в PHP тестах. https://github.com/phpspec/prophecy-phpunit
