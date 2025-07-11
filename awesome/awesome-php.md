@@ -108,6 +108,8 @@
 - Дата, Время
   - https://github.com/briannesbitt/Carbon
   - https://github.com/jenssegers/date
+- SOAP
+  - General Purpose PHP SOAP Client — это PHP-библиотека, предназначенная для упрощения интеграции с SOAP-сервисами, предоставляющая универсальный и расширяемый клиент с поддержкой стандартов PSR (PSR-6, -7, -17, -18) для гибкого взаимодействия с различными HTTP-клиентами и кэш-системами. https://github.com/phpro/soap-client
 - Тестирование
   - Prophecy — это фреймворк для создания mock-объектов в PHP, предоставляющий мощный и гибкий инструментарий для модульного тестирования, разработанный изначально для phpspec2, но применимый в любых testing-фреймворках. https://github.com/phpspec/prophecy
   - Prophecy PhpUnit - это программная библиотека, интегрирующая инструмент создания моков Prophecy с фреймворком тестирования PHPUnit для упрощения процесса мокирования в PHP тестах. https://github.com/phpspec/prophecy-phpunit
