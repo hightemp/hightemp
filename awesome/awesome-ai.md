@@ -852,6 +852,10 @@ https://arxiv.org/pdf/2411.08804v1
 
 - Chain-of-Zoom — нейросетевая технология для увеличения изображений, использующая метод поэтапного масштабирования путём разделения изображения на сегменты с последующим их увеличением для сохранения детализации, доступная как веб-сервис и программное обеспечение с открытым исходным кодом. https://huggingface.co/spaces/alexnasa/Chain-of-Zoom https://github.com/bryanswkim/Chain-of-Zoom
 
+### Векторные базы данных
+
+- Маленькая, портативная векторная база данных, созданная на SQLite. Подходит для RAG решений. https://github.com/asg017/sqlite-vec
+
 ### Полезные chrome ai-расширения
 
 - Jasper (https://chromewebstore.google.com/detail/jasper-everywhere-extensi/bpiohchncadidhohcajcnoelomephkdd) - одно из самых популярных AI расширений для написания текстов, ценный инструмент для маркетологов.
