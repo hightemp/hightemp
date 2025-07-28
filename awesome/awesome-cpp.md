@@ -215,6 +215,8 @@
     - Остальное
       - Углубляемся в C++: move семантика и rvalue https://tproger.ru/articles/move-semantics-and-rvalue
       - What is a Move Constructor in C++? https://www.scaler.com/topics/cpp-move-constructor/
+  - vtable; Виртуальные таблицы
+    - Урок №167. Виртуальные таблицы https://ravesli.com/urok-167-virtualnye-tablitsy/
   - Умные указатели, smart pointers
     - Основное
       - Prefer unique_ptr over shared_ptr unless you need to share ownership https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rr-unique
