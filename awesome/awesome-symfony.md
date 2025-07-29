@@ -284,6 +284,8 @@
   - Custom Pagination in PHP and Symfony https://www.binpress.com/custom-pagination-php-symfony/
 - Email, Mailer
   - How to Send Emails in Symfony using SMTP or API Methods: A Step-by-Step Tutorial https://mailtrap.io/blog/send-emails-in-symfony/
+- Middleware
+  - Configuring Middlewares in Symfony https://codesignal.com/learn/courses/adding-enterprise-features-to-your-symfony-mvc-app/lessons/configuring-middlewares-in-symfony
 - Примеры приложений
   - Build your own OAuth2 Server with PHP and Symfony https://davegebler.com/post/coding/build-oauth2-server-php-symfony
   - Making a Single-Page Application with HTMX and Symfony https://jolicode.com/blog/making-a-single-page-application-with-htmx-and-symfony
