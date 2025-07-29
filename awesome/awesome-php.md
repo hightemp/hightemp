@@ -231,6 +231,7 @@
 - https://www.npopov.com/
 - https://hive.blog/@crell
 - https://sergeymukhin.com/blog/categoriya/php
+- https://sergeyem.ru/index.php/blog
 
 ### Статьи
 
