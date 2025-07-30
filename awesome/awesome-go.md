@@ -968,6 +968,8 @@
     - The Top 10 Most Common Mistakes I’ve Seen in Go Projects https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
   - Внутрення работа
     - Deep Dive into Go Runtime: Advanced Thread Management Explained https://blog.stackademic.com/deep-dive-into-go-runtime-advanced-thread-management-explained-fd5c97b4daa4
+  - Стайлгайды; Style guide
+    - Go Style Decisions https://google.github.io/styleguide/go/decisions.html
   - Остальное
     - Rob Pike’s Go Proverbs (Part One) https://golangprojectstructure.com/rob-pike-go-proverbs/
     - Rob Pike’s Go Proverbs (Part Two) https://golangprojectstructure.com/rob-pike-go-proverbs-2/
