@@ -1748,6 +1748,7 @@
     - Comprehensive Guide to Testing in Go https://blog.jetbrains.com/go/2022/11/22/comprehensive-guide-to-testing-in-go/
     - Мокинг тестов в Go https://qarocks.ru/mocking-tests-in-go/
     - Быстро пишем функциональные тесты https://vporoshok.me/post/2019/08/quick-test/
+    - Using Subtests and Sub-benchmarks https://go.dev/blog/subtests
   - Тестирование с базой данных
     - PostgreSQL
       - Testing with Go and PostgreSQL: ephemeral DBs (2024) https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/
