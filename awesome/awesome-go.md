@@ -822,6 +822,7 @@
     - Statically Linking Go in 2022 https://mt165.co.uk/blog/static-link-go/
     - Building Statically Linked Go Executables with CGO and Zig https://calabro.io/zig-cgo
     - Cgo Call Practice https://www.dingyuqi.com/en/article/cgo/
+    - FastCGo: как мы ускорили вызов C-кода в Go в 16,5 раза https://habr.com/ru/companies/flant/articles/878282/
   - Go netpoller
     - The Go netpoller https://morsmachine.dk/netpoller
     - Go Internals: HTTP request multiplexing in Go https://akshay-kumar.hashnode.dev/go-internals-http-request-multiplexing-in-go-1
