@@ -969,6 +969,9 @@
   - Внутрення работа
     - Deep Dive into Go Runtime: Advanced Thread Management Explained https://blog.stackademic.com/deep-dive-into-go-runtime-advanced-thread-management-explained-fd5c97b4daa4
   - Остальное
+    - Rob Pike’s Go Proverbs (Part One) https://golangprojectstructure.com/rob-pike-go-proverbs/
+    - Rob Pike’s Go Proverbs (Part Two) https://golangprojectstructure.com/rob-pike-go-proverbs-2/
+    - Rob Pike’s Go Proverbs (Part Three) https://golangprojectstructure.com/rob-pike-go-proverbs-3/
     - Getting a pointer to a constant in Go https://xeiaso.net/notes/2024/go-pointer-constant/
     - 12 Personal Go Tricks That Transformed My Productivity https://substack.com/home/post/p-136328101
     - What's in the box!? Исследуем минимальное количество тредов golang-программы https://habr.com/ru/articles/888384/
