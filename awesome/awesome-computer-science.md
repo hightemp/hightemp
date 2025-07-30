@@ -13,6 +13,7 @@
     - http://stolyarov.info/books/pdf/progintro_2_9_v1.pdf
     - http://stolyarov.info/books/pdf/progintro_2_9_v2.pdf
 - The Garbage Collection Handbook. The art of automatic memory management. Richard Jones, Antony Hosking, Eliot Moss https://gchandbook.org/
+- Ремзи Х. и Андреа К. Арпачи-Дюссо. Операционные системы. Три простых элемента
 
 ### Статьи
 
