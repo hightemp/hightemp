@@ -70,6 +70,7 @@
     - Изменчивая природа ASIC https://russianelectronics.ru/izmenchivaya-priroda-asic/
 - радиочат
     - Meshtastic – оперативно-тактический радиочат без сотовой связи и интернета. Часть 1. Знакомство https://habr.com/ru/articles/568394/
+    - Интернет отключили, а ты в чате: что такое VarAC и при чем здесь коротковолновое радио https://habr.com/ru/companies/ru_mts/articles/931584/
 - Подборки
     - AI Tools For Electronic Circuit Design, Which Is Best? https://cselectricalandelectronics.com/ai-tools-for-electronic-circuit-design-which-is-best/
     - Top 10 Electronic Circuit Simulation Software https://www.circuitdiagram.co/top-10-electronic-circuit-simulation-software/
