@@ -68,6 +68,8 @@
     - Заканые БИС. Порядок разработки и освоения производства http://www.asic.ru/design/design_custom/design_order_custom_LIC
     - демистификация технологии ASIC: всеобъемлющее руководство для начинающих https://fastercapital.com/ru/content/Демистификация-технологии-ASIC--всеобъемлющее-руководство-для-начинающих.html
     - Изменчивая природа ASIC https://russianelectronics.ru/izmenchivaya-priroda-asic/
+- радиочат
+    - Meshtastic – оперативно-тактический радиочат без сотовой связи и интернета. Часть 1. Знакомство https://habr.com/ru/articles/568394/
 - Подборки
     - AI Tools For Electronic Circuit Design, Which Is Best? https://cselectricalandelectronics.com/ai-tools-for-electronic-circuit-design-which-is-best/
     - Top 10 Electronic Circuit Simulation Software https://www.circuitdiagram.co/top-10-electronic-circuit-simulation-software/
