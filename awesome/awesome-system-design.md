@@ -102,6 +102,8 @@
 - Кэш
     - mastering cache eviction policies for optimal caching efficiency https://skynix.co/resources/mastering-cache-eviction-policies-for-optimal-caching-efficiency
     - LRU Cache Implementation https://www.scaler.in/lru-cache-implementation/
+- ACID
+    - ACID https://agaltsovav.ru/docs/architecture/acid/
 - Паттерны
     - Основное
         - 26 основных паттернов микросервисной разработки https://cloud.vk.com/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki/
