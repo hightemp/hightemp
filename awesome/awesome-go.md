@@ -724,6 +724,8 @@
       - runtime.Caller
         - How to get the caller's function name, filename, and line number in a Go function https://www.sobyte.net/post/2022-06/go-func-caller/
       - runtime.FuncForPC
+      - runtime.Pinner
+      - runtime.AddCleanup
     - signal
     - sys
       - sys.Prefetch
