@@ -369,6 +369,8 @@
   - parallel
     - Install PHP 8.0 ZTS with ext-parallel in Ubuntu https://harry.plus/blog/install-php-zts-with-ext-parallel-in-ubuntu/
   - pcntl
+- SFTP
+  - phpseclib - SFTP https://phpseclib.com/docs/sftp
 - Swagger, OpenAPI
   - NelmioApiDocBundle https://symfony.com/bundles/NelmioApiDocBundle/current/index.html
 - Doctrine
