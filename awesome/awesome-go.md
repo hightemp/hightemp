@@ -2191,6 +2191,7 @@
 - Личный стандарт для реализации микросервисов. Структура сбалансирована между гибкостью и практичностью, соответствует принципам Clean Architecture и DDD. Ниже расписал детальные определения для каждой директории https://github.com/KlimenkoKayot/directory-structure-go
 - https://github.com/illiafox/tracing-example
 - Epoll-Based Multithreaded TCP Echo Server in Go https://github.com/iamNilotpal/epoll
+- https://github.com/child6yo/rago
 
 ### Видео
 
