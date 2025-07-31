@@ -1778,6 +1778,7 @@
         - More Mocking Techniques https://www.jetbrains.com/guide/go/tutorials/mock_testing_with_go/more_techniques/
         - Mocking in Golang Using Testify https://blog.lamida.org/mocking-in-golang-using-testify/
       - Остальное
+        - Тестируем веб приложение на Go https://habr.com/ru/companies/otus/articles/930136/
         - Четыре простых лайфхака при написании тестов на Go + testify https://temofeev.ru/info/articles/chetyre-prostykh-layfkhaka-pri-napisanii-testov-na-go-testify/
     - GoConvey
     - Ginkgo
