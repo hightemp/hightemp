@@ -1382,6 +1382,7 @@
     - Остальное
       - Golang HTTP server: basics https://medium.com/@bartosz.piekny/golang-http-server-basics-6936ddab7474
   - Остальное
+    - Асинхронный веб: WebSocket, Server-Sent Events, Long Polling и Short Polling https://habr.com/ru/articles/812693/
     - Technical Deep-Dive- Scaling a High-Throughput Go Application https://swatimodi.com/posts/technical-deep-dive-scaling-go-app/
     - Архитектурный паттерн для централизованной обработки ошибок в хендлерах на Go https://habr.com/ru/articles/914112/
     - The Magic Behind Go's Lightweight Goroutines https://hadar.gr/2017/lightweight-goroutines
