@@ -446,6 +446,7 @@
     - Как итерировать по символам в строках Go https://golang-blog.blogspot.com/2024/10/iterate-string-symbols.html
     - Строки(strings) в Go https://habr.com/ru/articles/911614/
     - Strings, bytes, runes and characters in Go https://go.dev/blog/strings
+    - Подробно о строках в Go https://habr.com/ru/articles/929076/
   - Struct; Структуры
     - Основное
       - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
@@ -667,6 +668,7 @@
         - GoLang error handling explained https://medium.com/@sriniwasx/golang-error-handling-for-newbies-e468a40178f6
     - bytes
       - Golang: пакет bytes изнутри https://habr.com/ru/articles/828044/
+      - Разбираемся в Go: пакеты bytes и strings https://habr.com/ru/articles/307554/
     - reflect; Reflection, Рефлексия, Отражение
       - Основное
         - Законы рефлексии в Gо https://habr.com/ru/articles/415171/
