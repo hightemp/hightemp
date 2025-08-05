@@ -979,6 +979,10 @@
     - Deep Dive into Go Runtime: Advanced Thread Management Explained https://blog.stackademic.com/deep-dive-into-go-runtime-advanced-thread-management-explained-fd5c97b4daa4
   - Стайлгайды; Style guide
     - Go Style Decisions https://google.github.io/styleguide/go/decisions.html
+  - Options Pattern
+    - Golang Functional Options Pattern https://simi.studio/en/golang-functional-options-pattern/
+    - Functional options in Go https://habr.com/ru/articles/859676/
+    - Functional options for friendly APIs https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
   - Остальное
     - Rob Pike’s Go Proverbs (Part One) https://golangprojectstructure.com/rob-pike-go-proverbs/
     - Rob Pike’s Go Proverbs (Part Two) https://golangprojectstructure.com/rob-pike-go-proverbs-2/
@@ -987,8 +991,6 @@
     - 12 Personal Go Tricks That Transformed My Productivity https://substack.com/home/post/p-136328101
     - What's in the box!? Исследуем минимальное количество тредов golang-программы https://habr.com/ru/articles/888384/
     - К слову об именах переменных в Go https://habr.com/ru/articles/872940/
-    - Functional options in Go https://habr.com/ru/articles/859676/
-    - Functional options for friendly APIs https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
     - Notes on Go https://echorand.me/posts/go-notes/
     - Shallow copy and Deep copy in Go https://echorand.me/posts/go-values-references-etc/
     - Named return values in Go https://echorand.me/posts/go-named-return-values/
