@@ -570,6 +570,7 @@
 - https://clement-jean.github.io/
 - https://yifan-online.com/en/km
 - https://sajadtorkamani.com/posts/
+- https://addyo.substack.com/
 
 ### Видео
 
