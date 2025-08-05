@@ -1595,6 +1595,7 @@
     - [Hands-on Guide] How to Implement Clean Architecture in Golang? https://reliasoftware.com/blog/clean-architecture-golang
     - Why Clean Architecture Struggles in Golang and What Works Better https://dev.to/lucasdeataides/why-clean-architecture-struggles-in-golang-and-what-works-better-m4g
     - How I implement Clean Code Architecture on Golang projects https://nurcahyaari.medium.com/how-i-implement-clean-code-architecture-on-golang-projects-68be58830621
+    - Why Clean Architecture Struggles in Golang and What Works Better https://dev.to/lucasdeataides/why-clean-architecture-struggles-in-golang-and-what-works-better-m4g
   - Структура проекта(папки)
     - 11 tips for structuring your Go projects https://www.alexedwards.net/blog/11-tips-for-structuring-your-go-projects
     - Go - The Ultimate Folder Structure https://gist.github.com/ayoubzulfiqar/9f1a34049332711fddd4d4b2bfd46096
