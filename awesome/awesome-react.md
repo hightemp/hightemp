@@ -128,6 +128,7 @@
 - https://medium.com/tag/react
 - https://barrymichaeldoyle.com/blog
 - https://www.dhiwise.com/blog
+- https://rwieruch.substack.com/
 
 ### Статьи
 
