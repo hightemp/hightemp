@@ -1664,6 +1664,8 @@
       - Design Patterns in Golang: Adapter https://blog.ralch.com/articles/design-patterns/golang-adapter/
     - SOLID
       - SOLID в Go и щепотка паттернов https://habr.com/ru/companies/domclick/articles/816885/ 
+    - Repository Pattern
+      - Mastering the Repository Pattern in Go: A Comprehensive Guide https://www.codingexplorations.com/blog/mastering-the-repository-pattern-in-go-a-comprehensive-guide
     - Остальное
       - Practice the design pattern of GoF 23: SOLID principle https://programmer.ink/think/practice-the-design-pattern-of-gof-23-solid-principle.html
       - Go advanced concurrency patterns: part 4 (unlimited buffer channels) https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/
