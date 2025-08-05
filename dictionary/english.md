@@ -1,0 +1,2 @@
+struggle
+long-term
