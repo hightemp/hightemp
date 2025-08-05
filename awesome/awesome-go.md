@@ -498,6 +498,7 @@
     - Curious Channels https://dave.cheney.net/2013/04/30/curious-channels
     - Интересные способы использования Go каналов (перевод) https://habr.com/ru/articles/278349/
     - Nil channels in Go https://vishnubharathi.codes/blog/nil-channels-in-go/
+    - Каналы(channels) в Go https://habr.com/ru/articles/926292/
   - Гоурутины, goroutines
     - Корутины: stackful vs stackless https://habr.com/ru/articles/850970/
     - Demystifying Golang Channels, Goroutines, and Optimal Concurrency https://levelup.gitconnected.com/golang-channels-goroutines-and-optimal-concurrency-demystifying-through-examples-a43ba6aee74f
