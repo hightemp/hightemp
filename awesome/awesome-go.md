@@ -2201,6 +2201,7 @@
 - https://github.com/illiafox/tracing-example
 - Epoll-Based Multithreaded TCP Echo Server in Go https://github.com/iamNilotpal/epoll
 - https://github.com/child6yo/rago
+- https://github.com/metarsit/golang-repository-template
 
 ### Видео
 
