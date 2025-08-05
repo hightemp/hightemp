@@ -570,7 +570,7 @@
 - https://clement-jean.github.io/
 - https://yifan-online.com/en/km
 - https://sajadtorkamani.com/posts/
-- https://addyo.substack.com/
+- Elevate Addy Osmani's newsletter on elevating your effectiveness. Join his community of 600,000 readers across social media. https://addyo.substack.com/
 
 ### Видео
 
