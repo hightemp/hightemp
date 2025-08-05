@@ -1282,6 +1282,8 @@
       - Routing; Маршрутизация
         - Different approaches to HTTP routing in Go https://benhoyt.com/writings/go-routing/
         - How to not use an http-router in go https://web.archive.org/web/20190314101015/https://blog.merovius.de/2017/06/18/how-not-to-use-an-http-router.html
+      - Middleware
+        - Making and using HTTP Middleware in Go https://www.alexedwards.net/blog/making-and-using-middleware
       - Остальное
         - Самоучитель по Go для начинающих. Часть 17. Основы сетевого программирования. Стек TCP/IP. Сокеты. Пакет net https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-17-osnovy-setevogo-programmirovaniya-stek-tcp-ip-sokety-paket-net-2024-11-15
         - Самоучитель по Go для начинающих. Часть 18. Протокол HTTP. Создание HTTP-сервера и клиента. Пакет net/http https://proglib.io/p/samouchitel-po-go-dlya-nachinayushchih-chast-18-protokol-http-sozdanie-http-servera-i-klienta-paket-net-http-2024-12-13
