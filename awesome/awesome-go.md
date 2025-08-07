@@ -449,6 +449,7 @@
     - Строки(strings) в Go https://habr.com/ru/articles/911614/
     - Strings, bytes, runes and characters in Go https://go.dev/blog/strings
     - Подробно о строках в Go https://habr.com/ru/articles/929076/
+    - Большой разбор Строк Go → «Типы и структуры данных Go» https://habr.com/ru/articles/926732/
   - Struct; Структуры
     - Основное
       - Golang Field ordering matters? https://dev.to/aymanepraxe/golang-field-ordering-matters-2i6m
