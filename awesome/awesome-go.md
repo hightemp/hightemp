@@ -2209,6 +2209,7 @@
 - Epoll-Based Multithreaded TCP Echo Server in Go https://github.com/iamNilotpal/epoll
 - https://github.com/child6yo/rago
 - https://github.com/metarsit/golang-repository-template
+- Event-driven microservice architecture URL shortener: gRPC URL Shortener service, REST gateway & Telegram inline bot, Kafka & Statistics service https://github.com/misshanya/url-shortener/tree/master
 
 ### Видео
 
