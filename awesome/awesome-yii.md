@@ -31,6 +31,8 @@
   - Обработка запросов в Yii 2.x https://www.webapplex.ru/obrabotka-zaprosov-v-yii-2.x
   - Exploring The Power Of Yii Framework https://medium.com/@swarajns29/exploring-the-power-of-yii-framework-aa201420eb25
   - The Ultimate Guide to YII PHP Framework https://naturalgroup.medium.com/the-ultimate-guide-to-yii-php-framework-8f7482793a94
+- Ajax
+  - Программирование на Yii2: использование Ajax https://coderlessons.com/articles/veb-razrabotka-articles/programmirovanie-na-yii2-ispolzovanie-ajax
 - RBAC
 - SEO
   - Yii Seo — The Ultimate Guide https://medium.com/@maillysandhu/yii-seo-the-ultimate-guide-d6a2f45bba3e
