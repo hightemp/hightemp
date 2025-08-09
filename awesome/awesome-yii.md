@@ -34,6 +34,7 @@
 - Ajax
   - Программирование на Yii2: использование Ajax https://coderlessons.com/articles/veb-razrabotka-articles/programmirovanie-na-yii2-ispolzovanie-ajax
   - Работаем с AJAX в Yii 2 https://streletzcoder.ru/rabotaem-s-ajax-v-yii-2/
+  - Yii2: Загрузка изображений и удаление через AJAX https://vivasart.com/lab/yii2-ajax-image-update-delete
 - RBAC
 - SEO
   - Yii Seo — The Ultimate Guide https://medium.com/@maillysandhu/yii-seo-the-ultimate-guide-d6a2f45bba3e
