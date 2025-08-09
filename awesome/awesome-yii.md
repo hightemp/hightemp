@@ -33,6 +33,7 @@
   - The Ultimate Guide to YII PHP Framework https://naturalgroup.medium.com/the-ultimate-guide-to-yii-php-framework-8f7482793a94
 - Ajax
   - Программирование на Yii2: использование Ajax https://coderlessons.com/articles/veb-razrabotka-articles/programmirovanie-na-yii2-ispolzovanie-ajax
+  - Работаем с AJAX в Yii 2 https://streletzcoder.ru/rabotaem-s-ajax-v-yii-2/
 - RBAC
 - SEO
   - Yii Seo — The Ultimate Guide https://medium.com/@maillysandhu/yii-seo-the-ultimate-guide-d6a2f45bba3e
