@@ -35,6 +35,7 @@
     - Потоки
         - Шаг 64. Потоки https://it.kgsu.ru/Asm_32/as32_064.html
         - Threads https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html
+        - CS170 Lecture notes -- Introduction to Threads https://sites.cs.ucsb.edu/~rich/class/cs170/notes/IntroThreads/
     - Остальное
         - Lecture 19: Events, Threads, and Asynchronous I/O https://web.stanford.edu/class/archive/cs/cs110/cs110.1202/static/lectures/19-events-threads.pdf
 - Прерывания
