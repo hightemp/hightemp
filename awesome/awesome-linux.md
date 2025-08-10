@@ -173,6 +173,7 @@
             - Отладка и профилирование (Debugging and Profiling)
         - Потоки
             - How Threads and Concurrency Work in Linux Systems https://dev.to/iaadidev/how-threads-and-concurrency-work-in-linux-systems-233c
+            - Threads in Linux: A Comprehensive Guide https://www.gopakumar-rajappan.com/p/threads-in-linux-a-comprehensive
         - Cgroups (Контрольные группы)
             - Practicing cgroup v2 https://medium.com/@charles.vissol/practicing-cgroup-v2-cad6743bba0c
             - Linux cgroup from first principles https://fzakaria.com/2025/05/26/linux-cgroup-from-first-principles
