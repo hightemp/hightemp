@@ -34,6 +34,7 @@
         - ГЛАВА 4 Процессы и потоки https://vv303.narod.ru/files/inst/olifer/chapter4/default.htm
     - Потоки
         - Шаг 64. Потоки https://it.kgsu.ru/Asm_32/as32_064.html
+        - Threads https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html
     - Остальное
         - Lecture 19: Events, Threads, and Asynchronous I/O https://web.stanford.edu/class/archive/cs/cs110/cs110.1202/static/lectures/19-events-threads.pdf
 - Прерывания
