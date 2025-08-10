@@ -1093,6 +1093,7 @@ https://arxiv.org/pdf/2411.08804v1
 - Language Modeling from Scratch — образовательный курс Стэнфордского университета, направленный на практическое изучение разработки больших языковых моделей (LLM) с нуля, включающий пять домашних заданий по реализации архитектуры трансформера, оптимизации внимания FlashAttention 2, распределённому обучению, анализу законов масштабирования и обучению с подкреплением, требующий базовых знаний Python, теории вероятностей, математического анализа и опыта работы с PyTorch. https://stanford-cs336.github.io/spring2025/ https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_ https://github.com/stanford-cs336/spring2025-lectures
 - Компьютерное зрение https://code.mipt.ru/courses-public/cv/public/-/blob/fall-2024/README.md
 - бесплатный открытый курс по машинному обучению от ODS и Петра Ермакова https://ods.ai/tracks/open-ml-course/about
+- CS224N: Natural Language Processing with Deep Learning Stanford / Winter 2025 https://web.stanford.edu/class/cs224n/
 
 ### Инструменты для исследований
 
