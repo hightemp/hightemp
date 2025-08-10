@@ -1391,6 +1391,7 @@ https://arxiv.org/pdf/2411.08804v1
         - Understanding Large Language Models -- A Transformative Reading List https://sebastianraschka.com/blog/2023/llm-reading-list.html
         - Outline of Reading List https://www.advtopicsindeeplearning.com/reading-list.html
     - Каталоги и Обзоры (Catalogs & Reviews)
+        - We're truly in the fastest-paced era of AI these days. (50 LLM Released these 2-3 Weeks) https://www.reddit.com/r/LocalLLaMA/comments/1mfaigh/were_truly_in_the_fastestpaced_era_of_ai_these/
         - 50+ полезных ML и AI-сервисов для вебмастеров https://hostpro.ua/blog/50-useful-ai-services-for-webmasters/
         - 10+ Open-source AI Agents: Based on GitHub Stars https://research.aimultiple.com/open-source-ai-agents/
         - 4 Books to Deepen Your Understanding of LLMs: Theory & Engineering https://substack.com/home/post/p-159336911
