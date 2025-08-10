@@ -873,6 +873,7 @@ https://arxiv.org/pdf/2411.08804v1
 - Copyleaks (https://chromewebstore.google.com/detail/ai-content-detector-copyl/gplcmncpklkdjiccbknjjkoidpgkcakd) - расширение обнаруживает контент, созданный с помощью ИИ, чтобы гарантировать оригинальность и избежать некачественного текста.
 - DeepL (https://chromewebstore.google.com/detail/deepl-%D0%B8%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA-%D0%B8-%D1%80%D0%B5%D0%B4/cofdbpoegempjloogbagkncekinflcnj?utm_source=deeplcom-en&utm_medium=desktop-web&utm_campaign=pageID1406-d-first-button) - ИИ-переводчик и редактор. Можно переводить  во время чтения и при вводе текста с помощью DeepL
 - Voccabi — вебсайт и расширение для браузера Chrome, позволяющее изучать иностранные языки посредством просмотра мультимедийного контента благодаря автоматическому созданию карточек с новыми словами из субтитров. http://vocabbi.com/
+- Tasker — браузерное расширение, которое автоматизирует повседневные задачи, включая разбор почты, планирование встреч и работу с таблицами, с помощью команды агентов. https://chromewebstore.google.com/detail/tasker-ai/okpbbehdcemngalcooomdedkembjpbnp
 
 ### Агенты
 
