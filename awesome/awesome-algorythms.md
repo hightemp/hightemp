@@ -1,5 +1,4 @@
 
-
 ### Статьи
 
 - Поиск в строке
@@ -15,3 +14,7 @@
 - Поиск с переходом; jump/block search
 - Двоичный поиск
 - Интерполяционный поиск; interpolation search
+
+### Блоги
+
+- https://labuladong.gitbook.io/algo-en
