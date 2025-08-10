@@ -1487,6 +1487,7 @@ https://www.sackett.net/The-Spike.pdf
 - Лекции
     - Open Endedness, World Models, and the Automation of Innovation — исследовательская лекция Тима Роктешела из DeepMind, представленная на конференции ICLR 2025, посвящённая концепции Открытой Эволюции в области искусственного интеллекта, включающая разработку крупномасштабных фундаментальных моделей мира для генерации разнообразных сред обучения универсальных агентов, автоматизацию процесса инноваций, самоулучшение моделей и автоматизированный prompt engineering. https://www.youtube.com/watch?v=ZZC_xqRgcHo&ab_channel=MatijaGrcic
 - Каналы
+    - Центр digital профессий ITtensive https://www.youtube.com/@ittensive
     - Deep Learning School https://www.youtube.com/@DeepLearningSchool
     - Научные семинары по искусственному интеллекту https://www.youtube.com/@aiseminars/playlists
     - Сабрина Садиех https://www.youtube.com/@%D0%A1%D0%B0%D0%B1%D1%80%D0%B8%D0%BD%D0%B0%D0%A1%D0%B0%D0%B4%D0%B8%D0%B5%D1%85
