@@ -392,6 +392,8 @@
   - 5 Ways to Optimize Symfony Application Performance https://dev.to/inspector/5-ways-to-optimize-symfony-application-performance-5ap8
 - Systemd
   - Symfony Messenger 💛 systemd https://jolicode.com/blog/symfony-messenger-systemd
+- React
+  - Symfony + React: Основные проблемы и методы их решения https://habr.com/ru/articles/887200/
 - Redis
   - Redis pub-sub vs Cron job in Symfony https://www.uvdesk.com/en/blog/redis-pub-sub-vs-cron-job-in-symfony/
   - Перевод PHP бэкенда на шину Redis streams и выбор независимой от фреймворков библиотеки https://habr.com/ru/articles/483584/
