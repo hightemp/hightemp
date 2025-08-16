@@ -1,0 +1,48 @@
+
+### Полезные инструменты
+
+- Simplified – Многофункциональная нейросеть для создания текстового и видео контента, дизайна https://simplified.com/ru
+- Frase – Анализ сайтов в ТОПе, подбор ключевых слов, создание SEO‑оптимизированных материалов https://www.frase.io/
+- LinkWhisper – Инструмент для работы с внешними ссылками и внутренней оптимизацией сайта https://linkwhisper.com/
+- GTranslate – Быстрый перевод текстового контента с отслеживанием трафика и хорошим ранжированием https://ru.gtranslate.io/
+- SEO AI – Помогает SEO‑специалистам создавать высококачественный материал на 50 языках https://www.seoai.com/
+- ContentShake AI – Генератор SEO‑оптимизированного контента с анализом конкурентов и трендов https://www.semrush.com/apps/contentshake/
+- Adcreative AI – Создает привлекательные рекламные тексты для повышения конверсии https://www.adcreative.ai/
+- Draft – Генератор постов для блогов и рекламных креативов, дополняющий ваши собственные наброски https://draft.net/
+- Marketing Blocks – ИИ‑ассистент для создания посадочных страниц, видеороликов, рекламы, копирайтинга https://hey.marketingblocks.ai/
+- INK – Помощник по SEO с реальными рекомендациями и защитой от плагиата https://inkforall.com/
+- RankIQ – Ускоряет подготовку постов, подбор ключевых слов и анализ конкурентов https://www.rankiq.com/
+- Outranking – ИИ‑SEO платформа для работы со статьями, описаниями и оптимизацией страниц https://www.outranking.io/
+- Copymatic – Создает SEO‑оптимизированный контент для блогов, рекламы и сайтов https://copymatic.ai/
+- Scalenut – Генерирует SEO‑оптимизированные блоги с интеграцией анализа ключевых слов https://www.scalenut.com/
+- Surfer SEO – Анализирует топовые страницы, SEO‑оценка, оптимизирует контент для лучшего ранжирования https://surferseo.com/
+- WriterZen – Помогает в планировании SEO с открытием тем, исследованием ключевых слов и проверкой на плагиат https://writerzen.net/
+- AISEO – Генерирует SEO‑оптимизированный контент, соответствующий стандартам Google E‑E‑A‑T https://aioseo.com/features/author-seo-google-e-e-a-t/
+- Blog Post Ideas Generator – Генерирует SEO‑оптимизированные идеи для блогов https://ahrefs.com/writing-tools/blog-post-ideas
+- Blog Title Generator – Создает привлекательные заголовки для блогов https://ahrefs.com/writing-tools/blog-title-generator
+- Content Idea Generator – Предлагает креативные идеи для контента https://ahrefs.com/writing-tools/content-idea-generator
+- Image Alt Text Generator – Генерирует описательный alt‑текст для изображений https://ahrefs.com/writing-tools/img-alt-text-generator
+- Meta Description Generator – Создает информативные мета‑описания для статей https://ahrefs.com/writing-tools/meta-description-generator
+- Title Generator – Генерирует оптимизированные заголовки для лучшей видимости в поиске https://ahrefs.com/writing-tools/seo-title-generator
+- Video Script Generator – Создает сценарии для видео быстро и эффективно https://ahrefs.com/writing-tools/script-generator
+- GetGenie – Всё‑в‑одном SEO‑ассистент с анализом ключевых слов и созданием контента https://getgenie.ai/
+- Texta – Создает идеальные блоги с SEO‑оптимизированным текстом за минуты https://texta.ai/
+- RoboGPT – Генерирует тексты, изображения и отвечает на вопросы, поддерживает SEO и тональность контента https://robogpt.co/
+- SinCode AI – Генерирует SEO‑оптимизированный контент, защищенный от негативных оценок Google https://agent.ai/sincode
+- AlliAI – Оптимизирует и масштабирует SEO, позволяя быстро внедрять изменения на сайте https://www.alliai.com/
+- Digitalfirst.ai – Генерирует маркетинговые планы и находит тактики роста бизнеса с использованием ИИ https://www.digitalfirst.ai/
+- GrowthBar – Комбинирует ИИ‑ассистента с SEO‑инструментами для создания блогов и анализа конкурентов https://www.growthbarseo.com/
+- Thunder Content – Создает уникальный, SEO‑оптимизированный контент на 140+ языках https://thundercontent.com/
+- YouTube Video Description Generator – Создает SEO‑оптимизированные описания для видео YouTube https://ahrefs.com/writing-tools/youtube-video-description-generator
+- TypliAI – Помогает создавать качественный контент с SEO‑анализом для долгосрочного успеха https://typli.ai/
+- Hook Generator – Добавляет захватывающие фразы для привлечения внимания https://ahrefs.com/writing-tools/hook-generator
+- TikTok Hashtag Generator – Находит трендовые хэштеги для контента TikTok https://ahrefs.com/writing-tools/tiktok-hashtag-generator
+- TikTok Username Generator – Создаёт уникальные имена для профиля TikTok https://ahrefs.com/writing-tools/tiktok-username-generator
+- RankMath – Плагин для WordPress, помогающий оптимизировать контент для поисковых систем https://rankmath.com/
+- Veg3 – Первый веганский ИИ для маркетинговых задач в режиме бета‑тестирования https://veg3.ai/
+- Social Media Caption Generator – Создаёт привлекательные подписи для соцсетей https://ahrefs.com/writing-tools/caption-generator
+- Social Media Hashtag Generator – Находит эффективные хэштеги для соцсетей https://ahrefs.com/writing-tools/hashtag-generator
+- Social Media Username Generator – Генерирует уникальные имена для соцсетей https://ahrefs.com/writing-tools/username-generator
+- YouTube Channel Description Generator – Создаёт убедительные описания для канала YouTube https://ahrefs.com/writing-tools/youtube-channel-description-generator
+- YouTube Name Generator – Генерирует уникальные названия для канала YouTube https://ahrefs.com/writing-tools/youtube-name-generator
+- Resignation Letter Generator – Помогает написать профессиональное письмо об увольнении https://ahrefs.com/writing-tools/resignation-letter-generator
