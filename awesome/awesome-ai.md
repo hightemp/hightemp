@@ -507,6 +507,7 @@
 
 - https://svgartista.net/ Исходный файл загружается в SVG-формате. Результат генерации копируется в виде SVG-кода и CSS-стилей. Регистрация не нужна.
 - https://animateai.pro/
+- Omni Avatar — нейросеть для оживления фотографий, позволяющая создавать видео-аватары, которые двигаются и говорят, являясь бесплатной альтернативой HeyGen и Hedra. https://huggingface.co/spaces/alexnasa/OmniAvatar, https://github.com/Omni-Avatar/OmniAvatar
 
 ### Генерация теста из аудио
 
