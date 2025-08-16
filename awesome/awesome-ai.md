@@ -62,6 +62,7 @@
 ### Бенчмарки
 
 - FineTasks (https://huggingface.co/spaces/HuggingFaceFW/blogpost-fine-tasks) – бечнмарк для оценки качества претрейна LLM на множестве языков. Лицензия ODC-by
+- Game Arena — бенчмарк от Google DeepMind для тестирования LLM в настольных играх, предлагающий пользователям возможность выбирать агентов и участвовать в матчах с использованием системы распознавания изображений. https://www.kaggle.com/blog/introducing-game-arena
 
 ### Трекеры новостей
 
