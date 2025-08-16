@@ -1357,6 +1357,8 @@ https://arxiv.org/pdf/2411.08804v1
         - Knowledge of Pretrained Language Models on Surface Information of Tokens https://arxiv.org/pdf/2402.09808
         - The Hidden Folk: Linguistic Properties Encoded in Multilingual Contextual Character Representations https://aclanthology.org/2023.cawl-1.2/
         - Can large language models help augment English psycholinguistic datasets? https://link.springer.com/article/10.3758/s13428-024-02337-z
+    - Persona vectors
+        - Persona Vectors: Monitoring and Controlling Character Traits in Language Models https://arxiv.org/abs/2507.21509
 
 - **Прикладные Области и Типы Моделей (Applications & Model Types)** {#прикладные-области-и-типы-моделей}
     - Визуальные модели (Vision Models)
