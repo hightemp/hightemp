@@ -1098,6 +1098,11 @@ https://arxiv.org/pdf/2411.08804v1
 - https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions
 - https://huyenchip.com/ml-interviews-book/
 
+### Демки
+
+- nano-gpt Demo — интерактивная демонстрация, позволяющая пользователям изучать работу модели nano-gpt, просматривая информацию о процессе распространения данных через различные модули. https://bbycroft.net/llm
+- Transformer Explainer — интерактивная демо, демонстрирующая механизм Attention нейросети GPT-2 с анимациями и пояснениями, но с ограничениями на ввод собственных текстов. https://poloclub.github.io/transformer-explainer/
+
 ### Курсы
 
 - https://mlcourse.ai/
