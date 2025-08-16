@@ -1208,6 +1208,7 @@ https://arxiv.org/pdf/2411.08804v1
 - https://mcpmarket.com/
 - Model Context Protocol (MCP) Curriculum for Beginners https://github.com/microsoft/mcp-for-beginners
 - MCP.so — поисковик по популярным MCP‑серверам. [https://mcp.so/](https://mcp.so/)
+- Browser MCP — инструмент для автоматизации браузера, заменяющий Manus, Operator и Computer Use, предоставляющий широкий функционал для выполнения действий мышью и автоматизации рутинных задач. https://browsermcp.io/
 
 ### Телеграм папки, Telegram folders
 
