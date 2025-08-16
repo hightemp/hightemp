@@ -10,6 +10,7 @@
 - https://jetlend.ru/
 - https://my.first-am.ru
 - https://invest-intelion.com/
+- https://conomica.ru/
 
 ### Сервисы для открытия виртуальных иностранных карт
 
