@@ -1015,6 +1015,10 @@ https://arxiv.org/pdf/2411.08804v1
 
 - MathGPT — веб-приложение для решения математических задач с использованием GPT, разработанное на Streamlit, позволяющее вводить задачи в текстовом или LaTeX-формате, загружать документы в PDF, TXT и DOC, предоставляющее пошаговые решения, визуализации, графики и анимации. https://mathgpt.streamlit.app/
 
+### Безопасность
+
+- https://github.com/LLAMATOR-Core/ai-agents-security
+
 ### Полезные ссылки
 
 - Sentence Transformers https://huggingface.co/sentence-transformers
