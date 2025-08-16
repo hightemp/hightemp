@@ -416,6 +416,7 @@
 - Описание языка
   - Что нового
     - 1.25
+      - Go 1.25 Release Notes https://go.dev/doc/go1.25
       - Эволюция JSON в Go: от v1 к v2 https://habr.com/ru/articles/923404/
     - 1.24
       - Go 1.24 Released: Massive Optimizations & Key Upgrades! https://dev.to/leapcell/go-124-released-massive-optimizations-key-upgrades-1mbn
