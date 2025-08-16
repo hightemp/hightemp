@@ -1410,7 +1410,10 @@ https://arxiv.org/pdf/2411.08804v1
     - Когнитивная психология и AI
         - Метод "thin-slicing" (оценка на основе минимальной информации)
             - The Art of Audience Engagement: LLM-Based Thin-Slicing of Scientific Talks https://arxiv.org/abs/2504.10768
-
+- Context engineering
+    - The rise of "context engineering" - обзорная статья на LangChain https://blog.langchain.com/the-rise-of-context-engineering/
+    - 12 факторные агенты - принципы построения ИИ-агентов https://github.com/humanlayer/12-factor-agents
+    - Context Engineering - выходя за рамки промтинга в целях давления на ИИ https://simple.ai/p/the-skill-thats-replacing-prompt-engineering
 
 ### Книги
 
@@ -1462,6 +1465,7 @@ https://www.sackett.net/The-Spike.pdf
 - GPT-4.1 Prompting Guide — методическое руководство от OpenAI по эффективному взаимодействию с языковой моделью GPT-4.1, содержащее рекомендации по структурированию промптов, использованию инструментов через поле tools вместо текстового описания, применению агентских сценариев с напоминаниями о настойчивости и планировании, размещению инструкций в начале и конце длинного контекста, структурированию промптов по блокам «Роль и цель → Правила → Шаги рассуждения → Формат вывода → Примеры», использованию методики «plan-and-reflect» между вызовами функций, оптимизации работы с контекстом до 1 млн токенов и предпочтению форматов Markdown и XML перед JSON для повышения точности обработки запросов. https://cookbook.openai.com/examples/gpt4-1_prompting_guide
 - OpenAI A Practical Guide to Building Agents — практическое руководство по разработке ИИ-агентов от компании OpenAI, предназначенное для специалистов, желающих интегрировать LLM-агенты в продукты, с детальным описанием различий между агентами и чат-ботами, рекомендациями по проектированию одно- и мультиагентных систем, паттернами взаимодействия (manager-agent, peer-to-peer), методами подключения инструментов и внедрения защитных механизмов (guardrails) для предотвращения нежелательного поведения агентов. https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
 - Проект представляет собой руководство по инженерии запросов для оптимизации использования языковых моделей (ЯМ) в самых различных приложениях и исследованиях, помогая исследователям расширить возможности крупных языковых моделей (КЯМ) на широкий спектр задач, таких как вопросно-ответная система и арифметическое рассуждение. https://github.com/dair-ai/Prompt-Engineering-Guide https://www.promptingguide.ai/
+- Prompting Guide — мощный гайд по техникам промптинга https://www.promptingguide.ai/
 
 ### Видео
 
