@@ -1464,6 +1464,7 @@ https://arxiv.org/pdf/2411.08804v1
         - Метод "thin-slicing" (оценка на основе минимальной информации)
             - The Art of Audience Engagement: LLM-Based Thin-Slicing of Scientific Talks https://arxiv.org/abs/2504.10768
 - Context engineering
+    - A Survey of Context Engineering for Large Language Models https://arxiv.org/abs/2507.13334
     - The rise of "context engineering" - обзорная статья на LangChain https://blog.langchain.com/the-rise-of-context-engineering/
     - 12 факторные агенты - принципы построения ИИ-агентов https://github.com/humanlayer/12-factor-agents
     - Context Engineering - выходя за рамки промтинга в целях давления на ИИ https://simple.ai/p/the-skill-thats-replacing-prompt-engineering
