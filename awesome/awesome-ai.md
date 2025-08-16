@@ -865,10 +865,11 @@ https://arxiv.org/pdf/2411.08804v1
 
 - Bagel — мультимодальная языковая модель с открытым исходным кодом от ByteDance, содержащая 7 миллиардов активных параметров (из общих 14 миллиардов) и обладающая возможностями ведения диалога, генерации креативного контента, создания и редактирования изображений, а также режимом демонстрации процесса рассуждений перед выдачей ответа. https://demo.bagel-ai.org/ https://huggingface.co/ByteDance-Seed/BAGEL-7B-MoT
 
-### Модели LLM
+### Модели LLM; Текстовые модели
 
 - Hunyuan LLM — серия компактных языковых моделей от Tencent с параметрами 0.5B, 1.8B, 4B и 7B, оптимизированная для пользовательских устройств и способная обрабатывать контекст до 256K. https://hunyuan.tencent.com/modelSquare/home/list https://github.com/Tencent-Hunyuan https://huggingface.co/tencent https://hunyuan.tencent.com/
 - OpenAI — представила две новые открытые нейросети, способные вести осмысленные диалоги и поддерживающие сложные инструменты, а также анонсировала выход GPT-5. https://gpt-oss.com https://github.com/openai/gpt-oss
+- GLM 4.5 — новая открытая MoE модель от китайских разработчиков с улучшенными показателями на бенчмарках, доступная под MIT лицензией и поддерживающая расширенный контекст до 128k токенов. https://huggingface.co/collections/zai-org/glm-45-687c621d34bda8c9e4bf503b, https://chat.z.ai/, https://z.ai/blog/glm-4.5, https://github.com/THUDM/slime
 
 ### Модели для кодинга
 
