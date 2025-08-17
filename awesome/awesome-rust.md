@@ -677,6 +677,8 @@
     - Руководство по языку программирования Rust https://metanit.com/rust/tutorial/
     - Русский перевод книги «The Rust Programming Language» (TRPL) https://habr.com/ru/news/498794/
     - Getting Started with Rust https://medium.com/@rami.krispin/getting-started-with-rust-928bf7b8418f
+  - Внутрянка; Как работает
+    - Погружаемся в логово ржавчины. Как работает компилятор rust https://habr.com/ru/articles/539796/
   - Управление памятью
     - 🚀 Visualizing memory management in Rust https://deepu.tech/memory-management-in-rust/
     - Как работает управление памятью в Rust без сборщика мусора https://habr.com/ru/companies/otus/articles/787362/
