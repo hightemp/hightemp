@@ -45,6 +45,9 @@
   - Dropdownlist
     - Выпадающий список DropDownList в Yii2 https://www.tokarchuk.pro/p/vypadayushchiy-spisok-dropdownlist-v-yii2
     - Лучшие практики работы с dropDownList в Yii framework 2 https://dev-tips.ru/blog/post/luchshie-praktiki-raboty-s-dropdownlist-v-yii-2
+- Модели
+  - Валидация
+    - Правила валидации в модели Yii2 https://serblog.ru/pravila-validacii-v-modeli-yii2/
 - Платежные системы
   - Paypal
     - Yii Framework-PayPal Integration in Web application and Testing With PayPal Sandbox Account Credentials https://medium.com/tensult/yii-framework-paypal-integration-in-web-application-and-testing-with-paypal-sandbox-account-4eea4e813404
