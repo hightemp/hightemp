@@ -1900,6 +1900,8 @@
     - Пишем поиск семантически похожих текстов (или товаров) за полчаса на Go и Postgres (pgVector) https://habr.com/ru/companies/karuna/articles/809305/
 - Kubernetes
   - DEVops: Разрабатываем свой Kubernetes оператор с кастомными ресурсами на Go https://habr.com/ru/articles/866766/
+- FUSE
+  - FUSE + Go: ковка собственной виртуальной файловой системы на блочном устройстве https://habr.com/ru/articles/933658/
 - React
   - Getting started with Go and React - Webservice, Routing and Status Log https://mpolinowski.github.io/docs/Development/Go/2021-09-21--golang-react-starter-part-i/2021-09-21
   - Getting started with Go and React - API Routes https://mpolinowski.github.io/docs/Development/Go/2021-09-22--golang-react-starter-part-ii/2021-09-22
