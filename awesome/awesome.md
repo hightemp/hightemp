@@ -266,3 +266,4 @@
 
 - https://github1s.com/
 - https://www.citywalki.com/
+- Общий отчёт по анализу приложения "Макс" https://github.com/ZolManStaff/MAX-deep-analysis-of-the-messenger
