@@ -39,6 +39,8 @@
         - Threads https://www.cs.fsu.edu/~baker/opsys/notes/threads.html
     - Остальное
         - Lecture 19: Events, Threads, and Asynchronous I/O https://web.stanford.edu/class/archive/cs/cs110/cs110.1202/static/lectures/19-events-threads.pdf
+- Модели памяти
+    - Memory Model and Synchronization Primitive - Part 2: Memory Model https://www.alibabacloud.com/blog/memory-model-and-synchronization-primitive---part-2-memory-model_597461
 - Прерывания
     - Chapter 12: Interrupts Embedded Systems - Shape The World Modified to be compatible with EE319K Lab 6 Jonathan Valvano and Ramesh Yerraballi https://users.ece.utexas.edu/~valvano/Volume1/E-Book/C12_Interrupts.htm
 - Context Switching, Смена контекста
