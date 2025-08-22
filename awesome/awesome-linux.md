@@ -34,10 +34,6 @@
 
 ### Репозитории
 
-### Гайды
-
-- About A comprehensive guide for Linux Network (Socket) programming https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming
-
 ### Книги, Wiki
 
 - https://bottomupcs.com/index.html
@@ -87,8 +83,22 @@
 - electerm Open-sourced terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win). https://github.com/electerm/electerm
 - Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks https://www.asbru-cm.net/ https://github.com/asbru-cm/asbru-cm
 
+### Мануалы
+
+- https://www.kernel.org/doc/man-pages/
+- https://linux.die.net/man/
+- https://man.cx/
+- http://man.he.net/
+- https://manned.org/
+- https://man.archlinux.org/
+- https://manpages.ubuntu.com/
+- https://manpages.debian.org/
+- https://manpages.opensuse.org/
+- https://www.mankier.com/
+
 ### Гайды
 
+- About A comprehensive guide for Linux Network (Socket) programming https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming
 - https://kernelnewbies.org/
 
 ### Курсы
