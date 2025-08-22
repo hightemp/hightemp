@@ -903,6 +903,7 @@
       - Plan9/Go https://9lab.org/plan9/go/
       - 0c, 5c, 6c, 8c, 9c, kc, qc, vc – C compilers https://web.archive.org/web/20170601071426/http://plan9.bell-labs.com/magic/man2html/1/8c
     - Остальное
+      - Барьеры памяти «Golang» https://habr.com/ru/articles/930864/
       - Как написать сборку Go https://blog.lufia.org/entry/2021/03/17/113000
       - The Go low-level calling convention on x86-64 https://dr-knz.net/go-calling-convention-x86-64.html
       - How to analyze Go code in assembly https://huizhou92.com/p/how-to-analyze-go-code-in-assembly/
