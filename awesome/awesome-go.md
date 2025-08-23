@@ -2278,6 +2278,7 @@
   - Интеграционные тесты
     - Интеграционные тесты на Go Лучшие практики https://golangconf.ru/2019/abstracts/5650
 - Остальное
+  - Разбираем собеседование от разработчиков из АВИТО: ловушка со слайсами в Go https://www.youtube.com/watch?v=LVyqpVgGdhI
   - https://vk.com/video/playlist/-211870343_13
   - Go Clean Template | Чистая Архитектура и как её готовить, Михаил Непряхин https://www.youtube.com/watch?v=V6lQG6d5LgU
   - Configure Golang in Neovim https://www.youtube.com/watch?v=EgwiPok2nbU
