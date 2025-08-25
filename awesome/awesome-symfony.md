@@ -353,6 +353,7 @@
       - A technical look at Forest Admin, EasyAdmin and Sonata https://www.forestadmin.com/blog/forest-admin-easyadmin-sonata/
 - SOAP
   - Как создать SOAP веб-сервис в контроллере Symfony https://symfony.ru/doc/current/controller/soap_web_service.html
+  - Создание веб-сервисов с Symfony 2.8 https://learntutorials.net/ru/symfony2/topic/6355/создание-веб-сервисов-с-symfony-2-8
 - Task scheduler, cron
   - Знакомство с созданием консольных команд: cron. https://php.zone/symfony-course/znakomstvo-s-konsolnymi-komandami-v-symfony-cron
 - Архитектура
