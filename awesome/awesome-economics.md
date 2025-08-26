@@ -8,6 +8,7 @@
 - https://bizmall.ru
 - https://aktivo.ru/realty
 - https://jetlend.ru/
+- https://lender-invest.ru/
 - https://my.first-am.ru
 - https://invest-intelion.com/
 - https://conomica.ru/
