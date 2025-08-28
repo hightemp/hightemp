@@ -423,6 +423,8 @@
 - Системы мониторинга
     - Zabbix
         - Развертывание Zabbix 4.4 с nginx, php-fpm и MySQL Percona в Docker https://it-lux.ru/развертывание-zabbix-4-с-nginx-php-fpm-и-mysql-в-docker/
+- ГОСТ
+    - v1.24_ЕСИА и ГОСТ Р 34.10-2012 сертификаты https://docs.eltex-co.ru/pages/viewpage.action?pageId=318866284
 - VyOS (Open-source fully functional router and firewall platform)
     - Основное
         - https://vyos.net/get/nightly-builds/
