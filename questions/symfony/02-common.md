@@ -1171,3 +1171,271 @@ monolog:
 ```
 
 Здесь у нас три обработчика с разными типами. `fingers_crossed` будет использовать `rotating_file` в качестве вложенного обработчика.
+
+# Покажи все возможные способы обращаться к БД (к таблицам и просто SQL MySQL) в контроллере Symfony 7
+
+Ниже — практические способы работать с БД (таблицами и «чистым» SQL для MySQL) прямо из контроллера в Symfony 7. Для краткости предполагаем, что у вас есть сущность `App\Entity\Product` и репозиторий `App\Repository\ProductRepository`.
+
+Важно: хорошая практика — выносить доступ к БД в репозитории/сервисы. В контроллере ниже — лишь демонстрация вариантов.
+
+1) Репозиторий Doctrine ORM (чтение)
+```php
+// src/Controller/ProductController.php
+namespace App\Controller;
+
+use App\Repository\ProductRepository;
+use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
+use Symfony\Component\HttpFoundation\JsonResponse;
+use Symfony\Component\Routing\Attribute\Route;
+
+final class ProductController extends AbstractController
+{
+    #[Route('/products/{id}', methods: ['GET'])]
+    public function byId(ProductRepository $products, int $id): JsonResponse
+    {
+        $product = $products->find($id);            // findOneBy([...]), findAll(), findBy([...])
+        if (!$product) {
+            throw $this->createNotFoundException();
+        }
+
+        return $this->json([
+            'id' => $product->getId(),
+            'name' => $product->getName(),
+        ]);
+    }
+}
+```
+
+2) Автоматическое получение сущности через `#[MapEntity]`
+```php
+use App\Entity\Product;
+use Symfony\Bridge\Doctrine\Attribute\MapEntity;
+
+#[Route('/products/{id}', methods: ['GET'])]
+public function show(#[MapEntity] Product $product): JsonResponse
+{
+    return $this->json([
+        'id' => $product->getId(),
+        'name' => $product->getName(),
+    ]);
+}
+```
+Работает, если в роуте есть `{id}` и сущность имеет поле `id`. Можно настраивать маппинг: `#[MapEntity(expr: 'repository.findOneBy(["slug" => slug])')]`.
+
+3) Запись через `EntityManagerInterface` (persist/flush/remove)
+```php
+use App\Entity\Product;
+use Doctrine\ORM\EntityManagerInterface;
+
+#[Route('/products', methods: ['POST'])]
+public function create(EntityManagerInterface $em): JsonResponse
+{
+    $p = new Product();
+    $p->setName('New name');
+    $p->setPrice(990);
+
+    $em->persist($p);
+    $em->flush();
+
+    return $this->json(['id' => $p->getId()]);
+}
+
+#[Route('/products/{id}', methods: ['DELETE'])]
+public function delete(ProductRepository $repo, EntityManagerInterface $em, int $id): JsonResponse
+{
+    $p = $repo->find($id);
+    if (!$p) {
+        throw $this->createNotFoundException();
+    }
+    $em->remove($p);
+    $em->flush();
+
+    return $this->json(['deleted' => true]);
+}
+```
+
+4) DQL (Doctrine Query Language)
+```php
+use Doctrine\ORM\EntityManagerInterface;
+
+#[Route('/products/dql', methods: ['GET'])]
+public function dql(EntityManagerInterface $em): JsonResponse
+{
+    $dql = 'SELECT p FROM App\Entity\Product p WHERE p.price > :min ORDER BY p.price DESC';
+    $products = $em->createQuery($dql)
+        ->setParameter('min', 100)
+        ->getResult(); // ->getOneOrNullResult() для одного
+
+    return $this->json(array_map(fn($p) => [
+        'id' => $p->getId(),
+        'name' => $p->getName(),
+    ], $products));
+}
+```
+
+5) ORM QueryBuilder (на базе DQL)
+```php
+use App\Repository\ProductRepository;
+
+#[Route('/products/qb', methods: ['GET'])]
+public function ormQb(ProductRepository $repo): JsonResponse
+{
+    $qb = $repo->createQueryBuilder('p')
+        ->leftJoin('p.category', 'c')->addSelect('c')
+        ->where('p.price > :min')->setParameter('min', 100)
+        ->orderBy('p.createdAt', 'DESC');
+
+    $products = $qb->getQuery()->getResult();
+
+    return $this->json(array_map(fn($p) => [
+        'id' => $p->getId(),
+        'name' => $p->getName(),
+    ], $products));
+}
+```
+
+6) Doctrine DBAL: чистый SQL (рекомендовано для «сырых» запросов)
+```php
+use Doctrine\DBAL\Connection;
+
+#[Route('/products/sql', methods: ['GET'])]
+public function rawSql(Connection $conn): JsonResponse
+{
+    // SELECT
+    $rows = $conn->executeQuery(
+        'SELECT id, name, price FROM product WHERE price > :min',
+        ['min' => 100]
+    )->fetchAllAssociative();
+
+    // UPDATE/INSERT/DELETE
+    $affected = $conn->executeStatement(
+        'UPDATE product SET price = price + :delta WHERE id = :id',
+        ['delta' => 50, 'id' => 10]
+    );
+
+    return $this->json([
+        'rows' => $rows,
+        'updated' => $affected,
+    ]);
+}
+```
+DBAL автоматически подготавливает запросы и экранирует параметры. Для явной типизации можно использовать `Doctrine\DBAL\Types\Types`.
+
+7) Doctrine DBAL QueryBuilder (SQL-конструктор)
+```php
+use Doctrine\DBAL\Connection;
+
+#[Route('/products/dbal-qb', methods: ['GET'])]
+public function dbalQb(Connection $conn): JsonResponse
+{
+    $qb = $conn->createQueryBuilder();
+    $qb->select('p.id', 'p.name', 'p.price')
+        ->from('product', 'p')
+        ->where('p.price BETWEEN :a AND :b')
+        ->setParameters(['a' => 100, 'b' => 500])
+        ->orderBy('p.price', 'ASC');
+
+    $rows = $qb->executeQuery()->fetchAllAssociative();
+
+    return $this->json($rows);
+}
+```
+
+8) Транзакции
+- Через DBAL (универсально и безопасно):
+```php
+use Doctrine\DBAL\Connection;
+
+#[Route('/products/tx', methods: ['POST'])]
+public function transactional(Connection $conn): JsonResponse
+{
+    $conn->transactional(function (Connection $conn) {
+        $conn->executeStatement(
+            'UPDATE account SET balance = balance - :sum WHERE id = :id',
+            ['sum' => 100, 'id' => 1]
+        );
+        $conn->executeStatement(
+            'UPDATE account SET balance = balance + :sum WHERE id = :id',
+            ['sum' => 100, 'id' => 2]
+        );
+    });
+
+    return $this->json(['ok' => true]);
+}
+```
+- Через ORM + соединение:
+```php
+use Doctrine\ORM\EntityManagerInterface;
+
+public function ormTx(EntityManagerInterface $em): JsonResponse
+{
+    $conn = $em->getConnection();
+    $conn->beginTransaction();
+    try {
+        // ... любые операции ORM: persist/remove
+        $em->flush();
+        $conn->commit();
+    } catch (\Throwable $e) {
+        $conn->rollBack();
+        throw $e;
+    }
+
+    return $this->json(['ok' => true]);
+}
+```
+
+9) Получение `Connection` и `EntityManager` через `ManagerRegistry`
+```php
+use Doctrine\Persistence\ManagerRegistry;
+
+public function registry(ManagerRegistry $doctrine): JsonResponse
+{
+    $em = $doctrine->getManager();       // EntityManagerInterface
+    $conn = $doctrine->getConnection();  // DBAL Connection
+
+    // ...
+    return $this->json(['ok' => true]);
+}
+```
+
+10) Потоковая обработка больших выборок (без загрузки всего в память)
+```php
+use Doctrine\ORM\EntityManagerInterface;
+
+public function stream(EntityManagerInterface $em): JsonResponse
+{
+    $iterable = $em->createQuery('SELECT p FROM App\Entity\Product p')
+        ->toIterable(); // построчная итерация
+
+    foreach ($iterable as $product) {
+        // обработка
+        // периодически можно вызывать $em->clear() для снижения потребления памяти
+    }
+
+    return $this->json(['done' => true]);
+}
+```
+
+11) Нативный PDO (возможен, но обычно не нужен; используйте DBAL)
+```php
+use Doctrine\DBAL\Connection;
+
+public function pdo(Connection $conn): JsonResponse
+{
+    $pdo = $conn->getNativeConnection(); // \PDO для драйвера pdo_mysql
+    $stmt = $pdo->prepare('SELECT id, name FROM product WHERE price > :min');
+    $stmt->execute(['min' => 100]);
+    $rows = $stmt->fetchAll(\PDO::FETCH_ASSOC);
+
+    return $this->json($rows);
+}
+```
+
+12) ORM Native Query с маппингом результатов в сущности
+- Возможен, но это продвинутый сценарий и зависит от версии Doctrine ORM (ResultSetMapping и др.). В большинстве случаев проще и безопаснее использовать DBAL для нативного SQL и возвращать массивы/DTO. Если нужно именно гидрировать сущности из SQL, изучите `ResultSetMapping` для вашей версии Doctrine ORM.
+
+Замечания и советы:
+- Всегда используйте параметризованные запросы (не конкатенируйте SQL-строки с пользовательскими данными).
+- Для чистого SQL отдавайте предпочтение `Connection` (DBAL): это быстрее и проще, чем DQL, когда нет нужды в сущностях.
+- Бизнес-логику и сложные запросы держите в репозиториях/сервисах, контроллер — для оркестрации.
+- Для MySQL настройте DSN в `.env` (`DATABASE_URL="mysql://user:pass@127.0.0.1:3306/db?serverVersion=8.0"`).
