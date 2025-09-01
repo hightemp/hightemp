@@ -17,6 +17,10 @@
    - https://reqbin.com/
    - https://httpie.io/app
 
+### JSON API Placeholder
+
+- https://jsonplaceholder.typicode.com/
+
 ### Коллекци emoji
 
 - https://apps.timwhitlock.info/emoji/tables/unicode
