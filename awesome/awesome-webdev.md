@@ -15,6 +15,7 @@
 
 - С удаленного сервера
    - https://reqbin.com/
+   - https://httpie.io/app
 
 ### Коллекци emoji
 
