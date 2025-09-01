@@ -11,6 +11,11 @@
 - Мега-база для удалённой работы — репозиторий с сотнями профилей IT-компаний, содержащий информацию о найме, требованиях по технологиям и опыте сотрудников, доступный бесплатно. https://github.com/remoteintech/remote-jobs
 - CheatSheets-for-Developers — обширный репозиторий с гайдами по различным техстекам, содержащий актуальную информацию по языкам программирования, фреймворкам и лучшим практикам. https://github.com/crescentpartha/CheatSheets-for-Developers
 
+### Тестирование REST
+
+- С удаленного сервера
+   - https://reqbin.com/
+
 ### Коллекци emoji
 
 - https://apps.timwhitlock.info/emoji/tables/unicode
