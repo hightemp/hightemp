@@ -19,12 +19,11 @@
 - Mock API
    - https://reqres.in/
    - https://mockoon.com/
-   - https://restful-booker.herokuapp.com/
    - https://beeceptor.com/mock-server/explore/
-
-### JSON API Placeholder
-
-- https://jsonplaceholder.typicode.com/
+- API Placeholder (JSON, XML)
+   - https://jsonplaceholder.typicode.com/
+   - https://alexwohlbruck.github.io/cat-facts/
+   - https://restful-booker.herokuapp.com/
 
 ### Коллекци emoji
 
