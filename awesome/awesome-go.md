@@ -475,6 +475,7 @@
     - Погружение в интерфейсы Go https://habr.com/ru/articles/856272/
     - Interfaces and other types https://go.dev/doc/effective_go#interfaces_and_types
     - Interface types https://go.dev/ref/spec#Interface_types
+    - Things You Never Wanted To Know About Go Interfaces https://mcyoung.xyz/2024/12/12/go-abi/#codegen-for-interface-operations
   - Label
     - Labels in Go https://medium.com/golangspec/labels-in-go-4ffd81932339
   - Контекст; Context
