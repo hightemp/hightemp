@@ -18,6 +18,7 @@
    - https://httpie.io/app
 - Mock API
    - https://reqres.in/
+   - https://restful-booker.herokuapp.com/
 
 ### JSON API Placeholder
 
