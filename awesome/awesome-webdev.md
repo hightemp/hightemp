@@ -19,6 +19,7 @@
 - Mock API
    - https://reqres.in/
    - https://restful-booker.herokuapp.com/
+   - https://beeceptor.com/mock-server/explore/
 
 ### JSON API Placeholder
 
