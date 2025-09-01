@@ -439,6 +439,8 @@
     - Многопоточность в Go https://learning.infoteam.msk.ru/Go/Yandex/Лекции/Часть%202/6%20Спринт%204/2%20Многопоточность/2%20Многопоточность%20в%20Go.html
     - Погружение в Go: подборка ресурсов для новичков и продолжающих https://habr.com/ru/companies/selectel/articles/929858/
     - Изучаем Go: руководство для JavaScript-разработчиков. Часть 1 https://habr.com/ru/companies/timeweb/articles/933118/
+  - language design; Дизайн языка;
+    - Default Methods in Go https://mcyoung.xyz/2025/08/25/go-default-methods/
   - Типы
     - Go Type System Overview https://go101.org/article/type-system-overview.html
     - The differences between "Type Alias" and "New Types" in Go https://perfects.engineering/blog/go_alias_vs_new_types
