@@ -53,6 +53,7 @@
 ### Learner’s dictionaries
 
 - https://dictionary.cambridge.org/ru/словарь/английский/
+- https://www.collinsdictionary.com/
 
 ### Инструменты
 
