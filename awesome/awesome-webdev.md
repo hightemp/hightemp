@@ -18,6 +18,7 @@
    - https://httpie.io/app
 - Mock API
    - https://reqres.in/
+   - https://mockoon.com/
    - https://restful-booker.herokuapp.com/
    - https://beeceptor.com/mock-server/explore/
 
