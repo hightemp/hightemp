@@ -974,6 +974,7 @@
   - Конкурентность; Многопоточность
     - Разбираем конкурентность в Go: книги, блоги, выступления https://habr.com/ru/companies/yadro/articles/892632/
     - Секреты дедлоков в Go https://habr.com/ru/companies/ozonbank/articles/908978/
+    - Потоки, горутины, синхронизация и мьютексы в Go https://habr.com/ru/articles/933464/
   - Makefile
     - Пример создания Makefile для Go-приложений https://habr.com/ru/articles/461467/
   - Версионирование
