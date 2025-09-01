@@ -13,9 +13,11 @@
 
 ### Тестирование REST
 
-- С удаленного сервера
+- Запросы с удаленного сервера
    - https://reqbin.com/
    - https://httpie.io/app
+- Mock API
+   - https://reqres.in/
 
 ### JSON API Placeholder
 
