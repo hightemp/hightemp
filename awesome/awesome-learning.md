@@ -50,6 +50,10 @@
   - https://word-by-word.ru/ratings/cefr-a2
   - Слова с A1 по C2 https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000
 
+### Learner’s dictionaries
+
+- https://dictionary.cambridge.org/ru/словарь/английский/
+
 ### Инструменты
 
 - https://github.com/jeremy-ww/awesome-english
