@@ -38,7 +38,9 @@
 
 ### Дивиденды
 
-- https://www.dohod.ru/ik/analytics/dividend/nvtk
+- НОВАТЭК
+    - https://www.dohod.ru/ik/analytics/dividend/nvtk
+    - https://bcs.ru/markets/nvtk/tqbr/dividends
 
 ### Сервисы
 
