@@ -465,6 +465,8 @@
 - Поиск
   - Solr
     - Интеграция Solr с PHP https://blog.csdn.net/wizardforcel/article/details/140629198
+- SOAP
+  - Пишем SOAP клиент-серверное приложение на PHP https://habr.com/ru/articles/187390/
 - CI/CD
   - PHP and Continuous Integration with Travis CI https://www.sitepoint.com/php-continuous-integration-travis-ci/
 - PHP-VCR
