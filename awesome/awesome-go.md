@@ -429,6 +429,7 @@
       - The new maps and slices packages in Go 1.23: tour and examples https://www.dolthub.com/blog/2024-12-20-collection-functions-in-go-1-23/
     - 1.22
       - Fixing For Loops in Go 1.22 https://go.dev/blog/loopvar-preview
+      - Go Wiki: LoopvarExperiment https://tip.golang.org/wiki/LoopvarExperiment
   - Основное
     - The ecosystem of the Go programming language https://henvic.dev/posts/go/
     - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
