@@ -241,6 +241,7 @@
     - std::condition_variable https://ru.cppreference.com/w/cpp/thread/condition_variable
     - How-to: Use C++ Conditional Variables for Thread Synchronization https://jtchen.io/blog/cpp-conditional-variables
     - C++ Condition Variable https://leimao.github.io/blog/CPP-Condition-Variable/
+    - Understanding Conditional Variables in C++ https://medium.com/@jtchen2k/using-c-conditional-variables-for-thread-synchronization-87fb1ac3601c
   - date
     - Time in C++ – present and future – Part 2 https://curiouslyrecurringthoughts.home.blog/2019/08/30/time-in-c-present-and-future-part-2/
   - Шаблоны, templates
