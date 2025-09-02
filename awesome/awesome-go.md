@@ -1573,6 +1573,7 @@
     - Хань Мэнсюань; реализация golang на основе DDD https://www.cnblogs.com/siyunianhua/p/17189349.html
   - CQRS (использование разных моделей для чтения и записи)
     - How to use basic CQRS in Go https://threedots.tech/post/basic-cqrs-in-go/
+    - Практический CQRS и Event Sourcing на Go https://habr.com/ru/articles/932510/
   - Lambda
     - Go: AWS Lambda Project Structure Using Golang https://medium.com/dm03514-tech-blog/go-aws-lambda-project-structure-using-golang-98b6c0a5339d
   - Layered Design; Слоистая архитектура
