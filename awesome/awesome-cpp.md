@@ -197,6 +197,7 @@
     - std::unique_lock https://cplusplus.com/reference/mutex/unique_lock/
     - Mutex lock guards in C++11 https://geidav.wordpress.com/2014/01/09/mutex-lock-guards-in-c11/    
     - unique_lock or lock_guard: Which Is Better? https://www.geeksforgeeks.org/cpp/stdunique_lock-or-stdlock_guard-which-is-better/
+    - Let Threads Sleep: A Simple Guide To Condition Variables in C++ https://code.likeagirl.io/let-threads-sleep-a-simple-guide-to-condition-variables-in-c-200bd418c006
   - Ссылки
     - Категории выражений и виды ссылок https://pvs-studio.ru/ru/blog/terms/6517/
     - Understanding lvalues, rvalues and their references https://www.fluentcpp.com/2018/02/06/understanding-lvalues-rvalues-and-their-references/
