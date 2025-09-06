@@ -1527,6 +1527,7 @@ https://www.sackett.net/The-Spike.pdf
 - это веб-сайт, содержащий бесплатную онлайн-книгу "Neural Networks and Deep Learning" (Нейронные сети и глубокое обучение) http://neuralnetworksanddeeplearning.com/
 - Охота на электроовец: Большая Книга Искусственного Интеллекта — двухтомная монография Сергея Маркова объёмом свыше 1200 страниц, представленная в формате вики-ресурса, содержащая исчерпывающую историю развития искусственного интеллекта с древнейших времён до современности, включая подробное рассмотрение генеративного ИИ и его предпосылок, с возможностью чтения отдельных глав и комментирования материала. http://wiki.markoff.science/index.php/Wiki-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D1%8F_%D0%9C%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0_%C2%AB%D0%9E%D1%85%D0%BE%D1%82%D0%B0_%D0%BD%D0%B0_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BE%D0%B2%D0%B5%D1%86%C2%BB http://wiki.markoff.science/index.php/%D0%9E%D1%85%D0%BE%D1%82%D0%B0_%D0%BD%D0%B0_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BE%D0%B2%D0%B5%D1%86
 - Deep Learning An MIT Press book Ian Goodfellow and Yoshua Bengio and Aaron Courville https://www.deeplearningbook.org/
+- Agentic Design Patterns — бесплатная книга на 400 страниц об агентских системах, включая продвинутые техники промптинга, шаблоны команд ИИ-агентов и практические примеры с кодом. https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic#heading=h.pxcur8v2qagu перевод https://t.me/notboring_tech/3763?comment=25684
 
 ### Гайды
 
