@@ -1566,6 +1566,11 @@ https://www.sackett.net/The-Spike.pdf
     - Видео Андрея Карпатого доступно объясняет основы больших языковых моделей (LLM), их возможности и ограничения, а также практическое применение. https://www.youtube.com/watch?v=7xTGNNLPyMI
     - У Dwarkesh вышел подкаст с двумя глыбами Google — легендарным Jeff "Norris" Dean и Noam Shazeer, сотрудником, за которого заплатили 2 миллиарда долларов https://youtu.be/v0gjI__RyCY
     - Radiance Fields and the Future of Generative Media - обзорная лекция Джона Баррона о его исследованиях в области radiance fields за последние пять лет, в которой он также рассматривает вопрос о необходимости генерации 3D-контента в современном мире. https://www.youtube.com/watch?v=hFlF33JZbA0 https://t.me/ai_newz/1857
+- 3blue1brown
+    - Краткое объяснение LLM https://youtu.be/LPZh9BOjkQs
+    - Как LLM могут хранить факты  https://youtu.be/9-Jl0dxWQs8
+    - Визуализация внимания, сердце трансформера   https://youtu.be/eMlx5fFNoYc
+    - LLM и GPT — как работают большие языковые модели https://youtu.be/wjZofJX0v4M
 - Лекции
     - Open Endedness, World Models, and the Automation of Innovation — исследовательская лекция Тима Роктешела из DeepMind, представленная на конференции ICLR 2025, посвящённая концепции Открытой Эволюции в области искусственного интеллекта, включающая разработку крупномасштабных фундаментальных моделей мира для генерации разнообразных сред обучения универсальных агентов, автоматизацию процесса инноваций, самоулучшение моделей и автоматизированный prompt engineering. https://www.youtube.com/watch?v=ZZC_xqRgcHo&ab_channel=MatijaGrcic
 - Каналы
