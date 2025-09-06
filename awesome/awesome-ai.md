@@ -879,6 +879,7 @@ https://arxiv.org/pdf/2411.08804v1
 - Hunyuan LLM — серия компактных языковых моделей от Tencent с параметрами 0.5B, 1.8B, 4B и 7B, оптимизированная для пользовательских устройств и способная обрабатывать контекст до 256K. https://hunyuan.tencent.com/modelSquare/home/list https://github.com/Tencent-Hunyuan https://huggingface.co/tencent https://hunyuan.tencent.com/
 - OpenAI — представила две новые открытые нейросети, способные вести осмысленные диалоги и поддерживающие сложные инструменты, а также анонсировала выход GPT-5. https://gpt-oss.com https://github.com/openai/gpt-oss
 - GLM 4.5 — новая открытая MoE модель от китайских разработчиков с улучшенными показателями на бенчмарках, доступная под MIT лицензией и поддерживающая расширенный контекст до 128k токенов. https://huggingface.co/collections/zai-org/glm-45-687c621d34bda8c9e4bf503b, https://chat.z.ai/, https://z.ai/blog/glm-4.5, https://github.com/THUDM/slime
+- EmbeddingGemma — высокоэффективная и легковесная нейронная модель с 308 миллионами параметров, работающая без интернета на ноутбуках и телефонах, поддерживающая более 100 языков и требующая менее 200 МБ оперативной памяти. https://www.google.com/embeddinggemma
 
 ### Модели для кодинга
 
