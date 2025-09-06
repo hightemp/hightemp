@@ -20,6 +20,10 @@
 
 - RCSB Protein Data Bank (RCSB PDB) https://www.rcsb.org/
 
+### AI-предсказание молекул
+
+- Boltz-2 — открытый движок для задач структурной биологии и дизайна лекарств, способный быстро и точно строить формы белков и оценивать силы связывания. https://rowansci.com/blog/boltz2-faq https://proteinlanguagemodel.com/blog/how_to_run_boltz2_locally https://cdn.prod.website-files.com/68404fd075dba49e58331ad9/6842ee1285b9af247ac5a122_boltz2.pdf https://boltz.bio/boltz2 https://github.com/jwohlwend/boltz https://huggingface.co/boltz-community/boltz-2
+
 ### Книги
 
 - Lehninger Principles of Biochemistry (Nelson) 8 ed (2022) Культовое издание по биохимии в последней версии. 
