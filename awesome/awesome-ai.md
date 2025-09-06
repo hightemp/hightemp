@@ -882,6 +882,7 @@ https://arxiv.org/pdf/2411.08804v1
 - Лучшие практики по промптингу GPT-5 — руководство, описывающее эффективные методы работы с промптами для GPT-5. https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide
 - Promptessor — сервис, который помогает улучшить ваши промпты, оценивая их по метрикам ясности, контекста, целеполагания, структуры и ограничений, предоставляя подробный разбор и оптимизированные версии запросов. https://promptessor.com/#faq
 - собрание системных промптов от Anthropic, Google, OpenAI и других, содержащих инструкции для моделей ИИ. https://github.com/asgeirtj/system_prompts_leaks
+- сборник из 480 «шпаргалок» для работы с текстовыми нейросетями, облегчающий получение структурированных ответов. https://docs.google.com/spreadsheets/d/1xoOd4YCmrHtcR4OY8HyGmsrO5hiYrwTwzS6dv7RSd48/edit?usp=sharing
 
 ### Мультимодальные модели
 
