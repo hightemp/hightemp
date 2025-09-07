@@ -189,3 +189,5 @@
 
 - Penetration testing
     - Stockholm Syndrome: Accurate network testing https://blog.exploit.org/caster-stockholm-syndrome/
+- Подборки
+    - Обучение кибербезопасности. Бесплатное ПО для практики https://habr.com/ru/articles/888690/
