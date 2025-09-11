@@ -276,7 +276,9 @@
       - How to implement a custom Symfony authenticator https://sajadtorkamani.com/how-to-implement-a-custom-symfony-authenticator/
   - REST API
     - Создание REST API в Symfony https://it.vstu.by/courses/information_systems/development_of_web_applications/theory/rest_api_in_symfony/
-- Формы
+- Validation; Валидация; Constraints; Ограничения
+  - How to use Conditional Constraints with Symfony/Validator https://archiv.pehapkari.cz/blog/2017/02/18/symfony-validator-conditional-constraints/
+- Forms; Формы
   - Работа с формами в symfony https://njsoft.dev/blog/symfony-php-work-with-forms/
   - Продвинутые методы работы с формами веб-приложений на PHP с Symfony: валидация данных, CSRF защита https://ifellow.ru/media-center/prodvinutye-metody-raboty-s-formami-veb-prilozheniy-na-php-s-symfony-validatsiya-dannykh-csrf-zashch/
   - Use Bootstrap 3 and 4 form themes in the same Symfony project https://backbeat.tech/blog/bootstrap-3-and-4-forms-in-the-same-symfony-project
