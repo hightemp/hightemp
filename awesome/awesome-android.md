@@ -46,3 +46,7 @@
 ### Видео
 
 - Реализуем kotlinx.coroutines своими силами, чтобы разобраться как они устроены https://www.youtube.com/watch?v=2SpeJj7BUs4
+
+### Блоги
+
+- https://www.androidhive.info/
