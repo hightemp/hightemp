@@ -1595,6 +1595,7 @@ https://www.sackett.net/The-Spike.pdf
 - Исследования
     - Мои ОТКРЫТИЯ! Потратил $600 на 4000 НОВЕЙШИХ исследований GPT по промпт-инжинирингу https://www.youtube.com/watch?v=cMR2c3vQRAc
 - Остальное
+    - (плейлист на YouTube (https://www.youtube.com/playlist?list=PLy6K3_Hx-udj6n1S88Vslyw2QVxSXLP2c)) 10+ часовой мини-курс по NLP «Полная история семейства GPT
     - How DeepSeek Rewrote the Transformer [MLA] https://www.youtube.com/watch?v=0VLAoVGf_74
     - GPT-2 from Scratch in C (Day 1/2) https://www.youtube.com/watch?v=d1LNUvkRMEg
     - Let's build the GPT Tokenizer https://www.youtube.com/watch?v=zduSFxRajkE
