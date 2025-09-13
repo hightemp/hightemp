@@ -52,3 +52,5 @@
     - AI-Powered Web Scraping With llm-scraper https://brightdata.com/blog/ai/web-scraping-with-llm-scraper
 - Обход капчи
     - How to Bypass CAPTCHAs With Playwright https://brightdata.com/blog/web-data/bypass-captchas-with-playwright
+- Остальное
+    - How to scrape all text from a website for LLM training https://www.scrapingbee.com/blog/how-to-scrape-all-text-from-a-website-for-llm-ai-training/
