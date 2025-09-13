@@ -2,6 +2,10 @@
 
 - https://www.sparkcodehub.com/sql/fundamentals/introduction-to-sql
 
+### Тренажеры
+
+- Querymon — образовательная игра, использующая покемонов для обучения SQL, где игроки постепенно осваивают запросы и базы данных через сотни увлекательных миссий. https://codepip.com/games/querymon/
+
 ### Статьи
 
 - Common SQL
