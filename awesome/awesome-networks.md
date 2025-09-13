@@ -20,11 +20,13 @@
 
 ### VPN
 
-- https://www.vpnbook.com/
-- Бесплатные ключи протокола VLESS | V2RAY https://vpnkeys.org/vless
 - vless
     - GUI Клиенты
         - v2rayA https://github.com/v2rayA/v2rayA
+    - Остальное
+        - Бесплатные ключи протокола VLESS | V2RAY https://vpnkeys.org/vless
+- Остальное
+    - https://www.vpnbook.com/
 
 ### Как получить список Российских адресов
 
