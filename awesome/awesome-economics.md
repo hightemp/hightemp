@@ -135,6 +135,10 @@
 - https://journal.tinkoff.ru/short/best-money-books/
 - https://arzamas.academy/materials/1041
 
+### Курсы
+
+- Бесплатный курс «Путь инвестора» Курс для начинающих инвесторов https://school.moex.com/put-investora/
+
 ### Статьи
 
 - Облигации
