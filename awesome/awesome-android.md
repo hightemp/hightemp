@@ -8,6 +8,7 @@
 ### Курсы
 
 - Современная Android-разработка: базовый курс (2025) https://stepik.org/course/232639/promo
+- Kotlin: полный курс (2025) — подготовка к собеседованию https://stepik.org/course/207758/promo
 
 ### Магазины
 
