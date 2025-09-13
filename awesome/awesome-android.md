@@ -9,8 +9,9 @@
 
 - Современная Android-разработка: базовый курс (2025) https://stepik.org/course/232639/promo
 - Kotlin: полный курс (2025) — подготовка к собеседованию https://stepik.org/course/207758/promo
+- Шкодим под Android https://developer.alexanderklimov.ru/android/
 
-### Учеьники
+### Учебники
 
 - Уроки по Android (2011-2017) https://startandroid.ru/ru/uroki/vse-uroki-spiskom.html
 
