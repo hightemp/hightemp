@@ -14,6 +14,7 @@
 ### Учебники
 
 - Уроки по Android (2011-2017) https://startandroid.ru/ru/uroki/vse-uroki-spiskom.html
+- Программирование под Андроид на Java https://metanit.com/java/android/
 
 ### Книги
 
