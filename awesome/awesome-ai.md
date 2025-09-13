@@ -890,6 +890,7 @@ https://arxiv.org/pdf/2411.08804v1
 - https://promptmetheus.com/
 - обнародованная коллекция скрытых инструкций (промптов), позволяющих обходить встроенные ограничения у передовых систем искусственного интеллекта, таких как ChatGPT, Claude, Grok-3, GitHub Copilot и Perplexity https://github.com/jujumilk3/leaked-system-prompts
 - Generating Synthetic Dataset for RAG https://www.promptingguide.ai/applications/synthetic_rag
+- Tackling Generated Datasets Diversity https://www.promptingguide.ai/applications/generating_textbooks
 
 ### Мультимодальные модели
 
