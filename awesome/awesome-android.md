@@ -15,6 +15,7 @@
 
 - Уроки по Android (2011-2017) https://startandroid.ru/ru/uroki/vse-uroki-spiskom.html
 - Программирование под Андроид на Java https://metanit.com/java/android/
+- Android Development Tutorials - Android, Activity, Intent, ADT, Services, BroadcastReceiver https://www.vogella.com/tutorials/android.html
 
 ### Книги
 
