@@ -35,6 +35,7 @@
         - How to make vpn app in android studio https://medium.com/@dnarayana18/how-to-make-vpn-app-in-android-studio-65523c75ae1e
 - Остальное
     - ByteWeaver в Open Source: инструментирование байт-кода Java во имя великого блага https://habr.com/ru/companies/vk/articles/845872/
+    - Installing Android Studio On Ubuntu 22.04: Complete Guide https://dev.to/janetmutua/installing-android-studio-on-ubuntu-2204-complete-guide-1kh8
 
 ### Приложения
 
