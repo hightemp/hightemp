@@ -1611,6 +1611,7 @@ https://www.sackett.net/The-Spike.pdf
     - LLM и GPT — как работают большие языковые модели https://youtu.be/wjZofJX0v4M
 - Лекции
     - Лекция (https://www.youtube.com/watch?v=4W3MQkApH9Y) «RLHF Intro: from Zero to Aligned Intelligent Systems» в рамках DataFest 2023 (была признана лучей лекцией ODS в 2023
+    - Лекция про языковые модели, основанные на принципе поиска ближайших соседей: часть 1 (https://www.youtube.com/watch?v=9XfBWyDw2LQ), часть 2 (https://www.youtube.com/watch?v=3XouFoBV0Q8);
     - Open Endedness, World Models, and the Automation of Innovation — исследовательская лекция Тима Роктешела из DeepMind, представленная на конференции ICLR 2025, посвящённая концепции Открытой Эволюции в области искусственного интеллекта, включающая разработку крупномасштабных фундаментальных моделей мира для генерации разнообразных сред обучения универсальных агентов, автоматизацию процесса инноваций, самоулучшение моделей и автоматизированный prompt engineering. https://www.youtube.com/watch?v=ZZC_xqRgcHo&ab_channel=MatijaGrcic
 - Каналы
     - Центр digital профессий ITtensive https://www.youtube.com/@ittensive
