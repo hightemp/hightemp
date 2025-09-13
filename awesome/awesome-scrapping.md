@@ -44,3 +44,5 @@
 - llm scrapping; Скрэпинг с помощью больших языковых моделей
     - Web scraping with LLMs https://docs.zyte.com/web-scraping/guides/llm/index.html
     - AI-Powered Web Scraping With llm-scraper https://brightdata.com/blog/ai/web-scraping-with-llm-scraper
+- Обход капчи
+    - How to Bypass CAPTCHAs With Playwright https://brightdata.com/blog/web-data/bypass-captchas-with-playwright
