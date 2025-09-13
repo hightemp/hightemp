@@ -38,3 +38,8 @@
 ### Демо сайты для тестирования скрепинга
 
 - https://sandbox.oxylabs.io/products
+
+### Статьи
+
+- llm scrapping; Скрэпинг с помощью больших языковых моделей
+    - Web scraping with LLMs https://docs.zyte.com/web-scraping/guides/llm/index.html
