@@ -50,3 +50,4 @@
 ### Блоги
 
 - https://www.androidhive.info/
+- http://technotalkative.com/
