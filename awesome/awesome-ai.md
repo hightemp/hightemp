@@ -267,12 +267,6 @@
 - Napkins — онлайн-сервис и опенсорс-проект для генерации дизайна веб-приложений по загружаемому скриншоту или рисунку; позволяет создавать прототипы как из рисунков, так и из предоставленного кода; использует модель Llama 4 для распознавания и генерирования дизайна. https://github.com/nutlope/napkins, https://www.napkins.dev/
 - Stitch — бесплатный AI-сервис от Google Labs для автоматизированного создания веб-интерфейсов и мобильных приложений, который генерирует HTML и CSS код на основе текстовых описаний или изображений, предоставляет возможности редактирования цветовой гаммы через текстовые подсказки и экспорт проектов в Figma, однако критикуется за создание шаблонного дизайна. https://stitch.withgoogle.com/
 
-### Промптинг
-
-- https://learnprompting.org/
-- https://promptmetheus.com/
-- обнародованная коллекция скрытых инструкций (промптов), позволяющих обходить встроенные ограничения у передовых систем искусственного интеллекта, таких как ChatGPT, Claude, Grok-3, GitHub Copilot и Perplexity https://github.com/jujumilk3/leaked-system-prompts
-
 ### Работа с документами
 
 - NotebookLM - это инструмент на основе искусственного интеллекта, разработанный Google Labs3. Это персонализированный соавтор, который помогает генерировать идеи и работать с документами. https://notebooklm.google/
@@ -892,6 +886,10 @@ https://arxiv.org/pdf/2411.08804v1
 - Promptessor — сервис, который помогает улучшить ваши промпты, оценивая их по метрикам ясности, контекста, целеполагания, структуры и ограничений, предоставляя подробный разбор и оптимизированные версии запросов. https://promptessor.com/#faq
 - собрание системных промптов от Anthropic, Google, OpenAI и других, содержащих инструкции для моделей ИИ. https://github.com/asgeirtj/system_prompts_leaks
 - сборник из 480 «шпаргалок» для работы с текстовыми нейросетями, облегчающий получение структурированных ответов. https://docs.google.com/spreadsheets/d/1xoOd4YCmrHtcR4OY8HyGmsrO5hiYrwTwzS6dv7RSd48/edit?usp=sharing
+- https://learnprompting.org/
+- https://promptmetheus.com/
+- обнародованная коллекция скрытых инструкций (промптов), позволяющих обходить встроенные ограничения у передовых систем искусственного интеллекта, таких как ChatGPT, Claude, Grok-3, GitHub Copilot и Perplexity https://github.com/jujumilk3/leaked-system-prompts
+- Generating Synthetic Dataset for RAG https://www.promptingguide.ai/applications/synthetic_rag
 
 ### Мультимодальные модели
 
