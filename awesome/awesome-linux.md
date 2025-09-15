@@ -403,6 +403,7 @@
 - Аудит
     - auditd
         - auditd https://sematext.com/glossary/auditd/
+        - Configure Linux system auditing with auditd https://www.redhat.com/en/blog/configure-linux-auditing-auditd
 - getfattr, setfattr
 - setfacl, getfacl
 - setpriv
