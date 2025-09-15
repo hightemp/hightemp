@@ -400,6 +400,9 @@
         - rsync, article 1: Scenarios (2022) https://michael.stapelberg.ch/posts/2022-06-18-rsync-article-1-scenarios/
         - rsync, article 2: Surroundings (2022) https://michael.stapelberg.ch/posts/2022-07-02-rsync-surroundings/
         - rsync, article 3: How does rsync work? (2022) https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/
+- Аудит
+    - auditd
+        - auditd https://sematext.com/glossary/auditd/
 - getfattr, setfattr
 - setfacl, getfacl
 - setpriv
