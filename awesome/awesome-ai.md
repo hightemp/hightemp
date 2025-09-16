@@ -1446,6 +1446,7 @@ https://arxiv.org/pdf/2411.08804v1
         - Prompt Decorators: A Simple Way to Improve AI Responses https://kalami.medium.com/prompt-decorators-a-simple-way-to-improve-ai-responses-c3f3c2579a8c
         - Advanced Prompt Engineering Techniques https://www.mercity.ai/blog-post/advanced-prompt-engineering-techniques
         - Step-Based Cascading Prompts: Deterministic Signals from the LLM Vibe Space https://shelbyjenkins.github.io/blog/cascade-prompt/
+        - Промптинг и суеверия. Что (не) надо добавлять к запросу в ChatGPT https://habr.com/ru/articles/946816/
     - Методы самосовершенствования и рефлексии (Self-Improvement & Reflection)
         - Can LLMs Critique and Iterate on Their Own Outputs? https://evjang.com/2023/03/26/self-reflection.html
         - Reflexion https://www.promptingguide.ai/techniques/reflexion
