@@ -1089,7 +1089,6 @@ https://arxiv.org/pdf/2411.08804v1
 - Аннотированная история современного искусственного интеллекта и глубокого обучения https://people.idsia.ch/~juergen/deep-learning-history.html#rnn
 - Все, что вам нужно знать для создания вашего первого приложения LLM https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac/
 - AgentRecipes — веб-сайт, содержащий примеры реализации агентов искусственного интеллекта с исходным кодом на различных языках программирования, предназначенных для обучения и интеграции в собственные проекты. https://www.agentrecipes.com/
-- Упаковка файлов в читабельный для AI формат. https://repomix.com/
 - Claude Code Templates — сборник из более чем 100 шаблонов, включая ИИ-агентов, команды, MCP-плагины и шаблоны проектов, доступный для установки в один клик. https://davila7.github.io/claude-code-templates/
 
 ### Полезные утилиты
