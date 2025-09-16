@@ -885,6 +885,7 @@ https://arxiv.org/pdf/2411.08804v1
 - https://github.com/yamadashy/repomix
 - https://github.com/raphaelmansuy/code2prompt
 - https://github.com/sansan0/ai-code-context-helper
+- https://prompt.16x.engineer/
 
 ### Промты; Промптинг
 
