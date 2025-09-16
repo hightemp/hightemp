@@ -880,6 +880,7 @@ https://arxiv.org/pdf/2411.08804v1
 
 ### Упаковщики репозитория или папки в промпт или текстовый файл
 
+- https://github.com/glebkudr/shotgun_code
 - https://github.com/detroittommy879/aicodeprep-gui
 - https://github.com/yamadashy/repomix
 
