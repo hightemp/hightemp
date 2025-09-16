@@ -878,6 +878,11 @@ https://arxiv.org/pdf/2411.08804v1
 - https://github.com/openai/tiktoken
 - https://huggingface.co/Xenova/text-embedding-ada-002
 
+### Упаковщики репозитория или папки в промпт или текстовый файл
+
+- https://github.com/detroittommy879/aicodeprep-gui
+- https://github.com/yamadashy/repomix
+
 ### Промты; Промптинг
 
 - https://github.com/DenisSergeevitch/chatgpt-custom-instructions
