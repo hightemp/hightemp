@@ -207,6 +207,7 @@
     - https://peter-zaitsev.livejournal.com/
     - https://hackmysql.com/tags/mysql/
 - PostgreSQL
+    - https://abheist.com/blogs
     - https://habr.com/ru/companies/postgrespro/articles/
     - https://devmark.ru/articles/tag/postgresql
     - https://www.commandprompt.com/education/category/postgres/
