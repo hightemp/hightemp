@@ -50,6 +50,7 @@
         - Изучаем PostgreSQL. Часть 1. Знакомимся с архитектурой https://habr.com/ru/companies/otus/articles/706346/
         - How to list tables in PostgreSQL https://www.illacloud.com/blog/list-tables-in-postgresql
     - Индексы
+        - PostgreSQL Deep Dive Part 11 — Understanding Database Indexing Fundamentals https://abheist.com/blogs/postgres-indexing
         - PostgreSQL Deep Dive Part 12 — Advanced Indexing Strategies and Optimization https://abheist.com/blogs/postgres-indexing-advanced
     - subtransactions; Подтранзакции
         - Why we spent the last month eliminating PostgreSQL subtransactions https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/
