@@ -192,6 +192,7 @@
 
 ### Блоги
 
+- https://www.dev-notes.ru/tags/php/
 - https://kevinsmith.io/
 - https://medium.com/tag/php
 - https://dev.to/t/php
@@ -413,6 +414,7 @@
   - DDD
     - Value Object
       - DDD в PHP: Value Object или Объект-Значение https://phpprofi.ru/blogs/post/58
+      - Value Objects в PHP 8: Создание лучшего кода https://www.dev-notes.ru/articles/php/value-objects-in-php-8-building-a-better-code/
     - Остальное
       - Domain Driven Design with PHP and Symfony https://dev.to/ludofleury/domain-driven-design-with-php-and-symfony-1bl6
       - Domain-Driven Design and Clean Architecture in PHP — Part 1 (Layers and Structure) https://medium.com/@pogulailo/domain-driven-design-and-clean-architecture-in-php-part-1-layers-and-structure-edcce57be42a
