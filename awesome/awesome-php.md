@@ -410,11 +410,14 @@
     - Clean Architecture with PHP https://medium.com/unil-ci-software-engineering/clean-architecture-with-php-22de915a6c50
     - Чистая архитектура на PHP. Как её измерять и контролировать? https://habr.com/ru/articles/504590/
   - DDD
-    - Domain Driven Design with PHP and Symfony https://dev.to/ludofleury/domain-driven-design-with-php-and-symfony-1bl6
-    - Domain-Driven Design and Clean Architecture in PHP — Part 1 (Layers and Structure) https://medium.com/@pogulailo/domain-driven-design-and-clean-architecture-in-php-part-1-layers-and-structure-edcce57be42a
-    - Understanding Domain-Driven Design (DDD) and its Benefits in PHP Development https://medium.com/@CleytonBonamigo/understanding-domain-driven-design-ddd-and-its-benefits-in-php-development-b4134fa312c
-    - Domain-Driven Design in PHP https://leanpub.com/ddd-in-php/read
-    - Implementing a DDD Use Case in PHP https://dev.to/sebk69/implementing-a-ddd-use-case-for-tax-persistence-in-php-1gij?utm_source=weeklyphp&utm_medium=email
+    - Value Object
+      - DDD в PHP: Value Object или Объект-Значение https://phpprofi.ru/blogs/post/58
+    - Остальное
+      - Domain Driven Design with PHP and Symfony https://dev.to/ludofleury/domain-driven-design-with-php-and-symfony-1bl6
+      - Domain-Driven Design and Clean Architecture in PHP — Part 1 (Layers and Structure) https://medium.com/@pogulailo/domain-driven-design-and-clean-architecture-in-php-part-1-layers-and-structure-edcce57be42a
+      - Understanding Domain-Driven Design (DDD) and its Benefits in PHP Development https://medium.com/@CleytonBonamigo/understanding-domain-driven-design-ddd-and-its-benefits-in-php-development-b4134fa312c
+      - Domain-Driven Design in PHP https://leanpub.com/ddd-in-php/read
+      - Implementing a DDD Use Case in PHP https://dev.to/sebk69/implementing-a-ddd-use-case-for-tax-persistence-in-php-1gij?utm_source=weeklyphp&utm_medium=email
   - Гексоганальная архитектура, hexagonal architecture
     - Что такое гексагональная архитектура. Разделение бизнес-логики и инфраструктуры с помощью портов и адаптеров https://habr.com/ru/companies/timeweb/articles/771338/
     - Hexagonal Architecture https://wiki.c2.com/?HexagonalArchitecture
