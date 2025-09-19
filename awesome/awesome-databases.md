@@ -132,6 +132,7 @@
     - Оптимизация
         - Как оптимизировать PostgreSQL и не лишиться сна: разбор для разработчиков https://habr.com/ru/companies/selectel/articles/913572/
     - Остальное
+        - PostgreSQL Deep Dive Part 14 — Understanding Index Storage — Files, Structure, and Management https://abheist.com/blogs/postgres-index-storage
         - 7 Best Practice Tips for PostgreSQL Bulk Data Loading https://www.enterprisedb.com/blog/7-best-practice-tips-postgresql-bulk-data-loading
         - Exploring Postgres's arena allocator by writing an HTTP server from scratch https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch
         - PostgreSQL 17: Часть 5 или Коммитфест 2024-03 https://habr.com/ru/companies/postgrespro/articles/841408/
