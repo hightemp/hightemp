@@ -46,6 +46,10 @@
 
 - https://sandbox.oxylabs.io/products
 
+### Сервисы для скрепинга
+
+- https://www.firecrawl.dev/
+
 ### Статьи
 
 - llm scrapping; Скрэпинг с помощью больших языковых моделей
