@@ -49,6 +49,7 @@
 ### Сервисы для скрепинга
 
 - https://www.firecrawl.dev/
+- https://apify.com/
 
 ### Статьи
 
