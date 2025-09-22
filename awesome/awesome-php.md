@@ -255,13 +255,14 @@
     - Zend Memory Manager https://www.phpinternalsbook.com/php7/memory_management/zend_memory_manager.html
     - Streamline Your PHP Applications: 14 Ways to Improve Memory Allocation https://wepri.net/blog/streamline-your-php-applications-14-ways-to-improve-memory-allocation
     - PHP Memory : ZVAL, Symbols and GC https://heera.it/php-memory-zval-symbol-tables-and-garbage-collection
-  - Атирбуты, Attributes
+  - Атрибуты, Attributes
     - Attributes in PHP 8 https://php.watch/articles/php-attributes
     - PHP 8.0: Attributes https://php.watch/versions/8.0/attributes
     - Working with PHP Attributes: Do’s & Don’ts https://dev.to/nasrulhazim/working-with-php-attributes-dos-donts-2g0l
     - A guide to PHP attributes https://www.honeybadger.io/blog/php-attributes-guide/
     - Using PHP attributes easily https://dev.to/icolomina/using-php-attributes-easily-2fpo
     - Attributes In PHP 8 https://www.dailycomputerscience.com/post/attributes-in-php-8
+    - Парсинг PHP 8 атрибутов https://myrusakov.ru/php8-attribute-parsing-p1.html
   - Objects; Объекты
     - Подробно об объектах и классах в PHP https://habr.com/ru/companies/vk/articles/255237/
     - Объекты в PHP 7 https://habr.com/ru/companies/vk/articles/275497/
