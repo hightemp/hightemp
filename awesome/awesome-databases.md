@@ -35,8 +35,9 @@
 
 ### Книги
 
-- https://postgrespro.ru/education/books
-- PostgreSQL изнутри. Егор Рогов https://edu.postgrespro.ru/postgresql_internals-15.pdf
+- PostgreSQL
+    - https://postgrespro.ru/education/books
+    - PostgreSQL изнутри. Егор Рогов https://edu.postgrespro.ru/postgresql_internals-15.pdf
 
 ### Статьи
 
