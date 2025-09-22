@@ -100,6 +100,8 @@
     - Routing https://symfony-docs-zh-cn.readthedocs.io/book/routing.html
     - Symfony routing tricks (part 1) https://backbeat.tech/blog/symfony-routing-tricks-part-1
     - Symfony routing tricks (part 2) https://backbeat.tech/blog/symfony-routing-tricks-part-2
+  - Serializer
+    - How to Use the Serializer https://symfony.com/doc/current/serializer.html
   - Service container
     - Основное
       - Service Container https://symfony.com/doc/current/service_container.html
