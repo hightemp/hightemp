@@ -371,6 +371,9 @@
   - parallel
     - Install PHP 8.0 ZTS with ext-parallel in Ubuntu https://harry.plus/blog/install-php-zts-with-ext-parallel-in-ubuntu/
   - pcntl
+- Интерфейсы
+  - JsonSerializable
+    - Использование интерфейса JsonSerializable в PHP https://myrusakov.ru/php-json-serializable-p1.html
 - SFTP
   - phpseclib - SFTP https://phpseclib.com/docs/sftp
 - Swagger, OpenAPI
