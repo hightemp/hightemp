@@ -1,3 +1,7 @@
+### Сервисы для тестирования API
+
+- https://hoppscotch.io/
+
 ### Программы для тестирования API
 
 - https://github.com/hoppscotch/hoppscotch
