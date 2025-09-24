@@ -172,6 +172,8 @@
       - Основное
         - Databases and the Doctrine ORM https://symfony.com/doc/current/doctrine.html
         - Справочник конфигурации Doctrine (DoctrineBundle) https://symfony.ru/doc/current/reference/configuration/doctrine.html
+      - Lifecycle Events
+        - Understanding Doctrine 2 Lifecycle Events https://culttt.com/2014/08/04/understanding-doctrine-2-lifecycle-events
       - DQL
         - DQL User Defined Functions https://www.doctrine-project.org/projects/doctrine-orm/en/current/cookbook/dql-user-defined-functions.html
         - How to Register custom DQL Functions https://symfony.com/doc/current/doctrine/custom_dql_functions.html
