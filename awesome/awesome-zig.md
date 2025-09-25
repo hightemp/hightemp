@@ -37,6 +37,7 @@
 ### Блоги
 
 - https://zig.news/
+- https://www.openmymind.net/
 
 ### Статьи
 
