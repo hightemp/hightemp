@@ -1595,6 +1595,7 @@ https://www.sackett.net/The-Spike.pdf
 - OpenAI A Practical Guide to Building Agents — практическое руководство по разработке ИИ-агентов от компании OpenAI, предназначенное для специалистов, желающих интегрировать LLM-агенты в продукты, с детальным описанием различий между агентами и чат-ботами, рекомендациями по проектированию одно- и мультиагентных систем, паттернами взаимодействия (manager-agent, peer-to-peer), методами подключения инструментов и внедрения защитных механизмов (guardrails) для предотвращения нежелательного поведения агентов. https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
 - Проект представляет собой руководство по инженерии запросов для оптимизации использования языковых моделей (ЯМ) в самых различных приложениях и исследованиях, помогая исследователям расширить возможности крупных языковых моделей (КЯМ) на широкий спектр задач, таких как вопросно-ответная система и арифметическое рассуждение. https://github.com/dair-ai/Prompt-Engineering-Guide https://www.promptingguide.ai/
 - Prompting Guide — мощный гайд по техникам промптинга https://www.promptingguide.ai/
+- Startup technical guide to AI agents — гайд от Google для стартапов по созданию ИИ-агентов, включая методы заземления и улучшения точности ответов. https://cloud.google.com/resources/content/building-ai-agents 
 
 ### Видео
 
