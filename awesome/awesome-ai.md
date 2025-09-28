@@ -926,6 +926,7 @@ https://arxiv.org/pdf/2411.08804v1
 - Синтетические датасеты
     - Generating Synthetic Dataset for RAG https://www.promptingguide.ai/applications/synthetic_rag
     - Tackling Generated Datasets Diversity https://www.promptingguide.ai/applications/generating_textbooks
+- OpenAI: 100 промптов для студентов — подборка из 100 промптов, покрывающих учебные, карьерные и бытовые задачи студентов — от конспектов и шпаргалок и исправления рефератов до поиска подработки, составления резюме, напоминаний о дедлайнах и планирования расписания, структурированная по категориям «учёба», «карьера» и «жизнь». https://chatgpt.com/use-cases/students
 
 ### Мультимодальные модели
 
