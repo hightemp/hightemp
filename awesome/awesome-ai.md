@@ -1596,6 +1596,7 @@ https://www.sackett.net/The-Spike.pdf
 - Проект представляет собой руководство по инженерии запросов для оптимизации использования языковых моделей (ЯМ) в самых различных приложениях и исследованиях, помогая исследователям расширить возможности крупных языковых моделей (КЯМ) на широкий спектр задач, таких как вопросно-ответная система и арифметическое рассуждение. https://github.com/dair-ai/Prompt-Engineering-Guide https://www.promptingguide.ai/
 - Prompting Guide — мощный гайд по техникам промптинга https://www.promptingguide.ai/
 - Startup technical guide to AI agents — гайд от Google для стартапов по созданию ИИ-агентов, включая методы заземления и улучшения точности ответов. https://cloud.google.com/resources/content/building-ai-agents 
+- Гайд по созданию ИИ-агента — пошаговое руководство для начинающих, охватывающее выбор задач, моделей и инструментов для разработки эффективных ИИ-агентов. https://www.reddit.com/r/AgentsOfAI/comments/1mwof0j/building_your_first_ai_agent_a_clear_path/
 
 ### Видео
 
