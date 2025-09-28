@@ -59,6 +59,7 @@
 - Быстрый и настраиваемый сканер уязвимостей на основе YAML-шаблонов: Более 5000 готовых шаблонов для различных типов уязвимостей; Поддержка протоколов: HTTP, DNS, TCP, SSL, File; Скорость: может сканировать тысячи хостов одновременно; Автоматическое обновление базы шаблонов; Интеграция в CI/CD pipelines https://github.com/projectdiscovery/nuclei
 - Инструмент для статического анализа кода и поиска уязвимостей: Поддержка 30+ языков программирования; Семантический поиск по коду (не только текстовые совпадения); SAST, SCA и сканирование секретов; 20000+ проприетарных правил в платной версии; Интеграция с IDE, pre-commit хуками и CI/CD; https://github.com/semgrep/semgrep
 - Software Composition Analysis (SCA) инструмент для обнаружения известных уязвимостей в зависимостях проекта: Плагины для Maven, Gradle, Ant, Jenkins; Автоматическое обновление из NVD Data Feeds; Интеграция с NPM Audit API, OSS Index, RetireJS; CLI интерфейс и GitHub Action https://github.com/dependency-check/DependencyCheck
+- Scan systems with NMap and parse the output to a list of CVE's, CWE's and DPE's https://github.com/NorthernSec/CVE-Scan
 
 ### Поиск уязвимостей в git
 
@@ -67,7 +68,6 @@
 ### Поиск по базе CVE
 
 - cve-search is a tool to import CVE (Common Vulnerabilities and Exposures) and CPE (Common Platform Enumeration) into a MongoDB to facilitate search and processing of CVEs. https://github.com/cve-search/cve-search
-- 
 
 ### DPI
 
