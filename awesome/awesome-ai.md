@@ -494,6 +494,10 @@
 
 - https://iki.ai/
 
+### CAD
+
+- SGS-1 — нейронная сеть, преобразующая чертежи и текстовые описания в 3D-модели CAD с выдающимся качеством и поддержкой формата STEP для последующей работы в AutoCAD и Fusion360. https://huggingface.co/spaces/spectral-labs/SGS-1
+
 ### Субтитры к видео
 
 - https://withsubtitles.com/
