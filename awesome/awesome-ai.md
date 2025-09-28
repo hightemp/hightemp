@@ -46,7 +46,7 @@
 - GlobalGPT - централизованный многофункциональный сервис агрегации передовых возможностей искусственного интеллекта, в котором сочетаются следующие ключевые особенности: конверсационные модели (ChatGPT, Claude и Gemini), генераторы изображений и видео с использованием ИИ, расширенные функции поиска на основе ИИ, интегрированные интеллектуальные инструменты для пользователей. https://glbgpt.com/
 - mcp клиенты https://github.com/punkpeye/awesome-mcp-clients
 
-### Данные для обучения
+### Данные для обучения; Датасеты; Datasets
 
 - https://github.com/Zjh-819/LLMDataHub?tab=readme-ov-file
 - https://huggingface.co/datasets/Open-Orca/OpenOrca
@@ -57,6 +57,7 @@
 - FineMath (https://huggingface.co/datasets/HuggingFaceTB/finemath) – подкорпус на 54 млрд токенов из FineWeb, содержащий математический контент, в том числе пошаговые решения. Есть еще его корпус-побратим FineWeb-edu (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu) с образовательными текстами. Лицензия ODC-by
 - FineVideo (https://huggingface.co/spaces/HuggingFaceFV/FineVideo-Explorer)  – датасет на 43 тысячи видео для обучения SORA-like моделей видео-генерации, своя лицензия License CC-By
 - FineWeb (https://huggingface.co/datasets/HuggingFaceFW/fineweb) – огромный очищенный интернет-корпус для предобучения больших языковых моделей на 15 триллионов токенов. Есть мультиязычная версия, я теперь еще и бенчмарк, доказывающий, что корпус лучше остальных для сходимости моделей. Лицензия ODC-by
+- VK-LSVD — датасет от VK для развития рекомендательных систем, собранный на базе коротких видео. https://huggingface.co/datasets/deepvk/VK-LSVD
 
 ### Сравнение моделей; Арены
 
