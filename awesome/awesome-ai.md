@@ -929,6 +929,7 @@ https://arxiv.org/pdf/2411.08804v1
     - Tackling Generated Datasets Diversity https://www.promptingguide.ai/applications/generating_textbooks
 - OpenAI: 100 промптов для студентов — подборка из 100 промптов, покрывающих учебные, карьерные и бытовые задачи студентов — от конспектов и шпаргалок и исправления рефератов до поиска подработки, составления резюме, напоминаний о дедлайнах и планирования расписания, структурированная по категориям «учёба», «карьера» и «жизнь». https://chatgpt.com/use-cases/students
 - CL4R1T4S — репозиторий, который собирает и публикует системные промпты для различных моделей и агентов (включая gpt-5-codex), а также предоставляет гайды и лучшие практики по промптингу; новости публикуются в X-аккаунте автора. https://github.com/elder-plinius/CL4R1T4S GPT-5 Codex https://github.com/elder-plinius/CL4R1T4S/blob/main/OPENAI/Codex_Sep-15-2025.md https://x.com/elder_plinius
+- Библиотека промтов для Nano-banana https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md
 
 ### Мультимодальные модели
 
