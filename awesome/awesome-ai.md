@@ -165,6 +165,7 @@
 - https://github.com/copilot
 - https://chat.deepseek.com
 - https://kimi.ai/
+- https://www.kimi.com
 - https://yiyan.baidu.com
 - https://playground.allenai.org/ Llama Tulu 3
 - https://chat.sonus.ai
