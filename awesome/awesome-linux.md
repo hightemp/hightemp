@@ -325,6 +325,7 @@
             - ACL
                 - sharing files with ACLs https://www.cs.swarthmore.edu/newhelp/sharing_files.html
                 - Chapter 20. Access Control Lists https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/storage_administration_guide/ch-acls
+                - Быть или не быть ACL в администрировании Linux https://habr.com/ru/companies/slurm/articles/673570/
     - Остальное
 - POSIX
     - Threads; Потоки
