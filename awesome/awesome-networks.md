@@ -46,6 +46,8 @@
 
 - Основное
     - Сети для самых маленьких. Часть нулевая. Планирование https://linkmeup.ru/blog/1188/
+- Ethernet
+    - Layer 2 Network Operations: How Ethernet Frames and Smart Switches Power Gigabit Networks https://chessman7.substack.com/p/layer-2-network-operations-how-ethernet
 - TCP/IP
     - Блог Джерри - Протокол TCP/IP в действии http://blog.gerryyang.com/tcp/ip/2020/09/08/tcpip-in-action.html
 - UNenLab
