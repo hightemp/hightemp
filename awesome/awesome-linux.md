@@ -320,8 +320,11 @@
             - nproc
                 - Intro To 'nproc' Command In Linux https://blog.robertelder.org/intro-to-nproc-command/
         - Права пользователя
-            - Linux User Groups and Permissions Guide https://daily.dev/blog/linux-user-groups-and-permissions-guide
-            - sharing files with ACLs https://www.cs.swarthmore.edu/newhelp/sharing_files.html
+            - Основное
+                - Linux User Groups and Permissions Guide https://daily.dev/blog/linux-user-groups-and-permissions-guide
+            - ACL
+                - sharing files with ACLs https://www.cs.swarthmore.edu/newhelp/sharing_files.html
+                - Chapter 20. Access Control Lists https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/storage_administration_guide/ch-acls
     - Остальное
 - POSIX
     - Threads; Потоки
