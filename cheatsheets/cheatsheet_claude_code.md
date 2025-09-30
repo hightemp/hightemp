@@ -1,3 +1,10 @@
+### MCP
+
+```bash
+claude mcp list         # список серверов
+claude mcp get my-sse   # детали сервера
+```
+
 ### Как добавить MCP
 
 #### Подключить SSE
