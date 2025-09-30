@@ -8,7 +8,7 @@
 - https://github.com/iampaul83/awesome-vue
 - https://github.com/rmjordas/awesome-vue
 
-### Фреймворки
+### Фреймворки; Библиотеки компонент
 
 - https://github.com/frappe/frappe-ui
 - Material Design component framework для Vue.js https://vuetifyjs.com/ https://github.com/vuetifyjs/vuetify
