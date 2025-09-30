@@ -34,6 +34,7 @@
 
 - Neovim настройка | Плагины | LazyVim https://www.youtube.com/watch?v=MS9ZAQTMpKg
 - The Cursor Experience, With Neovim's Magic https://www.youtube.com/watch?v=r-3o35-5hlg
+- Vim — это метаредактирование (иммерсивный текстовый редактор) // Запись доклада https://www.youtube.com/watch?v=RPlOYfgGDjQ
 
 #### Плагины, Dev as Life, Takuya Matsuyama
 
