@@ -21,6 +21,7 @@
 - **Chakra UI Vue**; Simple, modular and accessible component library https://vue.chakra-ui.com/ https://github.com/chakra-ui/chakra-ui-vue
 - **Flowbite Vue**; Vue components построенные на Tailwind CSS https://flowbite.com/docs/components/vue/index.html/ https://github.com/themesberg/flowbite
 - **Equal UI**; Vue UI component library построенная на Tailwind CSS https://equal-ui.github.io/Equal/ https://github.com/Equal-UI/Equal
+- **Buefy**; Lightweight UI components основанные на Bulma https://buefy.org/ https://github.com/buefy/buefy
 
 ### Полезные ссылки
 
