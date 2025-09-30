@@ -12,55 +12,38 @@
 
 - **Frappe UI** – UI‑библиотека для Vue 3 от проекта Frappe  
   https://github.com/frappe/frappe-ui  
-
 - **Vuetify** – Material Design component framework для Vue.js  
   https://vuetifyjs.com/ https://github.com/vuetifyjs/vuetify  
-
 - **Quasar** – High‑performance responsive framework для website, PWA & mobile app  
   https://quasar.dev/ https://github.com/quasarframework/quasar  
-
 - **PrimeVue** – Rich set of open source UI components  
   https://primevue.org/ https://github.com/primefaces/primevue  
-
 - **Element Vue 3 UI** library, основанная на Element UI  
   https://element-plus.org/ https://github.com/element-plus/element-plus  
-
 - **Naive UI** – Vue 3 component library с полной кастомизацией  
   https://www.naiveui.com/en-US/os-theme https://github.com/tusen-ai/naive-ui  
-
 - **Ant Design Vue** – Enterprise‑class UI design language  
   https://antdv.com/components/overview https://github.com/vueComponent/ant-design-vue  
-
 - **BootstrapVue** – Bootstrap components для Vue.js  
   https://bootstrap-vue.org/ https://github.com/bootstrap-vue/bootstrap-vue  
-
 - **Chakra UI Vue** – Simple, modular and accessible component library  
   https://vue.chakra-ui.com/ https://github.com/chakra-ui/chakra-ui-vue  
-
 - **Flowbite Vue** – Vue components, построенные на Tailwind CSS  
   https://flowbite.com/docs/components/vue/index.html/ https://github.com/themesberg/flowbite  
-
 - **Equal UI** – Vue UI component library, построенная на Tailwind CSS  
   https://equal-ui.github.io/Equal/ https://github.com/Equal-UI/Equal  
-
 - **Buefy** – Lightweight UI components, основанные на Bulma  
   https://buefy.org/ https://github.com/buefy/buefy  
-
 - **Vue Material** – Material Design для Vue.js  
   https://vuematerial.io/ https://github.com/vuematerial/vue-material  
-
 - **Vant** – Lightweight mobile UI library  
   https://youzan.github.io/vant/ https://github.com/youzan/vant  
-
 - **VuiKit** – Vue components на базе UIKit framework  
   https://vuikit.js.org/ https://github.com/vuikit/vuikit  
-
 - **Vuestic UI** – Vue 3 UI framework с кастомизацией  
   https://ui.vuestic.dev/ https://github.com/epicmaxco/vuestic-ui  
-
 - **Nuxt UI** – Fully styled и customizable components для Nuxt  
   https://ui.nuxt.com/ https://github.com/nuxt/ui  
-
 - **Headless UI** – Unstyled, fully accessible UI components (Tailwind)  
   https://headlessui.com/ https://github.com/tailwindlabs/headlessui  
 
