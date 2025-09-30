@@ -31,6 +31,12 @@
     - https://github.com/vbenjs/vue-vben-admin
 - Компоненты
     - https://github.com/frappe/frappe-ui
+    - Material Design component framework для Vue.js https://vuetifyjs.com/ https://github.com/vuetifyjs/vuetify
+    - High-performance responsive framework для website, PWA & mobile app https://quasar.dev/ https://github.com/quasarframework/quasar
+    - Rich set of open source UI components https://primevue.org/ https://github.com/primefaces/primevue
+    - Vue 3 UI library основанная на Element UI https://element-plus.org/ https://github.com/element-plus/element-plus
+    - Vue 3 component library с полной кастомизацией https://www.naiveui.com/en-US/os-theme https://github.com/tusen-ai/naive-ui
+    - Enterprise-class UI design language https://antdv.com/components/overview https://github.com/vueComponent/ant-design-vue
 
 ### Слайдеры
 
