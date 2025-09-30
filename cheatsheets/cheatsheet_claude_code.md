@@ -31,3 +31,10 @@ export API_TOKEN="ваш_токен"
 claude mcp add --transport http my-http https://example.com/mcp \
   --header "Authorization: Bearer ${API_TOKEN}"
 ```
+
+#### через JSON
+
+```bash
+claude mcp add-json my-sse \
+'{"type":"sse","url":"https://example.com/mcp/sse","headers":{"Authorization":"Bearer ${API_TOKEN}"}}'
+```
