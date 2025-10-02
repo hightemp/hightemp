@@ -42,3 +42,10 @@ func main() {
 t,t,f: Они равны, но на самом деле — нет.
 t,f,t: Они не равны, но при этом — равны.
 ```
+
+```
+<nil> <nil>
+true true false
+<nil> <nil>
+true false true
+```
