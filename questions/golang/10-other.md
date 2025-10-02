@@ -49,3 +49,25 @@ true true false
 <nil> <nil>
 true false true
 ```
+
+### Что выведет код
+
+```go
+package main
+
+import "fmt"
+
+func foo(a []string) {
+	a = append(a, "NIGHTMARE")
+}
+
+func main() {
+	a := []string{"hello", "world", "!"}
+	foo(a[:1])
+	fmt.Println(a)
+}
+```
+
+```
+[hello NIGHTMARE !]
+```
