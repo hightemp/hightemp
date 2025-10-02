@@ -17,3 +17,28 @@ a1: 6
 a2: 6
 a3: 6
 ```
+
+### Какой будет вывод
+
+```go
+package main
+import "fmt"
+
+type I interface{}
+type S struct{}
+
+func main() {
+    var i I
+    var s *S
+    fmt.Println(s, i) // nil nil
+    fmt.Println(s == nil, i == nil, s == i) 
+    i = s
+    fmt.Println(s, i) // nil nil
+    fmt.Println(s == nil, i == nil, s == i) 
+}
+```
+
+```
+t,t,f: Они равны, но на самом деле — нет.
+t,f,t: Они не равны, но при этом — равны.
+```
