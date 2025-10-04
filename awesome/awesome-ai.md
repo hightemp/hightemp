@@ -1638,6 +1638,7 @@ https://www.sackett.net/The-Spike.pdf
 - Startup technical guide to AI agents — гайд от Google для стартапов по созданию ИИ-агентов, включая методы заземления и улучшения точности ответов. https://cloud.google.com/resources/content/building-ai-agents 
 - Гайд по созданию ИИ-агента — пошаговое руководство для начинающих, охватывающее выбор задач, моделей и инструментов для разработки эффективных ИИ-агентов. https://www.reddit.com/r/AgentsOfAI/comments/1mwof0j/building_your_first_ai_agent_a_clear_path/
 - Writing Tools for Agents — гайд Anthropic по созданию эффективных инструментов и MCP‑плагинов для ИИ‑агентов, подключающих ИИ к браузеру, базам данных и фреймворкам, с практиками кодирования с Claude, проверки прототипов, предотвращения ошибок и автоматизации задач. https://www.anthropic.com/engineering/writing-tools-for-agents
+- Гайд Anthropic по эффективному контекст-инженерингу ИИ‑агентов — мастрид о системном подходе к настройке LLM (системные промпты, инструменты и управление окном внимания) для повышения производительности агентов, существенно отличающемся от промпт‑инженеринга. https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
 
 ### Видео
 
