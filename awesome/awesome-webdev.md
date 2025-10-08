@@ -25,6 +25,10 @@
    - https://alexwohlbruck.github.io/cat-facts/
    - https://restful-booker.herokuapp.com/
 
+### Проверки фич браузера
+
+- https://design.dev/tools/feature-detection/
+
 ### Коллекци emoji
 
 - https://apps.timwhitlock.info/emoji/tables/unicode
