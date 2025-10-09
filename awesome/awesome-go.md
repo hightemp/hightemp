@@ -1083,6 +1083,7 @@
     - Go Package CI/CD with GitHub Actions https://forcepush.tech/go-package-ci-cd-with-git-hub-actions
     - Build Go projects with Github Actions https://sosedoff.com/2019/02/12/go-github-actions.html
     - Setup a dead simple CI/CD flow for a Golang app with GitHub actions https://www.tigersandtacos.dev/posts/dead-simple-cicd-with-github-actions/
+    - Continuous integration with Go and GitHub Actions https://www.alexedwards.net/blog/ci-with-go-and-github-actions
   - Остальное
     - BASS: CI, воспроизводимые сборки и пакетный менеджер https://habr.com/ru/articles/925292/
     - Golang deploy https://gist.github.com/night-codes/10c09f06ad78ae401c69
