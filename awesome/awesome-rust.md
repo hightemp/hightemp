@@ -739,6 +739,8 @@
   - HTTP/HTTPS
     - Основное
       - How To Make HTTP/HTTPS Web Requests in Rust https://www.petergirnus.com/blog/how-to-make-http-requests-in-rust
+    - Остальное
+      - How can I make concurrent requests using Reqwest's async functionality? https://webscraping.ai/faq/reqwest/how-can-i-make-concurrent-requests-using-reqwest-s-async-functionality
   - VPN
     - A SIMPLE VPN PROTOTYPE IN RUST https://ragoragino.dev/blog/softwareengineering/2022-03-27-rust-vpn/index.html
     - Write a Toy VPN in Rust https://write.yiransheng.com/vpn
