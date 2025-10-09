@@ -1215,6 +1215,10 @@
     - Пишем свой SMTP сервер на Go https://kovardin.ru/articles/go/smtp-server/
   - Как создать простой планировщик событий в Go https://vk.com/@nuancesprog-kak-sozdat-prostoi-planirovschik-sobytii-v-go
   - Пишем сервис на Go для Kubernetes https://otus.ru/nest/post/1389/
+- Публикация приложения; Релизы
+  - goreleaser
+    - Публикация Go приложения в GitHub https://habr.com/ru/articles/542410/
+    - How to Publish Your Golang Binaries with Goreleaser https://www.kosli.com/blog/how-to-publish-your-golang-binaries-with-goreleaser/
 - Кэширование
   - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
 - Шаблонные движки
