@@ -1084,6 +1084,10 @@
     - Build Go projects with Github Actions https://sosedoff.com/2019/02/12/go-github-actions.html
     - Setup a dead simple CI/CD flow for a Golang app with GitHub actions https://www.tigersandtacos.dev/posts/dead-simple-cicd-with-github-actions/
     - Continuous integration with Go and GitHub Actions https://www.alexedwards.net/blog/ci-with-go-and-github-actions
+  - Публикация приложения; Релизы
+    - goreleaser
+      - Публикация Go приложения в GitHub https://habr.com/ru/articles/542410/
+      - How to Publish Your Golang Binaries with Goreleaser https://www.kosli.com/blog/how-to-publish-your-golang-binaries-with-goreleaser/
   - Остальное
     - BASS: CI, воспроизводимые сборки и пакетный менеджер https://habr.com/ru/articles/925292/
     - Golang deploy https://gist.github.com/night-codes/10c09f06ad78ae401c69
@@ -1217,10 +1221,6 @@
     - Пишем свой SMTP сервер на Go https://kovardin.ru/articles/go/smtp-server/
   - Как создать простой планировщик событий в Go https://vk.com/@nuancesprog-kak-sozdat-prostoi-planirovschik-sobytii-v-go
   - Пишем сервис на Go для Kubernetes https://otus.ru/nest/post/1389/
-- Публикация приложения; Релизы
-  - goreleaser
-    - Публикация Go приложения в GitHub https://habr.com/ru/articles/542410/
-    - How to Publish Your Golang Binaries with Goreleaser https://www.kosli.com/blog/how-to-publish-your-golang-binaries-with-goreleaser/
 - Кэширование
   - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
 - Шаблонные движки
