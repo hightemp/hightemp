@@ -1082,6 +1082,7 @@
     - Learning Go by examples: part 8 - Automatically cross-compile & release your Go app https://dev.to/aurelievache/learning-go-by-examples-part-8-automatically-cross-compile-release-your-go-app-457a
     - Go Package CI/CD with GitHub Actions https://forcepush.tech/go-package-ci-cd-with-git-hub-actions
     - Build Go projects with Github Actions https://sosedoff.com/2019/02/12/go-github-actions.html
+    - Setup a dead simple CI/CD flow for a Golang app with GitHub actions https://www.tigersandtacos.dev/posts/dead-simple-cicd-with-github-actions/
   - Остальное
     - BASS: CI, воспроизводимые сборки и пакетный менеджер https://habr.com/ru/articles/925292/
     - Golang deploy https://gist.github.com/night-codes/10c09f06ad78ae401c69
