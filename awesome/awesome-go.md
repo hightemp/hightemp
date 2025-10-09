@@ -1267,6 +1267,7 @@
   - Cobra
     - Создание CLI утилит на Go с библиотекой Cobra https://habr.com/ru/companies/otus/articles/830082/
     - Разработка CLI с помощью пакета Cobra: как не наступить на змею при написании https://habr.com/ru/companies/vk/articles/901438/
+    - Как создать TUI утилиту на GO https://habr.com/ru/articles/953680/
   - Остальное
     - Building a CLI App in Golang https://neo-femo.hashnode.dev/building-a-cli-app-in-golang
 - Форматы сериализации данных
