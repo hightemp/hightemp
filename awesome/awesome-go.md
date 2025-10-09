@@ -311,6 +311,10 @@
 - https://pkg.go.dev/cmd/vet
 - https://github.com/go-critic/go-critic
 
+### Инструменты для сборки релизов
+
+- https://goreleaser.com/
+
 ### Полезные ссылки
 
 - Go Assembly by Example предлагает пошаговые примеры работы с ассемблером Go. https://davidwong.fr/goasm/
