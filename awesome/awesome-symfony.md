@@ -207,6 +207,7 @@
       - PHP Encryption: The Symfony Guide to Securing Database Tables https://sergheipogor.medium.com/php-encryption-the-symfony-guide-to-securing-database-tables-4d984d5c0b6d
   - Остальное
     - Быстро узнать расход памяти команд Symfony https://pankov-roman.medium.com/быстро-узнать-расход-памяти-команд-symfony-4125d8efc09f
+    - Check if Debug Mode is Enabled in Symfony 7 https://lindevs.com/check-if-debug-mode-is-enabled-in-symfony
 - Безопасность
   - Обзор
     - Безопасность https://symfony.ru/security.html
