@@ -83,6 +83,7 @@
 - https://www.uvdesk.com/en/category/symfony/
 - https://weenesta.com/en/blog/tag/symfony
 - https://blog.digital-craftsman.de/
+- https://lindevs.com/category/framework/symfony
 
 ### Статьи
 
