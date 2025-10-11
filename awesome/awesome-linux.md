@@ -321,6 +321,7 @@
                 - Intro To 'nproc' Command In Linux https://blog.robertelder.org/intro-to-nproc-command/
             - mtr (my trace route)
                 - Linux MTR command https://www.cloudns.net/blog/linux-mtr-command/
+                - Advanced Network Troubleshooting: Using My Traceroute (MTR) https://quickpacket.com/billing/knowledgebase/35/Advanced-Network-Troubleshooting-Using-My-Traceroute-MTR.html
         - Права пользователя
             - Основное
                 - Linux User Groups and Permissions Guide https://daily.dev/blog/linux-user-groups-and-permissions-guide
