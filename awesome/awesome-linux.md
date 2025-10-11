@@ -518,6 +518,7 @@
     - Управление доступом в ОС Linux https://www.youtube.com/watch?v=V7oL3u_GNOg
     - Администрирование Линукс (Linux) - Урок 23 - Концепция безопасности DAC, MAC, SeLinux, AppArmor https://www.youtube.com/watch?v=3Tf5yQJJbz8
 - Остальное
+    - Акос 4. Процессы. Fork. Убиваем комп fork-бомбой https://www.youtube.com/watch?v=Io4rmAkcU58
     - Акос 5. Exec. Pipe. Fork. https://www.youtube.com/watch?v=vVYK3nkxCao
 - Плейлисты
     - Администрирование Линукс (Linux) https://www.youtube.com/watch?v=K8W4VUJQdX4&list=PLYl91BhaOf-kkXWweBzgOw555he6S7SUs
