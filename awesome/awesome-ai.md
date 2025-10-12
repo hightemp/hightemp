@@ -902,6 +902,10 @@ https://arxiv.org/pdf/2411.08804v1
 - Spellbox: Code & problem solving assistant
     - https://marketplace.visualstudio.com/items?itemName=Spellbox.spellbox
 
+### Генерация документации; Документация; Wiki
+
+- DeepWiki — это AI-сервис, который автоматически превращает любой репозиторий на GitHub в интерактивную документацию, по которой можно вести диалог и получать ответы на вопросы по коду и архитектуре проекта в реальном времени. https://deepwiki.com/
+
 ### Google colab
 
 - Файнтюним LLaMa 3.1 8B бесплатно в Google Collab https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing
