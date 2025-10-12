@@ -69,7 +69,7 @@
         - IPSec VTI
         - Остальное
             - Развёртывание IPsec VPN в Yandex Cloud с помощью шлюза безопасности https://github.com/yandex-cloud-examples/yc-site-to-site-vpn-with-ipsec-strongswan
-    - Xray; VLESS
+    - VLESS
         - Протокол VLESS https://xtls.github.io/ru/development/protocols/vless.html
         - Настройка VLESS + TCP + REALITY + VISION + uTLS https://github.com/XTLS/Xray-core/discussions/3518
         - Что такое VLESS https://dtf.ru/id2385838/3404450-chto-takoe-vless
@@ -81,6 +81,8 @@
     - Остальное
         - Как открыть портал наружу: самый полный гайд по VPN https://habr.com/ru/articles/757920/
         - Cloudflare представила собственный VPN-сервис на базе приложения 1.1.1.1 для мобильных устройств https://habr.com/ru/companies/itsumma/articles/446418/
+- XRay
+    - Малоизвестные фичи XRay, о которых невозможно молчать https://habr.com/ru/articles/834290/
 - Wireguard
     - WireGuard inside WireGuard: Accessing my homelab through my VPN provider https://sidhion.com/blog/posts/wireguard-inside-wireguard-homelab/
     - Check If a WireGuard Connection Is Up https://hjr265.me/blog/check-if-a-wireguard-connection-is-up/
