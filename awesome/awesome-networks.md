@@ -83,6 +83,7 @@
         - Cloudflare представила собственный VPN-сервис на базе приложения 1.1.1.1 для мобильных устройств https://habr.com/ru/companies/itsumma/articles/446418/
 - XRay
     - Малоизвестные фичи XRay, о которых невозможно молчать https://habr.com/ru/articles/834290/
+    - XRay (с VLESS/XTLS): проброс портов, реверс-прокси, и псевдо-VPN https://habr.com/ru/articles/774838/
 - Wireguard
     - WireGuard inside WireGuard: Accessing my homelab through my VPN provider https://sidhion.com/blog/posts/wireguard-inside-wireguard-homelab/
     - Check If a WireGuard Connection Is Up https://hjr265.me/blog/check-if-a-wireguard-connection-is-up/
