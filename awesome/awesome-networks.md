@@ -71,6 +71,7 @@
             - Развёртывание IPsec VPN в Yandex Cloud с помощью шлюза безопасности https://github.com/yandex-cloud-examples/yc-site-to-site-vpn-with-ipsec-strongswan
     - Xray; VLESS
         - Настройка VLESS + TCP + REALITY + VISION + uTLS https://github.com/XTLS/Xray-core/discussions/3518
+        - Что такое VLESS https://dtf.ru/id2385838/3404450-chto-takoe-vless
     - DMVPN
     - SSTP
     - PPTP
