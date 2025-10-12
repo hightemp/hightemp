@@ -69,6 +69,8 @@
         - IPSec VTI
         - Остальное
             - Развёртывание IPsec VPN в Yandex Cloud с помощью шлюза безопасности https://github.com/yandex-cloud-examples/yc-site-to-site-vpn-with-ipsec-strongswan
+    - Xray; VLESS
+        - Настройка VLESS + TCP + REALITY + VISION + uTLS https://github.com/XTLS/Xray-core/discussions/3518
     - DMVPN
     - SSTP
     - PPTP
