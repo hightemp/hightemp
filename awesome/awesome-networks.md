@@ -72,6 +72,7 @@
     - Xray; VLESS
         - Настройка VLESS + TCP + REALITY + VISION + uTLS https://github.com/XTLS/Xray-core/discussions/3518
         - Что такое VLESS https://dtf.ru/id2385838/3404450-chto-takoe-vless
+        - VLESS-TCP-TLS-WS (Recommended) https://deepwiki.com/v2fly/v2ray-examples/3.1.1-vless-tcp-tls-ws-(recommended)
     - DMVPN
     - SSTP
     - PPTP
