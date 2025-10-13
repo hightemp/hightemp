@@ -77,6 +77,11 @@
 - Проект flutter_rust_bridge v2 представляет собой генератор привязок между Flutter/Dart и Rust, обладающий богатым набором функций, но при этом простой и удобный в использовании, позволяющий легко интегрировать код на Rust в приложения Flutter. https://github.com/fzyzcjy/flutter_rust_bridge
 - Uutils coreutils - кроссплатформенная реимплементация GNU coreutils на языке Rust, предоставляющая утилиты командной строки для манипулирования и обработки файлов и текста с аналогичным функционалом. https://github.com/uutils/coreutils
 
+### Библиотеки
+
+- Proxy
+  - FortifyNet Proxy is a powerful and flexible asynchronous proxy server library written in Rust. It's designed to be a robust and reusable foundation for building various types of proxy servers, including HTTP, HTTPS, and SOCKS5, with a focus on performance, security, and ease of use. https://docs.rs/crate/fortifynet_proxy/2.0.0
+
 ### Полезные ссылки
 
 - 100 Exercises To Learn Rust https://rust-exercises.com/
