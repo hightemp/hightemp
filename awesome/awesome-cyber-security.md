@@ -199,6 +199,7 @@
 ### Статьи
 
 - DevSecOps
+    - The Six Dumbest Ideas in Computer Security https://www.ranum.com/security/computer_security/editorials/dumb/
     - Setting Up a Cloud Security Roadmap for Your Startup https://awssecuritydigest.com/articles/cloud-security-roadmap-for-startups
 - Penetration testing
     - Stockholm Syndrome: Accurate network testing https://blog.exploit.org/caster-stockholm-syndrome/
