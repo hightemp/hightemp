@@ -155,6 +155,12 @@
 - https://www.rust-lang.org/ru/learn
 - https://rust-unofficial.github.io/too-many-lists/index.html
 
+### MCP
+
+- Документация из docs.rs
+  - https://github.com/vexxvakan/mcp-docsrs
+  - https://github.com/snowmead/rust-docs-mcp
+
 ### Шпаргалки
 
 - https://my-js.org/docs/cheatsheet/rust/
