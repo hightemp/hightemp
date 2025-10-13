@@ -1570,6 +1570,8 @@ https://arxiv.org/pdf/2411.08804v1
             - Postgres is all you need, even for vectors https://anyblockers.com/posts/postgres-is-all-you-need-even-for-vectors
     - Инженерные и Архитектурные Паттерны (Engineering & Architectural Patterns)
         - Emerging Patterns in Building GenAI Products https://martinfowler.com/articles/gen-ai-patterns/
+    - Claude Code
+        - Vibe Coding: Заглянем под капот Claude Code. Часть 2 https://habr.com/ru/articles/929758/
 
 - **Ресурсы и Подборки (Resources & Curated Lists)** {#ресурсы-и-подборки}
     - Списки для чтения (Reading Lists)
