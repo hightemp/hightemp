@@ -81,6 +81,7 @@
 
 - Proxy
   - FortifyNet Proxy is a powerful and flexible asynchronous proxy server library written in Rust. It's designed to be a robust and reusable foundation for building various types of proxy servers, including HTTP, HTTPS, and SOCKS5, with a focus on performance, security, and ease of use. https://docs.rs/crate/fortifynet_proxy/2.0.0
+  - Fast SOCKS5 TCP and UDP client/server library for Rust async (Tokio) https://github.com/dizda/fast-socks5
 
 ### Полезные ссылки
 
