@@ -18,6 +18,10 @@
 
 - FLX1s — Linux-смартфон от компании Furi Labs, работающий на FuriOS, обеспечивающий высокий уровень конфиденциальности и поддерживающий Android-приложения, с предзаказом по цене $550 и первой партией, запланированной на 25 октября. https://furilabs.com/flx1s-is-launched/ https://github.com/FuriLabs/
 
+### Книги
+
+- Computer Security https://textbook.cs161.org/
+
 ### Полезные ссылки
 
 ### Форумы
