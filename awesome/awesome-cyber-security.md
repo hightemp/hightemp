@@ -188,9 +188,14 @@
     - Убедился корр. ТАСС, (https://t.me/zabelinTASS) Половников (https://t.me/semsotslov) и Девочки/Перцева (https://t.me/girls_pertseva) 
     - Точксичная цифра, (https://t.me/toxic_digital) Первый канал, (https://t.me/bezumnomojnobytpervym) Электро⚡️шок, (https://t.me/electroshockNEWS) это Жабин (https://t.me/zhabinpishet)
 
+### Блоги
+
+- https://alexmacra.com/author/alex/
 
 ### Статьи
 
+- DevSecOps
+    - Setting Up a Cloud Security Roadmap for Your Startup https://awssecuritydigest.com/articles/cloud-security-roadmap-for-startups
 - Penetration testing
     - Stockholm Syndrome: Accurate network testing https://blog.exploit.org/caster-stockholm-syndrome/
 - Подборки
