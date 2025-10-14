@@ -61,6 +61,8 @@
         - Prometheus Metrics in Laravel https://fly.io/laravel-bytes/instrument-laravel-for-prometheus/
     - Примеры
         - https://habr.com/ru/articles/885224/
+- Quality tools; Качество кода
+    - Laravel code-quality tools https://www.honeybadger.io/blog/laravel-code-quality-tools/
 - Архитектура
     - Остальное
         - Архитектура в Laravel. Как сделать код понятным и масштабируемым https://habr.com/ru/articles/898584/
