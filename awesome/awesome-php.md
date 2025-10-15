@@ -85,12 +85,11 @@
 
 ### Quality tools; Linters; Линтеры; Fixers; Фиксеры
 
+- PHP Quality Tools — пакет для PHP, который устанавливает наиболее популярные инструменты контроля качества кода (PHP Code Sniffer, PHP Mess Detector, PHP Static Analysis Tool и PHP Coding Standards Fixer) с предустановленными конфигурациями в стиле PSR-2, позволяя разработчикам быстро настроить все необходимые инструменты для своих проектов. https://github.com/daniel-werner/php-quality-tools
 ```
 composer require --dev daniel-werner/php-quality-tools
 vendor/bin/phpqt-install
 ```
-- PHP Quality Tools — пакет для PHP, который устанавливает наиболее популярные инструменты контроля качества кода (PHP Code Sniffer, PHP Mess Detector, PHP Static Analysis Tool и PHP Coding Standards Fixer) с предустановленными конфигурациями в стиле PSR-2, позволяя разработчикам быстро настроить все необходимые инструменты для своих проектов. https://github.com/daniel-werner/php-quality-tools
-
 - PHP Coding Standards Fixer - это инструмент командной строки для автоматического исправления и форматирования PHP-кода в соответствии с общепринятыми или пользовательскими стандартами кодирования (PSR-1, PSR-2, Symfony и др.), позволяющий модернизировать и оптимизировать код, а также автоматически устранять стилистические несоответствия. https://github.com/PHP-CS-Fixer/PHP-CS-Fixer
 - PHPStan - инструмент статического анализа кода для PHP, который выявляет потенциальные ошибки и проблемы в коде без его фактического выполнения, проверяя типы данных, неиспользуемые переменные, некорректные вызовы методов и другие проблемы на этапе разработки, что приближает PHP к компилируемым языкам с точки зрения надежности кода. https://phpstan.org/ https://github.com/phpstan/phpstan
 - PHP_CodeSniffer — это инструмент разработки, состоящий из двух PHP-скриптов, который анализирует код на PHP, JavaScript и CSS для обнаружения нарушений заданного стандарта кодирования и может автоматически исправлять найденные несоответствия стандарту. https://github.com/squizlabs/PHP_CodeSniffer
