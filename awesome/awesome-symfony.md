@@ -257,6 +257,7 @@
     - Управление секретами в Symfony https://habr.com/ru/companies/otus/articles/510764/
     - Migrating users to a secure hashing algorithm in Symfony https://www.michaelperrin.fr/blog/2017/01/migrating-users-to-a-secure-hashing-algorithm-in-symfony
     - How To Build Activity Log Using Doctrine Events https://dev.to/jszutkowski/tracking-changes-in-doctrine-entities-8lh
+    - Controller argument attributes https://symfony.com/blog/new-in-symfony-5-2-controller-argument-attributes
 - Symfony Voters
   - How to Use Voters to Check User Permissions https://symfony.com/doc/current/security/voters.html
   - Access Control with Symfony Voters https://accesto.com/blog/symfony-voters/
