@@ -210,7 +210,8 @@
     - Быстро узнать расход памяти команд Symfony https://pankov-roman.medium.com/быстро-узнать-расход-памяти-команд-symfony-4125d8efc09f
     - Check if Debug Mode is Enabled in Symfony 7 https://lindevs.com/check-if-debug-mode-is-enabled-in-symfony
 - Безопасность
-  - Обзор
+  - Основное
+    - Security https://symfony.com/doc/current/security.html
     - Безопасность https://symfony.ru/security.html
     - Symfony: инструмент написания безопасных веб-приложений https://www.securitylab.ru/analytics/480607.php?el_id=480607&VOTE_ID=103&view_result=Y&bxajaxid=1ce8886146eca13ff60ad3b7f5601a0d&utm_referrer=https%3A%2F%2Fwww.perplexity.ai%2F
     - Understanding Symfony Security by Using it Standalone https://wouterj.nl/2019/03/understanding-symfony-security-by-using-it-standalone
@@ -225,7 +226,6 @@
     - Symfony Roles & Permissions: A Complete Tutorial (Beginner-Friendly) https://www.kritimyantra.com/blogs/symfony-roles-permissions-a-complete-tutorial-beginner-friendly
   - Authorization, Authentication, Аутентификация и авторизация
     - Основное
-      - Security https://symfony.com/doc/current/security.html
       - Meet the new Symfony Security: Authenticators https://wouterj.nl/2020/04/authenticators-new-symfony-security
       - Implementing Authorization in Symfony: A Developer’s Guide https://www.slingacademy.com/article/implementing-authorization-in-symfony-developers-guide/
       - Simplifying Authentication and Authorization in Symfony https://moldstud.com/articles/p-simplifying-authentication-and-authorization-in-symfony
