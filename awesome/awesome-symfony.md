@@ -5,6 +5,10 @@
 - https://github.com/rozehnal/awesome-symfony
 - https://github.com/pehapkari/awesome-symfony-education
 
+### Quality tools
+
+- PHPStan Rules — набор из 70+ практических правил для PHPStan, проверяющих чистую архитектуру, логические ошибки, именование, расположение классов в namespace и лучшие практики для Symfony, Doctrine и PHPUnit, подходящий для любых PHP-проектов от legacy до современных. https://github.com/symplify/phpstan-rules
+
 ### Админки
 
 - EasyAdmin - это быстрый, красивый и современный генератор административного интерфейса для приложений Symfony, позволяющий легко создавать и настраивать административные панели для управления данными в приложении.
