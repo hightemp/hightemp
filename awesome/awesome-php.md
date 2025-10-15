@@ -97,6 +97,7 @@ vendor/bin/phpqt-install
 - php-coveralls — это клиентская библиотека на PHP для сервиса Coveralls, предназначенная для автоматической отправки отчётов о покрытии кода тестами (code coverage) на платформу Coveralls.io https://github.com/php-coveralls/php-coveralls
 - PHP Insights — это инструмент для мгновенного анализа качества кода, стиля, архитектуры и сложности PHP-приложений прямо из консоли. Он был создан Nuno Maduro и поддерживается сообществом. https://github.com/nunomaduro/phpinsights
 - Easy Coding Standard (ECS) — инструмент для PHP, который упрощает применение стандартов кодирования путем объединения PHP_CodeSniffer и PHP-CS-Fixer в единый интерфейс с поддержкой параллельного выполнения, готовых наборов правил и простой конфигурации через PHP-файлы. https://github.com/easy-coding-standard/easy-coding-standard
+- CaptainHook — гибкая библиотека для PHP-разработчиков, которая позволяет легко настраивать git-хуки через JSON-конфигурацию для валидации commit-сообщений, обеспечения качества кода, запуска тестов и автоматизации других задач в команде разработки. https://github.com/captainhook-git/captainhook
 
 ### Библиотеки
 
