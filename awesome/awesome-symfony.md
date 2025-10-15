@@ -225,6 +225,7 @@
     - Symfony Roles & Permissions: A Complete Tutorial (Beginner-Friendly) https://www.kritimyantra.com/blogs/symfony-roles-permissions-a-complete-tutorial-beginner-friendly
   - Authorization, Authentication, Аутентификация и авторизация
     - Основное
+      - Security https://symfony.com/doc/current/security.html
       - Meet the new Symfony Security: Authenticators https://wouterj.nl/2020/04/authenticators-new-symfony-security
       - Implementing Authorization in Symfony: A Developer’s Guide https://www.slingacademy.com/article/implementing-authorization-in-symfony-developers-guide/
       - Simplifying Authentication and Authorization in Symfony https://moldstud.com/articles/p-simplifying-authentication-and-authorization-in-symfony
