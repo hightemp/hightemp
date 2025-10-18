@@ -759,6 +759,8 @@
   - Live Reloading in Rust with Cargo Watch https://dev.to/jorgecastro/hot-reload-in-rust-with-cargo-watch-5bon
   - Live reloading in Rust https://dev.to/nickytonline/hot-reloading-in-rust-4i1c
 - Tokio
+  - Основное
+    - Туториал по Tokio. 2/2 https://habr.com/ru/companies/timeweb/articles/816743/
   - Channels, Каналы
     - Channels https://tokio.rs/tokio/tutorial/channels
 - Сеть; Networking
