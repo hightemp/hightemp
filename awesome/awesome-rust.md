@@ -769,6 +769,9 @@
     - Туториал по Tokio. 2/2 https://habr.com/ru/companies/timeweb/articles/816743/
   - Channels, Каналы
     - Channels https://tokio.rs/tokio/tutorial/channels
+- Actix
+  - Остальное
+    - Background job processing with rust using actix and redis https://mureithi.me/blog/background-job-processing-with-rust-actix-redis
 - Сеть; Networking
   - Основное
   - sockets; Сокеты
