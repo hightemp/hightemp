@@ -756,6 +756,7 @@
     - Creating a priority queue with a custom sort order using a binary heap in Rust https://dev.to/timclicks/creating-a-priority-queue-with-a-custom-sort-order-using-a-binary-heap-in-rust-3oab
   - Остальное
     - Implementing a Job queue with Tokio, PostgreSQL & ZeroMQ https://cetra3.github.io/blog/implementing-a-jobq/
+    - A persistent task queue in Rust https://jmmv.dev/2023/06/iii-iv-task-queue.html
 - Live Reload
   - Live Reloading in Rust with Cargo Watch https://dev.to/jorgecastro/hot-reload-in-rust-with-cargo-watch-5bon
   - Live reloading in Rust https://dev.to/nickytonline/hot-reloading-in-rust-4i1c
