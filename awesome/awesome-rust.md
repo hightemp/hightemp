@@ -725,6 +725,7 @@
     - Channels https://dhghomon.github.io/easy_rust/Chapter_50.html
   - Lock-free структуры данных
     - Lock-free структуры данных в Rust https://habr.com/ru/companies/otus/articles/821629/
+    - Implementing a Lock-Free Queue in Rust https://karevongeijer.com/blog/lock-free-queue-in-rust/
   - Multithreading, Многопоточность
     - Rust Multithreading: A Comprehensive Guide https://medium.com/@TechSavvyScribe/rust-multithreading-a-comprehensive-guide-f1e4a4cc0887
     - Multithreading in Rust https://nickymeuleman.netlify.app/blog/multithreading-rust/
