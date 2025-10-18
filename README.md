@@ -23,6 +23,7 @@
 
 #### Текущие
 
+- [fc](https://github.com/hightemp/fc) - **rust** простая linux утилита для подсчета файлов/директорий рекурсивно, использует getdents
 - [go_ssh_proxy_logger](https://github.com/hightemp/go_ssh_proxy_logger) - **golang** логирующий прокси, который слушает порты на удаленой машине по ssh и перенаправляет траффик по ssh обратно (интернет)к сервисам из конфига. Есть возможность прописать несколько сервисов.
 - [github_repo_sync](https://github.com/hightemp/github_repo_sync) - **golang** утилита-сервис, которая скачивает или обновляет все репозитории для github аккаунта
 - [ip_info_service](https://github.com/hightemp/ip_info_service) - **golang** http сервис, который дает информацию об ip из локальной БД: организация, страна
