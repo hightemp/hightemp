@@ -672,6 +672,7 @@
 - https://darkcoding.net/tags/rust/
 - https://dr-knz.net/tags/#rust-ref
 - https://microsin.net/programming/pc/index.html
+- https://karevongeijer.com/tags/rust/
 
 ### Статьи
 
