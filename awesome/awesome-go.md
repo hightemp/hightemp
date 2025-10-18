@@ -1086,6 +1086,7 @@
     - Continuous integration with Go and GitHub Actions https://www.alexedwards.net/blog/ci-with-go-and-github-actions
   - Публикация приложения; Релизы
     - goreleaser
+      - Релизим Go приложения на Github https://dotzero.blog/golang-github-release/
       - Публикация Go приложения в GitHub https://habr.com/ru/articles/542410/
       - How to Publish Your Golang Binaries with Goreleaser https://www.kosli.com/blog/how-to-publish-your-golang-binaries-with-goreleaser/
   - Остальное
