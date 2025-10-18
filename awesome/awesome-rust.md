@@ -752,6 +752,7 @@
   - Основное
     - Queue https://www.gyata.ai/rust/queue
     - Queues, Stacks, Deques data structures coded in rust https://www.alxolr.com/articles/queues-stacks-deques-data-structures-coded-in-rust
+    - How to write a Queue in Rust https://www.kirillvasiltsov.com/writing/how-to-write-a-queue-in-rust/
   - Priority Queue
     - Priority Queue Implementation in Rust https://rtoch.com/posts/priority-queue/
     - Creating a priority queue with a custom sort order using a binary heap in Rust https://dev.to/timclicks/creating-a-priority-queue-with-a-custom-sort-order-using-a-binary-heap-in-rust-3oab
