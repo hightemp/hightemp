@@ -1085,6 +1085,7 @@
     - Build Go projects with Github Actions https://sosedoff.com/2019/02/12/go-github-actions.html
     - Setup a dead simple CI/CD flow for a Golang app with GitHub actions https://www.tigersandtacos.dev/posts/dead-simple-cicd-with-github-actions/
     - Continuous integration with Go and GitHub Actions https://www.alexedwards.net/blog/ci-with-go-and-github-actions
+    - A CI/CD Pipeline With GitHub Actions for Go https://dev.to/trapajim/a-cicd-pipeline-with-github-actions-for-go-2nop
   - Публикация приложения; Релизы
     - goreleaser
       - Публикация Go приложения в GitHub https://habr.com/ru/articles/542410/
