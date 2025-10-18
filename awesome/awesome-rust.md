@@ -77,6 +77,10 @@
 - Проект flutter_rust_bridge v2 представляет собой генератор привязок между Flutter/Dart и Rust, обладающий богатым набором функций, но при этом простой и удобный в использовании, позволяющий легко интегрировать код на Rust в приложения Flutter. https://github.com/fzyzcjy/flutter_rust_bridge
 - Uutils coreutils - кроссплатформенная реимплементация GNU coreutils на языке Rust, предоставляющая утилиты командной строки для манипулирования и обработки файлов и текста с аналогичным функционалом. https://github.com/uutils/coreutils
 
+### Релизы; CI/CD
+
+- `dist` https://github.com/axodotdev/cargo-dist
+
 ### Библиотеки
 
 - Proxy
