@@ -674,6 +674,7 @@
 - https://microsin.net/programming/pc/index.html
 - https://karevongeijer.com/tags/rust/
 - https://jmmv.dev/tags/rust/
+- https://www.kirillvasiltsov.com/writing/
 
 ### Статьи
 
