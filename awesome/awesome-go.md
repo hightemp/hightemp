@@ -1094,6 +1094,7 @@
     - goreleaser
       - Публикация Go приложения в GitHub https://habr.com/ru/articles/542410/
       - How to Publish Your Golang Binaries with Goreleaser https://www.kosli.com/blog/how-to-publish-your-golang-binaries-with-goreleaser/
+      - Go Release Automation with goreleaser + GitHub Actions https://blog.toshima.ru/2019/10/20/go-release-automation-with-goreleaser.html
   - Публикация модулей
     - Публикация модулей https://ru.hexlet.io/courses/go-setup-environment/lessons/publishing/theory_unit
   - Остальное
