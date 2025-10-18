@@ -1088,6 +1088,7 @@
     - A CI/CD Pipeline With GitHub Actions for Go https://dev.to/trapajim/a-cicd-pipeline-with-github-actions-for-go-2nop
     - Configure the release of your golang module with Github Actions https://dev.to/juanvegadev/configure-the-release-of-your-golang-module-with-github-actions-nb2
     - Creating Multi-architecture GitHub Releases for Go Binaries https://ningbozhao.github.io/create-multi-arch-github-release-go-binary/
+    - Building and testing Go https://docs.github.com/en/actions/tutorials/build-and-test-code/go
   - Публикация приложения; Релизы
     - goreleaser
       - Публикация Go приложения в GitHub https://habr.com/ru/articles/542410/
