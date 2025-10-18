@@ -1000,6 +1000,7 @@
     - Functional options in Go https://habr.com/ru/articles/859676/
     - Functional options for friendly APIs https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
   - Остальное
+    - Go += управление версиями пакетов https://www.pvsm.ru/go/310332
     - Go по-прежнему полон проблем https://habr.com/ru/companies/ruvds/articles/941106/
     - Go programs are not portable https://blog.habets.se/2022/02/Go-programs-are-not-portable.html
     - Rob Pike’s Go Proverbs (Part One) https://golangprojectstructure.com/rob-pike-go-proverbs/
