@@ -746,14 +746,14 @@
   - macros, Макросы
     - Macros By Example https://doc.rust-lang.org/stable/reference/macros-by-example.html
   - Остальное
-- Структуры данных
-  - Очереди; Queue
-    - Основное
-      - Queue https://www.gyata.ai/rust/queue
-    - Priority Queue
-      - Priority Queue Implementation in Rust https://rtoch.com/posts/priority-queue/
-    - Остальное
-      - Implementing a Job queue with Tokio, PostgreSQL & ZeroMQ https://cetra3.github.io/blog/implementing-a-jobq/
+- Очереди; Queue
+  - Основное
+    - Queue https://www.gyata.ai/rust/queue
+    - Queues, Stacks, Deques data structures coded in rust https://www.alxolr.com/articles/queues-stacks-deques-data-structures-coded-in-rust
+  - Priority Queue
+    - Priority Queue Implementation in Rust https://rtoch.com/posts/priority-queue/
+  - Остальное
+    - Implementing a Job queue with Tokio, PostgreSQL & ZeroMQ https://cetra3.github.io/blog/implementing-a-jobq/
 - Live Reload
   - Live Reloading in Rust with Cargo Watch https://dev.to/jorgecastro/hot-reload-in-rust-with-cargo-watch-5bon
   - Live reloading in Rust https://dev.to/nickytonline/hot-reloading-in-rust-4i1c
