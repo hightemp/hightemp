@@ -746,6 +746,7 @@
   - macros, Макросы
     - Macros By Example https://doc.rust-lang.org/stable/reference/macros-by-example.html
   - Остальное
+    - Lock-freedom without garbage collection https://aturon.github.io/blog/2015/08/27/epoch/
 - Очереди; Queue
   - Основное
     - Queue https://www.gyata.ai/rust/queue
