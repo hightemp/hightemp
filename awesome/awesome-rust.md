@@ -746,6 +746,10 @@
   - macros, Макросы
     - Macros By Example https://doc.rust-lang.org/stable/reference/macros-by-example.html
   - Остальное
+- Структуры данных
+  - Очереди; Queue
+    - Priority Queue
+      - Priority Queue Implementation in Rust https://rtoch.com/posts/priority-queue/
 - Live Reload
   - Live Reloading in Rust with Cargo Watch https://dev.to/jorgecastro/hot-reload-in-rust-with-cargo-watch-5bon
   - Live reloading in Rust https://dev.to/nickytonline/hot-reloading-in-rust-4i1c
