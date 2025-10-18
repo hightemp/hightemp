@@ -957,6 +957,8 @@ https://arxiv.org/pdf/2411.08804v1
 - OpenAI: 100 промптов для студентов — подборка из 100 промптов, покрывающих учебные, карьерные и бытовые задачи студентов — от конспектов и шпаргалок и исправления рефератов до поиска подработки, составления резюме, напоминаний о дедлайнах и планирования расписания, структурированная по категориям «учёба», «карьера» и «жизнь». https://chatgpt.com/use-cases/students
 - CL4R1T4S — репозиторий, который собирает и публикует системные промпты для различных моделей и агентов (включая gpt-5-codex), а также предоставляет гайды и лучшие практики по промптингу; новости публикуются в X-аккаунте автора. https://github.com/elder-plinius/CL4R1T4S GPT-5 Codex https://github.com/elder-plinius/CL4R1T4S/blob/main/OPENAI/Codex_Sep-15-2025.md https://x.com/elder_plinius
 - Библиотека промтов для Nano-banana https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md
+- Интроспекция мысли (Introspection of Thought, INoT) — метод промпт-инжиниринга, в котором LLM «исполняет» встроенный в промпт псевдокод PromptCode (гибрид Python и естественного языка) для многоагентных дебатов, саморефлексии и согласования в одном проходе, что повышает точность, снижает расход токенов и дает полный контроль над структурой рассуждений. https://youtu.be/Fs3cHzbMK1E https://novasapiens.ru/prompt/2507.08664 https://arxiv.org/pdf/2507.08664
+    - Prompt Generator — интроспекция мысли — GPTs‑инструмент для быстрого превращения задач в сценарии многоагентных дебатов по методу INoT с псевдокодом. https://chatgpt.com/g/g-68ea9e9c86dc8191bc9ea2fe585d9a4b-prompt-generator-introspektsiia-mysli
 
 ### Мультимодальные модели
 
