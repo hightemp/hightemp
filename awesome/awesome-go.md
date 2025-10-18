@@ -926,6 +926,7 @@
     - Некоторые тонкости управления зависимостями в Go https://eax.me/go-mod/
     - Введение в систему модулей Go https://habr.com/ru/articles/421411/
     - Управление зависимостями в Golang https://golang-blog.blogspot.com/2021/03/dependency-management-in-golang.html
+    - Go Modules https://github.com/golang/go/wiki/Modules/4124a530eb6bb776a8fbb140be4d818ff7e402b6
   - Go tooling
     - Let's stop editing go.mod manually https://tpaschalis.me/go-mod-edit/
     - Инструменты, которые помогут улучшить ваш код https://kovardin.ru/articles/go/tools/
