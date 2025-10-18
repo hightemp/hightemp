@@ -748,6 +748,8 @@
   - Остальное
 - Структуры данных
   - Очереди; Queue
+    - Основное
+      - Queue https://www.gyata.ai/rust/queue
     - Priority Queue
       - Priority Queue Implementation in Rust https://rtoch.com/posts/priority-queue/
     - Остальное
