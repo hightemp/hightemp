@@ -761,6 +761,7 @@
     - Implementing a Job queue with Tokio, PostgreSQL & ZeroMQ https://cetra3.github.io/blog/implementing-a-jobq/
     - A persistent task queue in Rust https://jmmv.dev/2023/06/iii-iv-task-queue.html
     - Build a Job Queue with Rust Using Aide-De-Camp (Part 1) https://dev.to/zeroassumptions/build-a-job-queue-with-rust-using-aide-de-camp-part-1-4g5m
+    - Implementing a job queue in Rust https://poor.dev/posts/what-job-queue/
 - Live Reload
   - Live Reloading in Rust with Cargo Watch https://dev.to/jorgecastro/hot-reload-in-rust-with-cargo-watch-5bon
   - Live reloading in Rust https://dev.to/nickytonline/hot-reloading-in-rust-4i1c
