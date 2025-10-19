@@ -767,6 +767,7 @@
   - Live reloading in Rust https://dev.to/nickytonline/hot-reloading-in-rust-4i1c
 - Tokio
   - Основное
+    - Making the Tokio scheduler 10x faster https://tokio.rs/blog/2019-10-scheduler
     - Туториал по Tokio. 1/2 https://habr.com/ru/companies/timeweb/articles/815811/
     - Туториал по Tokio. 2/2 https://habr.com/ru/companies/timeweb/articles/816743/
   - Channels, Каналы
