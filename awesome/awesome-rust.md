@@ -771,6 +771,7 @@
     - Туториал по Tokio. 1/2 https://habr.com/ru/companies/timeweb/articles/815811/
     - Туториал по Tokio. 2/2 https://habr.com/ru/companies/timeweb/articles/816743/
     - An Introduction to Asynchronous Programming in Rust and a High-level Overview of Tokio's Architecture https://moslehian.com/posts/2023/1-intro-async-rust-tokio/
+    - Exploring tokio for Building High-Performance Rust Servers https://www.slingacademy.com/article/exploring-tokio-for-building-high-performance-rust-servers/
   - Async
     - Bridge Async and Sync Code in Rust - Best Practices with Tokio https://greptime.com/blogs/2023-03-09-bridging-async-and-sync-rust
     - Write code using async/await in Rust https://developerlife.com/2022/03/12/rust-tokio/
