@@ -773,6 +773,7 @@
     - An Introduction to Asynchronous Programming in Rust and a High-level Overview of Tokio's Architecture https://moslehian.com/posts/2023/1-intro-async-rust-tokio/
   - Async
     - Bridge Async and Sync Code in Rust - Best Practices with Tokio https://greptime.com/blogs/2023-03-09-bridging-async-and-sync-rust
+    - Write code using async/await in Rust https://developerlife.com/2022/03/12/rust-tokio/
   - Channels, Каналы
     - Channels https://tokio.rs/tokio/tutorial/channels
 - Actix
