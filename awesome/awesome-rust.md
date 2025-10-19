@@ -770,6 +770,8 @@
     - Making the Tokio scheduler 10x faster https://tokio.rs/blog/2019-10-scheduler
     - Туториал по Tokio. 1/2 https://habr.com/ru/companies/timeweb/articles/815811/
     - Туториал по Tokio. 2/2 https://habr.com/ru/companies/timeweb/articles/816743/
+  - Async
+    - Bridge Async and Sync Code in Rust - Best Practices with Tokio https://greptime.com/blogs/2023-03-09-bridging-async-and-sync-rust
   - Channels, Каналы
     - Channels https://tokio.rs/tokio/tutorial/channels
 - Actix
