@@ -407,6 +407,7 @@
 - https://vsegpt.ru/
 - https://openrouter.ai/
 - https://deepinfra.com/
+- https://agentrouter.org
 
 ### API llm Inference
 
