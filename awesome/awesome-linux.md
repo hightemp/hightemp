@@ -70,6 +70,9 @@
 - Сети Linux. Модели и приложения
     - Ссылки
         - https://bhv.ru/product/seti-linux-modeli-i-prilozheniya/
+- Изучаем eBPF: программирование ядра Linux для улучшения безопасности, сетевых функций и наблюдаемости
+    - Ссылки
+        - https://bhv.ru/product/izuchaem-ebpf-programmirovanie-yadra-linux-dlya-uluchsheniya-bezopasnosti-setevyh-funktsij-i-nablyudaemosti/
 
 ### Полезные ссылки
 
