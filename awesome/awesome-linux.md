@@ -67,6 +67,9 @@
     - Авторы: Цилюрик Олег Иванович
     - Ссылки
         - https://bhv.ru/product/rasshireniya-yadra-linux-drajvery-i-moduli/
+- Сети Linux. Модели и приложения
+    - Ссылки
+        - https://bhv.ru/product/seti-linux-modeli-i-prilozheniya/
 
 ### Полезные ссылки
 
