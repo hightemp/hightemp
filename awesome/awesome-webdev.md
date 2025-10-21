@@ -370,6 +370,10 @@
 - https://github.com/typesense/typesense
 - https://github.com/opensearch-project/OpenSearch https://opensearch.org/
 
+### Fingerprint
+
+- https://fingerprint.com/
+
 ### Репозитории vagrant
 
 - https://vagrant.elab.pro/downloads/
