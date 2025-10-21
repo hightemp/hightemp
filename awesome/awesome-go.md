@@ -415,7 +415,7 @@
     - https://alexedwards.gumroad.com/l/lets-go-further
 - Becoming a Senior Go Developer: Mastering Go and Its Ecosystem https://englyk.com/book2/
 - https://www.ardanlabs.com/ultimate-go-notebook/
-- Linux и Go. Эффективное низкоуровневое программирование. 2-е издание https://bhv.ru/product/linux-i-go-effektivnoe-nizkourovnevoe-programmirovanie-2-e-izdanie/
+- Linux и Go. Эффективное низкоуровневое программирование. 2-е издание; Цилюрик Олег Иванович https://bhv.ru/product/linux-i-go-effektivnoe-nizkourovnevoe-programmirovanie-2-e-izdanie/
 
 ### Статьи
 
