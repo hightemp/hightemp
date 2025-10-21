@@ -73,6 +73,9 @@
 - Изучаем eBPF: программирование ядра Linux для улучшения безопасности, сетевых функций и наблюдаемости
     - Ссылки
         - https://bhv.ru/product/izuchaem-ebpf-programmirovanie-yadra-linux-dlya-uluchsheniya-bezopasnosti-setevyh-funktsij-i-nablyudaemosti/
+- Практикум: модули ядра Linux; Конспект с примерами и упражнения с задачами
+    - Ссылки
+        - https://dl.losst.pro/books/7443/ru/BOOK_PRACTIS_245.pdf
 
 ### Полезные ссылки
 
