@@ -50,6 +50,10 @@
   - DakenReleaseProfilerBundle — это инструмент для Symfony, обеспечивающий комплексное логирование и профилирование HTTP-запросов, ответов сервера, SQL-запросов к базе данных и ошибок с возможностью их мониторинга через Slack и административную панель SonataAdmin. https://github.com/dakenf/ReleaseProfilerBundle
 - Остальное
 
+### Документация
+
+- Атрибуты у Serializer (jms/serializer) https://github.com/schmittjoh/serializer/blob/master/doc/reference/annotations.rst
+
 ### Полезные ссылки
 
 - Symfony Demo Application https://github.com/symfony/demo
