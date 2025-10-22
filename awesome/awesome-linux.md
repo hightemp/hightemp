@@ -168,6 +168,8 @@
             - The Linux System Administrator's Guide https://tldp.org/LDP/sag/html/index.html
             - Linux fundamentals: user space, kernel space, and the syscalls API surface https://www.form3.tech/blog/engineering/linux-fundamentals-user-kernel-space
             - Linux's Bedtime Routine (В статье рассматриваются процессы...) https://tookmund.com/2024/09/hibernation-preparation
+        - Время и Таймеры (Timekeeping and Clocks)
+            - Understanding Timekeeping and Clocks in Linux https://www.baeldung.com/linux/timekeeping-clocks
 
     - **Архитектура (Architecture)**
         - Управление памятью (Memory Management)
