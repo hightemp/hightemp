@@ -1233,6 +1233,7 @@
   - Пишем сервис на Go для Kubernetes https://otus.ru/nest/post/1389/
 - Кэширование
   - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
+  - Building In-Memory Cache in Go https://www.mohitkhare.com/blog/go-in-memory-cache/
 - Шаблонные движки
   - Templ vs Gomponents https://nuage.quimerch.com/-/ewen/articles/templ-vs-gomponents
 - Файловая система
