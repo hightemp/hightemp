@@ -1921,6 +1921,7 @@
 - Redis
   - Rate limiting HTTP requests in Go using Redis https://mauricio.github.io/2021/12/30/rate-limiting-in-go.html
   - Использование Redis в Go https://habr.com/ru/articles/860060/
+  - Go with Redis https://www.mohitkhare.com/blog/go-with-redis/
 - Kafka
   - Connect Kafka with Golang https://dev.to/chauhoangminhnguyen/connect-kafka-with-golang-3h4d
 - WebAssembly
