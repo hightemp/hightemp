@@ -784,6 +784,7 @@
       - time.Duration
         - Работа с временными интервалами (duration) в Golang https://purpleschool.ru/knowledge-base/article/duration
       - Остальное
+        - Why Your 'Optimized' Code Is Still Slow: Faster Time Comparison https://samuelberthe.substack.com/p/why-your-optimized-code-is-still
         - How to parse a time or date in Go https://www.willem.dev/articles/how-to-parse-time-date/
         - Time in Golang - Working With Time, Duration, and Dates (With Examples) https://www.sohamkamani.com/golang/time/
         - Working With Time in Golang https://www.bytesizego.com/blog/golang-time
