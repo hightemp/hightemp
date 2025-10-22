@@ -195,6 +195,7 @@
                     - vdso(7) — Linux manual page https://man7.org/linux/man-pages/man7/vdso.7.html
                     - Understanding linux-vdso.so.1 https://github.com/ANSANJAY/VDSO/blob/main/5_linux-vdso/readme.md
                     - vDSO https://en.wikipedia.org/wiki/VDSO
+                    - How does clock_gettime work https://linuxmogeb.blogspot.com/2013/10/how-does-clockgettime-work.html
                 - Transparent Huge Pages (THP)
                 - OOM Killer (Убийца процессов при нехватке памяти)
             - Отладка и профилирование (Debugging and Profiling)
