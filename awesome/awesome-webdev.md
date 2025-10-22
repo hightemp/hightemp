@@ -496,6 +496,8 @@
    - The power of two random choices https://brooker.co.za/blog/2012/01/17/two-random.html
 - Базы данных
    - Gotchas with SQLite in Production https://blog.pecar.me/sqlite-prod
+- Часы
+   - Monotonic and Wall Clock Time https://dev.to/amoabakelvin/monotonic-and-wall-clock-time-3mp
 - WebAssembly
    - How we sped up Notion in the browser with WASM SQLite https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite
 - Тестирование
