@@ -135,6 +135,8 @@
   - HTML
     - goquery - это библиотека для Go, напоминающая популярную JavaScript-библиотеку jQuery, предназначенная для работы с HTML-документами. https://github.com/PuerkitoBio/goquery
     - Colly - это молниеносно быстрый и элегантный фреймворк для веб-скрапинга на Go, предоставляющий чистый интерфейс для написания любого вида краулеров/скраперов/пауков, способных извлекать структурированные данные с веб-сайтов для различных приложений, таких как data mining, обработка данных или архивирование, с поддержкой автоматического управления куками, сессиями, задержками запросов, параллельного скрапинга, кэширования и распределенного скрапинга. https://github.com/gocolly/colly
+- Кэширование
+  - HOT (Hot Object Tracker) — высокопроизводительная библиотека кэширования в памяти для Go с поддержкой множественных алгоритмов вытеснения (LRU, LFU, TinyLFU и др.), TTL с джиттером, фоновым обновлением данных, горизонтальным масштабированием через шардинг и типобезопасностью благодаря Go generics. https://github.com/samber/hot
 - Браузеры
   - Проект chromedp представляет собой Go-пакет для более быстрого и простого управления браузерами, поддерживающими Chrome DevTools Protocol, без внешних зависимостей. https://github.com/chromedp/chromedp
 - Утилиты
@@ -1234,6 +1236,7 @@
 - Кэширование
   - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
   - Building In-Memory Cache in Go https://www.mohitkhare.com/blog/go-in-memory-cache/
+  - In-Memory Caching in Go: Boosting Performance and Efficiency https://dev.to/kittipat1413/in-memory-caching-in-go-boosting-performance-and-efficiency-4bhd
 - Шаблонные движки
   - Templ vs Gomponents https://nuage.quimerch.com/-/ewen/articles/templ-vs-gomponents
 - Файловая система
