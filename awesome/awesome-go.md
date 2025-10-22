@@ -1239,6 +1239,7 @@
   - [По полочкам] Кэширование https://habr.com/ru/articles/734660/
   - Building In-Memory Cache in Go https://www.mohitkhare.com/blog/go-in-memory-cache/
   - In-Memory Caching in Go: Boosting Performance and Efficiency https://dev.to/kittipat1413/in-memory-caching-in-go-boosting-performance-and-efficiency-4bhd
+  - Software Architecture in Go: Write-Through Caching Pattern for Scalability https://mariocarrion.com/2021/09/24/golang-software-architecture-caching-pattern-write-through-scalability.html
 - Шаблонные движки
   - Templ vs Gomponents https://nuage.quimerch.com/-/ewen/articles/templ-vs-gomponents
 - Файловая система
