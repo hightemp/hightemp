@@ -1241,6 +1241,7 @@
     - Building In-Memory Cache in Go https://www.mohitkhare.com/blog/go-in-memory-cache/
     - In-Memory Caching in Go: Boosting Performance and Efficiency https://dev.to/kittipat1413/in-memory-caching-in-go-boosting-performance-and-efficiency-4bhd
     - Software Architecture in Go: Write-Through Caching Pattern for Scalability https://mariocarrion.com/2021/09/24/golang-software-architecture-caching-pattern-write-through-scalability.html
+    - Design a TTL based in-memory cache in golang https://nulpointerexception.com/2023/03/19/design-a-ttl-based-in-memory-cache-in-golang/
   - go-cache
     - How to implement in-memory caching in Go https://blog.logrocket.com/how-to-implement-memory-caching-go/
 - Шаблонные движки
