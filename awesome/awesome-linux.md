@@ -432,6 +432,7 @@
 - Утилиты
     - proxychains
         - настройка proxychains https://www.prolinux.org/post/2011/08/nastroika-proxychains/
+        - Proxychains. VPN только для одной программы https://www.alexgur.ru/articles/7549/
     - rsync
         - rsync, article 1: Scenarios (2022) https://michael.stapelberg.ch/posts/2022-06-18-rsync-article-1-scenarios/
         - rsync, article 2: Surroundings (2022) https://michael.stapelberg.ch/posts/2022-07-02-rsync-surroundings/
