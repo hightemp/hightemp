@@ -99,7 +99,8 @@
 - Базы данных, databases
     - SQL vs NoSQL: Which Database to Choose in System Design? https://www.geeksforgeeks.org/which-database-to-choose-while-designing-a-system-sql-or-nosql/
     - SQL vs NoSQL https://learnsystemdesign.blogspot.com/2019/09/sql-vs-nosql.html
-- Кэш
+- Кэш; Кэширование
+    - Master Your System Design Interview: In-Depth Guide to Cache Invalidation Strategies https://www.designgurus.io/blog/cache-invalidation-strategies
     - mastering cache eviction policies for optimal caching efficiency https://skynix.co/resources/mastering-cache-eviction-policies-for-optimal-caching-efficiency
     - LRU Cache Implementation https://www.scaler.in/lru-cache-implementation/
 - ACID
