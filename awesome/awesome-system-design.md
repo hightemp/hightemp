@@ -103,6 +103,7 @@
     - Master Your System Design Interview: In-Depth Guide to Cache Invalidation Strategies https://www.designgurus.io/blog/cache-invalidation-strategies
     - mastering cache eviction policies for optimal caching efficiency https://skynix.co/resources/mastering-cache-eviction-policies-for-optimal-caching-efficiency
     - LRU Cache Implementation https://www.scaler.in/lru-cache-implementation/
+    - Write-Behind Caching Strategy https://www.enjoyalgorithms.com/blog/write-behind-caching-pattern
 - ACID
     - ACID https://agaltsovav.ru/docs/architecture/acid/
 - Паттерны
