@@ -41,3 +41,8 @@
         - Zero-downtime Upgrades With Alembic and SQLAlchemy https://that.guru/blog/zero-downtime-upgrades-with-alembic-and-sqlalchemy/
         - Effortless Database Migrations: Why Alembic is Your Python Must-Have https://dev.to/vivekthedev/effortless-database-migrations-why-alembic-is-your-python-must-have-2f0n
         - \[Tips\] How to Make Alembic Migration History Reading Easier https://fresult.medium.com/how-to-make-alembic-migration-history-reading-is-easier-ca7f15cd0636
+
+### Видео
+
+- FastAPI
+    - БАЗА FASTAPI ОТ А ДО Я | КУРС FASTAPI С НУЛЯ ДО ДЕПЛОЯ | VUEJS, DOCKER, NGINX https://www.youtube.com/watch?v=c6OEJA7Y81c
