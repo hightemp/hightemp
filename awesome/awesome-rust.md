@@ -777,6 +777,7 @@
     - Write code using async/await in Rust https://developerlife.com/2022/03/12/rust-tokio/
     - Asynchronous I/O and async/await packages in Rust https://blog.logrocket.com/asynchronous-i-o-and-async-await-packages-in-rust/
     - Async Awesomeness: A Deep Dive into Rust’s Asynchronous Capabilities https://senthilnayagan.net/blog/tech/async-awesomeness-a-deep-dive-into-rust’s-asynchronous-capabilities/
+    - Deep Dive into Rust’s Async Ecosystem: Futures, Executors, and Tokio https://codedamn.com/news/rust/deep-dive-rust-async-ecosystem-futures-executors-tokio
   - Channels, Каналы
     - Channels https://tokio.rs/tokio/tutorial/channels
 - Actix
