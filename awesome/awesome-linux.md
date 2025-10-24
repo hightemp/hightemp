@@ -232,6 +232,7 @@
             - FHS (Filesystem Hierarchy Standard); стандарт иерархии файловой системы https://ru.wikipedia.org/wiki/FHS
         - zfs
             - Что такое ZFS? И почему люди от неё без ума? https://habr.com/ru/articles/424651/
+            - Основы ZFS: система хранения и производительность https://habr.com/ru/articles/504692/
         - btrfs
             - BTRFS для самых маленьких https://habr.com/ru/companies/veeam/articles/458250/
             - Архитектура и реализация btrfs 2008 https://www.opennet.ru/soft/fs/btrfs.pdf
