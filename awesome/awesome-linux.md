@@ -230,6 +230,9 @@
         - Общее (General)
             - Files and Filesystems https://adamdjellouli.com/articles/linux_notes/file_system
             - FHS (Filesystem Hierarchy Standard); стандарт иерархии файловой системы https://ru.wikipedia.org/wiki/FHS
+        - btrfs
+            - BTRFS для самых маленьких https://habr.com/ru/companies/veeam/articles/458250/
+            - Архитектура и реализация btrfs 2008 https://www.opennet.ru/soft/fs/btrfs.pdf
         - Специальные ФС (/dev, /proc) (Special Filesystems)
             - /dev
                 - Understanding the /dev Directory in Linux https://www.baeldung.com/linux/dev-directory
