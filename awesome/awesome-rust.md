@@ -780,6 +780,8 @@
     - Deep Dive into Rust’s Async Ecosystem: Futures, Executors, and Tokio https://codedamn.com/news/rust/deep-dive-rust-async-ecosystem-futures-executors-tokio
   - Channels, Каналы
     - Channels https://tokio.rs/tokio/tutorial/channels
+  - Concurrency Patterns
+    - Rust Concurrency Patterns https://onesignal.com/blog/rust-concurrency-patterns/
 - Actix
   - Остальное
     - Background job processing with rust using actix and redis https://mureithi.me/blog/background-job-processing-with-rust-actix-redis
