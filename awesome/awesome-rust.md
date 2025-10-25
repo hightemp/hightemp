@@ -778,6 +778,7 @@
     - Asynchronous I/O and async/await packages in Rust https://blog.logrocket.com/asynchronous-i-o-and-async-await-packages-in-rust/
     - Async Awesomeness: A Deep Dive into Rust’s Asynchronous Capabilities https://senthilnayagan.net/blog/tech/async-awesomeness-a-deep-dive-into-rust’s-asynchronous-capabilities/
     - Deep Dive into Rust’s Async Ecosystem: Futures, Executors, and Tokio https://codedamn.com/news/rust/deep-dive-rust-async-ecosystem-futures-executors-tokio
+    - A practical guide to async in Rust https://blog.logrocket.com/a-practical-guide-to-async-in-rust/
   - Channels, Каналы
     - Channels https://tokio.rs/tokio/tutorial/channels
   - Concurrency Patterns
