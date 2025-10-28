@@ -144,7 +144,7 @@
     - Workflow https://symfony.ru/doc/current/workflow.html
     - The Workflow Component https://symfony.com/doc/current/components/workflow.html
     - Dynamic workflows with the Symfony Workflow Component https://joppe.dev/2024/10/11/dynamic-workflows-with-symfony-workflow-component/
-    - Introduction to Symfony Workflow https://medium.com/@nestorbritomedina/introduction-to-symfony-workflow-10bc4201f52f#:~:text=Symfony%20Workflow%20component%20is%20a,a%20consistent%20and%20reliable%20manner.
+    - Introduction to Symfony Workflow https://medium.com/@nestorbritomedina/introduction-to-symfony-workflow-10bc4201f52f
   - Events
     - Events and Event Listeners https://symfony.com/doc/current/event_dispatcher.html
     - Built-in Symfony Events https://symfony.com/doc/current/reference/events.html
