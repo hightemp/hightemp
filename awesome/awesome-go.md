@@ -551,6 +551,7 @@
       - Вопросы по мэпам (map) в Go https://habr.com/ru/articles/854214/
       - Эти сложные map & slice в GO https://habr.com/ru/articles/912272/
       - Как устроены новые мапы в Go 1.24 https://habr.com/ru/companies/ru_mts/articles/915880/
+      - Устройство мапы в Golang https://laradrom.ru/languages/golang/ustrojstvo-mapy-v-golang/
     - Rehashing; Реиндексация
       - Реиндексация (rehashing) и эвакуация данных в мапах Golang https://laradrom.ru/languages/golang/reindeksacziya-rehashing-i-evakuacziya-dannyh-v-mapah-golang/
   - Ellipsis
