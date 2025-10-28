@@ -1167,6 +1167,7 @@
     - Создание кастомных Go-профилей с помощью pprof. Запоминаем стеки https://habr.com/ru/companies/badoo/articles/318336/
   - Утечки памяти
     - Avoiding Memory Leak in Golang API https://medium.easyread.co/avoiding-memory-leak-in-golang-api-1843ef45fca8
+    - Одна строка — тысячи горутин: как мы поймали утечку памяти в сервисе на Go https://habr.com/ru/companies/otus/articles/957486/
   - Остальное
     - Performance Optimization on Kitex https://www.cloudwego.io/blog/2021/09/23/performance-optimization-on-kitex/
     - Как оптимизировать код на Go? Раскладываем по полочкам https://habr.com/ru/companies/vk/articles/902820/
