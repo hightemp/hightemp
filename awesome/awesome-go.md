@@ -521,11 +521,14 @@
     - Nil channels in Go https://vishnubharathi.codes/blog/nil-channels-in-go/
     - Каналы(channels) в Go https://habr.com/ru/articles/926292/
   - Гоурутины, goroutines
-    - Корутины: stackful vs stackless https://habr.com/ru/articles/850970/
-    - Demystifying Golang Channels, Goroutines, and Optimal Concurrency https://levelup.gitconnected.com/golang-channels-goroutines-and-optimal-concurrency-demystifying-through-examples-a43ba6aee74f
-    - Жизненный цикл потоков ОС в Golang https://habr.com/ru/companies/tbank/articles/868390/
-    - Механика горутин и каналов в Golang: разбор с примерами https://habr.com/ru/articles/881014/
-    - Golang concurrency explained https://computersciencesimplified.substack.com/p/golang-concurrency-explained
+    - Основное
+      - Корутины: stackful vs stackless https://habr.com/ru/articles/850970/
+      - Demystifying Golang Channels, Goroutines, and Optimal Concurrency https://levelup.gitconnected.com/golang-channels-goroutines-and-optimal-concurrency-demystifying-through-examples-a43ba6aee74f
+      - Жизненный цикл потоков ОС в Golang https://habr.com/ru/companies/tbank/articles/868390/
+      - Механика горутин и каналов в Golang: разбор с примерами https://habr.com/ru/articles/881014/
+      - Golang concurrency explained https://computersciencesimplified.substack.com/p/golang-concurrency-explained
+    - Starvation
+      - Starvation (голодание) горутин https://laradrom.ru/languages/golang/golang-starvation-gorutin/
   - Linked lists, Связанные списки
     - Linked Lists in Go https://dev.to/jpoly1219/linked-lists-in-go-3g63
     - Understanding Linked Lists with Go https://rkulla.blogspot.com/2018/03/understanding-linked-lists-with-go.html
