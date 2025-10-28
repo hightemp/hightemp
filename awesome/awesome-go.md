@@ -545,11 +545,14 @@
   - Массивы
     - How Go Arrays Work and Get Tricky with For-Range https://victoriametrics.com/blog/go-array/index.html
   - Map
-    - Go maps in action https://go.dev/blog/maps
-    - Go Maps Explained: How Key-Value Pairs Are Actually Stored https://victoriametrics.com/blog/go-map/
-    - Вопросы по мэпам (map) в Go https://habr.com/ru/articles/854214/
-    - Эти сложные map & slice в GO https://habr.com/ru/articles/912272/
-    - Как устроены новые мапы в Go 1.24 https://habr.com/ru/companies/ru_mts/articles/915880/
+    - Основное
+      - Go maps in action https://go.dev/blog/maps
+      - Go Maps Explained: How Key-Value Pairs Are Actually Stored https://victoriametrics.com/blog/go-map/
+      - Вопросы по мэпам (map) в Go https://habr.com/ru/articles/854214/
+      - Эти сложные map & slice в GO https://habr.com/ru/articles/912272/
+      - Как устроены новые мапы в Go 1.24 https://habr.com/ru/companies/ru_mts/articles/915880/
+    - Rehashing; Реиндексация
+      - Реиндексация (rehashing) и эвакуация данных в мапах Golang https://laradrom.ru/languages/golang/reindeksacziya-rehashing-i-evakuacziya-dannyh-v-mapah-golang/
   - Ellipsis
     - How to use Ellipsis (…) in Golang? https://www.geeksforgeeks.org/how-to-use-ellipsis-in-golang/
   - Тэги, Tags
