@@ -984,6 +984,7 @@
     - Inside the Go Scheduler: A Step-by-Step Look at Goroutine Management https://medium.com/@hatronix/inside-the-go-scheduler-a-step-by-step-look-at-goroutine-management-1a8cbe9d5dbd
     - https://go.dev/src/runtime/HACKING
     - The Go scheduler https://morsmachine.dk/go-scheduler
+    - Behind the Scenes of Go Scheduler https://dev.to/sourikghosh/behind-the-scenes-of-go-scheduler-1hdi
   - Memory management
     - Go To Memory https://habr.com/ru/companies/oleg-bunin/articles/676332/
     - Stack Allocation: Understanding Stack Memory Allocation for Function Calls and Local Variables https://englyk.com/book2/Stack_Allocation/
