@@ -246,6 +246,7 @@
 - https://github.com/nanbingxyz/5ire
 - AnythingLLM — приватная альтернатива ChatGPT, предлагающая бесплатную платформу для взаимодействия с различными форматами данных и ИИ-агентами, работающую без утечек данных и поддерживающую совместную работу. https://anythingllm.com/
 - https://lite.koboldai.net/
+- https://github.com/josephgodwinkimani/openrouter-web
 
 ### ai терминалы, terminals
 
