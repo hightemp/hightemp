@@ -248,6 +248,7 @@
 - https://lite.koboldai.net/
 - https://github.com/josephgodwinkimani/openrouter-web
 - https://docs.openwebui.com/
+- https://lobechat.com
 
 ### ai терминалы, terminals
 
