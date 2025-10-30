@@ -1533,6 +1533,9 @@
   - Go: Управление обработкой множественных ошибок https://habr.com/ru/companies/otus/articles/558404/
 - Транзакции
   - Database Transactions in Go with Layered Architecture https://threedots.tech/post/database-transactions-in-go
+- Синхронизация
+  - CRDT (Conflict-free Replicated Data Type)
+    - Как реализовать CRDT-структуры в Go для офлайн-режима https://habr.com/ru/companies/otus/articles/956978/
 - Фреймворки
   - GoFr
     - GoFr’s Plug-and-Play Model: Simplifying Database Interactions in Go https://medium.com/@mundhraumang.02/gofrs-plug-and-play-model-simplifying-database-interactions-in-go-8b18ac3294bf
