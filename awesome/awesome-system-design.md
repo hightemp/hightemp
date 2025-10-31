@@ -44,6 +44,8 @@
     - https://www.piter.com/collection/all/product/sovremennyy-podhod-k-programmnoy-arhitekture-slozhnye-kompromissy
 - REST in Practice: Hypermedia and Systems Architecture 1st Edition by Jim Webber (Author), Savas Parastatidis (Author), Ian Robinson (Author)
     - https://www.amazon.com/gp/product/0596805829/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596805829&linkCode=as2&tag=martinfowlerc-20
+- Microservices Patterns, 2nd edition; Chris Richardson
+    - https://www.manning.com/books/microservices-patterns-second-edition?utm_source=microservices-patterns-chris&utm_medium=affiliate&utm_campaign=book_richardson4&a_aid=microservices-patterns-chris&a_bid=c4d8dec5&chan=mm_microservicesio
 
 ### Тренажоры
 
