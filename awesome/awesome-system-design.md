@@ -109,6 +109,7 @@
 - Паттерны
     - Основное
         - 26 основных паттернов микросервисной разработки https://cloud.vk.com/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki/
+        - Паттерны микросервисной архитектуры: от собеседования до прода https://habr.com/ru/companies/otus/articles/957294/
     - API Gateway Pattern
         - Microservices Design Patterns: API Gateway Design Pattern https://medium.com/@apulatjonov/microservices-design-patterns-api-gateway-design-pattern-ddba36700d84
     - Database per Service Pattern
