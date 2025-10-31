@@ -116,6 +116,7 @@
     - Service Discovery Pattern
         - Основное
             - Service Discovery in Microservices: A Detailed Guide https://devcookies.medium.com/service-discovery-in-microservices-a-detailed-guide-dc5184777508
+            - Microservices Patterns: Service Discovery Patterns https://medium.com/cloud-native-daily/microservices-patterns-part-03-service-discovery-patterns-97d603b9a510
         - Tools
             - Netflix Eureka
             - Consul
