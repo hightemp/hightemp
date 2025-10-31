@@ -136,10 +136,14 @@
     - Publisher/subscriber
     - Sharding
     - Circuit Breaker
-        - What is Circuit Breaker Pattern in Microservices? https://www.geeksforgeeks.org/what-is-circuit-breaker-pattern-in-microservices/
-        - Circuit Breaker with Bulkhead Isolation in Microservices https://www.geeksforgeeks.org/circuit-breaker-with-bulkhead-isolation-in-microservices/
-        - Circuit Breaker Pattern (Design Patterns for Microservices) https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33
-        - The Role of Circuit Breaker in Software System Design https://systemdesignschool.io/blog/circuit-breaker-pattern
+        - Основное
+            - What is Circuit Breaker Pattern in Microservices? https://www.geeksforgeeks.org/what-is-circuit-breaker-pattern-in-microservices/
+            - Circuit Breaker with Bulkhead Isolation in Microservices https://www.geeksforgeeks.org/circuit-breaker-with-bulkhead-isolation-in-microservices/
+            - Circuit Breaker Pattern (Design Patterns for Microservices) https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33
+            - The Role of Circuit Breaker in Software System Design https://systemdesignschool.io/blog/circuit-breaker-pattern
+        - Tools
+            - Envoy
+                - Circuit breaking https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/upstream/circuit_breaking?utm_source=chatgpt.com
     - DDD
         - Anti-Corruption Layer, ACL
             - Anti-corruption Layer pattern https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer
