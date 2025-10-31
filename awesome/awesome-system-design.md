@@ -114,7 +114,14 @@
         - Microservices Design Patterns: API Gateway Design Pattern https://medium.com/@apulatjonov/microservices-design-patterns-api-gateway-design-pattern-ddba36700d84
     - Database per Service Pattern
     - Service Discovery Pattern
-        - Service Discovery in Microservices: A Detailed Guide https://devcookies.medium.com/service-discovery-in-microservices-a-detailed-guide-dc5184777508
+        - Основное
+            - Service Discovery in Microservices: A Detailed Guide https://devcookies.medium.com/service-discovery-in-microservices-a-detailed-guide-dc5184777508
+        - Tools
+            - Netflix Eureka
+            - Consul
+            - Kubernetes DNS
+            - Zookeeper
+            - AWS Cloud Map
     - Saga Pattern
     - Strangler Fig Pattern
     - Bulkhead Pattern
