@@ -1632,6 +1632,7 @@ https://arxiv.org/pdf/2411.08804v1
     - Авторы: Рашка Себастьян, Мирджалили Вахид
     - Ссылки
         - https://www.ozon.ru/product/python-i-mashinnoe-obuchenie-mashinnoe-i-glubokoe-obuchenie-s-ispolzovaniem-python-scikit-learn-i-206611349/
+- CS249r_book — это открытый учебник по построению машинного обучения как инженерных систем, созданный на базе курса Гарварда CS249r профессором Vijay Janapa Reddi и командой, и ориентированный на практику: от системного проектирования, сборки пайплайнов, деплоя моделей и MLOps до edge-разработки; доступен онлайн, в PDF, ePub, поддерживает совместную доработку и автоматизированную публикацию. https://github.com/harvard-edge/cs249r_book/
 - Build a Large Language Model (From Scratch) https://github.com/rasbt/LLMs-from-scratch/
 - Учебник, где собрана коллекция задачек о нейросетях, параллельно даётся необходимая теория с объяснением https://fulyankin.github.io/deep_learning_masha_book/intro.html
 - Deep Learning: Foundations and Concepts (Bishop & Bishop, 2023)
