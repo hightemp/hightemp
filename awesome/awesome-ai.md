@@ -541,6 +541,7 @@
 ### Замена лиц; дипфейки; deepfakes
 
 - https://github.com/hacksider/Deep-Live-Cam
+- MoCha — фреймворк для сквозной замены персонажа на видео на базе Wan 2.1, которому достаточно исходного ролика, маски первого кадра и референс-фото (желательно анфас), обеспечивающий качественную замену с сохранением света и тонов, устойчивостью к мерцаниям/подсветкам и быстрым движениям; на RTX 4090 генерирует ролик примерно за 5 минут (6 шагов) и требует около 64 ГБ VRAM. https://orange-3dv-team.github.io/MoCha/ https://github.com/Orange-3DV-Team/MoCha https://huggingface.co/Orange-3DV-Team/MoCha/tree/main https://github.com/kijai/ComfyUI-WanVideoWrapper/blob/main/example_workflows/wanvideo_MoCha_replace_subject_KJ_02.json
 
 ### Генерация изображений
 
