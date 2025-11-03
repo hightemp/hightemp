@@ -104,78 +104,111 @@
         - Автор: Чарльз Уилан
         - Ссылки:
             - https://www.litres.ru/book/charlz-uilan/golaya-ekonomika-razoblachenie-unyloy-nauki-23984028/
-    - Капитал
-        - Автор: Карл Маркс
+    - Капитал  
+        - Автор: Карл Маркс  
         - Ссылки:
-
-    - Следующие 100 лет
-        - Автор: Джордж Фридман
+            - https://www.litres.ru/book/karl-marks/kapital-polnaya-versiya-54968208/
+            - https://www.litres.ru/book/karl-marks/kapital-kritika-politicheskoy-ekonomii-tom-i-26335624/
+            - https://istmat.org/files/uploads/59307/k._marks._kapital._tom_1._1952_g.pdf
+            - https://archive.org/details/Karl_Marx_1952_Kapital_Tom_1
+            - https://archive.org/details/1951-iiiKarl_Marx_1951_Kapital_Tom_3
+    - Следующие 100 лет  
+        - Автор: Джордж Фридман  
         - Ссылки:
             - https://www.litres.ru/book/smart-reading/kluchevye-idei-knigi-sleduuschie-100-let-prognoz-sobytiy-xxi-67826066/
-    - Американская империя
-        - Автор: Джордж Фридман
+    - Американская империя  
+        - Автор: Джордж Фридман  
+        -сылки:
+            - https://www.litres.ru/book/dzhordzh-fridman/amerikanskaya-imperiya-prognoz-2020-2030-63694886/
+            - https://www.piter.com/collection/patrioticheskie-knigi/product/amerikanskaya-imperiya-prognoz-2020-2030-gg
+            - https://cdn.bookey.app/files/pdf/book/en/america's-secret-war.pdf
+    - ВВП. Краткая история, рассказанная с пиететом  
+        - Автор: Дайана Койл  
         - Ссылки:
-
-    - ВВП. Краткая история, рассказанная с пиететом
-        - Автор: Дайана Койл
+            - https://www.litres.ru/book/diana-koyl/vvp-kratkaya-istoriya-rasskazannaya-s-pietetom-17143972/
+            - https://www.labirint.ru/books/517765/
+            - https://id.hse.ru/data/2016/01/19/1081719098/%D0%9A%D0%BE%D0%B9%D0%BB_%D1%82%D0%B5%D0%BA%D1%81%D1%82_site.pdf
+    - Как устроена экономика  
+        - Автор: Ха‑Джун Чанг  
         - Ссылки:
-
-    - Как устроена экономика
-        - Автор: Ха-Джун Чанг
+            - https://www.litres.ru/book/ha-dzhun-chang/kak-ustroena-ekonomika-9361857/
+            - https://mfk1.kg/wp-content/uploads/2022/07/Ha-Dzhun-CHang-Kak-ustroena-ekonomika.pdf
+    - Желтый дьявол  
+        - Автор: Андрей Аникин  
         - Ссылки:
-
-    - Желтый дьявол
-        - Автор: Андрей Аникин
+            - https://www.wildberries.kg/catalog/tags/andrei-anikin
+            - https://publ.lib.ru/ARCHIVES/A/ANIKIN_Andrey_Vladimirovich_(ekonomist)/_Anikin_A.V..html
+    - Порох. От алхимии до артиллерии  
+        - Автор: Джек Келли  
         - Ссылки:
-
-    - Порох. От алхимии до артиллерии
-        - Автор: Джек Келли
+            - https://knigi-audio.me/istoriya/30519-poroh-ot-alhimii-artillerii-dzhek-kelli.html
+            - http://chemistry-chemists.com/N5_2012/S2/ChemistryAndChemists_5_2012-S2-0.html
+            - http://militera.lib.ru/tw/kelly_j/index.html
+    - Рынок ценных бумаг (учебник под редакцией Жукова)  
+        - Автор: Учебник под редакцией Жукова  
         - Ссылки:
-
-    - Рынок ценных бумаг
-        - Автор: Учебник под редакцией Жукова
+            - https://institutiones.com/download/books/1522-rynok-cennyx-bumag.html            
+    - Экономический образ мышления  
+        - Автор: Пол Хейне  
         - Ссылки:
-
-    - Экономический образ мышления
-        - Автор: Пол Хейне
+            - https://www.labirint.ru/books/512959/
+            - http://economics-lib.ru/books/item/f00/s00/z0000008/index.shtml
+            - https://openuni.io/course/3/lesson/1/material/317/
+    - Рынок ценных бумаг (Борис Алехин)  
+        - Автор: Борис Алехин  
         - Ссылки:
-
-    - Рынок ценных бумаг
-        - Автор: Борис Алехин
+            - https://urait.ru/book/rynok-cennyh-bumag-437162
+            - https://www.litres.ru/book/boris-ivanovich-alehin/rynok-cennyh-bumag-67390434/
+            - https://www.chitai-gorod.ru/product/rynok-cennyh-bumag-7984
+    - Экономика и организация фондовой биржи  
+        - Автор: Лариса Чалдаева  
         - Ссылки:
-
-    - Экономика и организация фондовой биржи
-        - Автор: Лариса Чалдаева
+            - https://www.ozon.ru/product/ekonomika-i-organizatsiya-fondovoy-birzhi-chaldaeva-larisa-alekseevna-1943549967/
+            - https://book24.ru/product/ekonomika-i-organizaciya-fondovoy-birzhi-7426429/
+    - ЭКОНОМИКА ОРГАНИЗАЦИИ
+        - Автор: Лариса Чалдаева  
         - Ссылки:
-
-    - Ценообразование на рынке производных финансовых инструментов
-        - Автор: Николай Ноздрев
+            - https://urait.ru/book/ekonomika-organizacii-433452
+            - https://library.fa.ru/ve_files/works/Chaldaeva-Sharkova.pdf
+    - Ценообразование на рынке производных финансовых инструментов  
+        - Автор: Николай Ноздрев  
         - Ссылки:
-
-    - Биржа, её деятельность и история
-        - Автор: Отто Штиллих
+            - https://library.cbr.ru/catalog/lib/books/520441/
+            - https://www.ozon.ru/product/tsenoobrazovanie-na-rynke-proizvodnyh-finansovyh-instrumentov-nozdrev-nikolay-stanislavovich-663889873/
+    - Биржа, её деятельность и история  
+        - Автор: Отто Штиллих  
         - Ссылки:
-
-    - Миллиардеры. История крупнейших финансовых династий
-        - Автор: Гжегож Яшуньский
+            - https://www.ozon.ru/product/birzha-i-ee-deyatelnost-shtillih-otto-1891759/
+            - https://www.globusbooks.com/pages/books/19286/o-shtillih/birzha-i-ee-dejatelnost
+            - https://antiquebooks.ru/book.php?book=105525
+    - Миллиардеры. История крупнейших финансовых династий  
+        - Автор: Гжож Яшуньский  
         - Ссылки:
-
-    - Поведение цен на мировом рынке нефти
-        - Автор: Петров, Артюшкин
+            - https://www.labirint.ru/books/460461/
+            - https://libking.ru/books/nonf-/nonf-biography/541680-gzhegozh-yashunskiy-milliardery-istoriya-krupneyshih-finansovyh-dinastiy.html
+            - https://www.litres.ru/book/gzhegozh-yashunskiy/milliardery-istoriya-krupneyshih-finansovyh-dinastiy-8952613/chitat-onlayn/
+    - Поведение цен на мировом рынке нефти  
+        - Автор: Петров, Артюшкин  
         - Ссылки:
-
-    - Больше, чем вы знаете
-        - Автор: Майкл Мобуссин
+            - http://eup.ru/Documents/2005-01-03/33942.asp
+            - http://mce.biophys.msu.ru/rus/books/book45826/
+    - Больше, чем вы знаете  
+        - Автор: Майкл Мобуссин  
         - Ссылки:
-
-    - Flash Boys. Высокочастотные революции на Уолл-стрит
-        - Автор: Майкл Льюис
+            - https://www.litres.ru/book/maykl-mobussin/bolshe-chem-vy-znaete-neobychnyy-vzglyad-na-mir-finansov-6885474/
+            - https://alpinabook.ru/catalog/book-bolshe-chem-vy-znaete/
+            - https://mirknig.eu/bolshe-chem-vi-znaete-neobichnij-vzgljad-na-mir-finansov
+    - Flash Boys. Высокочастотные революции на Уолл-стрит  
+        - Автор: Майкл Льюис  
         - Ссылки:
-
-    - Опасные игры с деривативами. Полувековая история провалов от Citibank до Barings, Societe Generale и AIG
-        - Автор: Лоран Жак
+            - https://www.litres.ru/book/maykl-luis/flash-boys-vysokochastotnaya-revoluciya-na-uoll-strit-9363308/
+            - https://www.litres.ru/audiobook/maykl-luis/flash-boys-vysokochastotnaya-revoluciya-na-uoll-strit-68320/
+    - Опасные игры с деривативами. Полувековая история провалов от Citibank до Barings, Societe Generale и AIG  
+        - Автор: Лоран Жак  
         - Ссылки:
-
+            - https://wwwitres.ru/book/loran-zhak/opasnye-igry-s-derivativami-poluvekovaya-istoriya-provalov-ot-c-29411014/
+            - https://alpinabook.ru/catalog/book-opasnye-igry-s-derivativami/
+            - https://www.labirint.ru/books/336783/
 - Статистика
     - Голая статистика
         - Автор: Чарльз Уилан
