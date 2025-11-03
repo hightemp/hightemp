@@ -78,5 +78,7 @@
   - Validators; Валидаторы
     - Solana Staking Rewards & Validator Economics — how does it work? https://laine-sa.medium.com/solana-staking-rewards-validator-economics-how-does-it-work-6718e4cccc4e
     - How Much Do Solana Validators Make? https://solanacompass.com/staking/how-much-do-solana-validators-make
+  - Остальное
+    - How to Mine Solana (SOL) in 2025: Staking, Yield Farming, and Alternative Ways to Earn https://learn.backpack.exchange/zh/articles/how-to-mine-solana-sol-in-2025?utm_source=chatgpt.com
 - Стейкинг
   - Как стейкать SCALE на DeDust.io: руководство для новичков https://ru.beincrypto.com/learn/stake-scale-dedustio-guide/
