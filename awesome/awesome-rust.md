@@ -779,6 +779,7 @@
     - Async Awesomeness: A Deep Dive into Rust’s Asynchronous Capabilities https://senthilnayagan.net/blog/tech/async-awesomeness-a-deep-dive-into-rust’s-asynchronous-capabilities/
     - Deep Dive into Rust’s Async Ecosystem: Futures, Executors, and Tokio https://codedamn.com/news/rust/deep-dive-rust-async-ecosystem-futures-executors-tokio
     - A practical guide to async in Rust https://blog.logrocket.com/a-practical-guide-to-async-in-rust/
+    - Async Rust: When to Use It and When to Avoid It https://www.wyeworks.com/blog/2025/02/25/async-rust-when-to-use-it-when-to-avoid-it/
   - Channels, Каналы
     - Channels https://tokio.rs/tokio/tutorial/channels
   - Concurrency Patterns

@@ -68,6 +68,10 @@
   - Bitget https://www.bitget.com
   - Phemex https://www.phemex.com
 
+### Боты
+
+- Freqtrade — это бесплатный и открытый криптовалютный торговый бот на Python, поддерживающий ведущие биржи, с возможностями бэктестинга, оптимизации стратегий с помощью машинного обучения и управлением через Web-интерфейс или Telegram. https://github.com/freqtrade/freqtrade
+
 ### Статьи
 
 - Как стейкать SCALE на DeDust.io: руководство для новичков https://ru.beincrypto.com/learn/stake-scale-dedustio-guide/
