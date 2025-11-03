@@ -9,6 +9,11 @@
 
 - Vintix — отечественная action-модель, разработанная Институтом AIRI для управления роботами и промышленными процессами, которая сжимает данные о состоянии среды, действии и награде в один токен, обеспечивая обработку в три раза большего объема информации по сравнению с аналогами, устойчивость к шуму и неполной информации, а также быструю адаптацию к новым задачам через имитацию обучения с подкреплением. https://arxiv.org/pdf/2501.19400 https://github.com/AIRI-Institute/vintix
 
+### Курсы
+
+- Hugging Face Robotics Course — бесплатный курс по робототехнике и методам ИИ, основанный на Robot Learning Tutorial и связанный с проектом Le Robot. https://huggingface.co/learn/robotics-course/unit0/1 https://arxiv.org/pdf/2510.1240 https://huggingface.co/lerobot
+    - Конспекты перевода курса Hugging Face Robotics Course — неофициальные русскоязычные конспекты по материалам курса и туториала. https://docs.google.com/document/d/1dVZIDOmTeJe2DmFM4JzCdO1BZYFJ9qDqI2dKBrw5IDM/edit?tab=t.0
+
 ### Телеграм каналы
 
 ### Статьи
