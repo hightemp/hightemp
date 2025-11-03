@@ -74,4 +74,8 @@
 
 ### Статьи
 
-- Как стейкать SCALE на DeDust.io: руководство для новичков https://ru.beincrypto.com/learn/stake-scale-dedustio-guide/
+- SOL; Солана
+  - Validators; Валидаторы
+    - Solana Staking Rewards & Validator Economics — how does it work? https://laine-sa.medium.com/solana-staking-rewards-validator-economics-how-does-it-work-6718e4cccc4e
+- Стейкинг
+  - Как стейкать SCALE на DeDust.io: руководство для новичков https://ru.beincrypto.com/learn/stake-scale-dedustio-guide/
