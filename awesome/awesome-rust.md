@@ -833,7 +833,9 @@
   - What’s So Hard About Hashing Data? https://www.dfns.co/article/unambiguous-hashing
 - Архитектура
   - Design Patterns; Патерны проектирования
-    - Rust Design Patterns - Introduction https://rust-unofficial.github.io/patterns/
+    - Основное
+      - Rust Design Patterns - Introduction https://rust-unofficial.github.io/patterns/
+      - Patterns for Defensive Programming in Rust https://corrode.dev/blog/defensive-programming/
 - Примеры приложений
   - Rust: пример консольной программы ввода/вывода https://microsin.net/programming/pc/rust-io-project-building-a-command-line-program.html
   - Rust: проект многопоточного web-сервера https://microsin.net/programming/pc/rust-final-project-building-multithreaded-web-server.html
