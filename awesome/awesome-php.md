@@ -456,8 +456,14 @@ vendor/bin/phpqt-install
     - Остальное
       - GRASP (General Responsibility Assignment Software Patterns) http://phpforum.su/index.php?showtopic=87687
   - Паттерны
-    - Messaging Patterns https://www.enterpriseintegrationpatterns.com/patterns/messaging/
-    - Understanding the Singleton Pattern with PHP Example https://dev.to/hossamgouda/understanding-the-singleton-pattern-with-php-example-3i31?utm_source=weeklyphp&utm_medium=email
+    - Основное
+      https://designpatternsphp.readthedocs.io/ru/latest/index.html
+    - Команда; Command
+      - https://designpatternsphp.readthedocs.io/ru/latest/Behavioral/Command/README.html
+    - Одиночка; Singleton
+      - Understanding the Singleton Pattern with PHP Example https://dev.to/hossamgouda/understanding-the-singleton-pattern-with-php-example-3i31?utm_source=weeklyphp&utm_medium=email
+    - Остальное
+      - Messaging Patterns https://www.enterpriseintegrationpatterns.com/patterns/messaging/
   - Остальное
     - Mastering Architectural Rules in PHP Projects with PHP Arkitect https://medium.com/@edouard.courty/mastering-architectural-rules-in-php-projects-with-php-arkitect-80a2794c3066
 - Тестирование
