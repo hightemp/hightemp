@@ -14,6 +14,8 @@
 - worktree
     - git-worktree - Manage multiple working trees https://git-scm.com/docs/git-worktree
     - Как работать с Git worktree: краткая инструкция https://inoy.dev/blog/85
+- sparse-checkout
+    - Bring your monorepo down to size with sparse-checkout https://github.blog/open-source/git/bring-your-monorepo-down-to-size-with-sparse-checkout/
 - rebase
     - A Guide to Git Interactive Rebase, with Practical Examples https://www.sitepoint.com/git-interactive-rebase-guide/
     - Git Rebase vs. Merge: Which to Use? https://builtin.com/software-engineering-perspectives/git-rebase-vs-merge
