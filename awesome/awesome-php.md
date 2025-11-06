@@ -245,6 +245,7 @@ vendor/bin/phpqt-install
 - https://sergeyem.ru/index.php/blog
 - https://phpprofi.ru/
 - https://myrusakov.ru/php.html
+- https://www.dev-notes.ru/articles/
 
 ### Статьи
 
