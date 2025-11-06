@@ -167,6 +167,7 @@ vendor/bin/phpqt-install
 - Инструмент для автоматизации контроля над качеством архитектуры приложений написанных на PHP, а также упрощения анализа и визуализации некоторых метрик. https://github.com/Chetkov/php-clean-architecture
 - Свободный перевод официального руководства по Codeception https://github.com/yupe/codeception-guide-ru/tree/master
 - http://phpsadness.com/ созданный Эриком Вастлом для документирования реальных ошибок и странного поведения PHP.
+- DesignPatternsPHP — это коллекция примеров реализации широко известных шаблонов проектирования на PHP 8.x с пояснениями и тестами для изучения основных паттернов ООП. https://github.com/DesignPatternsPHP/DesignPatternsPHP
 
 ### Доступно ли в PHP
 
