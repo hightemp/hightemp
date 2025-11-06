@@ -8,6 +8,8 @@
 
 ### Статьи
 
+- Основное
+    - 
 - Тэги, tags
     - How to push tags in Git https://graphite.dev/guides/git-push-tag
     - Git Push Tags https://www.warp.dev/terminus/git-push-tags
@@ -17,6 +19,8 @@
     - Experiment on your code freely with Git worktree https://opensource.com/article/21/4/git-worktree
 - sparse-checkout
     - Bring your monorepo down to size with sparse-checkout https://github.blog/open-source/git/bring-your-monorepo-down-to-size-with-sparse-checkout/
+- bisect
+    - git-bisect - Use binary search to find the commit that introduced a bug https://git-scm.com/docs/git-bisect
 - rebase
     - A Guide to Git Interactive Rebase, with Practical Examples https://www.sitepoint.com/git-interactive-rebase-guide/
     - Git Rebase vs. Merge: Which to Use? https://builtin.com/software-engineering-perspectives/git-rebase-vs-merge
