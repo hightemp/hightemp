@@ -28,8 +28,10 @@
     - Современные команды и возможности Git https://www.dev-notes.ru/articles/git/modern-git-commands-and-features/
     - Инструкция как писать стандартизированные комментарии к коммитам (git commit) https://habr.com/ru/articles/673344/
     - Мегагайд: культура работы с Git https://habr.com/ru/companies/yandex_praktikum/articles/812139/
+- Conventional Commits
     - How to Write Better Git Commit Messages – A Step-By-Step Guide https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
     - Conventional Commits A specification for adding human and machine readable meaning to commit messages https://www.conventionalcommits.org/en/v1.0.0/#summary
+    - Руководство по отправке сообщений https://developers.google.com/blockly/guides/contribute/get-started/commits?hl=ru
 - Тэги, tags
     - How to push tags in Git https://graphite.dev/guides/git-push-tag
     - Git Push Tags https://www.warp.dev/terminus/git-push-tags
