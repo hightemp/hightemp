@@ -12,6 +12,7 @@
     - How to push tags in Git https://graphite.dev/guides/git-push-tag
     - Git Push Tags https://www.warp.dev/terminus/git-push-tags
 - worktree
+    - git-worktree - Manage multiple working trees https://git-scm.com/docs/git-worktree
     - Как работать с Git worktree: краткая инструкция https://inoy.dev/blog/85
 - rebase
     - A Guide to Git Interactive Rebase, with Practical Examples https://www.sitepoint.com/git-interactive-rebase-guide/
