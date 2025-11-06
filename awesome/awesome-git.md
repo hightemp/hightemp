@@ -64,3 +64,4 @@
     - Advanced Git: разбор сложных сценариев работы с репозиторием https://tproger.ru/articles/advanced-git--razbor-slozhnyh-scenariev-raboty-s-repozitoriem
     - Полезные команды Git: безопасная отмена коммитов, добавление файла из другой ветки и другие https://tproger.ru/translations/git-tips-and-tricks
     - Review checklist https://gist.github.com/bigsergey/aef64f68c22b3107ccbc439025ebba12
+    - A complete guide to code reviews https://www.swarmia.com/blog/a-complete-guide-to-code-reviews/
