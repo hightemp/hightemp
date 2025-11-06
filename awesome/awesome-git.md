@@ -58,10 +58,12 @@
     - Using Refs And Reflogs In Git https://www.geeksforgeeks.org/git/using-refs-and-reflogs-in-git/
 - git flow
     - GitFlow, GithubFlow, Trunk based development. Выбираем оптимальную модель ветвления https://timeweb.cloud/tutorials/microservices/kak-vybrat-optimalnuyu-model-vetvleniya
+- Code review
+    - Review checklist https://gist.github.com/bigsergey/aef64f68c22b3107ccbc439025ebba12
+    - A complete guide to code reviews https://www.swarmia.com/blog/a-complete-guide-to-code-reviews/
+    - What to look for in a code review https://google.github.io/eng-practices/review/reviewer/looking-for.html
 - Остальное
     - How to Copy Commits From One Branch to Another? https://betterstack.com/community/questions/how-to-copy-commits-from-one-branch-to-another/
     - Ship / Show / Ask A modern branching strategy https://martinfowler.com/articles/ship-show-ask.html
     - Advanced Git: разбор сложных сценариев работы с репозиторием https://tproger.ru/articles/advanced-git--razbor-slozhnyh-scenariev-raboty-s-repozitoriem
     - Полезные команды Git: безопасная отмена коммитов, добавление файла из другой ветки и другие https://tproger.ru/translations/git-tips-and-tricks
-    - Review checklist https://gist.github.com/bigsergey/aef64f68c22b3107ccbc439025ebba12
-    - A complete guide to code reviews https://www.swarmia.com/blog/a-complete-guide-to-code-reviews/
