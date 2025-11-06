@@ -64,6 +64,8 @@
 - Quality tools; Качество кода
     - Laravel code-quality tools https://www.honeybadger.io/blog/laravel-code-quality-tools/
 - Архитектура
+    - DTO
+        - Building Maintainable PHP Applications: Data Transfer Objects https://davorminchorov.com/articles/building-maintainable-php-applications-data-transfer-objects
     - Остальное
         - Архитектура в Laravel. Как сделать код понятным и масштабируемым https://habr.com/ru/articles/898584/
 - Остальное
