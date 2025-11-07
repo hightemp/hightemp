@@ -39,6 +39,7 @@
     - Инструкция как писать стандартизированные комментарии к коммитам (git commit) https://habr.com/ru/articles/673344/
     - Мегагайд: культура работы с Git https://habr.com/ru/companies/yandex_praktikum/articles/812139/
     - Введение в Git Merge и Git Rebase: зачем и когда их использовать https://habr.com/ru/articles/432420/
+    - Modern Git Commands and Features You Should Be Using https://martinheinz.dev/blog/109
 - Как устроен git
     - 10.2 Git Internals - Git Objects https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
     - Git Internals: Architecture and Index Files https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/august/devops-git-internals-architecture-and-index-files
