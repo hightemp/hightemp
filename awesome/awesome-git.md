@@ -35,6 +35,7 @@
     - Мегагайд: культура работы с Git https://habr.com/ru/companies/yandex_praktikum/articles/812139/
     - Введение в Git Merge и Git Rebase: зачем и когда их использовать https://habr.com/ru/articles/432420/
 - Как устроен git
+    - 10.2 Git Internals - Git Objects https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
     - Git Internals: Architecture and Index Files https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/august/devops-git-internals-architecture-and-index-files
     - Git Internals https://www.geeksforgeeks.org/git/git-internals/
     - DAG (Directed Acyclic Graph) https://www.graphapp.ai/engineering-glossary/git/dag-directed-acyclic-graph
