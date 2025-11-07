@@ -2249,6 +2249,7 @@
 - https://thomasnguyen.hashnode.dev/tag/golang?source=tags_bottom_blogs
 - https://golangprojectstructure.com/
 - https://substack.com/@samuelberthe
+- https://martinheinz.dev/tag/golang/
 
 ### Подкасты
 
