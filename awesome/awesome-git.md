@@ -33,6 +33,8 @@
     - Инструкция как писать стандартизированные комментарии к коммитам (git commit) https://habr.com/ru/articles/673344/
     - Мегагайд: культура работы с Git https://habr.com/ru/companies/yandex_praktikum/articles/812139/
     - Введение в Git Merge и Git Rebase: зачем и когда их использовать https://habr.com/ru/articles/432420/
+- .gitignore
+    - Файл .gitignore – как игнорировать файлы и папки в Git https://wiki.merionet.ru/articles/fajl-gitignore-kak-ignorirovat-fajly-i-papki-v-git
 - Conventional Commits
     - How to Write Better Git Commit Messages – A Step-By-Step Guide https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
     - Conventional Commits A specification for adding human and machine readable meaning to commit messages https://www.conventionalcommits.org/en/v1.0.0/#summary
