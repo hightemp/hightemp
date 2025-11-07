@@ -85,6 +85,7 @@
     - A Guide to Git Interactive Rebase, with Practical Examples https://www.sitepoint.com/git-interactive-rebase-guide/
     - Git Rebase vs. Merge: Which to Use? https://builtin.com/software-engineering-perspectives/git-rebase-vs-merge
     - How to Git rebase onto another branch https://graphite.dev/guides/git-rebase-onto-another-branch
+    - git rebase: what can go wrong? https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/
 - cherry pick
     - Git cherry pick https://www.atlassian.com/git/tutorials/cherry-pick
 - Bisect: Отладка с помощью бинарного поиска
