@@ -35,6 +35,7 @@
     - Введение в Git Merge и Git Rebase: зачем и когда их использовать https://habr.com/ru/articles/432420/
 - .gitignore
     - Файл .gitignore – как игнорировать файлы и папки в Git https://wiki.merionet.ru/articles/fajl-gitignore-kak-ignorirovat-fajly-i-papki-v-git
+    - Правила синтаксиса файла .gitignore https://korobchinskiy.com/gitignore-rules/
 - Conventional Commits
     - How to Write Better Git Commit Messages – A Step-By-Step Guide https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
     - Conventional Commits A specification for adding human and machine readable meaning to commit messages https://www.conventionalcommits.org/en/v1.0.0/#summary
