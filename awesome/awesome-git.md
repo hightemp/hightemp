@@ -34,7 +34,7 @@
 
 ### Книги
 
-- https://shop.jcoglan.com/building-git/
+- Building Git https://shop.jcoglan.com/building-git/
 
 ### Статьи
 
