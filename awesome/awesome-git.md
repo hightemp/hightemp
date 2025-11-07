@@ -1,6 +1,7 @@
 ### Коллекции
 
 - https://github.com/dictcp/awesome-git
+- A collection of .gitignore templates https://github.com/github/gitignore
 
 ### Курсы
 
