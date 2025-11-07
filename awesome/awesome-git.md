@@ -27,6 +27,7 @@
 
 ### Шпаргалки
 
+- https://dangitgit.com/ru
 - https://firstaidgit.ru/
 - Шпаргалка по Git, в которой представлены основные команды https://proglib.io/p/git-cheatsheet
 - https://github.com/nanisimova/texts/blob/main/tools/git_intro.md
