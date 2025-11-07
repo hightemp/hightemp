@@ -34,6 +34,7 @@
     - Мегагайд: культура работы с Git https://habr.com/ru/companies/yandex_praktikum/articles/812139/
     - Введение в Git Merge и Git Rebase: зачем и когда их использовать https://habr.com/ru/articles/432420/
 - .gitignore
+    - gitignore - Specifies intentionally untracked files to ignore https://git-scm.com/docs/gitignore/2.42.0
     - Настройка глобального файла .gitignore https://sergeymukhin.com/blog/nastroyka-globalnogo-fayla-gitignore
     - Игнорирование в Git https://www.atlassian.com/ru/git/tutorials/saving-changes/gitignore
     - Файл .gitignore – как игнорировать файлы и папки в Git https://wiki.merionet.ru/articles/fajl-gitignore-kak-ignorirovat-fajly-i-papki-v-git
