@@ -32,6 +32,10 @@
 - Шпаргалка по Git, в которой представлены основные команды https://proglib.io/p/git-cheatsheet
 - https://github.com/nanisimova/texts/blob/main/tools/git_intro.md
 
+### Книги
+
+- https://shop.jcoglan.com/building-git/
+
 ### Статьи
 
 - Основное
@@ -51,6 +55,8 @@
     - Git Internals part 2: packfiles https://dev.to/calebsander/git-internals-part-2-packfiles-1jg8
     - Git Internals part 3: the SSH transport https://dev.to/calebsander/git-internals-part-3-the-ssh-transport-2m5c
     - Как реализовать простой контроль версий с помощью JavaScript, чтобы лучше разобраться в Git https://nuancesprog.ru/p/19491/
+    - Inside .git https://jvns.ca/blog/2024/01/26/inside-git/
+    - Git from the inside out https://maryrosecook.com/blog/post/git-from-the-inside-out
 - .gitignore
     - gitignore - Specifies intentionally untracked files to ignore https://git-scm.com/docs/gitignore/2.42.0
     - Настройка глобального файла .gitignore https://sergeymukhin.com/blog/nastroyka-globalnogo-fayla-gitignore
