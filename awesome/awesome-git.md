@@ -40,6 +40,9 @@
     - DAG (Directed Acyclic Graph) https://www.graphapp.ai/engineering-glossary/git/dag-directed-acyclic-graph
     - Git object types (blob, tree, commit, tag) https://www.graphapp.ai/engineering-glossary/git/git-object-types-blob-tree-commit-tag
     - Explain BLOB object and tree object in Git. https://www.tutorialspoint.com/explain-blob-object-and-tree-object-in-git
+    - Git Internals part 1: The git object model https://dev.to/calebsander/git-internals-part-1-the-git-object-model-474m
+    - Git Internals part 2: packfiles https://dev.to/calebsander/git-internals-part-2-packfiles-1jg8
+    - Git Internals part 3: the SSH transport https://dev.to/calebsander/git-internals-part-3-the-ssh-transport-2m5c
 - .gitignore
     - gitignore - Specifies intentionally untracked files to ignore https://git-scm.com/docs/gitignore/2.42.0
     - Настройка глобального файла .gitignore https://sergeymukhin.com/blog/nastroyka-globalnogo-fayla-gitignore
