@@ -47,6 +47,8 @@
     - Файл .gitignore – как игнорировать файлы и папки в Git https://wiki.merionet.ru/articles/fajl-gitignore-kak-ignorirovat-fajly-i-papki-v-git
     - Правила синтаксиса файла .gitignore https://korobchinskiy.com/gitignore-rules/
     - .gitignore Command Guide: Practical Examples and Terraform Tips https://www.env0.com/blog/gitignore-command-guide-practical-examples-and-terraform-tips
+- plumbing commands
+    - the plumbing commands https://gist.github.com/schacon/1153310
 - Conventional Commits
     - How to Write Better Git Commit Messages – A Step-By-Step Guide https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
     - Conventional Commits A specification for adding human and machine readable meaning to commit messages https://www.conventionalcommits.org/en/v1.0.0/#summary
