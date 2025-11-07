@@ -38,6 +38,7 @@
     - Git Internals: Architecture and Index Files https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/august/devops-git-internals-architecture-and-index-files
     - Git Internals https://www.geeksforgeeks.org/git/git-internals/
     - DAG (Directed Acyclic Graph) https://www.graphapp.ai/engineering-glossary/git/dag-directed-acyclic-graph
+    - Git object types (blob, tree, commit, tag) https://www.graphapp.ai/engineering-glossary/git/git-object-types-blob-tree-commit-tag
 - .gitignore
     - gitignore - Specifies intentionally untracked files to ignore https://git-scm.com/docs/gitignore/2.42.0
     - Настройка глобального файла .gitignore https://sergeymukhin.com/blog/nastroyka-globalnogo-fayla-gitignore
