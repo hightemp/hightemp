@@ -97,3 +97,7 @@
     - Ship / Show / Ask A modern branching strategy https://martinfowler.com/articles/ship-show-ask.html
     - Advanced Git: разбор сложных сценариев работы с репозиторием https://tproger.ru/articles/advanced-git--razbor-slozhnyh-scenariev-raboty-s-repozitoriem
     - Полезные команды Git: безопасная отмена коммитов, добавление файла из другой ветки и другие https://tproger.ru/translations/git-tips-and-tricks
+
+### Видео
+
+- Git — инструмент для совместной работы, с нуля и до регламента в команде — доклад Школы разработки интерфейсов Яндекса. Отличное объяснение того, что такое blob, commit, head, index, working tree, а также чем git merge отличается от git rebase. https://youtu.be/yDSs80lu3ak?si=-sHHqd7rPBk3Eywj
