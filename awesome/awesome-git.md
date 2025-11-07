@@ -44,6 +44,7 @@
     - Git Internals part 1: The git object model https://dev.to/calebsander/git-internals-part-1-the-git-object-model-474m
     - Git Internals part 2: packfiles https://dev.to/calebsander/git-internals-part-2-packfiles-1jg8
     - Git Internals part 3: the SSH transport https://dev.to/calebsander/git-internals-part-3-the-ssh-transport-2m5c
+    - Как реализовать простой контроль версий с помощью JavaScript, чтобы лучше разобраться в Git https://nuancesprog.ru/p/19491/
 - .gitignore
     - gitignore - Specifies intentionally untracked files to ignore https://git-scm.com/docs/gitignore/2.42.0
     - Настройка глобального файла .gitignore https://sergeymukhin.com/blog/nastroyka-globalnogo-fayla-gitignore
