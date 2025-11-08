@@ -4,6 +4,8 @@
 
 ### Реозитории
 
+- HTTP-Сервера
+    - Granian is a Rust HTTP server for Python applications built on top of Hyper and Tokio. https://github.com/emmett-framework/granian
 - Alembic
     - Проект представляет собой aiohttp приложение с примерами использования Alembic для тестирования и создания миграций базы данных, подготовленное для лекций в Яндекс Школе бэкенд-разработки и презентации на Moscow Python meetup. https://github.com/alvassin/alembic-quickstart
 
