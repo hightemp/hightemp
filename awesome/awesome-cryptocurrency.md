@@ -93,3 +93,5 @@
     - How to Mine Solana (SOL) in 2025: Staking, Yield Farming, and Alternative Ways to Earn https://learn.backpack.exchange/zh/articles/how-to-mine-solana-sol-in-2025?utm_source=chatgpt.com
 - Стейкинг
   - Как стейкать SCALE на DeDust.io: руководство для новичков https://ru.beincrypto.com/learn/stake-scale-dedustio-guide/
+- Остальное
+  - Полный разбор Polymarket: от интерфейса до смарт-контрактов https://habr.com/ru/companies/metalamp/articles/851892/
