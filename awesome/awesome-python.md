@@ -6,8 +6,11 @@
 
 - HTTP-Сервера
     - Granian is a Rust HTTP server for Python applications built on top of Hyper and Tokio. https://github.com/emmett-framework/granian
-- Alembic
-    - Проект представляет собой aiohttp приложение с примерами использования Alembic для тестирования и создания миграций базы данных, подготовленное для лекций в Яндекс Школе бэкенд-разработки и презентации на Moscow Python meetup. https://github.com/alvassin/alembic-quickstart
+- Фреймворки
+    - Robyn — это быстрый и инновационный Python-фреймворк для веб-разработки, сочетающий асинхронность Python с высокопроизводительным Rust-рантаймом и ориентированный на простоту, открытость и поддержку сообщества. https://robyn.tech/
+- Работа с БД
+    - Alembic
+        - Проект представляет собой aiohttp приложение с примерами использования Alembic для тестирования и создания миграций базы данных, подготовленное для лекций в Яндекс Школе бэкенд-разработки и презентации на Moscow Python meetup. https://github.com/alvassin/alembic-quickstart
 
 ### Курсы
 
