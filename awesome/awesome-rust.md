@@ -791,6 +791,8 @@
   - Основное
   - sockets; Сокеты
     - Network programming in Rust https://woile.dev/posts/network-programming-in-rust/
+  - Proxy
+    - Building a High-Performance HTTP Proxy Server (Route Based) in Rust with Hyper & Tokio https://aminshamim.medium.com/building-a-high-performance-http-proxy-server-in-rust-with-hyper-tokio-1fa6145847cb
   - HTTP/HTTPS
     - Основное
       - How To Make HTTP/HTTPS Web Requests in Rust https://www.petergirnus.com/blog/how-to-make-http-requests-in-rust
