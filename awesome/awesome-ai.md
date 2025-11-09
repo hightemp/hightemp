@@ -1708,6 +1708,7 @@ https://www.sackett.net/The-Spike.pdf
 - Transformers
     - Transformer, explained in detail | Igor Kotenkov | NLP Lecture (in Russian) https://www.youtube.com/watch?v=iOrNbK2T92M
     - Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy https://www.youtube.com/watch?v=XfpMkf4rD6E
+    - LLM, трансформеры, внимательно разбираем внутренности https://www.youtube.com/watch?v=1vPqIweQh_U
 - Агентные системы
     - ВШЭ. Агентные системы и обучение с подр. Model-based Reinforcement Learning https://www.youtube.com/watch?v=gov2UNB2gIo&list=PLJyTG7NfyQ8lAH1QF2Frwq6aQdxyyIqAx
 - Diffusion transformers
