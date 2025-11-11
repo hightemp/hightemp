@@ -282,6 +282,9 @@
     - Безопасное использование C++ https://habr.com/ru/companies/pvs-studio/articles/580762/
     - C++ quick tips: Overloaded virtual functions https://twdev.blog/2024/07/cpp_overloaded_virtuals/
     - Всё, точка, приплыли! Учимся работать с числами с плавающей точкой и разрабатываем альтернативу с фиксированной точностью десятичной дроби https://habr.com/ru/companies/xakep/articles/257897/    
+- Сеть
+  - TCP-Соединения
+    - How to Forcibly Close a Socket in TIME_WAIT https://www.baeldung.com/linux/close-socket-time_wait
 - Курс по разработке 64-битных приложений на языке C и C++
   - Урок 13. Паттерн 5. Адресная арифметика https://pvs-studio.ru/ru/blog/lessons/0013/
 - Linux
