@@ -117,6 +117,8 @@
     - TCP Handshake
     - TCP Congestion Control
     - TCP Segmentation Offload (TSO)
+    - Остальное
+        - Bringing insights into TCP resets and timeouts to Cloudflare Radar https://blog.cloudflare.com/tcp-resets-timeouts/
 - HTTP
     - HTTP/1
         - Key differences between HTTP=1.0 and HTTP=1.1 https://www.ra.ethz.ch/cdstore/www8/data/2136/pdf/pd1.pdf
