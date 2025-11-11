@@ -509,6 +509,7 @@
     - Слабые указатели в Go: в консерватории не всё в порядке https://habr.com/ru/articles/895876/
   - Channels, Каналы
     - Gist of Go: Channels https://antonz.org/go-concurrency/channels/
+    - Gist of Go: Pipelines https://antonz.org/go-concurrency/pipelines/
     - The Behavior Of Channels https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html
     - Channels in Go https://go101.org/article/channel.html
     - Internals of Go Channels https://shubhagr.medium.com/internals-of-go-channels-cf5eb15858fc
