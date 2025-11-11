@@ -77,6 +77,8 @@
 - Проект free-for.dev представляет собой исчерпывающий список бесплатных сервисов и инструментов для разработчиков и специалистов по инфраструктуре, созданный совместными усилиями сообщества с целью помочь принимать информированные решения при выборе ресурсов для разработки. https://github.com/ripienaar/free-for-dev
 - CloudSploit - инструмент пробива облачных платформ от Aqua, представляющий собой проект с открытым исходным кодом для обнаружения рисков безопасности в учетных записях облачной инфраструктуры, включая: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI) и GitHub, с использованием скриптов для выявления потенциальных неправильных конфигураций и рисков безопасности. https://github.com/aquasecurity/cloudsploit https://kalilinuxtutorials.com/cloudsploit/
 - lazyjournal - это терминальный интерфейс с открытым исходным кодом, написанный на Go, который позволяет просматривать, фильтровать и анализировать логи из различных источников (journalctl, файловая система, Docker, Podman и Kubernetes) с поддержкой потокового вывода, нечеткого поиска и цветового выделения. https://github.com/Lifailon/lazyjournal
+- Платформы потоковой обработки событий
+    - Redpanda is the most complete, Apache Kafka®-compatible streaming data platform https://github.com/redpanda-data/redpanda
 
 ### Статьи
 
@@ -112,6 +114,7 @@
         - Apache Kafka
         - Apache Pulsar
         - NATS Jetstream (расширение NATS для потоковой обработки)
+        - Redpanda
     - RabbitMQ
     - Apache ActiveMQ
     - NATS Core
