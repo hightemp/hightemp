@@ -1361,7 +1361,8 @@
         - HTTP Connection reuse in Go clients https://blog.cubieserver.de/2022/http-connection-reuse-in-go-clients/
         - Пишем web-фреймворк на Go: как работают современные web-фреймворки под капотом https://habr.com/ru/articles/902496/
     - TCP-соединение; TCP Connections
-      - Forcefully Closing TCP Connections in Golang https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6
+      - SetLinger
+        - Forcefully Closing TCP Connections in Golang https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6
     - KeepAlive
       - Reliable TCP Connections in Go with Keepalive https://wqwq3215.medium.com/reliable-tcp-connections-in-go-with-keepalive-fd4eac7cc986
       - Maintaining Healthy TCP Connections in Golang https://bencane.com/keeping-tcp-connections-alive-in-golang-801a78b7cf1
