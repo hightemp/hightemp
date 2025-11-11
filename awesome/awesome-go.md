@@ -508,6 +508,7 @@
     - Memory Efficiency in Go 1.24: Introducing the weakPackage https://medium.com/@ajitem/memory-efficiency-in-go-1-24-introducing-the-weakpackage-91635691d53f
     - Слабые указатели в Go: в консерватории не всё в порядке https://habr.com/ru/articles/895876/
   - Channels, Каналы
+    - Gist of Go: Channels https://antonz.org/go-concurrency/channels/
     - The Behavior Of Channels https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html
     - Channels in Go https://go101.org/article/channel.html
     - Internals of Go Channels https://shubhagr.medium.com/internals-of-go-channels-cf5eb15858fc
