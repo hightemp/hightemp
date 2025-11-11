@@ -429,6 +429,7 @@ vendor/bin/phpqt-install
     - Чистая архитектура на PHP. Как её измерять и контролировать? https://habr.com/ru/articles/504590/
   - DTO
     - Data Transfer Objects (DTOs) in PHP https://ashallendesign.co.uk/blog/data-transfer-objects-dtos-in-php
+    - DTO в языке PHP: примеры для начинающих https://habr.com/ru/articles/721122/
   - DDD
     - Value Object
       - DDD в PHP: Value Object или Объект-Значение https://phpprofi.ru/blogs/post/58
