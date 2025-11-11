@@ -1715,6 +1715,7 @@
         - Understanding and Implementing the Semaphore Pattern in Go https://www.codingexplorations.com/blog/understanding-and-implementing-the-semaphore-pattern-in-go
       - Worker Pool Pattern
         - Efficient Concurrency in Go: A Deep Dive into the Worker Pool Pattern for Batch Processing https://rksurwase.medium.com/efficient-concurrency-in-go-a-deep-dive-into-the-worker-pool-pattern-for-batch-processing-73cac5a5bdca
+        - The Case For A Go Worker Pool https://brandur.org/go-worker-pool
       - Fan-out/Fan-in Pattern
         - Concurrency Patterns: Fan-in and Fan-out in Go https://www.slingacademy.com/article/concurrency-patterns-fan-in-and-fan-out-in-go/
         - Паттерны проектирования Go. Fan-in https://habr.com/ru/articles/854302/
