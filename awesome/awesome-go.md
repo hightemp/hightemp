@@ -1263,7 +1263,10 @@
   - go-cache
     - How to implement in-memory caching in Go https://blog.logrocket.com/how-to-implement-memory-caching-go/
 - Шаблонные движки
-  - Templ vs Gomponents https://nuage.quimerch.com/-/ewen/articles/templ-vs-gomponents
+  - Templ
+  - Gomponents
+  - Остальное
+    - Templ vs Gomponents https://nuage.quimerch.com/-/ewen/articles/templ-vs-gomponents
 - Файловая система
   - Mastering Golang — Part 7: Read File https://blog.stackademic.com/mastering-golang-part-6-read-file-41a8292497e5
   - Создание временного файла и временной директории в Golang http://xztvc.ru/post/sozdanie-vremennogo-fajla-i-vremennoj-direktorii-v-golang
