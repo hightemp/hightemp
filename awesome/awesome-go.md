@@ -1729,6 +1729,7 @@
     - Circuit breaker
       - Writing a circuit breaker in Go https://rednafi.com/go/circuit_breaker/
       - Can you explain the Circuit Breaker pattern and how you would implement it in a Go service that makes external API calls? Why is this pattern useful in a distributed system? https://medium.com/@ltcong1411/can-you-explain-the-circuit-breaker-pattern-and-how-you-would-implement-it-in-a-go-service-that-248bb7b04960
+      - Designing a distributed circuit breaker for disabling webhook endpoints in Golang https://www.getconvoy.io/blog/circuit-breaker-in-golang
     - Composite
       - Design Patterns in Golang: Composite https://blog.ralch.com/articles/design-patterns/golang-composite/
     - Bridge
