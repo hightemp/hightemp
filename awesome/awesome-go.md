@@ -1821,6 +1821,10 @@
   - logrus
     - Integrating logrus with cobra https://le-gall.bzh/post/go/integrating-logrus-with-cobra/
   - Остальное
+    - Building a distributed log using S3
+      - Disaggregated Storage - a brief introduction https://avi.im/blag/2024/disaggregated-storage/
+      - Zero Disk Architecture https://avi.im/blag/2024/zero-disk-architecture/
+      - Building a distributed log using S3 (under 150 lines of Go) https://avi.im/blag/2024/s3-log/
     - Logging Like a Pro in Go https://godfreyowidi.medium.com/logging-like-a-pro-in-go-7a6a5bde9b54
     - Trace Log in Golang https://riad.run/trace-in-golang
     - Effective Logging in Go: Best Practices and Examples https://medium.com/novai-go-programming-101/effective-logging-in-go-best-practices-and-examples-911c31145260
