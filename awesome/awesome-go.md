@@ -587,8 +587,9 @@
     - Tilde
       - Tilde ~ https://github.com/akutz/go-generics-the-hard-way/blob/main/03-getting-started/06-tilde.md
       - Tilde Operator in Go https://towardsdev.com/tilde-operator-in-go-7325a6988790
-    - Остальное
+    - Критика
       - What's Missing From Golang Generics? https://www.dolthub.com/blog/2024-12-05-whats-missing-from-golang-generics/
+    - Остальное
       - Mastering Generics In Go: A Comprehensive Tutorial https://www.kelche.co/blog/go/golang-generics/
       - Mastering Generics in Go: A Comprehensive Guide https://medium.com/hprog99/mastering-generics-in-go-a-comprehensive-guide-4d05ec4b12b
       - Diving Into Generics in Golang: A Practical Guide for 2024 https://toxigon.com/generics-in-golang
