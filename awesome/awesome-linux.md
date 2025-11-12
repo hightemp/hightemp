@@ -517,6 +517,7 @@
     - 23 Best Emulator Choices of 2025 https://thectoclub.com/tools/best-terminal-emulator/
     - A Guide to Linux System Monitoring: top, htop, btop, and glances https://machaddr.substack.com/p/a-guide-to-linux-system-monitoring
 - Остальное
+    - Linux-телефоны сейчас важнее, чем когда-либо https://habr.com/ru/companies/ruvds/articles/962410/
     - Мой первый контейнер без Docker https://habr.com/ru/articles/881428/
     - How to supercharge string search through a directory hierarchy on a Linux/Unix [статья](https://www.cyberciti.biz/open-source/command-line-hacks/ag-supercharge-string-search-through-directory-hierarchy/)
     - You can list a directory containing 8 million files! But not with ls. [статья](http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html)
