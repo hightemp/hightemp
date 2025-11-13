@@ -1429,6 +1429,7 @@
       - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
       - Golang пишет Http-прокси https://studygolang.com/articles/11064
       - Создайте HTTP-соединение на основе прокси-сервера https://maodanp.github.io/2016/09/11/golang-https-proxy/
+      - HTTP(S) Proxy in Golang in less than 100 lines of code https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c
     - Остальное
       - Network Programming and Proxies in Golang https://blog.ralch.com/articles/network-programming-and-proxies-in-golang/
       - Go and Proxy Servers: Part 1 - HTTP Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/
