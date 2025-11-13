@@ -82,6 +82,9 @@
 
 ### Статьи
 
+- VPS
+    - Как установить и настроить VPS-сервер: чек-лист для начинающих https://habr.com/ru/articles/964950/
+    - Initial VPS Setup Checklist - first 30 minutes on a fresh server https://akashrajpurohit.com/blog/initial-vps-setup-checklist-first-30-minutes/
 - VPN
     - Building Your Own VPN for Free https://dev.to/baptistsec/building-your-own-vpn-for-free-3o9h
     - Make Your Own VPN - FreeBSD, Wireguard, Ipv6 and Ad-Blocking Included https://it-notes.dragas.net/2023/09/23/make-your-own-vpn-freebsd-wireguard-ipv6-and-ad-blocking-included/
