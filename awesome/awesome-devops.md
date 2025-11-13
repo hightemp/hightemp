@@ -96,6 +96,7 @@
     - ProxyJump
         - Настройка SSH ProxyJump https://mykb.ru/topic/ssh-proxy-jump
         - Accessing Remote Servers with SSH ProxyJump and Jump Hosts https://dev.to/lightningdev123/accessing-remote-servers-with-ssh-proxyjump-and-jump-hosts-2id1
+        - Как настроить SSH-Jump Server https://habr.com/ru/companies/cloud4y/articles/530516/
 - Networking
     - TCP/UDP https://awesome-devops.pages.dev/networking/tcp-udp
 - docker
