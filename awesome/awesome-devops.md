@@ -95,6 +95,7 @@
         - Secure Secure Shell https://blog.stribik.technology/2015/01/04/secure-secure-shell.html
     - ProxyJump
         - Настройка SSH ProxyJump https://mykb.ru/topic/ssh-proxy-jump
+        - Accessing Remote Servers with SSH ProxyJump and Jump Hosts https://dev.to/lightningdev123/accessing-remote-servers-with-ssh-proxyjump-and-jump-hosts-2id1
 - Networking
     - TCP/UDP https://awesome-devops.pages.dev/networking/tcp-udp
 - docker
