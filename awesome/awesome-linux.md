@@ -383,6 +383,7 @@
 - SSH
     - ssh_config
         - How to Use The SSH Config File https://phoenixnap.com/kb/ssh-config
+        - Drop-In (.d) Directories In Linux Explained: A Safer Way to Manage Config Files https://ostechnix.com/drop-in-d-directories-linux-configuration-explained/
     - tunnels
         - A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding https://iximiuz.com/en/posts/ssh-tunnels/
         - SSH Local Port Forwarding https://penkovski.com/post/ssh-local-port-forwarding/
