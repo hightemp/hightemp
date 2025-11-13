@@ -390,6 +390,7 @@
         - SSH port forwarding for Beginners https://nirali0.medium.com/ssh-port-forwarding-for-beginners-228d9a1d5622
     - Остальное
         - OpenSSH/Cookbook/Multiplexing https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing
+        - Why putting SSH on another port than 22 is bad idea https://www.adayinthelifeof.nl/2012/03/12/why-putting-ssh-on-another-port-than-22-is-bad-idea/
 - Служба доменных имен
     - Основное
         - Служба доменных имен (DNS) https://www.opennet.ru/docs/RUS/tcp_conf/tcp07.html
