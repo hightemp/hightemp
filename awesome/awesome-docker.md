@@ -46,6 +46,8 @@
     - The definitive Guide to Docker compose https://gabrieltanner.org/blog/docker-compose/
     - Docker for Beginners: A Step-by-Step Guide to Get Started…. https://medium.com/@anjanathenuwara/from-beginner-to-pro-everything-you-need-to-know-about-docker-5d8f38db2ba6
     - Docker на каждый день: Ключевые команды в одной статье-шпаргалке https://habr.com/ru/articles/913978/
+- Изнутри, как работает
+    - Внутреннее устройство Docker. Заглянем под капот https://habr.com/ru/articles/963702/
 - Отладка, Debugging, Troubleshooting
     - Chapter 12: Troubleshooting and Debugging with Docker https://praneethreddybilakanti.medium.com/chapter-12-troubleshooting-and-debugging-with-docker-0a37b6d47d38
     - 13 Ways to Troubleshoot Docker Faster in 2024 https://overcast.blog/13-ways-to-troubleshoot-docker-faster-in-2024-5b064c20c9e2
