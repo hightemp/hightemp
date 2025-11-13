@@ -520,6 +520,7 @@
     - A Guide to Linux System Monitoring: top, htop, btop, and glances https://machaddr.substack.com/p/a-guide-to-linux-system-monitoring
 - VPS
     - Как установить и настроить VPS-сервер: чек-лист для начинающих https://habr.com/ru/articles/964950/
+    - Initial VPS Setup Checklist - first 30 minutes on a fresh server https://akashrajpurohit.com/blog/initial-vps-setup-checklist-first-30-minutes/
 - Остальное
     - Linux-телефоны сейчас важнее, чем когда-либо https://habr.com/ru/companies/ruvds/articles/962410/
     - Мой первый контейнер без Docker https://habr.com/ru/articles/881428/
