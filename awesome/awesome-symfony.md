@@ -382,6 +382,8 @@
 - Task scheduler, cron
   - Знакомство с созданием консольных команд: cron. https://php.zone/symfony-course/znakomstvo-s-konsolnymi-komandami-v-symfony-cron
 - Архитектура
+  - Action-Domain-Responder (ADR)
+    - A better ADR pattern for your Symfony controllers https://www.strangebuzz.com/en/blog/a-better-adr-pattern-for-your-symfony-controllers
   - Clean Architecture, Чистая архитектура
     - POC of Clean Architecture with Symfony https://medium.com/@stefanoalletti_40357/poc-of-clean-architecture-with-symfony-66933548b305
   - CQRS
