@@ -427,9 +427,12 @@ vendor/bin/phpqt-install
     - Анемичные модели с логикой в сервисах: плюсы и минусы одного из самых популярных подходов к разработке на PHP https://habr.com/ru/articles/919198/
   - DI; Dependency Injection; Внедрение зависимостей
     - Dependency Injection в мире Software Engineering https://habr.com/ru/companies/avito/articles/556924/
-  - Clean architecture
+  - Чистая архитектура; Clean architecture
     - Clean Architecture with PHP https://medium.com/unil-ci-software-engineering/clean-architecture-with-php-22de915a6c50
     - Чистая архитектура на PHP. Как её измерять и контролировать? https://habr.com/ru/articles/504590/
+    - Comparison of Domain-Driven Design and Clean Architecture Concepts https://khalilstemmler.com/articles/software-design-architecture/domain-driven-design-vs-clean-architecture/
+  - Слоистая архитектура;
+    - Maintain Slim PHP MVC Frameworks with a Layered Structure https://www.toptal.com/php/maintain-slim-php-mvc-frameworks-with-a-layered-structure
   - DTO
     - Data Transfer Objects (DTOs) in PHP https://ashallendesign.co.uk/blog/data-transfer-objects-dtos-in-php
     - DTO в языке PHP: примеры для начинающих https://habr.com/ru/articles/721122/
@@ -447,8 +450,6 @@ vendor/bin/phpqt-install
     - Что такое гексагональная архитектура. Разделение бизнес-логики и инфраструктуры с помощью портов и адаптеров https://habr.com/ru/companies/timeweb/articles/771338/
     - Hexagonal Architecture https://wiki.c2.com/?HexagonalArchitecture
     - DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
-  - Чистая архитектура; Clean architecture
-    - Comparison of Domain-Driven Design and Clean Architecture Concepts https://khalilstemmler.com/articles/software-design-architecture/domain-driven-design-vs-clean-architecture/
   - GRASP (General Responsibility Assignment Software Patterns)
     - Основные
       - Information Expert (Информационный эксперт)
