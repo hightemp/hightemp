@@ -447,6 +447,8 @@ vendor/bin/phpqt-install
     - Что такое гексагональная архитектура. Разделение бизнес-логики и инфраструктуры с помощью портов и адаптеров https://habr.com/ru/companies/timeweb/articles/771338/
     - Hexagonal Architecture https://wiki.c2.com/?HexagonalArchitecture
     - DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+  - Чистая архитектура; Clean architecture
+    - Comparison of Domain-Driven Design and Clean Architecture Concepts https://khalilstemmler.com/articles/software-design-architecture/domain-driven-design-vs-clean-architecture/
   - GRASP (General Responsibility Assignment Software Patterns)
     - Основные
       - Information Expert (Информационный эксперт)
