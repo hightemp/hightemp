@@ -433,6 +433,8 @@ vendor/bin/phpqt-install
     - Comparison of Domain-Driven Design and Clean Architecture Concepts https://khalilstemmler.com/articles/software-design-architecture/domain-driven-design-vs-clean-architecture/
   - Слоистая архитектура;
     - Maintain Slim PHP MVC Frameworks with a Layered Structure https://www.toptal.com/php/maintain-slim-php-mvc-frameworks-with-a-layered-structure
+  - Action-Domain-Responder (ADR)
+    - Рефакторинг от MVC к ADR https://php.dragomano.ru/refaktoring-iz-mvc-v-adr/
   - DTO
     - Data Transfer Objects (DTOs) in PHP https://ashallendesign.co.uk/blog/data-transfer-objects-dtos-in-php
     - DTO в языке PHP: примеры для начинающих https://habr.com/ru/articles/721122/
