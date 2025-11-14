@@ -422,6 +422,8 @@ vendor/bin/phpqt-install
 - Логирование
   - Логирование в распределенном php-приложении https://habr.com/ru/articles/456676/
 - Архитектура
+  - Основное
+    - Анемичная модель предметной области и логика в сервисах https://habr.com/ru/articles/800789/
   - DI; Dependency Injection; Внедрение зависимостей
     - Dependency Injection в мире Software Engineering https://habr.com/ru/companies/avito/articles/556924/
   - Clean architecture
