@@ -382,6 +382,8 @@
 - Task scheduler, cron
   - Знакомство с созданием консольных команд: cron. https://php.zone/symfony-course/znakomstvo-s-konsolnymi-komandami-v-symfony-cron
 - Архитектура
+  - Action-Domain-Responder (ADR)
+    - A better ADR pattern for your Symfony controllers https://www.strangebuzz.com/en/blog/a-better-adr-pattern-for-your-symfony-controllers
   - Clean Architecture, Чистая архитектура
     - POC of Clean Architecture with Symfony https://medium.com/@stefanoalletti_40357/poc-of-clean-architecture-with-symfony-66933548b305
   - CQRS
@@ -389,6 +391,7 @@
   - Hexagonal Architecture, Гексоганальная архитектура
     - Symfony и Гексагональная архитектура https://habr.com/ru/articles/539084/
     - Symfony and Hexagonal Architecture https://minompi.medium.com/symfony-and-hexagonal-architecture-b3c4704e94de
+    - Applying Hexagonal Architecture to a Symfony project https://apiumhub.com/tech-blog-barcelona/applying-hexagonal-architecture-symfony-project/
   - Остальное
     - Clean Architecture, DDD, гексагональная архитектура. Разбираем на практике blog на Symfony https://habr.com/ru/articles/718916/
 - Plugin
@@ -460,6 +463,9 @@
 
 ### Примеры приложений
 
+- Hexagonal Architecture, DDD & CQRS in PHP; Example of a PHP application using Domain-Driven Design (DDD) and Command Query Responsibility Segregation (CQRS) principles keeping the code as simple as possible. https://github.com/CodelyTV/php-ddd-example
+- Hexagonal Architecture, DDD & TDD in Symfony; Example of a Symfony application using Domain-Driven Design (DDD) and Test Driver Development (TDD) principes keeping the code as simple as possible. https://github.com/dahromy/symfony-hexagonal-architecture
+- Ecotone - ES DDD CQRS PHP Symfony Laravel example https://github.com/ecotoneframework/php-ddd-cqrs-event-sourcing-symfony-laravel-ecotone
 - Symfony Blog - это веб-проект с открытым исходным кодом, основанный на архитектурных принципах Clean Architecture и Domain-Driven Design, включающий функциональность управления постами и категориями через модульную систему, с четким разделением на слои domain, application, infrastructure и presentation, реализованный с использованием фреймворка Symfony и паттерна порты и адаптеры для взаимодействия между модулями. https://github.com/annysmolyan/symfony-ddd-clean-architecture-blog
 - Symfony-messenger-sample - учебный проект, демонстрирующий базовую инициализацию и использование компонента Symfony Messenger с очередями сообщений на базе Doctrine и SQLite, созданный для упрощения понимания этой технологии начинающими разработчиками. https://github.com/balpom/symfony-messenger-sample
 - https://github.com/backend-university/products/

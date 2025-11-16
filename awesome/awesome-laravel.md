@@ -68,6 +68,8 @@
         - Building Maintainable PHP Applications: Value Objects https://davorminchorov.com/articles/building-maintainable-php-applications-value-objects
     - DTO
         - Building Maintainable PHP Applications: Data Transfer Objects https://davorminchorov.com/articles/building-maintainable-php-applications-data-transfer-objects
+    - Action-Domain-Responder (ADR)
+        - Шаблон: Action-Domain-Responder (ADR) https://coderman.ru/shablon-action-domain-responder-adr/
     - Остальное
         - Архитектура в Laravel. Как сделать код понятным и масштабируемым https://habr.com/ru/articles/898584/
 - Остальное

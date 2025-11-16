@@ -77,15 +77,28 @@
 - Проект free-for.dev представляет собой исчерпывающий список бесплатных сервисов и инструментов для разработчиков и специалистов по инфраструктуре, созданный совместными усилиями сообщества с целью помочь принимать информированные решения при выборе ресурсов для разработки. https://github.com/ripienaar/free-for-dev
 - CloudSploit - инструмент пробива облачных платформ от Aqua, представляющий собой проект с открытым исходным кодом для обнаружения рисков безопасности в учетных записях облачной инфраструктуры, включая: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI) и GitHub, с использованием скриптов для выявления потенциальных неправильных конфигураций и рисков безопасности. https://github.com/aquasecurity/cloudsploit https://kalilinuxtutorials.com/cloudsploit/
 - lazyjournal - это терминальный интерфейс с открытым исходным кодом, написанный на Go, который позволяет просматривать, фильтровать и анализировать логи из различных источников (journalctl, файловая система, Docker, Podman и Kubernetes) с поддержкой потокового вывода, нечеткого поиска и цветового выделения. https://github.com/Lifailon/lazyjournal
+- Платформы потоковой обработки событий
+    - Redpanda is the most complete, Apache Kafka®-compatible streaming data platform https://github.com/redpanda-data/redpanda
 
 ### Статьи
 
+- VPS
+    - Как установить и настроить VPS-сервер: чек-лист для начинающих https://habr.com/ru/articles/964950/
+    - Initial VPS Setup Checklist - first 30 minutes on a fresh server https://akashrajpurohit.com/blog/initial-vps-setup-checklist-first-30-minutes/
+    - How to Set Up a VPS Server: A Complete Guide for 2025 https://www.inmotionhosting.com/blog/how-to-setup-vps-server/
 - VPN
     - Building Your Own VPN for Free https://dev.to/baptistsec/building-your-own-vpn-for-free-3o9h
     - Make Your Own VPN - FreeBSD, Wireguard, Ipv6 and Ad-Blocking Included https://it-notes.dragas.net/2023/09/23/make-your-own-vpn-freebsd-wireguard-ipv6-and-ad-blocking-included/
 - SSH
-    - SSH: Best practices https://blog.0xbadc0de.be/archives/300
-    - Secure Secure Shell https://blog.stribik.technology/2015/01/04/secure-secure-shell.html
+    - Основное
+        - SSH: Best practices https://blog.0xbadc0de.be/archives/300
+        - Secure Secure Shell https://blog.stribik.technology/2015/01/04/secure-secure-shell.html
+    - ProxyJump
+        - Настройка SSH ProxyJump https://mykb.ru/topic/ssh-proxy-jump
+        - Accessing Remote Servers with SSH ProxyJump and Jump Hosts https://dev.to/lightningdev123/accessing-remote-servers-with-ssh-proxyjump-and-jump-hosts-2id1
+        - Как настроить SSH-Jump Server https://habr.com/ru/companies/cloud4y/articles/530516/
+    - Остальное
+        - How To Harden OpenSSH on Ubuntu 20.04 https://www.digitalocean.com/community/tutorials/how-to-harden-openssh-on-ubuntu-20-04
 - Networking
     - TCP/UDP https://awesome-devops.pages.dev/networking/tcp-udp
 - docker
@@ -112,6 +125,7 @@
         - Apache Kafka
         - Apache Pulsar
         - NATS Jetstream (расширение NATS для потоковой обработки)
+        - Redpanda
     - RabbitMQ
     - Apache ActiveMQ
     - NATS Core

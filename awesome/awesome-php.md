@@ -422,13 +422,22 @@ vendor/bin/phpqt-install
 - Логирование
   - Логирование в распределенном php-приложении https://habr.com/ru/articles/456676/
 - Архитектура
+  - Основное
+    - Анемичная модель предметной области и логика в сервисах https://habr.com/ru/articles/800789/
+    - Анемичные модели с логикой в сервисах: плюсы и минусы одного из самых популярных подходов к разработке на PHP https://habr.com/ru/articles/919198/
   - DI; Dependency Injection; Внедрение зависимостей
     - Dependency Injection в мире Software Engineering https://habr.com/ru/companies/avito/articles/556924/
-  - Clean architecture
+  - Чистая архитектура; Clean architecture
     - Clean Architecture with PHP https://medium.com/unil-ci-software-engineering/clean-architecture-with-php-22de915a6c50
     - Чистая архитектура на PHP. Как её измерять и контролировать? https://habr.com/ru/articles/504590/
+    - Comparison of Domain-Driven Design and Clean Architecture Concepts https://khalilstemmler.com/articles/software-design-architecture/domain-driven-design-vs-clean-architecture/
+  - Слоистая архитектура;
+    - Maintain Slim PHP MVC Frameworks with a Layered Structure https://www.toptal.com/php/maintain-slim-php-mvc-frameworks-with-a-layered-structure
+  - Action-Domain-Responder (ADR)
+    - Рефакторинг от MVC к ADR https://php.dragomano.ru/refaktoring-iz-mvc-v-adr/
   - DTO
     - Data Transfer Objects (DTOs) in PHP https://ashallendesign.co.uk/blog/data-transfer-objects-dtos-in-php
+    - DTO в языке PHP: примеры для начинающих https://habr.com/ru/articles/721122/
   - DDD
     - Value Object
       - DDD в PHP: Value Object или Объект-Значение https://phpprofi.ru/blogs/post/58

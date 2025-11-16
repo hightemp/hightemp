@@ -383,12 +383,14 @@
 - SSH
     - ssh_config
         - How to Use The SSH Config File https://phoenixnap.com/kb/ssh-config
+        - Drop-In (.d) Directories In Linux Explained: A Safer Way to Manage Config Files https://ostechnix.com/drop-in-d-directories-linux-configuration-explained/
     - tunnels
         - A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding https://iximiuz.com/en/posts/ssh-tunnels/
         - SSH Local Port Forwarding https://penkovski.com/post/ssh-local-port-forwarding/
         - SSH port forwarding for Beginners https://nirali0.medium.com/ssh-port-forwarding-for-beginners-228d9a1d5622
     - Остальное
         - OpenSSH/Cookbook/Multiplexing https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing
+        - Why putting SSH on another port than 22 is bad idea https://www.adayinthelifeof.nl/2012/03/12/why-putting-ssh-on-another-port-than-22-is-bad-idea/
 - Служба доменных имен
     - Основное
         - Служба доменных имен (DNS) https://www.opennet.ru/docs/RUS/tcp_conf/tcp07.html
@@ -517,6 +519,7 @@
     - 23 Best Emulator Choices of 2025 https://thectoclub.com/tools/best-terminal-emulator/
     - A Guide to Linux System Monitoring: top, htop, btop, and glances https://machaddr.substack.com/p/a-guide-to-linux-system-monitoring
 - Остальное
+    - Linux-телефоны сейчас важнее, чем когда-либо https://habr.com/ru/companies/ruvds/articles/962410/
     - Мой первый контейнер без Docker https://habr.com/ru/articles/881428/
     - How to supercharge string search through a directory hierarchy on a Linux/Unix [статья](https://www.cyberciti.biz/open-source/command-line-hacks/ag-supercharge-string-search-through-directory-hierarchy/)
     - You can list a directory containing 8 million files! But not with ls. [статья](http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html)

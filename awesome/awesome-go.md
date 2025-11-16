@@ -508,6 +508,8 @@
     - Memory Efficiency in Go 1.24: Introducing the weakPackage https://medium.com/@ajitem/memory-efficiency-in-go-1-24-introducing-the-weakpackage-91635691d53f
     - Слабые указатели в Go: в консерватории не всё в порядке https://habr.com/ru/articles/895876/
   - Channels, Каналы
+    - Gist of Go: Channels https://antonz.org/go-concurrency/channels/
+    - Gist of Go: Pipelines https://antonz.org/go-concurrency/pipelines/
     - The Behavior Of Channels https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html
     - Channels in Go https://go101.org/article/channel.html
     - Internals of Go Channels https://shubhagr.medium.com/internals-of-go-channels-cf5eb15858fc
@@ -587,6 +589,8 @@
     - Tilde
       - Tilde ~ https://github.com/akutz/go-generics-the-hard-way/blob/main/03-getting-started/06-tilde.md
       - Tilde Operator in Go https://towardsdev.com/tilde-operator-in-go-7325a6988790
+    - Критика
+      - What's Missing From Golang Generics? https://www.dolthub.com/blog/2024-12-05-whats-missing-from-golang-generics/
     - Остальное
       - Mastering Generics In Go: A Comprehensive Tutorial https://www.kelche.co/blog/go/golang-generics/
       - Mastering Generics in Go: A Comprehensive Guide https://medium.com/hprog99/mastering-generics-in-go-a-comprehensive-guide-4d05ec4b12b
@@ -1261,7 +1265,10 @@
   - go-cache
     - How to implement in-memory caching in Go https://blog.logrocket.com/how-to-implement-memory-caching-go/
 - Шаблонные движки
-  - Templ vs Gomponents https://nuage.quimerch.com/-/ewen/articles/templ-vs-gomponents
+  - Templ
+  - Gomponents
+  - Остальное
+    - Templ vs Gomponents https://nuage.quimerch.com/-/ewen/articles/templ-vs-gomponents
 - Файловая система
   - Mastering Golang — Part 7: Read File https://blog.stackademic.com/mastering-golang-part-6-read-file-41a8292497e5
   - Создание временного файла и временной директории в Golang http://xztvc.ru/post/sozdanie-vremennogo-fajla-i-vremennoj-direktorii-v-golang
@@ -1360,6 +1367,9 @@
         - A story about Go http.Client https://www.jacoelho.com/blog/2017/08/a-story-about-go-http.client/
         - HTTP Connection reuse in Go clients https://blog.cubieserver.de/2022/http-connection-reuse-in-go-clients/
         - Пишем web-фреймворк на Go: как работают современные web-фреймворки под капотом https://habr.com/ru/articles/902496/
+    - TCP-соединение; TCP Connections
+      - SetLinger
+        - Forcefully Closing TCP Connections in Golang https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6
     - KeepAlive
       - Reliable TCP Connections in Go with Keepalive https://wqwq3215.medium.com/reliable-tcp-connections-in-go-with-keepalive-fd4eac7cc986
       - Maintaining Healthy TCP Connections in Golang https://bencane.com/keeping-tcp-connections-alive-in-golang-801a78b7cf1
@@ -1419,6 +1429,7 @@
       - HTTP(S) прокси на Go в 100 строчек кода https://kovardin.ru/articles/go/https-proxy-golang/
       - Golang пишет Http-прокси https://studygolang.com/articles/11064
       - Создайте HTTP-соединение на основе прокси-сервера https://maodanp.github.io/2016/09/11/golang-https-proxy/
+      - HTTP(S) Proxy in Golang in less than 100 lines of code https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c
     - Остальное
       - Network Programming and Proxies in Golang https://blog.ralch.com/articles/network-programming-and-proxies-in-golang/
       - Go and Proxy Servers: Part 1 - HTTP Proxies https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/
@@ -1705,6 +1716,7 @@
         - Understanding and Implementing the Semaphore Pattern in Go https://www.codingexplorations.com/blog/understanding-and-implementing-the-semaphore-pattern-in-go
       - Worker Pool Pattern
         - Efficient Concurrency in Go: A Deep Dive into the Worker Pool Pattern for Batch Processing https://rksurwase.medium.com/efficient-concurrency-in-go-a-deep-dive-into-the-worker-pool-pattern-for-batch-processing-73cac5a5bdca
+        - The Case For A Go Worker Pool https://brandur.org/go-worker-pool
       - Fan-out/Fan-in Pattern
         - Concurrency Patterns: Fan-in and Fan-out in Go https://www.slingacademy.com/article/concurrency-patterns-fan-in-and-fan-out-in-go/
         - Паттерны проектирования Go. Fan-in https://habr.com/ru/articles/854302/
@@ -1726,6 +1738,7 @@
     - Circuit breaker
       - Writing a circuit breaker in Go https://rednafi.com/go/circuit_breaker/
       - Can you explain the Circuit Breaker pattern and how you would implement it in a Go service that makes external API calls? Why is this pattern useful in a distributed system? https://medium.com/@ltcong1411/can-you-explain-the-circuit-breaker-pattern-and-how-you-would-implement-it-in-a-go-service-that-248bb7b04960
+      - Designing a distributed circuit breaker for disabling webhook endpoints in Golang https://www.getconvoy.io/blog/circuit-breaker-in-golang
     - Composite
       - Design Patterns in Golang: Composite https://blog.ralch.com/articles/design-patterns/golang-composite/
     - Bridge
@@ -1812,6 +1825,10 @@
   - logrus
     - Integrating logrus with cobra https://le-gall.bzh/post/go/integrating-logrus-with-cobra/
   - Остальное
+    - Building a distributed log using S3
+      - Disaggregated Storage - a brief introduction https://avi.im/blag/2024/disaggregated-storage/
+      - Zero Disk Architecture https://avi.im/blag/2024/zero-disk-architecture/
+      - Building a distributed log using S3 (under 150 lines of Go) https://avi.im/blag/2024/s3-log/
     - Logging Like a Pro in Go https://godfreyowidi.medium.com/logging-like-a-pro-in-go-7a6a5bde9b54
     - Trace Log in Golang https://riad.run/trace-in-golang
     - Effective Logging in Go: Best Practices and Examples https://medium.com/novai-go-programming-101/effective-logging-in-go-best-practices-and-examples-911c31145260

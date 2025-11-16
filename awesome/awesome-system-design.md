@@ -198,6 +198,8 @@
     - A Senior Engineer's Guide to the System Design Interview https://interviewing.io/guides/system-design-interview
 - Примеры приложений
     - Designing and building LeetCode - Part I https://computersciencesimplified.substack.com/p/designing-and-building-leetcode-part?utm_source=post-email-title&publication_id=2736755&post_id=154326574&utm_campaign=email-post-title&isFreemail=true&r=4xb1zj&triedRedirect=true&utm_medium=email    
+- Примеры и Кейс-стади (Case Studies)
+    - Netflix’s Distributed Counter Abstraction - глубокое погружение в проектирование и реализацию масштабируемой системы распределенных счетчиков в Netflix, анализ компромиссов и эволюции архитектуры. https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2
 - Blueprint
     - EP56: System Design Blueprint: The Ultimate Guide https://blog.bytebytego.com/p/ep56-system-design-blueprint-the?open=false#§system-design-blueprint-the-ultimate-guide
 - Подборки
