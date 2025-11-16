@@ -13,6 +13,10 @@
 - System Informer — открытый продвинутый диспетчер задач и монитор системы, позволяющий детально анализировать процессы, потоки, модули и службы, включая скрытые, для диагностики и устранения проблем. https://github.com/winsiderss/systeminformer
 - Everything — легковесный инструмент для мгновенного поиска файлов и папок в Windows по имени (с поддержкой контент-поиска), существенно ускоряющий навигацию и аудит системы. https://www.voidtools.com/ru-ru/downloads/
 
+### Восстановление файлов
+
+- EaseUS Data Recovery Wizard — утилита для восстановления удалённых данных с более чем 2000 типов устройств (SSD, HDD, флешки, SD-карты и др.) и 1000+ форматов (фото, видео, архивы, документы, аудио), способная вернуть файлы даже после очистки корзины. https://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm
+
 ### Терминалы
 
 - Xshell terminal emulator https://www.netsarang.com/en/xshell/
