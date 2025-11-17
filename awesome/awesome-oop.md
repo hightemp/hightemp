@@ -8,6 +8,7 @@
     - Ready for changes with Hexagonal Architecture https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
     - Ports & Adapters (aka hexagonal) architecture explained https://codesoapbox.dev/ports-adapters-aka-hexagonal-architecture-explained/
     - Hexagonal architecture pattern https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/hexagonal-architecture.html
+    - DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
 - CQRS
     - CQRS https://martinfowler.com/bliki/CQRS.html
 - Остальное
