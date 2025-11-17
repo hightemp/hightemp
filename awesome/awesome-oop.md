@@ -4,6 +4,7 @@
 - DDD
     - Domain Driven Design https://fsharpforfunandprofit.com/ddd/
 - Чистая архитектура; Clean Architecture
+    - Чистая архитектура (от дяди Боба) https://devz.su/the-clean-architecture
     - Clean Architecture. https://medium.com/clean-code-channel/the-clean-architecture-32346e029902
 - Гексоганальная архитектура; Hexagonal Architecture
     - Алистер Коберн «Гексагональная (порты и адаптеры) архитектура» https://habr.com/ru/articles/946040/
