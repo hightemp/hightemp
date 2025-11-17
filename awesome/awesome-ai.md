@@ -1614,6 +1614,7 @@ https://arxiv.org/pdf/2411.08804v1
     - Протоколы и Интеграция (Protocols & Integration)
         - MCP (Model Context Protocol)
             - Model Context Protocol (MCP) – универсальный протокол для взаимодействия с ИИ, и почему это замечательно https://habr.com/ru/articles/899088/
+            - Как работают серверы MCP: компоненты, логика и архитектура https://habr.com/ru/articles/925320/
             - Как обезопасить Spring AI MCP сервер с помощью OAuth2 https://habr.com/ru/companies/spring_aio/articles/901360/
             - Test a Remote MCP Server https://developers.cloudflare.com/agents/guides/test-remote-mcp-server/
     - Оркестрация и Автоматизация (Orchestration & Automation)
