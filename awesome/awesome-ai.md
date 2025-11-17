@@ -50,6 +50,7 @@
     - mcp сервера https://www.mcp.pizza/
     - mcp клиенты https://github.com/punkpeye/awesome-mcp-clients
     - A suite of specialized MCP servers that help you get the most out of AWS, wherever you use MCP. https://github.com/awslabs/mcp
+    - https://glama.ai/mcp
 
 ### Данные для обучения; Датасеты; Datasets
 
