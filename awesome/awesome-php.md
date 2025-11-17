@@ -181,6 +181,10 @@ vendor/bin/phpqt-install
 
 - https://sergeymukhin.com/blog/roadmap-php
 
+### Словари
+
+- https://php-dictionary.readthedocs.io/en/latest/index.html
+
 ### Книги
 
 - Clean Code PHP https://github.com/piotrplenik/clean-code-php
@@ -449,6 +453,7 @@ vendor/bin/phpqt-install
       - Domain-Driven Design in PHP https://leanpub.com/ddd-in-php/read
       - Implementing a DDD Use Case in PHP https://dev.to/sebk69/implementing-a-ddd-use-case-for-tax-persistence-in-php-1gij?utm_source=weeklyphp&utm_medium=email
   - Гексоганальная архитектура, hexagonal architecture
+    - Hexagonal Architecture https://php-dictionary.readthedocs.io/en/latest/dictionary/hexagonal.ini.html
     - Что такое гексагональная архитектура. Разделение бизнес-логики и инфраструктуры с помощью портов и адаптеров https://habr.com/ru/companies/timeweb/articles/771338/
     - Hexagonal Architecture https://wiki.c2.com/?HexagonalArchitecture
     - DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
