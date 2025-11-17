@@ -1615,6 +1615,7 @@ https://arxiv.org/pdf/2411.08804v1
             - Installing the NVIDIA Container Toolkit https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
     - Протоколы и Интеграция (Protocols & Integration)
         - MCP (Model Context Protocol)
+            - API для LLM: разбираем по пунктам, как устроен и как работает протокол MCP https://habr.com/ru/companies/bitrix/articles/965410/?ysclid=mi30eo9oju538844336
             - Model Context Protocol (MCP) – универсальный протокол для взаимодействия с ИИ, и почему это замечательно https://habr.com/ru/articles/899088/
             - Как работают серверы MCP: компоненты, логика и архитектура https://habr.com/ru/articles/925320/
             - Как обезопасить Spring AI MCP сервер с помощью OAuth2 https://habr.com/ru/companies/spring_aio/articles/901360/
