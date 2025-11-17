@@ -394,6 +394,7 @@
     - Applying Hexagonal Architecture to a Symfony project https://apiumhub.com/tech-blog-barcelona/applying-hexagonal-architecture-symfony-project/
     - Hexagonal architecture in a Symfony project: Working with Domain Identifiers https://apiumhub.com/tech-blog-barcelona/hexagonal-symfony-domain-identifiers/
     - Symfony, Hexagonal architecture and CQRS https://www.arnaudlanglade.com/hexgonal-architecture-and-cqrs-with-symfony/
+    - Symfony and Hexagonal Architecture https://minompi.medium.com/symfony-and-hexagonal-architecture-b3c4704e94de
   - Остальное
     - Clean Architecture, DDD, гексагональная архитектура. Разбираем на практике blog на Symfony https://habr.com/ru/articles/718916/
 - Plugin
