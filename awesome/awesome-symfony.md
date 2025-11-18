@@ -396,6 +396,8 @@
     - Symfony, Hexagonal architecture and CQRS https://www.arnaudlanglade.com/hexgonal-architecture-and-cqrs-with-symfony/
     - Symfony and Hexagonal Architecture https://minompi.medium.com/symfony-and-hexagonal-architecture-b3c4704e94de
     - DDD, Hexagonal Architecture & CQRS with Symfony and Doctrine https://stefanoalletti.wordpress.com/2022/02/26/ddd-hexagonal-architecture-cqrs-with-symfony-doctrine/
+  - DDD
+    - Doctrine ORM and DDD aggregates https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/
   - Остальное
     - Clean Architecture, DDD, гексагональная архитектура. Разбираем на практике blog на Symfony https://habr.com/ru/articles/718916/
 - Plugin
