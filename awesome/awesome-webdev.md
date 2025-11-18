@@ -374,6 +374,10 @@
 - https://github.com/typesense/typesense
 - https://github.com/opensearch-project/OpenSearch https://opensearch.org/
 
+### Движки для документации
+
+- https://diplodoc.com/
+
 ### Fingerprint
 
 - https://fingerprint.com/
