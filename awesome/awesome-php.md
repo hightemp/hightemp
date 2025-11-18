@@ -250,6 +250,7 @@ vendor/bin/phpqt-install
 - https://phpprofi.ru/
 - https://myrusakov.ru/php.html
 - https://www.dev-notes.ru/articles/
+- https://www.rosstuck.com/blog/
 
 ### Статьи
 
