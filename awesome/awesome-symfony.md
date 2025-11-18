@@ -398,6 +398,7 @@
     - DDD, Hexagonal Architecture & CQRS with Symfony and Doctrine https://stefanoalletti.wordpress.com/2022/02/26/ddd-hexagonal-architecture-cqrs-with-symfony-doctrine/
   - DDD
     - Doctrine ORM and DDD aggregates https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/
+    - Persisting Value Objects in Doctrine https://www.rosstuck.com/persisting-value-objects-in-doctrine
   - Остальное
     - Clean Architecture, DDD, гексагональная архитектура. Разбираем на практике blog на Symfony https://habr.com/ru/articles/718916/
 - Plugin
