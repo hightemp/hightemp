@@ -758,6 +758,10 @@
 
 - https://retext.ai/ru/ai-detector
 
+### Расцензуривание
+
+- Heretic — инструмент для автоматического снятия «safety alignment» с трансформерных языковых моделей без пост‑тренировки, совмещающий directional ablation («abliteration») с TPE‑оптимизацией на базе Optuna для совместной минимизации отказов и KL‑дивергенции, что позволяет сохранять способности исходной модели и поддерживает большинство плотных (включая мультимодальные) и некоторые MoE‑архитектуры. https://github.com/p-e-w/heretic
+
 ### Безопасность
 
 - Claude Code Security Reviewer — инструмент для автоматической проверки безопасности кода и выявления уязвимостей, созданный компанией Anthropic. https://www.anthropic.com/news/automate-security-reviews-with-claude-code https://github.com/anthropics/claude-code-security-review
