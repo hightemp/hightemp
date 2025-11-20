@@ -97,7 +97,11 @@
 
 - Основное
   - Обновления
-    - Дайджест новостей по Symfony за октябрь'2024 с Кириллом Несмеяновым https://habr.com/ru/articles/859224/
+    - 7.3
+      - Symfony 7.3 curated new features https://symfony.com/blog/symfony-7-3-curated-new-features
+      - 5 INCREDIBLE new features in Symfony 7.3 https://dev.to/pentiminax/5-incredible-new-features-in-symfony-73-4ei3
+    - Остальное
+      - Дайджест новостей по Symfony за октябрь'2024 с Кириллом Несмеяновым https://habr.com/ru/articles/859224/
   - Kernel
     - The HttpKernel Component https://symfony.com/doc/current/components/http_kernel.html    
   - Routing, Маршрутизация
