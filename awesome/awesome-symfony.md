@@ -111,6 +111,9 @@
     - Symfony routing tricks (part 2) https://backbeat.tech/blog/symfony-routing-tricks-part-2
   - Serializer
     - How to Use the Serializer https://symfony.com/doc/current/serializer.html
+  - Object Mapper
+    - Object Mapper https://symfony.com/doc/current/object_mapper.html
+    - Map DTOs to Entities in Symfony with ObjectMapper https://hackernoon.com/map-dtos-to-entities-in-symfony-with-objectmapper
   - Service container
     - Основное
       - Service Container https://symfony.com/doc/current/service_container.html
