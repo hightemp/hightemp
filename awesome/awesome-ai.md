@@ -1614,6 +1614,7 @@ https://arxiv.org/pdf/2411.08804v1
         - AI Agent Crash Course—Part 1 https://blog.dailydoseofds.com/p/ai-agent-crash-coursepart-1
         - Как мы создали GPT Researcher https://docs.tavily.com/blog/building-gpt-researcher
         - Agent Lightning — это открытая платформа Microsoft для обучения и оптимизации AI-агентов с помощью reinforcement learning, автоматической оптимизации промптов и supervised-файнтюнинга, позволяющая интегрировать тренировки в любой агент без переписывания кода, используя сервер-клиент архитектуру для сбора трейсинга, наград и событий в реальном времени. https://github.com/microsoft/agent-lightning
+        - Baidu и AI Search Paradigm: мультиагентная структура для интеллектуального поиска информации https://habr.com/ru/companies/redmadrobot/articles/956570/
     - AI в Конкретных Задачах (AI in Specific Tasks)
         - Автоматизация исследований
             - Automating the Search for Artificial Life with Foundation Models https://sakana.ai/asal/
