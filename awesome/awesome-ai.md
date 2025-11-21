@@ -801,6 +801,10 @@
 
 - Google AI Edge Gallery — экспериментальное мобильное приложение от Google для локального запуска искусственного интеллекта, позволяющее пользователям загружать собственные ИИ-модели и работать с ними в автономном режиме без подключения к интернету, включая функции обработки текста, изображений и файлов с открытым исходным кодом под лицензией Apache 2.0. https://github.com/google-ai-edge/gallery
 
+### Векторизация изображений
+
+- SVG Differentiable Rendering: Generating vector graphics using neural networks. Support: text-to-SVG, Image-to-SVG, SVG Editing. https://github.com/ximinng/PyTorch-SVGRender
+
 ### Определение кем создано изображение
 
 - aiornot.com — онлайн-сервис детектирования ИИ-картинок. Отлично распознаёт изображения, созданные генеративными моделями (включая MidJourney). https://aiornot.com
