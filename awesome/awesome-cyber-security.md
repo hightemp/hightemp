@@ -214,5 +214,6 @@
 - WAF
     - ModSecurity
         - ModSecurity SQL Injection Challenge: Lessons Learned https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-sql-injection-challenge-lessons-learned/
+        - How to Set Up ModSecurity with Nginx on Debian/Ubuntu https://www.linuxbabe.com/security/modsecurity-nginx-debian-ubuntu
 - Подборки
     - Обучение кибербезопасности. Бесплатное ПО для практики https://habr.com/ru/articles/888690/
