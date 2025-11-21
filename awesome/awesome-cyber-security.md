@@ -211,5 +211,8 @@
     - Setting Up a Cloud Security Roadmap for Your Startup https://awssecuritydigest.com/articles/cloud-security-roadmap-for-startups
 - Penetration testing
     - Stockholm Syndrome: Accurate network testing https://blog.exploit.org/caster-stockholm-syndrome/
+- WAF
+    - ModSecurity
+        - ModSecurity SQL Injection Challenge: Lessons Learned https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-sql-injection-challenge-lessons-learned/
 - Подборки
     - Обучение кибербезопасности. Бесплатное ПО для практики https://habr.com/ru/articles/888690/
