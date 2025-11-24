@@ -1663,6 +1663,8 @@ https://arxiv.org/pdf/2411.08804v1
     - The rise of "context engineering" - обзорная статья на LangChain https://blog.langchain.com/the-rise-of-context-engineering/
     - 12 факторные агенты - принципы построения ИИ-агентов https://github.com/humanlayer/12-factor-agents
     - Context Engineering - выходя за рамки промтинга в целях давления на ИИ https://simple.ai/p/the-skill-thats-replacing-prompt-engineering
+    - The Architecture of LLM-Powered Applications: How It Differs from Conventional Software Architecture https://www.craigrisi.com/post/the-architecture-of-llm-powered-applications-how-it-differs-from-conventional-software-architecture
+    - Strategies for Managing Prompt Sensitivity and Model Consistency https://www.prompthub.us/blog/strategies-for-managing-prompt-sensitivity-and-model-consistency-
 
 ### Книги
 
