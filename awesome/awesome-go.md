@@ -522,6 +522,7 @@
     - Интересные способы использования Go каналов (перевод) https://habr.com/ru/articles/278349/
     - Nil channels in Go https://vishnubharathi.codes/blog/nil-channels-in-go/
     - Каналы(channels) в Go https://habr.com/ru/articles/926292/
+    - Забавный парадокс отправки в канал в Go https://habr.com/ru/articles/970304/
   - Гоурутины, goroutines
     - Основное
       - Корутины: stackful vs stackless https://habr.com/ru/articles/850970/
@@ -749,6 +750,9 @@
         - Go sync.WaitGroup and The Alignment Problem https://victoriametrics.com/blog/go-sync-waitgroup/index.html
       - sync.Once
         - Go sync.Once is Simple... Does It Really? https://victoriametrics.com/blog/go-sync-once/
+    - synctest
+      - Основное
+        - Go synctest: Solving Flaky Tests https://victoriametrics.com/blog/go-synctest/
     - runtime
       - Основное
         - The very useful runtime package in golang 🏎🏎🏎 https://dev.to/freakynit/the-very-useful-runtime-package-in-golang-5b16
