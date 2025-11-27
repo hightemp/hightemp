@@ -141,6 +141,8 @@
     - Remote capturing packet with tcpdump and wireshark. https://gist.github.com/quyenlv/c37352884782b5d2da984f928487a44b
     - D.3. tcpdump: Capturing with “tcpdump” for viewing with Wireshark https://www.wireshark.org/docs/wsug_html_chunked/AppToolstcpdump.html
     - Master remote packet capturing: Combining Wireshark with tcpdump https://www.comparitech.com/net-admin/tcpdump-capture-wireshark/
+- Про блокировки
+    - «Кривые руки» или новый уровень DPI? Разбор выходных блокировок XRay и VLESS https://habr.com/ru/articles/969618/
 - Остальное
     - Литература по сетям передачи данных https://pavel.su/noc/networking-books/
     - Как найти все российские IP-адреса? https://pavel.su/internet/list-of-russian-ip-addresses/
