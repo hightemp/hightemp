@@ -213,6 +213,8 @@
         - Миграция с PostgreSQL на ClickHouse https://clickhouse.com/docs/ru/migrations/postgresql/overview
     - Остальное
         - НАСТРОЙКА КЛАСТЕРА CLICKHOUSE STEB-BY-STEP — ЧАСТЬ 1 https://avamk.ru/nastrojka-klastera-clickhouse-steb-by-step-chast-1.html
+- Шардирование
+    - Теория шардирования https://habr.com/ru/companies/oleg-bunin/articles/433370/
 - Остальное
     - Самоучитель SQL https://practicum.yandex.ru/blog/samouchitel-sql
     - Управление качеством данных на основе алгоритмов нечеткого поиска https://blog.arbinada.com/ru/category/00020.html
