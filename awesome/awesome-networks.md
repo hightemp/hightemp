@@ -41,6 +41,7 @@
 - Global Ping Statistics https://wondernetwork.com/pings
 - IPFS (InterPlanetary File System) - это децентрализованная пиринговая сеть для хранения и обмена данными, которая работает без центральных серверов, используя уникальные "отпечатки" контента вместо традиционных URL-адресов для более эффективного и устойчивого распространения информации в интернете https://ipfs.tech/
 - https://badssl.com
+- https://warp-generator.vercel.app/
 
 ### Статьи
 
