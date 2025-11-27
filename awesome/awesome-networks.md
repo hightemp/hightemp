@@ -63,7 +63,9 @@
     - OpenConnect
         - Поднимаем OpenConnect SSL VPN сервер (ocserv) в docker для внутренних проектов https://dzen.ru/a/ZjP3xxLRw0ucW3dh
         - OpenConnect: недетектируемый VPN, который вам понравится https://habr.com/ru/articles/776256/
+    - IPIP
     - GRE
+        - Настройка туннелей GRE и IPIP в Debian и Ubuntu https://interface31.ru/tech_it/2021/09/nastroyka-tunneley-gre-i-ipip-v-debian-i-ubuntu.html
     - IPSec
         - IKEv2/IPsec
         - L2TP/IPSec
