@@ -71,10 +71,13 @@
         - Остальное
             - Развёртывание IPsec VPN в Yandex Cloud с помощью шлюза безопасности https://github.com/yandex-cloud-examples/yc-site-to-site-vpn-with-ipsec-strongswan
     - VLESS
-        - Протокол VLESS https://xtls.github.io/ru/development/protocols/vless.html
-        - Настройка VLESS + TCP + REALITY + VISION + uTLS https://github.com/XTLS/Xray-core/discussions/3518
-        - Что такое VLESS https://dtf.ru/id2385838/3404450-chto-takoe-vless
-        - VLESS-TCP-TLS-WS (Recommended) https://deepwiki.com/v2fly/v2ray-examples/3.1.1-vless-tcp-tls-ws-(recommended)
+        - Основное
+            - Протокол VLESS https://xtls.github.io/ru/development/protocols/vless.html
+            - Настройка VLESS + TCP + REALITY + VISION + uTLS https://github.com/XTLS/Xray-core/discussions/3518
+            - Что такое VLESS https://dtf.ru/id2385838/3404450-chto-takoe-vless
+            - VLESS-TCP-TLS-WS (Recommended) https://deepwiki.com/v2fly/v2ray-examples/3.1.1-vless-tcp-tls-ws-(recommended)
+        - XHTTP
+            - Кратко про XHTTP для VLESS: что, зачем и как https://habr.com/ru/articles/913324/
     - DMVPN
     - SSTP
     - PPTP
