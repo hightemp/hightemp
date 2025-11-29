@@ -12,6 +12,7 @@
 - https://my.first-am.ru
 - https://invest-intelion.com/
 - https://conomica.ru/
+- https://www.a7.ru/
 
 ### Сервисы для открытия виртуальных иностранных карт
 
