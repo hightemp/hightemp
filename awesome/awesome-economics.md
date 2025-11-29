@@ -28,6 +28,7 @@
 - https://wallester.com/ru
 - https://abcard.io/
 - https://cardspro.biz
+- https://card4pay.com/
 - https://pst.net/
 - https://epayservices.com/ru/virtual-cards.html
 - https://www.pyypl.com/
