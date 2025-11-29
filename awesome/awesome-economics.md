@@ -68,6 +68,19 @@
 
 - это инструмент для моделирования методом Монте-Карло, который позволяет тестировать долгосрочный ожидаемый рост портфеля и его выживаемость с учетом снятий средств https://www.portfoliovisualizer.com/monte-carlo-simulation
 
+### Виртуальные карты
+
+- https://wanttopay.net/
+- https://platipomiru.com/
+- https://easypayments.online/bank-accounts/cards
+- https://card.club/
+- https://e.pn/
+- https://1pay.finance/
+- https://web.chocopay.io/ @chocoppay_bot
+- https://flexcard.cards
+- https://wallester.com/ru
+- https://abcard.io/
+
 ### Прием платежей, платежные системы
 
 - https://yookassa.ru/joinups
