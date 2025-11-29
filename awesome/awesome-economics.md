@@ -17,13 +17,20 @@
 
 ### Сервисы для открытия виртуальных иностранных карт
 
-- https://pst.net/
 - https://wanttopay.net/
+- https://platipomiru.com/
+- https://easypayments.online/bank-accounts/cards
+- https://card.club/
+- https://e.pn/
+- https://1pay.finance/
+- https://web.chocopay.io/ @chocoppay_bot
+- https://flexcard.cards
+- https://wallester.com/ru
+- https://abcard.io/
+- https://pst.net/
 - https://epayservices.com/ru/virtual-cards.html
 - https://www.pyypl.com/
 - https://n26.com/en-at/virtual-card
-- https://flexcard.cards/
-- https://e.pn/
 - https://mybrocard.com/
 - https://cashinout.io/
 - https://www.yescard.io/ru/home
@@ -37,6 +44,7 @@
 - https://bitfree.us/
 - Казахстан
     - https://kartakz.oplatym.ru/
+
 
 ### Дивиденды
 
@@ -67,19 +75,6 @@
 ### Расчеты
 
 - это инструмент для моделирования методом Монте-Карло, который позволяет тестировать долгосрочный ожидаемый рост портфеля и его выживаемость с учетом снятий средств https://www.portfoliovisualizer.com/monte-carlo-simulation
-
-### Виртуальные карты
-
-- https://wanttopay.net/
-- https://platipomiru.com/
-- https://easypayments.online/bank-accounts/cards
-- https://card.club/
-- https://e.pn/
-- https://1pay.finance/
-- https://web.chocopay.io/ @chocoppay_bot
-- https://flexcard.cards
-- https://wallester.com/ru
-- https://abcard.io/
 
 ### Прием платежей, платежные системы
 
