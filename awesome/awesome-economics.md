@@ -13,6 +13,7 @@
 - https://invest-intelion.com/
 - https://conomica.ru/
 - https://www.a7.ru/
+- finmuster https://investment-platforma.com/
 
 ### Сервисы для открытия виртуальных иностранных карт
 
