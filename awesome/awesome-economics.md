@@ -15,7 +15,7 @@
 - https://www.a7.ru/
 - finmuster https://investment-platforma.com/
 
-### Сервисы для открытия виртуальных иностранных карт
+### Сервисы для открытия виртуальных иностранных карт; Виртуальные карты
 
 - https://wanttopay.net/
 - https://platipomiru.com/
@@ -27,6 +27,7 @@
 - https://flexcard.cards
 - https://wallester.com/ru
 - https://abcard.io/
+- https://cardspro.biz
 - https://pst.net/
 - https://epayservices.com/ru/virtual-cards.html
 - https://www.pyypl.com/
