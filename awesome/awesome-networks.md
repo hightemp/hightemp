@@ -20,7 +20,10 @@
 
 ### DNS; SmartDNS
 
-- https://info.dns.malw.link/setup
+- Сервисы DNS
+    - https://info.dns.malw.link/setup
+- Списки
+    - https://atmark.ru/spisok-publichny-h-dns-serverov/
 
 ### VPN
 
