@@ -58,6 +58,8 @@
     - AI-Powered Web Scraping With llm-scraper https://brightdata.com/blog/ai/web-scraping-with-llm-scraper
     - Web Scraping with LLMs https://www.analyticsvidhya.com/blog/2024/12/web-scraping-with-llms/
     - Top 5 Web Scraping Methods: Including Using LLMs https://www.comet.com/site/blog/top-5-web-scraping-methods-including-using-llms/
+- Common Crawl Database
+    - Exploring Common Crawl Database https://medium.com/%40alok.g.v/exploring-common-crawl-database-262ab0bfe79a
 - Обход капчи
     - How to Bypass CAPTCHAs With Playwright https://brightdata.com/blog/web-data/bypass-captchas-with-playwright
 - Остальное
