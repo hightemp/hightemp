@@ -35,6 +35,14 @@ The Google Public DNS IPv6 addresses:
 2001:4860:4860::8888
 2001:4860:4860::8844
 
+Cloudflare DNS
+Основной:
+1.1.1.1
+Дополнительный:
+1.0.0.1
+IPv6:
+2606:4700:4700::1111
+
 SmartViper Public DNS
 208.76.50.50
 208.76.51.51
