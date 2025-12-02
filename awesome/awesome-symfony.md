@@ -118,6 +118,7 @@
   - Object Mapper
     - Object Mapper https://symfony.com/doc/current/object_mapper.html
     - Map DTOs to Entities in Symfony with ObjectMapper https://hackernoon.com/map-dtos-to-entities-in-symfony-with-objectmapper
+    - Level Up Your DTOs: Pro Techniques for the Symfony ObjectMapper https://dev.to/mattleads/level-up-your-dtos-pro-techniques-for-the-symfony-objectmapper-5c1a
   - Service container
     - Основное
       - Service Container https://symfony.com/doc/current/service_container.html
