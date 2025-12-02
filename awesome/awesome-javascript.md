@@ -20,6 +20,8 @@
 - Торговля
   - NFT
     - https://github.com/NFTGo/GoTrading
+- PDF
+  - unpdf — коллекция утилит для извлечения данных и рендеринга PDF-документов, специально оптимизированная для serverless-окружений и работающая в Node.js, Deno, Bun и браузерах, основанная на адаптированной версии Mozilla PDF.js и предназначенная как современная альтернатива библиотеке pdf-parse для ИИ-приложений анализа документов. https://github.com/unjs/unpdf
 - Docx
   - Mammoth.js can convert word .docx documents into HTML, text format, and Markdown format. https://jstool.gitlab.io/demo/mammoth-js-word-docx-preview-and-convert/
 
