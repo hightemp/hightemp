@@ -390,6 +390,8 @@
 - Task scheduler, cron
   - Знакомство с созданием консольных команд: cron. https://php.zone/symfony-course/znakomstvo-s-konsolnymi-komandami-v-symfony-cron
 - Архитектура
+  - DTO
+    - DTO в языке PHP: примеры для начинающих https://habr.com/ru/articles/721122/
   - Action-Domain-Responder (ADR)
     - A better ADR pattern for your Symfony controllers https://www.strangebuzz.com/en/blog/a-better-adr-pattern-for-your-symfony-controllers
   - Clean Architecture, Чистая архитектура
