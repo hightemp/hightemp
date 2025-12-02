@@ -20,6 +20,8 @@
 - Торговля
   - NFT
     - https://github.com/NFTGo/GoTrading
+- Docx
+  - Mammoth.js can convert word .docx documents into HTML, text format, and Markdown format. https://jstool.gitlab.io/demo/mammoth-js-word-docx-preview-and-convert/
 
 ### Репозитории
 
