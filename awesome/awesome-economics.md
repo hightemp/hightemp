@@ -21,6 +21,7 @@
 - https://platipomiru.com/
 - https://easypayments.online/bank-accounts/cards
 - https://card.club/
+- https://aifory.pro
 - https://e.pn/
 - https://1pay.finance/
 - https://web.chocopay.io/ @chocoppay_bot
