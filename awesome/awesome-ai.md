@@ -51,6 +51,7 @@
     - mcp клиенты https://github.com/punkpeye/awesome-mcp-clients
     - A suite of specialized MCP servers that help you get the most out of AWS, wherever you use MCP. https://github.com/awslabs/mcp
     - https://glama.ai/mcp
+    - Model Context Protocol servers https://github.com/modelcontextprotocol/servers
 
 ### Данные для обучения; Датасеты; Datasets
 
