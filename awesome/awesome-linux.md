@@ -152,6 +152,7 @@
 - https://blog.domainmess.org/categories/linux/
 - https://linuxmogeb.blogspot.com/
 - https://www.alexgur.ru/
+- https://substack.com/@chessman7
 
 ### Статьи
 
