@@ -201,7 +201,7 @@
 
 ### Репозитории
 
-- Go Optimization Guide. Patterns and Techniques for Writing High-Performance Applications with Gohttps://github.com/astavonin/go-optimization-guide
+- Go Optimization Guide. Patterns and Techniques for Writing High-Performance Applications with Go https://github.com/astavonin/go-optimization-guide
 - Консольный RSS ридер на #golang https://github.com/radulucut/cleed
 - Домен для Go пакетов для gitflic.ru https://gohome.4gophers.ru/
 - DBWeb - это веб-инструмент администрирования баз данных, подобный phpMyAdmin, написанный с использованием xorm, tango и nodb, поддерживающий MySQL, PostgreSQL и SQLite3. https://gitea.com/xorm/dbweb
