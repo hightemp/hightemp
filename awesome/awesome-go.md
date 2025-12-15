@@ -1170,6 +1170,8 @@
   - stringler
     - Golang's Stringer tool https://last9.io/blog/golang-stringer-tool/
 - 🚀 Оптимизация
+  - Основное
+    - Patterns and Techniques for Writing High-Performance Applications with Go https://goperf.dev/
   - SIMD
     - SMID оптимизация в Go https://kovardin.ru/articles/go/smid-optimizaciya-v-go/?ysclid=m9tx3y69qv274837371
     - Go Plan9 Memo, Speeding Up Calculations 450%; В статье описывается разработка SIMD-пакета для языка Go с использованием ассемблера Plan9, что позволило ускорить вычисления на 450% за счет параллельной обработки данных на аппаратном уровне. https://pehringer.info/go_plan9_memo.html
