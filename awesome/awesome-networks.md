@@ -174,6 +174,7 @@ Norton
 
 - Основное
     - Сети для самых маленьких. Часть нулевая. Планирование https://linkmeup.ru/blog/1188/
+    - Layer 2 Network Operations: How Ethernet Frames and Smart Switches Power Gigabit Networks https://chessman7.substack.com/p/layer-2-network-operations-how-ethernet
 - Ethernet
     - Layer 2 Network Operations: How Ethernet Frames and Smart Switches Power Gigabit Networks https://chessman7.substack.com/p/layer-2-network-operations-how-ethernet
 - TCP/IP
