@@ -29,6 +29,7 @@
         - A lower bound on sorting https://kanaye.substack.com/p/a-lower-bound-on-sorting
         - The sorting problem https://kanaye.substack.com/p/the-sorting-problem
 - Фильтр Блума
+    - Что такое фильтр Блума? https://habr.com/ru/companies/otus/articles/541378/
 - Потоки и Процессы
     - Основное
         - ГЛАВА 4 Процессы и потоки https://vv303.narod.ru/files/inst/olifer/chapter4/default.htm
