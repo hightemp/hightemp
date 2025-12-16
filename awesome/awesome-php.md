@@ -305,6 +305,8 @@ vendor/bin/phpqt-install
     - PHP and Generators: Simplifying Iteration with Yield https://reintech.io/blog/php-generators-simplifying-iteration-yield
     - “Yield” и деликатная работа с памятью в PHP https://habr.com/ru/companies/otus/articles/598577/
     - PHP — Generators https://medium.com/@erlandmuchasaj/php-generators-b26e98025a50
+  - Scope
+    - Understanding scope in PHP https://marcor.substack.com/p/understanding-scope-in-php
   - Closure
     - Closure::bind() и bindTo() в PHP https://habr.com/ru/companies/otus/articles/898094/
   - Трейты, Traits
