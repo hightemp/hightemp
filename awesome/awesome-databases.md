@@ -111,6 +111,8 @@
             - Потоковая репликация в PostgreSQL https://itproffi.ru/potokovaya-replikatsiya-v-postgresql/
             - Потоковая репликация в PostgreSQL и пример фейловера https://eax.me/postgresql-replication/
             - Setting Up PostgreSQL Replication with Docker https://dev.to/wallacefreitas/setting-up-postgresql-replication-with-docker-26fi
+        - pgEdge
+            - Unleashing the Power of PostgreSQL with pgEdge Distributed Multi-Master Replication and Postgres Platform - Part 1 https://www.pgedge.com/blog/unleashing-the-power-of-postgresql-with-pgedge-distributed-multi-master-replication-and-postgres-platform-part-1
         - BDR (Bi-Directional Replication)
             - BDR (Bi-Directional Replication) https://www.enterprisedb.com/docs/pgd/4/bdr/
             - BDR Project https://wiki.postgresql.org/wiki/BDR_Project
