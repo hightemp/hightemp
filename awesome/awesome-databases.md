@@ -89,7 +89,7 @@
         - Физическая репликация
             - Физическая репликация в PostgreSQL https://www.dbserv.ru/blog/fizicheskaya-replikaciya-v-postgresql
             - Как настроить физическую потоковую репликацию с PostgreSQL на Ubuntu https://timeweb.cloud/tutorials/postgresql/kak-nastroit-fizicheskuyu-potokovuyu-replikatsiyu-s-postgresql-12-na-ubuntu-2004
-        - Логическая репликация, logical replication
+        - Логическая репликация, logical replication            
             - PostgreSQL Logical Replication: Easy steps to set up https://hevodata.com/learn/postgresql-logical-replication/
             - Subscription Chapter 29. Logical Replication https://www.postgresql.org/docs/current/logical-replication-subscription.html
             - Replication Between PostgreSQL Versions Using Logical Replication https://www.percona.com/blog/replication-between-postgresql-versions-using-logical-replication/
@@ -111,6 +111,7 @@
         - Проблемы
             - Возможные причины разрастания pg_wal в PostgreSQL. https://edu.fors.ru/ugolok-professora/vozmozhnye-prichiny-razrastaniya-pg-wal-v-postgresql/
         - Остальное
+            - Exploring Master-Master Replication in Databases: How It Works and Its Benefits https://akashrajpurohit.com/blog/exploring-master-master-replication-in-databases-how-it-works-and-its-benefits/
             - Failover Replication Slots with Postgres 17 https://www.decodable.co/blog/failover-replication-slots-with-postgres-17
             - Как настроить репликацию в PostgreSQL https://selectel.ru/blog/tutorials/how-to-set-up-replication-in-postgresql/
             - Репликации в PostgreSQL https://habr.com/ru/companies/otus/articles/710956/
