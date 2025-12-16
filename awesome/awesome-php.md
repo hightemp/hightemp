@@ -42,6 +42,7 @@
 ### Тесты
 
 - Тест по PHP. PHP. Средний уровень https://gb.ru/tests/1
+- https://php.zone/test-php/start
 
 ### Сайты со статьями
 
