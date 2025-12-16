@@ -9,10 +9,15 @@
 
 ### Репозитории
 
-- https://github.com/nuno-faria/tetris-sql
-- Это стартовое приложение на базе Next.js, использующее OpenAI API и векторную базу данных Supabase для создания специализированного чат-бота, который, в отличие от обычного ChatGPT, работает с конкретной предметной областью и предоставляет достоверные ответы на основе заданных документов. https://github.com/gannonh/chatgpt-pgvector
-- pgsearch
-    - Docker image with pg_search extension https://github.com/stephane-klein/pg_search_docker
+- Репликация
+    - **Spock** — расширение PostgreSQL для логической мульти-мастер репликации, поддерживающее PostgreSQL версии 15 и выше с автоматической репликацией DDL, разрешением конфликтов и возможностью создания кластеров с несколькими активными узлами записи. https://github.com/pgEdge/spock
+- Поиск
+    - pgsearch
+        - Docker image with pg_search extension https://github.com/stephane-klein/pg_search_docker
+- Остальное
+    - https://github.com/nuno-faria/tetris-sql
+    - Это стартовое приложение на базе Next.js, использующее OpenAI API и векторную базу данных Supabase для создания специализированного чат-бота, который, в отличие от обычного ChatGPT, работает с конкретной предметной областью и предоставляет достоверные ответы на основе заданных документов. https://github.com/gannonh/chatgpt-pgvector
+
 
 ### Операционные системы
 
