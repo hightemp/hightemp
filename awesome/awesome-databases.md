@@ -238,6 +238,8 @@
     - https://devmark.ru/articles/tag/postgresql
     - https://www.commandprompt.com/education/category/postgres/
     - https://www.postgresonline.com/
+- Остальное
+    - https://pankajconnect.medium.com/
 
 ### Видео
 
