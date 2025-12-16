@@ -42,7 +42,9 @@
 ### Тесты
 
 - Тест по PHP. PHP. Средний уровень https://gb.ru/tests/1
+- Тест по PHP. PHP. Продвинутый уровень https://gb.ru/tests/43
 - https://php.zone/test-php/start
+- http://www.rankcode.ru/about-test/test-php-senior
 
 ### Сайты со статьями
 
