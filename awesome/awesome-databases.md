@@ -109,6 +109,7 @@
         - BDR (Bi-Directional Replication)
             - BDR (Bi-Directional Replication) https://www.enterprisedb.com/docs/pgd/4/bdr/
             - BDR Project https://wiki.postgresql.org/wiki/BDR_Project
+            - Postgresql- Bidirectional replication (BDR) https://pankajconnect.medium.com/postgresql-bidirectional-replication-bdr-eef016d60df2
         - Разрешение конфликтов
             - How to handle logical replication conflicts in PostgreSQL https://www.postgresql.fastware.com/blog/how-to-handle-logical-replication-conflicts-in-postgresql
         - Проблемы
