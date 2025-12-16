@@ -108,6 +108,7 @@
             - Setting Up PostgreSQL Replication with Docker https://dev.to/wallacefreitas/setting-up-postgresql-replication-with-docker-26fi
         - BDR
             - BDR (Bi-Directional Replication) https://www.enterprisedb.com/docs/pgd/4/bdr/
+            - BDR Project https://wiki.postgresql.org/wiki/BDR_Project
         - Разрешение конфликтов
             - How to handle logical replication conflicts in PostgreSQL https://www.postgresql.fastware.com/blog/how-to-handle-logical-replication-conflicts-in-postgresql
         - Проблемы
