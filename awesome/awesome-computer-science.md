@@ -30,6 +30,7 @@
         - The sorting problem https://kanaye.substack.com/p/the-sorting-problem
 - Фильтр Блума
     - Что такое фильтр Блума? https://habr.com/ru/companies/otus/articles/541378/
+    - How bloom filters made SQLite 10x faster https://avi.im/blag/2024/sqlite-past-present-future/
 - Потоки и Процессы
     - Основное
         - ГЛАВА 4 Процессы и потоки https://vv303.narod.ru/files/inst/olifer/chapter4/default.htm
