@@ -39,6 +39,10 @@
 - https://docs.php.earth/ This is a living repository of courses, articles, and frequently asked questions about PHP and development.
 - https://github.com/maxdmyers/php-style-guide A style guide for writing PHP code
 
+### Тесты
+
+- Тест по PHP. PHP. Средний уровень https://gb.ru/tests/1
+
 ### Сайты со статьями
 
 - https://php.watch
