@@ -276,6 +276,7 @@ vendor/bin/phpqt-install
   - Основное
     - PHP под капотом: как работает генерация случайных чисел https://habr.com/ru/articles/896650/
   - Memory management; Работа с памятью; Менеджмент памяти
+    - Zend Memory Manager https://wiki.php.net/internals/zend_mm
     - Understanding PHP Memory Management https://200oksolutions.com/blog/understanding-php-memory-management/
     - Zend Memory Manager https://www.phpinternalsbook.com/php7/memory_management/zend_memory_manager.html
     - Streamline Your PHP Applications: 14 Ways to Improve Memory Allocation https://wepri.net/blog/streamline-your-php-applications-14-ways-to-improve-memory-allocation
