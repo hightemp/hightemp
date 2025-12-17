@@ -446,6 +446,7 @@
       - Fixing For Loops in Go 1.22 https://go.dev/blog/loopvar-preview
       - Go Wiki: LoopvarExperiment https://tip.golang.org/wiki/LoopvarExperiment
   - Основное
+    - Frequently Asked Questions (FAQ) https://go.dev/doc/faq
     - The ecosystem of the Go programming language https://henvic.dev/posts/go/
     - Fundamentals of I/O in Go https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb
     - Go range iterators demystified https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/
