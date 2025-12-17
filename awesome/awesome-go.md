@@ -1492,11 +1492,6 @@
     - The Magic Behind Go's Lightweight Goroutines https://hadar.gr/2017/lightweight-goroutines
     - Building an Event Loop in Go with kqueue: I/O Multiplexing from Scratch https://medium.com/@smafjal/io-multiplexing-in-go-14917eb4258f
     - Under the hood of TCP Socket Implementation On Golang https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
-- Распределённые системы
-  - Алгоритмы консенсуса
-    - Raft
-      - Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
-      - Implementing Raft: Part 5 - Exactly-once delivery https://eli.thegreenplace.net/2024/implementing-raft-part-5-exactly-once-delivery/
 - epoll
   - Scaling Go to 192 Cores with Heavy I/O https://jazco.dev/2024/01/10/golang-and-epoll/
 - io_uring
@@ -1956,8 +1951,11 @@
   - Consensus Algorithms, Алгоритмы консенсуса
     - Raft Consensus Algorithm, Алгоритм консенсуса Raft
       - Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
+      - Implementing Raft: Part 5 - Exactly-once delivery https://eli.thegreenplace.net/2024/implementing-raft-part-5-exactly-once-delivery/
       - Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
       - Raft Consensus — leader election with Golang https://medium.com/@govinda.attal/raft-consensus-leader-election-with-golang-89bfdbd471cb
+      - Что такое алгоритмы консенсуса (например, Raft) и зачем они нужны в распределенных системах? https://hacksobesov.com/questions/golang-developer/chto-takoe-algoritmy-konsensusa-naprimer-raft-i-zachem-oni-nuzhny-v-raspredelennyh-sistemah/
+
 - Windows
   - Как Go зависает на Windows в CancelIoEx: история одного бага https://habr.com/ru/articles/932760/
 - AI
