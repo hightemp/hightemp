@@ -916,6 +916,8 @@
       - Green Tea 🍵 Garbage Collector https://github.com/golang/go/issues/73581
     - Остальное
       - How To Perform Memory Optimization and Garbage Collector Management in Go? (with code example) https://dev.to/nikl/how-to-perform-memory-optimization-and-garbage-collector-management-in-go-1j7
+  - Управление памятью
+    - Understanding Allocations in Go https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d
   - Go Race detector
     - Data Race Detector https://go.dev/doc/articles/race_detector
   - Go Assembly
