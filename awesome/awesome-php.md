@@ -274,6 +274,7 @@ vendor/bin/phpqt-install
       - Обзор PHP 8.2: нововведения, устаревшие функции и исправления багов https://zomro.com/rus/blog/articles/562-php-82-preview-new-features-deprecations-and-bug-fixes
       - Депрекации в грядущем PHP 8.2, о которых вам следует знать https://habr.com/ru/companies/otus/articles/678176/
   - Основное
+    - Learning the PHP lifecycle https://www.phpinternalsbook.com/php7/extensions_design/php_lifecycle.html
     - PHP под капотом: как работает генерация случайных чисел https://habr.com/ru/articles/896650/
   - Memory management; Работа с памятью; Менеджмент памяти
     - Zend Memory Manager https://wiki.php.net/internals/zend_mm
