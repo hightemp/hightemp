@@ -1951,6 +1951,10 @@
   - Consensus Algorithms, Алгоритмы консенсуса
     - Raft Consensus Algorithm, Алгоритм консенсуса Raft
       - Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
+      - Implementing Raft: Part 1 - Elections https://eli.thegreenplace.net/2020/implementing-raft-part-1-elections/
+      - Implementing Raft: Part 2 - Commands and Log Replication https://eli.thegreenplace.net/2020/implementing-raft-part-2-commands-and-log-replication/
+      - Implementing Raft: Part 3 - Persistence and Optimizations https://eli.thegreenplace.net/2020/implementing-raft-part-3-persistence-and-optimizations/
+      - Implementing Raft: Part 4 - Key/Value Database https://eli.thegreenplace.net/2024/implementing-raft-part-4-keyvalue-database/
       - Implementing Raft: Part 5 - Exactly-once delivery https://eli.thegreenplace.net/2024/implementing-raft-part-5-exactly-once-delivery/
       - Raft Consensus Algorithm Implementation with Go https://yunuskilicdev.medium.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
       - Raft Consensus — leader election with Golang https://medium.com/@govinda.attal/raft-consensus-leader-election-with-golang-89bfdbd471cb
