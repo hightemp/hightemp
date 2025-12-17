@@ -1195,6 +1195,7 @@
     - Использование pprof в Golang https://purpleschool.ru/knowledge-base/article/using-pprof
     - Непрерывное профилирование в Go https://habr.com/ru/articles/470443/
     - Создание кастомных Go-профилей с помощью pprof. Запоминаем стеки https://habr.com/ru/companies/badoo/articles/318336/
+    - Profiling Go Applications in the Right Way with Examples https://blog.stackademic.com/profiling-go-applications-in-the-right-way-with-examples-e784526e9481
   - Утечки памяти
     - Avoiding Memory Leak in Golang API https://medium.easyread.co/avoiding-memory-leak-in-golang-api-1843ef45fca8
     - Одна строка — тысячи горутин: как мы поймали утечку памяти в сервисе на Go https://habr.com/ru/companies/otus/articles/957486/
