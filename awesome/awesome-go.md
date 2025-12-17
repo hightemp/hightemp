@@ -1495,6 +1495,7 @@
 - Распределённые системы
   - Алгоритмы консенсуса
     - Raft
+      - Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
       - Implementing Raft: Part 5 - Exactly-once delivery https://eli.thegreenplace.net/2024/implementing-raft-part-5-exactly-once-delivery/
 - epoll
   - Scaling Go to 192 Cores with Heavy I/O https://jazco.dev/2024/01/10/golang-and-epoll/

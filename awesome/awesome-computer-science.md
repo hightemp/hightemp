@@ -31,9 +31,10 @@
 - Фильтр Блума
     - Что такое фильтр Блума? https://habr.com/ru/companies/otus/articles/541378/
     - How bloom filters made SQLite 10x faster https://avi.im/blag/2024/sqlite-past-present-future/
-- Алгоритмы консенсуса
-    - Raft
-        - Что такое алгоритмы консенсуса (например, Raft) и зачем они нужны в распределенных системах? https://hacksobesov.com/questions/golang-developer/chto-takoe-algoritmy-konsensusa-naprimer-raft-i-zachem-oni-nuzhny-v-raspredelennyh-sistemah/
+- Распределённые системы
+    - Алгоритмы консенсуса
+        - Raft
+            - Что такое алгоритмы консенсуса (например, Raft) и зачем они нужны в распределенных системах? https://hacksobesov.com/questions/golang-developer/chto-takoe-algoritmy-konsensusa-naprimer-raft-i-zachem-oni-nuzhny-v-raspredelennyh-sistemah/
 - Потоки и Процессы
     - Основное
         - ГЛАВА 4 Процессы и потоки https://vv303.narod.ru/files/inst/olifer/chapter4/default.htm
