@@ -1492,6 +1492,10 @@
     - The Magic Behind Go's Lightweight Goroutines https://hadar.gr/2017/lightweight-goroutines
     - Building an Event Loop in Go with kqueue: I/O Multiplexing from Scratch https://medium.com/@smafjal/io-multiplexing-in-go-14917eb4258f
     - Under the hood of TCP Socket Implementation On Golang https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
+- Распределённые системы
+  - Алгоритмы консенсуса
+    - Raft
+      - Implementing Raft: Part 5 - Exactly-once delivery https://eli.thegreenplace.net/2024/implementing-raft-part-5-exactly-once-delivery/
 - epoll
   - Scaling Go to 192 Cores with Heavy I/O https://jazco.dev/2024/01/10/golang-and-epoll/
 - io_uring
