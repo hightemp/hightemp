@@ -46,6 +46,8 @@
     - https://www.amazon.com/gp/product/0596805829/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596805829&linkCode=as2&tag=martinfowlerc-20
 - Microservices Patterns, 2nd edition; Chris Richardson
     - https://www.manning.com/books/microservices-patterns-second-edition?utm_source=microservices-patterns-chris&utm_medium=affiliate&utm_campaign=book_richardson4&a_aid=microservices-patterns-chris&a_bid=c4d8dec5&chan=mm_microservicesio
+- Distributed Systems 4th edition
+    - https://www.distributed-systems.net/index.php/books/ds4/
 
 ### Тренажоры
 
