@@ -373,6 +373,8 @@ vendor/bin/phpqt-install
     - Reflection API. Заглянуть внутрь своего кода или как программа может модифицировать собственную структуру https://dev.awelite.ru/blog/reflection-api-zaglyanut-vnutr-svoego-koda-ili-kak-programma-mozhet-modifitsirovat-sobstvennuyu-stru/
   - PSR
     - Using PSR-3 placeholders properly https://hive.blog/hive-168588/@crell/using-psr-3-placeholders-properly
+  - Memory management; Работа с памятью; Менеджмент памяти
+    - Understanding PHP Memory Management https://200oksolutions.com/blog/understanding-php-memory-management/
   - Остальное
     - Внутреннее представление значений в PHP7 (часть 1) https://habr.com/ru/companies/vk/articles/257999/
     - Внутреннее представление значений в PHP 7 (часть 2) https://habr.com/ru/companies/vk/articles/261131/
