@@ -1192,6 +1192,7 @@
   - Memory pools
     - Три способа оптимизировать работу с памятью на Go с помощью memory pools https://engineer.yadro.com/article/three-ways-to-optimize-memory-performance-on-go-with-memory-pools/
   - pprof
+    - The Busy Developer's Guide to Go Profiling, Tracing and Observability https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md#garbage-collector
     - Application Performance Optimization: How to Effectively Analyze and Optimize pprof CPU Profiles https://medium.com/@rahul.fiem/application-performance-optimization-how-to-effectively-analyze-and-optimize-pprof-cpu-profiles-95280b2f5bfb
     - Микрооптимизация кода на Go на примере простого веб-сервиса https://github.com/andrey-shalamov/go-pprof-cpu-heap-example
     - Ваш девопс не виноват, а база данных — тем более. Ищем кто жрет память с pprof на Go https://habr.com/ru/articles/918738/
