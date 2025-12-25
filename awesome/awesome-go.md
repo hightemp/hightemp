@@ -2337,6 +2337,8 @@
 
 ### Видео
 
+- Роадмап; Roadmap
+  - Теперь ЭТО СПРАШИВАЮТ! РОАДМАП Golang 2026 https://www.youtube.com/watch?v=aPdiuSYI73E
 - Основное
   - Планировщик Go — самый подробный гайд простым языком https://www.youtube.com/watch?v=kedW1xO3Zbo
   - Полный разбор каналов в Golang. Смотри, если хочешь пройти собеседование https://www.youtube.com/watch?v=k-1OEYl7N8Q
