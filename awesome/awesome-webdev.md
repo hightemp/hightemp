@@ -586,6 +586,8 @@
 - Реклама
    - RTB(Real Time Bidding)
       - RTB. Торги в реальном времени https://kovardin.ru/articles/ads/rtb/
+- Валютная удаленка
+   - Валютная удаленка. Часть 1. Все, что вы хотели знать, но боялись спросить https://proglib.io/p/valyutnaya-udalenka-chast-1-vse-chto-vy-hoteli-znat-no-boyalis-sprosit-2025-03-12
 - Языковые сервера
    - Реализация языкового сервера для языка программирования Ü https://habr.com/ru/articles/761694/
 - Остальное
