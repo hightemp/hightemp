@@ -619,5 +619,6 @@
 - Contributing To Open Source – Beginner's Guide https://www.youtube.com/watch?v=mklEhT_RLos
 - Каналы
    - https://www.youtube.com/@webstandards_ru
-
+- Валютная удаленка
+   - Валютная Удаленка СТАНЕТ ДРУГОЙ. ГАЙД по ВКАТУ в 2026 https://www.youtube.com/watch?v=QqWol3bv95k
 
