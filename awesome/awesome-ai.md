@@ -1653,6 +1653,7 @@ https://arxiv.org/pdf/2411.08804v1
         - Emerging Patterns in Building GenAI Products https://martinfowler.com/articles/gen-ai-patterns/
     - Claude Code
         - Vibe Coding: Заглянем под капот Claude Code. Часть 2 https://habr.com/ru/articles/929758/
+        - A Guide to Claude Code 2.0 and getting better at using coding agents https://sankalp.bearblog.dev/my-experience-with-claude-code-20-and-how-to-get-better-at-using-coding-agents/
 
 - **Ресурсы и Подборки (Resources & Curated Lists)** {#ресурсы-и-подборки}
     - Списки для чтения (Reading Lists)
