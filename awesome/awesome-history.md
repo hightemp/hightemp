@@ -14,6 +14,10 @@
     - https://www.raremaps.com/mapmaker/292/Girolamo_Ruscelli
     - Brazil by Girolamo Ruscelli. 1598 https://sanderusmaps.com/our-catalogue/antique-maps/america/south-america/brazil-by-girolamo-ruscelli?srsltid=AfmBOorst1TvJ92OtU8asPlKbZvXNm-oCD1CTG8RIEew43AkgD6Xcx_3
 
+### Глобусы
+
+- Globe of History — интерактивный глобус‑карта, где по выбранному году в реальном времени отображаются исторические события, битвы, открытия и изменения границ государств. https://www.globeofhistory.com/
+
 ### Библиотеки
 
 - Электронные публикации Института русской литературы (Пушкинского Дома) РАН http://lib2.pushkinskijdom.ru/
