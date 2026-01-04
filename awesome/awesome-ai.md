@@ -95,6 +95,7 @@
 
 - https://github.com/fabiochiusano/ai-news-tracker
 - Shir-man Dashboard — персонализируемый дашборд для мониторинга AI и IT новостей с настраиваемой лентой (вплоть до трёх текстовых колонок), источниками вроде Hype Replicate, опциональной еженедельной email-рассылкой и закладками, сохраняемыми в браузере. https://shir-man.com/homepage/
+- https://hype.replicate.dev
 
 ### Остальное
 
