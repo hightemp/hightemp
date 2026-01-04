@@ -52,6 +52,7 @@
     - A suite of specialized MCP servers that help you get the most out of AWS, wherever you use MCP. https://github.com/awslabs/mcp
     - https://glama.ai/mcp
     - Model Context Protocol servers https://github.com/modelcontextprotocol/servers
+- AI Project Gallery — GitHub-библиотека с 28+ готовыми ML/AI-проектами (чат-боты, компьютерное зрение, анализ данных и документов, решения для здравоохранения и др.). https://github.com/KalyanM45/AI-Project-Gallery
 
 ### Данные для обучения; Датасеты; Datasets
 
@@ -1124,6 +1125,7 @@ https://arxiv.org/pdf/2411.08804v1
     - Lindy 3.0 — облачный агент с возможностью развертывания для команд, который автоматизирует взаимодействие с интерфейсами и поддерживает ручной контроль на каждом этапе. https://www.lindy.ai/
     - Extruct AI — ИИ‑агент глубокого веб‑исследования, который автоматически собирает и обогащает структурированные таблицы и базы по компаниям, инвесторам и клиентам по заданным полям, фильтрам и критериям (включая кейсы вроде поиска B2B SaaS с релевантными вакансиями), предоставляя 1000 бесплатных кредитов для выгрузки до 1000 компаний. https://www.extruct.ai/ https://www.extruct.ai/templates/ https://www.extruct.ai/data-room/
     - MAI-UI — семейство GUI-агентов от Alibaba Tongyi Lab на базе Qwen3-VL для управления интерфейсами смартфонов, показывающее SOTA-результаты на бенчмарках AndroidWorld и ScreenSpot-Pro. https://arxiv.org/abs/2512.22047 https://huggingface.co/Tongyi-MAI/MAI-UI-8B
+    - Open Scouts — опенсорсный «ИИ-разведчик», который запускает агентов для мониторинга сайтов по расписанию и отправляет уведомления об обновлениях на почту. https://github.com/firecrawl/open-scouts
 - Руководства
     - Репозиторий с «кулинарной книгой» для генеративного ИИ, охватывающий более 100 пошаговых руководств по ИИ-агентам, включая RAG, голосовые генераторы, MCP-сервера, мульти-агенты, саморефлективные модели и другие топовые ИИ-приложения. https://github.com/mongodb-developer/GenAI-Showcase
 - Ссылки на ресурсы для построения мультиагентной архитектуры AI:
@@ -1149,6 +1151,7 @@ https://arxiv.org/pdf/2411.08804v1
     - LaVague — open-source фреймворк для разработки AI Web Agents, который автоматизирует процессы для пользователей, преобразуя цели в действия. https://github.com/lavague-ai/LaVague
     - 1000 схем архитектур LLM-агентов — каталог из ~1000 схем архитектур агентных систем на базе LLM, включая около 120 разновидностей кодовых агентов. https://altsoph.com/pp/aps/#
 - Остальное
+    - SkillsMP — каталог агентов по навыкам с подбором решений для Claude Code и Codex и ссылками на соответствующие GitHub-репозитории. https://skillsmp.com/
     - Agent S2 (https://www.simular.ai/articles/agent-s2) — цифровой ассистент, способный управлять и автоматизировать компьютерные системы благодаря интеллектуальным алгоритмам; он визуализирует экран, управляет мышью и клавиатурой, выполняет онлайн-операции, публикует контент в социальных сетях и более эффективно, чем другие AI, не допускает сбоев и ошибок.    
     - autoMate — передовой программный инструмент, интегрирующий искусственный интеллект и роботизированную автоматизацию процессов для освобождения пользователей от выполнения рутинных задач путём их автоматизации, предоставляя возможность сконцентрироваться на более важных аспектах работы; использует технологии распознавания содержимого экрана и языковые модели для автоматизации сложных рабочих процессов без необходимости в программировании, ключевыми возможностями являются автоматическое управление интерфейсом, интеллектуальное понимание экрана, автономное принятие решений и локальная установка для обеспечения защиты данных. https://github.com/yuruotong1/autoMate
     - Ace Agent - целостная AI-система для полностью автономного управления компьютером и различными программами, позволяющая выполнять сложные задачи с помощью голосовых команд, действующая в десять раз быстрее аналогов. https://generalagents.com/ace/
@@ -1334,6 +1337,7 @@ https://arxiv.org/pdf/2411.08804v1
     - часть 2 https://llmagents-learning.org/sp25
 - Сборник 60+ сайд-проектов по нейросетям для прокачки резюме - сборник проектов по разработке различных приложений на основе нейронных сетей, включающий видео-туториалы, готовый код и описание навыков, которые можно приобрести при их реализации, а также более 90 бесплатных курсов по искусственному интеллекту, способствующих расширению знаний в данной области. https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/60_ai_projects.md
 - Hugging Face MCP Course — официальный образовательный курс от компании Hugging Face, посвящённый изучению Model Context Protocol (MCP), который включает теоретические основы архитектуры MCP-серверов, практические навыки их использования, разработку собственных MCP-приложений и выдачу сертификата по завершению обучения. https://huggingface.co/learn/mcp-course/unit0/introduction
+- Hugging Face Learn — раздел с 11 бесплатными курсами по ИИ (агенты, MCP, LLM, тонкая настройка, deep learning, computer vision, робототехника и др.). https://huggingface.co/learn
 - Anthropic AI Fluency — бесплатный образовательный курс по работе с искусственным интеллектом, разработанный компанией Anthropic, который обучает системному подходу к формулировке задач и взаимодействию с ИИ-системами через пятиэтапную методологию (описание, получение результата, оценка, уточнение, повторение), включающий практические упражнения по промпт-инжинирингу, анализ типичных ошибок пользователей и интерактивные примеры для развития навыков эффективного использования искусственного интеллекта в профессиональной деятельности. https://www.anthropic.com/ai-fluency https://github.com/anthropics/prompt-eng-interactive-tutorial
 - Language Modeling from Scratch — образовательный курс Стэнфордского университета, направленный на практическое изучение разработки больших языковых моделей (LLM) с нуля, включающий пять домашних заданий по реализации архитектуры трансформера, оптимизации внимания FlashAttention 2, распределённому обучению, анализу законов масштабирования и обучению с подкреплением, требующий базовых знаний Python, теории вероятностей, математического анализа и опыта работы с PyTorch. https://stanford-cs336.github.io/spring2025/ https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_ https://github.com/stanford-cs336/spring2025-lectures
 - Компьютерное зрение https://code.mipt.ru/courses-public/cv/public/-/blob/fall-2024/README.md
@@ -1653,7 +1657,7 @@ https://arxiv.org/pdf/2411.08804v1
         - Emerging Patterns in Building GenAI Products https://martinfowler.com/articles/gen-ai-patterns/
     - Claude Code
         - Vibe Coding: Заглянем под капот Claude Code. Часть 2 https://habr.com/ru/articles/929758/
-        - A Guide to Claude Code 2.0 and getting better at using coding agents https://sankalp.bearblog.dev/my-experience-with-claude-code-20-and-how-to-get-better-at-using-coding-agents/
+        - A Guide to Claude Code 2.0 and getting better at using coding agents — руководство по Claude Code с личным опытом и ключевыми наблюдениями по использованию кодинг-агентов за 2025 год. https://sankalp.bearblog.dev/my-experience-with-claude-code-20-and-how-to-get-better-at-using-coding-agents/
 
 - **Ресурсы и Подборки (Resources & Curated Lists)** {#ресурсы-и-подборки}
     - Списки для чтения (Reading Lists)
