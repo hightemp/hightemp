@@ -1135,6 +1135,8 @@ https://arxiv.org/pdf/2411.08804v1
         - https://www.prompthub.us/blog/how-to-give-your-chatbot-more-memory
         - https://www.prompthub.us/blog/prompt-engineering-principles-for-2024
         - https://www.promptingguide.ai/techniques/fewshot
+    - Остальное
+        - Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems — опенсорсное практическое руководство Антонио Гулли о создании ИИ‑агентов, эволюции агентных систем и современных агентных паттернах с кодом и реальными кейсами. https://github.com/sarwarbeing-ai/Agentic_Design_Patterns/blob/main/Agentic_Design_Patterns.pdf https://drive.google.com/file/d/1-5ho2aSZ-z0FcW8W_jMUoFSQ5hTKvJ43/view
 - Библиотеки; Фреймворки
     - Browserable - бесплатная библиотека для создания ИИ-агентов для автоматизации работы в браузере, которые могут кликать на сайтах, заполнять формы и извлекать данные; она полностью открытая, запускается локально и позволяет ИИ-агентам выполнять различные задачи. https://github.com/browserable/browserable
     - LaVague — open-source фреймворк для разработки AI Web Agents, который автоматизирует процессы для пользователей, преобразуя цели в действия. https://github.com/lavague-ai/LaVague
