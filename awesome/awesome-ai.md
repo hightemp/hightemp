@@ -259,6 +259,10 @@
 - https://docs.openwebui.com/
 - https://lobechat.com
 
+### ai-платформы для инференса (MAAS, Model-as-a-Service)
+
+- ModelScope — это платформа и сообщество Model-as-a-Service от Alibaba, объединяющая тысячи открытых моделей ИИ (CV, NLP, речь, мультимодальность) и датасетов с возможностью онлайн-инференса, обучения, тонкой настройки и развёртывания через единый интерфейс.
+
 ### ai терминалы, terminals
 
 - https://www.warp.dev/
