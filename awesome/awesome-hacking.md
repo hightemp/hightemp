@@ -7,6 +7,7 @@
 - Огромная база по хакингу - репозиторий с 110 документами: книги о взломе и защите данных, которых вы не найдёте в открытом доступе, обучаемся на https://github.com/InspectorDidi/Hacking-Books.
 - https://github.com/vitalysim/Awesome-Hacking-Resources
 - Hackfa.st — гигантская бесплатная база данных по хакерству и кибербезопасности, включающая разборы атак, инструкции по защите и инструменты пентеста. https://hackfa.st
+- https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection
 
 ### AI-инструменты для пентестинга
 
