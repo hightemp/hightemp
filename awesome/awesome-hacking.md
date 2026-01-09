@@ -18,6 +18,7 @@
 - Vulnhuntr — инструмент на базе LLM и статического анализа для автоматического построения и анализа цепочек вызовов в Python‑коде (от удалённого ввода пользователя до ответа сервера) с целью выявления удалённо эксплуатируемых уязвимостей, включая сложные многошаговые баги и 0-day. https://github.com/protectai/vulnhuntr https://protectai.com/threat-research/vulnhuntr-first-0-day-vulnerabilities
 - DorkAgent — LLM-агент для автоматизации Google Dorking в багбаунти, bug hunting и пентестинге с использованием Serper.dev и ключей популярных LLM-провайдеров. https://github.com/yee-yore/DorkAgent
 - BugTrace-AI — веб‑набор инструментов для анализа уязвимостей (SAST/DAST) и генерации payload’ов с помощью генеративного ИИ, включающий ассистента по веб‑безопасности, анализ URL/кода/заголовков, специализированные сканеры (DOM XSS, JWT, PrivEsc, upload) и средства разведки, с упором на многошаговую схему Recursion→Consolidation→Refinement для повышения надёжности результатов. https://github.com/yz9yt/BugTrace-AI https://deepwiki.com/yz9yt/BugTrace-AI
+- PentestGPT — автономный агент для автоматизированного пентестинга и решения CTF-задач на базе LLM в изолированном Docker-окружении (опубликован на USENIX Security 2024). https://github.com/GreyDGL/PentestGPT https://pentestgpt.com
 
 ### Инструменты для проверки LLM
 

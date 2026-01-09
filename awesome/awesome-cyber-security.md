@@ -15,6 +15,7 @@
 - LLM-Based Code Security Scanner — инструмент для статического анализа безопасности кода, использующий LLM (например, GPT‑4 или Claude) для выявления уязвимостей и генерации отчётов, с возможностью запуска как CLI или интеграции в CI/CD через GitHub Actions (включая создание issue). https://github.com/iknowjason/llm-security-scanner 
 - DorkAgent — LLM-агент для автоматизации Google Dorking в багбаунти, bug hunting и пентестинге с использованием Serper.dev и ключей популярных LLM-провайдеров. https://github.com/yee-yore/DorkAgent
 - BugTrace-AI — веб‑набор инструментов для анализа уязвимостей (SAST/DAST) и генерации payload’ов с помощью генеративного ИИ, включающий ассистента по веб‑безопасности, анализ URL/кода/заголовков, специализированные сканеры (DOM XSS, JWT, PrivEsc, upload) и средства разведки, с упором на многошаговую схему Recursion→Consolidation→Refinement для повышения надёжности результатов. https://github.com/yz9yt/BugTrace-AI https://deepwiki.com/yz9yt/BugTrace-AI
+- PentestGPT — автономный агент для автоматизированного пентестинга и решения CTF-задач на базе LLM в изолированном Docker-окружении (опубликован на USENIX Security 2024). https://github.com/GreyDGL/PentestGPT https://pentestgpt.com
 
 ### Интсрументы проверки кода
 
