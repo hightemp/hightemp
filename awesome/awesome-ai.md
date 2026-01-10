@@ -1689,6 +1689,10 @@ https://arxiv.org/pdf/2411.08804v1
     - The Architecture of LLM-Powered Applications: How It Differs from Conventional Software Architecture https://www.craigrisi.com/post/the-architecture-of-llm-powered-applications-how-it-differs-from-conventional-software-architecture
     - Strategies for Managing Prompt Sensitivity and Model Consistency https://www.prompthub.us/blog/strategies-for-managing-prompt-sensitivity-and-model-consistency-
 
+### Roadmap; Маршрутные карты
+
+- Machine Learning Roadmap 2025 — бесплатная пошаговая дорожная карта с подборкой проверенных ресурсов (курсы, видео, статьи) для изучения Python, основ ML/DS, углублённых тем и MLOps с нуля до уровня middle/senior и подготовки к собеседованиям. https://github.com/mlacademyai/Machine-Learning-Roadmap https://www.mlacademy.ai/machine-learning-roadmap https://medium.com/@timur.bikmukhametov/machine-learning-roadmap-from-zero-to-advanced-3b0fc9bb5959
+
 ### Книги
 
 - Python и машинное обучение. Машинное и глубокое обучение с использованием Python, scikit-learn и TensorFlow 2
