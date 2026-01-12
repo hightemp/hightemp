@@ -238,6 +238,8 @@
         - btrfs
             - BTRFS для самых маленьких https://habr.com/ru/companies/veeam/articles/458250/
             - Архитектура и реализация btrfs 2008 https://www.opennet.ru/soft/fs/btrfs.pdf
+        - sshfs
+            - How To Use SSHFS to Mount Remote File Systems Over SSH https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh
         - Специальные ФС (/dev, /proc) (Special Filesystems)
             - /dev
                 - Understanding the /dev Directory in Linux https://www.baeldung.com/linux/dev-directory
