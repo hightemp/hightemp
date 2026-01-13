@@ -947,6 +947,8 @@
       - A Manual for the Plan 9 assembler Rob Pike https://9p.io/sys/doc/asm.html
       - Plan9/Go https://9lab.org/plan9/go/
       - 0c, 5c, 6c, 8c, 9c, kc, qc, vc – C compilers https://web.archive.org/web/20170601071426/http://plan9.bell-labs.com/magic/man2html/1/8c
+    - JIT
+      - Writing a JIT compiler in Golang https://medium.com/kokster/writing-a-jit-compiler-in-golang-964b61295f
     - Остальное
       - Барьеры памяти «Golang» https://habr.com/ru/articles/930864/
       - Как написать сборку Go https://blog.lufia.org/entry/2021/03/17/113000
@@ -1076,9 +1078,6 @@
   - Как писать Go код, который легко портируется https://habr.com/ru/articles/269943/
   - Как кросс-компилировать WebView Go-приложение с CGO для Linux с macOS: Zig, Docker и немного магии https://habr.com/ru/articles/894426/
   - Кросс-компиляция и запуск консольного Go‑приложения на Android, Windows, macOS и Linux https://habr.com/ru/companies/ruvds/articles/968178/
-- Компилятор
-  - JIT
-    - Writing a JIT compiler in Golang https://medium.com/kokster/writing-a-jit-compiler-in-golang-964b61295f
 - Подготовка к собеседованию
   - Гайд по подготовке к собеседованию для Backend-разработчиков https://habr.com/ru/articles/876808/
 - Линтеры
