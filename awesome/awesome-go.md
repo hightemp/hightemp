@@ -1076,6 +1076,9 @@
   - Как писать Go код, который легко портируется https://habr.com/ru/articles/269943/
   - Как кросс-компилировать WebView Go-приложение с CGO для Linux с macOS: Zig, Docker и немного магии https://habr.com/ru/articles/894426/
   - Кросс-компиляция и запуск консольного Go‑приложения на Android, Windows, macOS и Linux https://habr.com/ru/companies/ruvds/articles/968178/
+- Компилятор
+  - JIT
+    - Writing a JIT compiler in Golang https://medium.com/kokster/writing-a-jit-compiler-in-golang-964b61295f
 - Подготовка к собеседованию
   - Гайд по подготовке к собеседованию для Backend-разработчиков https://habr.com/ru/articles/876808/
 - Линтеры
