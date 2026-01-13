@@ -1148,6 +1148,8 @@
     - Ordered map на Go https://habr.com/ru/articles/882828/
   - protobuf; Protocol Buffers
     - Go и Protocol Buffers, ускорение https://habr.com/ru/articles/276905/
+  - JSON
+    - Как парсить гигабайты JSON в секунду на Go https://habr.com/ru/articles/967786/
 - Валидация данных
   - Using Go Validator for Efficient Data Validation in Go Applications https://www.codingexplorations.com/blog/using-go-validator-for-efficient-data-validation-in-go-applications
   - Валидация данных в Go с go-playground/validator: полное руководство https://habr.com/ru/companies/first/articles/927460/
