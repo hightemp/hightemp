@@ -260,6 +260,7 @@ vendor/bin/phpqt-install
 - https://www.dev-notes.ru/articles/
 - https://www.rosstuck.com/blog/
 - https://code.mu/en/php/book/prime/
+- https://skibardin.ru/blog/
 
 ### Статьи
 
@@ -282,6 +283,8 @@ vendor/bin/phpqt-install
     - Zend Memory Manager https://www.phpinternalsbook.com/php7/memory_management/zend_memory_manager.html
     - Streamline Your PHP Applications: 14 Ways to Improve Memory Allocation https://wepri.net/blog/streamline-your-php-applications-14-ways-to-improve-memory-allocation
     - PHP Memory : ZVAL, Symbols and GC https://heera.it/php-memory-zval-symbol-tables-and-garbage-collection
+  - GC; Сборщик мусора
+    - Введение в сборку мусора в PHP https://skibardin.ru/sborschik-musora-php/
   - Атрибуты, Attributes
     - Attributes in PHP 8 https://php.watch/articles/php-attributes
     - PHP 8.0: Attributes https://php.watch/versions/8.0/attributes
