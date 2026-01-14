@@ -198,6 +198,8 @@
         - Doctrine Query Language https://www.doctrine-project.org/projects/doctrine-orm/en/3.5/reference/dql-doctrine-query-language.html
         - DQL User Defined Functions https://www.doctrine-project.org/projects/doctrine-orm/en/current/cookbook/dql-user-defined-functions.html
         - How to Register custom DQL Functions https://symfony.com/doc/current/doctrine/custom_dql_functions.html
+      - Индексы
+        - Как создать уникальные индексы в Doctrine и MySQL: Полное руководство https://skibardin.ru/kak-sozdat-unikalnye-indeksy-doctrine-mysql/
       - MongoDB
         - Multiple class inheritance with Doctrine ODM in Symfony: One collection for multiple document types https://medium.com/enekochan/multiple-class-inheritance-with-doctrine-odm-in-symfony-one-collection-for-multiple-document-types-ccab8cef0f05
       - JSON
