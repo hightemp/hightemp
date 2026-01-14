@@ -103,7 +103,8 @@
     - Остальное
       - Дайджест новостей по Symfony за октябрь'2024 с Кириллом Несмеяновым https://habr.com/ru/articles/859224/
   - Kernel
-    - The HttpKernel Component https://symfony.com/doc/current/components/http_kernel.html    
+    - The HttpKernel Component https://symfony.com/doc/current/components/http_kernel.html
+    - The HttpKernel Component https://symfony-docs-zh-cn.readthedocs.io/components/http_kernel/introduction.html    
   - Routing, Маршрутизация
     - Routing https://symfony.com/doc/7.3/routing.html
     - 4 Ways to Create Routes in Symfony https://www.slingacademy.com/article/ways-to-create-routes-in-symfony/
