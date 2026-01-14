@@ -1,3 +1,9 @@
+### Как понять какие контейнеры используют сеть
+
+```bash
+docker network inspect your_network --format '{{json .Containers}}' | jq
+```
+
 ### MySQL 8 docker-compose
 
 #### Вариант 1
