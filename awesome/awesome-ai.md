@@ -261,6 +261,7 @@
 - https://github.com/josephgodwinkimani/openrouter-web
 - https://docs.openwebui.com/
 - https://lobechat.com
+- SillyTavern provides a single unified interface for many LLM APIs (KoboldAI/CPP, Horde, NovelAI, Ooba, Tabby, OpenAI, OpenRouter, Claude, Mistral and more), a mobile-friendly layout, Visual Novel Mode, Automatic1111 & ComfyUI API image generation integration, TTS, WorldInfo (lorebooks), customizable UI, auto-translate, more prompt options than you'd ever want or need, and endless growth potential via third-party extensions. https://github.com/SillyTavern/SillyTavern
 
 ### ai-платформы для инференса (MAAS, Model-as-a-Service)
 
