@@ -2,6 +2,7 @@
 
 ### Инвестиции
 
+- https://vdelo.pro
 - https://simpleestate.ru/
 - https://www.sravni.ru/invest/investicii-v-biznes/
 - https://brainbox.vc/
