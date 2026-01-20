@@ -2405,6 +2405,9 @@
 - Тестирование
   - Интеграционные тесты
     - Интеграционные тесты на Go Лучшие практики https://golangconf.ru/2019/abstracts/5650
+  - BDD
+    - Ginkgo
+      - Лучший тестовый фреймворк для Go? Обзор Ginkgo/Gomega (Habr) https://www.youtube.com/watch?v=U1UhBdkSOks
 - Остальное
   - Разбираем собеседование от разработчиков из АВИТО: ловушка со слайсами в Go https://www.youtube.com/watch?v=LVyqpVgGdhI
   - https://vk.com/video/playlist/-211870343_13
