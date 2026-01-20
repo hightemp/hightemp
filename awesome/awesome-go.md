@@ -1934,6 +1934,7 @@
   - BDD
     - Ginkgo
       - Getting Started with Ginkgo: A Testing Framework for Golang https://www.browserstack.com/guide/ginkgo-testing-framework
+      - Testing With Ginkgo and Gomega https://medium.com/@dees3g/testing-with-ginkgo-and-gomega-1f1ecc8407a8
       - Writing Expressive tests in Go with Ginkgo and Gomega https://lanre.wtf/blog/2017/06/23/expressive-testing-go
       - Testing With Ginkgo https://dzone.com/articles/testing-with-ginkgo
     - GoBDD
