@@ -200,6 +200,8 @@
             - Loki — сбор логов, используя подход Prometheus https://habr.com/ru/companies/otus/articles/487118/
             - Introduction to Grafana Loki https://www.baeldung.com/ops/grafana-loki
             - Пример docker-compose файла для развертывания Grafana + Grafana Loki https://www.dmosk.ru/scripts.php?object=loki-docker-compose
+        - Graylog 
+            - Graylog and Docker https://go2docs.graylog.org/current/downloading_and_installing_graylog/graylog_and_docker.htm
     - Остальное
         - Логи из docker compose / docker swarm в Grafana / Loki быстро и просто https://habr.com/ru/articles/784410/
 - Haproxy
