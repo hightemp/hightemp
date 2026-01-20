@@ -1916,7 +1916,6 @@
         - Тестируем веб приложение на Go https://habr.com/ru/companies/otus/articles/930136/
         - Четыре простых лайфхака при написании тестов на Go + testify https://temofeev.ru/info/articles/chetyre-prostykh-layfkhaka-pri-napisanii-testov-na-go-testify/
     - GoConvey
-    - Ginkgo
     - Httpexpect
     - Gomega
     - Go-cmdtest
@@ -1933,6 +1932,8 @@
     - Integration Testing in Go https://go-cookbook.com/snippets/testing/integration-testing
     - Integration Tests in Go with Cucumber, Testcontainers, and HTTPMock https://dev.to/joseboretto/integration-tests-in-go-with-cucumber-testcontainers-and-httpmock-5hb9
   - BDD
+    - Ginkgo
+      - Getting Started with Ginkgo: A Testing Framework for Golang https://www.browserstack.com/guide/ginkgo-testing-framework
     - GoBDD
       - Golang Best Practices — Behavior-driven development and Continuous Integration https://medium.com/@durgaprasadbudhwani/golang-best-practices-behavior-driven-development-and-continuous-integration-53ed72c915a5
   - Table Driven Testing, Табличные тесты
