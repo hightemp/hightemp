@@ -1885,6 +1885,7 @@
     - Быстро пишем функциональные тесты https://vporoshok.me/post/2019/08/quick-test/
     - Using Subtests and Sub-benchmarks https://go.dev/blog/subtests
     - Лучшие практики автоматизации тестирования: 9 принципов стабильных автотестов https://habr.com/ru/articles/965890/
+    - Фреймворки для тестирования на Go: сравнение Testify, Ginkgo и других https://kata.academy/blog/qa/Testirovanie_na_Go_sravnenie_populyarnyh_frejmvorkov
   - Тестирование с базой данных
     - PostgreSQL
       - Testing with Go and PostgreSQL: ephemeral DBs (2024) https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/
