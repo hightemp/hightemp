@@ -1938,6 +1938,8 @@
       - Testing With Ginkgo and Gomega https://medium.com/@dees3g/testing-with-ginkgo-and-gomega-1f1ecc8407a8
       - Writing Expressive tests in Go with Ginkgo and Gomega https://lanre.wtf/blog/2017/06/23/expressive-testing-go
       - Testing With Ginkgo https://dzone.com/articles/testing-with-ginkgo
+    - Godog
+      - How to Use Godog for Behavior-driven Development in Go https://semaphore.io/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go
     - GoBDD
       - Golang Best Practices — Behavior-driven development and Continuous Integration https://medium.com/@durgaprasadbudhwani/golang-best-practices-behavior-driven-development-and-continuous-integration-53ed72c915a5
   - Table Driven Testing, Табличные тесты
