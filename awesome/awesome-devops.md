@@ -203,6 +203,7 @@
         - Graylog 
             - Graylog and Docker https://go2docs.graylog.org/current/downloading_and_installing_graylog/graylog_and_docker.htm
             - Graylog Docker Compose Setup: An Open Source Syslog Server for Home Labs https://www.virtualizationhowto.com/2023/09/graylog-docker-compose-setup-an-open-source-syslog-server-for-home-labs/
+            - На каких бесплатных инструментах строить Observability и зонтичный мониторинг: ELK vs Graylog vs Grafana Loki vs Monq https://habr.com/ru/articles/594805/
     - Остальное
         - Логи из docker compose / docker swarm в Grafana / Loki быстро и просто https://habr.com/ru/articles/784410/
 - Haproxy
