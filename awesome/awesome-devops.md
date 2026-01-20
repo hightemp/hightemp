@@ -190,6 +190,8 @@
             - How to Forward Logs to Grafana Loki using Promtail https://www.fosstechnix.com/forward-logs-to-grafana-loki-using-promtail/
             - Using Loki and Promtail to Display PostgreSQL Logs From a Kubernetes Cluster in PMM https://www.percona.com/blog/using-loki-and-promtail-to-display-postgresql-logs-from-a-kubernetes-cluster-in-pmm/
     - Системы хранения логов
+        - Основное
+            - Системы логирования: как определиться с выбором логгера https://www.datahata.by/info/articles/sistemyi-logirovaniya.html
         - Grafana Loki
             - Разворачиваем Grafana Loki для мониторинга систем https://wiki.merionet.ru/articles/razvorachivaem-grafana-loki-dlya-monitoringa-sistem
             - Собираем логи с Loki https://habr.com/ru/companies/badoo/articles/507718/
