@@ -1934,6 +1934,7 @@
   - BDD
     - Ginkgo
       - Getting Started with Ginkgo: A Testing Framework for Golang https://www.browserstack.com/guide/ginkgo-testing-framework
+      - Writing Expressive tests in Go with Ginkgo and Gomega https://lanre.wtf/blog/2017/06/23/expressive-testing-go
     - GoBDD
       - Golang Best Practices — Behavior-driven development and Continuous Integration https://medium.com/@durgaprasadbudhwani/golang-best-practices-behavior-driven-development-and-continuous-integration-53ed72c915a5
   - Table Driven Testing, Табличные тесты
