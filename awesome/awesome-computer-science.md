@@ -31,6 +31,8 @@
 - Фильтр Блума
     - Что такое фильтр Блума? https://habr.com/ru/companies/otus/articles/541378/
     - How bloom filters made SQLite 10x faster https://avi.im/blag/2024/sqlite-past-present-future/
+- Проблема C10k
+    - The C10K problem https://www.kegel.com/c10k.html
 - Распределённые системы
     - Алгоритмы консенсуса
         - Raft
