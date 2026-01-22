@@ -541,6 +541,7 @@
       - Жизненный цикл потоков ОС в Golang https://habr.com/ru/companies/tbank/articles/868390/
       - Механика горутин и каналов в Golang: разбор с примерами https://habr.com/ru/articles/881014/
       - Golang concurrency explained https://computersciencesimplified.substack.com/p/golang-concurrency-explained
+      - За кулисами асинхронности: корутины, горутины и правда между ними https://habr.com/ru/companies/oleg-bunin/articles/958566/
     - Starvation
       - Starvation (голодание) горутин https://laradrom.ru/languages/golang/golang-starvation-gorutin/
   - Linked lists, Связанные списки
