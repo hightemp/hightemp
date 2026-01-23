@@ -298,6 +298,8 @@
     - Epoll and IO Multiplexing https://noneback.github.io/blog/epoll-and-io复用/
     - Socket https://www.xuxueli.com/blog/?blog=./notebook/3-网络/Socket.md
     - Анализ исходного кода ядра Linux: epoll https://blog.hongxiaolong.com/posts/epoll.html
+  - Inotify
+    - Отслеживание изменений в директории с помощью Inotify https://habr.com/ru/articles/782742/
 - Package management, Менеджеры пакетов
   - #1 The state of C++ package management: The big three https://twdev.blog/2024/08/cpp_pkgmng1/
 - Практики программирования 
