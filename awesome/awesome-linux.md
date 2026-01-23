@@ -370,6 +370,8 @@
 - Файрволы, Firewalls
     - ufw
         - How to Set Up a Firewall with UFW on Ubuntu https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu
+- Inotify
+    - Inotify в bash: ловим изменения файловой системы https://mnorin.com/inotify-v-bash.html
 - ZRAM
     - Memory Compression https://www.linux-magazine.com/Issues/2018/215/Memory-Compression
     - Benad's Web Site; RAM Compression on Linux https://benad.me/blog/2021/02/23/ram-compression-on-linux/
