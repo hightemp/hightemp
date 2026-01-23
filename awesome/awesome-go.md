@@ -85,6 +85,8 @@
 - Архитектура
   - Dependency injection
     - Dingo - это библиотека для языка Go, которая реализует механизм внедрения зависимостей (dependency injection), работая похожим образом как Guice и позволяя связывать реализации/фабрики с интерфейсами для их последующего разрешения. https://github.com/i-love-flamingo/dingo
+- Мониторинг файловой системы
+  - fsnotify — кроссплатформенная Go-библиотека для получения уведомлений об изменениях в файловой системе на Windows, Linux, macOS, BSD и illumos, использующая нативные механизмы операционных систем (inotify, kqueue, ReadDirectoryChangesW, FEN) для мониторинга файлов и директорий. https://github.com/fsnotify/fsnotify
 - Сеть
   - SSH
     - goscp - это Go-пакет для простого и безопасного копирования файлов через протокол SCP с использованием SSH-соединения. https://github.com/bramvdbogaerde/go-scp
