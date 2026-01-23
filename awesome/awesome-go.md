@@ -2048,6 +2048,7 @@
 - gokrazy — это минималистичная операционная система, предназначенная для запуска программ, написанных на языке Go, в виде так называемых "апплаенсов" (appliances) на различных платформах: Raspberry Pi, виртуальных машинах, встраиваемых и обычных ПК
   - gokrazy is really cool https://xeiaso.net/blog/gokrazy/
 - Остальное
+  - Automatic code reloading in Go https://www.alexedwards.net/blog/golang-automatic-reloads
   - Насколько быстр Go? Симуляция миллионов частиц на смарт-ТВ https://habr.com/ru/articles/953434/
   - Полиморфизм в JSON в Go https://habr.com/ru/articles/927732/
   - Контейнер с нуля https://habr.com/ru/companies/timeweb/articles/913902/
