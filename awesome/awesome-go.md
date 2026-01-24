@@ -85,6 +85,8 @@
 - Архитектура
   - Dependency injection
     - Dingo - это библиотека для языка Go, которая реализует механизм внедрения зависимостей (dependency injection), работая похожим образом как Guice и позволяя связывать реализации/фабрики с интерфейсами для их последующего разрешения. https://github.com/i-love-flamingo/dingo
+- Мониторинг файловой системы
+  - fsnotify — кроссплатформенная Go-библиотека для получения уведомлений об изменениях в файловой системе на Windows, Linux, macOS, BSD и illumos, использующая нативные механизмы операционных систем (inotify, kqueue, ReadDirectoryChangesW, FEN) для мониторинга файлов и директорий. https://github.com/fsnotify/fsnotify
 - Сеть
   - SSH
     - goscp - это Go-пакет для простого и безопасного копирования файлов через протокол SCP с использованием SSH-соединения. https://github.com/bramvdbogaerde/go-scp
@@ -461,6 +463,8 @@
     - Многопоточность в Go https://learning.infoteam.msk.ru/Go/Yandex/Лекции/Часть%202/6%20Спринт%204/2%20Многопоточность/2%20Многопоточность%20в%20Go.html
     - Погружение в Go: подборка ресурсов для новичков и продолжающих https://habr.com/ru/companies/selectel/articles/929858/
     - Изучаем Go: руководство для JavaScript-разработчиков. Часть 1 https://habr.com/ru/companies/timeweb/articles/933118/
+  - Обзоры
+    - Экосистема Go сегодня: что изменилось в 2025 году https://habr.com/ru/articles/967330/
   - language design; Дизайн языка;
     - Default Methods in Go https://mcyoung.xyz/2025/08/25/go-default-methods/
   - Типы
@@ -539,6 +543,7 @@
       - Жизненный цикл потоков ОС в Golang https://habr.com/ru/companies/tbank/articles/868390/
       - Механика горутин и каналов в Golang: разбор с примерами https://habr.com/ru/articles/881014/
       - Golang concurrency explained https://computersciencesimplified.substack.com/p/golang-concurrency-explained
+      - За кулисами асинхронности: корутины, горутины и правда между ними https://habr.com/ru/companies/oleg-bunin/articles/958566/
     - Starvation
       - Starvation (голодание) горутин https://laradrom.ru/languages/golang/golang-starvation-gorutin/
   - Linked lists, Связанные списки
@@ -1539,6 +1544,7 @@
 - Аунтификация, Авторизация
   - Основное
     - Authentication for Go Applications: The Secure Way https://www.jetbrains.com/guide/go/tutorials/authentication-for-go-apps/auth/?ysclid=m06r9cxvkn600024780
+    - Разработчики всё ещё путают JWT, JWKS, OAuth2 и OpenID Connect — разбираем на примерах. Часть 2 https://habr.com/ru/companies/ozontech/articles/987012/
   - Обычная
     - Сайт на Golang. Авторизация. Часть 1 https://alextonkonogov.ru/?p=572
     - Сайт на Golang. Авторизация. Часть 2 https://alextonkonogov.ru/?p=601 
@@ -1885,6 +1891,7 @@
     - Быстро пишем функциональные тесты https://vporoshok.me/post/2019/08/quick-test/
     - Using Subtests and Sub-benchmarks https://go.dev/blog/subtests
     - Лучшие практики автоматизации тестирования: 9 принципов стабильных автотестов https://habr.com/ru/articles/965890/
+    - Фреймворки для тестирования на Go: сравнение Testify, Ginkgo и других https://kata.academy/blog/qa/Testirovanie_na_Go_sravnenie_populyarnyh_frejmvorkov
   - Тестирование с базой данных
     - PostgreSQL
       - Testing with Go and PostgreSQL: ephemeral DBs (2024) https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/
@@ -1916,7 +1923,6 @@
         - Тестируем веб приложение на Go https://habr.com/ru/companies/otus/articles/930136/
         - Четыре простых лайфхака при написании тестов на Go + testify https://temofeev.ru/info/articles/chetyre-prostykh-layfkhaka-pri-napisanii-testov-na-go-testify/
     - GoConvey
-    - Ginkgo
     - Httpexpect
     - Gomega
     - Go-cmdtest
@@ -1933,6 +1939,14 @@
     - Integration Testing in Go https://go-cookbook.com/snippets/testing/integration-testing
     - Integration Tests in Go with Cucumber, Testcontainers, and HTTPMock https://dev.to/joseboretto/integration-tests-in-go-with-cucumber-testcontainers-and-httpmock-5hb9
   - BDD
+    - Ginkgo
+      - Getting Started with Ginkgo: A Testing Framework for Golang https://www.browserstack.com/guide/ginkgo-testing-framework
+      - Testing With Ginkgo and Gomega https://medium.com/@dees3g/testing-with-ginkgo-and-gomega-1f1ecc8407a8
+      - Writing Expressive tests in Go with Ginkgo and Gomega https://lanre.wtf/blog/2017/06/23/expressive-testing-go
+      - Testing With Ginkgo https://dzone.com/articles/testing-with-ginkgo
+    - Godog
+      - Intro to Godog, Part 1 https://thedumpsterfireproject.com/posts/godog-part-1/
+      - How to Use Godog for Behavior-driven Development in Go https://semaphore.io/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go
     - GoBDD
       - Golang Best Practices — Behavior-driven development and Continuous Integration https://medium.com/@durgaprasadbudhwani/golang-best-practices-behavior-driven-development-and-continuous-integration-53ed72c915a5
   - Table Driven Testing, Табличные тесты
@@ -2036,6 +2050,7 @@
 - gokrazy — это минималистичная операционная система, предназначенная для запуска программ, написанных на языке Go, в виде так называемых "апплаенсов" (appliances) на различных платформах: Raspberry Pi, виртуальных машинах, встраиваемых и обычных ПК
   - gokrazy is really cool https://xeiaso.net/blog/gokrazy/
 - Остальное
+  - Automatic code reloading in Go https://www.alexedwards.net/blog/golang-automatic-reloads
   - Насколько быстр Go? Симуляция миллионов частиц на смарт-ТВ https://habr.com/ru/articles/953434/
   - Полиморфизм в JSON в Go https://habr.com/ru/articles/927732/
   - Контейнер с нуля https://habr.com/ru/companies/timeweb/articles/913902/
@@ -2401,6 +2416,9 @@
 - Тестирование
   - Интеграционные тесты
     - Интеграционные тесты на Go Лучшие практики https://golangconf.ru/2019/abstracts/5650
+  - BDD
+    - Ginkgo
+      - Лучший тестовый фреймворк для Go? Обзор Ginkgo/Gomega (Habr) https://www.youtube.com/watch?v=U1UhBdkSOks
 - Остальное
   - Разбираем собеседование от разработчиков из АВИТО: ловушка со слайсами в Go https://www.youtube.com/watch?v=LVyqpVgGdhI
   - https://vk.com/video/playlist/-211870343_13

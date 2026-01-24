@@ -9,6 +9,9 @@
 
 ### Библиотеки
 
+- Логирование
+  - pino — высокопроизводительный JavaScript-логгер с минимальными накладными расходами для Node.js и совместимых сред выполнения, поддерживающий форматирование JSON, дочерние логгеры, транспорты данных и интеграцию с популярными веб-фреймворками. https://github.com/pinojs/pino
+  - Winston — универсальная библиотека логирования для Node.js с поддержкой множественных транспортов (способов хранения логов), гибкой настройкой уровней логирования и форматов, обеспечивающая разделение компонентов процесса логирования для максимальной расширяемости и гибкости. https://github.com/winstonjs/winston
 - Валидация данных
   - ArkType - это библиотека для проверки данных во время выполнения, которая создает оптимизированные валидаторы из привычного, типобезопасного синтаксиса, полезная для проверки внешних данных, таких как JSON-пейлоуды или отправленные формы, на границах вашего кода. https://github.com/arktypeio/arktype
 - ORM
@@ -182,6 +185,10 @@
   - Модули — amd, cjs, esm и umd https://medium.com/@z4o4z/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-amd-cjs-esm-%D0%B8-umd-dff38c267117
   - Опыт модернизации пакетов в ESM https://reactdev.ru/guides/esm-modernization-lessons/
   - Создаём современные npm-пакеты и преодолеваем трудности совместимости ESM и CJS https://habr.com/ru/companies/ozontech/articles/857954/
+- Логирование
+  - Best Practices for Logging in Node.js https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html
+  - Best Practices for Node.js Logging - Tutorial 2026 https://forwardemail.net/en/blog/docs/best-practices-for-node-js-logging
+  - Руководство по логированию в Node.js https://habr.com/ru/companies/funcorp/articles/461881/
 - Архитектура
   - Остальное
     - Как мы приготовили Feature-Sliced Design в VK https://habr.com/ru/companies/vk/articles/831148/

@@ -190,6 +190,8 @@
             - How to Forward Logs to Grafana Loki using Promtail https://www.fosstechnix.com/forward-logs-to-grafana-loki-using-promtail/
             - Using Loki and Promtail to Display PostgreSQL Logs From a Kubernetes Cluster in PMM https://www.percona.com/blog/using-loki-and-promtail-to-display-postgresql-logs-from-a-kubernetes-cluster-in-pmm/
     - Системы хранения логов
+        - Основное
+            - Системы логирования: как определиться с выбором логгера https://www.datahata.by/info/articles/sistemyi-logirovaniya.html
         - Grafana Loki
             - Разворачиваем Grafana Loki для мониторинга систем https://wiki.merionet.ru/articles/razvorachivaem-grafana-loki-dlya-monitoringa-sistem
             - Собираем логи с Loki https://habr.com/ru/companies/badoo/articles/507718/
@@ -200,6 +202,11 @@
             - Loki — сбор логов, используя подход Prometheus https://habr.com/ru/companies/otus/articles/487118/
             - Introduction to Grafana Loki https://www.baeldung.com/ops/grafana-loki
             - Пример docker-compose файла для развертывания Grafana + Grafana Loki https://www.dmosk.ru/scripts.php?object=loki-docker-compose
+        - Graylog 
+            - Graylog and Docker https://go2docs.graylog.org/current/downloading_and_installing_graylog/graylog_and_docker.htm
+            - Graylog Docker Compose Setup: An Open Source Syslog Server for Home Labs https://www.virtualizationhowto.com/2023/09/graylog-docker-compose-setup-an-open-source-syslog-server-for-home-labs/
+            - На каких бесплатных инструментах строить Observability и зонтичный мониторинг: ELK vs Graylog vs Grafana Loki vs Monq https://habr.com/ru/articles/594805/
+            - Graylog: Централизованное решение для журналирования и анализа логов https://mivocloud.com/ru/blog/Graylog-centralizovannoe-reshenie-dlya-jurnalirovania-i-analyza-logov
     - Остальное
         - Логи из docker compose / docker swarm в Grafana / Loki быстро и просто https://habr.com/ru/articles/784410/
 - Haproxy

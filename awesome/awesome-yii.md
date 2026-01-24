@@ -51,6 +51,8 @@
 - Платежные системы
   - Paypal
     - Yii Framework-PayPal Integration in Web application and Testing With PayPal Sandbox Account Credentials https://medium.com/tensult/yii-framework-paypal-integration-in-web-application-and-testing-with-paypal-sandbox-account-4eea4e813404
+- Оптимизация
+  - Yii2 Optimization & Caching and ActiveRecord https://kb.zensoft.hu/yii2-caching-and-activerecord/
 - Тестирование, Testing
   - Основное
     - Debugging and Testing in Yii Framework: Ensuring High-Quality Code https://medium.com/@unlockliveitlimited/debugging-and-testing-in-yii-framework-ensuring-high-quality-code-b5cc79581cd4
