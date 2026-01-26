@@ -153,6 +153,7 @@
 - https://linuxmogeb.blogspot.com/
 - https://www.alexgur.ru/
 - https://substack.com/@chessman7
+- https://linuxopsys.substack.com/
 
 ### Статьи
 
