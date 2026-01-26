@@ -289,6 +289,8 @@
     - How to Forcibly Close a Socket in TIME_WAIT https://www.baeldung.com/linux/close-socket-time_wait
 - Курс по разработке 64-битных приложений на языке C и C++
   - Урок 13. Паттерн 5. Адресная арифметика https://pvs-studio.ru/ru/blog/lessons/0013/
+- Memory allocator
+  - Memory Allocator in C https://website-seven-murex-43.vercel.app/memory-allocator-c
 - Linux
   - Signals; Сигналы
     - Сигналы https://ejudge.ru/study/3sem/sem13.pdf
