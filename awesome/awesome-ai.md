@@ -950,6 +950,10 @@ https://arxiv.org/pdf/2411.08804v1
 
 - https://app.studyraid.com/en/generate
 
+### Фаззинг, поиск jailbreak
+
+- FuzzyAI Fuzzer — инструмент для автоматизированного fuzzing-тестирования LLM и их API, помогающий находить jailbreak-обходы и снижать риски уязвимостей с помощью набора расширяемых атак и интеграций с популярными провайдерами моделей. https://github.com/cyberark/FuzzyAI
+
 ### Базы промтов
 
 - https://smith.langchain.com/hub/
