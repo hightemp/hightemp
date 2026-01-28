@@ -348,5 +348,6 @@ irm https://get.activated.win | iex
       - Trust Tickets (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-Trust-Ti)
       - Abuse MSSQL Servers (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-Abuse-MS)
       - Breaking Forest Trusts (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6#1-Breaking)
-
+- AI in Penetration
+  - AI in Penetration Testing: Exploitation Phase https://cqr.company/blog/ai-in-penetration-testing-exploitation-phase/
 
