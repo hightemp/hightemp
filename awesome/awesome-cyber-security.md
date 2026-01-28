@@ -1,6 +1,7 @@
 
 ### Коллекции
 
+- https://github.com/enaqx/awesome-pentest
 - Hackfa.st — гигантская бесплатная база данных по хакерству и кибербезопасности, включающая разборы атак, инструкции по защите и инструменты пентеста. https://hackfa.st
 - https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection
 
