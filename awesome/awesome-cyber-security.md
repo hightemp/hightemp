@@ -247,3 +247,4 @@
         - How to Set Up ModSecurity with Nginx on Debian/Ubuntu https://www.linuxbabe.com/security/modsecurity-nginx-debian-ubuntu
 - Подборки
     - Обучение кибербезопасности. Бесплатное ПО для практики https://habr.com/ru/articles/888690/
+    - Free for Open Source Application Security Tools https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
