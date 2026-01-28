@@ -76,6 +76,7 @@
 - Инструмент для статического анализа кода и поиска уязвимостей: Поддержка 30+ языков программирования; Семантический поиск по коду (не только текстовые совпадения); SAST, SCA и сканирование секретов; 20000+ проприетарных правил в платной версии; Интеграция с IDE, pre-commit хуками и CI/CD; https://github.com/semgrep/semgrep
 - Software Composition Analysis (SCA) инструмент для обнаружения известных уязвимостей в зависимостях проекта: Плагины для Maven, Gradle, Ant, Jenkins; Автоматическое обновление из NVD Data Feeds; Интеграция с NPM Audit API, OSS Index, RetireJS; CLI интерфейс и GitHub Action https://github.com/dependency-check/DependencyCheck
 - Scan systems with NMap and parse the output to a list of CVE's, CWE's and DPE's https://github.com/NorthernSec/CVE-Scan
+- Wapiti — веб‑сканер уязвимостей на Python, работающий в режиме «black‑box» (фаззинг) и проверяющий сайты и API на широкий спектр уязвимостей с формированием отчётов в разных форматах. http://wapiti-scanner.github.io/ https://github.com/wapiti-scanner/wapiti/wiki
 
 ### Поиск уязвимостей в git
 
