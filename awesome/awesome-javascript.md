@@ -35,9 +35,10 @@
 - Проект SWC - это высокопроизводительная Rust-платформа для веб-разработки с открытым исходным кодом, которая включает в себя компилятор и сборщик JavaScript/TypeScript с современными возможностями, поддерживаемыми основными браузерами, и в 20-70 раз быстрее Babel. https://github.com/swc-project/swc https://swc.rs/
 - Shiki - высокопроизводительный синтаксический подсветчик на базе грамматики TextMate, обеспечивающий точное и удобочитаемое выделение синтаксиса в коде (https://github.com/shikijs/shiki)
 
-### Архитектура frontend
+### Архитектура
 
 - https://feature-sliced.design/
+- https://github.com/nodeshift/nodejs-reference-architecture
 
 ### Полезные ссылки
 
