@@ -19,6 +19,10 @@
 - блог Дэна Абрамова https://overreacted.io/ 
 - https://reactdev.ru/learn/
 
+### Шпаргалки
+
+- https://my-js.org/docs/cheatsheet/react-typescript
+
 ### Курсы
 
 - https://stepik.org/course/210768/promo
