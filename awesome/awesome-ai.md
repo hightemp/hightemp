@@ -2,6 +2,7 @@
 ### Коллекции
 
 - https://github.com/openbestof/awesome-ai
+- https://github.com/ranpox/awesome-computer-use
 - https://github.com/sindresorhus/awesome-chatgpt
 - https://github.com/korchasa/awesome-chatgpt
 - https://github.com/Shubhamsaboo/awesome-llm-apps
