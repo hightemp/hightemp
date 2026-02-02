@@ -570,6 +570,8 @@ vendor/bin/phpqt-install
 
 ### Видео
 
+- Сайты с видео
+  - https://phpc.tv/
 - PHPKonf 2021 - Larry Garfield: Never* use arrays https://www.youtube.com/watch?v=nNtulOOZ0GY
 - Let's talk about property hooks! https://www.youtube.com/watch?v=ULUrhIrjyAg
 
