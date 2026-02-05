@@ -498,6 +498,8 @@
    - Остальное
       - 10 Best Resources to Learn Software Architecture in 2025 https://medium.com/javarevisited/10-best-resources-to-learn-software-architecture-in-2025-2524ac91dc76
 - Протоколы авторизации/аунтификации
+   - OAuth
+      - The Simplest Guide To OAuth 2.0 https://darutk.medium.com/the-simplest-guide-to-oauth-2-0-8c71bd9a15bb
    - OpenID
       - Схемы всех потоков OpenID Connect https://darutk.medium.com/diagrams-of-all-the-openid-connect-flows-6968e3990660
 - API
