@@ -167,6 +167,8 @@
             - An introduction to Prometheus — a tool for collecting metrics and monitoring services https://eytanmanor.medium.com/an-introduction-to-prometheus-a-tool-for-collecting-metrics-and-monitoring-services-12fcc3bdb5d6
             - Prometheus 101: Metrics, Monitoring, Practical Setup and More https://harsh05.medium.com/prometheus-101-metrics-monitoring-practical-setup-and-more-eaccf18bdf91
             - Система мониторинга Prometheus https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/sistema-monitoringa-prometheus#1
+            - Человеческим языком про метрики 1: Потерянное введение https://habr.com/ru/companies/tochka/articles/683608/
+            - Человеческим языком про метрики 2: Prometheus https://habr.com/ru/companies/tochka/articles/685636/
         - PromQL
             - Что такое PromQL и как с ним работать https://timeweb.com/ru/community/articles/chto-takoe-promql-i-kak-s-nim-rabotat
             - Basics and best practices for getting started with PromQL https://grafana.com/blog/2021/01/29/basics-and-best-practices-for-getting-started-with-promql/
