@@ -174,6 +174,7 @@
             - Что такое PromQL и как с ним работать https://timeweb.com/ru/community/articles/chto-takoe-promql-i-kak-s-nim-rabotat
             - Basics and best practices for getting started with PromQL https://grafana.com/blog/2021/01/29/basics-and-best-practices-for-getting-started-with-promql/
             - Знакомство с PromQL + Cheatsheet https://habr.com/ru/companies/timeweb/articles/562378/
+            - Человеческим языком про метрики 4: PromQL https://habr.com/ru/companies/tochka/articles/693834/
 - База данных временых рядов
     - InfluxDB
         - The Definitive Guide To InfluxDB In 2019 https://devconnected.com/the-definitive-guide-to-influxdb-in-2019/
