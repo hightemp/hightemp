@@ -97,6 +97,9 @@
 
 - Основное
   - Обновления
+    - 8.0
+      - Our experience upgrading a project to Symfony 8 https://jolicode.com/blog/our-experience-upgrading-a-project-to-symfony-8
+      - Обновление Symfony 7.4 до 8.0 https://mosregdata.ru/article/symfony-upgrade-74-80
     - 7.3
       - Symfony 7.3 curated new features https://symfony.com/blog/symfony-7-3-curated-new-features
       - 5 INCREDIBLE new features in Symfony 7.3 https://dev.to/pentiminax/5-incredible-new-features-in-symfony-73-4ei3
