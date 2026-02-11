@@ -200,6 +200,8 @@
     - Системы хранения логов
         - Основное
             - Системы логирования: как определиться с выбором логгера https://www.datahata.by/info/articles/sistemyi-logirovaniya.html
+        - Elasticsearch / ELK Stack
+            - Управляем логами с ELK https://www.andreyus.com/upravlyaem-logami-s-elk/
         - Grafana Loki
             - Разворачиваем Grafana Loki для мониторинга систем https://wiki.merionet.ru/articles/razvorachivaem-grafana-loki-dlya-monitoringa-sistem
             - Собираем логи с Loki https://habr.com/ru/companies/badoo/articles/507718/
