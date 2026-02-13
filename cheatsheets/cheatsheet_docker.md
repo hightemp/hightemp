@@ -1,3 +1,21 @@
+### Как понять сколько контейнер потребляет памяти
+
+```console
+❯ docker stats --no-stream --format '{{.Name}}  {{.MemUsage}} ({{.MemPerc}})'
+bdpn-ui-nginx-1  9.012MiB / 23.21GiB (0.04%)
+bdpn-ui-php-fpm-1  168.1MiB / 23.21GiB (0.71%)
+bdpn-ui-mariadb-1  20.66MiB / 23.21GiB (0.09%)
+buggregator-buggregator-1  209MiB / 23.21GiB (0.88%)
+perplexica-searxng-1  18.49MiB / 23.21GiB (0.08%)
+perplexica-app-1  4MiB / 23.21GiB (0.02%)
+antifraud-api-php-fpm-1  796KiB / 23.21GiB (0.00%)
+antifraud-api-postgres-1  5.312MiB / 23.21GiB (0.02%)
+
+~/Projects/buggregator took 2s 
+❯ docker stats --no-stream --format '{{.Name}}  {{.MemUsage}} ({{.MemPerc}})' buggregator-buggregator-1
+buggregator-buggregator-1  209.3MiB / 23.21GiB (0.88%)
+```
+
 ### Как понять какие контейнеры используют сеть
 
 ```bash
