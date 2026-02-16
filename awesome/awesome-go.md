@@ -436,6 +436,7 @@
 
 - Описание языка
   - Что нового
+    - 1.26
     - 1.25
       - Go 1.25 Release Notes https://go.dev/doc/go1.25
       - Эволюция JSON в Go: от v1 к v2 https://habr.com/ru/articles/923404/
@@ -502,6 +503,7 @@
     - Interfaces and other types https://go.dev/doc/effective_go#interfaces_and_types
     - Interface types https://go.dev/ref/spec#Interface_types
     - Things You Never Wanted To Know About Go Interfaces https://mcyoung.xyz/2024/12/12/go-abi/#codegen-for-interface-operations
+    - Go Composition does not work well with Implicit Interfaces https://openrun.dev/blog/go-composition/
   - Label
     - Labels in Go https://medium.com/golangspec/labels-in-go-4ffd81932339
   - Контекст; Context
