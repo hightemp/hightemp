@@ -21,6 +21,8 @@
 - https://github.com/symfony/symfony
 - Стартовые проекты (Starter Projects)
   - Vue Symfony Starter https://github.com/Monogramm/vue-symfony-starter
+- Отладка
+  - **Buggregator** — бесплатный многофункциональный сервер для отладки PHP-приложений (и других языков программирования), объединяющий в себе профайлер Xhprof, сервер Symfony VarDumper, инструмент отладки Spatie Ray, fake SMTP-сервер, совместимость с Sentry и Inspector, сервер Monolog и HTTP dump сервер с возможностью совместного использования дампов. https://github.com/buggregator/server
 - Тестирование
   - `PHPUnit Bridge` — это компонент Symfony, который предоставляет интеграцию между Symfony и PHPUnit (основным фреймворком для модульного тестирования в PHP). Он не является заменой PHPUnit, а скорее является его расширением и помощником. Он делает процесс тестирования в Symfony более удобным и гибким, решая ряд общих проблем. https://github.com/symfony/phpunit-bridge
   - `LiipFunctionalTestBundle` — это популярный бандл для Symfony, который значительно упрощает написание функциональных тестов, делая их более читаемыми, удобными и эффективными. Он предоставляет ряд полезных инструментов и абстракций, которые облегчают тестирование HTTP-запросов и работы с базой данных в рамках функциональных тестов. https://github.com/liip/LiipFunctionalTestBundle
