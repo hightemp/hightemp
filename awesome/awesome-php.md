@@ -456,6 +456,7 @@ vendor/bin/phpqt-install
   - Основное
     - Анемичная модель предметной области и логика в сервисах https://habr.com/ru/articles/800789/
     - Анемичные модели с логикой в сервисах: плюсы и минусы одного из самых популярных подходов к разработке на PHP https://habr.com/ru/articles/919198/
+    - Composition vs. Inheritance in PHP Frameworks https://dev.to/dobrenteiistvan/composition-vs-inheritance-in-php-frameworks-401e
   - DI; Dependency Injection; Внедрение зависимостей
     - Dependency Injection в мире Software Engineering https://habr.com/ru/companies/avito/articles/556924/
   - Чистая архитектура; Clean architecture
