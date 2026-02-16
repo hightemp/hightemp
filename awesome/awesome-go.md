@@ -439,6 +439,7 @@
     - 1.26
       - Go 1.26 Release Notes https://go.dev/doc/go1.26
       - Go 1.26: What's New and Why It Matters https://www.uradical.io/latest-news/go-1-26-what-s-new-and-why-it-matters
+      - Go 1.26 вышел, пройдемся по всем изменениям… https://habr.com/ru/articles/995906/
     - 1.25
       - Go 1.25 Release Notes https://go.dev/doc/go1.25
       - Эволюция JSON в Go: от v1 к v2 https://habr.com/ru/articles/923404/
