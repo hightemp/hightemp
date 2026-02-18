@@ -529,6 +529,7 @@ vendor/bin/phpqt-install
     - Автоматизация с Codeception + Gherkin + PageObject для самых маленьких https://habr.com/ru/articles/427031/
   - Остальное
     - A better PHP testing experience Part II: Pick your test doubles wisely https://matthiasnoback.nl/2014/07/test-doubles/
+    - Автоматизированное тестирование https://gist.github.com/K0rINf/8ec4570694b7279c3364d91b0a57bf65
 - Отладка
   - Трейсинг; Трассировка
     - Tracing PHP Applications https://docs.datadoghq.com/tracing/trace_collection/automatic_instrumentation/dd_libraries/php/
