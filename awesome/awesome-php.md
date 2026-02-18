@@ -89,6 +89,9 @@
 - Devilbox: универсальный, высоко настраиваемый стек Docker для PHP с нулевой конфигурацией, поддерживающий LEMP, MEAN и различные веб-технологии через автоматическую интеграцию обратного прокси. https://github.com/cytopia/devilbox
 - Oracle
   - https://github.com/kool-dev/docker-php-oci8
+- Тестирование
+  - Mock; Моки
+    - **BypassFinals** — PHP-библиотека, которая динамически удаляет ключевые слова `final` и `readonly` из кода на лету, позволяя создавать моки финальных методов и классов для тестирования с интеграцией в популярные фреймворки тестирования как PHPUnit, Mockery и Nette Tester. https://github.com/dg/bypass-finals
 
 ### Quality tools; Linters; Линтеры; Fixers; Фиксеры
 
