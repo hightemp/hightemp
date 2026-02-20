@@ -107,7 +107,7 @@
   - WeakMap
     - WeakMap и WeakSet в JavaScript https://habr.com/ru/companies/otus/articles/865512/
   - prototype
-    - \__proto\__ и prototype https://habr.com/ru/companies/otus/articles/685528/
+    - \_\_proto\_\_ и prototype https://habr.com/ru/companies/otus/articles/685528/
   - Web Worker; Веб-воркеры
     - Веб-воркеры — многопоточность в JavaScript https://habr.com/ru/articles/915518/
   - Генераторы
