@@ -176,6 +176,10 @@
     - Mongoose
   - Остальное
     - Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
+- Тестирование
+  - Vitest
+    - Основное
+      - Getting Started https://vitest.dev/guide/
 - Оптимизация
   - Exploring V8's strings: implementation and optimizations https://iliazeus.lol/articles/js-string-optimizations-en/
   - Внутреннее представление и оптимизации строк в JavaScript-движке V8 https://iliazeus.lol/articles/js-string-optimizations-ru/
