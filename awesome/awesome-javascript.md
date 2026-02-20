@@ -130,6 +130,8 @@
   - Остальное
     - Understanding memory leaks in Node.js apps https://blog.logrocket.com/understanding-memory-leaks-node-js-apps/
     - Memory Leaks Demystified https://nodesource.com/blog/memory-leaks-demystified
+- Express
+  - Создание REST API с помощью TypeScript и Express https://ru.sharpcoderblog.com/blog/building-a-rest-api-with-typescript-and-express
 - Typescript
   - Enum
     - TypeScript enums: Usage, advantages, and best practices https://blog.logrocket.com/typescript-enum/?ref=dailydev
