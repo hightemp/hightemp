@@ -212,6 +212,7 @@
     - Руководство по логированию в Node.js https://habr.com/ru/companies/funcorp/articles/461881/
   - morgan
     - Morgan Logger | Tutorial on how to use in an Express application https://signoz.io/blog/morgan-logger/
+    - Troubleshooting Session: Node.js Log Settings with Winston and Morgan https://medium.com/@mariaferreira.developer/troubleshooting-session-node-js-log-settings-with-winston-and-morgan-4e51d6565351
   - pine
   - winston
 - Архитектура
