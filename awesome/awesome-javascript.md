@@ -106,6 +106,8 @@
     - What is JavaScript Concurrency and a Deep Dive into the Event Loop, Async Operations, and Real-World Examples https://www.mbloging.com/post/mastering-javascript-concurrency-a-deep-dive-into-the-event-loop-async-operations-and-real-world
   - WeakMap
     - WeakMap и WeakSet в JavaScript https://habr.com/ru/companies/otus/articles/865512/
+  - prototype
+    - \__proto\__ и prototype https://habr.com/ru/companies/otus/articles/685528/
   - Web Worker; Веб-воркеры
     - Веб-воркеры — многопоточность в JavaScript https://habr.com/ru/articles/915518/
   - Генераторы
