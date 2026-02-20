@@ -135,6 +135,9 @@
 - Typescript
   - Enum
     - TypeScript enums: Usage, advantages, and best practices https://blog.logrocket.com/typescript-enum/?ref=dailydev
+  - tsconfig
+    - esModuleInterop
+      - Про esModuleInterop и совместимость модулей ES6 и CommonJS https://habr.com/ru/articles/930182/
 - Алгоритмы
   - JavaScript: структуры данных и алгоритмы. Часть 7 https://habr.com/ru/companies/timeweb/articles/856046/
 - VSCode
