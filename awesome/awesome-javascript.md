@@ -206,9 +206,14 @@
   - Опыт модернизации пакетов в ESM https://reactdev.ru/guides/esm-modernization-lessons/
   - Создаём современные npm-пакеты и преодолеваем трудности совместимости ESM и CJS https://habr.com/ru/companies/ozontech/articles/857954/
 - Логирование
-  - Best Practices for Logging in Node.js https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html
-  - Best Practices for Node.js Logging - Tutorial 2026 https://forwardemail.net/en/blog/docs/best-practices-for-node-js-logging
-  - Руководство по логированию в Node.js https://habr.com/ru/companies/funcorp/articles/461881/
+  - Основное
+    - Best Practices for Logging in Node.js https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html
+    - Best Practices for Node.js Logging - Tutorial 2026 https://forwardemail.net/en/blog/docs/best-practices-for-node-js-logging
+    - Руководство по логированию в Node.js https://habr.com/ru/companies/funcorp/articles/461881/
+  - morgan
+    - Morgan Logger | Tutorial on how to use in an Express application https://signoz.io/blog/morgan-logger/
+  - pine
+  - winston
 - Архитектура
   - Остальное
     - Как мы приготовили Feature-Sliced Design в VK https://habr.com/ru/companies/vk/articles/831148/
