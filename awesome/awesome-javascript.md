@@ -49,6 +49,8 @@
 
 ### Примеры приложений
 
+- Express
+  - https://github.com/harryheman/express-ts-app
 - Angular
   - FSD
     - https://github.com/fed4wet/angular-feature-sliced-design
