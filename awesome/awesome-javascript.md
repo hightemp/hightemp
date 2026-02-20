@@ -141,6 +141,7 @@
     - Создание REST API с помощью TypeScript и Express https://ru.sharpcoderblog.com/blog/building-a-rest-api-with-typescript-and-express
     - Как настроить проект Node.js с TypeScript и Express https://blog.openreplay.com/ru/настроить-nodejs-typescript-express/
     - Настройка Express 5 для продакшна в 2025 году. Часть 1 https://habr.com/ru/companies/timeweb/articles/948036/
+    - Настройка Express 5 для продакшна в 2025 году. Часть 2 https://habr.com/ru/companies/timeweb/articles/950022/
 - Typescript
   - Enum
     - TypeScript enums: Usage, advantages, and best practices https://blog.logrocket.com/typescript-enum/?ref=dailydev
