@@ -82,6 +82,8 @@
 - Что нового
   - ECMAScript 2025
     - ECMAScript 2025: Что нового https://www.dev-notes.ru/articles/javascript/ecmascript-2025-whats-new/
+  - ECMAScript 6
+    - ECMAScript 6 modules: the final https://2ality.com/2014/09/es6-modules-final.html
   - Остальное
     - Frontend в 2025 году: тренды, которые изменят разработку https://habr.com/ru/companies/usetech/articles/866268/
 - Основы
