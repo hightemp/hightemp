@@ -173,6 +173,7 @@
             - Linux's Bedtime Routine (В статье рассматриваются процессы...) https://tookmund.com/2024/09/hibernation-preparation
         - Время и Таймеры (Timekeeping and Clocks)
             - Understanding Timekeeping and Clocks in Linux https://www.baeldung.com/linux/timekeeping-clocks
+            - Шпаргалка по поиску узких мест в Linux: топ утилит на все случаи жизни https://habr.com/ru/companies/ruvds/articles/1000218/
 
     - **Архитектура (Architecture)**
         - Управление памятью (Memory Management)
