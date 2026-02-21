@@ -63,6 +63,8 @@
         - https://habr.com/ru/articles/885224/
 - Quality tools; Качество кода
     - Laravel code-quality tools https://www.honeybadger.io/blog/laravel-code-quality-tools/
+- Оптимизация
+    - Профилирование PHP (Laravel) приложений с xhprof. Учимся искать ботлнеки https://habr.com/ru/articles/823156/
 - Архитектура
     - Value Object
         - Building Maintainable PHP Applications: Value Objects https://davorminchorov.com/articles/building-maintainable-php-applications-value-objects

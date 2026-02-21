@@ -89,6 +89,9 @@
 - Devilbox: универсальный, высоко настраиваемый стек Docker для PHP с нулевой конфигурацией, поддерживающий LEMP, MEAN и различные веб-технологии через автоматическую интеграцию обратного прокси. https://github.com/cytopia/devilbox
 - Oracle
   - https://github.com/kool-dev/docker-php-oci8
+- Тестирование
+  - Mock; Моки
+    - **BypassFinals** — PHP-библиотека, которая динамически удаляет ключевые слова `final` и `readonly` из кода на лету, позволяя создавать моки финальных методов и классов для тестирования с интеграцией в популярные фреймворки тестирования как PHPUnit, Mockery и Nette Tester. https://github.com/dg/bypass-finals
 
 ### Quality tools; Linters; Линтеры; Fixers; Фиксеры
 
@@ -456,6 +459,7 @@ vendor/bin/phpqt-install
   - Основное
     - Анемичная модель предметной области и логика в сервисах https://habr.com/ru/articles/800789/
     - Анемичные модели с логикой в сервисах: плюсы и минусы одного из самых популярных подходов к разработке на PHP https://habr.com/ru/articles/919198/
+    - Composition vs. Inheritance in PHP Frameworks https://dev.to/dobrenteiistvan/composition-vs-inheritance-in-php-frameworks-401e
   - DI; Dependency Injection; Внедрение зависимостей
     - Dependency Injection в мире Software Engineering https://habr.com/ru/companies/avito/articles/556924/
   - Чистая архитектура; Clean architecture
@@ -525,6 +529,7 @@ vendor/bin/phpqt-install
     - Автоматизация с Codeception + Gherkin + PageObject для самых маленьких https://habr.com/ru/articles/427031/
   - Остальное
     - A better PHP testing experience Part II: Pick your test doubles wisely https://matthiasnoback.nl/2014/07/test-doubles/
+    - Автоматизированное тестирование https://gist.github.com/K0rINf/8ec4570694b7279c3364d91b0a57bf65
 - Отладка
   - Трейсинг; Трассировка
     - Tracing PHP Applications https://docs.datadoghq.com/tracing/trace_collection/automatic_instrumentation/dd_libraries/php/

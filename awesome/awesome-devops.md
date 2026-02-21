@@ -167,10 +167,16 @@
             - An introduction to Prometheus — a tool for collecting metrics and monitoring services https://eytanmanor.medium.com/an-introduction-to-prometheus-a-tool-for-collecting-metrics-and-monitoring-services-12fcc3bdb5d6
             - Prometheus 101: Metrics, Monitoring, Practical Setup and More https://harsh05.medium.com/prometheus-101-metrics-monitoring-practical-setup-and-more-eaccf18bdf91
             - Система мониторинга Prometheus https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/sistema-monitoringa-prometheus#1
+            - Человеческим языком про метрики 1: Потерянное введение https://habr.com/ru/companies/tochka/articles/683608/
+            - Человеческим языком про метрики 2: Prometheus https://habr.com/ru/companies/tochka/articles/685636/
+            - Человеческим языком про метрики 3: перцентили для чайников https://habr.com/ru/companies/tochka/articles/690814/
         - PromQL
             - Что такое PromQL и как с ним работать https://timeweb.com/ru/community/articles/chto-takoe-promql-i-kak-s-nim-rabotat
             - Basics and best practices for getting started with PromQL https://grafana.com/blog/2021/01/29/basics-and-best-practices-for-getting-started-with-promql/
             - Знакомство с PromQL + Cheatsheet https://habr.com/ru/companies/timeweb/articles/562378/
+            - Человеческим языком про метрики 4: PromQL https://habr.com/ru/companies/tochka/articles/693834/
+        - Остальное
+            - Bucketing technique for calculating median and k-th percentile of a large dataset https://medium.com/@mnylen/bucketing-technique-for-calculating-median-and-k-th-percentile-of-a-large-dataset-33199af2538c
 - База данных временых рядов
     - InfluxDB
         - The Definitive Guide To InfluxDB In 2019 https://devconnected.com/the-definitive-guide-to-influxdb-in-2019/
@@ -194,6 +200,8 @@
     - Системы хранения логов
         - Основное
             - Системы логирования: как определиться с выбором логгера https://www.datahata.by/info/articles/sistemyi-logirovaniya.html
+        - Elasticsearch / ELK Stack
+            - Управляем логами с ELK https://www.andreyus.com/upravlyaem-logami-s-elk/
         - Grafana Loki
             - Разворачиваем Grafana Loki для мониторинга систем https://wiki.merionet.ru/articles/razvorachivaem-grafana-loki-dlya-monitoringa-sistem
             - Собираем логи с Loki https://habr.com/ru/companies/badoo/articles/507718/

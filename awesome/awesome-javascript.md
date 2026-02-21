@@ -49,6 +49,8 @@
 
 ### Примеры приложений
 
+- Express
+  - https://github.com/harryheman/express-ts-app
 - Angular
   - FSD
     - https://github.com/fed4wet/angular-feature-sliced-design
@@ -82,6 +84,8 @@
 - Что нового
   - ECMAScript 2025
     - ECMAScript 2025: Что нового https://www.dev-notes.ru/articles/javascript/ecmascript-2025-whats-new/
+  - ECMAScript 6
+    - ECMAScript 6 modules: the final https://2ality.com/2014/09/es6-modules-final.html
   - Остальное
     - Frontend в 2025 году: тренды, которые изменят разработку https://habr.com/ru/companies/usetech/articles/866268/
 - Основы
@@ -104,6 +108,8 @@
     - What is JavaScript Concurrency and a Deep Dive into the Event Loop, Async Operations, and Real-World Examples https://www.mbloging.com/post/mastering-javascript-concurrency-a-deep-dive-into-the-event-loop-async-operations-and-real-world
   - WeakMap
     - WeakMap и WeakSet в JavaScript https://habr.com/ru/companies/otus/articles/865512/
+  - prototype
+    - \_\_proto\_\_ и prototype https://habr.com/ru/companies/otus/articles/685528/
   - Web Worker; Веб-воркеры
     - Веб-воркеры — многопоточность в JavaScript https://habr.com/ru/articles/915518/
   - Генераторы
@@ -130,9 +136,18 @@
   - Остальное
     - Understanding memory leaks in Node.js apps https://blog.logrocket.com/understanding-memory-leaks-node-js-apps/
     - Memory Leaks Demystified https://nodesource.com/blog/memory-leaks-demystified
+- Express
+  - Остальное
+    - Создание REST API с помощью TypeScript и Express https://ru.sharpcoderblog.com/blog/building-a-rest-api-with-typescript-and-express
+    - Как настроить проект Node.js с TypeScript и Express https://blog.openreplay.com/ru/настроить-nodejs-typescript-express/
+    - Настройка Express 5 для продакшна в 2025 году. Часть 1 https://habr.com/ru/companies/timeweb/articles/948036/
+    - Настройка Express 5 для продакшна в 2025 году. Часть 2 https://habr.com/ru/companies/timeweb/articles/950022/
 - Typescript
   - Enum
     - TypeScript enums: Usage, advantages, and best practices https://blog.logrocket.com/typescript-enum/?ref=dailydev
+  - tsconfig
+    - esModuleInterop
+      - Про esModuleInterop и совместимость модулей ES6 и CommonJS https://habr.com/ru/articles/930182/
 - Алгоритмы
   - JavaScript: структуры данных и алгоритмы. Часть 7 https://habr.com/ru/companies/timeweb/articles/856046/
 - VSCode
@@ -161,6 +176,10 @@
     - Mongoose
   - Остальное
     - Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
+- Тестирование
+  - Vitest
+    - Основное
+      - Getting Started https://vitest.dev/guide/
 - Оптимизация
   - Exploring V8's strings: implementation and optimizations https://iliazeus.lol/articles/js-string-optimizations-en/
   - Внутреннее представление и оптимизации строк в JavaScript-движке V8 https://iliazeus.lol/articles/js-string-optimizations-ru/
@@ -187,9 +206,15 @@
   - Опыт модернизации пакетов в ESM https://reactdev.ru/guides/esm-modernization-lessons/
   - Создаём современные npm-пакеты и преодолеваем трудности совместимости ESM и CJS https://habr.com/ru/companies/ozontech/articles/857954/
 - Логирование
-  - Best Practices for Logging in Node.js https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html
-  - Best Practices for Node.js Logging - Tutorial 2026 https://forwardemail.net/en/blog/docs/best-practices-for-node-js-logging
-  - Руководство по логированию в Node.js https://habr.com/ru/companies/funcorp/articles/461881/
+  - Основное
+    - Best Practices for Logging in Node.js https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html
+    - Best Practices for Node.js Logging - Tutorial 2026 https://forwardemail.net/en/blog/docs/best-practices-for-node-js-logging
+    - Руководство по логированию в Node.js https://habr.com/ru/companies/funcorp/articles/461881/
+  - morgan
+    - Morgan Logger | Tutorial on how to use in an Express application https://signoz.io/blog/morgan-logger/
+    - Troubleshooting Session: Node.js Log Settings with Winston and Morgan https://medium.com/@mariaferreira.developer/troubleshooting-session-node-js-log-settings-with-winston-and-morgan-4e51d6565351
+  - pine
+  - winston
 - Архитектура
   - Остальное
     - Как мы приготовили Feature-Sliced Design в VK https://habr.com/ru/companies/vk/articles/831148/

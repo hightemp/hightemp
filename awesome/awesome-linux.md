@@ -467,6 +467,9 @@
     - Podman at the edge: Keeping services alive with custom healthcheck actions https://www.redhat.com/en/blog/podman-edge-healthcheck
 - RabbitMQ
     - How to Install RabbitMQ Server on Linux (Quick Guide) https://linuxtldr.com/install-rabbitmq-server-on-linux/
+- RDP (Remote Desktop Protocol)
+    - xrdp
+        - How to Install Xrdp Server (Remote Desktop) on Ubuntu 20.04 https://linuxize.com/post/how-to-install-xrdp-on-ubuntu-20-04/
 - SSH
     - Fail2Ban
         - Fail2Ban-SSH и Brute-force attack https://hackmd.io/@AndrewMsk/rJhRSfwti
