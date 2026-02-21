@@ -173,7 +173,6 @@
             - Linux's Bedtime Routine (В статье рассматриваются процессы...) https://tookmund.com/2024/09/hibernation-preparation
         - Время и Таймеры (Timekeeping and Clocks)
             - Understanding Timekeeping and Clocks in Linux https://www.baeldung.com/linux/timekeeping-clocks
-            - Шпаргалка по поиску узких мест в Linux: топ утилит на все случаи жизни https://habr.com/ru/companies/ruvds/articles/1000218/
 
     - **Архитектура (Architecture)**
         - Управление памятью (Memory Management)
@@ -206,6 +205,7 @@
                 - Transparent Huge Pages (THP)
                 - OOM Killer (Убийца процессов при нехватке памяти)
             - Отладка и профилирование (Debugging and Profiling)
+                - Шпаргалка по поиску узких мест в Linux: топ утилит на все случаи жизни https://habr.com/ru/companies/ruvds/articles/1000218/
         - Потоки
             - How Threads and Concurrency Work in Linux Systems https://dev.to/iaadidev/how-threads-and-concurrency-work-in-linux-systems-233c
             - Threads in Linux: A Comprehensive Guide https://www.gopakumar-rajappan.com/p/threads-in-linux-a-comprehensive
