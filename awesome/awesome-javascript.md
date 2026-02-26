@@ -75,6 +75,11 @@
 
 - https://w2ui.com/
 
+### Учебники
+
+- Typescript
+  - https://code.mu/ru/javascript/typescript/book/prime/#
+
 ### Книги
 
 - Learning JavaScript Design Patterns, Addy Osmani https://patterns.addy.ie/
@@ -143,6 +148,15 @@
     - Настройка Express 5 для продакшна в 2025 году. Часть 1 https://habr.com/ru/companies/timeweb/articles/948036/
     - Настройка Express 5 для продакшна в 2025 году. Часть 2 https://habr.com/ru/companies/timeweb/articles/950022/
 - Typescript
+  - Основное
+    - Карманная книга по TypeScript. Часть 1. Основы https://habr.com/ru/companies/macloud/articles/559902/
+    - Карманная книга по TypeScript. Часть 2. Типы на каждый день https://habr.com/ru/companies/macloud/articles/559976/
+    - Карманная книга по TypeScript. Часть 3. Сужение типов https://habr.com/ru/companies/macloud/articles/560594/
+    - Карманная книга по TypeScript. Часть 4. Подробнее о функциях https://habr.com/ru/companies/macloud/articles/561470/
+    - Карманная книга по TypeScript. Часть 5. Объектные типы https://habr.com/ru/companies/macloud/articles/562054/
+    - Карманная книга по TypeScript. Часть 6. Манипуляции с типами https://habr.com/ru/companies/macloud/articles/562786/
+    - Карманная книга по TypeScript. Часть 7. Классы https://habr.com/ru/companies/macloud/articles/563408/
+    - Карманная книга по TypeScript. Часть 8. Модули https://habr.com/ru/companies/macloud/articles/563722/
   - Enum
     - TypeScript enums: Usage, advantages, and best practices https://blog.logrocket.com/typescript-enum/?ref=dailydev
   - tsconfig
