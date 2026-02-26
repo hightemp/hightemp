@@ -48,6 +48,7 @@
 
 - Мозг
     - Humans learn generalizable representations through efficient coding https://www.nature.com/articles/s41467-025-58848-6
+    - Как ухаживать за мозгом https://habr.com/ru/companies/dododev/articles/511986/
 - Сахар
     - Your brain on sugar: What the science actually says https://theconversation.com/your-brain-on-sugar-what-the-science-actually-says-126581
     - Sugar and Bone Health: What You Need To Know https://www.getwellen.com/well-guide/sugar-and-bone-health-what-you-need-to-know
