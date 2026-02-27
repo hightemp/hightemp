@@ -77,15 +77,15 @@
 
 ### Учебники
 
-- Typescript
+- TypeScript
   - https://code.mu/ru/javascript/typescript/book/prime/#
   - https://www.typescriptlang.org/docs/handbook/intro.html
 
 ### Книги
 
-- Javascript
+- JavaScript
   - Learning JavaScript Design Patterns, Addy Osmani https://patterns.addy.ie/
-- Typescript
+- TypeScript
   - Профессиональный TypeScript. Разработка масштабируемых JavaScript-приложений | Черный Борис
     - Ссылки
       - https://www.ozon.ru/product/professionalnyy-typescript-razrabotka-masshtabiruemyh-javascript-prilozheniy-chernyy-boris-211424677/reviews/
