@@ -180,7 +180,7 @@
   - Essential VS Code Extensions for JavaScript Developers in 2024 https://www.gitkraken.com/blog/vs-code-extensions-for-javascript-developers
   - 10 Must-Have VS Code extensions for JavaScript developers https://towardsthecloud.com/best-vscode-extensions-javascript
 - Системы сборки
-  - Системы сборки Многие гениальные вещи создаются из лени. Системы сборки облегчают жизнь разработчика. https://doka.guide/tools/bundlers/
+  - Системы сборки фронтенда: зачем они нужны и как выбрать https://kurshub.ru/journal/blog/sistemy-sborki-frontenda-zachem-oni-nuzhny-i-kak-vybrat/
 - Библиотеки
   - Ramda
     - Streaming Logs with Transducers and Ramda https://simplectic.com/blog/2015/ramda-transducers-logs/
