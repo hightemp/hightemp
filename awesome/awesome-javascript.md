@@ -79,6 +79,7 @@
 
 - Typescript
   - https://code.mu/ru/javascript/typescript/book/prime/#
+  - https://www.typescriptlang.org/docs/handbook/intro.html
 
 ### Книги
 
