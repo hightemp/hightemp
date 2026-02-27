@@ -96,6 +96,9 @@
 - Что нового
   - ECMAScript 2025
     - ECMAScript 2025: Что нового https://www.dev-notes.ru/articles/javascript/ecmascript-2025-whats-new/
+  - ECMAScript 2024
+    - ECMAScript® 2024 Language Specification https://tc39.es/ecma262/2024/
+    - https://medium.com/@lightblok/основные-нововведения-в-es2024-обзор-последних-изменений-в-спецификации-ecmascript-и-их-da81f7a909fc
   - ECMAScript 6
     - ECMAScript 6 modules: the final https://2ality.com/2014/09/es6-modules-final.html
   - Остальное
@@ -124,8 +127,10 @@
     - \_\_proto\_\_ и prototype https://habr.com/ru/companies/otus/articles/685528/
   - Web Worker; Веб-воркеры
     - Веб-воркеры — многопоточность в JavaScript https://habr.com/ru/articles/915518/
-  - Генераторы
+  - Генераторы; Generators
     - JavaScript Generators Explained, But On A Senior-Level https://www.reactsquad.io/blog/understanding-generators-in-javascript
+  - Pattern Matching
+    - Unlocking the Power of Pattern Matching in JavaScript https://medium.com/@ramajonnada/unlocking-the-power-of-pattern-matching-in-javascript-11b670d102a0
   - ECMAScript
     - UTF-16 https://262.ecma-international.org/7.0/#sec-utf16encoding
   - Дата время; Date
