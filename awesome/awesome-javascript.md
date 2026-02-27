@@ -82,7 +82,13 @@
 
 ### Книги
 
-- Learning JavaScript Design Patterns, Addy Osmani https://patterns.addy.ie/
+- Javascript
+  - Learning JavaScript Design Patterns, Addy Osmani https://patterns.addy.ie/
+- Typescript
+  - Профессиональный TypeScript. Разработка масштабируемых JavaScript-приложений | Черный Борис
+    - Ссылки
+      - https://www.ozon.ru/product/professionalnyy-typescript-razrabotka-masshtabiruemyh-javascript-prilozheniy-chernyy-boris-211424677/reviews/
+      - https://ftp.zhirov.kz/books/IT/JavaScript/TypeScript/Профессиональный%20TypeScript.%20Разработка%20масштабируемых%20JavaScript-приложений%20%28Борис%20Черный%29.pdf
 
 ### Статьи
 
