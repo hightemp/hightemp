@@ -1228,6 +1228,10 @@ https://arxiv.org/pdf/2411.08804v1
 
 - https://github.com/LLAMATOR-Core/ai-agents-security
 
+### RAG
+
+- RAG-Anything — all-in-one фреймворк Retrieval-Augmented Generation для мультимодальной обработки и поиска по документам (текст, изображения, таблицы, формулы) в едином пайплайне, построенный на LightRAG и поддерживающий высокоточное парсинг-извлечение через MinerU. https://github.com/HKUDS/RAG-Anything https://arxiv.org/abs/2510.12323 https://github.com/HKUDS/LightRAG https://github.com/opendatalab/MinerU https://pypi.org/project/raganything/
+
 ### Полезные ссылки
 
 - Sentence Transformers https://huggingface.co/sentence-transformers
