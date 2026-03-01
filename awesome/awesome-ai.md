@@ -1444,6 +1444,7 @@ https://arxiv.org/pdf/2411.08804v1
 ### Skills
 
 - HuggingFace Skills — skills плагин, расширяющий Claude Code, Codex, Gemini и Cursor до уровня ML‑инженера с возможностями обучения и файн-тюнинга моделей, создания датасетов, получения бенчмарков, публикации статей на arXiv через HF Hub и мониторинга обучения через дашборды HF Spaces. https://github.com/huggingface/skills
+- Antigravity Awesome Skills — репозиторий с базой из 860+ устанавливаемых “скиллов” для ИИ-агентов (Claude Code, OpenCode, Gemini CLI, Codex CLI, Antigravity IDE, Copilot, Cursor и др.), покрывающих задачи автоматизации, разработки, кибербезопасности, DevOps, SEO и копирайтинга и вызываемых через @. https://github.com/sickn33/antigravity-awesome-skills
 
 ### Телеграм папки, Telegram folders
 
