@@ -91,6 +91,7 @@
 - OpenRouter — рейтинг популярности и использования моделей. https://openrouter.ai/rankings
 - Hugging Face Spaces — коллекция пространств с общими лидербордами и узкими бенчмарками моделей. https://huggingface.co/spaces?category=model-benchmarking
 - Online-Mind2Web — бенчмарк и онлайн-лидерборд для оценки веб-агентов на «живых» сценариях из 136 сайтов, позволяющий проверять и сравнивать результаты различных систем. https://huggingface.co/spaces/osunlp/Online_Mind2Web_Leaderboard https://arxiv.org/html/2504.01382v4
+- Bullshit Benchmark — бенчмарк, оценивающий, насколько модель умеет распознавать и отмечать бессмыслицу в промптах вместо того, чтобы отвечать на неё (зелёный/жёлтый/красный как уровни корректности реакции). https://github.com/petergpt/bullshit-benchmark https://petergpt.github.io/bullshit-benchmark/viewer/index.html
 
 ### Трекеры новостей
 
