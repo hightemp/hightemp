@@ -30,6 +30,10 @@
 - Crawl4AI — открытый веб-краулер и скрейпер, оптимизированный для работы с большими языковыми моделями, который преобразует интернет-контент в чистый Markdown, готовый к использованию в системах RAG и других потоках данных. https://github.com/unclecode/crawl4ai
 - LLM Scraper — библиотека на TypeScript для извлечения структурированных данных с веб-страниц с использованием LLM, поддерживающая различные модели и обеспечивающая полную типовую безопасность. https://github.com/mishushakov/llm-scraper
 
+### Фреймворки для скрепинга
+
+- Scrapling — адаптивный Python‑фреймворк для современного веб‑скрейпинга и краулинга, который сочетает умный парсинг с «самовосстанавливающимися» селекторами, stealth/динамические fetcher’ы для обхода антибот‑защит (в т.ч. Cloudflare), пауков со скейлингом и ротацией прокси, а также MCP‑сервер для AI‑ассистированного извлечения данных. https://github.com/D4Vinci/Scrapling https://scrapling.readthedocs.io https://pypi.org/project/scrapling/ https://scrapling.readthedocs.io/en/latest/ai/mcp-server/ https://www.youtube.com/watch?v=qyFk3ZNwOxE
+
 ### Сервисы проверки браузера на бота
 
 - https://bot.sannysoft.com/
