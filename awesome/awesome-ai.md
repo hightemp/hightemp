@@ -312,6 +312,10 @@
 - Qoder — бесплатный ИИ-агент от Alibaba, способный писать код и собирать приложения, анализируя проект и кодовую базу, подстраиваясь под стиль написания и выполняя задачи поэтапно. Agentic Coding Platform for Real Software https://qoder.com/
 - Droid — ИИ-агент для кодинга от Factory AI, занявший первое место в бенчмарке Terminal-Bench и превзошедший Claude Code с Codex CLI; умеет дебажить среды разработки, обновлять устаревший код, управлять облачной инфраструктурой, писать документацию и обучать модели, поддерживает кастомизацию через скрипты, MCP и триггеры и работает с любой LLM в интерфейсах CLI, IDE, Slack, Linear, браузере и терминале. https://app.factory.ai/
 
+### Claude Code
+
+- Claude Code Orchestrator Kit — профессиональный набор автоматизации и оркестрации для Claude Code, превращающий его в «оркестратор» с 39 специализированными AI-агентами, библиотекой навыков и slash-командами, авто-оптимизированной конфигурацией MCP и опциональными интеграциями трекинга задач Beads и мультиагентного менеджера Gastown для длительных сессий без потери контекста. https://github.com/maslennikov-ig/claude-code-orchestrator-kit https://www.npmjs.com/package/claude-code-orchestrator-kit https://github.com/steveyegge/beads https://github.com/steveyegge/gastown
+
 ### Поиск по ai инструментам
 
 - https://www.raghut.com/
