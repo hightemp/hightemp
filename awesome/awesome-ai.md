@@ -1716,6 +1716,8 @@ https://arxiv.org/pdf/2411.08804v1
     - Context Engineering - выходя за рамки промтинга в целях давления на ИИ https://simple.ai/p/the-skill-thats-replacing-prompt-engineering
     - The Architecture of LLM-Powered Applications: How It Differs from Conventional Software Architecture https://www.craigrisi.com/post/the-architecture-of-llm-powered-applications-how-it-differs-from-conventional-software-architecture
     - Strategies for Managing Prompt Sensitivity and Model Consistency https://www.prompthub.us/blog/strategies-for-managing-prompt-sensitivity-and-model-consistency-
+- Остальное
+    - Frontier Training — статья о подготовке к собеседованиям в сильные компании. https://djdumpling.github.io/2026/01/31/frontier_training.html
 
 ### Roadmap; Маршрутные карты
 
