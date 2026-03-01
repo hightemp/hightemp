@@ -1367,6 +1367,7 @@ https://arxiv.org/pdf/2411.08804v1
 - Компьютерное зрение https://code.mipt.ru/courses-public/cv/public/-/blob/fall-2024/README.md
 - бесплатный открытый курс по машинному обучению от ODS и Петра Ермакова https://ods.ai/tracks/open-ml-course/about
 - CS224N: Natural Language Processing with Deep Learning Stanford / Winter 2025 https://web.stanford.edu/class/cs224n/
+- Deep Learning — бесплатный курс MIT по глубокому обучению с лекциями Phillip Isola (соавтор CycleGAN), включающий видео, слайды, материалы и домашние задания. https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/video_galleries/lecture-videos/
 
 ### Инструменты для исследований
 
