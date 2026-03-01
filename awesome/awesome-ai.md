@@ -824,6 +824,10 @@
 
 - SVG Differentiable Rendering: Generating vector graphics using neural networks. Support: text-to-SVG, Image-to-SVG, SVG Editing. https://github.com/ximinng/PyTorch-SVGRender
 
+### Создание векторных изображений
+
+- Quiver — веб‑приложение с LLM, генерирующей векторную графику в формате SVG (в том числе с бесплатным лимитом на создание 20 SVG). https://app.quiver.ai
+
 ### Определение кем создано изображение
 
 - aiornot.com — онлайн-сервис детектирования ИИ-картинок. Отлично распознаёт изображения, созданные генеративными моделями (включая MidJourney). https://aiornot.com
