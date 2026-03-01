@@ -315,6 +315,7 @@
 ### Claude Code
 
 - Claude Code Orchestrator Kit — профессиональный набор автоматизации и оркестрации для Claude Code, превращающий его в «оркестратор» с 39 специализированными AI-агентами, библиотекой навыков и slash-командами, авто-оптимизированной конфигурацией MCP и опциональными интеграциями трекинга задач Beads и мультиагентного менеджера Gastown для длительных сессий без потери контекста. https://github.com/maslennikov-ig/claude-code-orchestrator-kit https://www.npmjs.com/package/claude-code-orchestrator-kit https://github.com/steveyegge/beads https://github.com/steveyegge/gastown
+- OwnYourCode — набор протоколов и команд для AI-менторинга разработки, где ИИ обучает, задаёт вопросы и проводит ревью, но весь код пишет разработчик, чтобы результат был понятным, расширяемым и «своим». https://github.com/DanielPodolsky/ownyourcode
 
 ### Поиск по ai инструментам
 
