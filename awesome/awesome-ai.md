@@ -1786,6 +1786,7 @@ https://www.sackett.net/The-Spike.pdf
 - Writing Tools for Agents — гайд Anthropic по созданию эффективных инструментов и MCP‑плагинов для ИИ‑агентов, подключающих ИИ к браузеру, базам данных и фреймворкам, с практиками кодирования с Claude, проверки прототипов, предотвращения ошибок и автоматизации задач. https://www.anthropic.com/engineering/writing-tools-for-agents
 - Гайд Anthropic по эффективному контекст-инженерингу ИИ‑агентов — мастрид о системном подходе к настройке LLM (системные промпты, инструменты и управление окном внимания) для повышения производительности агентов, существенно отличающемся от промпт‑инженеринга. https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
 - Гайд по промптингу для GPT-image-1.5 — официальное руководство с примерами по составлению запросов для генерации изображений (структура промпта, стили/реализм, управление кадром, текст и итеративные правки). https://cookbook.openai.com/examples/multimodal/image-gen-1.5-prompting_guide
+- The Complete Guide to Building Skills for Claude — PDF‑гайд от Anthropic о создании кастомных скиллов для Claude, описывающий полный цикл от планирования и дизайна до тестирования и продакшен‑запуска. https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en
 
 ### Видео
 
