@@ -244,6 +244,7 @@
   - pine
     - Полное руководство по логированию в Node.js с помощью Pino https://habr.com/ru/articles/737982/
   - winston
+    - Winston logger https://nweb42.com/books/koa-js/winston-logger/
 - Архитектура
   - Остальное
     - Как мы приготовили Feature-Sliced Design в VK https://habr.com/ru/companies/vk/articles/831148/
