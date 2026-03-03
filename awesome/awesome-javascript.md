@@ -169,6 +169,8 @@
     - Карманная книга по TypeScript. Часть 6. Манипуляции с типами https://habr.com/ru/companies/macloud/articles/562786/
     - Карманная книга по TypeScript. Часть 7. Классы https://habr.com/ru/companies/macloud/articles/563408/
     - Карманная книга по TypeScript. Часть 8. Модули https://habr.com/ru/companies/macloud/articles/563722/
+  - Компиляция
+    - Компилируем TypeScript в натив: хардкор и мясо https://habr.com/ru/companies/ncloudtech/articles/990666/
   - Enum
     - TypeScript enums: Usage, advantages, and best practices https://blog.logrocket.com/typescript-enum/?ref=dailydev
   - tsconfig
