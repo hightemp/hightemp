@@ -246,6 +246,7 @@
     - Logging in Node.js with Winston and Morgan https://medium.com/@ravibelwal/logging-in-node-js-with-winston-and-morgan-6236ad985ccd
   - pino
     - Полное руководство по логированию в Node.js с помощью Pino https://habr.com/ru/articles/737982/
+    - A Complete Guide to Pino Logging in Node.js https://betterstack.com/community/guides/logging/how-to-install-setup-and-use-pino-to-log-node-js-applications/
   - winston
     - Winston logger https://nweb42.com/books/koa-js/winston-logger/
     - A Complete Guide to Winston Logging in Node.js https://betterstack.com/community/guides/logging/how-to-install-setup-and-use-winston-and-morgan-to-log-node-js-applications/
