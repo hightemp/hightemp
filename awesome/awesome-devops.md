@@ -180,6 +180,8 @@
 - База данных временых рядов
     - InfluxDB
         - The Definitive Guide To InfluxDB In 2019 https://devconnected.com/the-definitive-guide-to-influxdb-in-2019/
+- Observability
+    - Практическое руководство по реализации Observability в DevOps https://habr.com/ru/companies/ruvds/articles/701034/
 - Логирование
     - Лог-коллекторы, Парсинг логов
         - Основное
