@@ -245,6 +245,8 @@
             - GitHub Actions Matrix Strategy: Basics, Tutorial & Best Practices https://codefresh.io/learn/github-actions/github-actions-matrix/
 - Безопасность
     - Повышаем безопасность контейнеров Docker https://habr.com/ru/companies/slurm/articles/320552/
+- Инструменты; Сервисы
+    - 15 онлайн-сервисов, которые должен знать каждый сисадмин https://habr.com/ru/companies/ruvds/articles/1004268/
 - Подборки
     - List of Free & Open Source self hosted Application for SSL Certificate expiration Check https://www.devopsschool.com/blog/list-of-free-open-source-self-hosted-application-for-ssl-certificate-expiration-check/
 
