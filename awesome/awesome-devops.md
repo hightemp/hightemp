@@ -138,6 +138,11 @@
         - Confluent Cloud
     - In-Memory решения с поддержкой потоков
         - Redis Streams
+- Observability
+    - Observability 101: A Beginner's Journey Free of Print Statements https://cloudnativeengineer.substack.com/p/observability-101-free-of-print-statements
+    - Для чего нужен Observability Engineering https://habr.com/ru/companies/slurm/articles/713196/
+    - Observability vs Monitoring: почему в 2025 году это две стороны одной медали https://habr.com/ru/companies/monq/articles/878278/
+    - Практическое руководство по реализации Observability в DevOps https://habr.com/ru/companies/ruvds/articles/701034/
 - Инструментов наблюдаемости (observability tools)
     - Системы распределенной трассировки (distributed tracing systems)
         - Jaeger: open source, distributed tracing platform
@@ -180,8 +185,6 @@
 - База данных временых рядов
     - InfluxDB
         - The Definitive Guide To InfluxDB In 2019 https://devconnected.com/the-definitive-guide-to-influxdb-in-2019/
-- Observability
-    - Практическое руководство по реализации Observability в DevOps https://habr.com/ru/companies/ruvds/articles/701034/
 - Логирование
     - Лог-коллекторы, Парсинг логов
         - Основное
@@ -237,10 +240,6 @@
             - The matrix strategy in GitHub Actions https://runs-on.com/github-actions/the-matrix-strategy/
             - GitHub Actions matrices https://graphite.dev/guides/github-actions-matrix
             - GitHub Actions Matrix Strategy: Basics, Tutorial & Best Practices https://codefresh.io/learn/github-actions/github-actions-matrix/
-- Observability
-    - Observability 101: A Beginner's Journey Free of Print Statements https://cloudnativeengineer.substack.com/p/observability-101-free-of-print-statements
-    - Для чего нужен Observability Engineering https://habr.com/ru/companies/slurm/articles/713196/
-    - Observability vs Monitoring: почему в 2025 году это две стороны одной медали https://habr.com/ru/companies/monq/articles/878278/
 - Безопасность
     - Повышаем безопасность контейнеров Docker https://habr.com/ru/companies/slurm/articles/320552/
 - Подборки
