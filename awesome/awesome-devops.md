@@ -189,6 +189,7 @@
             - Thanos
             - Victoria Metrics
                 - Мониторинг без облака с VictoriaMetrics + Grafana: лёгкая альтернатива https://arenda-server.cloud/blog/monitoring-bez-oblaka-s-victoriametrics-grafana-ljogkaja-alternativa/
+                - VictoriaMetrics и мониторинг приватных облаков. Павел Колобаев https://habr.com/ru/articles/518680/
             - Cortex
         - Остальное
             - Bucketing technique for calculating median and k-th percentile of a large dataset https://medium.com/@mnylen/bucketing-technique-for-calculating-median-and-k-th-percentile-of-a-large-dataset-33199af2538c
