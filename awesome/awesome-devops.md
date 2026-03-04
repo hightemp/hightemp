@@ -183,6 +183,9 @@
             - Basics and best practices for getting started with PromQL https://grafana.com/blog/2021/01/29/basics-and-best-practices-for-getting-started-with-promql/
             - Знакомство с PromQL + Cheatsheet https://habr.com/ru/companies/timeweb/articles/562378/
             - Человеческим языком про метрики 4: PromQL https://habr.com/ru/companies/tochka/articles/693834/
+        - Хранилища данных
+            - Grafana Mimir
+                - Grafana Mimir: remote storage из скандинавской мифологии https://habr.com/ru/companies/kts/articles/775050/
         - Остальное
             - Bucketing technique for calculating median and k-th percentile of a large dataset https://medium.com/@mnylen/bucketing-technique-for-calculating-median-and-k-th-percentile-of-a-large-dataset-33199af2538c
 - База данных временых рядов
