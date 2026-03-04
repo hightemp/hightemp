@@ -194,6 +194,8 @@
 - База данных временых рядов
     - InfluxDB
         - The Definitive Guide To InfluxDB In 2019 https://devconnected.com/the-definitive-guide-to-influxdb-in-2019/
+- Трейсы
+    - Grafana Tempo
 - Логирование
     - Лог-коллекторы, Парсинг логов
         - Основное
