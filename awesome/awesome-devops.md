@@ -188,6 +188,7 @@
                 - Grafana Mimir: remote storage из скандинавской мифологии https://habr.com/ru/companies/kts/articles/775050/
             - Thanos
             - Victoria Metrics
+                - Мониторинг без облака с VictoriaMetrics + Grafana: лёгкая альтернатива https://arenda-server.cloud/blog/monitoring-bez-oblaka-s-victoriametrics-grafana-ljogkaja-alternativa/
             - Cortex
         - Остальное
             - Bucketing technique for calculating median and k-th percentile of a large dataset https://medium.com/@mnylen/bucketing-technique-for-calculating-median-and-k-th-percentile-of-a-large-dataset-33199af2538c
