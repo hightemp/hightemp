@@ -188,6 +188,7 @@
                 - Grafana Mimir: remote storage из скандинавской мифологии https://habr.com/ru/companies/kts/articles/775050/
             - Thanos
             - Victoria Metrics
+                - Анализ проекта VictoriaMetrics https://habr.com/ru/articles/971872/
                 - Мониторинг без облака с VictoriaMetrics + Grafana: лёгкая альтернатива https://arenda-server.cloud/blog/monitoring-bez-oblaka-s-victoriametrics-grafana-ljogkaja-alternativa/
                 - VictoriaMetrics и мониторинг приватных облаков. Павел Колобаев https://habr.com/ru/articles/518680/
             - Cortex
