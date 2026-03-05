@@ -59,6 +59,10 @@
 
 - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. https://github.com/owasp-modsecurity/ModSecurity
 
+### Обучающие материалы
+
+- PwnPad — открытая аппаратная учебная платформа для изучения hardware hacking и безопасности встроенных систем через набор практических челленджей (UART/I2C/SPI, дамп прошивок, fault injection, side-channel) с переключением заданий джамперами и документацией по сборке и прохождению. https://github.com/twelvesec/PwnPad https://github.com/twelvesec/PwnPadWiki/wiki https://www.youtube.com/watch?v=uaiB-Esttt4
+
 ### Книги
 
 - Computer Security https://textbook.cs161.org/
