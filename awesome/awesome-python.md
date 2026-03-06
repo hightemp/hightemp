@@ -23,12 +23,14 @@
 
 ### Статьи
 
-- sticky sessions
-    - Липкие сессии для самых маленьких [Часть 1] https://habr.com/ru/companies/domclick/articles/548610/
-- SQLAlchemy
-    - Асинхронный SQLAlchemy 2: простой пошаговый гайд по настройке, моделям, связям и миграциям с использованием Alembic https://habr.com/ru/companies/amvera/articles/849836/
-    - Асинхронный SQLAlchemy 2: пошаговый гайд по управлению сессиями, добавлению и извлечению данных с Pydantic https://habr.com/ru/companies/amvera/articles/850470/
-- Валидация данных
+- Балансировка нагрузки и управление сессиями
+    - sticky sessions
+        - Липкие сессии для самых маленьких [Часть 1] https://habr.com/ru/companies/domclick/articles/548610/
+- ORM и работа с базой данных; БД
+    - SQLAlchemy
+        - Асинхронный SQLAlchemy 2: простой пошаговый гайд по настройке, моделям, связям и миграциям с использованием Alembic https://habr.com/ru/companies/amvera/articles/849836/
+        - Асинхронный SQLAlchemy 2: пошаговый гайд по управлению сессиями, добавлению и извлечению данных с Pydantic https://habr.com/ru/companies/amvera/articles/850470/
+- Валидация и сериализация данных
     - Pydantic
         - Pydantic 2: Полное руководство для Python-разработчиков — от основ до продвинутых техник https://habr.com/ru/companies/amvera/articles/851642/
         - Pydantic: A Guide With Practical Examples https://www.datacamp.com/tutorial/pydantic
