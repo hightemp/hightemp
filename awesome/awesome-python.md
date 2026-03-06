@@ -28,9 +28,10 @@
 - SQLAlchemy
     - Асинхронный SQLAlchemy 2: простой пошаговый гайд по настройке, моделям, связям и миграциям с использованием Alembic https://habr.com/ru/companies/amvera/articles/849836/
     - Асинхронный SQLAlchemy 2: пошаговый гайд по управлению сессиями, добавлению и извлечению данных с Pydantic https://habr.com/ru/companies/amvera/articles/850470/
-- Pydantic
-    - Pydantic 2: Полное руководство для Python-разработчиков — от основ до продвинутых техник https://habr.com/ru/companies/amvera/articles/851642/
-    - Pydantic: A Guide With Practical Examples https://www.datacamp.com/tutorial/pydantic
+- Валидация
+    - Pydantic
+        - Pydantic 2: Полное руководство для Python-разработчиков — от основ до продвинутых техник https://habr.com/ru/companies/amvera/articles/851642/
+        - Pydantic: A Guide With Practical Examples https://www.datacamp.com/tutorial/pydantic
 - Alembic
     - Основное
         - Создаем начальную миграцию с alembic для существующей базы https://habr.com/ru/articles/585228/
