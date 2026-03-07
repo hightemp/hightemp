@@ -138,7 +138,10 @@
     - JS Dates Are About to Be Fixed https://docs.timetime.in/blog/js-dates-finally-fixed/
     - How to Sort an Object Array by Date in JavaScript: A Complete Guide https://www.mbloging.com/post/how-to-sort-an-object-array-by-date-in-javascript-a-complete-guide
   - V8
-    - Inside the V8 JavaScript Engine https://www.thenodebook.com/node-arch/v8-engine-intro#tldr
+    - Основное
+      - Inside the V8 JavaScript Engine https://www.thenodebook.com/node-arch/v8-engine-intro#tldr
+    - Ingnition
+      - Firing up the Ignition interpreter https://v8.dev/blog/ignition-interpreter
   - Остальное
     - How Does Node.js Achieve Concurrency? https://hackernoon.com/how-does-nodejs-achieve-concurrency
     - Глубокий JS. В память о типах и данных https://habr.com/ru/articles/774548/
