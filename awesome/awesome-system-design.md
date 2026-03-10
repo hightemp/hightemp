@@ -191,7 +191,7 @@
     - Проблемы
         - Thundering Herd; cache stampede; dog-piling
             - The Thundering Herd Problem: Taming the Stampede in Distributed Systems https://hackernoon.com/the-thundering-herd-problem-taming-the-stampede-in-distributed-systems
-        - The Thundering Herd Problem https://stenzr.medium.com/the-thundering-herd-problem-2d19e9492cbc
+            - The Thundering Herd Problem https://stenzr.medium.com/the-thundering-herd-problem-2d19e9492cbc
     - Остальное
         - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
         - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
