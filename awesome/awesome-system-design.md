@@ -175,6 +175,8 @@
         - Least Privilege Pattern
     - Остальное
         - Microservices Design Patterns https://www.geeksforgeeks.org/microservices-design-patterns/
+- Thundering Herd; cache stampede; dog-piling
+    - The Thundering Herd Problem: Taming the Stampede in Distributed Systems https://hackernoon.com/the-thundering-herd-problem-taming-the-stampede-in-distributed-systems
 - Two Phase Locking (2PL)
     - Distributed Systems: Two-Phase Locking for Data Consistency https://medium.com/@aroshelova.tech/distributed-systems-two-phase-locking-for-data-consistency-7929c841a9ac
     - Introduction to Two-Phase Locking (2PL) https://www.educative.io/courses/grokking-the-principles-and-practices-of-advanced-system-design/introduction-to-two-phase-locking-2pl
