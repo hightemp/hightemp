@@ -190,6 +190,7 @@
         - Building A "Simple" Distributed System - The Implementation https://jack-vanlightly.com/blog/2019/2/1/building-a-simple-distributed-system-the-implementation
     - Проблемы
         - Thundering Herd; cache stampede; dog-piling
+            - Week 4 — Day 3: Thundering Herd System Design Mastery Series https://www.himanshukukreja.in/learn/system-design-mastery/week-04-caching/day-03-thundering-herd
             - The Thundering Herd Problem: Taming the Stampede in Distributed Systems https://hackernoon.com/the-thundering-herd-problem-taming-the-stampede-in-distributed-systems
             - The Thundering Herd Problem https://stenzr.medium.com/the-thundering-herd-problem-2d19e9492cbc
     - Остальное
