@@ -97,9 +97,6 @@
     - What is the CAP theorem? https://www.ibm.com/topics/cap-theorem
     - Brewer’s CAP Theorem https://www.geeksforgeeks.org/brewers-cap-theorem/
     - CAP Theorem & Strategies for Distributed Systems https://www.splunk.com/en_us/blog/learn/cap-theorem.html
-- Распределенные системы
-    - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
-    - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
 - Базы данных, databases
     - SQL vs NoSQL: Which Database to Choose in System Design? https://www.geeksforgeeks.org/which-database-to-choose-while-designing-a-system-sql-or-nosql/
     - SQL vs NoSQL https://learnsystemdesign.blogspot.com/2019/09/sql-vs-nosql.html
@@ -195,6 +192,9 @@
         - Thundering Herd; cache stampede; dog-piling
             - The Thundering Herd Problem: Taming the Stampede in Distributed Systems https://hackernoon.com/the-thundering-herd-problem-taming-the-stampede-in-distributed-systems
         - The Thundering Herd Problem https://stenzr.medium.com/the-thundering-herd-problem-2d19e9492cbc
+    - Остальное
+        - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
+        - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
 - REST
     - Richardson Maturity Model https://martinfowler.com/articles/richardsonMaturityModel.html
 - Архитектура
