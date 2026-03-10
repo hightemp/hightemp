@@ -193,6 +193,7 @@
             - Week 4 — Day 3: Thundering Herd System Design Mastery Series https://www.himanshukukreja.in/learn/system-design-mastery/week-04-caching/day-03-thundering-herd
             - The Thundering Herd Problem: Taming the Stampede in Distributed Systems https://hackernoon.com/the-thundering-herd-problem-taming-the-stampede-in-distributed-systems
             - The Thundering Herd Problem https://stenzr.medium.com/the-thundering-herd-problem-2d19e9492cbc
+            - The Thundering Herd Problem https://encore.dev/blog/thundering-herd-problem
     - Остальное
         - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
         - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
