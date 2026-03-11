@@ -36,6 +36,7 @@
         - Pydantic: A Guide With Practical Examples https://www.datacamp.com/tutorial/pydantic
         - Библиотека Pydantic: валидация данных на Python https://pythonist.ru/biblioteka-pydantic-validacziya-dannyh-na-python/
         - Руководство по Pydantic для новичков Пакет Python для анализа и проверки данных https://ichi.pro/ru/rukovodstvo-po-pydantic-dla-novickov-204731199577737
+        - Pydantic https://ege-soch.ru/pydantic/
 - Инструменты миграций базы данных
     - Alembic
         - Основное
