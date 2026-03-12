@@ -137,6 +137,9 @@
   - Дата время; Date
     - JS Dates Are About to Be Fixed https://docs.timetime.in/blog/js-dates-finally-fixed/
     - How to Sort an Object Array by Date in JavaScript: A Complete Guide https://www.mbloging.com/post/how-to-sort-an-object-array-by-date-in-javascript-a-complete-guide
+  - setImmediate
+    - Boosting Node.js Throughput with setImmediate https://dev.to/rajajaganathan/boosting-nodejs-throughput-with-setimmediate-9ba
+    - Understanding setImmediate() https://nodejs.org/en/learn/asynchronous-work/understanding-setimmediate
   - V8
     - Основное
       - Inside the V8 JavaScript Engine https://www.thenodebook.com/node-arch/v8-engine-intro#tldr
