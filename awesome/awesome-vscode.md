@@ -6,4 +6,7 @@
 
 ### Статьи
 
-- VS Code: 5 интересных функций и расширений, меняющих подход к разработке https://habr.com/ru/articles/930926/
+- Dev Containers
+    - Освоение Dev Containers в VS Code https://www.glukhov.org/ru/post/2025/10/vs-code-dev-containers/
+- Подборки
+    - VS Code: 5 интересных функций и расширений, меняющих подход к разработке https://habr.com/ru/articles/930926/
