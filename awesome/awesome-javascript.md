@@ -142,6 +142,7 @@
     - Understanding setImmediate() https://nodejs.org/en/learn/asynchronous-work/understanding-setimmediate
   - worker_threads
     - Node.js v25.8.1 documentation https://nodejs.org/api/worker_threads.html
+    - Node.js multithreading with worker threads series: worker_threads tutorial https://snyk.io/blog/node-js-multithreading-with-worker-threads/
   - V8
     - Основное
       - Inside the V8 JavaScript Engine https://www.thenodebook.com/node-arch/v8-engine-intro#tldr
