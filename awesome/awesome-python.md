@@ -32,6 +32,7 @@
         - Асинхронный SQLAlchemy 2: пошаговый гайд по управлению сессиями, добавлению и извлечению данных с Pydantic https://habr.com/ru/companies/amvera/articles/850470/
 - Валидация и сериализация данных
     - Pydantic
+        - Pydantic: Simplifying Data Validation in Python https://realpython.com/python-pydantic/
         - Пидантик https://pydantic.com.cn/ru
         - Pydantic 2: Полное руководство для Python-разработчиков — от основ до продвинутых техник https://habr.com/ru/companies/amvera/articles/851642/
         - Pydantic: A Guide With Practical Examples https://www.datacamp.com/tutorial/pydantic
