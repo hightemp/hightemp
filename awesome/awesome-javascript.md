@@ -140,6 +140,8 @@
   - setImmediate
     - Boosting Node.js Throughput with setImmediate https://dev.to/rajajaganathan/boosting-nodejs-throughput-with-setimmediate-9ba
     - Understanding setImmediate() https://nodejs.org/en/learn/asynchronous-work/understanding-setimmediate
+  - worker_threads
+    - Node.js v25.8.1 documentation https://nodejs.org/api/worker_threads.html
   - V8
     - Основное
       - Inside the V8 JavaScript Engine https://www.thenodebook.com/node-arch/v8-engine-intro#tldr
