@@ -33,7 +33,6 @@
 - Валидация и сериализация данных
     - Pydantic
         - Pydantic: Simplifying Data Validation in Python https://realpython.com/python-pydantic/
-        - Пидантик https://pydantic.com.cn/ru
         - Pydantic 2: Полное руководство для Python-разработчиков — от основ до продвинутых техник https://habr.com/ru/companies/amvera/articles/851642/
         - Pydantic: A Guide With Practical Examples https://www.datacamp.com/tutorial/pydantic
         - Библиотека Pydantic: валидация данных на Python https://pythonist.ru/biblioteka-pydantic-validacziya-dannyh-na-python/
