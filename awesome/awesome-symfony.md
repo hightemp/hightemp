@@ -206,6 +206,7 @@
         - How to Register custom DQL Functions https://symfony.com/doc/current/doctrine/custom_dql_functions.html
       - Индексы
         - Как создать уникальные индексы в Doctrine и MySQL: Полное руководство https://skibardin.ru/kak-sozdat-unikalnye-indeksy-doctrine-mysql/
+        - Ignore custom indexes on Doctrine DBAL 4 https://dev.to/indragunawan/ignore-custom-indexes-on-doctrine-dbal-4-387j
       - MongoDB
         - Multiple class inheritance with Doctrine ODM in Symfony: One collection for multiple document types https://medium.com/enekochan/multiple-class-inheritance-with-doctrine-odm-in-symfony-one-collection-for-multiple-document-types-ccab8cef0f05
       - JSON
