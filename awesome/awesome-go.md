@@ -1409,6 +1409,7 @@
         - A story about Go http.Client https://www.jacoelho.com/blog/2017/08/a-story-about-go-http.client/
         - HTTP Connection reuse in Go clients https://blog.cubieserver.de/2022/http-connection-reuse-in-go-clients/
         - Пишем web-фреймворк на Go: как работают современные web-фреймворки под капотом https://habr.com/ru/articles/902496/
+        - Создание HTTP-сервера https://learning.infoteam.msk.ru/Go/Yandex/Лекции/Часть%201/3%20Спринт1/1%20Пакет%20nethttp.%20Работа%20с%20HTTP/3%20Создание%20HTTP-сервера.html
     - TCP-соединение; TCP Connections
       - SetLinger
         - Forcefully Closing TCP Connections in Golang https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6
