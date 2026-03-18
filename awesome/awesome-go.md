@@ -1511,6 +1511,13 @@
       - Go Tips & Common Mistakes - Go HTTP File Upload and Download https://bytegoblin.io/blog/go-tips-common-mistakes.mdx
     - Остальное
       - Golang HTTP server: basics https://medium.com/@bartosz.piekny/golang-http-server-basics-6936ddab7474
+  - REST сервер
+    - Разработка REST-серверов на Go. Часть 1: стандартная библиотека https://habr.com/ru/companies/ruvds/articles/559816/
+    - Разработка REST-серверов на Go. Часть 2: применение маршрутизатора gorilla/mux https://habr.com/ru/companies/ruvds/articles/561108/
+    - Разработка REST-серверов на Go. Часть 3: использование веб-фреймворка Gin https://habr.com/ru/companies/ruvds/articles/562878/
+    - Разработка REST-серверов на Go. Часть 4: применение OpenAPI и Swagger https://habr.com/ru/companies/ruvds/articles/564508/
+    - Разработка REST-серверов на Go. Часть 5: Middleware https://habr.com/ru/companies/ruvds/articles/566198/
+    - Разработка REST-серверов на Go. Часть 6: аутентификация https://habr.com/ru/companies/ruvds/articles/567280/
   - Остальное
     - Асинхронный веб: WebSocket, Server-Sent Events, Long Polling и Short Polling https://habr.com/ru/articles/812693/
     - Technical Deep-Dive- Scaling a High-Throughput Go Application https://swatimodi.com/posts/technical-deep-dive-scaling-go-app/
