@@ -1374,6 +1374,8 @@
     - net/http
       - Основное
         - net/http: Разбираем работу сервера «под капотом» https://habr.com/ru/articles/919348/
+        - Разбираем net/http на практике: пишем веб-сервис DeadDrop для безопасного обмена сообщениями https://habr.com/ru/articles/981356/
+        - Разбираем net/http на практике. Часть 2.1: POST, файлы и in-memory хранилище https://habr.com/ru/articles/1011028/
       - Cookie
         - Как работать с cookie в Go: безопасное хранение и управление сессиями https://habr.com/ru/articles/887014/
         - The Simple Guide to Cookies in Golang: Create, Read, and Delete https://medium.com/@adrilukman73/the-simple-guide-to-cookies-in-golang-create-read-and-delete-a5397732b04b
