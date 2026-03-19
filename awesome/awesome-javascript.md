@@ -167,7 +167,9 @@
   - Остальное
     - Understanding memory leaks in Node.js apps https://blog.logrocket.com/understanding-memory-leaks-node-js-apps/
     - Memory Leaks Demystified https://nodesource.com/blog/memory-leaks-demystified
-- Express
+- Express; expressjs
+  - Пример проекта
+    - How to set up TypeScript with Node.js and Express https://blog.logrocket.com/express-typescript-node/
   - Остальное
     - Создание REST API с помощью TypeScript и Express https://ru.sharpcoderblog.com/blog/building-a-rest-api-with-typescript-and-express
     - Как настроить проект Node.js с TypeScript и Express https://blog.openreplay.com/ru/настроить-nodejs-typescript-express/
