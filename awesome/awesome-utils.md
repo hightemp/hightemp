@@ -16,3 +16,8 @@
 - Проект Lurk - это простая и удобная альтернатива strace, позволяющая отслеживать системные вызовы процесса или команды с цветной и форматированной выводом, поддержкой JSON и определенным набором флагов strace для фильтрации и обработки данных.
   - rust
   - https://github.com/JakWai01/lurk
+
+### Статьи
+
+- Подборки
+  - 27 Rust-based alternatives to classic CLI apps https://dev.to/lingodotdev/27-rust-based-alternatives-to-classic-cli-apps-2350
