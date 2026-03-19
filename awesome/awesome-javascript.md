@@ -94,13 +94,17 @@
 ### Статьи
 
 - Что нового
-  - ECMAScript 2025
-    - ECMAScript 2025: Что нового https://www.dev-notes.ru/articles/javascript/ecmascript-2025-whats-new/
-  - ECMAScript 2024
-    - ECMAScript® 2024 Language Specification https://tc39.es/ecma262/2024/
-    - https://medium.com/@lightblok/основные-нововведения-в-es2024-обзор-последних-изменений-в-спецификации-ecmascript-и-их-da81f7a909fc
-  - ECMAScript 6
-    - ECMAScript 6 modules: the final https://2ality.com/2014/09/es6-modules-final.html
+  - ECMAScript
+    - ECMAScript 2025
+      - ECMAScript 2025: Что нового https://www.dev-notes.ru/articles/javascript/ecmascript-2025-whats-new/
+    - ECMAScript 2024
+      - ECMAScript® 2024 Language Specification https://tc39.es/ecma262/2024/
+      - https://medium.com/@lightblok/основные-нововведения-в-es2024-обзор-последних-изменений-в-спецификации-ecmascript-и-их-da81f7a909fc
+    - ECMAScript 6
+      - ECMAScript 6 modules: the final https://2ality.com/2014/09/es6-modules-final.html
+  - Nodejs
+    - Nodejs 25
+      - Вышла Node.js 25 https://habr.com/ru/news/957966/
   - Остальное
     - Frontend в 2025 году: тренды, которые изменят разработку https://habr.com/ru/companies/usetech/articles/866268/
 - Основы
