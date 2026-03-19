@@ -102,9 +102,11 @@
       - https://medium.com/@lightblok/основные-нововведения-в-es2024-обзор-последних-изменений-в-спецификации-ecmascript-и-их-da81f7a909fc
     - ECMAScript 6
       - ECMAScript 6 modules: the final https://2ality.com/2014/09/es6-modules-final.html
-  - Nodejs
-    - Nodejs 25
+  - Node.js
+    - Node.js 25
       - Вышла Node.js 25 https://habr.com/ru/news/957966/
+    - Node.js 24
+      - Вышла Node.js 24 https://habr.com/ru/news/907478/
   - Остальное
     - Frontend в 2025 году: тренды, которые изменят разработку https://habr.com/ru/companies/usetech/articles/866268/
 - Основы
