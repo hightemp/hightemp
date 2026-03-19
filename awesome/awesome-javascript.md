@@ -109,6 +109,7 @@
       - Node.js 24.0.0 (Current) https://nodejs.org/en/blog/release/v24.0.0
       - Вышла Node.js 24 https://habr.com/ru/news/907478/
       - What's New in Node.js 24 https://blog.appsignal.com/2025/05/09/whats-new-in-nodejs-24.html
+      - Node.js 24 is here: What’s new and what to expect https://blog.logrocket.com/node-js-24-new/
     - Node.js 22
       - Вышла Node.js 22 https://habr.com/ru/news/810371/
   - Остальное
