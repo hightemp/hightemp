@@ -164,6 +164,8 @@
     - Исправить проблемы с памятью https://developer.chrome.com/docs/devtools/memory-problems?hl=ru
     - Taming The Unicorn: Easing JavaScript Memory Profiling In Chrome DevTools https://addyosmani.com/blog/taming-the-unicorn-easing-javascript-memory-profiling-in-devtools/
 - Node.js
+  - URLPattern API
+    - URLPattern API как «роутер без фреймворка» (браузер + Node 24) https://habr.com/ru/companies/otus/articles/950140/
   - Debug
     - Debugging Node.js with Chrome DevTools https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
   - Stream
