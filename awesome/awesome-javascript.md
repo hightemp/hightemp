@@ -108,6 +108,7 @@
     - Node.js 24
       - Node.js 24.0.0 (Current) https://nodejs.org/en/blog/release/v24.0.0
       - Вышла Node.js 24 https://habr.com/ru/news/907478/
+      - What's New in Node.js 24 https://blog.appsignal.com/2025/05/09/whats-new-in-nodejs-24.html
   - Остальное
     - Frontend в 2025 году: тренды, которые изменят разработку https://habr.com/ru/companies/usetech/articles/866268/
 - Основы
