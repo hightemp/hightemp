@@ -113,6 +113,7 @@
     - Node.js 22
       - Node.js 22 is now available! https://nodejs.org/en/blog/announcements/v22-release-announce
       - Вышла Node.js 22 https://habr.com/ru/news/810371/
+      - What's New in Node.js 22 https://blog.appsignal.com/2024/05/07/whats-new-in-nodejs-22.html
   - Остальное
     - Frontend в 2025 году: тренды, которые изменят разработку https://habr.com/ru/companies/usetech/articles/866268/
 - Основы
