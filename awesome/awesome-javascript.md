@@ -106,6 +106,7 @@
     - Node.js 25
       - Вышла Node.js 25 https://habr.com/ru/news/957966/
     - Node.js 24
+      - Node.js 24.0.0 (Current) https://nodejs.org/en/blog/release/v24.0.0
       - Вышла Node.js 24 https://habr.com/ru/news/907478/
   - Остальное
     - Frontend в 2025 году: тренды, которые изменят разработку https://habr.com/ru/companies/usetech/articles/866268/
