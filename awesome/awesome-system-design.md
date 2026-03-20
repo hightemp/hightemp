@@ -97,9 +97,6 @@
     - What is the CAP theorem? https://www.ibm.com/topics/cap-theorem
     - Brewer’s CAP Theorem https://www.geeksforgeeks.org/brewers-cap-theorem/
     - CAP Theorem & Strategies for Distributed Systems https://www.splunk.com/en_us/blog/learn/cap-theorem.html
-- Распределенные системы
-    - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
-    - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
 - Базы данных, databases
     - SQL vs NoSQL: Which Database to Choose in System Design? https://www.geeksforgeeks.org/which-database-to-choose-while-designing-a-system-sql-or-nosql/
     - SQL vs NoSQL https://learnsystemdesign.blogspot.com/2019/09/sql-vs-nosql.html
@@ -186,10 +183,20 @@
     - Distributed Transactions https://www.karanpratapsingh.com/courses/system-design/distributed-transactions
     - Two-phase commit protocol https://www.manojphadnis.net/service-oriented-architecture/two-phase-commit-protocol 
 - Distributed system, Распределенные системы
-    - Building A "Simple" Distributed System - The What https://jack-vanlightly-ay5j.squarespace.com/blog/2019/1/25/building-a-simple-distributed-system-the-what
-    - Building A "Simple" Distributed System - The Protocol https://jack-vanlightly.com/blog/2019/1/27/building-a-simple-distributed-system-the-protocol
-    - Building A "Simple" Distributed System - Formal Verification https://jack-vanlightly.com/blog/2019/1/27/building-a-simple-distributed-system-formal-verification
-    - Building A "Simple" Distributed System - The Implementation https://jack-vanlightly.com/blog/2019/2/1/building-a-simple-distributed-system-the-implementation
+    - Основное
+        - Building A "Simple" Distributed System - The What https://jack-vanlightly-ay5j.squarespace.com/blog/2019/1/25/building-a-simple-distributed-system-the-what
+        - Building A "Simple" Distributed System - The Protocol https://jack-vanlightly.com/blog/2019/1/27/building-a-simple-distributed-system-the-protocol
+        - Building A "Simple" Distributed System - Formal Verification https://jack-vanlightly.com/blog/2019/1/27/building-a-simple-distributed-system-formal-verification
+        - Building A "Simple" Distributed System - The Implementation https://jack-vanlightly.com/blog/2019/2/1/building-a-simple-distributed-system-the-implementation
+    - Проблемы
+        - Thundering Herd; cache stampede; dog-piling
+            - Week 4 — Day 3: Thundering Herd System Design Mastery Series https://www.himanshukukreja.in/learn/system-design-mastery/week-04-caching/day-03-thundering-herd
+            - The Thundering Herd Problem: Taming the Stampede in Distributed Systems https://hackernoon.com/the-thundering-herd-problem-taming-the-stampede-in-distributed-systems
+            - The Thundering Herd Problem https://stenzr.medium.com/the-thundering-herd-problem-2d19e9492cbc
+            - The Thundering Herd Problem https://encore.dev/blog/thundering-herd-problem
+    - Остальное
+        - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
+        - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
 - REST
     - Richardson Maturity Model https://martinfowler.com/articles/richardsonMaturityModel.html
 - Архитектура

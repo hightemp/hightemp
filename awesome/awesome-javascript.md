@@ -94,13 +94,26 @@
 ### Статьи
 
 - Что нового
-  - ECMAScript 2025
-    - ECMAScript 2025: Что нового https://www.dev-notes.ru/articles/javascript/ecmascript-2025-whats-new/
-  - ECMAScript 2024
-    - ECMAScript® 2024 Language Specification https://tc39.es/ecma262/2024/
-    - https://medium.com/@lightblok/основные-нововведения-в-es2024-обзор-последних-изменений-в-спецификации-ecmascript-и-их-da81f7a909fc
-  - ECMAScript 6
-    - ECMAScript 6 modules: the final https://2ality.com/2014/09/es6-modules-final.html
+  - ECMAScript
+    - ECMAScript 2025
+      - ECMAScript 2025: Что нового https://www.dev-notes.ru/articles/javascript/ecmascript-2025-whats-new/
+    - ECMAScript 2024
+      - ECMAScript® 2024 Language Specification https://tc39.es/ecma262/2024/
+      - https://medium.com/@lightblok/основные-нововведения-в-es2024-обзор-последних-изменений-в-спецификации-ecmascript-и-их-da81f7a909fc
+    - ECMAScript 6
+      - ECMAScript 6 modules: the final https://2ality.com/2014/09/es6-modules-final.html
+  - Node.js
+    - Node.js 25
+      - Вышла Node.js 25 https://habr.com/ru/news/957966/
+    - Node.js 24
+      - Node.js 24.0.0 (Current) https://nodejs.org/en/blog/release/v24.0.0
+      - Вышла Node.js 24 https://habr.com/ru/news/907478/
+      - What's New in Node.js 24 https://blog.appsignal.com/2025/05/09/whats-new-in-nodejs-24.html
+      - Node.js 24 is here: What’s new and what to expect https://blog.logrocket.com/node-js-24-new/
+    - Node.js 22
+      - Node.js 22 is now available! https://nodejs.org/en/blog/announcements/v22-release-announce
+      - Вышла Node.js 22 https://habr.com/ru/news/810371/
+      - What's New in Node.js 22 https://blog.appsignal.com/2024/05/07/whats-new-in-nodejs-22.html
   - Остальное
     - Frontend в 2025 году: тренды, которые изменят разработку https://habr.com/ru/companies/usetech/articles/866268/
 - Основы
@@ -137,6 +150,14 @@
   - Дата время; Date
     - JS Dates Are About to Be Fixed https://docs.timetime.in/blog/js-dates-finally-fixed/
     - How to Sort an Object Array by Date in JavaScript: A Complete Guide https://www.mbloging.com/post/how-to-sort-an-object-array-by-date-in-javascript-a-complete-guide
+  - setImmediate
+    - Boosting Node.js Throughput with setImmediate https://dev.to/rajajaganathan/boosting-nodejs-throughput-with-setimmediate-9ba
+    - Understanding setImmediate() https://nodejs.org/en/learn/asynchronous-work/understanding-setimmediate
+  - worker_threads
+    - Node.js v25.8.1 documentation https://nodejs.org/api/worker_threads.html
+    - Node.js multithreading with worker threads series: worker_threads tutorial https://snyk.io/blog/node-js-multithreading-with-worker-threads/
+    - Node.js Worker Threads Module https://www.w3schools.com/nodejs/nodejs_worker_threads.asp
+    - Node.js Worker Threads Explained (Without the Headache) https://last9.io/blog/understanding-worker-threads-in-node-js/
   - V8
     - Основное
       - Inside the V8 JavaScript Engine https://www.thenodebook.com/node-arch/v8-engine-intro#tldr
@@ -150,6 +171,8 @@
     - Исправить проблемы с памятью https://developer.chrome.com/docs/devtools/memory-problems?hl=ru
     - Taming The Unicorn: Easing JavaScript Memory Profiling In Chrome DevTools https://addyosmani.com/blog/taming-the-unicorn-easing-javascript-memory-profiling-in-devtools/
 - Node.js
+  - URLPattern API
+    - URLPattern API как «роутер без фреймворка» (браузер + Node 24) https://habr.com/ru/companies/otus/articles/950140/
   - Debug
     - Debugging Node.js with Chrome DevTools https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
   - Stream
@@ -159,7 +182,9 @@
   - Остальное
     - Understanding memory leaks in Node.js apps https://blog.logrocket.com/understanding-memory-leaks-node-js-apps/
     - Memory Leaks Demystified https://nodesource.com/blog/memory-leaks-demystified
-- Express
+- Express; expressjs
+  - Пример проекта
+    - How to set up TypeScript with Node.js and Express https://blog.logrocket.com/express-typescript-node/
   - Остальное
     - Создание REST API с помощью TypeScript и Express https://ru.sharpcoderblog.com/blog/building-a-rest-api-with-typescript-and-express
     - Как настроить проект Node.js с TypeScript и Express https://blog.openreplay.com/ru/настроить-nodejs-typescript-express/

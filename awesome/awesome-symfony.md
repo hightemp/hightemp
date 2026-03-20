@@ -48,6 +48,9 @@
   - DtcGridBundle - это Symfony бандл для генерации настраиваемых интерактивных таблиц данных из сущностей Doctrine ORM или MongoDB Documents с поддержкой различных JavaScript-библиотек (jQuery DataTables, jqGrid) и возможностью стилизации через Bootstrap. Datagrid for Symfony 2/3/4/5 https://github.com/mmucklo/DtcGridBundle 
   - Symfony DataTables Bundle - это инструмент интеграции jQuery-библиотеки DataTables с фреймворком Symfony 6.4+, который обеспечивает создание интерактивных Ajax-таблиц с поддержкой различных источников данных (Doctrine ORM, MongoDB, Elastica) через систему адаптеров и возможностью реализации собственных коннекторов. https://github.com/omines/datatables-bundle
   - Kibatic Datagrid Bundle - это пакет для фреймворка Symfony, предоставляющий гибкие инструменты для создания настраиваемых таблиц данных (datagrid) с поддержкой пагинации, сортировки, фильтрации, пакетных действий и Bootstrap-тем, основанный на Doctrine ORM. https://github.com/kibatic/datagrid-bundle
+- Database
+  - Doctrine
+    - DoctrineMySQLComeBack — библиотека для Doctrine DBAL, которая решает проблему "MySQL has gone away" путем предоставления обёртки драйвера с автоматическим переподключением к серверу базы данных, при этом избегая переподключения во время транзакций и операций записи для обеспечения консистентности данных. https://github.com/facile-it/doctrine-mysql-come-back
 - Логирование
   - DakenReleaseProfilerBundle — это инструмент для Symfony, обеспечивающий комплексное логирование и профилирование HTTP-запросов, ответов сервера, SQL-запросов к базе данных и ошибок с возможностью их мониторинга через Slack и административную панель SonataAdmin. https://github.com/dakenf/ReleaseProfilerBundle
 - Остальное
@@ -206,6 +209,7 @@
         - How to Register custom DQL Functions https://symfony.com/doc/current/doctrine/custom_dql_functions.html
       - Индексы
         - Как создать уникальные индексы в Doctrine и MySQL: Полное руководство https://skibardin.ru/kak-sozdat-unikalnye-indeksy-doctrine-mysql/
+        - Ignore custom indexes on Doctrine DBAL 4 https://dev.to/indragunawan/ignore-custom-indexes-on-doctrine-dbal-4-387j
       - MongoDB
         - Multiple class inheritance with Doctrine ODM in Symfony: One collection for multiple document types https://medium.com/enekochan/multiple-class-inheritance-with-doctrine-odm-in-symfony-one-collection-for-multiple-document-types-ccab8cef0f05
       - JSON

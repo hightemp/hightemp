@@ -1374,6 +1374,8 @@
     - net/http
       - Основное
         - net/http: Разбираем работу сервера «под капотом» https://habr.com/ru/articles/919348/
+        - Разбираем net/http на практике: пишем веб-сервис DeadDrop для безопасного обмена сообщениями https://habr.com/ru/articles/981356/
+        - Разбираем net/http на практике. Часть 2.1: POST, файлы и in-memory хранилище https://habr.com/ru/articles/1011028/
       - Cookie
         - Как работать с cookie в Go: безопасное хранение и управление сессиями https://habr.com/ru/articles/887014/
         - The Simple Guide to Cookies in Golang: Create, Read, and Delete https://medium.com/@adrilukman73/the-simple-guide-to-cookies-in-golang-create-read-and-delete-a5397732b04b
@@ -1407,6 +1409,7 @@
         - A story about Go http.Client https://www.jacoelho.com/blog/2017/08/a-story-about-go-http.client/
         - HTTP Connection reuse in Go clients https://blog.cubieserver.de/2022/http-connection-reuse-in-go-clients/
         - Пишем web-фреймворк на Go: как работают современные web-фреймворки под капотом https://habr.com/ru/articles/902496/
+        - Создание HTTP-сервера https://learning.infoteam.msk.ru/Go/Yandex/Лекции/Часть%201/3%20Спринт1/1%20Пакет%20nethttp.%20Работа%20с%20HTTP/3%20Создание%20HTTP-сервера.html
     - TCP-соединение; TCP Connections
       - SetLinger
         - Forcefully Closing TCP Connections in Golang https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6
@@ -1509,6 +1512,13 @@
       - Go Tips & Common Mistakes - Go HTTP File Upload and Download https://bytegoblin.io/blog/go-tips-common-mistakes.mdx
     - Остальное
       - Golang HTTP server: basics https://medium.com/@bartosz.piekny/golang-http-server-basics-6936ddab7474
+  - REST сервер
+    - Разработка REST-серверов на Go. Часть 1: стандартная библиотека https://habr.com/ru/companies/ruvds/articles/559816/
+    - Разработка REST-серверов на Go. Часть 2: применение маршрутизатора gorilla/mux https://habr.com/ru/companies/ruvds/articles/561108/
+    - Разработка REST-серверов на Go. Часть 3: использование веб-фреймворка Gin https://habr.com/ru/companies/ruvds/articles/562878/
+    - Разработка REST-серверов на Go. Часть 4: применение OpenAPI и Swagger https://habr.com/ru/companies/ruvds/articles/564508/
+    - Разработка REST-серверов на Go. Часть 5: Middleware https://habr.com/ru/companies/ruvds/articles/566198/
+    - Разработка REST-серверов на Go. Часть 6: аутентификация https://habr.com/ru/companies/ruvds/articles/567280/
   - Остальное
     - Асинхронный веб: WebSocket, Server-Sent Events, Long Polling и Short Polling https://habr.com/ru/articles/812693/
     - Technical Deep-Dive- Scaling a High-Throughput Go Application https://swatimodi.com/posts/technical-deep-dive-scaling-go-app/

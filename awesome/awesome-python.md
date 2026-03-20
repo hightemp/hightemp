@@ -32,8 +32,12 @@
         - Асинхронный SQLAlchemy 2: пошаговый гайд по управлению сессиями, добавлению и извлечению данных с Pydantic https://habr.com/ru/companies/amvera/articles/850470/
 - Валидация и сериализация данных
     - Pydantic
+        - Pydantic: Simplifying Data Validation in Python https://realpython.com/python-pydantic/
         - Pydantic 2: Полное руководство для Python-разработчиков — от основ до продвинутых техник https://habr.com/ru/companies/amvera/articles/851642/
         - Pydantic: A Guide With Practical Examples https://www.datacamp.com/tutorial/pydantic
+        - Библиотека Pydantic: валидация данных на Python https://pythonist.ru/biblioteka-pydantic-validacziya-dannyh-na-python/
+        - Руководство по Pydantic для новичков Пакет Python для анализа и проверки данных https://ichi.pro/ru/rukovodstvo-po-pydantic-dla-novickov-204731199577737
+        - Pydantic https://ege-soch.ru/pydantic/        
 - Инструменты миграций базы данных
     - Alembic
         - Основное
@@ -53,6 +57,8 @@
             - Zero-downtime Upgrades With Alembic and SQLAlchemy https://that.guru/blog/zero-downtime-upgrades-with-alembic-and-sqlalchemy/
             - Effortless Database Migrations: Why Alembic is Your Python Must-Have https://dev.to/vivekthedev/effortless-database-migrations-why-alembic-is-your-python-must-have-2f0n
             - \[Tips\] How to Make Alembic Migration History Reading Easier https://fresult.medium.com/how-to-make-alembic-migration-history-reading-is-easier-ca7f15cd0636
+- Thundering Herd; cache stampede; dog-piling
+    - Caching in the world of Concurrent Python - harder than ever! https://tech.ringieraxelspringer.com/blog/wszystkie/caching-in-the-world-of-concurrent-python-harder-than-ever,32
 
 ### Видео
 

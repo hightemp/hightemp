@@ -158,3 +158,7 @@
   * Ubuntu: `cargo install grex`
   * Brew: `brew install grex` 
 
+### Статьи
+
+- Подборки
+  - 27 Rust-based alternatives to classic CLI apps https://dev.to/lingodotdev/27-rust-based-alternatives-to-classic-cli-apps-2350
