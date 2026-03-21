@@ -266,6 +266,8 @@
         - How to Set Up ModSecurity with Nginx on Debian/Ubuntu https://www.linuxbabe.com/security/modsecurity-nginx-debian-ubuntu
 - Сканирование уязвимостей
     - Как защищать данные, когда денег на ИБ мало: топ-5 Open Source сканеров для поиска уязвимостей https://habr.com/ru/companies/garda/articles/978582/
+- Остальное
+    - Баги, которые от нас скрывают. Выбираем лучший сайт для поиска уязвимостей https://xakep.ru/2021/06/11/cve-search-services/
 - Подборки
     - Обучение кибербезопасности. Бесплатное ПО для практики https://habr.com/ru/articles/888690/
     - Free for Open Source Application Security Tools https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
