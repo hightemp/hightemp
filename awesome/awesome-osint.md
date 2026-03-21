@@ -178,6 +178,7 @@
 - IPVM Calculator (https://calculator.ipvm.com/) — расчёт углов обзора камер, разрешения и других параметров видеонаблюдения.  
 - FlagID (https://flagid.org/) — определение  флага страны.
 - NETRYX — open-source локальный движок уличной геолокации, который по одной street-level фотографии находит точные GPS-координаты (до <50 м), сопоставляя снимок с индексом систематически собранных панорам street-view с помощью пайплайна CosPlace + ALIKED/DISK + LightGlue (опционально LoFTR), работая преимущественно на вашем оборудовании. https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation
+- ShadowBroker — открытая real-time платформа геопространственной OSINT-аналитики в виде карты/дашборда, агрегирующая и визуализирующая данные из публичных источников (авиация, морской трафик, спутники, конфликты, ЧС, CCTV, GPS‑джамминг и др.) в едином интерфейсе. https://github.com/BigBodyCobain/Shadowbroker
 
 ### Поиск цифрового следа
 
