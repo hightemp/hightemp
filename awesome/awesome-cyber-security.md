@@ -271,6 +271,7 @@
 - Подборки
     - Обучение кибербезопасности. Бесплатное ПО для практики https://habr.com/ru/articles/888690/
     - Free for Open Source Application Security Tools https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
+    - Лучшие сайты для поиска уязвимостей https://spy-soft.net/exploit-databases-for-finding-vulnerabilities/
 
 ### Видео
 
