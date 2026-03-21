@@ -257,3 +257,8 @@
 - Подборки
     - Обучение кибербезопасности. Бесплатное ПО для практики https://habr.com/ru/articles/888690/
     - Free for Open Source Application Security Tools https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
+
+### Видео
+
+- Плейлисты
+    - Digital OWASP  AppSec Israel 2020 https://www.youtube.com/playlist?list=PLA4gj-PiNukcgk6vpXtfRXj4oq4uMAwEG
