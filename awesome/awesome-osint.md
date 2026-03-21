@@ -171,6 +171,7 @@
 - PeakVisor (http://peakvisor.com/) — 3D-карты, информация о горах, маршрутах, высотах, дополненная реальность для распознавания гор.  
 - IPVM Calculator (https://calculator.ipvm.com/) — расчёт углов обзора камер, разрешения и других параметров видеонаблюдения.  
 - FlagID (https://flagid.org/) — определение  флага страны.
+- NETRYX — open-source локальный движок уличной геолокации, который по одной street-level фотографии находит точные GPS-координаты (до <50 м), сопоставляя снимок с индексом систематически собранных панорам street-view с помощью пайплайна CosPlace + ALIKED/DISK + LightGlue (опционально LoFTR), работая преимущественно на вашем оборудовании. https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation
 
 ### Поиск цифрового следа
 
