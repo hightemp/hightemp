@@ -28,6 +28,10 @@
 
 - Ship Safe — AI‑платформа и CLI для комплексного аудита безопасности кода, которая параллельно запускает 16 специализированных агентов и проверку зависимостей/секретов (включая LLM‑анализ эксплуатируемости), формирует отчёты (в т.ч. SARIF) и интегрируется в CI/CD. https://github.com/asamassekou10/ship-safe https://www.npmjs.com/package/ship-safe
 
+### Поиск эксплойтов
+
+- WatchStack — платформа для мониторинга CVE и exploit intelligence, а страница PoC Search предназначена для поиска публичных PoC/эксплойтов по уязвимостям. https://watchstack.io/intel/poc-search
+
 ### Интсрументы проверки кода
 
 - FuzzForge — open-source платформа и CLI для автоматизации AppSec/оффенсив‑секьюрити процессов с AI‑агентами и интеграцией фреймворков для фаззинга, позволяющая описывать и масштабировать security‑воркфлоу как код. https://github.com/FuzzingLabs/fuzzforge_ai
