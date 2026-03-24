@@ -202,6 +202,8 @@
       - Mastering Concurrency: Symfony 7.4 Lock Component Best Practices https://dev.to/mattleads/mastering-concurrency-symfony-74-lock-component-best-practices-306k
     - Остальное
       - Prevent Race Condition in Symfony: Secure Your Code https://devsecopsai.today/prevent-race-condition-in-symfony-secure-your-code-a4df76b55a02
+      - Prevent Race Conditions in Symfony Securely https://dev.to/pentest_testing_corp/prevent-race-conditions-in-symfony-securely-3a5j
+      - Prevent Race Condition in Symfony – Best Practices https://pentestcheck.blogspot.com/2025/06/prevent-race-condition-in-symfony-best.html
   - БД
     - Doctrine
       - Основное
