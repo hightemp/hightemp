@@ -559,6 +559,9 @@ vendor/bin/phpqt-install
     - MetaStorm для вашего мозга https://php.dragomano.ru/meta-storm-dlya-vashego-mozga/
     - Meta Storm Plugin – еще один плагин для PHPStorm https://habr.com/ru/articles/868898/
     - MetaStorm – IDE в IDE. Первое большое обновление https://habr.com/ru/articles/872000/
+- Библиотеки
+  - spatie/invade
+    - How to easily access private properties and methods in PHP https://freek.dev/3048-how-to-easily-access-private-properties-and-methods-in-php
 - AI, ML
   - PHP-ORT Machine Learning Inference for the Web First-class ML capabilities for PHP developers https://krakjoe.github.io/ort/
 - Подборки
