@@ -196,6 +196,12 @@
     - How to Work with Lifecycle Callbacks https://symfony.com/doc/2.x/doctrine/lifecycle_callbacks.html
   - Cache; Кэш
     - Maximizing Performance - Advanced Caching Techniques in Symfony for Optimal Web Applications https://moldstud.com/articles/p-maximizing-performance-advanced-caching-techniques-in-symfony-for-optimal-web-applications
+  - Race Condition
+    - Locks
+      - Dealing with Concurrency with Locks https://symfony.com/doc/current/lock.html
+      - Mastering Concurrency: Symfony 7.4 Lock Component Best Practices https://dev.to/mattleads/mastering-concurrency-symfony-74-lock-component-best-practices-306k
+    - Остальное
+      - Prevent Race Condition in Symfony: Secure Your Code https://devsecopsai.today/prevent-race-condition-in-symfony-secure-your-code-a4df76b55a02
   - БД
     - Doctrine
       - Основное
