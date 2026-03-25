@@ -411,6 +411,8 @@ vendor/bin/phpqt-install
     - How to Build Your First PHP Package https://laravel-news.com/create-a-php-package-from-scratch?utm_source=weeklyphp&utm_medium=email
   - Альясы, Aliases
     - Использование алиасов в Composer https://php.dragomano.ru/ispolzovanie-aliasov-v-composer/
+  - Scripts
+    - Scripts https://getcomposer.org/doc/articles/scripts.md
 - Расширения
   - pthreads
     - Ubuntu 16.04: How to install ZTS enabled PHP7 and the pThreads module https://www.rapidspike.com/blog/php7-pthreads/
