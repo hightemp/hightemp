@@ -23,7 +23,7 @@
   - Vue Symfony Starter https://github.com/Monogramm/vue-symfony-starter
 - Отладка
   - **Buggregator** — бесплатный многофункциональный сервер для отладки PHP-приложений (и других языков программирования), объединяющий в себе профайлер Xhprof, сервер Symfony VarDumper, инструмент отладки Spatie Ray, fake SMTP-сервер, совместимость с Sentry и Inspector, сервер Monolog и HTTP dump сервер с возможностью совместного использования дампов. https://github.com/buggregator/server
-- Очереди
+- Очереди; queue
   - Enqueue — это готовое к продакшену PHP-решение для обмена сообщениями, предоставляющее единый интерфейс для создания, отправки и получения сообщений через множество транспортов (AMQP, Kafka, Redis, Amazon SQS, RabbitMQ и другие) с поддержкой Symfony, Laravel, Magento и других фреймворков. https://php-enqueue.github.io/bundle/quick_tour/
 - Тестирование
   - `PHPUnit Bridge` — это компонент Symfony, который предоставляет интеграцию между Symfony и PHPUnit (основным фреймворком для модульного тестирования в PHP). Он не является заменой PHPUnit, а скорее является его расширением и помощником. Он делает процесс тестирования в Symfony более удобным и гибким, решая ряд общих проблем. https://github.com/symfony/phpunit-bridge
