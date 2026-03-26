@@ -308,7 +308,9 @@
   - Using Symfony Security voters to check user permissions with ease https://medium.com/@galopintitouan/using-symfony-security-voters-to-check-user-permissions-with-ease-9a48e2d45540
   - Using Symfony Security voters to check user permissions with ease https://titouangalopin.com/posts/1slD16VBJqb2JBJAzKyDpU/using-symfony-security-voters-to-check-user-permissions-with-ease
 - Symfony Flex
-  - Symfony 4: Automate your Workflow Fabien Potencier https://fabien.potencier.org/symfony4-workflow-automation.html
+  - Основное
+    - Flex: Compose your Application https://symfony.com/doc/current/quick_tour/flex_recipes.html
+    - Symfony 4: Automate your Workflow Fabien Potencier https://fabien.potencier.org/symfony4-workflow-automation.html
 - Serialization
   - Serialize PHP objects using Symfony Serializer https://sajadtorkamani.com/serialize-php-objects-using-symfony-serializer/
   - Deserialize data into a PHP object using Symfony Serializer https://sajadtorkamani.com/deserialize-data-into-a-php-object-using-symfony-serializer/
