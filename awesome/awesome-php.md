@@ -416,6 +416,7 @@ vendor/bin/phpqt-install
     - Использование алиасов в Composer https://php.dragomano.ru/ispolzovanie-aliasov-v-composer/
   - Scripts
     - Scripts https://getcomposer.org/doc/articles/scripts.md
+    - Исполняемые скрипты Composer https://mb4.ru/programms/programs-for-automation/composer/593-scripts.html
 - Расширения
   - pthreads
     - Ubuntu 16.04: How to install ZTS enabled PHP7 and the pThreads module https://www.rapidspike.com/blog/php7-pthreads/
