@@ -409,6 +409,7 @@ vendor/bin/phpqt-install
 - Composer
   - Основное
     - Composer для самых маленьких https://habr.com/ru/articles/439200/
+    - Руководство по использованию Composer для начинающих https://itchief.ru/php/composer-for-beginners
   - Сборка пакетов
     - How to Build Your First PHP Package https://laravel-news.com/create-a-php-package-from-scratch?utm_source=weeklyphp&utm_medium=email
   - Альясы, Aliases
