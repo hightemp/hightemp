@@ -310,6 +310,7 @@
 - Symfony Flex
   - Основное
     - Flex: Compose your Application https://symfony.com/doc/current/quick_tour/flex_recipes.html
+    - Using Symfony Flex to Manage Symfony Applications https://symfony.com/doc/3.x/setup/flex.html
     - Symfony 4: Automate your Workflow Fabien Potencier https://fabien.potencier.org/symfony4-workflow-automation.html
 - Serialization
   - Serialize PHP objects using Symfony Serializer https://sajadtorkamani.com/serialize-php-objects-using-symfony-serializer/
