@@ -417,6 +417,8 @@ vendor/bin/phpqt-install
   - Scripts
     - Scripts https://getcomposer.org/doc/articles/scripts.md
     - Исполняемые скрипты Composer https://mb4.ru/programms/programs-for-automation/composer/593-scripts.html
+  - Остальное
+    - composer-install-if-necessary.sh https://gist.github.com/1234ru/7416702dad95891222259191c03c99ac
 - Расширения
   - pthreads
     - Ubuntu 16.04: How to install ZTS enabled PHP7 and the pThreads module https://www.rapidspike.com/blog/php7-pthreads/
