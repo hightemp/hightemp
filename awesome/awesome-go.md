@@ -1418,6 +1418,8 @@
       - Maintaining Healthy TCP Connections in Golang https://bencane.com/keeping-tcp-connections-alive-in-golang-801a78b7cf1
     - Остальное
       - Talk about Go: Network programming — TCP Connection Management https://medium.com/nerd-for-tech/talk-about-go-network-programming-tcp-connection-management-f7630a526e17
+  - Тунели; TUN
+    - Работа с TUN-интерфейсами в Linux: простая реализация на Go https://habr.com/ru/articles/1009328/
   - Переиспользование порта; Socket sharding
     - cmux
       - Golang: Run multiple services on one port https://hypermode.com/blog/cmux
