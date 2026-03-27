@@ -402,6 +402,7 @@ vendor/bin/phpqt-install
     - Готовимся к собеседованию по PHP: Всё, что вы хотели узнать об интерфейсах, совместимости сигнатур и не побоялись узнать https://habr.com/ru/articles/328890/
 - Отладчики, Debugger
   - XDebug
+    - Configure Xdebug https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html
     - Настройка xDebug с Docker в PHPStorm https://itelmenko.ru/php/xdebug-docker-phpstorm/
     - PHP: Настраиваем отладку. PhpStorm + PHP 8 + Docker + Xdebug 3 https://dzen.ru/a/ZuFQ4zrHfAToBlJn
     - New in 4.0: Easier debugging of remote PHP command line scripts https://blog.jetbrains.com/webide/2012/03/new-in-4-0-easier-debugging-of-remote-php-command-line-scripts/
