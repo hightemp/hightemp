@@ -408,6 +408,7 @@ vendor/bin/phpqt-install
     - New in 4.0: Easier debugging of remote PHP command line scripts https://blog.jetbrains.com/webide/2012/03/new-in-4-0-easier-debugging-of-remote-php-command-line-scripts/
     - Docker + php-fpm + PhpStorm + Xdebug https://habr.com/ru/articles/473184/
     - Узнать и полюбить Xdebug https://habr.com/ru/articles/328094/
+    - How to Install Xdebug PHP and Setup PHPStorm via CLI without Apache https://www.mageplaza.com/devdocs/install-xdebug-php-setup-phpstorm.html
 - Composer
   - Основное
     - Composer для самых маленьких https://habr.com/ru/articles/439200/
