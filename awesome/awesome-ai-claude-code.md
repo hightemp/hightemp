@@ -1,3 +1,9 @@
+### Коллекции
+
+- A selectively curated list of skills, agents, plugins, hooks, and other amazing tools for enhancing your Claude Code workflow. https://github.com/hesreallyhim/awesome-claude-code
+
+### Репозитории
+
 
 ### Статьи
 
