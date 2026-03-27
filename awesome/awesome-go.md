@@ -2373,6 +2373,7 @@
 - https://github.com/child6yo/rago
 - https://github.com/metarsit/golang-repository-template
 - Event-driven microservice architecture URL shortener: gRPC URL Shortener service, REST gateway & Telegram inline bot, Kafka & Statistics service https://github.com/misshanya/url-shortener/tree/master
+- Пример прокидывания траффика между туннелями https://github.com/vf1/tun_example/tree/main
 
 ### Видео
 
