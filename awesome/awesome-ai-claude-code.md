@@ -4,6 +4,10 @@
 
 ### Репозитории
 
+### Loops; Ralph
+
+- Awesome Ralph https://github.com/snwfdhmp/awesome-ralph
+
 ### Workflow
 
 - claude-code-workflows — набор плагинов для Claude Code, реализующий сквозные рабочие процессы AI-ассистируемой разработки (бэкенд, фронтенд, полный стек) с разделением на специализированных агентов для формулирования требований, проектирования, реализации и проверки качества. https://github.com/shinpr/claude-code-workflows
