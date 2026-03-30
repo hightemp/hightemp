@@ -7,6 +7,8 @@
 ### Loops; Ralph
 
 - Awesome Ralph https://github.com/snwfdhmp/awesome-ralph
+- The Ralph Playbook https://github.com/ClaytonFarr/ralph-playbook
+- Choo Choo Ralph https://github.com/mj-meyer/choo-choo-ralph
 
 ### Workflow
 
