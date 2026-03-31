@@ -100,6 +100,7 @@
   - `daandesmedt/phpheadlesschrome` — Обёртка над CLI Chrome для скриншотов и PDF. Простой подход через командную строку. 234K установок http://packagist.org/packages/daandesmedt/phpheadlesschrome
   - `infostars/headless-chromium-php` — Форк chrome-php с поддержкой PHP 5.6+ http://packagist.org/packages/infostars/headless-chromium-php
   - `dawood/phpchrome` — Минималистичная обёртка для Chrome, генерация PDF и скриншотов http://packagist.org/packages/dawood/phpchrome
+  - `spryker/docker-chromedriver` — Автоматически скачивает ChromeDriver + Chromium через Composer post-install скрипт. Для Docker, CI/Travis https://packagist.org/packages/spryker/docker-chromedriver
 
 - Puppeteer-обёртки (требуют Node.js)
   - `spatie/browsershot` — Лидер. 32M+ установок, ★5194. Скриншоты, PDF, fullpage, элементы, JS/CSS-инъекции. Требует Node.js + Puppeteer http://packagist.org/packages/spatie/browsershot
