@@ -93,6 +93,69 @@
   - Mock; Моки
     - **BypassFinals** — PHP-библиотека, которая динамически удаляет ключевые слова `final` и `readonly` из кода на лету, позволяя создавать моки финальных методов и классов для тестирования с интеграцией в популярные фреймворки тестирования как PHPUnit, Mockery и Nette Tester. https://github.com/dg/bypass-finals
 
+### Скриншоты сайтов
+
+- Headless Chrome (чистый PHP, без Node.js)
+    - chrome-php/chrome — Управление Chrome через DevTools Protocol. Самое зрелое решение для прямого CDP. 4.5M установок, ★2618 [https://packagist.org/packages/chrome-php/chrome](https://packagist.org/packages/chrome-php/chrome)
+    - daandesmedt/phpheadlesschrome — Обёртка над CLI Chrome для скриншотов и PDF. Простой подход через командную строку. 234K установок [https://packagist.org/packages/daandesmedt/phpheadlesschrome](https://packagist.org/packages/daandesmedt/phpheadlesschrome)
+    - infostars/headless-chromium-php — Форк chrome-php с поддержкой PHP 5.6+ [https://packagist.org/packages/infostars/headless-chromium-php](https://packagist.org/packages/infostars/headless-chromium-php)
+    - dawood/phpchrome — Минималистичная обёртка для Chrome, генерация PDF и скриншотов [https://packagist.org/packages/dawood/phpchrome](https://packagist.org/packages/dawood/phpchrome)
+- Puppeteer-обёртки (требуют Node.js)
+    - spatie/browsershot — Лидер. 32M+ установок, ★5194. Скриншоты, PDF, fullpage, элементы, JS/CSS-инъекции. Требует Node.js + Puppeteer [https://packagist.org/packages/spatie/browsershot](https://packagist.org/packages/spatie/browsershot)
+    - assisted-mindfulness/browsershot — Форк spatie, работает напрямую с Chrome через CDP без Node.js и Puppeteer. 539K установок [https://packagist.org/packages/assisted-mindfulness/browsershot](https://packagist.org/packages/assisted-mindfulness/browsershot)
+    - nesk/puphpeteer — Полный PHP-мост к Puppeteer API. 1.1M установок, ★1319. ⚠️ Заброшен с 2023 [https://packagist.org/packages/nesk/puphpeteer](https://packagist.org/packages/nesk/puphpeteer)
+    - fatihtuzlu/puphpeteer — Модернизированный форк nesk/puphpeteer. PHP 8.1+, Puppeteer v23+ [https://packagist.org/packages/fatihtuzlu/puphpeteer](https://packagist.org/packages/fatihtuzlu/puphpeteer)
+    - tuhin18003/puppteer-php-bridge — Легковесный мост между PHP и Puppeteer [https://github.com/tuhin18003/puppteer-php-bridge](https://github.com/tuhin18003/puppteer-php-bridge)
+    - info2soft/browsershot — Форк spatie/browsershot [https://packagist.org/packages/info2soft/browsershot](https://packagist.org/packages/info2soft/browsershot)
+    - scratcher28/browsershot — Форк spatie/browsershot [https://packagist.org/packages/scratcher28/browsershot](https://packagist.org/packages/scratcher28/browsershot)
+    - ngekoding/browsershot — Форк spatie/browsershot [https://packagist.org/packages/ngekoding/browsershot](https://packagist.org/packages/ngekoding/browsershot)
+- WebDriver / Selenium
+    - php-webdriver/webdriver — Официальный PHP-клиент Selenium WebDriver. 90M+ установок, ★5214. Метод takeScreenshot() [https://packagist.org/packages/php-webdriver/webdriver](https://packagist.org/packages/php-webdriver/webdriver)
+    - symfony/panther — Компонент Symfony для браузерного тестирования. ChromeDriver/GeckoDriver. 14.8M установок, ★3061 [https://packagist.org/packages/symfony/panther](https://packagist.org/packages/symfony/panther)
+    - laravel/dusk — Браузерное тестирование Laravel с поддержкой скриншотов. 36.8M установок, ★1937 [https://packagist.org/packages/laravel/dusk](https://packagist.org/packages/laravel/dusk)
+    - facebook/webdriver — Оригинальный PHP-клиент WebDriver от Facebook. ⚠️ Заброшен, заменён на php-webdriver/webdriver [https://packagist.org/packages/facebook/webdriver](https://packagist.org/packages/facebook/webdriver)
+    - behat/mink — Абстракция над браузерными драйверами. Скриншоты через Selenium2Driver: getScreenshot() [https://packagist.org/packages/behat/mink](https://packagist.org/packages/behat/mink)
+- wkhtmltoimage / wkhtmltopdf (WebKit)
+    - knplabs/knp-snappy — Обёртка над wkhtmltoimage/wkhtmltopdf. 68M+ установок, ★4472. Изображения и PDF из URL/HTML [https://packagist.org/packages/knplabs/knp-snappy](https://packagist.org/packages/knplabs/knp-snappy)
+    - knplabs/knp-snappy-bundle — Symfony-бандл для интеграции KnpSnappy [https://packagist.org/packages/knplabs/knp-snappy-bundle](https://packagist.org/packages/knplabs/knp-snappy-bundle)
+    - barryvdh/laravel-snappy — Laravel Service Provider для KnpSnappy [https://packagist.org/packages/barryvdh/laravel-snappy](https://packagist.org/packages/barryvdh/laravel-snappy)
+    - mikehaertl/phpwkhtmltopdf — Обёртка wkhtmltopdf/wkhtmltoimage. 20M+ установок, ★1613. ⚠️ Не обновляется с 2021 [https://packagist.org/packages/mikehaertl/phpwkhtmltopdf](https://packagist.org/packages/mikehaertl/phpwkhtmltopdf)
+    - frengky/php-wkhtmltox — Обёртка wkhtmltopdf/wkhtmltoimage через stdin/stdout [https://packagist.org/packages/frengky/php-wkhtmltox](https://packagist.org/packages/frengky/php-wkhtmltox)
+    - mediatech/php-wkhtmltopdf — OOP-обёртка для wkhtmltopdf [https://packagist.org/packages/mediatech/php-wkhtmltopdf](https://packagist.org/packages/mediatech/php-wkhtmltopdf)
+- PhantomJS (устаревший)
+    - jonnyw/php-phantomjs — PHP-обёртка PhantomJS. 1.2M установок, ★1439. ⚠️ Заброшен, PhantomJS мёртв с 2018 [https://packagist.org/packages/jonnyw/php-phantomjs](https://packagist.org/packages/jonnyw/php-phantomjs)
+    - microweber-dev/screen — Скриншоты через PhantomJS от Microweber [https://packagist.org/packages/microweber-dev/screen](https://packagist.org/packages/microweber-dev/screen)
+- Gotenberg (Docker-микросервис)
+    - gotenberg/gotenberg-php — Официальный PHP-клиент Gotenberg. 5.2M установок, ★368. Метод ->screenshot(). Активно развивается [https://packagist.org/packages/gotenberg/gotenberg-php](https://packagist.org/packages/gotenberg/gotenberg-php)
+    - thecodingmachine/gotenberg-php-client — Устаревший PHP-клиент для Gotenberg v6 [https://packagist.org/packages/thecodingmachine/gotenberg-php-client](https://packagist.org/packages/thecodingmachine/gotenberg-php-client)
+- CutyCapt
+    - lciolecki/webshot — PHP-обёртка для CutyCapt (QtWebKit) с поддержкой xvfb для серверов без GUI [https://packagist.org/packages/lciolecki/webshot](https://packagist.org/packages/lciolecki/webshot)
+- Laravel-специфичные
+    - spatie/laravel-screenshot — Screenshot-функциональность для Laravel [https://packagist.org/packages/spatie/laravel-screenshot](https://packagist.org/packages/spatie/laravel-screenshot)
+    - spatie/laravel-og-image — Генерация OG-изображений для соцсетей через скриншоты [https://packagist.org/packages/spatie/laravel-og-image](https://packagist.org/packages/spatie/laravel-og-image)
+- SaaS API с PHP SDK (Composer-пакеты)
+    - screenshotone/sdk — ScreenshotOne: быстрый API, fullpage, блокировка рекламы, кэширование. 37K установок [https://packagist.org/packages/screenshotone/sdk](https://packagist.org/packages/screenshotone/sdk)
+    - urlbox/screenshots — Urlbox: рендеринг страниц, OG-изображения, Laravel Provider. 251K установок [https://packagist.org/packages/urlbox/screenshots](https://packagist.org/packages/urlbox/screenshots)
+    - screenshotmachine/screenshotmachine-php — ScreenshotMachine: простой REST API для скриншотов [https://packagist.org/packages/screenshotmachine/screenshotmachine-php](https://packagist.org/packages/screenshotmachine/screenshotmachine-php)
+    - browshot-php/browshot — Browshot: множество разрешений, мобильные устройства, исторические снимки [https://packagist.org/packages/browshot-php/browshot](https://packagist.org/packages/browshot-php/browshot)
+    - restpackio/restpack-php — Restpack: HTML/URL в изображение или PDF [https://packagist.org/packages/restpackio/restpack-php](https://packagist.org/packages/restpackio/restpack-php)
+    - screenshotscloud/screenshotscloud — ScreenshotsCloud: массовые скриншоты, очереди [https://packagist.org/packages/screenshotscloud/screenshotscloud](https://packagist.org/packages/screenshotscloud/screenshotscloud)
+    - screenshotmax/sdk — ScreenshotMAX: есть бесплатный тариф [https://packagist.org/packages/screenshotmax/sdk](https://packagist.org/packages/screenshotmax/sdk)
+    - api2pdf/api2pdf.php — Api2PDF: chromeUrlToImage endpoint, PDF и изображения [https://packagist.org/packages/api2pdf/api2pdf.php](https://packagist.org/packages/api2pdf/api2pdf.php)
+- SaaS API без Composer-пакета (HTTP API)
+    - ApiFlash — Простой HTTP API для скриншотов, есть примеры на PHP [https://apiflash.com](https://apiflash.com)
+    - Thum.io — URL-based скриншоты: изображение по прямой ссылке, не нужен SDK [https://www.thum.io](https://www.thum.io)
+    - Scrapfly — Screenshot API, используется через cURL/Guzzle [https://scrapfly.io](https://scrapfly.io)
+    - Google PageSpeed Insights — Возвращает full-page-screenshot в JSON. Бесплатный API от Google [https://developers.google.com/speed/docs/insights/v5/get-started](https://developers.google.com/speed/docs/insights/v5/get-started)
+    - SilverLining.Cloud — Облачный Screenshot API [https://silverlining.cloud](https://silverlining.cloud)
+    - ScreenshotAPI.net — REST API для скриншотов веб-страниц [https://screenshotapi.net](https://screenshotapi.net)
+    - ConvertAPI — HTML to JPG/PNG, есть PHP SDK [https://www.convertapi.com](https://www.convertapi.com)
+    - GrabzIt — PHP-библиотека для скриншотов, ручная установка (не на Packagist) [https://grabz.it](https://grabz.it)
+- Нативные PHP-функции
+    - imagegrabscreen() — Скриншот всего рабочего стола. Только Windows, расширение GD [https://www.php.net/manual/en/function.imagegrabscreen.php](https://www.php.net/manual/en/function.imagegrabscreen.php)
+    - imagegrabwindow() — Скриншот конкретного окна по handle. Только Windows, расширение GD [https://www.php.net/manual/en/function.imagegrabwindow.php](https://www.php.net/manual/en/function.imagegrabwindow.php)
+
+
 ### Quality tools; Linters; Линтеры; Fixers; Фиксеры
 
 - PHP Quality Tools — пакет для PHP, который устанавливает наиболее популярные инструменты контроля качества кода (PHP Code Sniffer, PHP Mess Detector, PHP Static Analysis Tool и PHP Coding Standards Fixer) с предустановленными конфигурациями в стиле PSR-2, позволяя разработчикам быстро настроить все необходимые инструменты для своих проектов. https://github.com/daniel-werner/php-quality-tools
