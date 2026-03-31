@@ -10,6 +10,7 @@
     - icon-generation skill https://playbooks.com/skills/michaelboeding/skills/icon-generation
     - app-icon-generator skill https://playbooks.com/skills/dexploarer/claudius-skills/app-icon-generator
     - app-icon-generator https://lobehub.com/ru/skills/dexploarer-claudius-skills-app-icon-generator
+    - app-icon https://skills.sh/code-with-beto/skills/app-icon
 - PHP
     - Архитектура
         - PHP SOLID Architecture Guide https://mcpmarket.com/tools/skills/php-solid-architecture-guide
