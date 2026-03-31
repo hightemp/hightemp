@@ -4,6 +4,7 @@
 - https://playbooks.com/skills/
 - https://lobehub.com/skills
 - https://skillmd.ai/skills/
+- https://skills.sh/
 
 ### Скилы; SKILL.md
 
