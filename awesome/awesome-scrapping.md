@@ -61,6 +61,8 @@
 
 ### Статьи
 
+- TLS Fingerprint
+    - How TLS Fingerprint is Used to Block Web Scrapers? https://scrapfly.io/blog/posts/how-to-avoid-web-scraping-blocking-tls
 - llm scrapping; Скрэпинг с помощью больших языковых моделей
     - Web scraping with LLMs https://docs.zyte.com/web-scraping/guides/llm/index.html
     - AI-Powered Web Scraping With llm-scraper https://brightdata.com/blog/ai/web-scraping-with-llm-scraper
