@@ -1,6 +1,12 @@
 
+### Коллекции
+
+- https://playbooks.com/skills/
+
 ### Скилы; SKILL.md
 
+- Генерация иконок
+    - icon-generation skill https://playbooks.com/skills/michaelboeding/skills/icon-generation
 - PHP
     - Архитектура
         - PHP SOLID Architecture Guide https://mcpmarket.com/tools/skills/php-solid-architecture-guide
