@@ -9,6 +9,8 @@
 ### Скилы; SKILL.md
 
 - Генерация иконок
+    - favicon
+        - favicon https://lobehub.com/ru/skills/andrehfp-tinyplate-favicon
     - swift
         - How to Build swift-app-icons Agent Skill https://skillmd.ai/how-to-build/swift-app-icons/
     - Остальное
