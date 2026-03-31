@@ -8,6 +8,7 @@
 
 - Генерация иконок
     - icon-generation skill https://playbooks.com/skills/michaelboeding/skills/icon-generation
+    - app-icon-generator skill https://playbooks.com/skills/dexploarer/claudius-skills/app-icon-generator
     - app-icon-generator https://lobehub.com/ru/skills/dexploarer-claudius-skills-app-icon-generator
 - PHP
     - Архитектура
