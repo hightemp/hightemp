@@ -2,6 +2,7 @@
 ### Коллекции
 
 - https://playbooks.com/skills/
+- https://lobehub.com/skills
 
 ### Скилы; SKILL.md
 
