@@ -212,6 +212,7 @@ Norton
     - PPTP
     - Lightway
     - Остальное
+        - Как ТСПУ ловит VLESS в 2026 и почему XHTTP — следующий шаг https://habr.com/ru/articles/1009542/
         - Как оператор связи видит, что вы используете VPN — техническая сторона вопроса https://habr.com/ru/articles/1017158/
         - Как открыть портал наружу: самый полный гайд по VPN https://habr.com/ru/articles/757920/
         - Cloudflare представила собственный VPN-сервис на базе приложения 1.1.1.1 для мобильных устройств https://habr.com/ru/companies/itsumma/articles/446418/
