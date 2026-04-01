@@ -209,6 +209,7 @@ Norton
             - Кратко про XHTTP для VLESS: что, зачем и как https://habr.com/ru/articles/913324/
     - DMVPN
     - SSTP
+        - Как устроен VPN через SSTP https://habr.com/ru/articles/196134/
     - PPTP
     - Lightway
     - Остальное
