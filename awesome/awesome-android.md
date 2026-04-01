@@ -25,6 +25,9 @@
 
 ### Статьи
 
+- Профили
+    - Shelter
+        - Установка Max отдельно от всего в рабочем профиле на Android https://habr.com/ru/articles/985950/
 - Сеть
     - SSH
         - Tutorial: SSH-Tunneled VPN on Stock Android https://airvpn.org/forums/topic/13486-ssh-tunneled-vpn-on-stock-android/
