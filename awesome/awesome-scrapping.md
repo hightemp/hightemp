@@ -61,6 +61,8 @@
 
 ### Статьи
 
+- Anti-bot bypass
+    - How to bypass Anti-Bots in 2026: 7-step guide https://roundproxies.com/blog/how-to-bypass-anti-bots/
 - TLS Fingerprint
     - How TLS Fingerprint is Used to Block Web Scrapers? https://scrapfly.io/blog/posts/how-to-avoid-web-scraping-blocking-tls
 - llm scrapping; Скрэпинг с помощью больших языковых моделей
