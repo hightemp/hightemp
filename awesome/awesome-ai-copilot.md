@@ -5,6 +5,7 @@
 ### Loops
 
 - https://github.com/aymenfurter/ralph
+- https://github.com/rpothin/ghc-ralph-cli
 
 ### Репозитории
 
