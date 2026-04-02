@@ -6,6 +6,7 @@
 
 - https://github.com/aymenfurter/ralph
 - https://github.com/rpothin/ghc-ralph-cli
+- https://github.com/ashiqsultan/copilot-ralph
 
 ### Репозитории
 
