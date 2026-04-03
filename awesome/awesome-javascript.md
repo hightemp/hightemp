@@ -234,6 +234,8 @@
       - Easy Database Population with MikroORM, NestJS, and Seeders https://medium.com/@kisora.thomas/easy-database-population-with-mikroorm-nestjs-and-seeders-d86da561f2e9
       - Choosing the Right TypeScript ORM: MikroORM vs. TypeORM https://medium.com/@mybytecode/choosing-the-right-typescript-orm-mikroorm-vs-typeorm-fed5d7d9b514
   - NoSQL
+    - MongoDB
+      - Native MongoDB driver for Node.js https://www.geeksforgeeks.org/node-js/native-mongodb-driver-for-node-js/
     - Mongoose
   - Остальное
     - Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
