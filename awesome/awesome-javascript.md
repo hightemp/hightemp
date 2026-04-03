@@ -271,6 +271,7 @@
     - Best Practices for Logging in Node.js https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html
     - Best Practices for Node.js Logging - Tutorial 2026 https://forwardemail.net/en/blog/docs/best-practices-for-node-js-logging
     - Руководство по логированию в Node.js https://habr.com/ru/companies/funcorp/articles/461881/
+    - 5 библиотек ведения логов для Node.js https://nuancesprog.ru/p/16182/
   - morgan
     - Morgan Logger | Tutorial on how to use in an Express application https://signoz.io/blog/morgan-logger/
     - Troubleshooting Session: Node.js Log Settings with Winston and Morgan https://medium.com/@mariaferreira.developer/troubleshooting-session-node-js-log-settings-with-winston-and-morgan-4e51d6565351
