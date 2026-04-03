@@ -249,6 +249,7 @@ Norton
     - IPFS Tutorial: Building a Private IPFS Network with IPFS-Cluster for Data Replication https://eleks.com/research/ipfs-network-data-replication/
 - P2P
     - Hole punching in libp2p - Overcoming Firewalls https://blog.ipfs.tech/2022-01-20-libp2p-hole-punching/
+    - Пробиваем дыры в NAT https://habr.com/ru/articles/763164/
 - TCP
     - TCP Handshake
     - TCP Congestion Control
