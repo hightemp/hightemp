@@ -153,7 +153,7 @@
   - setImmediate
     - Boosting Node.js Throughput with setImmediate https://dev.to/rajajaganathan/boosting-nodejs-throughput-with-setimmediate-9ba
     - Understanding setImmediate() https://nodejs.org/en/learn/asynchronous-work/understanding-setimmediate
-  - worker_threads
+  - Worker Threads
     - Node.js v25.8.1 documentation https://nodejs.org/api/worker_threads.html
     - Node.js multithreading with worker threads series: worker_threads tutorial https://snyk.io/blog/node-js-multithreading-with-worker-threads/
     - Node.js Worker Threads Module https://www.w3schools.com/nodejs/nodejs_worker_threads.asp
