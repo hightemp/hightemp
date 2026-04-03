@@ -194,6 +194,8 @@
   - pm2
     - Основное
       - PM2: подходим к вопросу процесс-менеджмента с умом https://habr.com/ru/articles/480670/
+    - Деплой
+      - Деплоим Next.js приложение через PM2 https://habr.com/ru/articles/820841/
 - Typescript
   - Основное
     - Карманная книга по TypeScript. Часть 1. Основы https://habr.com/ru/companies/macloud/articles/559902/
