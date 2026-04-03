@@ -198,6 +198,7 @@
     - Основное
       - PM2: подходим к вопросу процесс-менеджмента с умом https://habr.com/ru/articles/480670/
       - Что такое PM2: Полное руководство по управлению процессами Node.js https://go.lightnode.com/ru/tech/what-is-pm2
+      - How to use PM2 to manage Node.js applications https://www.serverpoint.com/en/how-tos/pm2-nodejs-process-manager/
     - Модули
       - Улучшаем возможности PM2 с помощью дополнительных модулей автоскейлинга и мониторинга https://habr.com/ru/articles/778316/
     - Деплой
