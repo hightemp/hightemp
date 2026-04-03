@@ -92,6 +92,8 @@
 - Тестирование
   - Mock; Моки
     - **BypassFinals** — PHP-библиотека, которая динамически удаляет ключевые слова `final` и `readonly` из кода на лету, позволяя создавать моки финальных методов и классов для тестирования с интеграцией в популярные фреймворки тестирования как PHPUnit, Mockery и Nette Tester. https://github.com/dg/bypass-finals
+- Остальное
+  - Workerman - это открытый высокопроизводительный контейнер для PHP-приложений, разработанный исключительно на PHP. https://manual.workerman.net/doc/ru/README.html https://github.com/walkor/workerman
 
 ### Скриншоты сайтов
 
