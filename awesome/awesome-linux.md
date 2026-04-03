@@ -273,6 +273,7 @@
                 - SO_REUSEPORT Scaling Techniques for Servers with High Connection Rates https://domsch.com/linux/lpc2010/Scaling_techniques_for_servers_with_high_connection%20rates.pdf
                 - Увеличиваем производительность с помощью SO_REUSEPORT в NGINX 1.9.1 https://habr.com/ru/articles/259403/
                 - Когда один TCP-порт может быть поделён https://habr.com/ru/articles/725144/
+                - The quantum state of a TCP port https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/
         - Мультиплексирование (Multiplexing)
             - Общее (General)
                 - Async IO on Linux: select, poll, and epoll https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/
