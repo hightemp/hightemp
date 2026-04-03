@@ -158,6 +158,9 @@
     - Node.js multithreading with worker threads series: worker_threads tutorial https://snyk.io/blog/node-js-multithreading-with-worker-threads/
     - Node.js Worker Threads Module https://www.w3schools.com/nodejs/nodejs_worker_threads.asp
     - Node.js Worker Threads Explained (Without the Headache) https://last9.io/blog/understanding-worker-threads-in-node-js/
+  - Многопроцессорность
+    - cluster
+      - Unlocking Node.js Performance: Harnessing Multi-Core Power with the cluster Module https://shapkarin.me/articles/node.js-multi-core-cluster/
   - V8
     - Основное
       - Inside the V8 JavaScript Engine https://www.thenodebook.com/node-arch/v8-engine-intro#tldr
