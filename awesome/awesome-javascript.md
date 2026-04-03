@@ -246,6 +246,7 @@
     - MongoDB
       - Native MongoDB driver for Node.js https://www.geeksforgeeks.org/node-js/native-mongodb-driver-for-node-js/
     - Mongoose
+      - SchemaTypes https://mongoosejs.com/docs/schematypes.html
   - Остальное
     - Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
 - Тестирование
