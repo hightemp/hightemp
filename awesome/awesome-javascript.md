@@ -121,6 +121,11 @@
     - Memory Life Cycle in JS(Heap, Stack, Call Stack, String Pool) https://pashazade-nazar.medium.com/memory-life-cycle-heap-stack-call-stack-string-pool-bba2569524cb
     - 🚀 Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly) https://deepu.tech/memory-management-in-v8/
     - Основы управления памятью в JavaScript: как это работает и какие проблемы могут возникнуть https://habr.com/ru/companies/skillbox/articles/554018/
+  - Системы модулей
+    - Приёмы работы с модулями https://imnotgenius.com/6-priyomy-raboty-s-modulyami/
+    - Модули — amd, cjs, esm и umd https://medium.com/@z4o4z/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-amd-cjs-esm-%D0%B8-umd-dff38c267117
+    - Опыт модернизации пакетов в ESM https://reactdev.ru/guides/esm-modernization-lessons/
+    - Создаём современные npm-пакеты и преодолеваем трудности совместимости ESM и CJS https://habr.com/ru/companies/ozontech/articles/857954/
   - Strings, Строки
     - V8. Working with Strings. Expanding Vocabulary https://blog.frontend-almanac.com/v8-strings
   - Loops, Циклы
@@ -290,10 +295,6 @@
   - How to solve the GraphQL n+1 problem https://hygraph.com/blog/graphql-n-1-problem
 - Docker
   - Node.js: управление памятью, доступной приложениям, выполняемым в контейнерах https://habr.com/ru/companies/ruvds/articles/454522/
-- Системы модулей
-  - Модули — amd, cjs, esm и umd https://medium.com/@z4o4z/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-amd-cjs-esm-%D0%B8-umd-dff38c267117
-  - Опыт модернизации пакетов в ESM https://reactdev.ru/guides/esm-modernization-lessons/
-  - Создаём современные npm-пакеты и преодолеваем трудности совместимости ESM и CJS https://habr.com/ru/companies/ozontech/articles/857954/
 - Логирование
   - Основное
     - Best Practices for Logging in Node.js https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html
