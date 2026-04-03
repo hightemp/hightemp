@@ -229,8 +229,13 @@
 - Системы сборки
   - Системы сборки фронтенда: зачем они нужны и как выбрать https://kurshub.ru/journal/blog/sistemy-sborki-frontenda-zachem-oni-nuzhny-i-kak-vybrat/
 - Библиотеки
+  - Worker Thread Pools
+    - Piscina - Basic Usage https://piscinajs.dev/getting-started/Basic%20Usage
   - Ramda
     - Streaming Logs with Transducers and Ramda https://simplectic.com/blog/2015/ramda-transducers-logs/
+  - axios
+    - Основное
+      - Базовое REST API для отправки запросов на сервер с использованием Axios https://websecret.by/blog/razrabotka/bazovoe-rest-api-dlya-otpravki-zaprosov-na-server-s-ispolzovaniem-axios-or-blog-veb-sekret
 - Примеры приложений
   - Tutorial: Create multi-container apps with MySQL and Docker Compose https://learn.microsoft.com/en-us/visualstudio/docker/tutorials/tutorial-multi-container-app-mysql
   - Mastering Microservices: A Hands-On Tutorial with Node.js, RabbitMQ, Nginx, and Docker https://dev.to/davydocsurg/mastering-microservices-a-hands-on-tutorial-with-nodejs-rabbitmq-nginx-and-docker-m4f
@@ -304,10 +309,6 @@
     - Как мы приготовили Feature-Sliced Design в VK https://habr.com/ru/companies/vk/articles/831148/
     - Feature-Sliced Design: The Best Frontend Architecture https://dev.to/m_midas/feature-sliced-design-the-best-frontend-architecture-4noj
     - Understanding Feature-Sliced Design: Benefits and Real Code Examples https://hackernoon.com/understanding-feature-sliced-design-benefits-and-real-code-examples
-- Библиотеки
-  - axios
-    - Основное
-      - Базовое REST API для отправки запросов на сервер с использованием Axios https://websecret.by/blog/razrabotka/bazovoe-rest-api-dlya-otpravki-zaprosov-na-server-s-ispolzovaniem-axios-or-blog-veb-sekret
 - Лучшие практики
   - Лучшие практики TypeScript https://habr.com/ru/articles/859016/
 - Остальное
