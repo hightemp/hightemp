@@ -250,6 +250,7 @@ Norton
 - P2P
     - Hole punching in libp2p - Overcoming Firewalls https://blog.ipfs.tech/2022-01-20-libp2p-hole-punching/
     - Пробиваем дыры в NAT https://habr.com/ru/articles/763164/
+    - How NAT traversal works https://tailscale.com/blog/how-nat-traversal-works
 - TCP
     - TCP Handshake
     - TCP Congestion Control
