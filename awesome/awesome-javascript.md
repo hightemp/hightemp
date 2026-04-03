@@ -286,6 +286,10 @@
     - Как мы приготовили Feature-Sliced Design в VK https://habr.com/ru/companies/vk/articles/831148/
     - Feature-Sliced Design: The Best Frontend Architecture https://dev.to/m_midas/feature-sliced-design-the-best-frontend-architecture-4noj
     - Understanding Feature-Sliced Design: Benefits and Real Code Examples https://hackernoon.com/understanding-feature-sliced-design-benefits-and-real-code-examples
+- Библиотеки
+  - axios
+    - Основное
+      - Базовое REST API для отправки запросов на сервер с использованием Axios https://websecret.by/blog/razrabotka/bazovoe-rest-api-dlya-otpravki-zaprosov-na-server-s-ispolzovaniem-axios-or-blog-veb-sekret
 - Лучшие практики
   - Лучшие практики TypeScript https://habr.com/ru/articles/859016/
 - Остальное
