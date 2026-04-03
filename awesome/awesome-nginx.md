@@ -39,9 +39,12 @@
 - Ограничение скорости; limit_rate
     - Ограничение скорости в Nginx для сложных конфигураций: HTTP/2, API и видеостриминг https://habr.com/ru/companies/otus/articles/843424/
 - Оптимизация
-    - Optimizing Nginx for Performance: Strategies for Maximum Efficiency https://medium.com/@navneetskahlon/optimizing-nginx-for-performance-strategies-for-maximum-efficiency-15e664626760
-    - NGINX Performance Tuning Tips https://www.plesk.com/blog/various/nginx-performance-tuning-tips/
-    - NGINX Tuning For Best Performance https://gist.github.com/night-codes/dc3d43d082a718c273987e064d4c83da https://github.com/denji/nginx-tuning
+    - Основное
+        - Optimizing Nginx for Performance: Strategies for Maximum Efficiency https://medium.com/@navneetskahlon/optimizing-nginx-for-performance-strategies-for-maximum-efficiency-15e664626760
+        - NGINX Performance Tuning Tips https://www.plesk.com/blog/various/nginx-performance-tuning-tips/
+        - NGINX Tuning For Best Performance https://gist.github.com/night-codes/dc3d43d082a718c273987e064d4c83da https://github.com/denji/nginx-tuning
+    - SO_REUSEPORT
+        - Увеличиваем производительность с помощью SO_REUSEPORT в NGINX 1.9.1 https://habr.com/ru/articles/259403/
 - Кэширование
     - High‑Performance Caching with NGINX and NGINX Plus https://www.f5.com/company/blog/nginx/nginx-high-performance-caching
 - Мониторинг
