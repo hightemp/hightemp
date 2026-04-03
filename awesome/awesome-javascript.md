@@ -190,6 +190,10 @@
     - Как настроить проект Node.js с TypeScript и Express https://blog.openreplay.com/ru/настроить-nodejs-typescript-express/
     - Настройка Express 5 для продакшна в 2025 году. Часть 1 https://habr.com/ru/companies/timeweb/articles/948036/
     - Настройка Express 5 для продакшна в 2025 году. Часть 2 https://habr.com/ru/companies/timeweb/articles/950022/
+- Менеджеры процессов
+  - pm2
+    - Основное
+      - PM2: подходим к вопросу процесс-менеджмента с умом https://habr.com/ru/articles/480670/
 - Typescript
   - Основное
     - Карманная книга по TypeScript. Часть 1. Основы https://habr.com/ru/companies/macloud/articles/559902/
