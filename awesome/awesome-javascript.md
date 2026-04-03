@@ -269,6 +269,7 @@
     - Mongoose
       - SchemaTypes https://mongoosejs.com/docs/schematypes.html
       - Учебник Express часть 3: Использование базы данных (с помощью Mongoose) https://developer.mozilla.org/ru/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/mongoose
+      - Грабли mongoose https://habr.com/ru/articles/253395/
   - Остальное
     - Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
 - Тестирование
