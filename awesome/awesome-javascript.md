@@ -159,6 +159,8 @@
     - Node.js Worker Threads Module https://www.w3schools.com/nodejs/nodejs_worker_threads.asp
     - Node.js Worker Threads Explained (Without the Headache) https://last9.io/blog/understanding-worker-threads-in-node-js/
     - Multithreading in Node.js with worker threads https://blog.logrocket.com/multithreading-node-js-worker-threads/
+  - libuv
+    - Understanding the Thread Pool and libuv in Node.js https://shiftasia.com/community/understanding-the-thread-pool-and-libuv-in-node-js/
   - Многопроцессорность
     - cluster
       - Unlocking Node.js Performance: Harnessing Multi-Core Power with the cluster Module https://shapkarin.me/articles/node.js-multi-core-cluster/
