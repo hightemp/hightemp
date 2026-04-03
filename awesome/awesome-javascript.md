@@ -160,6 +160,7 @@
     - Node.js Worker Threads Explained (Without the Headache) https://last9.io/blog/understanding-worker-threads-in-node-js/
     - Multithreading in Node.js with worker threads https://blog.logrocket.com/multithreading-node-js-worker-threads/
   - libuv
+    - Design overview https://iks.cs.ovgu.de/~elkner/tmp/ph/design.html
     - Understanding the Thread Pool and libuv in Node.js https://shiftasia.com/community/understanding-the-thread-pool-and-libuv-in-node-js/
     - Understanding LibUV and Its Thread Pool https://dev.to/rahulvijayvergiya/understanding-libuv-and-its-thread-pool-69i
   - Многопроцессорность
