@@ -27,12 +27,6 @@
 - Droid — ИИ-агент для кодинга от Factory AI, занявший первое место в бенчмарке Terminal-Bench и превзошедший Claude Code с Codex CLI; умеет дебажить среды разработки, обновлять устаревший код, управлять облачной инфраструктурой, писать документацию и обучать модели, поддерживает кастомизацию через скрипты, MCP и триггеры и работает с любой LLM в интерфейсах CLI, IDE, Slack, Linear, браузере и терминале. https://app.factory.ai/
 - https://forgecode.dev/
 
-### Claude Code
-
-- Claude Code Orchestrator Kit — профессиональный набор автоматизации и оркестрации для Claude Code, превращающий его в «оркестратор» с 39 специализированными AI-агентами, библиотекой навыков и slash-командами, авто-оптимизированной конфигурацией MCP и опциональными интеграциями трекинга задач Beads и мультиагентного менеджера Gastown для длительных сессий без потери контекста. https://github.com/maslennikov-ig/claude-code-orchestrator-kit https://www.npmjs.com/package/claude-code-orchestrator-kit https://github.com/steveyegge/beads https://github.com/steveyegge/gastown
-- OwnYourCode — набор протоколов и команд для AI-менторинга разработки, где ИИ обучает, задаёт вопросы и проводит ревью, но весь код пишет разработчик, чтобы результат был понятным, расширяемым и «своим». https://github.com/DanielPodolsky/ownyourcode
-- CCPM (Claude Code Project Manager) — обвес для Claude Code, который разбивает PRD на эпики и задачи в GitHub Issues и запускает параллельный рой автономных агентов в отдельных Git worktree для синхронной разработки без конфликтов. https://github.com/automazeio/ccpm
-
 ### ai терминалы, terminals
 
 - https://www.warp.dev/
