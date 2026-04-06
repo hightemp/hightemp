@@ -9,5 +9,6 @@
 - opencode-ralph-loop https://github.com/charfeng1/opencode-ralph-loop
 - Ralph https://github.com/ChristianKuri/ralph-and-opencode
 - Это форк репозитория, реализующего метод разработки "Ralph" с использованием OpenCode SDK и OpenTUI — подход к AI-ассистированной разработке на TypeScript. https://github.com/shuv1337/openralph
+- spoons-and-mirrors/subtask2 - TypeScript-плагин для opencode, который значительно усиливает встроенный обработчик /command-команд, снижая «энтропию сессии» за счёт более детерминированного агентного цикла. https://github.com/spoons-and-mirrors/subtask2
 
 ### Статьи
