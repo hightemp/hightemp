@@ -6,6 +6,10 @@
 - https://skillmd.ai/skills/
 - https://skills.sh/
 
+### Интсрументы для установки SKILL.md
+
+- OpenSkills — универсальный CLI-загрузчик навыков (SKILL.md) для AI-агентов программирования (Claude Code, Cursor, Windsurf, Aider, Codex и др.), реализующий спецификацию Anthropic Agent Skills и позволяющий устанавливать, синхронизировать и загружать навыки из GitHub или локальных путей одной командой `npx openskills` https://github.com/numman-ali/openskills
+
 ### Скилы; SKILL.md
 
 - Генерация иконок
