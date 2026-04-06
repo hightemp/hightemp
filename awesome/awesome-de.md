@@ -7,4 +7,4 @@
   - Tiling script for kwin https://github.com/kwin-scripts/kwin-tiling
   - Заруск i3 на плазме https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma
 - Остальное  
-  - https://github.com/niri-wm/niri
+  - niri — это скроллируемый тайловый Wayland-композитор, написанный на Rust. https://github.com/niri-wm/niri
