@@ -1,3 +1,7 @@
+### Коллекции
+
+- https://github.com/awesome-opencode/awesome-opencode
+
 ### Репозитории
 
 - oh-my-openagent — это TypeScript-фреймворк (harness) для запуска и оркестрации AI-агентов (Claude, GPT, Gemini и др.) с поддержкой TUI-интерфейса, ранее известный как oh-my-opencode. https://github.com/code-yeongyu/oh-my-openagent
