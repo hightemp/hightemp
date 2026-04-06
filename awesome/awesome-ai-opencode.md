@@ -5,5 +5,6 @@
 ### Loops
 
 - opencode-ralph-loop https://github.com/charfeng1/opencode-ralph-loop
+- Ralph https://github.com/ChristianKuri/ralph-and-opencode
 
 ### Статьи
