@@ -552,6 +552,7 @@ vendor/bin/phpqt-install
     - Dependency Injection в мире Software Engineering https://habr.com/ru/companies/avito/articles/556924/
   - SOLID
     - SOLID Principles in PHP: A Developer’s Guide to Clean Code https://peoplesblog.co.in/articles/understanding-the-solid-principles-in-php.html
+    - Applying SOLID principles to modern PHP https://phpizza.com/articles/solid-php/
   - Чистая архитектура; Clean architecture
     - Clean Architecture with PHP https://medium.com/unil-ci-software-engineering/clean-architecture-with-php-22de915a6c50
     - Чистая архитектура на PHP. Как её измерять и контролировать? https://habr.com/ru/articles/504590/
