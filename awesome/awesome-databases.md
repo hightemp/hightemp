@@ -86,6 +86,8 @@
         - Нейронные оптимизаторы запросов в реляционных БД (Часть 3): Погружение в ранжирование https://habr.com/ru/companies/postgrespro/articles/857998/
     - Kubernetes
         - Mastering high availability: PostgreSQL meets Kubernetes(En) https://weng-albert.medium.com/mastering-high-availability-postgresql-meets-kubernetes-929846f6cc88
+    - Лучшие практики
+        - PostgreSQL: Приемы на продакшене https://habr.com/ru/articles/263541/
     - Репликация
         - Основное
         - Слоты репликации
