@@ -197,6 +197,10 @@
   - Остальное
     - Understanding memory leaks in Node.js apps https://blog.logrocket.com/understanding-memory-leaks-node-js-apps/
     - Memory Leaks Demystified https://nodesource.com/blog/memory-leaks-demystified
+- Системы менеджмента версий
+  - nvm
+    - Основное
+      - Управление версиями Node.js и NPM с помощью NVM https://habr.com/ru/companies/timeweb/articles/541452/
 - Express; expressjs
   - Пример проекта
     - How to set up TypeScript with Node.js and Express https://blog.logrocket.com/express-typescript-node/
