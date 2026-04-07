@@ -1,5 +1,25 @@
-### Расширения для vscode
+### Интеграции для редакторов
 
+#### DevDocs
+
+- devdocs.el - это Emacs-просмотрщик для DevDocs, аналогичный встроенному Info-браузеру, доступный в GNU ELPA и MELPA через `M-x package-install RET devdocs`. https://github.com/astoff/devdocs.el
+- emacs-devdocs-browser - это Emacs-пакет для просмотра DevDocs через EWW с подсветкой синтаксиса, офлайн-режимом и управлением docset'ами. https://github.com/blahgeek/emacs-devdocs-browser
+- DevDocs.el - это устаревший Emacs-пакет для поиска в DevDocs с открытием результатов в браузере через `M-x devdocs-search`. https://github.com/xuchunyang/DevDocs.el
+- devdocs-lookup - это минималистичный Emacs-пакет для быстрого перехода к записям devdocs.io в браузере. https://github.com/skeeto/devdocs-lookup
+- nvim-devdocs - это Neovim-плагин для офлайн-просмотра DevDocs с интеграцией Telescope и рендерингом Markdown (заархивирован). https://github.com/luckasRanarison/nvim-devdocs
+- devdocs.nvim - это Neovim-клиент для devdocs.io на базе `curl`, `jq`, `pandoc` и snacks.nvim picker. https://github.com/maskudo/devdocs.nvim
+- madstone-devdocs.nvim - это Neovim-плагин с fuzzy-поиском через Telescope и офлайн-режимом, требующий Rust-инструмент `dedoc` (`cargo install dedoc`). https://github.com/madstone-tech/madstone-devdocs
+- devdocs JetBrains Plugin - это плагин для IntelliJ/PhpStorm, позволяющий искать документацию на devdocs.io через `Ctrl+K`. https://plugins.jetbrains.com/plugin/15367-devdocs
+
+#### Dash / Zeal Docsets
+
+- helm-dash - это Emacs-пакет для поиска по Dash/Zeal docsets через Helm/Ivy/Consult без необходимости запускать Dash. https://github.com/dash-docs-el/helm-dash
+- counsel-dash - это Emacs-пакет для поиска по Dash docsets через интерфейс Ivy. https://github.com/dash-docs-el/counsel-dash
+- zeal-at-point - это Emacs-пакет для открытия Zeal с символом под курсором, аналог `dash-at-point` для macOS. https://github.com/jinzhu/zeal-at-point
+- vscode-dash - это расширение VS Code для поиска документации в Dash/Zeal по символу под курсором через `Ctrl+H`. https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash
+- IntelliJDashPlugin - это плагин для IntelliJ/PhpStorm/GoLand, обеспечивающий интеграцию с Dash на macOS и Velocity на Windows через `Ctrl+Shift+D`. https://github.com/gdelmas/IntelliJDashPlugin
+- Alfred-Dash-Workflow - это официальный Alfred Workflow для быстрого поиска по Dash docsets на macOS. https://github.com/Kapeli/Dash-Alfred-Workflow
+- dasht - это набор shell-скриптов для поиска по Dash docsets в терминале через `w3m` или локальный HTTP-сервер с поддержкой интеграции в Vim/Neovim. https://github.com/sunaku/dasht
 - Visual Studio Code Dash: Расширение для редактора VS Code, обеспечивающее быструю интеграцию с браузерами документации Dash, Zeal и Velocity для мгновенного поиска API-справок по выделенному фрагменту кода или языку программирования. https://github.com/deerawan/vscode-dash
 
 ### Утилиты для скачивания и хранения документации
