@@ -6,6 +6,7 @@
 
 - Zeal: Оффлайн-браузер документации для разработчиков программного обеспечения, вдохновленный Dash и позволяющий быстро осуществлять поиск по наборам API-документации без доступа к интернету. https://github.com/zealdocs/zeal https://zealdocs.org/
 - Velocity — аналог Dash для Windows https://velocity.findmysoft.com/
+- dasht is a collection of shell scripts for searching, browsing, and managing API documentation (in the form of 200+ offline documentation sets, courtesy of Dash for macOS) all from the comfort of your own terminal! https://www.x-cmd.com/install/dasht https://github.com/x-cmd/x-cmd
 
 ### Сервисы предоставляющие документацию для разработчиков
 
