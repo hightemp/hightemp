@@ -20,6 +20,7 @@
 
 - Основное
     - [в закладки] Bash для начинающих: 21 полезная команда https://habr.com/ru/companies/ruvds/articles/445270/
+    - Bash-скрипты Введение в bash-скрипты https://metanit.com/os/linux/12.1.php
 - /dev/tcp
     - Exploring /dev/tcp https://w0lfram1te.com/exploring-dev-tcp
     - More on Using Bash's Built-in /dev/tcp File (TCP/IP) https://www.linuxjournal.com/content/more-using-bashs-built-devtcp-file-tcpip
