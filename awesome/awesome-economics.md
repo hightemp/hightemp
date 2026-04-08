@@ -15,6 +15,7 @@
 - https://conomica.ru/
 - https://www.a7.ru/
 - finmuster https://investment-platforma.com/
+- https://vbeton.ru/
 
 ### Сервисы для открытия виртуальных иностранных карт; Виртуальные карты
 
