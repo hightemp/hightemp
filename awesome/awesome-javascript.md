@@ -71,6 +71,12 @@
 
 - https://google.github.io/styleguide/tsguide.html
 
+### Системы менеджмента версий
+
+- **nvm (Node Version Manager)** Гибкий менеджер версий Node.js для POSIX-совместимых оболочек (bash, zsh и др.), позволяющий устанавливать несколько версий интерпретатора на уровне пользователя и быстро переключаться между ними в рамках текущей сессии терминала. https://github.com/nvm-sh/nvm
+- **n** Легковесный менеджер версий Node.js для систем на базе Unix, реализованный в виде Bash-скрипта и позволяющий интерактивно устанавливать, переключать и удалять версии интерпретатора без использования подоболочек или сложной настройки профиля. https://github.com/tj/n
+- **asdf** Универсальный контекстный менеджер версий с открытым исходным кодом, позволяющий через единый интерфейс командной строки и систему плагинов управлять рантаймами множества языков программирования на уровне отдельных проектов. https://asdf-vm.com/ https://github.com/asdf-vm/asdf https://github.com/asdf-vm/asdf-plugins
+
 ### ui-библиотеки
 
 - https://w2ui.com/
@@ -128,6 +134,14 @@
     - Создаём современные npm-пакеты и преодолеваем трудности совместимости ESM и CJS https://habr.com/ru/companies/ozontech/articles/857954/
   - Strings, Строки
     - V8. Working with Strings. Expanding Vocabulary https://blog.frontend-almanac.com/v8-strings
+  - Функции
+    - Стрелочные функции
+      - Особенности стрелочных функций https://frontendblog.ru/blog/osobennosti-strelochnyh-funkcij/
+    - Остальное
+      - Винтажный JS — bind, call и apply своими руками https://frontendblog.ru/blog/bind-call-apply-svoimi-rukami
+  - Классы
+    - Основное
+      - Всё, что вы хотели знать о классах в Javascript https://frontendblog.ru/blog/js-classy-chto-zachem-i-pochemu
   - Loops, Циклы
     - JavaScript Loops Explained: For Loop, While Loop, Do...while Loop, and More https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for
     - Understanding and Proving Looping Performance in JavaScript. https://medium.com/@muhamadwindy/understanding-and-proving-looping-performance-in-javascript-520380c0cac2
@@ -197,6 +211,10 @@
   - Остальное
     - Understanding memory leaks in Node.js apps https://blog.logrocket.com/understanding-memory-leaks-node-js-apps/
     - Memory Leaks Demystified https://nodesource.com/blog/memory-leaks-demystified
+- Системы менеджмента версий
+  - nvm
+    - Основное
+      - Управление версиями Node.js и NPM с помощью NVM https://habr.com/ru/companies/timeweb/articles/541452/
 - Express; expressjs
   - Пример проекта
     - How to set up TypeScript with Node.js and Express https://blog.logrocket.com/express-typescript-node/
@@ -233,12 +251,17 @@
     - esModuleInterop
       - Про esModuleInterop и совместимость модулей ES6 и CommonJS https://habr.com/ru/articles/930182/
 - Алгоритмы
-  - JavaScript: структуры данных и алгоритмы. Часть 7 https://habr.com/ru/companies/timeweb/articles/856046/
+  - Основное 
+    - JavaScript: структуры данных и алгоритмы. Часть 7 https://habr.com/ru/companies/timeweb/articles/856046/
+  - Сравнение объектов
+    - Пять различных способов глубокого сравнения JavaScript объектов https://www.dev-notes.ru/articles/javascript/five-different-ways-to-deep-compare-objects/
 - VSCode
   - Essential VS Code Extensions for JavaScript Developers in 2024 https://www.gitkraken.com/blog/vs-code-extensions-for-javascript-developers
   - 10 Must-Have VS Code extensions for JavaScript developers https://towardsthecloud.com/best-vscode-extensions-javascript
 - Системы сборки
   - Системы сборки фронтенда: зачем они нужны и как выбрать https://kurshub.ru/journal/blog/sistemy-sborki-frontenda-zachem-oni-nuzhny-i-kak-vybrat/
+- Создание пакета
+  - Создание npm пакета на TypeScript с поддержкой CommonJS и ESM https://www.dev-notes.ru/tags/nodejs/
 - Библиотеки
   - Worker Thread Pools
     - Piscina - Basic Usage https://piscinajs.dev/getting-started/Basic%20Usage
@@ -273,6 +296,10 @@
   - Остальное
     - Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
 - Тестирование
+  - Jest
+    - Основное
+      - Тестирование JavaScript кода с Jest для чайников. Часть 1 https://habr.com/ru/articles/502302/
+      - Jest: полное руководство по тестированию JavaScript кода https://pokodem.ru/jest-polnoe-rukovodstvo-po-testirovaniyu-javascript-koda/
   - Vitest
     - Основное
       - Getting Started https://vitest.dev/guide/
@@ -408,6 +435,8 @@
 - https://www.aleksandrhovhannisyan.com/tags/javascript/
 - https://blog.frontend-almanac.com/
 - https://imnotgenius.com/
+- https://frontendblog.ru/
+- https://www.dev-notes.ru/tags/nodejs/
 
 ### Вопросы
 

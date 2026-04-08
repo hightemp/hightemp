@@ -367,6 +367,9 @@
                 - Chapter 20. Access Control Lists https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/storage_administration_guide/ch-acls
                 - Быть или не быть ACL в администрировании Linux https://habr.com/ru/companies/slurm/articles/673570/
                 - Linux — работа с ACL https://internet-lab.ru/linux_acl
+        - Быстрые клавиши
+            - Терминал
+                - Горячие клавиши терминала Linux https://selectel.ru/blog/tutorials/linux-terminal-hotkeys/
     - Остальное
 - POSIX
     - Threads; Потоки
