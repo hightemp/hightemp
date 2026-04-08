@@ -426,6 +426,7 @@
 - https://blog.frontend-almanac.com/
 - https://imnotgenius.com/
 - https://frontendblog.ru/
+- https://www.dev-notes.ru/tags/nodejs/
 
 ### Вопросы
 
