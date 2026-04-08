@@ -425,6 +425,7 @@
 - https://www.aleksandrhovhannisyan.com/tags/javascript/
 - https://blog.frontend-almanac.com/
 - https://imnotgenius.com/
+- https://frontendblog.ru/
 
 ### Вопросы
 
