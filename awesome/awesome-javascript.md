@@ -134,6 +134,8 @@
     - Создаём современные npm-пакеты и преодолеваем трудности совместимости ESM и CJS https://habr.com/ru/companies/ozontech/articles/857954/
   - Strings, Строки
     - V8. Working with Strings. Expanding Vocabulary https://blog.frontend-almanac.com/v8-strings
+  - Стрелочные функции
+    - Особенности стрелочных функций https://frontendblog.ru/blog/osobennosti-strelochnyh-funkcij/
   - Loops, Циклы
     - JavaScript Loops Explained: For Loop, While Loop, Do...while Loop, and More https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for
     - Understanding and Proving Looping Performance in JavaScript. https://medium.com/@muhamadwindy/understanding-and-proving-looping-performance-in-javascript-520380c0cac2
