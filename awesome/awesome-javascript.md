@@ -283,6 +283,9 @@
   - Остальное
     - Pongo - Mongo but on Postgres and with strong consistency benefits https://event-driven.io/en/introducting_pongo/
 - Тестирование
+  - Jest
+    - Основное
+      - Jest: полное руководство по тестированию JavaScript кода https://pokodem.ru/jest-polnoe-rukovodstvo-po-testirovaniyu-javascript-koda/
   - Vitest
     - Основное
       - Getting Started https://vitest.dev/guide/
