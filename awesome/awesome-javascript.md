@@ -252,6 +252,8 @@
   - 10 Must-Have VS Code extensions for JavaScript developers https://towardsthecloud.com/best-vscode-extensions-javascript
 - Системы сборки
   - Системы сборки фронтенда: зачем они нужны и как выбрать https://kurshub.ru/journal/blog/sistemy-sborki-frontenda-zachem-oni-nuzhny-i-kak-vybrat/
+- Создание пакета
+  - Создание npm пакета на TypeScript с поддержкой CommonJS и ESM https://www.dev-notes.ru/tags/nodejs/
 - Библиотеки
   - Worker Thread Pools
     - Piscina - Basic Usage https://piscinajs.dev/getting-started/Basic%20Usage
