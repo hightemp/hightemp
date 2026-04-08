@@ -243,7 +243,10 @@
     - esModuleInterop
       - Про esModuleInterop и совместимость модулей ES6 и CommonJS https://habr.com/ru/articles/930182/
 - Алгоритмы
-  - JavaScript: структуры данных и алгоритмы. Часть 7 https://habr.com/ru/companies/timeweb/articles/856046/
+  - Основное 
+    - JavaScript: структуры данных и алгоритмы. Часть 7 https://habr.com/ru/companies/timeweb/articles/856046/
+  - Сравнение объектов
+    - Пять различных способов глубокого сравнения JavaScript объектов https://www.dev-notes.ru/articles/javascript/five-different-ways-to-deep-compare-objects/
 - VSCode
   - Essential VS Code Extensions for JavaScript Developers in 2024 https://www.gitkraken.com/blog/vs-code-extensions-for-javascript-developers
   - 10 Must-Have VS Code extensions for JavaScript developers https://towardsthecloud.com/best-vscode-extensions-javascript
