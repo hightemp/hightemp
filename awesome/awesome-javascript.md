@@ -139,6 +139,9 @@
       - Особенности стрелочных функций https://frontendblog.ru/blog/osobennosti-strelochnyh-funkcij/
     - Остальное
       - Винтажный JS — bind, call и apply своими руками https://frontendblog.ru/blog/bind-call-apply-svoimi-rukami
+  - Классы
+    - Основное
+      - Всё, что вы хотели знать о классах в Javascript https://frontendblog.ru/blog/js-classy-chto-zachem-i-pochemu
   - Loops, Циклы
     - JavaScript Loops Explained: For Loop, While Loop, Do...while Loop, and More https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for
     - Understanding and Proving Looping Performance in JavaScript. https://medium.com/@muhamadwindy/understanding-and-proving-looping-performance-in-javascript-520380c0cac2
