@@ -285,6 +285,7 @@
 - Тестирование
   - Jest
     - Основное
+      - Тестирование JavaScript кода с Jest для чайников. Часть 1 https://habr.com/ru/articles/502302/
       - Jest: полное руководство по тестированию JavaScript кода https://pokodem.ru/jest-polnoe-rukovodstvo-po-testirovaniyu-javascript-koda/
   - Vitest
     - Основное
