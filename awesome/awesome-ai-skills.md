@@ -5,6 +5,7 @@
 - https://lobehub.com/skills
 - https://skillmd.ai/skills/
 - https://skills.sh/
+- https://github.com/anthropics/skills
 
 ### Интсрументы для установки SKILL.md
 
