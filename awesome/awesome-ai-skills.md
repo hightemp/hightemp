@@ -6,6 +6,7 @@
 - https://skillmd.ai/skills/
 - https://skills.sh/
 - https://github.com/anthropics/skills
+- https://github.com/vercel-labs/agent-skills
 
 ### Интсрументы для установки SKILL.md
 
