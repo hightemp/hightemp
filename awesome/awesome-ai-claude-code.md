@@ -20,6 +20,8 @@
 
 ### Статьи
 
+- Основное
+    - Что вы не знали о Claude Code: архитектура, управление и инженерные практики https://habr.com/ru/articles/1012412/
 - Workflow
     - Как я перестал бояться Claude Code и научил его не ломать мои проекты https://habr.com/ru/articles/1013330/
 - PHP
