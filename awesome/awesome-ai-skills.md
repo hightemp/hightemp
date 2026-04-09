@@ -24,6 +24,8 @@
         - app-icon-generator skill https://playbooks.com/skills/dexploarer/claudius-skills/app-icon-generator
         - app-icon-generator https://lobehub.com/ru/skills/dexploarer-claudius-skills-app-icon-generator
         - app-icon https://skills.sh/code-with-beto/skills/app-icon
+- UI/UX
+    - UI UX Pro Max https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 - PHP
     - Архитектура
         - PHP SOLID Architecture Guide https://mcpmarket.com/tools/skills/php-solid-architecture-guide

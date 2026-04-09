@@ -13,3 +13,9 @@
 ### Интсрументы
 
 - `#vscode/askQuestions` - карусель вопросов
+
+### Статьи
+
+- Лучшие практики
+    - Как использовать GitHub Copilot в IDE: советы, приёмы и лучшие практики https://habr.com/ru/companies/otus/articles/815083/
+    - Using GitHub Copilot in your IDE: Tips, tricks, and best practices https://github.blog/developer-skills/github/how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/
