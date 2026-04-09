@@ -12,6 +12,8 @@
 
 ### Скилы; SKILL.md
 
+- Создание скилов
+    - Skill Creator https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
 - Генерация иконок
     - favicon
         - favicon https://lobehub.com/ru/skills/andrehfp-tinyplate-favicon
