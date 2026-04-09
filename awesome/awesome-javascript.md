@@ -300,6 +300,7 @@
     - Основное
       - Тестирование JavaScript кода с Jest для чайников. Часть 1 https://habr.com/ru/articles/502302/
       - Jest: полное руководство по тестированию JavaScript кода https://pokodem.ru/jest-polnoe-rukovodstvo-po-testirovaniyu-javascript-koda/
+      - Успешное тестирование: основы и передовые приемы Jest. Часть 1 https://proglib.io/p/uspeshnoe-testirovanie-osnovy-i-peredovye-priemy-jest-chast-1-2024-11-11
   - Vitest
     - Основное
       - Getting Started https://vitest.dev/guide/
