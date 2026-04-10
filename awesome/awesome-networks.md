@@ -294,6 +294,7 @@ Norton
         - Forward a TCP port to another IP or port using NAT with nftables https://jensd.be/1086/linux/forward-a-tcp-port-to-another-ip-or-port-using-nat-with-nftables
     - NAT
         - 6.3. Configuring NAT using nftables https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/security_guide/sec-configuring_nat_using_nftables
+        - Простой шлюз в сеть Интернет на nftables в ОС Astra Linux Special Edition https://habr.com/ru/companies/astralinux/articles/858390/
 - Анализ траффика
     - Wireshark & tcpdump: A Debugging Power Couple https://medium.com/javarevisited/wireshark-tcpdump-a-debugging-power-couple-c4242cc7c052
     - Packet Sniffing Essentials: Exploring Packet Capture and Analysis using TCPDump and Wireshark https://medium.com/@samuel_ad/packet-sniffing-essentials-exploring-packet-capture-and-analysis-using-tcpdump-and-wireshark-d473196a5ace
