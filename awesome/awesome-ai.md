@@ -48,12 +48,6 @@
     - Библиотека промтов Promptly — большая коллекция промтов, сгруппированных в 9 категорий: бизнес, карьера, креатив, образование, здоровье, маркетинг, технологии, личный помощник и общее. https://www.promptly.fyi/library
 - GlobalGPT - централизованный многофункциональный сервис агрегации передовых возможностей искусственного интеллекта, в котором сочетаются следующие ключевые особенности: конверсационные модели (ChatGPT, Claude и Gemini), генераторы изображений и видео с использованием ИИ, расширенные функции поиска на основе ИИ, интегрированные интеллектуальные инструменты для пользователей. https://glbgpt.com/
 - Этот репозиторий содержит подборку из 60+ практических проектов по генеративному ИИ — от мультимодальных приложений и до агентных систем, RAG, аудио- и музыкального генератора; каждый проект снабжен кратким описанием, составом требуемых навыков и полезными ссылками на туториалы и исходный код. http://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/60_ai_projects.md
-- MCP
-    - mcp сервера https://www.mcp.pizza/
-    - mcp клиенты https://github.com/punkpeye/awesome-mcp-clients
-    - A suite of specialized MCP servers that help you get the most out of AWS, wherever you use MCP. https://github.com/awslabs/mcp
-    - https://glama.ai/mcp
-    - Model Context Protocol servers https://github.com/modelcontextprotocol/servers
 - AI Project Gallery — GitHub-библиотека с 28+ готовыми ML/AI-проектами (чат-боты, компьютерное зрение, анализ данных и документов, решения для здравоохранения и др.). https://github.com/KalyanM45/AI-Project-Gallery
 
 ### Данные для обучения; Датасеты; Datasets
