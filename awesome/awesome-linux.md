@@ -481,6 +481,9 @@
         - Fail2Ban-SSH и Brute-force attack https://hackmd.io/@AndrewMsk/rJhRSfwti
 - find
     - Find large files Linux/macOS https://www.vanwerkhoven.org/blog/2024/find-large-files-linux-macos/
+- Firewall
+    - nftables
+        - nftables https://documentation.ubuntu.com/security/security-features/network/firewall/nftables/
 - Сеть, network
     - Основное
     - Количество соединений
