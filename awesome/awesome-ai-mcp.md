@@ -50,3 +50,11 @@
 
 
 
+### Статьи
+
+- Основное
+    - API для LLM: разбираем по пунктам, как устроен и как работает протокол MCP https://habr.com/ru/companies/bitrix/articles/965410/?ysclid=mi30eo9oju538844336
+    - Model Context Protocol (MCP) – универсальный протокол для взаимодействия с ИИ, и почему это замечательно https://habr.com/ru/articles/899088/
+    - Как работают серверы MCP: компоненты, логика и архитектура https://habr.com/ru/articles/925320/
+    - Как обезопасить Spring AI MCP сервер с помощью OAuth2 https://habr.com/ru/companies/spring_aio/articles/901360/
+    - Test a Remote MCP Server https://developers.cloudflare.com/agents/guides/test-remote-mcp-server/
