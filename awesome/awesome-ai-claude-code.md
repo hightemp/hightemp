@@ -27,6 +27,7 @@
 - Основное
     - Что вы не знали о Claude Code: архитектура, управление и инженерные практики https://habr.com/ru/articles/1012412/
     - Claude Code: практический гайд по настройке, автоматизации и работе с контекстом https://habr.com/ru/articles/987094/
+    - Проблема не в промпте: как Claude Code плывет на длинных задачах и как управлять контекстом https://habr.com/ru/articles/1004994/
 - Workflow
     - Как я перестал бояться Claude Code и научил его не ломать мои проекты https://habr.com/ru/articles/1013330/
 - PHP
