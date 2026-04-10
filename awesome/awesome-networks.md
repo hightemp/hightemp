@@ -289,7 +289,6 @@ Norton
         - What is HTTP Chunked Encoding? https://www.ioriver.io/terms/http-chunked-encoding
 - ТСПУ
     - Установка ТСПУ https://pavel.su/internet/setting-up-tspu/
-    - DPI IS ALL YOU NEED: абсолютно все о блокировках, РКН, белых списках, и что вообще это было https://habr.com/ru/articles/1014038/
 - nftables
     - Остальное
         - Forward a TCP port to another IP or port using NAT with nftables https://jensd.be/1086/linux/forward-a-tcp-port-to-another-ip-or-port-using-nat-with-nftables
