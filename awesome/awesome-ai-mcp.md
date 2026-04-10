@@ -1,5 +1,7 @@
 ### Коллекции и каталоги
 
+- https://github.com/punkpeye/awesome-mcp-servers
+- https://github.com/punkpeye/awesome-mcp-clients
 - MCP.so — каталог и поисковик по популярным MCP-серверам. https://mcp.so/
 - MCP Market — каталог MCP-серверов и смежных инструментов. https://mcpmarket.com/
 - https://glama.ai/mcp/servers
@@ -7,7 +9,6 @@
 - Smithery — платформа и каталог для подключения и публикации MCP-серверов. https://smithery.ai/
 - AWS Labs MCP — набор специализированных MCP-серверов для AWS. https://github.com/awslabs/mcp
 - Официальная коллекция серверов MCP. https://github.com/modelcontextprotocol/servers
-- https://github.com/punkpeye/awesome-mcp-clients
 
 ### Платформы, хабы и интеграции
 

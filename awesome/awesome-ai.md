@@ -30,7 +30,6 @@
 - https://github.com/ozancanozdemir/AI-Tools-for-Research?tab=readme-ov-file
 - https://github.com/Not-Diamond/awesome-ai-model-routing
 - https://www.evidentlyai.com/ml-system-design
-- https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/balavenkatesh3322/awesome-AI-toolkit
 - Awesome AI Agents — курируемый список (awesome list) проектов и компаний, создающих AI‑агентов, с разбивкой на open‑source и closed‑source и веб‑версией для фильтрации по категориям и сценариям. https://github.com/e2b-dev/awesome-ai-agents https://e2b.dev/ai-agents
 - обширная коллекция из более чем 1500 автоматизированных агентов, предназначенных для оптимизации процессов в различных сферах, включая личные и бизнес-ассистенты. https://app.dealroom.co/lists/53885
