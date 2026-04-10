@@ -186,6 +186,8 @@ Norton
     - SOCKS Proxy Over SSH https://hjr265.me/blog/socks-proxy-over-ssh/
 - DMZ
     - Network Design Scenario #2: DMZ Design https://www.networkdefenseblog.com/post/design-scenario-2-dmz-design
+    - Network Design: Dual ISP, DMZ, and the Network Edge https://www.networkdefenseblog.com/post/network-design-network-edge
+    - Network Design: Circuit, Active/Active BGP, and other Network Edge Design Considerations https://www.networkdefenseblog.com/post/network-edge-design-part2
 - VPN
     - OpenVPN
     - WireGuard
