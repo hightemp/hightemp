@@ -274,6 +274,8 @@ Norton
         - What is HTTP Chunked Encoding? https://www.ioriver.io/terms/http-chunked-encoding
 - ТСПУ
     - Установка ТСПУ https://pavel.su/internet/setting-up-tspu/
+- Security
+    - How to eliminate the default route for greater security https://www.networkworld.com/article/965122/how-to-eliminate-the-default-route-for-greater-security.html
 - nftables
     - Остальное
         - Forward a TCP port to another IP or port using NAT with nftables https://jensd.be/1086/linux/forward-a-tcp-port-to-another-ip-or-port-using-nat-with-nftables
