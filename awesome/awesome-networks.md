@@ -188,6 +188,7 @@ Norton
     - Network Design Scenario #2: DMZ Design https://www.networkdefenseblog.com/post/design-scenario-2-dmz-design
     - Network Design: Dual ISP, DMZ, and the Network Edge https://www.networkdefenseblog.com/post/network-design-network-edge
     - Network Design: Circuit, Active/Active BGP, and other Network Edge Design Considerations https://www.networkdefenseblog.com/post/network-edge-design-part2
+    - Designing and Using DMZ Networks to Protect Internet Servers https://www.linuxjournal.com/article/4415
 - VPN
     - OpenVPN
     - WireGuard
