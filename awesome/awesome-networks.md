@@ -184,6 +184,8 @@ Norton
     - Протокол QUIC в деле: как его внедрял Uber, чтобы оптимизировать производительность https://habr.com/ru/companies/Voximplant/articles/463073/
 - SSH
     - SOCKS Proxy Over SSH https://hjr265.me/blog/socks-proxy-over-ssh/
+- DMZ
+    - Network Design Scenario #2: DMZ Design https://www.networkdefenseblog.com/post/design-scenario-2-dmz-design
 - VPN
     - OpenVPN
     - WireGuard
@@ -288,5 +290,6 @@ Norton
 
 - https://www.vanwerkhoven.org/blog/
 - https://pavel.su/
+- https://www.networkdefenseblog.com/
 
 ### Видео
