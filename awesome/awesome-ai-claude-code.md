@@ -23,6 +23,10 @@
 
 - claude-code-workflows — набор плагинов для Claude Code, реализующий сквозные рабочие процессы AI-ассистируемой разработки (бэкенд, фронтенд, полный стек) с разделением на специализированных агентов для формулирования требований, проектирования, реализации и проверки качества. https://github.com/shinpr/claude-code-workflows
 
+### Карьера; Job Search
+
+- Career-Ops — open-source система поиска работы на базе Claude Code: slash-команда `/career-ops` с 14 режимами для оценки вакансий, сканирования job boards и career pages, генерации ATS-оптимизированных PDF-резюме под конкретную вакансию, batch processing, заполнения анкет, подготовки к интервью и TUI-dashboard для трекинга pipeline. https://github.com/santifer/career-ops
+
 ### Skills; Скилы
 
 - avoid-ai-writing — скилл для Claude Code и OpenClaw, который анализирует текст на 36 типовых признаков AI-стиля и поддерживает два режима: аудит с пометкой подозрительных паттернов и рерайт для удаления найденных шаблонов. https://github.com/conorbronsdon/avoid-ai-writing
