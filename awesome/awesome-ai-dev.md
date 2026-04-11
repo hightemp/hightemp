@@ -22,9 +22,9 @@
 - Claude Code https://www.anthropic.com/claude-code
     - https://github.com/musistudio/claude-code-router
 - Claudia.so — это открытое настольное GUI‑приложение для Anthropic Claude Code, которое даёт удобный визуальный интерфейс для управления проектами, сессиями, кастомными AI‑агентами, MCP‑серверами и аналитикой использования вместо работы только через терминал. http://claudia.so/
+- SoulForge — graph-powered AI coding agent/CLI, который строит живой dependency graph кодовой базы, делает surgical reads по функциям/классам, поддерживает multi-agent dispatch с общим кэшем, instant compaction, 4-tier code intelligence (LSP/ts-morph/tree-sitter/regex), MCP-серверы, skills, embedded Neovim и 20 провайдеров моделей; совместим с Claude Code hooks. https://github.com/ProxySoul/soulforge
 - Kiro — IDE от Amazon, предназначенная для полного цикла разработки, оснащенная встроенным агентом на основе модели Claude Sonnet, поддерживающая расширения VS Code и автоматизацию процессов. https://kiro.dev/blog/introducing-kiro/ https://kiro.dev/
 - Qoder — бесплатный ИИ-агент от Alibaba, способный писать код и собирать приложения, анализируя проект и кодовую базу, подстраиваясь под стиль написания и выполняя задачи поэтапно. Agentic Coding Platform for Real Software https://qoder.com/
 - Droid — ИИ-агент для кодинга от Factory AI, занявший первое место в бенчмарке Terminal-Bench и превзошедший Claude Code с Codex CLI; умеет дебажить среды разработки, обновлять устаревший код, управлять облачной инфраструктурой, писать документацию и обучать модели, поддерживает кастомизацию через скрипты, MCP и триггеры и работает с любой LLM в интерфейсах CLI, IDE, Slack, Linear, браузере и терминале. https://app.factory.ai/
 - https://forgecode.dev/
-
 
