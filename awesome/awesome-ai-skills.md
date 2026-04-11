@@ -18,6 +18,17 @@
 
 - Создание скилов
     - Skill Creator https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
+- Проработка идей
+    - grill-me — минималистичный скилл для жёсткого интервью по плану, идее или дизайну: задаёт вопросы по одному, проходит ветки решений до общего понимания и предлагает рекомендуемый ответ на каждый вопрос; если ответ можно найти в кодовой базе, сначала исследует проект. https://github.com/mattpocock/skills/tree/main/grill-me
+- Маркетинг; SEO; CRO
+    - seo-audit — скилл для технического и on-page SEO-аудита сайта: проверяет crawlability/indexation, robots.txt, sitemap, canonical/noindex, архитектуру, Core Web Vitals, мобильную пригодность, мета-теги, заголовки, контент и структурированные данные с учётом ограничений `web_fetch`/`curl`. https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit
+    - page-cro — скилл для conversion rate optimization маркетинговых страниц: анализирует ценностное предложение, headline, CTA, визуальную иерархию, trust signals, social proof, возражения, friction points и выдаёт quick wins, high-impact changes, test ideas и варианты copy. https://github.com/coreyhaines31/marketingskills/tree/main/skills/page-cro
+- Редактура
+    - humanizer — скилл-редактор для поиска и удаления типовых AI-writing паттернов: inflated symbolism, promotional language, поверхностные `-ing` конструкции, vague attributions, злоупотребление em dash, rule of three, AI vocabulary, negative parallelisms и чрезмерные связки; помогает сохранить смысл и добавить более естественный голос. https://github.com/softaworks/agent-toolkit/tree/main/skills/humanizer
+- Фактчекинг
+    - fact-checker — скилл для системной проверки утверждений и источников: выделяет фактологические claims, определяет нужный уровень доказательств, ранжирует источники по надежности, выставляет verdict от TRUE до UNVERIFIABLE и предлагает корректную формулировку при ошибках или недостатке контекста. https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/fact-checker
+- MCP
+    - mcp-builder — официальный скилл Anthropic для проектирования и сборки MCP-серверов под внешние API и сервисы: ведёт через исследование API, выбор покрытия endpoint/workflow tools, реализацию на TypeScript/Python, тестирование через MCP Inspector и подготовку evals. https://github.com/anthropics/skills/tree/main/skills/mcp-builder
 - Генерация иконок
     - favicon
         - favicon https://lobehub.com/ru/skills/andrehfp-tinyplate-favicon
