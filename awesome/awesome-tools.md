@@ -151,6 +151,7 @@
 
 ### Торренты
 
+- bitmagnet — self-hosted BitTorrent indexer, DHT crawler, content classifier и torrent search engine с Web UI, GraphQL API и интеграцией с Servarr-стеком; разворачивается через Docker Compose, Web UI по умолчанию доступен на порту 3333, DHT crawler можно запустить как worker. https://github.com/bitmagnet-io/bitmagnet https://bitmagnet.io/setup/installation.html
 - Zipyer — сервис для быстрой и простой загрузки торрентов в формате ZIP за один клик без регистрации и ограничений. https://www.zipyer.xyz/
 
 ### Менеджеры закачек
