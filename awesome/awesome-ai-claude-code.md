@@ -8,6 +8,11 @@
 - OwnYourCode — набор протоколов и команд для AI-менторинга разработки, где ИИ обучает, задаёт вопросы и проводит ревью, но весь код пишет разработчик, чтобы результат был понятным, расширяемым и «своим». https://github.com/DanielPodolsky/ownyourcode
 - CCPM (Claude Code Project Manager) — обвес для Claude Code, который разбивает PRD на эпики и задачи в GitHub Issues и запускает параллельный рой автономных агентов в отдельных Git worktree для синхронной разработки без конфликтов. https://github.com/automazeio/ccpm
 
+### Альтернативы и порты Claude Code
+
+- OpenClaude — open-source coding-agent CLI в стиле Claude Code для облачных и локальных моделей: поддерживает OpenAI-compatible API, OpenRouter, DeepSeek, Groq, Mistral, Gemini, GitHub Models, Codex, Ollama, LM Studio и другие бэкенды; сохраняет terminal-first workflow с bash/file/grep/glob-инструментами, агентами, задачами, MCP, slash-командами, streaming output, web search/fetch и входными изображениями у провайдеров с vision. https://github.com/Gitlawb/openclaude
+- Claw Code — публичная Rust-реализация `claw` CLI agent harness: собирается из исходников, содержит canonical workspace в `rust/`, команды для prompt/session/config/parity workflows, health-check через `claw doctor`, поддержку API-ключей провайдеров, документацию по parity/roadmap и не заявляет аффилиации с Anthropic. https://github.com/ultraworkers/claw-code
+
 ### Token Optimization; Утилиты для экономии токенов
 
 - rtk — CLI-прокси на Rust, сокращающий потребление токенов LLM на 60–90% за счёт фильтрации, группировки и дедупликации вывода команд (git, cargo, pytest, docker и др.). Поддерживает авто-перехват команд через PreToolUse-хук Claude Code. https://github.com/rtk-ai/rtk
