@@ -11,6 +11,7 @@
 ### Token Optimization; Утилиты для экономии токенов
 
 - rtk — CLI-прокси на Rust, сокращающий потребление токенов LLM на 60–90% за счёт фильтрации, группировки и дедупликации вывода команд (git, cargo, pytest, docker и др.). Поддерживает авто-перехват команд через PreToolUse-хук Claude Code. https://github.com/rtk-ai/rtk
+- caveman — skill/plugin для Claude Code и Codex, который сжимает стиль ответов до телеграфного «caveman mode», уменьшая расход output tokens, ускоряя ответы и добавляя режимы terse review/commit и сжатия memory/context-файлов. https://github.com/JuliusBrussee/caveman
 
 ### Loops; Ralph
 
