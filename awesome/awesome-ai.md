@@ -980,6 +980,7 @@ https://arxiv.org/pdf/2411.08804v1
 - https://github.com/sansan0/ai-code-context-helper
 - https://prompt.16x.engineer/
 - https://github.com/context-hub/generator
+- GitReverse — веб-инструмент, который принимает ссылку на публичный GitHub-репозиторий или `owner/repo`, анализирует проект и превращает его в один plain-language prompt для vibe coding; также поддерживает замену `github.com` на `gitreverse.com` в URL. https://www.gitreverse.com/
 
 ### Промты; Промптинг
 
