@@ -70,6 +70,10 @@
 
 - FLX1s — Linux-смартфон от компании Furi Labs, работающий на FuriOS, обеспечивающий высокий уровень конфиденциальности и поддерживающий Android-приложения, с предзаказом по цене $550 и первой партией, запланированной на 25 октября. https://furilabs.com/flx1s-is-launched/ https://github.com/FuriLabs/
 
+### Отчеты
+
+- Выявление слежки в 30 популярных российских приложениях https://files.rks.global/russian_apps_search_for_vpn_ru.pdf
+
 ### Репозитории
 
 - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. https://github.com/owasp-modsecurity/ModSecurity
