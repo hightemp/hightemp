@@ -1665,6 +1665,10 @@ https://arxiv.org/pdf/2411.08804v1
 
 - Machine Learning Roadmap 2025 — бесплатная пошаговая дорожная карта с подборкой проверенных ресурсов (курсы, видео, статьи) для изучения Python, основ ML/DS, углублённых тем и MLOps с нуля до уровня middle/senior и подготовки к собеседованиям. https://github.com/mlacademyai/Machine-Learning-Roadmap https://www.mlacademy.ai/machine-learning-roadmap https://medium.com/@timur.bikmukhametov/machine-learning-roadmap-from-zero-to-advanced-3b0fc9bb5959
 
+### Обучающие материалы
+
+- Visual Guide to Quantization — интерактивная объяснялка от ngrok о квантизации LLM: показывает, как уменьшать модели и ускорять инференс с минимальной потерей качества, позволяя менять параметры квантизации и сразу видеть эффект. https://ngrok.com/blog/quantization
+
 ### Книги
 
 - Python и машинное обучение. Машинное и глубокое обучение с использованием Python, scikit-learn и TensorFlow 2
