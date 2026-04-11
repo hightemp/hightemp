@@ -28,6 +28,10 @@
 - avoid-ai-writing — скилл для Claude Code и OpenClaw, который анализирует текст на 36 типовых признаков AI-стиля и поддерживает два режима: аудит с пометкой подозрительных паттернов и рерайт для удаления найденных шаблонов. https://github.com/conorbronsdon/avoid-ai-writing
 - Deep Research for Claude Code — скилл для анализа папок с документами (PDF, Word, PPTX и др.), извлечения текста, таблиц и координат элементов и генерации HTML-отчётов с проверяемыми ссылками на источники и расположение цитат в исходных файлах. https://github.com/jerryjliu/liteparse_samples
 
+### Память
+
+- MemPalace — локальная open-source система долгосрочной памяти для Claude Code: ставится как Claude plugin, индексирует диалоги и проектные данные в ChromaDB без облака, организует память по принципу «дворца памяти» (wings/rooms/drawers), поддерживает семантический поиск, MCP-интеграцию и экспериментальную AAAK-компрессию; авторы заявляют 96.6% LongMemEval R@5 в raw mode. https://github.com/milla-jovovich/mempalace
+
 ### Статьи
 
 - Основное
