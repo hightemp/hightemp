@@ -228,6 +228,7 @@ Norton
             - VLESS-TCP-TLS-WS (Recommended) https://deepwiki.com/v2fly/v2ray-examples/3.1.1-vless-tcp-tls-ws-(recommended)
         - XHTTP
             - Кратко про XHTTP для VLESS: что, зачем и как https://habr.com/ru/articles/913324/
+    - NaiveProxy
     - DMVPN
     - SSTP
         - Как устроен VPN через SSTP https://habr.com/ru/articles/196134/
@@ -322,3 +323,7 @@ Norton
 - https://www.networkdefenseblog.com/
 
 ### Видео
+
+- VPN
+    - NaiveProxy
+        - VLESS всё. Лучший способ обхода DPI в 2026: NaiveProxy https://youtu.be/vnTgnL1tskw?si=EsFtRjZd2_N-g-7n
