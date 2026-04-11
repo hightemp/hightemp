@@ -162,6 +162,7 @@
 ### Руководства, Гайды
 
 - Руководство по языку программирования Rust https://metanit.com/rust/tutorial/
+- Crabbook — русскоязычная коллекция заметок о ловушках, ошибках и запутанных случаях в Rust-коде: borrowed/owned типы в аргументах функций, ссылки и generics, RAII и безопасность памяти, `unsafe`, `AnyMap` без `'static`, `Send`/`Sync`, `Pin`/`Unpin` и другие темы. https://github.com/Nekrolm/crabbook/
 - https://github.com/rustkas/simple-about-rust
 - https://prev.rust-lang.org/ru-RU/documentation.html
 - https://www.rust-lang.org/ru/learn
