@@ -711,6 +711,7 @@
 ### Реставрация фото
 
 - Flux Kontext — автоматизированный сервис для восстановления и улучшения изображений, использующий технологии машинного обучения для апскейлинга фотографий до 4K разрешения, автоматической колоризации чёрно-белых снимков, устранения цифрового шума и повышения детализации исторических и повреждённых изображений без требования регистрации и ограничений на использование. https://replicate.com/flux-kontext-apps/restore-image
+- RealRestorer — открытая diffusion/FLUX DiT-модель для универсального восстановления реальных фото по текстовым инструкциям: убирает размытие, шум, дождь, дымку, муар, JPEG-артефакты и lens flare, построена на Step1X-Edit, обучена на 1.65M синтетических и реальных парах и публикуется вместе с кодом, весами, датасетом, benchmark и Gradio-демо. В paper авторы сравнивают модель с открытыми и закрытыми image restoration/editing системами на FoundIR и RealIR-Bench; для локального запуска README указывает Python 3.12 и GPU с 34+ GB VRAM. https://github.com/yfyang007/RealRestorer https://huggingface.co/RealRestorer/RealRestorer https://huggingface.co/spaces/dericky286/RealRestorer-Demo https://arxiv.org/pdf/2603.25502 https://neurohive.io/ru/papers/realrestorer/
 
 ### Обработка видео
 
