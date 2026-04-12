@@ -208,6 +208,8 @@ Norton
 - VPN
     - Клиенты
         - https://github.com/Happ-proxy/happ-desktop
+    - Relay
+        - Tutorial for setting up Dokodemo-Door tunnel as relay server https://hiddify.com/manager/domain-worker-cdn-and-tunneling/Tutorial-for-setting-up-Dokodemo-Door-tunnel-as-relay-server/
     - OpenVPN
     - WireGuard
     - OpenConnect
