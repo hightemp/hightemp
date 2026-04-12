@@ -36,6 +36,7 @@
 ### Шпаргалки
 
 - https://go-cookbook.com/
+- Go Slice Tricks Cheat Sheet — интерактивная шпаргалка по идиомам работы со срезами в Go, основанная на Go Wiki SliceTricks: append/copy, insert/delete, cut, filter, expand/extend, in-place операции и другие типовые паттерны. https://github.com/ueokande/go-slice-tricks https://ueokande.github.io/go-slice-tricks/
 
 ### Форумы
 
