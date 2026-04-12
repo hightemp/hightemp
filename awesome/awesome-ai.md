@@ -914,6 +914,7 @@ https://arxiv.org/pdf/2411.08804v1
 ### Извлечение данных
 
 - MinerU - open-source модель для извлечения и структурирования контента из документов, представленная исследователями из Лаборатории Искусственного Интеллекта Шанхая, извлекающая тексты, формулы, таблицы и изображения из научных статей, учебных пособий, финансовых отчетов (всего 11 типов документов), преобразуя их в форматы Markdown и JSON, использующая многомодульную архитектуру, основанную на PDF-Extract-Kit, показавшая результат 77,6% mAP для научных статей против 52,8% для DocXchain; 87,7% AP50 для научных статей против 60,1% для Pix2Text-MFD; 0,968 CDM против с 0,951 у коммерческой Mathpix. https://github.com/opendatalab/MinerU
+- MinerU-Diffusion — 2.5B open-source фреймворк для document OCR/парсинга документов, который переосмысляет OCR как inverse rendering и заменяет авторегрессивное декодирование block-wise parallel diffusion decoding: восстанавливает замаскированные токены параллельно под visual conditioning, поддерживает layout detection, text recognition, formula recognition и table recognition, а авторы заявляют до 3.2x ускорения decoding относительно autoregressive baselines при сохранении accuracy-throughput trade-off. Есть SGLang, Nano-DVLM, Gradio demo и веса на Hugging Face. GitHub: https://github.com/opendatalab/MinerU-Diffusion, модель: https://huggingface.co/opendatalab/MinerU-Diffusion-V1-0320-2.5B, paper: https://arxiv.org/abs/2603.22458, разбор: https://neurohive.io/ru/papers/mineru-diffusion/
 
 ### Визуализация данных
 
