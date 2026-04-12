@@ -206,6 +206,8 @@ Norton
     - Designing and Using DMZ Networks to Protect Internet Servers https://www.linuxjournal.com/article/4415
     - Designing a DMZ https://icscsi.org/library/Documents/Best_Practices/SANS%20-%20Designing%20a%20DMZ.pdf
 - VPN
+    - Клиенты
+        - https://github.com/Happ-proxy/happ-desktop
     - OpenVPN
     - WireGuard
     - OpenConnect
@@ -327,3 +329,5 @@ Norton
 - VPN
     - NaiveProxy
         - VLESS всё. Лучший способ обхода DPI в 2026: NaiveProxy https://youtu.be/vnTgnL1tskw?si=EsFtRjZd2_N-g-7n
+    - Остальное
+        - как замаскировать и защитить свой ВПН сервер https://www.youtube.com/watch?v=KmEfFwNuY2I
