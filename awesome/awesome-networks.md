@@ -21,6 +21,7 @@
 
 - Этот проект представляет собой инструмент на Python 3.8.10, который позволяет извлекать домены из диапазона IP-адресов, используя исторические данные из VirusTotal (с помощью API-ключа), поддерживает входной файл и выходной CSV-файл, и может быть полезен для извлечения субдоменов в программах по поиску ошибок. https://github.com/jevalenciap/iptodomain
 - WireGuard Easy — веб-приложение "всё-в-одном" для простой установки и управления VPN-сервером WireGuard на любом Linux-хосте с графическим интерфейсом для создания, редактирования и мониторинга клиентов, включая генерацию QR-кодов и статистику подключений. https://github.com/wg-easy/wg-easy
+- Karadul — self-hosted mesh VPN на Go в одном бинарнике без внешних зависимостей: WireGuard-compatible протокол, coordination server, node, DERP relay, NAT traversal через STUN/hole punching, MagicDNS, ACL, exit nodes и встроенный Web UI для мониторинга топологии, узлов, peers и настроек. Позиционируется как «Tailscale + Headscale в одном бинарнике», без SaaS-control-plane. https://github.com/karadul/karadul
 
 ### DNS; SmartDNS
 
