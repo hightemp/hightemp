@@ -36,6 +36,7 @@
 
 - avoid-ai-writing — скилл для Claude Code и OpenClaw, который анализирует текст на 36 типовых признаков AI-стиля и поддерживает два режима: аудит с пометкой подозрительных паттернов и рерайт для удаления найденных шаблонов. https://github.com/conorbronsdon/avoid-ai-writing
 - Deep Research for Claude Code — скилл для анализа папок с документами (PDF, Word, PPTX и др.), извлечения текста, таблиц и координат элементов и генерации HTML-отчётов с проверяемыми ссылками на источники и расположение цитат в исходных файлах. https://github.com/jerryjliu/liteparse_samples
+- last30days — skill/plugin для Claude Code и OpenClaw: команда `/last30days <тема>` запускает AI-agent search по Reddit, X/Twitter, YouTube, TikTok, Instagram, Hacker News, Polymarket, GitHub, Bluesky, Perplexity/web и другим источникам за последние 30 дней, ранжирует сигналы по engagement/ставкам/релевантности, объединяет повторы между платформами и синтезирует brief с источниками, цитатами и “Best Takes”. В zero-config режиме сразу работают Reddit comments, Hacker News, Polymarket и GitHub; X, YouTube, Bluesky, TikTok/Instagram/Threads/Pinterest и Perplexity подключаются через браузерные сессии, локальные утилиты или API-ключи. https://github.com/mvanhorn/last30days-skill
 
 ### Память
 
