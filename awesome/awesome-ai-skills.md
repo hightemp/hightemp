@@ -22,6 +22,8 @@
 
 - Создание скилов
     - Skill Creator https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
+- Промптинг
+    - Prompt Master — Claude skill для генерации и улучшения промптов под разные AI-инструменты: определяет целевой инструмент, извлекает 9 измерений намерения (task, input, output, constraints, context, audience, memory, success criteria, examples), задаёт до 3 уточняющих вопросов, выбирает подходящий prompt framework, применяет safe techniques и делает token-efficiency audit. В README перечислены профили для Claude, ChatGPT/GPT-5.x, Gemini, Ollama/Qwen/local models, Claude Code, Cursor/Windsurf/Cline, Copilot, Devin/SWE-agent, Perplexity/SearchGPT, Midjourney/DALL-E/Stable Diffusion/ComfyUI, Sora/Runway, ElevenLabs, Zapier/Make/n8n и др. https://github.com/nidhinjs/prompt-master
 - Проработка идей
     - grill-me — минималистичный скилл для жёсткого интервью по плану, идее или дизайну: задаёт вопросы по одному, проходит ветки решений до общего понимания и предлагает рекомендуемый ответ на каждый вопрос; если ответ можно найти в кодовой базе, сначала исследует проект. https://github.com/mattpocock/skills/tree/main/grill-me
 - Маркетинг; SEO; CRO
