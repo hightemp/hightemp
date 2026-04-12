@@ -95,4 +95,6 @@
 - Стейкинг
   - Как стейкать SCALE на DeDust.io: руководство для новичков https://ru.beincrypto.com/learn/stake-scale-dedustio-guide/
 - Остальное
-  - Полный разбор Polymarket: от интерфейса до смарт-контрактов https://habr.com/ru/companies/metalamp/articles/851892/
+  - Polymarket
+    - Полный разбор Polymarket: от интерфейса до смарт-контрактов https://habr.com/ru/companies/metalamp/articles/851892/
+    - How does Polymarket Work: Smart Contracts, Order Book, and Odds Explained — технический разбор архитектуры Polymarket: hybrid off-chain/on-chain CLOB, зеркальные YES/NO-ордера, mint/merge механику, EIP-712 подписи, CTFExchange.sol, ERC-1155 Conditional Tokens Framework и UMA optimistic oracle. Англ.: https://rocknblock.io/blog/how-polymarket-works-the-tech-behind-prediction-markets, рус.: https://rocknblock.io/ru/writing/kak-rabotaet-polymarket-arhitektura-orderbook-ctf-smart-kontrakty
