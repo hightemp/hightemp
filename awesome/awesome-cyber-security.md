@@ -26,6 +26,7 @@
 ### Пентестинг
 
 - Sn1per — автоматизированный инструментарий для пентеста и управления поверхностью атаки (ASM), который выполняет OSINT/рекон и оркестрирует сторонние сканеры уязвимостей для непрерывного обнаружения активов и рисков. https://github.com/1N3/Sn1per https://sn1persecurity.com/wordpress/ https://sn1persecurity.com/wordpress/documentation/
+- HackingTool — all-in-one Python-набор для security researchers и pentesters с меню установки/запуска 185+ инструментов по категориям: information gathering, wordlists, wireless, web testing, forensics, reverse engineering, Active Directory, cloud и mobile security; поддерживает поиск по инструментам, теги, рекомендации по задаче, batch install и локальную Docker-сборку. Использовать только для обучения, лабораторий и разрешённых проверок. https://github.com/Z4nzu/hackingtool
 
 ### AI-анализаторы кода
 
