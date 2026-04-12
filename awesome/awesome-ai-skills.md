@@ -10,6 +10,10 @@
 - design
     - bencium-marketplace A Claude Code plugin marketplace with 13 skills for design, architecture, and productivity by bencium.io. https://github.com/bencium/bencium-marketplace
 
+### Плагины
+
+- Superpowers — agentic skills framework и методология разработки для coding agents, устанавливаемая как plugin/extension: набор composable skills и initial instructions, которые заставляют агента сначала уточнять задачу, формировать спецификацию, планировать реализацию, работать через git worktrees, TDD, subagent-driven development, code review и проверку завершения. Поддерживает Claude Code, Cursor, Codex, OpenCode, GitHub Copilot CLI и Gemini CLI. https://github.com/obra/superpowers
+
 ### Интсрументы для установки SKILL.md
 
 - OpenSkills — универсальный CLI-загрузчик навыков (SKILL.md) для AI-агентов программирования (Claude Code, Cursor, Windsurf, Aider, Codex и др.), реализующий спецификацию Anthropic Agent Skills и позволяющий устанавливать, синхронизировать и загружать навыки из GitHub или локальных путей одной командой `npx openskills` https://github.com/numman-ali/openskills
