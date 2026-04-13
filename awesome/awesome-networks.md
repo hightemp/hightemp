@@ -305,6 +305,7 @@ Norton
     - BBR TCP: Улучшение производительности сети https://sys.uz/archives/453
     - Увеличиваем сетевую пропускную способность в Linux с помощью Google TCP BBR https://www.comss.ru/page.php?id=12677
     - Path Quality Part 3: Is BBR the Future of Congestion Avoidance? https://www.thousandeyes.com/blog/path-quality-brr-future-congestion-avoidance
+    - TCP BBR-n: Increased throughput for wireless-AC networks https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0295576
 - nftables
     - Остальное
         - Forward a TCP port to another IP or port using NAT with nftables https://jensd.be/1086/linux/forward-a-tcp-port-to-another-ip-or-port-using-nat-with-nftables
