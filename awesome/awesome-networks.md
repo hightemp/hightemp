@@ -299,6 +299,7 @@ Norton
     - Increase Linux Internet speed with TCP BBR congestion control https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/
     - Система BBR: регулирование заторов непосредственно по заторам https://habr.com/ru/articles/322430/
     - BBR TCP: Улучшение производительности сети https://sys.uz/archives/453
+    - Увеличиваем сетевую пропускную способность в Linux с помощью Google TCP BBR https://www.comss.ru/page.php?id=12677
 - nftables
     - Остальное
         - Forward a TCP port to another IP or port using NAT with nftables https://jensd.be/1086/linux/forward-a-tcp-port-to-another-ip-or-port-using-nat-with-nftables
