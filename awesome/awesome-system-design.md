@@ -197,6 +197,9 @@
     - Остальное
         - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
         - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
+- Очереди
+    - Head-of-Line Blocking
+        - Head-of-Line Blocking https://docs.solace.com/Messaging/Guaranteed-Msg/HOL-blocking.htm
 - REST
     - Richardson Maturity Model https://martinfowler.com/articles/richardsonMaturityModel.html
 - Архитектура
