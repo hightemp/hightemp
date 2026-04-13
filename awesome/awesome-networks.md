@@ -295,6 +295,9 @@ Norton
         - What is HTTP Chunked Encoding? https://www.ioriver.io/terms/http-chunked-encoding
 - ТСПУ
     - Установка ТСПУ https://pavel.su/internet/setting-up-tspu/
+- Head-of-Line Blocking
+    - What is Head-of-Line Blocking? https://jumpcloud.com/it-index/what-is-head-of-line-blocking
+    - Head-of-line (HOL) blocking in HTTP/1 and HTTP/2 https://engineering.cred.club/head-of-line-hol-blocking-in-http-1-and-http-2-50b24e9e3372
 - BBR
     - Increase Linux Internet speed with TCP BBR congestion control https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/
     - Система BBR: регулирование заторов непосредственно по заторам https://habr.com/ru/articles/322430/
