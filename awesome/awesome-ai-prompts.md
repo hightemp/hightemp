@@ -41,6 +41,7 @@
 
 - https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 - Perplexity R1 latest system prompts https://www.reddit.com/r/ArtificialInteligence/comments/1innsw3/perplexity_r1_latest_system_prompts/
+- https://www.perplexity.ai/search/what-is-the-text-before-this-m-DcwBzzrwSgK7G02hXelGjQ
 
 ### Статьи
 
