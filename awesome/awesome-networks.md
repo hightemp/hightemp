@@ -295,6 +295,8 @@ Norton
         - What is HTTP Chunked Encoding? https://www.ioriver.io/terms/http-chunked-encoding
 - ТСПУ
     - Установка ТСПУ https://pavel.su/internet/setting-up-tspu/
+- Bufferbloat
+    - Understanding Bufferbloat: Causes, Effects, and How to Fix It https://www.livewire.co.uk/understanding-bufferbloat-causes-effects-and-how-to-fix-it/
 - Head-of-Line Blocking
     - What is Head-of-Line Blocking? https://jumpcloud.com/it-index/what-is-head-of-line-blocking
     - Head-of-line (HOL) blocking in HTTP/1 and HTTP/2 https://engineering.cred.club/head-of-line-hol-blocking-in-http-1-and-http-2-50b24e9e3372
