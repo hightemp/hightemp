@@ -40,3 +40,8 @@
 ### Системные промты
 
 - https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+
+### Статьи
+
+- What I learned from the Perplexity and Copilot leaked system prompts https://zazencodes.com/blog/how-to-write-better-system-prompts
+- I hacked Perplexity AI’s full system prompt when I shared my own cognitive vulnerabilities with it https://medium.com/the-generator/prompt-hacking-perplexity-ai-system-instructions-7aa6ee923060
