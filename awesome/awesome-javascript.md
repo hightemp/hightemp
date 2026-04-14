@@ -166,6 +166,7 @@
     - Unlocking the Power of Pattern Matching in JavaScript https://medium.com/@ramajonnada/unlocking-the-power-of-pattern-matching-in-javascript-11b670d102a0
   - AsyncLocalStorage
     - Contextual Logging Done Right in Node.js with AsyncLocalStorage https://www.dash0.com/guides/contextual-logging-in-nodejs
+    - Асинхронное отслеживание контекста https://nodejsdev.ru/api/async_context/
   - ECMAScript
     - UTF-16 https://262.ecma-international.org/7.0/#sec-utf16encoding
   - Дата время; Date
