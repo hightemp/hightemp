@@ -167,6 +167,7 @@
   - AsyncLocalStorage
     - Contextual Logging Done Right in Node.js with AsyncLocalStorage https://www.dash0.com/guides/contextual-logging-in-nodejs
     - Асинхронное отслеживание контекста https://nodejsdev.ru/api/async_context/
+    - Using NodeJS’s AsyncLocalStorage to Instrument a Webserver https://will-keleher.com/posts/asynclocalstorage_in_detail/
   - ECMAScript
     - UTF-16 https://262.ecma-international.org/7.0/#sec-utf16encoding
   - Дата время; Date
