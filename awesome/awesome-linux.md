@@ -353,6 +353,8 @@
     - **Системное администрирование и Утилиты (System Administration and Utilities)**
         - Время и Синхронизация (Time and Synchronization)
             - How Linux Keeps Track of Time https://tldp.org/HOWTO/Clock-2.html
+        - Планировщики задач (Job Scheduling)
+            - crontab in Linux https://www.geeksforgeeks.org/linux-unix/crontab-in-linux-with-examples/
         - Логирование (Logging)
             - Общее (General)
                 - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/
