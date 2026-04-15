@@ -337,6 +337,7 @@
                     - BBR
                         - Increase Linux Internet speed with TCP BBR congestion control https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/
                         - TCP BBR: быстрый и простой способ ускорения загрузки страниц. Доклад Яндекса https://habr.com/ru/companies/yandex/articles/533530/
+                        - How to Enable and Configure TCP BBR on Linux https://oneuptime.com/blog/post/2026-03-20-enable-configure-tcp-bbr-linux/view
                     - CUBIC
                     - Reno
             - kTLS
