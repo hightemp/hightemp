@@ -171,6 +171,10 @@ Norton
 - https://badssl.com
 - https://warp-generator.vercel.app/
 
+### Учебники
+
+- An Introduction to Computer Networks.  Peter L Dordal https://intronetworks.cs.luc.edu/current/html/
+
 ### Книги
 
 - Defensive Security Handbook
