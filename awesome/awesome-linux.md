@@ -333,6 +333,7 @@
                         - Packet Pacing on Linux: fq vs tbf https://osg-htc.org/networking/perfsonar/packet-pacing/
                     - fq
                         - pkt_sched: fq: Fair Queue packet scheduler https://lwn.net/Articles/564825/
+                        - FQ - Fair Queuing https://linkmeup.gitbook.io/sdsm/15.-qos/6.-upravlenie-peregruzkami-congestion-management/2-fq-fair-queuing
                 - Алгоритмы управления перегрузками
                     - BBR
                         - Increase Linux Internet speed with TCP BBR congestion control https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/
