@@ -214,6 +214,11 @@
         - Cgroups (Контрольные группы)
             - Practicing cgroup v2 https://medium.com/@charles.vissol/practicing-cgroup-v2-cad6743bba0c
             - Linux cgroup from first principles https://fzakaria.com/2025/05/26/linux-cgroup-from-first-principles
+        - Namespaces (Пространства имён)
+            - Глубокое погружение в Linux namespaces https://habr.com/ru/articles/458462/
+            - Глубокое погружение в Linux namespaces, часть 2 https://habr.com/ru/articles/459574/
+            - Глубокое погружение в Linux namespaces, часть 3 https://habr.com/ru/articles/541304/
+            - Глубокое погружение в Linux namespaces, часть 4 https://habr.com/ru/articles/549414/
         - ELF Файлы и Библиотеки (ELF Files and Libraries)
             - ELF Файлы (ELF Files)
                 - Рецепты для ELFов https://habr.com/ru/companies/inforion/articles/460247/
