@@ -324,6 +324,7 @@
         - Протоколы (Protocols)
             - TCP
                 - TCP Congestion Control; TCP_CONGESTION
+                    - Как работает TCP congestion control: Reno, Cubic, BBR простыми словами https://statuser.cloud/blog/kak-rabotaet-tcp-congestion-control-reno-cubic-bbr-prostymi-slovami
                     - How to Switch TCP Congestion Control Algorithms on Linux https://oneuptime.com/blog/post/2026-03-20-switch-tcp-congestion-control-linux/view
                     - Linux TCP congestion control internals https://www.yonch.com/tech/linux-tcp-congestion-control-internals
                     - TCP Congestion Control или Почему скорость прыгает https://habr.com/ru/articles/168407/
