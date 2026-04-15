@@ -200,6 +200,7 @@ Norton
     - Планировщики пакетов
         - Основное
             - Packet Pacing on Linux: fq vs tbf https://osg-htc.org/networking/perfsonar/packet-pacing/
+            - Queuing and Scheduling https://intronetworks.cs.luc.edu/current/html/fairqueuing.html
         - fq
             - FQ - Fair Queuing https://linkmeup.gitbook.io/sdsm/15.-qos/6.-upravlenie-peregruzkami-congestion-management/2-fq-fair-queuing
     - Алгоритмы управления перегрузками
