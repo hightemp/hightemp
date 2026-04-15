@@ -322,6 +322,13 @@
                 - Infiniband https://www.altlinux.org/Infiniband
             - AF_XDP
         - Протоколы (Protocols)
+            - TCP
+                - TCP_CONGESTION
+                    - How to Switch TCP Congestion Control Algorithms on Linux https://oneuptime.com/blog/post/2026-03-20-switch-tcp-congestion-control-linux/view
+                - Алгоритмы управления перегрузками
+                    - BBR
+                    - CUBIC
+                    - Reno
             - kTLS
             - MPTCP (MultiPath TCP)
             - QUIC
