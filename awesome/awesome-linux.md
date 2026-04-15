@@ -326,6 +326,7 @@
                 - TCP_CONGESTION
                     - How to Switch TCP Congestion Control Algorithms on Linux https://oneuptime.com/blog/post/2026-03-20-switch-tcp-congestion-control-linux/view
                     - Linux TCP congestion control internals https://www.yonch.com/tech/linux-tcp-congestion-control-internals
+                    - TCP Congestion Control или Почему скорость прыгает https://habr.com/ru/articles/168407/
                 - Алгоритмы управления перегрузками
                     - BBR
                     - CUBIC
