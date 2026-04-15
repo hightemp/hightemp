@@ -154,6 +154,9 @@ Norton
         - Nekobox https://github.com/MatsuriDayo/NekoBoxForAndroid
     - Остальное
         - Бесплатные ключи протокола VLESS | V2RAY https://vpnkeys.org/vless
+- Детекторы VPN
+    - https://github.com/cherepavel/VPN-Detector
+    - https://github.com/xtclovver/RKNHardering
 - Остальное
     - https://www.vpnbook.com/
 
