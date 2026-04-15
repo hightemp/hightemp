@@ -158,6 +158,7 @@ Norton
     - https://github.com/cherepavel/VPN-Detector
     - https://github.com/xtclovver/RKNHardering
 - Остальное
+    - Anubis — Android-менеджер приложений с интеграцией VPN: замораживает и размораживает группы приложений по состоянию VPN через Shizuku. https://github.com/sogonov/anubis
     - https://www.vpnbook.com/
 
 ### Как получить список Российских адресов
