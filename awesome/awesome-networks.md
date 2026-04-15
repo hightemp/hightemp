@@ -336,8 +336,12 @@ Norton
     - Remote capturing packet with tcpdump and wireshark. https://gist.github.com/quyenlv/c37352884782b5d2da984f928487a44b
     - D.3. tcpdump: Capturing with “tcpdump” for viewing with Wireshark https://www.wireshark.org/docs/wsug_html_chunked/AppToolstcpdump.html
     - Master remote packet capturing: Combining Wireshark with tcpdump https://www.comparitech.com/net-admin/tcpdump-capture-wireshark/
-- Про блокировки
+- Блокировки РКН, DPI и устойчивость VPN
     - «Кривые руки» или новый уровень DPI? Разбор выходных блокировок XRay и VLESS https://habr.com/ru/articles/969618/
+    - Anubis: заморозка приложений по состоянию VPN https://habr.com/ru/articles/1023352/
+    - Из-за критической уязвимости VLESS клиентов скоро все ваши VPN будут заблокированы https://habr.com/ru/articles/1020080/
+    - Отправим стукачей в ГУЛАГ https://habr.com/ru/articles/1022390/
+    - Строим VPN, устойчивый к SpyWare https://habr.com/ru/articles/1022586/
 - Остальное
     - Литература по сетям передачи данных https://pavel.su/noc/networking-books/
     - Как найти все российские IP-адреса? https://pavel.su/internet/list-of-russian-ip-addresses/
