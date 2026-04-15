@@ -328,6 +328,9 @@
                     - How to Switch TCP Congestion Control Algorithms on Linux https://oneuptime.com/blog/post/2026-03-20-switch-tcp-congestion-control-linux/view
                     - Linux TCP congestion control internals https://www.yonch.com/tech/linux-tcp-congestion-control-internals
                     - TCP Congestion Control или Почему скорость прыгает https://habr.com/ru/articles/168407/
+                - Планировщики пакетов
+                    - Основное
+                        - Packet Pacing on Linux: fq vs tbf https://osg-htc.org/networking/perfsonar/packet-pacing/
                 - Алгоритмы управления перегрузками
                     - BBR
                         - Increase Linux Internet speed with TCP BBR congestion control https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/

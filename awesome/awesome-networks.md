@@ -193,6 +193,9 @@ Norton
 - Ethernet
     - Layer 2 Network Operations: How Ethernet Frames and Smart Switches Power Gigabit Networks https://chessman7.substack.com/p/layer-2-network-operations-how-ethernet
 - TCP/IP
+    - Планировщики пакетов
+        - Основное
+            - Packet Pacing on Linux: fq vs tbf https://osg-htc.org/networking/perfsonar/packet-pacing/
     - Алгоритмы управления перегрузками
         - BBR
             - Increase Linux Internet speed with TCP BBR congestion control https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/
