@@ -1554,6 +1554,7 @@ https://arxiv.org/pdf/2411.08804v1
         - Часть 4. Обзор технологий RAG для LLM: аугментация извлеченных данных https://habr.com/ru/articles/910162/
     - Ускорение Вычислений LLM (LLM Computation Acceleration)
         - [См. также: Ускорение Инференса в разделе Оптимизация Вычислений](#оптимизация-вычислений)
+        - TurboQuant. Новый алгоритм сжатия от Google https://habr.com/ru/articles/1015092/
     - Специфические Модели и Реализации (Specific Models & Implementations)
         - Встречаем YandexGPT 5 — в Алисе, облаке и опенсорсе https://habr.com/ru/companies/yandex/articles/885218/
         - Клон ChatGPT в 3000 байтах на C, основанный на GPT-2 https://habr.com/ru/articles/879662/
