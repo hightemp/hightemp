@@ -330,6 +330,7 @@
                     - TCP Congestion Control или Почему скорость прыгает https://habr.com/ru/articles/168407/
                 - Алгоритмы управления перегрузками
                     - BBR
+                        - Increase Linux Internet speed with TCP BBR congestion control https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/
                     - CUBIC
                     - Reno
             - kTLS
