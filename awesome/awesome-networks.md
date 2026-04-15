@@ -193,7 +193,17 @@ Norton
 - Ethernet
     - Layer 2 Network Operations: How Ethernet Frames and Smart Switches Power Gigabit Networks https://chessman7.substack.com/p/layer-2-network-operations-how-ethernet
 - TCP/IP
-    - Блог Джерри - Протокол TCP/IP в действии http://blog.gerryyang.com/tcp/ip/2020/09/08/tcpip-in-action.html
+    - Алгоритмы управления перегрузками
+        - BBR
+            - Increase Linux Internet speed with TCP BBR congestion control https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/
+            - Система BBR: регулирование заторов непосредственно по заторам https://habr.com/ru/articles/322430/
+            - BBR TCP: Улучшение производительности сети https://sys.uz/archives/453
+            - Увеличиваем сетевую пропускную способность в Linux с помощью Google TCP BBR https://www.comss.ru/page.php?id=12677
+            - Path Quality Part 3: Is BBR the Future of Congestion Avoidance? https://www.thousandeyes.com/blog/path-quality-brr-future-congestion-avoidance
+            - TCP BBR-n: Increased throughput for wireless-AC networks https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0295576
+            - When to use and not use BBR https://blog.apnic.net/2020/01/10/when-to-use-and-not-use-bbr/
+    - Остальное
+        - Блог Джерри - Протокол TCP/IP в действии http://blog.gerryyang.com/tcp/ip/2020/09/08/tcpip-in-action.html
 - UNenLab
     - Эмулятор UNetLab — революционный прыжок https://habr.com/ru/articles/262027/
 - QUIC
@@ -301,14 +311,6 @@ Norton
     - What is Head-of-Line Blocking? https://jumpcloud.com/it-index/what-is-head-of-line-blocking
     - Head-of-line (HOL) blocking in HTTP/1 and HTTP/2 https://engineering.cred.club/head-of-line-hol-blocking-in-http-1-and-http-2-50b24e9e3372
     - Efficient Reduction of HOL Blocking in Multistage Networks ∗ T. Nachiondo, J. Flich, and J. Duato https://www.disca.upv.es/jflich/papers/cac05.pdf
-- BBR
-    - Increase Linux Internet speed with TCP BBR congestion control https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/
-    - Система BBR: регулирование заторов непосредственно по заторам https://habr.com/ru/articles/322430/
-    - BBR TCP: Улучшение производительности сети https://sys.uz/archives/453
-    - Увеличиваем сетевую пропускную способность в Linux с помощью Google TCP BBR https://www.comss.ru/page.php?id=12677
-    - Path Quality Part 3: Is BBR the Future of Congestion Avoidance? https://www.thousandeyes.com/blog/path-quality-brr-future-congestion-avoidance
-    - TCP BBR-n: Increased throughput for wireless-AC networks https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0295576
-    - When to use and not use BBR https://blog.apnic.net/2020/01/10/when-to-use-and-not-use-bbr/
 - nftables
     - Остальное
         - Forward a TCP port to another IP or port using NAT with nftables https://jensd.be/1086/linux/forward-a-tcp-port-to-another-ip-or-port-using-nat-with-nftables
