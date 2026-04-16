@@ -12,6 +12,11 @@
 
 - https://check-host.net/
 
+### Диагностические эндпоинты
+
+- GoogleVideo report mapping - показывает сопоставление клиентского IP с узлом/маршрутом GoogleVideo CDN. https://redirector.googlevideo.com/report_mapping
+- Cloudflare trace для ChatGPT - выводит параметры текущего соединения: IP, colo, TLS, HTTP, WARP/gateway. https://chatgpt.com/cdn-cgi/trace
+
 ### Полезные утилиты
 
 - Self-hosted ngrok alternative https://docs.ssi.sh/
