@@ -52,4 +52,4 @@
 - Workflow
     - Как я перестал бояться Claude Code и научил его не ломать мои проекты https://habr.com/ru/articles/1013330/
 - PHP
-    - Awesome Claude Code: AI-помощник для PHP-архитектора https://habr.com/ru/articles/994090/
+    - Awesome Claude Code: AI-помощник для PHP-архитектора https://habr.com/ru/articles/994090/ https://web.archive.org/web/20260216023741/https://habr.com/ru/articles/994090/
