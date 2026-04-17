@@ -24,7 +24,7 @@
 ### Книги
 
 - Agentic Engineering Patterns https://simonwillison.net/guides/agentic-engineering-patterns/
-- THE AI AGENT FACTORY https://agentfactory.panaversity.org/docs/about
+- The AI Agent Factory — онлайн-книга и учебная программа по построению Agentic Enterprise: spec-driven подход к проектированию, разработке, деплою и управлению надёжными AI-агентами/Digital FTE для реальных бизнес-процессов, с фокусом на structured specifications, domain expertise, engineering architecture и human oversight. https://agentfactory.panaversity.org/docs/about
 
 ### Заметки
 
