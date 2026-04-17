@@ -1,6 +1,7 @@
 
 ### Коллекции
 
+- https://github.com/VoltAgent/awesome-agent-skills
 - https://playbooks.com/skills/
 - https://lobehub.com/skills
 - https://skillmd.ai/skills/
