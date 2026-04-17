@@ -21,6 +21,8 @@
 
 ### Скилы; SKILL.md
 
+- Для разработки
+    - Agent Skills — личная коллекция скилов Matt Pocock для планирования, разработки, TDD, triage, refactoring, GitHub workflow, pre-commit, Obsidian и написания новых skills. https://github.com/mattpocock/skills
 - Создание скилов
     - Skill Creator https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
 - Промптинг
