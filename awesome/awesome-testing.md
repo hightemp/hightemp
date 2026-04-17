@@ -5,4 +5,7 @@
 
 ### Статьи
 
-- Принципы юнит-тестирования. Часть вторая https://habr.com/ru/companies/sportmaster_lab/articles/681010/
+- Основное
+    - Принципы юнит-тестирования. Часть вторая https://habr.com/ru/companies/sportmaster_lab/articles/681010/
+- TDD
+    - Red, Green, Refactor https://www.codecademy.com/article/tdd-red-green-refactor
