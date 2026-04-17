@@ -24,6 +24,7 @@
 ### Книги
 
 - Agentic Engineering Patterns https://simonwillison.net/guides/agentic-engineering-patterns/
+- THE AI AGENT FACTORY https://agentfactory.panaversity.org/docs/about
 
 ### Заметки
 
