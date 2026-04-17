@@ -53,6 +53,8 @@
 - PHP
     - Архитектура
         - PHP SOLID Architecture Guide https://mcpmarket.com/tools/skills/php-solid-architecture-guide
+    - Остальное
+        - Скил для обновления кода до php 8.* https://github.com/netresearch/php-modernization-skill
 - Laravel
     - Рефакторинг
         - Laravel Code Refactorer https://mcpmarket.com/tools/skills/laravel-code-refactorer
