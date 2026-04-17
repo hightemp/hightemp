@@ -9,3 +9,4 @@
     - Принципы юнит-тестирования. Часть вторая https://habr.com/ru/companies/sportmaster_lab/articles/681010/
 - TDD
     - Red, Green, Refactor https://www.codecademy.com/article/tdd-red-green-refactor
+    - Red/green TDD https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/
