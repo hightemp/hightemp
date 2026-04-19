@@ -11,6 +11,7 @@
 - Vector - современный Xposed-совместимый ART hooking framework в виде Zygisk-модуля: сохраняет совместимость API с оригинальным Xposed, построен поверх LSPlant и поддерживает Android 8.1 - Android 17 Beta. https://github.com/JingMatrix/Vector
 - Hide My Applist - Xposed-модуль для скрытия установленных приложений и отклонения запросов к списку приложений, чтобы уменьшать root/app-list fingerprinting на собственном устройстве. https://github.com/Dr-TSNG/Hide-My-Applist
 - NoVPNDetect Enhanced - модуль из LSPosed Module Repository для скрытия локальных способов определения VPN на Android: перехватывает публичные сетевые API вроде `NetworkCapabilities`, `NetworkInterface`, `LinkProperties`, `ConnectivityManager`, `NetworkInfo` и native `getifaddrs()`. https://modules.lsposed.org/module/ru.bluecat.novpndetectenhanced/
+- VPN Hide - инструмент для скрытия активного VPN от выбранных Android-приложений через многослойную схему `kmod`/LSPosed/Zygisk: фильтрует Java API на уровне `system_server`, нативные пути обнаружения через kernel module или Zygisk, может блокировать localhost-порты и скрывать выбранные приложения от package visibility checks. https://github.com/okhsunrog/vpnhide
 
 ### Курсы
 
