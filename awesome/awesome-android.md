@@ -5,6 +5,13 @@
 - SocksDroid - это SOCKS5-клиент для Android 5.0+, который использует API VpnService и tun2socks для работы без root-прав, поддерживает UDP-пересылку, DNS-запросы через TCP и маршрутизацию для обхода Великого китайского файрвола. https://github.com/l2dy/SocksDroid
 - Breezy Weather - это приложение с погодой для Android 21+, написанное на Kotlin с использованием Jetpack Compose и Material You, которое отличается стильным дизайном, плавными анимациями, простым пользовательским интерфейсом и широкими возможностями настройки. https://github.com/breezy-weather/breezy-weather
 
+### Root, Xposed, Zygisk
+
+- LSPosed - фреймворк для Xposed-модулей на Android, позволяющий менять поведение системы и приложений в памяти без изменения APK; официальный сайт ведёт на релизы, репозиторий модулей и Shamiko, а GitHub-репозиторий LSPosed сейчас архивирован. https://lsposed.org/ https://github.com/LSPosed/LSPosed https://modules.lsposed.org/
+- Vector - современный Xposed-совместимый ART hooking framework в виде Zygisk-модуля: сохраняет совместимость API с оригинальным Xposed, построен поверх LSPlant и поддерживает Android 8.1 - Android 17 Beta. https://github.com/JingMatrix/Vector
+- Hide My Applist - Xposed-модуль для скрытия установленных приложений и отклонения запросов к списку приложений, чтобы уменьшать root/app-list fingerprinting на собственном устройстве. https://github.com/Dr-TSNG/Hide-My-Applist
+- NoVPNDetect Enhanced - модуль из LSPosed Module Repository для скрытия локальных способов определения VPN на Android: перехватывает публичные сетевые API вроде `NetworkCapabilities`, `NetworkInterface`, `LinkProperties`, `ConnectivityManager`, `NetworkInfo` и native `getifaddrs()`. https://modules.lsposed.org/module/ru.bluecat.novpndetectenhanced/
+
 ### Курсы
 
 - Современная Android-разработка: базовый курс (2025) https://stepik.org/course/232639/promo
