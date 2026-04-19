@@ -30,7 +30,7 @@
 
 ### AI-анализаторы кода
 
-- Ship Safe — AI‑платформа и CLI для комплексного аудита безопасности кода, которая параллельно запускает 16 специализированных агентов и проверку зависимостей/секретов (включая LLM‑анализ эксплуатируемости), формирует отчёты (в т.ч. SARIF) и интегрируется в CI/CD. https://github.com/asamassekou10/ship-safe https://www.npmjs.com/package/ship-safe
+- Ship Safe — AI‑платформа и CLI для предрелизного аудита безопасности кода: запускает 22 специализированных агента по 80+ классам атак, ищет утечки секретов/API‑ключей, prompt injection, RAG poisoning, MCP server misuse, CI/CD pipeline poisoning, supply chain‑риски, auth bypass, SSRF, misconfig Docker/Terraform/Kubernetes и vibe‑coding antipatterns; поддерживает deep LLM‑анализ эксплуатируемости, SARIF/JSON/HTML/Markdown‑отчёты и CI/CD‑режим. https://github.com/asamassekou10/ship-safe https://www.npmjs.com/package/ship-safe
 
 ### Поиск эксплойтов
 

@@ -2,6 +2,10 @@
 
 - A selectively curated list of skills, agents, plugins, hooks, and other amazing tools for enhancing your Claude Code workflow. https://github.com/hesreallyhim/awesome-claude-code
 
+### Шпаргалки
+
+- Claude Code Cheat Sheet - регулярно обновляемая шпаргалка по Claude Code: горячие клавиши, slash-команды, MCP-серверы, `CLAUDE.md`, workflows, конфигурация, env vars, skills, agents, CLI-флаги и permission modes; на странице указаны текущая версия Claude Code и дата обновления. https://cc.storyfox.cz/
+
 ### Репозитории
 
 - Claude Code Orchestrator Kit — профессиональный набор автоматизации и оркестрации для Claude Code, превращающий его в «оркестратор» с 39 специализированными AI-агентами, библиотекой навыков и slash-командами, авто-оптимизированной конфигурацией MCP и опциональными интеграциями трекинга задач Beads и мультиагентного менеджера Gastown для длительных сессий без потери контекста. https://github.com/maslennikov-ig/claude-code-orchestrator-kit https://www.npmjs.com/package/claude-code-orchestrator-kit https://github.com/steveyegge/beads https://github.com/steveyegge/gastown
