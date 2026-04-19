@@ -819,14 +819,18 @@
 - Оптимизация
   - Профилирование
     - How to Profile and Optimize Rust Code for Performance - практический workflow для Rust: baseline-бенчмарки через Criterion, CPU-профилирование через `perf`, flamegraph, DHAT/memory profiling и проверка оптимизаций повторными замерами. https://oneuptime.com/blog/post/2026-02-01-rust-profiling-optimization/view
-  - Cheap tricks for high-performance Rust - практичные настройки release-профиля, LTO, `codegen-units`, `target-cpu`, `panic = "abort"`, альтернативные аллокаторы и PGO; автор отдельно напоминает, что это не заменяет профилирование и бенчмарки. https://deterministic.space/high-performance-rust.html
-  - Optimizing Rust Code for Performance: A Guide - обзор профилей сборки, profiling workflow, layout/cache locality, allocations и Rayon; примеры с compiler hints, `unreachable_unchecked` и intrinsics стоит перепроверять по официальной документации Rust. https://reintech.io/blog/optimizing-rust-code-for-performance-guide
-  - Rust Compiler optimizations - вводный обзор оптимизаций `rustc`/LLVM: inlining, dead code elimination, constant folding, loop optimizations, PGO, LTO и Cargo profiles. https://dev.to/godofgeeks/rust-compiler-optimizations-kfb
-  - Stop Writing Slow Rust: 20 Rust Tricks That Changed Everything - обзорный чеклист по структурам данных, аллокациям, clone/copy, dispatch, inlining, unsafe, Rayon, data layout, SIMD, error handling, caching и profiling; часть примеров стоит воспринимать как наброски и адаптировать после проверки. https://leapcell.medium.com/stop-writing-slow-rust-20-rust-tricks-that-changed-everything-0a69317cac3e
-  - On Maximizing Your Rust Code's Performance https://jbecker.dev/research/on-writing-performant-rust
-  - Web Apps with Rust: Enhancing App Performance Through Optimization https://bitskingdom.com/blog/web-apps-rust-performance-optimization/
-  - Achieving warp speed with Rust https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1
-  - How-to compile rust faster https://blog.rust.careers/post/compile_rust_faster/
+  - Сборка и компилятор
+    - Cheap tricks for high-performance Rust - практичные настройки release-профиля, LTO, `codegen-units`, `target-cpu`, `panic = "abort"`, альтернативные аллокаторы и PGO; автор отдельно напоминает, что это не заменяет профилирование и бенчмарки. https://deterministic.space/high-performance-rust.html
+    - Rust Compiler optimizations - вводный обзор оптимизаций `rustc`/LLVM: inlining, dead code elimination, constant folding, loop optimizations, PGO, LTO и Cargo profiles. https://dev.to/godofgeeks/rust-compiler-optimizations-kfb
+  - Практики оптимизации кода
+    - Optimizing Rust Code for Performance: A Guide - обзор профилей сборки, profiling workflow, layout/cache locality, allocations и Rayon; примеры с compiler hints, `unreachable_unchecked` и intrinsics стоит перепроверять по официальной документации Rust. https://reintech.io/blog/optimizing-rust-code-for-performance-guide
+    - Stop Writing Slow Rust: 20 Rust Tricks That Changed Everything - обзорный чеклист по структурам данных, аллокациям, clone/copy, dispatch, inlining, unsafe, Rayon, data layout, SIMD, error handling, caching и profiling; часть примеров стоит воспринимать как наброски и адаптировать после проверки. https://leapcell.medium.com/stop-writing-slow-rust-20-rust-tricks-that-changed-everything-0a69317cac3e
+    - On Maximizing Your Rust Code's Performance https://jbecker.dev/research/on-writing-performant-rust
+    - Achieving warp speed with Rust https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1
+  - Web
+    - Web Apps with Rust: Enhancing App Performance Through Optimization https://bitskingdom.com/blog/web-apps-rust-performance-optimization/
+  - Скорость сборки
+    - How-to compile rust faster https://blog.rust.careers/post/compile_rust_faster/
 - Системное программирование
   - SYSTEMS PROGRAMMING WITH RUST https://www.rozmichelle.com/systems-programming-with-rust/
   - Rust Kernel Programming https://coderjoshdk.github.io/posts/Rust-Kernel-Programming.html
