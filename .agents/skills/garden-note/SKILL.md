@@ -62,6 +62,7 @@ When unsure, prefer `00-inbox/` for capture or ask one concise question if place
 ## Permanent Note Shape
 
 Permanent notes should be atomic: one note, one idea. Prefer concise prose and explicit links.
+Use regular relative Markdown links so notes work in VS Code and GitHub. Do not use Obsidian-style wikilinks.
 
 Use this structure when creating a permanent note:
 
@@ -76,7 +77,7 @@ Explain the idea in the user's own words.
 
 ## Связи
 
-- [[related-note-id-or-title]]
+- [Related note title](../30-permanent/YYYYMMDDHHMM-related-note.md)
 
 ## Источники
 
@@ -118,11 +119,11 @@ MOC is not a tag. It is a hand-curated map or index for a topic.
 
 ## Основное
 
-- [[note-id-title]]
+- [Note title](../30-permanent/YYYYMMDDHHMM-note-title.md)
 
 ## Подтемы
 
-- [[note-id-title]]
+- [Source note title](../20-literature/YYYYMMDDHHMM-source-note.md)
 
 ## Вопросы
 
