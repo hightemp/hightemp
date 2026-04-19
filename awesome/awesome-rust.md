@@ -817,6 +817,9 @@
 - WASM
   - Improving performance with React, WASM & Rust https://medium.com/@davidkelley87/improving-performance-with-react-wasm-rust-4c70f027b2c8
 - Оптимизация
+  - Cheap tricks for high-performance Rust - практичные настройки release-профиля, LTO, `codegen-units`, `target-cpu`, `panic = "abort"`, альтернативные аллокаторы и PGO; автор отдельно напоминает, что это не заменяет профилирование и бенчмарки. https://deterministic.space/high-performance-rust.html
+  - Optimizing Rust Code for Performance: A Guide - обзор профилей сборки, profiling workflow, layout/cache locality, allocations и Rayon; примеры с compiler hints, `unreachable_unchecked` и intrinsics стоит перепроверять по официальной документации Rust. https://reintech.io/blog/optimizing-rust-code-for-performance-guide
+  - Rust Compiler optimizations - вводный обзор оптимизаций `rustc`/LLVM: inlining, dead code elimination, constant folding, loop optimizations, PGO, LTO и Cargo profiles. https://dev.to/godofgeeks/rust-compiler-optimizations-kfb
   - On Maximizing Your Rust Code's Performance https://jbecker.dev/research/on-writing-performant-rust
   - Web Apps with Rust: Enhancing App Performance Through Optimization https://bitskingdom.com/blog/web-apps-rust-performance-optimization/
   - Achieving warp speed with Rust https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1
