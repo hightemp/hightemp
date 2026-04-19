@@ -46,6 +46,7 @@
         - How to make vpn app in android studio https://medium.com/@dnarayana18/how-to-make-vpn-app-in-android-studio-65523c75ae1e
 - Безопасность
     - Localhost-атака: как Meta* и Яндекс следят за пользователями Android через localhost https://habr.com/ru/articles/915732/
+    - Мыслепреступление на Android: как скрыть Перехватчик трафика от Государственных приложений - обзор способов детекта VPN/перехватчиков трафика в вебе и нативных Android-приложениях, а также стека LSPosed/Vector, Hide My Applist, NoVPNDetect Enhanced и PortGuard для скрытия системных признаков. https://habr.com/ru/articles/1024890/
 - Остальное
     - ByteWeaver в Open Source: инструментирование байт-кода Java во имя великого блага https://habr.com/ru/companies/vk/articles/845872/
     - Installing Android Studio On Ubuntu 22.04: Complete Guide https://dev.to/janetmutua/installing-android-studio-on-ubuntu-2204-complete-guide-1kh8
