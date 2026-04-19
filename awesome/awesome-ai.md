@@ -691,6 +691,10 @@
 - Hunyuan3D-2-WinPortable — портативная сборка Hunyuan3D для локального запуска на Windows 10/11 в один клик с веб-интерфейсом Gradio, генерирующая 3D‑модели с текстурами и мешами из изображения или текстового запроса. https://github.com/YanWenKun/Hunyuan3D-2-WinPortable
 - TRELLIS 2 — open-source модель Microsoft на 4 млрд параметров для генерации полностью текстурированных 3D‑объектов из одного изображения с поддержкой PBR‑материалов и технологией O‑Voxel для корректной обработки открытых поверхностей и внутренних структур. https://github.com/microsoft/TRELLIS.2 https://huggingface.co/spaces/microsoft/TRELLIS.2
 
+### Генерация 3D-анимации и движений
+
+- NVIDIA Kimodo (Kinematic Motion Diffusion) — модель генерации 3D-движений человека и гуманоидных роботов по текстовым промптам и кинематическим ограничениям: поддерживает полнотелые keyframes, позиции/вращения end-effectors, 2D paths и waypoints, локальный CLI и web timeline demo; обучалась на 700 часах optical mocap, модели доступны на Hugging Face, для локального запуска нужно около 17 ГБ VRAM. https://github.com/nv-tlabs/kimodo https://huggingface.co/collections/nvidia/kimodo-v1
+
 ### Генерация изображений на основе 3D композиций
 
 - A3D (n0neye) - A3D — программа быстрого локального создания 3D-композиций, предназначенная для работы совместно с ComfyUI, позволяющая импортировать 3D-модели, создавать сцены, задавать позы, настраивать ракурс камеры и экспортировать результаты в виде изображений и карт глубины для дальнейшего использования в ComfyUI. https://github.com/n0neye/A3D
