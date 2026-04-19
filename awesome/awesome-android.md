@@ -13,6 +13,10 @@
 - NoVPNDetect Enhanced - модуль из LSPosed Module Repository для скрытия локальных способов определения VPN на Android: перехватывает публичные сетевые API вроде `NetworkCapabilities`, `NetworkInterface`, `LinkProperties`, `ConnectivityManager`, `NetworkInfo` и native `getifaddrs()`. https://modules.lsposed.org/module/ru.bluecat.novpndetectenhanced/
 - VPN Hide - инструмент для скрытия активного VPN от выбранных Android-приложений через многослойную схему `kmod`/LSPosed/Zygisk: фильтрует Java API на уровне `system_server`, нативные пути обнаружения через kernel module или Zygisk, может блокировать localhost-порты и скрывать выбранные приложения от package visibility checks. https://github.com/okhsunrog/vpnhide
 
+### Патчинг приложений
+
+- ReVanced — open-source экосистема для патчинга Android-приложений: ReVanced Manager использует ReVanced Patcher, может автоматически скачивать приложения через downloader-систему, применять выбранные патчи к APK и управлять патчами, приложениями, подписью, темами, обновлениями и другими настройками; проект продолжает идеи Vanced и поддерживает Manager, CLI, Patcher, Patches и документацию. https://github.com/ReVanced https://github.com/ReVanced/revanced-manager https://revanced.app/
+
 ### Курсы
 
 - Современная Android-разработка: базовый курс (2025) https://stepik.org/course/232639/promo
