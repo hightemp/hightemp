@@ -1,6 +1,7 @@
 
 ### Коллекции
 
+- https://github.com/VoltAgent/awesome-agent-skills
 - https://playbooks.com/skills/
 - https://lobehub.com/skills
 - https://skillmd.ai/skills/
@@ -20,6 +21,8 @@
 
 ### Скилы; SKILL.md
 
+- Для разработки
+    - Agent Skills — личная коллекция скилов Matt Pocock для планирования, разработки, TDD, triage, refactoring, GitHub workflow, pre-commit, Obsidian и написания новых skills. https://github.com/mattpocock/skills
 - Создание скилов
     - Skill Creator https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
 - Промптинг
@@ -50,6 +53,8 @@
 - PHP
     - Архитектура
         - PHP SOLID Architecture Guide https://mcpmarket.com/tools/skills/php-solid-architecture-guide
+    - Остальное
+        - Скил для обновления кода до php 8.* https://github.com/netresearch/php-modernization-skill
 - Laravel
     - Рефакторинг
         - Laravel Code Refactorer https://mcpmarket.com/tools/skills/laravel-code-refactorer

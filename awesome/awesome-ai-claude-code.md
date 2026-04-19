@@ -8,6 +8,10 @@
 - OwnYourCode — набор протоколов и команд для AI-менторинга разработки, где ИИ обучает, задаёт вопросы и проводит ревью, но весь код пишет разработчик, чтобы результат был понятным, расширяемым и «своим». https://github.com/DanielPodolsky/ownyourcode
 - CCPM (Claude Code Project Manager) — обвес для Claude Code, который разбивает PRD на эпики и задачи в GitHub Issues и запускает параллельный рой автономных агентов в отдельных Git worktree для синхронной разработки без конфликтов. https://github.com/automazeio/ccpm
 
+### Плагины
+
+- Awesome Claude Code — PHP Architecture Toolkit: плагин для Claude Code с slash-командами, агентами, skills и hooks для аудита, генерации и документирования PHP-кода в DDD, CQRS, Event Sourcing, Clean/Hexagonal Architecture, PSR, тестах и code review. https://github.com/dykyi-roman/awesome-claude-code
+
 ### Альтернативы и порты Claude Code
 
 - OpenClaude — open-source coding-agent CLI в стиле Claude Code для облачных и локальных моделей: поддерживает OpenAI-compatible API, OpenRouter, DeepSeek, Groq, Mistral, Gemini, GitHub Models, Codex, Ollama, LM Studio и другие бэкенды; сохраняет terminal-first workflow с bash/file read/write/edit, grep/glob, агентами, задачами, MCP, slash-командами, web search/fetch, streaming output и входными изображениями у провайдеров с vision. Может работать как headless gRPC-сервис с bidirectional streaming для интеграции в CI/CD, кастомные UI и удалённые клиенты. https://github.com/Gitlawb/openclaude
@@ -52,4 +56,4 @@
 - Workflow
     - Как я перестал бояться Claude Code и научил его не ломать мои проекты https://habr.com/ru/articles/1013330/
 - PHP
-    - Awesome Claude Code: AI-помощник для PHP-архитектора https://habr.com/ru/articles/994090/
+    - Awesome Claude Code: AI-помощник для PHP-архитектора https://habr.com/ru/articles/994090/ https://web.archive.org/web/20260216023741/https://habr.com/ru/articles/994090/

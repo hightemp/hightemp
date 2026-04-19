@@ -214,6 +214,11 @@
         - Cgroups (Контрольные группы)
             - Practicing cgroup v2 https://medium.com/@charles.vissol/practicing-cgroup-v2-cad6743bba0c
             - Linux cgroup from first principles https://fzakaria.com/2025/05/26/linux-cgroup-from-first-principles
+        - Namespaces (Пространства имён)
+            - Глубокое погружение в Linux namespaces https://habr.com/ru/articles/458462/
+            - Глубокое погружение в Linux namespaces, часть 2 https://habr.com/ru/articles/459574/
+            - Глубокое погружение в Linux namespaces, часть 3 https://habr.com/ru/articles/541304/
+            - Глубокое погружение в Linux namespaces, часть 4 https://habr.com/ru/articles/549414/
         - ELF Файлы и Библиотеки (ELF Files and Libraries)
             - ELF Файлы (ELF Files)
                 - Рецепты для ELFов https://habr.com/ru/companies/inforion/articles/460247/
@@ -322,6 +327,25 @@
                 - Infiniband https://www.altlinux.org/Infiniband
             - AF_XDP
         - Протоколы (Protocols)
+            - TCP
+                - TCP Congestion Control; TCP_CONGESTION
+                    - Как работает TCP congestion control: Reno, Cubic, BBR простыми словами https://statuser.cloud/blog/kak-rabotaet-tcp-congestion-control-reno-cubic-bbr-prostymi-slovami
+                    - How to Switch TCP Congestion Control Algorithms on Linux https://oneuptime.com/blog/post/2026-03-20-switch-tcp-congestion-control-linux/view
+                    - Linux TCP congestion control internals https://www.yonch.com/tech/linux-tcp-congestion-control-internals
+                    - TCP Congestion Control или Почему скорость прыгает https://habr.com/ru/articles/168407/
+                - Планировщики пакетов
+                    - Основное
+                        - Packet Pacing on Linux: fq vs tbf https://osg-htc.org/networking/perfsonar/packet-pacing/
+                    - fq
+                        - pkt_sched: fq: Fair Queue packet scheduler https://lwn.net/Articles/564825/
+                        - FQ - Fair Queuing https://linkmeup.gitbook.io/sdsm/15.-qos/6.-upravlenie-peregruzkami-congestion-management/2-fq-fair-queuing
+                - Алгоритмы управления перегрузками
+                    - BBR
+                        - Increase Linux Internet speed with TCP BBR congestion control https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/
+                        - TCP BBR: быстрый и простой способ ускорения загрузки страниц. Доклад Яндекса https://habr.com/ru/companies/yandex/articles/533530/
+                        - How to Enable and Configure TCP BBR on Linux https://oneuptime.com/blog/post/2026-03-20-enable-configure-tcp-bbr-linux/view
+                    - CUBIC
+                    - Reno
             - kTLS
             - MPTCP (MultiPath TCP)
             - QUIC
@@ -329,6 +353,8 @@
     - **Системное администрирование и Утилиты (System Administration and Utilities)**
         - Время и Синхронизация (Time and Synchronization)
             - How Linux Keeps Track of Time https://tldp.org/HOWTO/Clock-2.html
+        - Планировщики задач (Job Scheduling)
+            - crontab in Linux https://www.geeksforgeeks.org/linux-unix/crontab-in-linux-with-examples/
         - Логирование (Logging)
             - Общее (General)
                 - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/

@@ -83,6 +83,8 @@
     - System Design для начинающих: всё, что вам нужно. Часть 3 https://habr.com/ru/articles/885054/
     - System Design For Beginners: Everything You Need in One Article https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b#cf4c
     - Заметки об основах программной архитектуры https://habr.com/ru/companies/piter/articles/748094/
+- Архитектурные решения; ADR
+    - Architectural Decision Records — хаб по ADR: практики, шаблоны и инструменты для фиксации архитектурных решений и их последствий. https://adr.github.io/
 - Роадмэпы, Roadmap
     - Complete Roadmap to Learn System Design for Beginners https://www.geeksforgeeks.org/complete-roadmap-to-learn-system-design/
 - PACELC Theorem
@@ -197,6 +199,9 @@
     - Остальное
         - Распределенные системы: что может пойти не так https://eax.me/distributed-systems-checklist/
         - Event Ordering in Distributed System https://www.geeksforgeeks.org/event-ordering-in-distributed-system/?ref=ml_lbp
+- Очереди
+    - Head-of-Line Blocking
+        - Head-of-Line Blocking https://docs.solace.com/Messaging/Guaranteed-Msg/HOL-blocking.htm
 - REST
     - Richardson Maturity Model https://martinfowler.com/articles/richardsonMaturityModel.html
 - Архитектура

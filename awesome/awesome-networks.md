@@ -12,6 +12,11 @@
 
 - https://check-host.net/
 
+### Диагностические эндпоинты
+
+- GoogleVideo report mapping - показывает сопоставление клиентского IP с узлом/маршрутом GoogleVideo CDN. https://redirector.googlevideo.com/report_mapping
+- Cloudflare trace для ChatGPT - выводит параметры текущего соединения: IP, colo, TLS, HTTP, WARP/gateway. https://chatgpt.com/cdn-cgi/trace
+
 ### Полезные утилиты
 
 - Self-hosted ngrok alternative https://docs.ssi.sh/
@@ -154,7 +159,11 @@ Norton
         - Nekobox https://github.com/MatsuriDayo/NekoBoxForAndroid
     - Остальное
         - Бесплатные ключи протокола VLESS | V2RAY https://vpnkeys.org/vless
+- Детекторы VPN
+    - https://github.com/cherepavel/VPN-Detector
+    - https://github.com/xtclovver/RKNHardering
 - Остальное
+    - Anubis — Android-менеджер приложений с интеграцией VPN: замораживает и размораживает группы приложений по состоянию VPN через Shizuku. https://github.com/sogonov/anubis
     - https://www.vpnbook.com/
 
 ### Как получить список Российских адресов
@@ -170,6 +179,10 @@ Norton
 - IPFS (InterPlanetary File System) - это децентрализованная пиринговая сеть для хранения и обмена данными, которая работает без центральных серверов, используя уникальные "отпечатки" контента вместо традиционных URL-адресов для более эффективного и устойчивого распространения информации в интернете https://ipfs.tech/
 - https://badssl.com
 - https://warp-generator.vercel.app/
+
+### Учебники
+
+- An Introduction to Computer Networks.  Peter L Dordal https://intronetworks.cs.luc.edu/current/html/
 
 ### Книги
 
@@ -193,7 +206,23 @@ Norton
 - Ethernet
     - Layer 2 Network Operations: How Ethernet Frames and Smart Switches Power Gigabit Networks https://chessman7.substack.com/p/layer-2-network-operations-how-ethernet
 - TCP/IP
-    - Блог Джерри - Протокол TCP/IP в действии http://blog.gerryyang.com/tcp/ip/2020/09/08/tcpip-in-action.html
+    - Планировщики пакетов
+        - Основное
+            - Packet Pacing on Linux: fq vs tbf https://osg-htc.org/networking/perfsonar/packet-pacing/
+            - Queuing and Scheduling https://intronetworks.cs.luc.edu/current/html/fairqueuing.html
+        - fq
+            - FQ - Fair Queuing https://linkmeup.gitbook.io/sdsm/15.-qos/6.-upravlenie-peregruzkami-congestion-management/2-fq-fair-queuing
+    - Алгоритмы управления перегрузками
+        - BBR
+            - Increase Linux Internet speed with TCP BBR congestion control https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/
+            - Система BBR: регулирование заторов непосредственно по заторам https://habr.com/ru/articles/322430/
+            - BBR TCP: Улучшение производительности сети https://sys.uz/archives/453
+            - Увеличиваем сетевую пропускную способность в Linux с помощью Google TCP BBR https://www.comss.ru/page.php?id=12677
+            - Path Quality Part 3: Is BBR the Future of Congestion Avoidance? https://www.thousandeyes.com/blog/path-quality-brr-future-congestion-avoidance
+            - TCP BBR-n: Increased throughput for wireless-AC networks https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0295576
+            - When to use and not use BBR https://blog.apnic.net/2020/01/10/when-to-use-and-not-use-bbr/
+    - Остальное
+        - Блог Джерри - Протокол TCP/IP в действии http://blog.gerryyang.com/tcp/ip/2020/09/08/tcpip-in-action.html
 - UNenLab
     - Эмулятор UNetLab — революционный прыжок https://habr.com/ru/articles/262027/
 - QUIC
@@ -295,10 +324,12 @@ Norton
         - What is HTTP Chunked Encoding? https://www.ioriver.io/terms/http-chunked-encoding
 - ТСПУ
     - Установка ТСПУ https://pavel.su/internet/setting-up-tspu/
-- BBR
-    - Increase Linux Internet speed with TCP BBR congestion control https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/
-    - Система BBR: регулирование заторов непосредственно по заторам https://habr.com/ru/articles/322430/
-    - BBR TCP: Улучшение производительности сети https://sys.uz/archives/453
+- Bufferbloat
+    - Understanding Bufferbloat: Causes, Effects, and How to Fix It https://www.livewire.co.uk/understanding-bufferbloat-causes-effects-and-how-to-fix-it/
+- Head-of-Line Blocking
+    - What is Head-of-Line Blocking? https://jumpcloud.com/it-index/what-is-head-of-line-blocking
+    - Head-of-line (HOL) blocking in HTTP/1 and HTTP/2 https://engineering.cred.club/head-of-line-hol-blocking-in-http-1-and-http-2-50b24e9e3372
+    - Efficient Reduction of HOL Blocking in Multistage Networks ∗ T. Nachiondo, J. Flich, and J. Duato https://www.disca.upv.es/jflich/papers/cac05.pdf
 - nftables
     - Остальное
         - Forward a TCP port to another IP or port using NAT with nftables https://jensd.be/1086/linux/forward-a-tcp-port-to-another-ip-or-port-using-nat-with-nftables
@@ -311,8 +342,12 @@ Norton
     - Remote capturing packet with tcpdump and wireshark. https://gist.github.com/quyenlv/c37352884782b5d2da984f928487a44b
     - D.3. tcpdump: Capturing with “tcpdump” for viewing with Wireshark https://www.wireshark.org/docs/wsug_html_chunked/AppToolstcpdump.html
     - Master remote packet capturing: Combining Wireshark with tcpdump https://www.comparitech.com/net-admin/tcpdump-capture-wireshark/
-- Про блокировки
+- Блокировки РКН, DPI и устойчивость VPN
     - «Кривые руки» или новый уровень DPI? Разбор выходных блокировок XRay и VLESS https://habr.com/ru/articles/969618/
+    - Anubis: заморозка приложений по состоянию VPN https://habr.com/ru/articles/1023352/
+    - Из-за критической уязвимости VLESS клиентов скоро все ваши VPN будут заблокированы https://habr.com/ru/articles/1020080/
+    - Отправим стукачей в ГУЛАГ https://habr.com/ru/articles/1022390/
+    - Строим VPN, устойчивый к SpyWare https://habr.com/ru/articles/1022586/
 - Остальное
     - Литература по сетям передачи данных https://pavel.su/noc/networking-books/
     - Как найти все российские IP-адреса? https://pavel.su/internet/list-of-russian-ip-addresses/
