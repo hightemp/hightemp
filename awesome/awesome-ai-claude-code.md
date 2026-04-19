@@ -48,6 +48,7 @@
 
 ### Память
 
+- Claude-Mem — plugin/SDK для постоянной памяти Claude Code, Gemini CLI, OpenCode и OpenClaw: автоматически собирает tool usage observations из сессий, сжимает их в семантические summaries и подмешивает релевантный контекст в будущие сессии; включает skill-based search, web viewer, privacy-теги и установку через `npx claude-mem install` или Claude Code plugin marketplace. https://github.com/thedotmack/claude-mem
 - MemPalace — локальная open-source система долгосрочной памяти для Claude Code: ставится как Claude plugin, индексирует диалоги и проектные данные в ChromaDB без облака, организует память по принципу «дворца памяти» (wings/rooms/drawers), поддерживает семантический поиск, MCP-интеграцию и экспериментальную AAAK-компрессию; авторы заявляют 96.6% LongMemEval R@5 в raw mode. https://github.com/milla-jovovich/mempalace
 
 ### Статьи
