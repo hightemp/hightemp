@@ -47,6 +47,15 @@ garden/40-moc/rust-performance.md
 garden/40-moc/ai-agents.md
 ```
 
+For folder-level tables of contents, keep index files in the garden root, not inside the note folders:
+
+```text
+garden/20-literature.md
+garden/30-permanent.md
+```
+
+Do not create `README.md` files inside `20-literature/` or `30-permanent/` just to list notes. Those folders can contain many note files; the root index keeps navigation separate from note storage.
+
 ## Placement Rules
 
 - Raw capture from the user, not yet processed: `00-inbox/`.
@@ -132,11 +141,38 @@ MOC is not a tag. It is a hand-curated map or index for a topic.
 
 When adding a permanent note, update an existing relevant MOC if it already exists and the link clearly belongs there. Do not create a new MOC for every note.
 
+## Folder Index Shape
+
+Folder indexes are lightweight tables of contents for large note folders. They live at the garden root and link into their corresponding folders:
+
+```markdown
+# Literature Notes
+
+Оглавление заметок из папки [20-literature](20-literature/).
+
+## Topic
+
+- [Note title](20-literature/YYYYMMDDHHMM-note-title.md)
+```
+
+```markdown
+# Permanent Notes
+
+Оглавление атомарных заметок из папки [30-permanent](30-permanent/).
+
+## Topic
+
+- [Note title](30-permanent/YYYYMMDDHHMM-note-title.md)
+```
+
+When adding or renaming a `20-literature/` note, update `garden/20-literature.md` if it exists. When adding or renaming a `30-permanent/` note, update `garden/30-permanent.md` if it exists. Group links by human topic headings; do not force every note into chronological order if a topic grouping is clearer.
+
 ## Workflow
 
 1. Identify the note type and destination folder.
 2. Check for existing related notes with `rg` to avoid duplicates.
 3. Create or update the Markdown file with the smallest useful change.
 4. Add links to related notes when obvious.
-5. Update a relevant MOC only when it improves navigation.
-6. Run `git diff --check -- garden .agents` after edits when practical.
+5. Update the relevant root folder index (`garden/20-literature.md` or `garden/30-permanent.md`) when adding or renaming notes in those folders.
+6. Update a relevant MOC only when it improves navigation.
+7. Run `git diff --check -- garden .agents` after edits when practical.
