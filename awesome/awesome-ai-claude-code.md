@@ -1,6 +1,7 @@
 ### Коллекции
 
 - A selectively curated list of skills, agents, plugins, hooks, and other amazing tools for enhancing your Claude Code workflow. https://github.com/hesreallyhim/awesome-claude-code
+- Awesome Claude Code Subagents — коллекция 100+ специализированных Claude Code subagents для разработки, языков и фреймворков, инфраструктуры, QA/security, data/AI, DX, продуктовых и meta-orchestration задач; поддерживает установку как Claude Code plugins по категориям или ручную установку агентов в `~/.claude/agents/`. https://github.com/VoltAgent/awesome-claude-code-subagents
 
 ### Шпаргалки
 
