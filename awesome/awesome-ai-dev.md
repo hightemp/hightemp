@@ -14,17 +14,27 @@
 
 ### Среды для агентной разработки
 
+#### Облачные IDE и full-stack платформы
+
 - Firebase Studio — облачная среда разработки, в которой есть всё для создания приложений с искусственным интеллектом: инструменты для прототипирования, написания кода, тестирования, деплоя и мониторинга, основанная на ИИ-модели Gemini, которая помогает с разработкой пользовательского интерфейса, API и AI-пайплайна на каждом этапе работы, с возможностью создать 3 проекта бесплатно. https://firebase.studio/ https://cloud.google.com/blog/products/application-development/firebase-studio-lets-you-build-full-stack-ai-apps-with-gemini
-- AI система, интегрированная в терминал, которая помогает программистам ускорить процесс кодирования за счёт понимания кодовой базы проекта, исполнения рутинных задач, объяснения сложного кода и управления git-процессами посредством естественного языка https://github.com/anthropics/claude-code
-- OpenAI Codex CLI - лёгкий кодирующий агент, который работает в терминале, написан для быстрого взаимодействия с языковыми моделями OpenAI через командную строку, обладающий следующими особенностями: автоматическая подсказка на основе искусственного интеллекта для написания кода, интерактивный режим, поддержка нескольких провайдеров моделей, режим полной автоматизации. https://github.com/openai/codex
-- OpenCodex (https://github.com/ymichael/open-codex) - открытый форк Codex от OpenAI, предлагающий возможность разработки программного обеспечения с использованием бесплатного кода Gemini при наличии учетной записи Google Billing Account; также позволяет обнаруживать ошибки в программном коде с помощью системы консультирования и руководства на основе модели Claude Code. 
-- OpenHands — open-source платформа для AI-driven development: включает composable Python SDK для агентных сценариев, CLI в стиле Claude Code/Codex, локальный GUI с REST API и React-интерфейсом, облачную версию и enterprise self-hosting; может работать с Claude, GPT и другими LLM. https://github.com/OpenHands/OpenHands https://openhands.dev/
 - Mocha — инструмент для генерации и деплоя проектов с удобным интерфейсом, объединяющий функции авторизации, форм и отчетов в одном окне. [https://getmocha.com/](https://getmocha.com/)
-- Claude Code https://www.anthropic.com/claude-code
-    - https://github.com/musistudio/claude-code-router
-- Claudia.so — это открытое настольное GUI‑приложение для Anthropic Claude Code, которое даёт удобный визуальный интерфейс для управления проектами, сессиями, кастомными AI‑агентами, MCP‑серверами и аналитикой использования вместо работы только через терминал. http://claudia.so/
-- SoulForge — graph-powered AI coding agent/CLI, который строит живой dependency graph кодовой базы, делает surgical reads по функциям/классам, поддерживает multi-agent dispatch с общим кэшем, instant compaction, 4-tier code intelligence (LSP/ts-morph/tree-sitter/regex), MCP-серверы, skills, embedded Neovim и 20 провайдеров моделей; совместим с Claude Code hooks. https://github.com/ProxySoul/soulforge
 - Kiro — IDE от Amazon, предназначенная для полного цикла разработки, оснащенная встроенным агентом на основе модели Claude Sonnet, поддерживающая расширения VS Code и автоматизацию процессов. https://kiro.dev/blog/introducing-kiro/ https://kiro.dev/
 - Qoder — бесплатный ИИ-агент от Alibaba, способный писать код и собирать приложения, анализируя проект и кодовую базу, подстраиваясь под стиль написания и выполняя задачи поэтапно. Agentic Coding Platform for Real Software https://qoder.com/
 - Droid — ИИ-агент для кодинга от Factory AI, занявший первое место в бенчмарке Terminal-Bench и превзошедший Claude Code с Codex CLI; умеет дебажить среды разработки, обновлять устаревший код, управлять облачной инфраструктурой, писать документацию и обучать модели, поддерживает кастомизацию через скрипты, MCP и триггеры и работает с любой LLM в интерфейсах CLI, IDE, Slack, Linear, браузере и терминале. https://app.factory.ai/
 - https://forgecode.dev/
+
+#### Терминальные агенты и CLI
+
+- Claude Code — AI система, интегрированная в терминал, которая помогает программистам ускорить процесс кодирования за счёт понимания кодовой базы проекта, исполнения рутинных задач, объяснения сложного кода и управления git-процессами посредством естественного языка. https://github.com/anthropics/claude-code https://www.anthropic.com/claude-code
+    - https://github.com/musistudio/claude-code-router
+- OpenAI Codex CLI - лёгкий кодирующий агент, который работает в терминале, написан для быстрого взаимодействия с языковыми моделями OpenAI через командную строку, обладающий следующими особенностями: автоматическая подсказка на основе искусственного интеллекта для написания кода, интерактивный режим, поддержка нескольких провайдеров моделей, режим полной автоматизации. https://github.com/openai/codex
+- OpenCodex (https://github.com/ymichael/open-codex) - открытый форк Codex от OpenAI, предлагающий возможность разработки программного обеспечения с использованием бесплатного кода Gemini при наличии учетной записи Google Billing Account; также позволяет обнаруживать ошибки в программном коде с помощью системы консультирования и руководства на основе модели Claude Code. 
+- SoulForge — graph-powered AI coding agent/CLI, который строит живой dependency graph кодовой базы, делает surgical reads по функциям/классам, поддерживает multi-agent dispatch с общим кэшем, instant compaction, 4-tier code intelligence (LSP/ts-morph/tree-sitter/regex), MCP-серверы, skills, embedded Neovim и 20 провайдеров моделей; совместим с Claude Code hooks. https://github.com/ProxySoul/soulforge
+
+#### Open-source платформы, SDK и self-hosting
+
+- OpenHands — open-source платформа для AI-driven development: включает composable Python SDK для агентных сценариев, CLI в стиле Claude Code/Codex, локальный GUI с REST API и React-интерфейсом, облачную версию и enterprise self-hosting; может работать с Claude, GPT и другими LLM. https://github.com/OpenHands/OpenHands https://openhands.dev/
+
+#### GUI и desktop-интерфейсы
+
+- Claudia.so — это открытое настольное GUI‑приложение для Anthropic Claude Code, которое даёт удобный визуальный интерфейс для управления проектами, сессиями, кастомными AI‑агентами, MCP‑серверами и аналитикой использования вместо работы только через терминал. http://claudia.so/
