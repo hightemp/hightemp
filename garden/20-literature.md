@@ -11,3 +11,7 @@
 ## Качество кода
 
 - [Цикломатическая сложность](20-literature/202604200820-wikipedia-cyclomatic-complexity.md)
+
+## Git
+
+- [Вы больше не новичок в Git. Повышаем квалификацию с помощью 7 команд](20-literature/202604231358-habr-advanced-git-commands.md)
