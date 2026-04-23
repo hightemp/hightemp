@@ -40,6 +40,7 @@
 
 - Основное
     - Современные команды и возможности Git https://www.dev-notes.ru/articles/git/modern-git-commands-and-features/
+    - Вы больше не новичок в Git. Повышаем квалификацию с помощью 7 команд https://habr.com/ru/companies/ruvds/articles/978320/
     - Инструкция как писать стандартизированные комментарии к коммитам (git commit) https://habr.com/ru/articles/673344/
     - Мегагайд: культура работы с Git https://habr.com/ru/companies/yandex_praktikum/articles/812139/
     - Введение в Git Merge и Git Rebase: зачем и когда их использовать https://habr.com/ru/articles/432420/
