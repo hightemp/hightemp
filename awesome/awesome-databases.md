@@ -52,7 +52,10 @@
     - SQL vs NoSQL databases https://www.karanpratapsingh.com/courses/system-design/sql-vs-nosql-databases
     - SQL vs NoSQL: Which Database to Choose in System Design? https://www.geeksforgeeks.org/which-database-to-choose-while-designing-a-system-sql-or-nosql/
 - MongoDB
-    - Где хранить неструктурированные данные: СУБД MongoDB для веб-разработчиков и аналитиков https://practicum.yandex.ru/blog/subd-mongodb-ustanovka-i-ispolzovanie/
+    - Основное
+        - Где хранить неструктурированные данные: СУБД MongoDB для веб-разработчиков и аналитиков https://practicum.yandex.ru/blog/subd-mongodb-ustanovka-i-ispolzovanie/
+    - Резервное копирование
+        - Резервное копирование и восстановление MongoDB https://www.8host.com/blog/rezervnoe-kopirovanie-i-vosstanovlenie-mongodb/
 - PostgreSQL
     - Основное
         - Изучаем PostgreSQL. Часть 1. Знакомимся с архитектурой https://habr.com/ru/companies/otus/articles/706346/
