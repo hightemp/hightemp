@@ -294,6 +294,7 @@
     - MongoDB
       - Native MongoDB driver for Node.js https://www.geeksforgeeks.org/node-js/native-mongodb-driver-for-node-js/
     - Mongoose
+      - Mongoose https://my-js.org/docs/guide/mongoose/
       - SchemaTypes https://mongoosejs.com/docs/schematypes.html
       - Учебник Express часть 3: Использование базы данных (с помощью Mongoose) https://developer.mozilla.org/ru/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/mongoose
       - Грабли mongoose https://habr.com/ru/articles/253395/
