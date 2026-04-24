@@ -1,6 +1,7 @@
 ### Коллекции
 
 - https://github.com/github/awesome-copilot
+- Awesome Copilot Agents — курируемый список GitHub instructions, prompts, skills, MCPs и custom agent markdown-файлов для улучшения работы с GitHub Copilot и передачи ему контекста по репозиторию, стеку, правилам проекта и workflow команды. https://github.com/Code-and-Sorts/awesome-copilot-agents
 
 ### Loops
 
