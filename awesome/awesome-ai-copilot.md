@@ -1,6 +1,6 @@
 ### Коллекции
 
-- https://github.com/github/awesome-copilot
+- Awesome GitHub Copilot — каталог community-contributed агентов, instructions и skills для улучшения работы с GitHub Copilot; доступен как GitHub-репозиторий и как веб-каталог с разделами Agents, Instructions, Skills, Hooks, Workflows, Plugins, Tools и Learning Hub. https://github.com/github/awesome-copilot https://awesome-copilot.github.com/
 - Awesome Copilot Agents — курируемый список GitHub instructions, prompts, skills, MCPs и custom agent markdown-файлов для улучшения работы с GitHub Copilot и передачи ему контекста по репозиторию, стеку, правилам проекта и workflow команды. https://github.com/Code-and-Sorts/awesome-copilot-agents
 - Awesome GitHub Copilot for Testers — коллекция prompts, instructions, chat modes, custom agents, skills и других ресурсов для использования GitHub Copilot в test automation и quality engineering workflows; ориентирована на тестировщиков, разработчиков и QA-инженеров. https://github.com/jaktestowac/awesome-copilot-for-testers
 
