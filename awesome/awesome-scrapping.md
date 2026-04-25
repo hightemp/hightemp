@@ -37,6 +37,7 @@
 ### Headless-браузеры
 
 - Obscura — open-source headless-браузер на Rust для веб‑скрейпинга и автоматизации AI‑агентов: запускает JavaScript через V8, поддерживает Chrome DevTools Protocol и подключение из Puppeteer/Playwright как замену headless Chrome, поставляется одним бинарником без Node/Chrome-зависимостей; есть параллельный scrape-режим, CLI `fetch`, stealth-режим с рандомизацией fingerprint’ов и блокировкой трекеров, а также опция учитывать `robots.txt`. https://github.com/h4ckf0r0day/obscura
+- Camoufox — open-source anti-detect браузер на базе Firefox для AI‑агентов, скрейпинга и browser automation: облегчённый debloated Firefox с Playwright/Python API, headless/headful режимами, fingerprint injection/rotation, spoofing navigator/WebGL/WebRTC/geolocation/timezone/locale, скрытием следов Playwright, human-like mouse movement, uBlock Origin и оптимизациями для запуска в масштабе. https://github.com/daijro/camoufox https://camoufox.com/
 
 ### Фреймворки для скрепинга
 
