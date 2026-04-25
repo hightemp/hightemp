@@ -37,6 +37,7 @@
 ### Фреймворки для скрепинга
 
 - Scrapling — адаптивный Python‑фреймворк для современного веб‑скрейпинга и краулинга, который сочетает умный парсинг с «самовосстанавливающимися» селекторами, stealth/динамические fetcher’ы для обхода антибот‑защит (в т.ч. Cloudflare), пауков со скейлингом и ротацией прокси, а также MCP‑сервер для AI‑ассистированного извлечения данных. https://github.com/D4Vinci/Scrapling https://scrapling.readthedocs.io https://pypi.org/project/scrapling/ https://scrapling.readthedocs.io/en/latest/ai/mcp-server/ https://www.youtube.com/watch?v=qyFk3ZNwOxE
+- Obscura — open-source headless-браузер на Rust для веб‑скрейпинга и автоматизации AI‑агентов: запускает JavaScript через V8, поддерживает Chrome DevTools Protocol и подключение из Puppeteer/Playwright как замену headless Chrome, поставляется одним бинарником без Node/Chrome-зависимостей; есть параллельный scrape-режим, CLI `fetch`, stealth-режим с рандомизацией fingerprint’ов и блокировкой трекеров, а также опция учитывать `robots.txt`. https://github.com/h4ckf0r0day/obscura
 
 ### Сервисы проверки браузера на бота
 
