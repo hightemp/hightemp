@@ -288,6 +288,10 @@
 
 - NotebookLM - это инструмент на основе искусственного интеллекта, разработанный Google Labs3. Это персонализированный соавтор, который помогает генерировать идеи и работать с документами. https://notebooklm.google/
 
+### OCR
+
+- Chandra OCR 2 — open-source OCR-модель и CLI для document intelligence: конвертирует изображения и PDF в структурированные Markdown, HTML или JSON с сохранением layout-информации, хорошо работает со сложными таблицами, формулами, формами, чекбоксами, рукописным текстом и 90+ языками; поддерживает локальный Hugging Face inference, vLLM-сервер, batch processing и Streamlit-приложение. https://github.com/datalab-to/chandra
+
 ### Для дизайнеров
 
 - [DALL-E 2](https://openai.com/product/dall-e-2) – создает оригинальные изображения из текстового описания.
