@@ -19,6 +19,7 @@
 ### Плагины
 
 - Awesome Claude Code — PHP Architecture Toolkit: плагин для Claude Code с slash-командами, агентами, skills и hooks для аудита, генерации и документирования PHP-кода в DDD, CQRS, Event Sourcing, Clean/Hexagonal Architecture, PSR, тестах и code review. https://github.com/dykyi-roman/awesome-claude-code
+- claude-obsidian — Claude Code plugin/набор skills для превращения Obsidian vault в самоорганизующуюся wiki-базу знаний: Claude ingests источники, создаёт страницы, сущности и cross-links, поддерживает hot cache между сессиями, умеет `/wiki`, `/save`, `/autoresearch`, wiki lint, batch ingestion, цитирование страниц vault и MCP-интеграцию с Obsidian Local REST API или filesystem. https://github.com/AgriciDaniel/claude-obsidian
 
 ### Альтернативы и порты Claude Code
 
