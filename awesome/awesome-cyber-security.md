@@ -92,6 +92,10 @@
 
 - PwnPad — открытая аппаратная учебная платформа для изучения hardware hacking и безопасности встроенных систем через набор практических челленджей (UART/I2C/SPI, дамп прошивок, fault injection, side-channel) с переключением заданий джамперами и документацией по сборке и прохождению. https://github.com/twelvesec/PwnPad https://github.com/twelvesec/PwnPadWiki/wiki https://www.youtube.com/watch?v=uaiB-Esttt4
 
+### Курсы
+
+- Мастерство разработки эксплойтов и переполнение буфера — курс уровня OSCP по разработке реальных эксплойтов с нуля: переполнение буфера, контроль EIP, выполнение shellcode, egghunter, плохие символы, обход ASLR/DEP, ROP-цепочки, запуск Meterpreter и пошаговые практики на SLMail, Crossfire и Vulnserver с Immunity Debugger, GDB-PEDA и Kali Linux. https://drive.google.com/drive/folders/1szf2vgueGvSWCUcd0-LHQp2sAuvE9nLd
+
 ### Книги
 
 - Computer Security https://textbook.cs161.org/
