@@ -24,6 +24,7 @@
 
 - OpenClaude — open-source coding-agent CLI в стиле Claude Code для облачных и локальных моделей: поддерживает OpenAI-compatible API, OpenRouter, DeepSeek, Groq, Mistral, Gemini, GitHub Models, Codex, Ollama, LM Studio и другие бэкенды; сохраняет terminal-first workflow с bash/file read/write/edit, grep/glob, агентами, задачами, MCP, slash-командами, web search/fetch, streaming output и входными изображениями у провайдеров с vision. Может работать как headless gRPC-сервис с bidirectional streaming для интеграции в CI/CD, кастомные UI и удалённые клиенты. https://github.com/Gitlawb/openclaude
 - Claw Code — публичная Rust-реализация `claw` CLI agent harness: собирается из исходников, содержит canonical workspace в `rust/`, команды для prompt/session/config/parity workflows, health-check через `claw doctor`, поддержку API-ключей провайдеров, документацию по parity/roadmap и не заявляет аффилиации с Anthropic. https://github.com/ultraworkers/claw-code
+- Free Claude Code — неофициальный локальный proxy/drop-in replacement для Anthropic API, который позволяет запускать Claude Code CLI, VSCode/IntelliJ extensions и бота через альтернативные провайдеры: NVIDIA NIM, OpenRouter, DeepSeek, LM Studio и llama.cpp; поддерживает маршрутизацию Opus/Sonnet/Haiku на разные модели, thinking blocks, парсинг tool calls, rate limiting и запуск через `localhost`. https://github.com/Alishahryar1/free-claude-code#quick-start
 
 ### Token Optimization; Утилиты для экономии токенов
 
