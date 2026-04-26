@@ -862,6 +862,7 @@
 - SYSTRAN Pure Neural Server - Набор инструментов для локализации с интегрированным TMS и управлением строками. https://www.systransoft.com/
 - XTM Cloud - Платформа для повышения производительности глобальной коммуникации для корпоративных клиентов. https://xtm.cloud/
 - YeeKit (GTC Tech) - Веб‑система управления переводами с интегрированным CAT‑инструментом. https://www.yeekit.com
+- TranslateBooksWithLLMs — инструмент для перевода книг и документов через LLM с готовым установщиком; поддерживает ChatGPT, Gemini, Mistral, DeepSeek и локальный запуск через Ollama, работает с EPUB, SRT, DOCX, TXT и другими форматами, сохраняет структуру и оформление, поддерживает русский и умеет дополнительно редактировать текст после перевода. https://github.com/hydropix/TranslateBooksWithLLMs/releases
 - Qwen3-MT — высокоэффективный переводчик, способный переводить тексты за секунды и поддерживающий более 92 языков, включая русский. https://huggingface.co/spaces/Qwen/Qwen3-MT-Demo
 
 ### Перевод речи
