@@ -30,6 +30,8 @@
 - Проработка идей
     - grill-me — минималистичный скилл для жёсткого интервью по плану, идее или дизайну: задаёт вопросы по одному, проходит ветки решений до общего понимания и предлагает рекомендуемый ответ на каждый вопрос; если ответ можно найти в кодовой базе, сначала исследует проект. https://github.com/mattpocock/skills/tree/main/grill-me
 - Маркетинг; SEO; CRO
+    - Claude Ads — Claude Code skill для аудита и оптимизации paid advertising: Google, Meta, YouTube, LinkedIn, TikTok, Microsoft и Apple Ads, 250+ проверок, weighted scoring, parallel subagents, industry templates, creative audit, budget review и генерация отчётов. https://github.com/AgriciDaniel/claude-ads
+    - Toprank — open-source Claude Code skills для SEO, SEM и Google Ads: Search Console, Google Ads и CMS-интеграции, SEO-анализ, ads audit, диагностика просадки трафика, контент-рекомендации и workflow-команды `/toprank:*`. https://github.com/nowork-studio/toprank
     - seo-audit — скилл для технического и on-page SEO-аудита сайта: проверяет crawlability/indexation, robots.txt, sitemap, canonical/noindex, архитектуру, Core Web Vitals, мобильную пригодность, мета-теги, заголовки, контент и структурированные данные с учётом ограничений `web_fetch`/`curl`. https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit
     - page-cro — скилл для conversion rate optimization маркетинговых страниц: анализирует ценностное предложение, headline, CTA, визуальную иерархию, trust signals, social proof, возражения, friction points и выдаёт quick wins, high-impact changes, test ideas и варианты copy. https://github.com/coreyhaines31/marketingskills/tree/main/skills/page-cro
 - Редактура

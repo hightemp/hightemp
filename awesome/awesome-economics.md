@@ -95,6 +95,12 @@
 
 - Xynth - искусственный интеллект, осуществляющий всесторонний анализ финансового рынка, включая исследования котировок, социальных сетей и новостей, с целью предоставления торговцам акциями и опционами информированных рекомендаций, как основанных на фундаментальном анализе, так и технической оценке графиков. https://www.xynth.finance/ 
 
+### AI для финансов и трейдинга
+
+- AutoHedge — экспериментальный автономный multi-agent hedge fund framework для анализа рынка, риск-менеджмента и исполнения сделок; сейчас заявлена поддержка автономной торговли на Solana, Coinbase и другие площадки указаны как roadmap. Использовать только после аудита кода, риск-модели и ключей кошелька; это не инвестиционная рекомендация. https://github.com/The-Swarm-Corporation/AutoHedge
+- Vibe-Trading — персональный AI-агент для трейдинга и quant research: принимает идеи на естественном языке, генерирует и тестирует стратегии, включает 29 presets команд агентов, 71 finance skill, backtesting для A/HK/US markets, crypto, futures и forex, экспорт в TradingView/TDX/MetaTrader 5. Требует ручной проверки стратегий и риск-менеджмента. https://github.com/HKUDS/Vibe-Trading
+- Fincept Terminal — open-source desktop finance terminal на C++20/Qt6 с embedded Python: рыночная аналитика, инвестиционные исследования, DCF, portfolio optimization, VaR/Sharpe, derivatives pricing, economic data tools и 37 AI-агентов для trader/investor/economic/geopolitics workflows с поддержкой локальных и облачных LLM. https://github.com/Fincept-Corporation/FinceptTerminal
+
 ### Полезные ссылки
 
 - RusEtfs - публичный агрегатор всех данных о ETF на Московской Бирже https://rusetfs.com/screener

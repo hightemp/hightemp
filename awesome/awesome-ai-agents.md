@@ -1,4 +1,6 @@
 
+> В этот файл добавлять agent harness/workflow и `.agents`-экосистемы. 
+
 ### Loops
 
 - Repo Task Proof Loop https://github.com/DenisSergeevitch/repo-task-proof-loop

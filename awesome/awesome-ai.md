@@ -164,6 +164,10 @@
 - https://notebooklm.google.com/
 - Bohrium - мощнейший ИИ-сервис для школьников и студентов совмещающий в себе чат-бот на основе искусственного интеллекта, гигантскую базу научных работ с краткими выжимками, курсы на любые темы от экономики до нейросетей, тысячи готовых докладов и статей от китайских студентов, а все это абсолютно бесплатно. https://www.bohrium.com/
 
+### Почта
+
+- Agentic Inbox — self-hosted email client с AI-агентом, работающий на Cloudflare Workers: входящие письма через Cloudflare Email Routing, изолированные mailbox в Durable Objects/SQLite, вложения в R2, web UI для чтения/отправки/управления письмами и сценарии агентной обработки inbox. https://github.com/cloudflare/agentic-inbox
+
 ### Чаты c документами
 
 - https://www.chatpdf.com
@@ -525,6 +529,7 @@
 ### Креативные AI-платформы
 
 - Phygital Plus — платформа для визуальных создателей и дизайнерских команд, объединяющая 30+ AI-инструментов в одном веб-приложении. https://phygital.plus/
+- Open Generative AI — self-hosted open-source студия для генерации изображений и видео с 200+ model definitions и интеграцией image/video/lip-sync/cinema/workflow studios; позиционируется как альтернатива Higgsfield, Freepik AI, Krea и Openart AI, может использоваться в автоматизированных media pipelines через agent skills. https://github.com/Anil-matcha/Open-Generative-AI
 
 ### Upscaler; Апскейлеры; Увлечитель разрешения
 
@@ -700,6 +705,7 @@
 - Veed.io — AI-видеоредактор для монтажа, субтитров и обработки роликов в браузере. https://www.veed.io/
 - FineShare — сервис для записи видео и работы с видео-контентом. https://www.fineshare.com/
 - Ev-DeblurVSR (Enhanced Video Deblurring and Video Super-Resolution) — видеокодек для эффективного устранения размытия и повышения разрешения видеопоследовательностей, обеспечивающий высокую детализацию и четкость кадров в условиях сложного движения и низкой освещенности. https://github.com/DachunKai/Ev-DeblurVSR
+- Hyperframes — open-source framework для рендеринга видео из HTML-композиций: preview/render pipeline, GSAP animations, CLI, Docker/test tooling и first-class support для AI coding agents через skills и OpenAI Codex plugin. https://github.com/heygen-com/hyperframes
 
 ### Распознавание дипфейков; deepfake
 
