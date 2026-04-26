@@ -38,6 +38,8 @@
     - fact-checker — скилл для системной проверки утверждений и источников: выделяет фактологические claims, определяет нужный уровень доказательств, ранжирует источники по надежности, выставляет verdict от TRUE до UNVERIFIABLE и предлагает корректную формулировку при ошибках или недостатке контекста. https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/fact-checker
 - MCP
     - mcp-builder — официальный скилл Anthropic для проектирования и сборки MCP-серверов под внешние API и сервисы: ведёт через исследование API, выбор покрытия endpoint/workflow tools, реализацию на TypeScript/Python, тестирование через MCP Inspector и подготовку evals. https://github.com/anthropics/skills/tree/main/skills/mcp-builder
+- Кибербезопасность
+    - Claude-Red — коллекция из 38 offensive security skills для Claude Skills: готовые `SKILL.md` по SQLi, XSS, SSRF, SSTI, XXE, IDOR, file upload, RCE, JWT/OAuth, shellcode, EDR evasion, exploit development, OSINT, fuzzing и AI security; предназначены для red team, bug bounty и security research. https://github.com/SnailSploit/Claude-Red
 - Генерация иконок
     - favicon
         - favicon https://lobehub.com/ru/skills/andrehfp-tinyplate-favicon

@@ -49,6 +49,10 @@
 
 - garak — бесплатный набор инструментов для red-teaming и оценки уязвимостей LLM/диалоговых систем, выявляющий галлюцинации, утечки данных, prompt injection, дезинформацию, токсичность и jailbreak-поведение с помощью статических, динамических и адаптивных проверок.
 
+### Скилы
+
+- Claude-Red — коллекция из 38 offensive security skills для Claude Skills: готовые `SKILL.md` по SQLi, XSS, SSRF, SSTI, XXE, IDOR, file upload, RCE, JWT/OAuth, shellcode, EDR evasion, exploit development, OSINT, fuzzing и AI security; предназначены для red team, bug bounty и security research. https://github.com/SnailSploit/Claude-Red
+
 ### Инструменты для проверки файлов
 
 - Qu1cksc0pe — консольный all‑in‑one инструмент на Python для статического и частично динамического анализа подозрительных файлов и артефактов (Windows/Linux/macOS/Android исполняемые файлы, документы, архивы, PCAP и E‑Mail), извлекающий IOC и технические признаки вроде импортов/API, секций, разрешений, URL/IP/Email и встроенных payload’ов. https://github.com/CYB3RMX/Qu1cksc0pe
