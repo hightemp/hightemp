@@ -73,6 +73,7 @@
     - Action-Domain-Responder (ADR)
         - Шаблон: Action-Domain-Responder (ADR) https://coderman.ru/shablon-action-domain-responder-adr/
     - Остальное
+        - Архитектура Laravel: 7 ловушек и практичные решения https://habr.com/ru/articles/970642/
         - Архитектура в Laravel. Как сделать код понятным и масштабируемым https://habr.com/ru/articles/898584/
 - Остальное
     - Building a Real-Time Currency Price Display with Laravel and SSE https://medium.com/@moaminsharifi/building-a-real-time-currency-price-display-with-laravel-and-sse-4bec46ba45b2
