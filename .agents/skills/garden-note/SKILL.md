@@ -141,6 +141,14 @@ MOC is not a tag. It is a hand-curated map or index for a topic.
 
 When adding a permanent note, update an existing relevant MOC if it already exists and the link clearly belongs there. Do not create a new MOC for every note.
 
+## Glossary Rule
+
+Keep a shared glossary at `garden/40-moc/glossary.md`.
+
+When a note introduces terms that an ordinary reader is unlikely to know without domain background, add them to the shared glossary if they are not already there. Typical examples include formal math, architecture, distributed systems, programming-language theory, and other specialized vocabulary.
+
+Do not add obvious everyday words. Prefer short plain-language definitions over textbook-style formalism. When a term came from a specific note, add that note to the glossary's sources section if useful.
+
 ## Folder Index Shape
 
 Folder indexes are lightweight tables of contents for large note folders. They live at the garden root and link into their corresponding folders:
@@ -172,7 +180,8 @@ When adding or renaming a `20-literature/` note, update `garden/20-literature.md
 1. Identify the note type and destination folder.
 2. Check for existing related notes with `rg` to avoid duplicates.
 3. Create or update the Markdown file with the smallest useful change.
-4. Add links to related notes when obvious.
-5. Update the relevant root folder index (`garden/20-literature.md` or `garden/30-permanent.md`) when adding or renaming notes in those folders.
-6. Update a relevant MOC only when it improves navigation.
-7. Run `git diff --check -- garden .agents` after edits when practical.
+4. Update `garden/40-moc/glossary.md` when the note introduces specialized terms that should be explained for a general reader.
+5. Add links to related notes when obvious.
+6. Update the relevant root folder index (`garden/20-literature.md` or `garden/30-permanent.md`) when adding or renaming notes in those folders.
+7. Update a relevant MOC only when it improves navigation.
+8. Run `git diff --check -- garden .agents` after edits when practical.
