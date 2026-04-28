@@ -46,6 +46,7 @@ Jupyter Notebook – это веб-приложение для создания 
 
 - Теория категорий
     - Теория категорий для программистов: предисловие https://habr.com/ru/articles/245797/
+    - Теория категорий для самых маленьких. Введение https://habr.com/ru/articles/874720/
 - Статистика
     - Марковские цепи
         - Markov Chain Monte Carlo Without all the Bullshit https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
