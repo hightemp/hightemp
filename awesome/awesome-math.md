@@ -44,7 +44,10 @@ Jupyter Notebook – это веб-приложение для создания 
 
 ### Статьи
 
-- Markov Chain Monte Carlo Without all the Bullshit https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
+- Теория категорий
+    - Теория категорий для программистов: предисловие https://habr.com/ru/articles/245797/
+- Статистика
+    - Markov Chain Monte Carlo Without all the Bullshit https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
 
 ### Видео
 
