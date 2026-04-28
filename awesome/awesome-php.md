@@ -326,6 +326,7 @@ vendor/bin/phpqt-install
 - https://paul-m-jones.com/
 - https://mattstauffer.com/
 - https://blog.ircmaxell.com/
+- https://blog.phpguru.net/
 - https://www.phpcluster.com/
 - http://phpdeveloper.org/
 - https://phpmagazine.net/
