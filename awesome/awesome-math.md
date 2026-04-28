@@ -46,6 +46,10 @@ Jupyter Notebook – это веб-приложение для создания 
 
 - Теория категорий
     - Теория категорий для программистов: предисловие https://habr.com/ru/articles/245797/
+    - Категория: суть композиции https://habr.com/ru/articles/246009/
+    - Типы и функции https://habr.com/ru/articles/247765/
+    - Категории, большие и малые https://habr.com/ru/articles/248257/
+    - Категории Клейсли https://habr.com/ru/articles/249113/
     - Теория категорий для самых маленьких. Введение https://habr.com/ru/articles/874720/
 - Статистика
     - Марковские цепи
