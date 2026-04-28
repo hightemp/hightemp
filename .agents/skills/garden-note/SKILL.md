@@ -149,6 +149,15 @@ When a note introduces terms that an ordinary reader is unlikely to know without
 
 Do not add obvious everyday words. Prefer short plain-language definitions over textbook-style formalism. When a term came from a specific note, add that note to the glossary's sources section if useful.
 
+## Ambiguous Terms Rule
+
+Do not assume that the same word means the same thing across sources. Treat overloaded terms as a normal case, especially in architecture, math, distributed systems, and programming-language theory.
+
+- In literature notes, preserve the author's meaning and add a short contextual qualifier in prose when the term could be misread.
+- In the glossary, do not force conflicting meanings into one averaged definition. Split them into qualified entries such as `Module (modular monolith)` and `Module (Xposed)` or `Model (DDD)` and `Model (math)`.
+- If an unqualified glossary entry already exists and a new source uses the term differently, revise the glossary to mark the ambiguity explicitly instead of stretching the old definition.
+- In permanent notes, prefer idea titles over bare overloaded nouns. Write `Domain events publish after commit`, not just `Events`.
+
 ## Folder Index Shape
 
 Folder indexes are lightweight tables of contents for large note folders. They live at the garden root and link into their corresponding folders:
@@ -178,9 +187,9 @@ When adding or renaming a `20-literature/` note, update `garden/20-literature.md
 ## Workflow
 
 1. Identify the note type and destination folder.
-2. Check for existing related notes with `rg` to avoid duplicates.
+2. Check for existing related notes and glossary terms with `rg` to avoid duplicates and accidental term collisions.
 3. Create or update the Markdown file with the smallest useful change.
-4. Update `garden/40-moc/glossary.md` when the note introduces specialized terms that should be explained for a general reader.
+4. Update `garden/40-moc/glossary.md` when the note introduces specialized terms that should be explained for a general reader, and split or qualify existing entries when the same word is used with a different meaning.
 5. Add links to related notes when obvious.
 6. Update the relevant root folder index (`garden/20-literature.md` or `garden/30-permanent.md`) when adding or renaming notes in those folders.
 7. Update a relevant MOC only when it improves navigation.
