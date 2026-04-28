@@ -317,6 +317,7 @@
 ### OCR
 
 - Chandra OCR 2 — open-source OCR-модель и CLI для document intelligence: конвертирует изображения и PDF в структурированные Markdown, HTML или JSON с сохранением layout-информации, хорошо работает со сложными таблицами, формулами, формами, чекбоксами, рукописным текстом и 90+ языками; поддерживает локальный Hugging Face inference, vLLM-сервер, batch processing и Streamlit-приложение. https://github.com/datalab-to/chandra
+- Marker Solo — open-source OCR/document intelligence инструмент для быстрой и точной конвертации PDF в Markdown: поддерживает layout analysis, OCR, удаление headers/footers и артефактов, сохранение таблиц, code blocks, изображений и большинства формул в LaTeX; работает локально на GPU, CPU или Apple MPS. https://github.com/swswsws583/marker-solo
 
 ### Альтернативные чаты
 
