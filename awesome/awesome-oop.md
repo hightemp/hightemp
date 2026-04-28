@@ -1,6 +1,8 @@
 
 ### Статьи
 
+- Паттерны и абстракции
+    - From design patterns to category theory — обзорная статья Марка Симанна о том, как знакомые design patterns и программные абстракции можно переосмыслить через category theory; на странице есть большая серия прикладных подстатей про monoids, functors, monads, catamorphisms и отображение этих идей на программирование. https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
 - DDD
     - Domain Driven Design https://fsharpforfunandprofit.com/ddd/
 - Чистая архитектура; Clean Architecture
