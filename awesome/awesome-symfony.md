@@ -438,6 +438,7 @@
     - Doctrine ORM and DDD aggregates https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/
     - Persisting Value Objects in Doctrine https://www.rosstuck.com/persisting-value-objects-in-doctrine
   - Остальное
+    - PHP: Symfony Demo meets Modular, Microservice-ready Architecture - Part 1 https://www.kode-krunch.com/2021/11/php-symfony-modular-architecture-demo-part-1.html
     - Clean Architecture, DDD, гексагональная архитектура. Разбираем на практике blog на Symfony https://habr.com/ru/articles/718916/
 - Plugin
   - Build a plugin system for your Symfony app https://davegebler.com/post/php/build-a-plugin-system-for-your-symfony-app
