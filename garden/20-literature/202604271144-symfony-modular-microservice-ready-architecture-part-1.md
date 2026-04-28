@@ -33,4 +33,5 @@
 
 ## Связи
 
+- [PHP: Symfony Demo meets Modular, Microservice-ready Architecture - Part 2](../20-literature/202604281114-symfony-modular-microservice-ready-architecture-part-2.md)
 - [Словарь терминов](../40-moc/glossary.md)
