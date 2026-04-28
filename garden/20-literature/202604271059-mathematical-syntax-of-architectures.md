@@ -36,4 +36,5 @@
 
 ## Связи
 
+- [From design patterns to category theory](../20-literature/202604281446-from-design-patterns-to-category-theory.md)
 - [Словарь терминов](../40-moc/glossary.md)

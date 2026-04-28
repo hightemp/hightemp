@@ -16,6 +16,10 @@
 
 - [Вы больше не новичок в Git. Повышаем квалификацию с помощью 7 команд](20-literature/202604231358-habr-advanced-git-commands.md)
 
+## Программирование
+
+- [From design patterns to category theory](20-literature/202604281446-from-design-patterns-to-category-theory.md)
+
 ## Архитектура
 
 - [The Mathematical Syntax of Architectures](20-literature/202604271059-mathematical-syntax-of-architectures.md)
