@@ -1618,6 +1618,7 @@ https://arxiv.org/pdf/2411.08804v1
             - Installing the NVIDIA Container Toolkit https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
     - Деплой и Инференс (Deployment & Inference)
         - Self-Host Kimi K2.6: Complete Guide to vLLM, SGLang & KTransformers Deployment — практический гайд по self-hosting open-source модели Kimi K2.6: hardware sizing для FP16/INT4, native QAT INT4, запуск через `vLLM`, `SGLang` и `KTransformers`, настройка `thinking`/`instant` режимов, cost break-even против API и production best practices. https://lushbinary.com/blog/kimi-k2-6-self-hosting-guide-vllm-sglang-ktransformers/
+        - Open-source AI-modellen dichten de kloof: DeepSeek, Qwen3 en Llama 4 evenaren nu GPT-5 — обзор open-source LLM landscape за декабрь 2025 с акцентом на build-vs-buy для enterprise AI: сравнивает DeepSeek V3.2, Qwen3-235B, Llama 4 Scout и Mistral по benchmark parity, стоимости токенов, self-hosting требованиям и рискам vendor lock-in. https://introl.com/nl/blog/open-source-ai-models-december-2025
     - Протоколы и Интеграция (Protocols & Integration)
         - MCP (Model Context Protocol)
     - Оркестрация и Автоматизация (Orchestration & Automation)
