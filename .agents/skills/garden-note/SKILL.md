@@ -18,7 +18,7 @@ Current folders:
 - `20-literature/` - notes from books, articles, papers, talks, podcasts, videos.
 - `30-permanent/` - atomic evergreen notes in the user's own words.
 - `40-moc/` - maps of content, indexes, topic hubs, navigation notes.
-- `50-sources/` - source cards, bibliographic notes, links, citations.
+- `50-sources/` - source cards, bibliographic notes, abstracts, links, excerpts, tables, snippets, and reference packs tied to one source.
 - `60-projects/` - project-oriented notes that use permanent notes.
 - `90-templates/` - reusable note templates.
 - `assets/` - images, PDFs, diagrams, attachments.
@@ -61,7 +61,7 @@ Do not create `README.md` files inside `20-literature/` or `30-permanent/` just 
 - Raw capture from the user, not yet processed: `00-inbox/`.
 - Half-formed thought, question, or observation: `10-fleeting/`.
 - Notes tied closely to one source: `20-literature/`.
-- Source metadata, citation, abstract, and link: `50-sources/`.
+- Source metadata, citation, abstract, link, excerpts, reference packs, tables, snippets, and copy-paste fragments tied to one source: `50-sources/`.
 - One durable idea written in the user's own words: `30-permanent/`.
 - Topic index or navigation page: `40-moc/`.
 - Notes serving a concrete project or deliverable: `60-projects/`.
@@ -118,6 +118,60 @@ Use literature notes for source-specific extraction:
 ```
 
 Respect copyright: keep quotations short and prefer paraphrase.
+
+## Source Pack Rule
+
+Do not create top-level folders based on artifact type such as `tables/`, `snippets/`, or `quotes/`. Keep the garden organized by note role, not by file format.
+
+Use `50-sources/` for source-specific support material that is useful to preserve but should not clutter the main literature note. Typical examples:
+
+- copied comparison tables
+- extracted commands and config snippets
+- short quotes or disputed passages worth preserving verbatim
+- benchmark figures, pricing snapshots, or version-specific details
+- structured "reference packs" for one source
+
+Prefer this split:
+
+- `20-literature/` = your processed understanding of the source
+- `50-sources/` = raw or semi-structured support material tied to that source
+- `assets/` = images, PDFs, CSVs, screenshots, and other attachments
+
+When a source pack exists, link it from the related literature note if the connection is useful.
+
+## Source Pack Shape
+
+Use this structure when creating a source pack:
+
+````markdown
+# Source title reference pack
+
+Источник: URL or bibliographic reference
+
+## Таблицы
+
+- ...
+
+## Сравнения
+
+- ...
+
+## Сниппеты и команды
+
+```text
+...
+```
+
+## Короткие выдержки
+
+- ...
+
+## Что проверить позже
+
+- ...
+````
+
+Add only the sections that are useful. Do not force every source pack to contain every section.
 
 ## MOC Shape
 
@@ -190,7 +244,7 @@ When adding or renaming a `20-literature/` note, update `garden/20-literature.md
 2. Check for existing related notes and glossary terms with `rg` to avoid duplicates and accidental term collisions.
 3. Create or update the Markdown file with the smallest useful change.
 4. Update `garden/40-moc/glossary.md` when the note introduces specialized terms that should be explained for a general reader, and split or qualify existing entries when the same word is used with a different meaning.
-5. Add links to related notes when obvious.
+5. Add links to related notes when obvious, including links between literature notes and source packs.
 6. Update the relevant root folder index (`garden/20-literature.md` or `garden/30-permanent.md`) when adding or renaming notes in those folders.
 7. Update a relevant MOC only when it improves navigation.
 8. Run `git diff --check -- garden .agents` after edits when practical.
