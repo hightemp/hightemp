@@ -37,6 +37,7 @@
 - Память, код и контекст
     - OpenMemory — единый memory layer для Cursor, Claude, Windsurf и других MCP-клиентов. https://github.com/mem0ai/mem0/tree/main/openmemory
     - Claude Context — MCP-плагин/сервер для semantic code search, который подаёт релевантный контекст из большой кодовой базы в Claude Code, Codex CLI, Gemini CLI, Cursor, Cline, Roo Code и другие AI coding agents; хранит индекс в Milvus/Zilliz и помогает не грузить целые директории в контекст модели на каждый запрос. https://github.com/zilliztech/claude-context
+    - claude-context-local — 100% локальная альтернатива Claude Context для semantic code search через MCP: использует EmbeddingGemma и FAISS, не требует API-ключей и облачной векторной БД, хранит embeddings и индекс на машине пользователя и даёт privacy-first codebase context для Claude Code. https://github.com/FarhanAliRaza/claude-context-local
 - Безопасность
     - HexStrike AI — MCP-фреймворк для пентеста и security automation с 150+ инструментами и автономными агентами. https://github.com/0x4m4/hexstrike-ai
 
