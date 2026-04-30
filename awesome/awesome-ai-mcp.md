@@ -36,7 +36,7 @@
     - Talk to Figma MCP — интеграция Cursor/Claude Code с Figma для чтения и изменения дизайна напрямую. https://github.com/grab/cursor-talk-to-figma-mcp
 - Память, код и контекст
     - OpenMemory — единый memory layer для Cursor, Claude, Windsurf и других MCP-клиентов. https://github.com/mem0ai/mem0/tree/main/openmemory
-    - Claude Context — семантический поиск по большой кодовой базе через векторную БД для подачи релевантного контекста агенту. https://github.com/zilliztech/claude-context
+    - Claude Context — MCP-плагин/сервер для semantic code search, который подаёт релевантный контекст из большой кодовой базы в Claude Code, Codex CLI, Gemini CLI, Cursor, Cline, Roo Code и другие AI coding agents; хранит индекс в Milvus/Zilliz и помогает не грузить целые директории в контекст модели на каждый запрос. https://github.com/zilliztech/claude-context
 - Безопасность
     - HexStrike AI — MCP-фреймворк для пентеста и security automation с 150+ инструментами и автономными агентами. https://github.com/0x4m4/hexstrike-ai
 
