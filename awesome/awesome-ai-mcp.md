@@ -62,3 +62,5 @@
     - Как работают серверы MCP: компоненты, логика и архитектура https://habr.com/ru/articles/925320/
     - Как обезопасить Spring AI MCP сервер с помощью OAuth2 https://habr.com/ru/companies/spring_aio/articles/901360/
     - Test a Remote MCP Server https://developers.cloudflare.com/agents/guides/test-remote-mcp-server/
+- Разборы реализаций
+    - MerkleDAG class in claude-context codebase. https://medium.com/@ramunarasinga/merkledag-class-in-claude-context-codebase-001de2eb5cd5
