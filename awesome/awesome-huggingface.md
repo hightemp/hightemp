@@ -2,6 +2,9 @@
 ### Зеркала и доступ
 
 - https://hf-mirror.com/
+- https://hub.alibi.com/
+- https://huggingface-api.ghproxy.com/
+- https://huggingface.zsxww.com/
 
 ### Перевод видео
 

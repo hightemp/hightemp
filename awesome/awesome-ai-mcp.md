@@ -40,6 +40,7 @@
     - claude-context-local — 100% локальная альтернатива Claude Context для semantic code search через MCP: использует EmbeddingGemma и FAISS, не требует API-ключей и облачной векторной БД, хранит embeddings и индекс на машине пользователя и даёт privacy-first codebase context для Claude Code. https://github.com/FarhanAliRaza/claude-context-local
     - mcp-vector-search — local-first MCP-сервер и CLI для semantic code search: индексирует кодовую базу в LanceDB, использует AST-aware парсинг для функций и классов, поддерживает 13 языков, file watching и умеет автоматически настраивать интеграцию с Claude Code, Cursor и другими MCP-клиентами. https://github.com/bobmatnyc/mcp-vector-search
     - semantic-search-mcp — локальный MCP-сервер для semantic code search с hybrid retrieval: комбинирует векторный поиск и `FTS5` keyword matching через `RRF`, использует `Tree-sitter` для 165+ языков, уважает `.gitignore`, автоматически индексирует проект при старте и ставит skills/slash-команды для Claude Code. https://github.com/adam-hanna/semantic-search-mcp
+    - project-rag — local-first MCP-сервер для semantic code search и git-history RAG: индексирует код, документацию и конфиги, использует `FastEmbed` + `LanceDB/BM25` hybrid search, поддерживает incremental indexing, PDF extraction и инструменты для Claude Code. https://github.com/Brainwires/project-rag
 - Безопасность
     - HexStrike AI — MCP-фреймворк для пентеста и security automation с 150+ инструментами и автономными агентами. https://github.com/0x4m4/hexstrike-ai
 
