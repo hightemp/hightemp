@@ -302,9 +302,11 @@ Norton
 - Multicast
     - Multicast IP Address to MAC address mapping https://networklessons.com/multicast/multicast-ip-address-to-mac-address-mapping
 - IPFS
-    - IPFS Tutorial: Building a Private IPFS Network with IPFS-Cluster for Data Replication https://eleks.com/research/ipfs-network-data-replication/
-    - Merkle DAG Simplified https://medium.com/@Spazzy757/merkle-dag-simplified-eaece84c4090
-    - ProtoSchool: Introducing Merkle DAGs https://proto.school/merkle-dags/04/
+    - Merkle DAG
+        - Merkle DAG Simplified https://medium.com/@Spazzy757/merkle-dag-simplified-eaece84c4090
+        - ProtoSchool: Introducing Merkle DAGs https://proto.school/merkle-dags/04/
+    - Практика
+        - IPFS Tutorial: Building a Private IPFS Network with IPFS-Cluster for Data Replication https://eleks.com/research/ipfs-network-data-replication/
 - P2P
     - Hole punching in libp2p - Overcoming Firewalls https://blog.ipfs.tech/2022-01-20-libp2p-hole-punching/
     - Пробиваем дыры в NAT https://habr.com/ru/articles/763164/
