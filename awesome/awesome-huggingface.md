@@ -1,4 +1,8 @@
 
+### Зеркала и доступ
+
+- https://hf-mirror.com/
+
 ### Перевод видео
 
 - https://huggingface.co/spaces/ruslanmv/Youtube-Video-Translator
