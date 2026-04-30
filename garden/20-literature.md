@@ -25,3 +25,7 @@
 - [The Mathematical Syntax of Architectures](20-literature/202604271059-mathematical-syntax-of-architectures.md)
 - [PHP: Symfony Demo meets Modular, Microservice-ready Architecture - Part 1](20-literature/202604271144-symfony-modular-microservice-ready-architecture-part-1.md)
 - [PHP: Symfony Demo meets Modular, Microservice-ready Architecture - Part 2](20-literature/202604281114-symfony-modular-microservice-ready-architecture-part-2.md)
+
+## Распределённые системы
+
+- [Merkle-CRDTs: Merkle-DAGs meet CRDTs](20-literature/202604301117-merkle-crdts-merkle-dags-meet-crdts.md)

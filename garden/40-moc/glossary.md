@@ -59,6 +59,17 @@
 - **Baseline events** - события или специальные выгрузки, которые позволяют заново синхронизировать локальные копии данных в модулях и восстановить целостность после изменений или сбоев.
 - **Data locality** - принцип, по которому данные, нужные модулю для работы, находятся как можно ближе к месту их использования, чтобы не тянуть их каждый раз по сети.
 
+## Репликация, причинность и content-addressed структуры
+
+- **CRDT (Conflict-Free Replicated Data Type)** - тип данных для распределённой системы, который спроектирован так, чтобы независимые обновления на разных репликах всё равно сошлись к одному состоянию без центрального координатора.
+- **Strong eventual consistency** - усиленный вариант eventual consistency: если две реплики уже получили один и тот же набор обновлений, их состояние должно быть одинаковым уже сейчас, а не "когда-нибудь потом".
+- **Logical clock** - способ кодировать причинный порядок событий без опоры на глобальное время. Такой clock помогает понять, какое событие произошло раньше, а какие были конкурентными.
+- **Version vector** - структура из версий по репликам, с помощью которой можно сравнивать causal history разных состояний и понимать, одно ли включает другое или они развивались параллельно.
+- **Content addressing** - подход, в котором объект идентифицируется не местом хранения, а хешем своего содержимого. Если содержимое меняется, идентификатор тоже меняется.
+- **Merkle DAG** - directed acyclic graph, где каждый узел адресуется по хешу своего payload и ссылок на детей. Это делает граф одновременно immutable, self-verifying и пригодным для дедупликации и causal history.
+- **Merkle-Clock** - предложенный в статье logical clock, где причинность кодируется самим `Merkle DAG`, а не отдельным вектором версий или timestamp-метаданными.
+- **Merkle-CRDT** - CRDT, у которого payloads упакованы в узлы `Merkle DAG`, так что один и тот же граф служит и persistent history, и transport layer, и causal clock для реплик.
+
 ## Архитектура приложений и тестирование
 
 - **Transaction boundary** - явная граница работы, внутри которой несколько изменений должны либо зафиксироваться вместе, либо откатиться вместе.
@@ -73,6 +84,7 @@
 - [From design patterns to category theory](../20-literature/202604281446-from-design-patterns-to-category-theory.md)
 - [PHP: Symfony Demo meets Modular, Microservice-ready Architecture - Part 1](../20-literature/202604271144-symfony-modular-microservice-ready-architecture-part-1.md)
 - [PHP: Symfony Demo meets Modular, Microservice-ready Architecture - Part 2](../20-literature/202604281114-symfony-modular-microservice-ready-architecture-part-2.md)
+- [Merkle-CRDTs: Merkle-DAGs meet CRDTs](../20-literature/202604301117-merkle-crdts-merkle-dags-meet-crdts.md)
 
 ## Как пополнять
 
