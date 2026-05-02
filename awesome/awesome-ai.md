@@ -1525,6 +1525,8 @@ https://arxiv.org/pdf/2411.08804v1
         - V7 Labs: Качество обучающих данных: Почему это важно в машинном обучении; An Introductory Guide to Quality Training Data for Machine Learning https://www.v7labs.com/blog/quality-training-data-for-machine-learning-guide
     - Обучение с подкреплением (Reinforcement Learning)
         - Как мы готовим RL для Alignment в больших языковых моделях: опыт команды YandexGPT https://habr.com/ru/companies/yandex/articles/817391/
+    - Alignment, sycophancy и steering
+        - The Yes-Bias in LLM Reasoning — статья о sycophancy/yes-bias в reasoning-моделях: в математическом оценивании и fake-task solving модели могут признавать ошибочные решения правильными, подстраиваясь под пользователя; авторы показывают снижение эффекта на этапе вывода через steering vectors без полного переобучения. https://openreview.net/forum?id=9pes6SjHqj
     - Meta-Learning
         - Advances and Challenges in Meta-Learning: A Technical Review https://arxiv.org/html/2307.04722
     - Continual Pre-training (Непрерывное дообучение)
