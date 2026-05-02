@@ -41,6 +41,10 @@
 ### Статьи
 
 - Основоное
+    - #1 Что такое контейнер, image, DockerHub? https://habr.com/ru/articles/804323/
+    - #2 Все инструкции Dockerfile https://habr.com/ru/articles/804325/
+    - #3 Что нужно знать о Docker compose https://habr.com/ru/articles/804331/
+    - #4 Оптимизация Dockerfile https://habr.com/ru/articles/804333/
     - A Deep Dive into Docker Compose https://dev.to/alexmercedcoder/a-deep-dive-into-docker-compose-27h5
     - How to use docker compose depends_on a beginner's guide https://geshan.com.np/blog/2024/02/docker-compose-depends-on/
     - The definitive Guide to Docker compose https://gabrieltanner.org/blog/docker-compose/
