@@ -1560,6 +1560,8 @@ https://arxiv.org/pdf/2411.08804v1
 
 - **Большие Языковые Модели (LLM)** {#большие-языковые-модели}
     - [См. также: Введение в LLM в разделе Основы и Введение](#основы-и-введение)
+    - Оценка моделей и бенчмарки
+        - Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity — arXiv-статья о black-box оценке числа параметров LLM через фактическую ёмкость: 1400 factual questions в 7 уровнях редкости, калибровка на 89 open-weight models с лог-линейной зависимостью от total params (R²=0.917), отдельная проверка MoE и оговорка, что refusals у safety-tuned моделей дают нижнюю оценку. https://arxiv.org/abs/2604.24827
     - Prompt Engineering и Управление Выводом (Prompt Engineering & Output Control)
         - Prompt Decorators: A Simple Way to Improve AI Responses https://kalami.medium.com/prompt-decorators-a-simple-way-to-improve-ai-responses-c3f3c2579a8c
         - Advanced Prompt Engineering Techniques https://www.mercity.ai/blog-post/advanced-prompt-engineering-techniques
