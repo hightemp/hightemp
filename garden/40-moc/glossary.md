@@ -78,6 +78,15 @@
 - **Outbound Event** - исходящее событие, которое модуль публикует наружу после завершения своей работы, чтобы другие модули обновили свои модели или реакции.
 - **Module API** - явный фасад модуля: набор команд, запросов и событий, через который остальная система должна с ним взаимодействовать.
 
+## AI и LLM
+
+- **Black-box model** - модель, к которой есть доступ только через входы и выходы, например API. Веса, архитектура, training data и внутренние вероятности недоступны напрямую.
+- **Parametric knowledge** - знания, которые модель хранит в своих весах и может воспроизводить без внешнего поиска или дополнительной базы знаний.
+- **Factual capacity** - практическая оценка того, сколько фактов модель удерживает как `parametric knowledge`; в IKP-контексте используется как нижняя граница для оценки размера модели.
+- **Incompressible Knowledge Probes (IKP)** - методика оценки LLM через вопросы по редким фактам. Идея в том, что отдельные факты нельзя надёжно вывести из общих правил, поэтому их воспроизведение показывает объём хранимого знания.
+- **Mixture-of-Experts (MoE)** - архитектура модели, где есть несколько экспертных блоков, а router активирует только часть из них для конкретного токена. Поэтому различают `total parameters` и `active parameters`.
+- **Refusal policy** - поведение модели или поставщика, при котором модель отказывается отвечать на часть запросов. В factual benchmark это может скрывать знания, которые модель потенциально имеет, но не выдаёт.
+
 ## Источники
 
 - [The Mathematical Syntax of Architectures](../20-literature/202604271059-mathematical-syntax-of-architectures.md)
@@ -85,6 +94,7 @@
 - [PHP: Symfony Demo meets Modular, Microservice-ready Architecture - Part 1](../20-literature/202604271144-symfony-modular-microservice-ready-architecture-part-1.md)
 - [PHP: Symfony Demo meets Modular, Microservice-ready Architecture - Part 2](../20-literature/202604281114-symfony-modular-microservice-ready-architecture-part-2.md)
 - [Merkle-CRDTs: Merkle-DAGs meet CRDTs](../20-literature/202604301117-merkle-crdts-merkle-dags-meet-crdts.md)
+- [Incompressible Knowledge Probes](../20-literature/202605021639-incompressible-knowledge-probes.md)
 
 ## Как пополнять
 
