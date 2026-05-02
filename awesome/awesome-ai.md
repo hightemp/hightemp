@@ -269,6 +269,10 @@
 - https://tmuxai.dev/
 - Yai — ИИ-ассистент для терминала на основе OpenAI ChatGPT, который строит и выполняет команды по описанию на естественном языке, автоматически учитывая операционную систему пользователя, оболочку, домашний каталог и предпочтения редактора. https://github.com/ekkinox/yai
 
+### ai ассистенты для компьютера
+
+- Clicky — open-source macOS-помощник рядом с курсором: видит экран, принимает голос через push-to-talk, отвечает голосом и может указывать на элементы интерфейса через координаты; требует прав на микрофон, Accessibility и запись экрана, поэтому запускать стоит осознанно. https://github.com/farzaa/clicky
+
 ### ai браузеры, браузеры с агентами
 
 - ChatGPT Atlas — веб-браузер с встроенным ChatGPT, который сопровождает пользователя по сайтам, понимает контекст страницы и память чатов, выполняет поиск и задачи без переключений и предоставляет тонкие настройки приватности; доступен на macOS (Windows/iOS/Android — скоро). https://chatgpt.com/atlas/
@@ -504,6 +508,7 @@
 - https://app.artflow.ai/
 - https://sdai.moroz.cc/ (для телефонов Android)
 - https://diffusionbee.com/ (для MacOS)
+- DreamLite — компактная on-device diffusion-модель ByteDance для генерации и текстового редактирования изображений на мобильных устройствах: работает без облака и в демо показывает генерацию/редактирование 1024x1024 примерно за 3 секунды на iPhone 17 Pro. https://carlofkl.github.io/dreamlite/
 - https://www.fotor.com/
 - https://perchance.org/zg2eivefxf
 - https://huggingface.co/spaces/KingNish/SDXL-Flash

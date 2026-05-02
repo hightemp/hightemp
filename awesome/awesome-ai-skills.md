@@ -23,6 +23,7 @@
 
 - Для разработки
     - Agent Skills — личная коллекция скилов Matt Pocock для планирования, разработки, TDD, triage, refactoring, GitHub workflow, pre-commit, Obsidian и написания новых skills. https://github.com/mattpocock/skills
+    - Andrej Karpathy Skills — компактные guidelines/skill для Claude Code и Cursor по мотивам наблюдений Андрея Карпаты: думать перед кодингом, упрощать, делать точечные изменения и задавать проверяемые критерии успеха. https://github.com/forrestchang/andrej-karpathy-skills
 - Создание скилов
     - Skill Creator https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
 - Промптинг

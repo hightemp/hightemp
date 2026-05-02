@@ -1,5 +1,5 @@
 
-> В этот файл добавлять agent harness/workflow и `.agents`-экосистемы. 
+> В этот файл добавлять только инструменты для агентской разработки, agent harness/workflow и `.agents`-экосистемы.
 
 ### Loops
 
@@ -21,6 +21,9 @@
     - agent-worktree — CLI для Git worktree workflow под AI coding agents: создаёт изолированные worktree для параллельной разработки, умеет `snap mode` для запуска `claude`, `codex` и других команд, затем помогает проверить изменения, смержить и очистить worktree. https://github.com/nekocode/agent-worktree
 - Дизайн
     - Awesome DESIGN.md — коллекция готовых DESIGN.md-файлов с дизайн-системами популярных сайтов; файл можно положить в проект, чтобы coding agents генерировали UI в заданном стиле. https://github.com/VoltAgent/awesome-design-md/tree/main
+    - Neuform Featured — gallery/community готовых AI HTML-шаблонов, reusable design systems и DESIGN.md source, которые можно использовать как дизайн-контекст для coding agents. https://neuform.ai/community/featured
+    - Stitch DESIGN.md — открытая draft-спецификация Google Labs для DESIGN.md: переносит дизайн-правила между проектами и помогает AI-агентам понимать назначение цветов, UI-решений и accessibility-ограничений. https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/
+    - DESIGN.md Directory — каталог готовых DESIGN.md-файлов для coding agents: можно просматривать, превьюить и брать visual identities с токенами и rationale как входной контекст для генерации интерфейсов. https://designdotmd.directory/
     - AI Website Cloner Template — reusable Next.js 16/React 19/Tailwind v4/shadcn/ui шаблон для восстановления сайта в чистую кодовую базу через AI coding agents: команда `/clone-website` снимает скриншоты, извлекает дизайн-токены и ассеты, пишет спецификации компонентов, запускает параллельных builder-агентов и делает visual diff. Поддерживает Claude Code, Codex CLI, OpenCode, Copilot, Cursor, Windsurf, Gemini CLI, Cline, Roo Code, Continue, Amazon Q, Augment и Aider; использовать для своих сайтов, миграций, восстановления утраченного исходного кода или обучения. https://github.com/JCodesMore/ai-website-cloner-template
 - Остальное
     - Inkeep Agents: Платформа для создания и управления ИИ-агентами, поддерживающая полную двустороннюю синхронизацию между визуальным конструктором без кода и TypeScript SDK для совместной работы технических и нетехнических специалистов. https://github.com/inkeep/agents
