@@ -495,6 +495,8 @@
   
 ### Видео
 
+- API
+  - Создание API на Symfony 5: Создание первого сервиса — видео eazyDev про первый сервис для отдачи книжных категорий: отдельный service, unit tests, controller, functional test, fixtures и Swagger. https://www.youtube.com/watch?v=v-VxZ0NpMxs&t=982s
 - Messenger
   - Messenger vs EventDispatcher https://symfonycasts.com/screencast/messenger/messenger-event-dispatcher
 - Voter
