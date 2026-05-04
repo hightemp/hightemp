@@ -33,3 +33,7 @@
 ## Распределённые системы
 
 - [Merkle-CRDTs: Merkle-DAGs meet CRDTs](20-literature/202604301117-merkle-crdts-merkle-dags-meet-crdts.md)
+
+## Linux и ядро
+
+- [Livepatch](20-literature/202605041137-linux-livepatch.md)

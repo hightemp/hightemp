@@ -78,6 +78,16 @@
 - **Outbound Event** - исходящее событие, которое модуль публикует наружу после завершения своей работы, чтобы другие модули обновили свои модели или реакции.
 - **Module API** - явный фасад модуля: набор команд, запросов и событий, через который остальная система должна с ним взаимодействовать.
 
+## Linux kernel livepatching
+
+- **Livepatch** - механизм ядра Linux для применения исправлений к уже запущенному ядру без reboot. Обычно patch приходит как kernel module, а вызовы затронутых функций перенаправляются на новые реализации во время работы системы.
+- **Dynamic ftrace** - инфраструктура runtime-трассировки функций в Linux kernel. Для livepatch она важна как базовый механизм перехвата входа в функцию и перенаправления исполнения.
+- **Kprobe** - низкоуровневый механизм runtime-probing в Linux kernel: он ставит breakpoint в выбранную инструкцию и передаёт управление своему handler.
+- **Transition state (livepatch)** - промежуточная фаза после включения или выключения live patch, когда задачи ещё не все перешли в patched или unpatched state. Пока transition не завершён, система живёт в режиме сходимости, а не в окончательном состоянии.
+- **Reliable stacktrace** - свойство архитектуры и stack unwinder-а, при котором ядро может достаточно надёжно проверить текущий stack задачи и понять, безопасно ли уже переключать её на новую версию функции.
+- **kGraft** - один из ранних подходов к kernel livepatching, известный per-task consistency и переключением на границе system call.
+- **kpatch** - другой подход к kernel livepatching, известный переключением через stack trace analysis; современный kernel livepatch использует гибрид идей `kGraft` и `kpatch`.
+
 ## AI и LLM
 
 - **Black-box model** - модель, к которой есть доступ только через входы и выходы, например API. Веса, архитектура, training data и внутренние вероятности недоступны напрямую.
@@ -95,6 +105,7 @@
 - [PHP: Symfony Demo meets Modular, Microservice-ready Architecture - Part 2](../20-literature/202604281114-symfony-modular-microservice-ready-architecture-part-2.md)
 - [Merkle-CRDTs: Merkle-DAGs meet CRDTs](../20-literature/202604301117-merkle-crdts-merkle-dags-meet-crdts.md)
 - [Incompressible Knowledge Probes](../20-literature/202605021639-incompressible-knowledge-probes.md)
+- [Livepatch](../20-literature/202605041137-linux-livepatch.md)
 
 ## Как пополнять
 
