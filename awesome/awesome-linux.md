@@ -228,6 +228,8 @@
     - **Ядро и Разработка (Kernel and Development)**
         - Общее (General)
             - The Linux Kernel Module Programming Guide https://tldp.org/LDP/lkmpg/2.6/html/index.html
+        - Livepatching
+            - Livepatch — официальная документация ядра Linux о runtime-патчинге функций без reboot; объясняет связку `dynamic ftrace`/kprobes, consistency model, lifecycle livepatch-модуля, sysfs и ограничения. https://docs.kernel.org/livepatch/livepatch.html
         - Сборка ядра (Kernel Build)
             - Собираем и запускаем минимальное ядро Linux https://habr.com/ru/companies/timeweb/articles/899312/
         - Разработка модулей и драйверов (Module and Driver Development)
