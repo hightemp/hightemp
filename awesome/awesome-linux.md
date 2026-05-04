@@ -352,6 +352,13 @@
             - MPTCP (MultiPath TCP)
             - QUIC
 
+    - **Пакетирование и распространение приложений (Application Packaging and Distribution)**
+        - Flatpak
+            - Building Cross-Distribution Linux Applications with Flatpak — практический tutorial по сборке Flatpak-приложений: runtimes/SDK, `flatpak-builder`, manifest, `finish-args`, sandbox permissions и публикация signed repo. https://www.booleanworld.com/building-cross-distribution-linux-applications-flatpak/
+            - Sandbox — wiki Flatpak с разбором sandbox implementation: `flatpak-bwrap`, namespaces, mount layout, seccomp, D-Bus filtering, optional host access flags и portals. https://github.com/flatpak/flatpak/wiki/Sandbox
+            - Using host Nvidia driver with Flatpak — deep dive в Flatpak GL driver extensions: unmanaged `org.freedesktop.Platform.GL.host`, matching userspace/kernel NVIDIA driver versions, `flatpak --gl-drivers`, `FLATPAK_GL_DRIVERS` и layout extension. https://blog.tingping.se/2018/08/26/flatpak-host-extensions.html
+            - Digging further into Flatpak with NVIDIA — практический разбор сборки custom `org.freedesktop.Platform.GL.nvidia` runtime для конкретной версии NVIDIA driver через `--extra-data`, static `apply_extra` и local Flatpak repository. https://blogs.igalia.com/vjaquez/digging-further-into-flatpak-with-nvidia/
+
     - **Системное администрирование и Утилиты (System Administration and Utilities)**
         - Время и Синхронизация (Time and Synchronization)
             - How Linux Keeps Track of Time https://tldp.org/HOWTO/Clock-2.html
