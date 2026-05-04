@@ -269,6 +269,10 @@
 - https://tmuxai.dev/
 - Yai — ИИ-ассистент для терминала на основе OpenAI ChatGPT, который строит и выполняет команды по описанию на естественном языке, автоматически учитывая операционную систему пользователя, оболочку, домашний каталог и предпочтения редактора. https://github.com/ekkinox/yai
 
+### ai ассистенты для компьютера
+
+- Clicky — open-source macOS-помощник рядом с курсором: видит экран, принимает голос через push-to-talk, отвечает голосом и может указывать на элементы интерфейса через координаты; требует прав на микрофон, Accessibility и запись экрана, поэтому запускать стоит осознанно. https://github.com/farzaa/clicky
+
 ### ai браузеры, браузеры с агентами
 
 - ChatGPT Atlas — веб-браузер с встроенным ChatGPT, который сопровождает пользователя по сайтам, понимает контекст страницы и память чатов, выполняет поиск и задачи без переключений и предоставляет тонкие настройки приватности; доступен на macOS (Windows/iOS/Android — скоро). https://chatgpt.com/atlas/
@@ -504,6 +508,7 @@
 - https://app.artflow.ai/
 - https://sdai.moroz.cc/ (для телефонов Android)
 - https://diffusionbee.com/ (для MacOS)
+- DreamLite — компактная on-device diffusion-модель ByteDance для генерации и текстового редактирования изображений на мобильных устройствах: работает без облака и в демо показывает генерацию/редактирование 1024x1024 примерно за 3 секунды на iPhone 17 Pro. https://carlofkl.github.io/dreamlite/
 - https://www.fotor.com/
 - https://perchance.org/zg2eivefxf
 - https://huggingface.co/spaces/KingNish/SDXL-Flash
@@ -526,6 +531,7 @@
 
 - Phygital Plus — платформа для визуальных создателей и дизайнерских команд, объединяющая 30+ AI-инструментов в одном веб-приложении. https://phygital.plus/
 - Open Generative AI — self-hosted open-source студия для генерации изображений и видео с 200+ model definitions и интеграцией image/video/lip-sync/cinema/workflow studios; позиционируется как альтернатива Higgsfield, Freepik AI, Krea и Openart AI, может использоваться в автоматизированных media pipelines через agent skills. https://github.com/Anil-matcha/Open-Generative-AI
+- OpenShorts — open-source self-hosted AI-видеостудия для превращения длинных YouTube-роликов и локальных видео в вертикальные shorts/reels/tiktoks: находит фрагменты, делает 9:16 reframing, добавляет субтитры, озвучку, hook overlays, UGC-ролики с AI-акторами и публикацию в TikTok, Instagram Reels и YouTube Shorts без подписок и водяных знаков. https://github.com/mutonby/openshorts
 
 ### Upscaler; Апскейлеры; Увлечитель разрешения
 
@@ -1066,10 +1072,10 @@ https://arxiv.org/pdf/2411.08804v1
 
 ### Полезные chrome ai-расширения
 
-- Jasper (https://chromewebstore.google.com/detail/jasper-everywhere-extensi/bpiohchncadidhohcajcnoelomephkdd) - одно из самых популярных AI расширений для написания текстов, ценный инструмент для маркетологов.
-Достаточно выделить текст, чтобы расширение сделало из него качественный. Из минусов - платный, но можно попробовать 7 дней бесплатно.
+- Jasper (https://chromewebstore.google.com/detail/jasper-everywhere-extensi/bpiohchncadidhohcajcnoelomephkdd) - одно из самых популярных AI расширений для написания текстов, ценный инструмент для маркетологов. Достаточно выделить текст, чтобы расширение сделало из него качественный. Из минусов - платный, но можно попробовать 7 дней бесплатно.
 - Harpa AI  (https://chromewebstore.google.com/detail/harpa-ai-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0/eanggfilgoajaocelnaflolkadkeghjp)— это умный помощник в Chrome и платформа NoCode RPA с ИИ, которая автоматизирует для вас задачи в Интернете. Наличие интеграции 🖥 Claude и 🤖 ChatGPT в Google Search здорово бустит поиск в интернете, позволяя отслеживать снижения цен и т.д. Помимо этого можно пересказать видео, пишет электронные письма и автоматизирует задачи.
 Руководство по началу работы (https://harpa.ai/guides/getting-started)
+- Gemma 4 Browser Assistant — open-source Chrome-расширение с локальным AI-ассистентом на Transformers.js и WebGPU: один раз загружает Gemma 4 E2B ONNX и all-MiniLM-L6-v2, дальше локально управляет вкладками, ищет по истории через semantic search, извлекает релевантный контент со страниц и подсвечивает нужные элементы без отправки данных на внешние серверы. https://github.com/nico-martin/gemma4-browser-extension
 - Scalenut (https://www.scalenut.com/) — расширение для создания SEO контента прямо в браузере. Прекрасно справляется с постами для блогов и для более серьезных статей. Есть бесплатный 7-дневный период.
 - Perplexity (https://chromewebstore.google.com/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo?hl=ru) — мощный AI-поисковик, может сделать саммари поисковой выдачи, страниц в интернете, статей, ответит на вопросы
 - Otter.ai (https://chromewebstore.google.com/detail/otterai-record-and-transc/bnmojkbbkkonlmlfgejehefjldooiedp) — расширение для транскрибирования, автоматически интегрируется в Zoom созваны и Google Meet, расшифровывая тем самым в режиме реального времени. Предоставляет не только текстовую расшифровку, но и резюме. Можно отредактировать расшифровку для более удобного чтения где несколько действующих лиц, делая различия между говорящими.
@@ -1525,6 +1531,8 @@ https://arxiv.org/pdf/2411.08804v1
         - V7 Labs: Качество обучающих данных: Почему это важно в машинном обучении; An Introductory Guide to Quality Training Data for Machine Learning https://www.v7labs.com/blog/quality-training-data-for-machine-learning-guide
     - Обучение с подкреплением (Reinforcement Learning)
         - Как мы готовим RL для Alignment в больших языковых моделях: опыт команды YandexGPT https://habr.com/ru/companies/yandex/articles/817391/
+    - Alignment, sycophancy и steering
+        - The Yes-Bias in LLM Reasoning — статья о sycophancy/yes-bias в reasoning-моделях: в математическом оценивании и fake-task solving модели могут признавать ошибочные решения правильными, подстраиваясь под пользователя; авторы показывают снижение эффекта на этапе вывода через steering vectors без полного переобучения. https://openreview.net/forum?id=9pes6SjHqj
     - Meta-Learning
         - Advances and Challenges in Meta-Learning: A Technical Review https://arxiv.org/html/2307.04722
     - Continual Pre-training (Непрерывное дообучение)
@@ -1553,6 +1561,8 @@ https://arxiv.org/pdf/2411.08804v1
 
 - **Большие Языковые Модели (LLM)** {#большие-языковые-модели}
     - [См. также: Введение в LLM в разделе Основы и Введение](#основы-и-введение)
+    - Оценка моделей и бенчмарки
+        - Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity — arXiv-статья о black-box оценке числа параметров LLM через фактическую ёмкость: 1400 factual questions в 7 уровнях редкости, калибровка на 89 open-weight models с лог-линейной зависимостью от total params (R²=0.917), отдельная проверка MoE и оговорка, что refusals у safety-tuned моделей дают нижнюю оценку. https://arxiv.org/abs/2604.24827
     - Prompt Engineering и Управление Выводом (Prompt Engineering & Output Control)
         - Prompt Decorators: A Simple Way to Improve AI Responses https://kalami.medium.com/prompt-decorators-a-simple-way-to-improve-ai-responses-c3f3c2579a8c
         - Advanced Prompt Engineering Techniques https://www.mercity.ai/blog-post/advanced-prompt-engineering-techniques

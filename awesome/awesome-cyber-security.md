@@ -281,6 +281,8 @@
 
 ### Статьи
 
+- Уязвимости; CVE; write-up
+    - Copy Fail (CVE-2026-31431) — disclosure и технический разбор Linux kernel LPE в `algif_aead`/`authencesn`: цепочка `AF_ALG` + `splice()` даёт unprivileged local user контролируемую 4-byte запись в page cache читаемого файла, что превращается в root через setuid-бинарник и затрагивает multi-tenant Linux, CI runners и контейнерные/Kubernetes-среды; есть mitigations через патч kernel commit `a664bf3d603d`, блокировку `AF_ALG`/`algif_aead` и PoC-репозиторий для авторизованной проверки патчей. https://copy.fail/ https://xint.io/blog/copy-fail-linux-distributions https://github.com/theori-io/copy-fail-CVE-2026-31431
 - DevSecOps
     - The Six Dumbest Ideas in Computer Security https://www.ranum.com/security/computer_security/editorials/dumb/
     - Setting Up a Cloud Security Roadmap for Your Startup https://awssecuritydigest.com/articles/cloud-security-roadmap-for-startups
