@@ -515,6 +515,7 @@
 - Ecotone - ES DDD CQRS PHP Symfony Laravel example https://github.com/ecotoneframework/php-ddd-cqrs-event-sourcing-symfony-laravel-ecotone
 - Symfony Blog - это веб-проект с открытым исходным кодом, основанный на архитектурных принципах Clean Architecture и Domain-Driven Design, включающий функциональность управления постами и категориями через модульную систему, с четким разделением на слои domain, application, infrastructure и presentation, реализованный с использованием фреймворка Symfony и паттерна порты и адаптеры для взаимодействия между модулями. https://github.com/annysmolyan/symfony-ddd-clean-architecture-blog
 - Symfony-messenger-sample - учебный проект, демонстрирующий базовую инициализацию и использование компонента Symfony Messenger с очередями сообщений на базе Doctrine и SQLite, созданный для упрощения понимания этой технологии начинающими разработчиками. https://github.com/balpom/symfony-messenger-sample
+- Sylius — open-source платформа для электронной коммерции на базе Symfony с модульной архитектурой, REST API и сильной культурой тестирования; полезный референс большого production-grade Symfony-проекта. https://github.com/Sylius/Sylius
 - https://github.com/backend-university/products/
 - https://github.com/ilyazenQ/optimization-tips
 
