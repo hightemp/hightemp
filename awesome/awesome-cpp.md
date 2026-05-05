@@ -257,6 +257,7 @@
       - Red Hat Enterprise Linux 8.2 brings faster Python 3.8 run speeds https://developers.redhat.com/blog/2020/06/25/red-hat-enterprise-linux-8-2-brings-faster-python-3-8-run-speeds
     - -flto; LTO
       - LinkTimeOptimization https://gcc.gnu.org/wiki/LinkTimeOptimization
+      - FatLTO — официальная документация LLVM о fat LTO objects: обычный object code плюс LLVM bitcode в `.llvm.lto`, выбор LTO на этапе link-time, `-ffat-lto-objects` вместе с `-flto`/`-flto=thin`, поддержка LLD и GNU gold plugin. https://llvm.org/docs/FatLTO.html
   - Многопоточное программирование
     - Мьютексы, Mutexes
       - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
