@@ -1453,7 +1453,8 @@
       - Создание кастомного балансировщика нагрузки на Go для gRPC с приоритизацией адресов https://habr.com/ru/companies/vk/articles/858290/
     - Остальное
   - DNS
-    - DNS Resolution in Go and Cgo — разбор различий между нативным DNS-resolver в Go и `getaddrinfo` через Cgo/glibc: `GODEBUG=netdns`, RFC 6724/3484, сортировка IP-адресов, влияние IPv6 и продакшен-инцидент с AWS ELB. https://engineering.grab.com/dns-resolution-in-go-and-cgo
+    - Troubleshooting Unusual AWS ELB 5XX Error — первая часть расследования Grab про ELB 5xx без ошибок целевого сервиса: CloudWatch-метрики `SurgeQueue`/`SpillOver`, перекос соединений на один узел ELB, проверки через `dig`, `netstat`, `tcpdump`, DNS round-robin и временное решение через Cgo-резолвер с отключением IPv6. https://engineering.grab.com/troubleshooting-unusual-aws-elb-5xx-error
+    - DNS Resolution in Go and Cgo — разбор различий между собственным DNS-резолвером Go и `getaddrinfo` через Cgo/glibc: `GODEBUG=netdns`, RFC 6724/3484, сортировка IP-адресов, влияние IPv6 и продакшен-инцидент с AWS ELB. https://engineering.grab.com/dns-resolution-in-go-and-cgo
     - Building a DNS Resolver in Golang: A Step-by-Step Guide https://harshagarwal29.hashnode.dev/building-a-dns-resolver-in-golang-a-step-by-step-guide
     - Как в восемь раз уменьшить количество DNS-запросов в Go https://habr.com/ru/companies/ozontech/articles/570936/
   - WebSockets
