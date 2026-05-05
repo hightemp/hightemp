@@ -851,6 +851,7 @@
   - INTRODUCTION TO WINDOWS KERNEL DEVELOPMENT ON RUST (PART 1) https://stofu.io/en/blog/view_post.php?id=15
   - Rust in the Linux kernel https://security.googleblog.com/2021/04/rust-in-linux-kernel.html
   - Linux Kernel Rust Development Environment https://tomcat0x42.me/linux/rust/2023/04/01/linux-kernel-rust-dev-environment.html
+  - Process spawning performance in Rust — разбор узких мест запуска процессов через `std::process::Command`: выбор между `posix_spawn` и `fork`/`exec`, быстрый путь через `vfork` на новых glibc, влияние RSS родительского процесса и размера переменных окружения на массовый запуск процессов в HPC-рантаймах. https://kobzol.github.io/rust/2024/01/28/process-spawning-performance-in-rust.html
 - io_uring
   - In search of a faster SQLite https://avi.im/blag/2024/faster-sqlite/
 - Конкурентность, параллелизм
