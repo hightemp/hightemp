@@ -835,6 +835,7 @@
     - Web Apps with Rust: Enhancing App Performance Through Optimization https://bitskingdom.com/blog/web-apps-rust-performance-optimization/
   - Скорость сборки
     - How-to compile rust faster https://blog.rust.careers/post/compile_rust_faster/
+    - What part of Rust compilation is the bottleneck? — анализ того, где `rustc` тратит время: frontend, LLVM backend и linker; сравнение clean/incremental builds, check/debug/release, binary vs library crates, данные `rustc-perf` и выводы про `lld`/`mold`, Cranelift и настройки сборки. https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html
 - Системное программирование
   - SYSTEMS PROGRAMMING WITH RUST https://www.rozmichelle.com/systems-programming-with-rust/
   - Rust Kernel Programming https://coderjoshdk.github.io/posts/Rust-Kernel-Programming.html
