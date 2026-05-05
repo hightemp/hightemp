@@ -685,6 +685,8 @@
 - Что нового
   - Rust 1.86.0: преобразование в родительский трейт, поддержка изменяемой индексации для HashMap и срезов https://habr.com/ru/articles/898008/
   - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
+- Toolchain и поддержка платформ
+  - Increasing the glibc and Linux kernel requirements — официальный пост Rust Blog о повышении минимальных требований для Linux в Rust 1.64: `glibc >= 2.17`, ядро `>= 3.2`, затронутые цели компиляции, влияние на `libstd`, старые LTS-дистрибутивы и варианты миграции через обновление системы, кросс-компиляцию или `musl`. https://blog.rust-lang.org/2022/08/01/Increasing-glibc-kernel-requirements/
 - Основы языка
   - Основное
     - A Gentle Introduction To Rust https://stevedonovan.github.io/rust-gentle-intro/
