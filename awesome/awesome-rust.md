@@ -77,11 +77,16 @@
 
 ### Репозитории
 
-- Rust-vpn - это простой проект на языке Rust, реализующий базовый VPN-туннель с функциями сервера и клиента, шифрованием AES-256-GCM, настройкой TUN-интерфейса и удобным интерфейсом командной строки. https://github.com/luishsr/rust-vpn
-- Проект flutter_rust_bridge v2 представляет собой генератор привязок между Flutter/Dart и Rust, обладающий богатым набором функций, но при этом простой и удобный в использовании, позволяющий легко интегрировать код на Rust в приложения Flutter. https://github.com/fzyzcjy/flutter_rust_bridge
-- Uutils coreutils - кроссплатформенная реимплементация GNU coreutils на языке Rust, предоставляющая утилиты командной строки для манипулирования и обработки файлов и текста с аналогичным функционалом. https://github.com/uutils/coreutils
-- Прокси
-  - vproxy A high-performance HTTP/HTTPS/SOCKS5 proxy server https://github.com/0x676e67/vproxy
+- Сеть
+  - Rust-vpn - это простой проект на языке Rust, реализующий базовый VPN-туннель с функциями сервера и клиента, шифрованием AES-256-GCM, настройкой TUN-интерфейса и удобным интерфейсом командной строки. https://github.com/luishsr/rust-vpn
+  - Прокси
+    - vproxy A high-performance HTTP/HTTPS/SOCKS5 proxy server https://github.com/0x676e67/vproxy
+- Интеграции
+  - Проект flutter_rust_bridge v2 представляет собой генератор привязок между Flutter/Dart и Rust, обладающий богатым набором функций, но при этом простой и удобный в использовании, позволяющий легко интегрировать код на Rust в приложения Flutter. https://github.com/fzyzcjy/flutter_rust_bridge
+- CLI и системные утилиты
+  - Uutils coreutils - кроссплатформенная реимплементация GNU coreutils на языке Rust, предоставляющая утилиты командной строки для манипулирования и обработки файлов и текста с аналогичным функционалом. https://github.com/uutils/coreutils
+- Cargo и сборка
+  - cargo-wizard — Cargo subcommand для применения шаблонов профилей и `.cargo/config.toml`: `fast-compile`, `fast-runtime`, `min-size`, интерактивный и non-interactive режимы, nightly-опции для Cranelift backend и parallel frontend. https://github.com/Kobzol/cargo-wizard
 
 ### Релизы; CI/CD
 
