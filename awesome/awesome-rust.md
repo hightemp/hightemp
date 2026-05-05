@@ -685,8 +685,6 @@
 - Что нового
   - Rust 1.86.0: преобразование в родительский трейт, поддержка изменяемой индексации для HashMap и срезов https://habr.com/ru/articles/898008/
   - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
-- Toolchain и поддержка платформ
-  - Increasing the glibc and Linux kernel requirements — официальный пост Rust Blog о повышении минимальных требований для Linux в Rust 1.64: `glibc >= 2.17`, ядро `>= 3.2`, затронутые цели компиляции, влияние на `libstd`, старые LTS-дистрибутивы и варианты миграции через обновление системы, кросс-компиляцию или `musl`. https://blog.rust-lang.org/2022/08/01/Increasing-glibc-kernel-requirements/
 - Основы языка
   - Основное
     - A Gentle Introduction To Rust https://stevedonovan.github.io/rust-gentle-intro/
@@ -755,6 +753,9 @@
     - Macros By Example https://doc.rust-lang.org/stable/reference/macros-by-example.html
   - Остальное
     - Lock-freedom without garbage collection https://aturon.github.io/blog/2015/08/27/epoch/
+- Toolchain и поддержка платформ
+  - Increasing the glibc and Linux kernel requirements — официальный пост Rust Blog о повышении минимальных требований для Linux в Rust 1.64: `glibc >= 2.17`, ядро `>= 3.2`, затронутые цели компиляции, влияние на `libstd`, старые LTS-дистрибутивы и варианты миграции через обновление системы, кросс-компиляцию или `musl`. https://blog.rust-lang.org/2022/08/01/Increasing-glibc-kernel-requirements/
+  - Building Rust binaries in CI that work with older GLIBC — практический разбор сборки Rust-бинарника в GitHub Actions для старых Linux с `glibc 2.17`: ошибка `GLIBC_2.18 not found`, диагностика через `objdump`, попытки с `musl` и `cross`, и решение через контейнер `manylinux2014_x86_64`. https://kobzol.github.io/rust/ci/2021/05/07/building-rust-binaries-in-ci-that-work-with-older-glibc.html
 - Очереди; Queue
   - Основное
     - Queue https://www.gyata.ai/rust/queue
