@@ -31,6 +31,10 @@
 - https://roadmap.sh/rust
 - https://blog.rust-lang.org/inside-rust/2022/04/04/lang-roadmap-2024.html
 
+### Сообщества
+
+- Rust Zulip — публичный Zulip-чат Rust-проекта с каналами по языку, компилятору, библиотекам, tooling, governance и рабочим группам. https://rust-lang.zulipchat.com/
+
 ### Вопросы
 
 - Top 65 Rust Interview Questions
