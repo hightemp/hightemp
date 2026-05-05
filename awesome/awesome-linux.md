@@ -320,6 +320,7 @@
                     - Tracing Linux Hostname Resolution https://www.kickflop.net/blog/2011/01/02/tracing-linux-hostname-resolution/
                     - Resolve IP адресов в Linux: понятное и детальное описание https://habr.com/ru/articles/352300/
                 - gai.conf
+                    - /etc/gai.conf - it ain't what you think it is — заметка о том, что `/etc/gai.conf` управляет выбором адреса назначения, но не выбором исходного адреса; показывает обходной путь через `ip addrlabel`, чтобы применять `label`-правила из `/etc/gai.conf` к выбору исходного адреса на старте системы. http://biplane.com.au/blog/?p=122
                     - Finding out what rules to add to /etc/gai.conf — практический разбор настройки `/etc/gai.conf` для выбора IPv6 вместо IPv4: RFC 6724/3484, `label` и `precedence`, ULA при NPTv6, ручной проход алгоритма выбора исходного адреса и правило для своего ULA-префикса. https://blog.bilak.info/2022/04/15/finding-out-what-rules-to-add-to-etc-gai-conf/
         - Высокопроизводительные (High-Performance)
             - BPF; eBPF (Extended Berkeley Packet Filter)
