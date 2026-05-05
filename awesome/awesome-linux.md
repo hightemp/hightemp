@@ -150,6 +150,7 @@
 - http://austinkeeley.com/
 - https://www.linuxheart.net/content/category/Ядро
 - https://blog.domainmess.org/categories/linux/
+- http://biplane.com.au/blog/
 - https://linuxmogeb.blogspot.com/
 - https://www.alexgur.ru/
 - https://substack.com/@chessman7
