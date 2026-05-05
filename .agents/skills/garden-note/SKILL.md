@@ -68,6 +68,18 @@ Do not create `README.md` files inside `20-literature/` or `30-permanent/` just 
 
 When unsure, prefer `00-inbox/` for capture or ask one concise question if placement materially changes the output.
 
+## Source Processing Default
+
+When the user gives `[$garden-note] URL` or otherwise asks to process a source without narrower instructions, do a full garden pass by default:
+
+- create a `20-literature/` note for the source;
+- extract one or more `30-permanent/` notes when the source contains durable ideas, not just a thin link, changelog, or reference page;
+- update both `garden/20-literature.md` and `garden/30-permanent.md` when new notes are created;
+- update `garden/40-moc/glossary.md` for new specialized terms;
+- create or update a relevant MOC only when it improves navigation: an existing MOC clearly fits, or the source produces/joins a cluster of related notes that deserves a topic hub.
+
+If a source is too small or too weak for permanent notes, say that briefly and only create the literature/source note.
+
 ## Permanent Note Shape
 
 Permanent notes should be atomic: one note, one idea. Prefer concise prose and explicit links.
@@ -193,7 +205,7 @@ MOC is not a tag. It is a hand-curated map or index for a topic.
 - ...
 ```
 
-When adding a permanent note, update an existing relevant MOC if it already exists and the link clearly belongs there. Do not create a new MOC for every note.
+When adding a permanent note, update an existing relevant MOC if it already exists and the link clearly belongs there. Create a new MOC only when there is a useful topic hub to maintain, such as several related literature/permanent notes or an explicit user request. Do not create a new MOC for every note.
 
 ## Glossary Rule
 
@@ -242,9 +254,10 @@ When adding or renaming a `20-literature/` note, update `garden/20-literature.md
 
 1. Identify the note type and destination folder.
 2. Check for existing related notes and glossary terms with `rg` to avoid duplicates and accidental term collisions.
-3. Create or update the Markdown file with the smallest useful change.
-4. Update `garden/40-moc/glossary.md` when the note introduces specialized terms that should be explained for a general reader, and split or qualify existing entries when the same word is used with a different meaning.
-5. Add links to related notes when obvious, including links between literature notes and source packs.
-6. Update the relevant root folder index (`garden/20-literature.md` or `garden/30-permanent.md`) when adding or renaming notes in those folders.
-7. Update a relevant MOC only when it improves navigation.
-8. Run `git diff --check -- garden .agents` after edits when practical.
+3. For source URLs, create a literature note first, then extract atomic permanent notes unless the source is too thin.
+4. Create or update the Markdown files with the smallest useful change.
+5. Update `garden/40-moc/glossary.md` when notes introduce specialized terms that should be explained for a general reader, and split or qualify existing entries when the same word is used with a different meaning.
+6. Add links to related notes when obvious, including links between literature notes, permanent notes, and source packs.
+7. Update the relevant root folder index (`garden/20-literature.md` or `garden/30-permanent.md`) when adding or renaming notes in those folders.
+8. Update or create a relevant MOC only when it improves navigation.
+9. Run `git diff --check -- garden .agents` after edits when practical.
