@@ -16,6 +16,10 @@
 
 - [Вы больше не новичок в Git. Повышаем квалификацию с помощью 7 команд](20-literature/202604231358-habr-advanced-git-commands.md)
 
+## Go
+
+- [DNS Resolution in Go and Cgo](20-literature/202605051107-go-dns-cgo.md)
+
 ## AI и LLM
 
 - [Incompressible Knowledge Probes](20-literature/202605021639-incompressible-knowledge-probes.md)
