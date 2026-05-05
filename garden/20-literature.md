@@ -20,6 +20,10 @@
 
 - [DNS Resolution in Go and Cgo](20-literature/202605051107-go-dns-cgo.md)
 
+## Linux и сеть
+
+- [RFC 3484 on Linux](20-literature/202605051254-rfc-3484-linux.md)
+
 ## AI и LLM
 
 - [Incompressible Knowledge Probes](20-literature/202605021639-incompressible-knowledge-probes.md)
