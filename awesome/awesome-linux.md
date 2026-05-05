@@ -321,6 +321,9 @@
                     - Anatomy of a Linux DNS Lookup – Part IV https://zwischenzugs.com/2018/08/06/anatomy-of-a-linux-dns-lookup-part-iv/
                     - Tracing Linux Hostname Resolution https://www.kickflop.net/blog/2011/01/02/tracing-linux-hostname-resolution/
                     - Resolve IP адресов в Linux: понятное и детальное описание https://habr.com/ru/articles/352300/
+                - Default Address Selection
+                    - Default Address Selection Part 1 — вводная статья про выбор IPv6-адресов в Linux: RFC 3484, выбор адреса источника и назначения, таблицы `ip addrlabel`, `label`/`precedence` и настройка `/etc/gai.conf`. https://linux-hacks.blogspot.com/2008/04/default-address-selection-part-1.html
+                    - Default Address Selection Part 2 — разбор выбора адреса источника в ядре Linux: маршрут через FIB, `ipv6_get_saddr`, правила RFC 3484, scope/label и отбор лучшего source address. https://linux-hacks.blogspot.com/2008/07/default-address-selection-part-2.html
                 - gai.conf
                     - /etc/gai.conf - it ain't what you think it is — заметка о том, что `/etc/gai.conf` управляет выбором адреса назначения, но не выбором исходного адреса; показывает обходной путь через `ip addrlabel`, чтобы применять `label`-правила из `/etc/gai.conf` к выбору исходного адреса на старте системы. http://biplane.com.au/blog/?p=122
                     - Finding out what rules to add to /etc/gai.conf — практический разбор настройки `/etc/gai.conf` для выбора IPv6 вместо IPv4: RFC 6724/3484, `label` и `precedence`, ULA при NPTv6, ручной проход алгоритма выбора исходного адреса и правило для своего ULA-префикса. https://blog.bilak.info/2022/04/15/finding-out-what-rules-to-add-to-etc-gai-conf/
