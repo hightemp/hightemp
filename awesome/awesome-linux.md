@@ -226,6 +226,7 @@
                 - Рецепты для ELFов https://habr.com/ru/companies/inforion/articles/460247/
             - Библиотеки (Libraries)
                 - What is a Shared Object File https://cloudmersive.com/article/What-is-a-Shared-Object-File
+                - musl FAQ — официальный FAQ по musl libc: что делает C-библиотека в Linux userspace, чем musl отличается от glibc/uClibc/dietlibc, как собирать и использовать `musl-gcc`, где границы совместимости с glibc и какие portability-проблемы обычно всплывают при сборке пакетов. https://www.musl-libc.org/faq.html
 
     - **Ядро и Разработка (Kernel and Development)**
         - Общее (General)
