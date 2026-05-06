@@ -31,7 +31,8 @@
 
 ### Сетевая безопасность
 
-- PortGuard - open-source решение для Single Packet Authorization / port knocking: держит сервисные порты закрытыми по умолчанию и временно открывает доступ только после валидного AES/GPG-подписанного SPA-пакета; сайт указывает клиенты для Windows, iOS/macOS и Android, а также Linux server packages. https://portguard.net
+- Контроль доступа к портам
+    - PortGuard - open-source решение для Single Packet Authorization / port knocking: держит сервисные порты закрытыми по умолчанию и временно открывает доступ только после валидного AES/GPG-подписанного SPA-пакета; сайт указывает клиенты для Windows, iOS/macOS и Android, а также Linux server packages. https://portguard.net
 
 ### AI-анализаторы кода
 
@@ -288,6 +289,9 @@
     - Setting Up a Cloud Security Roadmap for Your Startup https://awssecuritydigest.com/articles/cloud-security-roadmap-for-startups
 - Penetration testing
     - Stockholm Syndrome: Accurate network testing https://blog.exploit.org/caster-stockholm-syndrome/
+- Сетевая безопасность
+    - Мобильные сети
+        - Что такое SS7 и почему это опасно — обзор рисков сигнальной сети SS7 в мобильной связи: роль HLR/MSC/VLR/STP, перехват SMS и звонков, угрозы для SMS-2FA и причины, по которым устаревшая инфраструктура 2G/3G остаётся важной для безопасности современных сетей. https://codeby.net/threads/chto-takoye-ss7-i-pochemu-eto-opasno.80491/
 - WAF
     - ModSecurity
         - ModSecurity SQL Injection Challenge: Lessons Learned https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-sql-injection-challenge-lessons-learned/
