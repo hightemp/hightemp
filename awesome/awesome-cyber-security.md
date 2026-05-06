@@ -292,6 +292,7 @@
 - Сетевая безопасность
     - Мобильные сети
         - Что такое SS7 и почему это опасно — обзор рисков сигнальной сети SS7 в мобильной связи: роль HLR/MSC/VLR/STP, перехват SMS и звонков, угрозы для SMS-2FA и причины, по которым устаревшая инфраструктура 2G/3G остаётся важной для безопасности современных сетей. https://codeby.net/threads/chto-takoye-ss7-i-pochemu-eto-opasno.80491/
+        - SS7 TOOL: FULL GUIDE FOR LINUX USERS — старый практический материал по лабораторной работе с SS7-стеком в Linux: требования к окружению, SCTP/Wireshark, SafeSeven, симуляция HLR/MSC/VLR и примеры MAP/SMS-сценариев; рассматривать как учебный материал для изолированных стендов и авторизованных исследований. https://kali09.blogspot.com/2018/01/ss7-tool-full-guide-for-linux-users.html
 - WAF
     - ModSecurity
         - ModSecurity SQL Injection Challenge: Lessons Learned https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-sql-injection-challenge-lessons-learned/
