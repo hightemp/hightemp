@@ -87,6 +87,7 @@
   - Uutils coreutils - кроссплатформенная реимплементация GNU coreutils на языке Rust, предоставляющая утилиты командной строки для манипулирования и обработки файлов и текста с аналогичным функционалом. https://github.com/uutils/coreutils
 - Cargo и сборка
   - cargo-wizard — Cargo subcommand для применения шаблонов профилей и `.cargo/config.toml`: `fast-compile`, `fast-runtime`, `min-size`, интерактивный и non-interactive режимы, nightly-опции для Cranelift backend и parallel frontend. https://github.com/Kobzol/cargo-wizard
+  - cross — Cargo-совместимый CLI для zero-setup кросс-компиляции и кросс-тестирования Rust-крейтов через Docker/Podman: поднимает контейнерное окружение с нужным target toolchain, умеет `cross build`, `cross test`, `cross rustc`, поддерживает stable/beta/nightly и настройку через `Cargo.toml`/`Cross.toml`. https://github.com/cross-rs/cross
 
 ### Релизы; CI/CD
 
