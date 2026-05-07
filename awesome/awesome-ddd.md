@@ -49,6 +49,10 @@
         - Shared Kernel (Общее ядро) - совместно используемые части модели между контекстами
         - Customer/Supplier (Заказчик/Поставщик) - определение отношений между командами
 
+### Полезные ссылки
+
+- DDDi: Книги — подборка основных книг для знакомства с DDD: синяя книга Эрика Эванса, DDD Reference, практическая книга Вона Вернона, вводная книга Вернона и EventStorming Брандолини. https://dddi.dev/resources/books/
+
 ### Книги
 
 - Реализация методов предметно-ориентированного проектирования
@@ -58,6 +62,35 @@
         - Implementing Domain-Driven Design: практическая книга о применении DDD в реальных системах: bounded contexts, context maps, aggregates, domain events, repositories, factories, application services и интеграционные паттерны для построения доменной модели.
     - Ссылки
         - https://www.ozon.ru/product/realizatsiya-metodov-predmetno-orientirovannogo-proektirovaniya-vernon-von-147927649/
+        - https://www.informit.com/store/implementing-domain-driven-design-9780133039894
+- Domain-Driven Design: Tackling Complexity in the Heart of Software
+    - Автор
+        - Eric Evans
+    - Описание
+        - Большая синяя книга DDD: базовая работа, которая вводит единый язык, модель домена, bounded contexts, refactoring toward deeper insight и стратегическое проектирование сложной бизнес-логики.
+    - Ссылки
+        - https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
+- Domain-Driven Design Reference
+    - Автор
+        - Eric Evans
+    - Описание
+        - Краткий справочник по определениям и паттернам DDD; полезен как быстрый индекс к понятиям из синей книги и последующим уточнениям Эрика Эванса.
+    - Ссылки
+        - https://www.domainlanguage.com/ddd/reference/
+- Предметно-ориентированное программирование
+    - Автор
+        - Вон Вернон
+    - Описание
+        - Вводная книга по DDD для первого знакомства с подходом; хорошо сочетается с DDD Reference, когда нужно быстро войти в язык и базовые идеи предметно-ориентированного проектирования.
+    - Ссылки
+        - https://www.amazon.com/Proektirovanie-i-arhitektura-programmnogo-obespecheniya/dp/599084638X
+- Introducing EventStorming: An act of deliberate collective learning
+    - Автор
+        - Alberto Brandolini
+    - Описание
+        - Основная книга по EventStorming от автора техники: как через совместное моделирование находить события предметной области, границы процессов и знания, которые обычно теряются между бизнесом и разработкой.
+    - Ссылки
+        - https://www.eventstorming.com/book/
 
 ### Статьи
 
