@@ -49,6 +49,16 @@
         - Shared Kernel (Общее ядро) - совместно используемые части модели между контекстами
         - Customer/Supplier (Заказчик/Поставщик) - определение отношений между командами
 
+### Книги
+
+- Реализация методов предметно-ориентированного проектирования
+    - Автор
+        - Вон Вернон
+    - Описание
+        - Implementing Domain-Driven Design: практическая книга о применении DDD в реальных системах: bounded contexts, context maps, aggregates, domain events, repositories, factories, application services и интеграционные паттерны для построения доменной модели.
+    - Ссылки
+        - https://www.ozon.ru/product/realizatsiya-metodov-predmetno-orientirovannogo-proektirovaniya-vernon-von-147927649/
+
 ### Статьи
 
 - Паттерны
