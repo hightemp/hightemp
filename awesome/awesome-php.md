@@ -616,6 +616,7 @@ vendor/bin/phpqt-install
     - Better PHP unit testing: avoiding mocks https://davegebler.com/post/php/better-php-unit-testing-avoiding-mocks
   - Mock, Моки
     - Mocking APIs in Laravel Tests With Wiremock https://laravel-news.com/mocking-apis-in-laravel-tests-with-wiremock
+    - PHP Test Driven Development Part 4: Enter The Mock — часть серии по TDD в PHP о моках через Mockery: зачем изолировать внешние зависимости в unit-тестах, почему удобнее внедрять зависимости через конструктор, как задавать ожидания вызовов и использовать Mockery вместе с PHPUnit/Laravel. https://medium.com/@sameernyaupane/php-test-driven-development-part-4-enter-the-mock-106b4fdedd00
   - Spy, Шпионы
     - Spying With PHPUnit https://web.archive.org/web/20210228012141/https://lyte.id.au//2014/03/01/spying-with-phpunit/
   - Codeception
