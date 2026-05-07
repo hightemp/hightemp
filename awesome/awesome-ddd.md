@@ -1,6 +1,7 @@
 ### Коллекции
 
 - https://github.com/heynickc/awesome-ddd
+- https://github.com/ddd-crew
 
 ### Термины
 
