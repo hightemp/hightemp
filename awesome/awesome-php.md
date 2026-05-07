@@ -602,6 +602,8 @@ vendor/bin/phpqt-install
       - https://designpatternsphp.readthedocs.io/ru/latest/Behavioral/Command/README.html
     - Одиночка; Singleton
       - Understanding the Singleton Pattern with PHP Example https://dev.to/hossamgouda/understanding-the-singleton-pattern-with-php-example-3i31?utm_source=weeklyphp&utm_medium=email
+    - Service Locator
+      - Service Locator — пример из DesignPatternsPHP на PHP 8.x: регистрация сервисов по интерфейсам, получение реализации через локатор, тесты и явная пометка паттерна как anti-pattern из-за скрытых зависимостей и нарушения Dependency Inversion по сравнению с Dependency Injection. https://designpatternsphp.readthedocs.io/en/latest/More/ServiceLocator/README.html
     - Остальное
       - Messaging Patterns https://www.enterpriseintegrationpatterns.com/patterns/messaging/
   - Остальное
