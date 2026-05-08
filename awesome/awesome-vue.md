@@ -87,6 +87,8 @@
     - Как принудительно пере-отобразить (re-render) компонент Vue https://webdevblog.ru/kak-prinuditelno-pere-otobrazit-re-render-komponent-vue/
     - Анонс Vue 3.4 https://webdevblog.ru/anons-vue-3-4/
     - Vue 3 под капотом и тонкости Composition API: Reactivity, Provide/Inject, Suspense — разбор внутренних механизмов Vue 3: реактивность на `Proxy`, `ref`, `reactive`, `computed`, `watch`, `customRef`, паттерны `provide/inject`, работа `Suspense` с асинхронными компонентами и практические нюансы Composition API. https://habr.com/ru/articles/870986/
+- Teleport
+    - Understanding Vue Teleport — короткое введение в Vue 3 Teleport: зачем выносить содержимое компонента в другое место DOM-дерева, типичный сценарий с модальным окном, условный Teleport через `v-if`, несколько target-узлов и польза для переиспользования, доступности и модульности. https://kaperskyguru.medium.com/understanding-vue-teleport-cfbc77a93b79
 - Nuxt
     - Контекст в Vue/Nuxt: осознать, не терять и беречь https://habr.com/ru/articles/812145/
 - JWT
