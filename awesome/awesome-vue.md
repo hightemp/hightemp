@@ -90,6 +90,7 @@
 - Teleport
     - Understanding Vue Teleport — короткое введение в Vue 3 Teleport: зачем выносить содержимое компонента в другое место DOM-дерева, типичный сценарий с модальным окном, условный Teleport через `v-if`, несколько target-узлов и польза для переиспользования, доступности и модульности. https://kaperskyguru.medium.com/understanding-vue-teleport-cfbc77a93b79
     - Teleport | Vue.js — официальная документация Vue 3 по встроенному компоненту `<Teleport>`: рендеринг части шаблона в другом DOM-узле через `to`, отключение переноса через `disabled`, работа нескольких Teleport в одну цель и отложенный Teleport. https://vuejs.org/guide/built-ins/teleport.html
+    - Vue Teleport: как работает — разбор встроенного компонента Vue 3 `<Teleport>`: связь с Virtual DOM и `vnode`, атрибуты `to`, `disabled` и `defer`, пример модального окна с фокусом, доступностью, блокировкой прокрутки, SSR-гидрацией и тестами через `@vue/test-utils`. https://habr.com/ru/companies/otus/articles/922610/
 - Nuxt
     - Контекст в Vue/Nuxt: осознать, не терять и беречь https://habr.com/ru/articles/812145/
 - JWT
