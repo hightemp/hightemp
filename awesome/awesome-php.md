@@ -625,6 +625,7 @@ vendor/bin/phpqt-install
     - Автоматизация с Codeception + Gherkin + PageObject для самых маленьких https://habr.com/ru/articles/427031/
   - TDD
     - PHP Test Driven Development Part 1: Introduction — вводная часть серии по TDD в PHP: цикл test-first, быстрый feedback loop, преимущества и ограничения подхода, стоимость изменений без тестов и краткое различие unit, integration, functional и acceptance testing перед переходом к PHPUnit в следующих частях. https://medium.com/@sameernyaupane/php-test-driven-development-part-1-introduction-5483362d79b5
+    - Test driven development with PHP — страница Netgen PHP workshops с записями воркшопов по тестированию: Behat Basics, Lightning Fast Tests и Pragmatic TDD; полезна для разбора BDD/Behat, структуры быстрой тестовой пирамиды и практичного применения PHPUnit/TDD в PHP-проектах. https://netgen.io/learn/php-workshops/test-driven-development-with-php
   - Остальное
     - A better PHP testing experience Part II: Pick your test doubles wisely https://matthiasnoback.nl/2014/07/test-doubles/
     - Автоматизированное тестирование https://gist.github.com/K0rINf/8ec4570694b7279c3364d91b0a57bf65
