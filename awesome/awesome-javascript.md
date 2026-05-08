@@ -306,6 +306,8 @@
       - Тестирование JavaScript кода с Jest для чайников. Часть 1 https://habr.com/ru/articles/502302/
       - Jest: полное руководство по тестированию JavaScript кода https://pokodem.ru/jest-polnoe-rukovodstvo-po-testirovaniyu-javascript-koda/
       - Успешное тестирование: основы и передовые приемы Jest. Часть 1 https://proglib.io/p/uspeshnoe-testirovanie-osnovy-i-peredovye-priemy-jest-chast-1-2024-11-11
+    - Mock, Моки
+      - Mocking fs and glob modules with Jest — статья Марека Розмуса о тестировании Node.js post-build скрипта без доступа к диску: ручные моки `fs` и `glob` в `__mocks__`, настройка входных файлов, проверка `writeFileSync`, скрытие `console.log` и отключение автозапуска скрипта при `require`. https://marek-rozmus.medium.com/mocking-fs-and-glob-modules-with-jest-6930adec5d30
   - Vitest
     - Основное
       - Getting Started https://vitest.dev/guide/
