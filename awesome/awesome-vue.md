@@ -55,6 +55,8 @@
 
 - Таблицы
     - vxe-table https://gitee.com/xuliangzhan_admin/vxe-table https://github.com/x-extends/vxe-table/tree/master
+- Формы
+    - Vueform — open-source form framework для Vue.js: рендеринг, валидация и обработка форм, 25+ элементов, вложенные и повторяющиеся элементы, Tailwind-темизация, 50+ валидаторов, условная логика, form steps, i18n и drag-and-drop form builder. https://vueform.com https://github.com/vueform/vueform
 - Сплиттеры
     - https://antoniandre.github.io/splitpanes/
 - Чаты
