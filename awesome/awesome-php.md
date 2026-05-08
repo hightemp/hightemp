@@ -353,6 +353,7 @@ vendor/bin/phpqt-install
 - https://code.mu/en/php/book/prime/
 - https://skibardin.ru/blog/
 - https://www.devmarks.ru/blog/
+- https://yapro.ru/blog
 
 ### Статьи
 
