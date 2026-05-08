@@ -351,6 +351,7 @@ vendor/bin/phpqt-install
 - https://www.rosstuck.com/blog/
 - https://code.mu/en/php/book/prime/
 - https://skibardin.ru/blog/
+- https://www.devmarks.ru/blog/
 
 ### Статьи
 
