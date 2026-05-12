@@ -87,6 +87,8 @@
     - Как принудительно пере-отобразить (re-render) компонент Vue https://webdevblog.ru/kak-prinuditelno-pere-otobrazit-re-render-komponent-vue/
     - Анонс Vue 3.4 https://webdevblog.ru/anons-vue-3-4/
     - Vue 3 под капотом и тонкости Composition API: Reactivity, Provide/Inject, Suspense — разбор внутренних механизмов Vue 3: реактивность на `Proxy`, `ref`, `reactive`, `computed`, `watch`, `customRef`, паттерны `provide/inject`, работа `Suspense` с асинхронными компонентами и практические нюансы Composition API. https://habr.com/ru/articles/870986/
+- SFC
+    - `<script setup>` | Vue.js — официальная русскоязычная документация по синтаксису `<script setup>` в однофайловых компонентах Vue: top-level bindings в шаблоне, `defineProps`, `defineEmits`, `defineModel`, `defineExpose`, `defineOptions`, `defineSlots`, TypeScript и ограничения макросов компилятора. https://ru.vuejs.org/api/sfc-script-setup
 - Teleport
     - Understanding Vue Teleport — короткое введение в Vue 3 Teleport: зачем выносить содержимое компонента в другое место DOM-дерева, типичный сценарий с модальным окном, условный Teleport через `v-if`, несколько target-узлов и польза для переиспользования, доступности и модульности. https://kaperskyguru.medium.com/understanding-vue-teleport-cfbc77a93b79
     - Teleport | Vue.js — официальная документация Vue 3 по встроенному компоненту `<Teleport>`: рендеринг части шаблона в другом DOM-узле через `to`, отключение переноса через `disabled`, работа нескольких Teleport в одну цель и отложенный Teleport. https://vuejs.org/guide/built-ins/teleport.html
