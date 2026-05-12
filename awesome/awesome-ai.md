@@ -82,6 +82,7 @@
 - Hugging Face Spaces — коллекция пространств с общими лидербордами и узкими бенчмарками моделей. https://huggingface.co/spaces?category=model-benchmarking
 - Online-Mind2Web — бенчмарк и онлайн-лидерборд для оценки веб-агентов на «живых» сценариях из 136 сайтов, позволяющий проверять и сравнивать результаты различных систем. https://huggingface.co/spaces/osunlp/Online_Mind2Web_Leaderboard https://arxiv.org/html/2504.01382v4
 - Bullshit Benchmark — бенчмарк, оценивающий, насколько модель умеет распознавать и отмечать бессмыслицу в промптах вместо того, чтобы отвечать на неё (зелёный/жёлтый/красный как уровни корректности реакции). https://github.com/petergpt/bullshit-benchmark https://petergpt.github.io/bullshit-benchmark/viewer/index.html
+- LLM Stats Benchmarks — хаб бенчмарков и списков моделей по задачам: GPQA, MMLU, MMLU-Pro, AIME 2025, MATH, HumanEval, MMMU, LiveCodeBench, SWE-Bench Verified и другие тесты для сравнения LLM по reasoning, coding, math и мультимодальным сценариям. https://llm-stats.com/benchmarks
 
 ### Трекеры новостей
 
