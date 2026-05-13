@@ -87,6 +87,8 @@
     - Как принудительно пере-отобразить (re-render) компонент Vue https://webdevblog.ru/kak-prinuditelno-pere-otobrazit-re-render-komponent-vue/
     - Анонс Vue 3.4 https://webdevblog.ru/anons-vue-3-4/
     - Vue 3 под капотом и тонкости Composition API: Reactivity, Provide/Inject, Suspense — разбор внутренних механизмов Vue 3: реактивность на `Proxy`, `ref`, `reactive`, `computed`, `watch`, `customRef`, паттерны `provide/inject`, работа `Suspense` с асинхронными компонентами и практические нюансы Composition API. https://habr.com/ru/articles/870986/
+- Реактивность
+    - Vue 3: Почему `ref()` — это новая ссылка, а `reactive()` — обёртка? — разбор различий `ref()` и `reactive()` в Composition API: `.value`, `Proxy`, ссылочная семантика объектов, отсутствие копирования в `reactive()`, ошибки со сбросом форм и эталонными объектами. https://habr.com/ru/articles/920186/
 - SFC
     - `<script setup>` | Vue.js — официальная русскоязычная документация по синтаксису `<script setup>` в однофайловых компонентах Vue: top-level bindings в шаблоне, `defineProps`, `defineEmits`, `defineModel`, `defineExpose`, `defineOptions`, `defineSlots`, TypeScript и ограничения макросов компилятора. https://ru.vuejs.org/api/sfc-script-setup
 - Teleport
