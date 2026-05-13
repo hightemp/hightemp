@@ -89,6 +89,7 @@
     - Vue 3 под капотом и тонкости Composition API: Reactivity, Provide/Inject, Suspense — разбор внутренних механизмов Vue 3: реактивность на `Proxy`, `ref`, `reactive`, `computed`, `watch`, `customRef`, паттерны `provide/inject`, работа `Suspense` с асинхронными компонентами и практические нюансы Composition API. https://habr.com/ru/articles/870986/
 - Реактивность
     - Vue 3: Почему `ref()` — это новая ссылка, а `reactive()` — обёртка? — разбор различий `ref()` и `reactive()` в Composition API: `.value`, `Proxy`, ссылочная семантика объектов, отсутствие копирования в `reactive()`, ошибки со сбросом форм и эталонными объектами. https://habr.com/ru/articles/920186/
+    - Реактивность в Vue 3: `watch`, `watchEffect` и продвинутые техники — обзор системы реактивности Vue 3 через `Proxy`, сравнение `watch` и `watchEffect`, deep/immediate watchers, наблюдение за несколькими источниками, cleanup асинхронных эффектов, отладка и оптимизация производительности. https://skibardin.ru/reaktivnost-vue3-watch-watcheffect-prodvinutye-tehniki/
 - SFC
     - `<script setup>` | Vue.js — официальная русскоязычная документация по синтаксису `<script setup>` в однофайловых компонентах Vue: top-level bindings в шаблоне, `defineProps`, `defineEmits`, `defineModel`, `defineExpose`, `defineOptions`, `defineSlots`, TypeScript и ограничения макросов компилятора. https://ru.vuejs.org/api/sfc-script-setup
 - Teleport
