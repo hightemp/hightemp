@@ -31,6 +31,10 @@
 - OpenCodex (https://github.com/ymichael/open-codex) - открытый форк Codex от OpenAI, предлагающий возможность разработки программного обеспечения с использованием бесплатного кода Gemini при наличии учетной записи Google Billing Account; также позволяет обнаруживать ошибки в программном коде с помощью системы консультирования и руководства на основе модели Claude Code. 
 - SoulForge — graph-powered AI coding agent/CLI, который строит живой dependency graph кодовой базы, делает surgical reads по функциям/классам, поддерживает multi-agent dispatch с общим кэшем, instant compaction, 4-tier code intelligence (LSP/ts-morph/tree-sitter/regex), MCP-серверы, skills, embedded Neovim и 20 провайдеров моделей; совместим с Claude Code hooks. https://github.com/ProxySoul/soulforge
 
+#### Поиск и контекст кодовой базы
+
+- mgrep — CLI-native semantic grep от Mixedbread для поиска по коду, тексту, PDF и изображениям на естественном языке: `mgrep watch` индексирует репозиторий с учетом `.gitignore`, поиск поддерживает `--web`, `--answer`, `--agentic`, reranking и интеграции `install-claude-code`, `install-opencode`, `install-codex`, `install-droid`; при агентной установке запускает background sync в Mixedbread store. https://github.com/mixedbread-ai/mgrep
+
 #### Фреймворки и платформы для разработки AI-агентов
 
 - Mastra — open-source TypeScript-фреймворк для production AI-агентов и workflow: включает агентов, тулы, memory, model routing, graph-based workflows, MCP-серверы, human-in-the-loop, встроенные evals и observability/Studio для трассировки и отладки. https://github.com/mastra-ai/mastra https://mastra.ai/ai-agent-framework
