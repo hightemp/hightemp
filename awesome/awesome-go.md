@@ -1093,6 +1093,7 @@
   - Как кросс-компилировать WebView Go-приложение с CGO для Linux с macOS: Zig, Docker и немного магии https://habr.com/ru/articles/894426/
   - Кросс-компиляция и запуск консольного Go‑приложения на Android, Windows, macOS и Linux https://habr.com/ru/companies/ruvds/articles/968178/
   - Statically compiling Go programs — практическая заметка о статической сборке Go-программ: проверка через `file`, `ldd` и `chroot`, скрытый `cgo` в `os/user` и `net`, build tags `osusergo`/`netgo`, `CGO_ENABLED=0`, `-extldflags=-static`, нюансы glibc/musl и кросс-компиляция с `cgo`. https://www.arp242.net/static-go.html
+  - How to Build a Fully Static Go Binary — практический рецепт воспроизводимой статической сборки Go-бинарников с `cgo`: `musl`, `CGO_ENABLED=1`, `CC=musl-gcc`, `-linkmode external`, `-extldflags '-static'`, проверка через `verify_static` в `go-builder` и сборка внутри Docker/Alpine без локального musl toolchain. https://dev.to/pablo74/how-to-build-a-fully-static-go-binary-every-time-with-go-builder-and-docker-45go
 - Подготовка к собеседованию
   - Гайд по подготовке к собеседованию для Backend-разработчиков https://habr.com/ru/articles/876808/
 - Линтеры
