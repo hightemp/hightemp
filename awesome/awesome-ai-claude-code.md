@@ -64,6 +64,8 @@
     - Claude Code: практический гайд по настройке, автоматизации и работе с контекстом https://habr.com/ru/articles/987094/
     - Проблема не в промпте: как Claude Code плывет на длинных задачах и как управлять контекстом https://habr.com/ru/articles/1004994/
     - LLM — не один большой «мозг», а команда ролей. Как собрать AI-workflow в Claude Code и уйти от вайб-коддинга https://habr.com/ru/articles/974924/
+- Правила и память
+    - How Claude Code rules actually work — практический гайд по правилам Claude Code: global/project memory, `CLAUDE.md`, `.claude/rules/`, path-scoped rules через YAML frontmatter, разделение unconditional и contextual правил, индекс правил и явное подключение README, architecture docs, RFC, PRD и runbooks. https://joseparreogarcia.substack.com/p/how-claude-code-rules-actually-work
 - Контекст, память и поиск
     - (Решения) Семантический поиск по базе знаний и кодовой базе https://bekhan.org/Information+Technology/System+Administration/AI/(Решения)+Семантический+поиск+по+базе+знаний+и+кодовой+базе
 - Workflow
