@@ -79,6 +79,7 @@
 ### Блоги
 
 - https://webdevblog.ru/
+- https://skibardin.ru/category/vue3/
 
 ### Статьи
 
