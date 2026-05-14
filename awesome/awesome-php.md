@@ -379,6 +379,7 @@ vendor/bin/phpqt-install
     - Почему после модификации массива refcount становится 0? Разбор работы Copy-on-Write в PHP 8.3 https://skibardin.ru/refcount-php-optimizaciya/
     - ZVAL: фундаментальная структура данных в PHP. Часть 1 — устройство и оптимизации https://skibardin.ru/zval-fundamentalnaya-struktura-dannyh-v-php-chast-1-ustrojstvo-i-optimizacii/
     - ZVAL в PHP: углублённый анализ работы с переменными. Часть 2 — копирование, ссылки и оптимизация https://skibardin.ru/zval-php-rukovodstvo-po-rabote-pamatuy-premenimi/
+    - Практическое применение ZVAL: 8 реальных кейсов оптимизации памяти в PHP https://skibardin.ru/zval-php-optimizaciya-pamyati/
   - GC; Сборщик мусора
     - Введение в сборку мусора в PHP https://skibardin.ru/sborschik-musora-php/
   - Атрибуты, Attributes
