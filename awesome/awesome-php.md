@@ -376,6 +376,7 @@ vendor/bin/phpqt-install
     - Zend Memory Manager https://www.phpinternalsbook.com/php7/memory_management/zend_memory_manager.html
     - Streamline Your PHP Applications: 14 Ways to Improve Memory Allocation https://wepri.net/blog/streamline-your-php-applications-14-ways-to-improve-memory-allocation
     - PHP Memory : ZVAL, Symbols and GC https://heera.it/php-memory-zval-symbol-tables-and-garbage-collection
+    - Почему после модификации массива refcount становится 0? Разбор работы Copy-on-Write в PHP 8.3 https://skibardin.ru/refcount-php-optimizaciya/
   - GC; Сборщик мусора
     - Введение в сборку мусора в PHP https://skibardin.ru/sborschik-musora-php/
   - Атрибуты, Attributes
