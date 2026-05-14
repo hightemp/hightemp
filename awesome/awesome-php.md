@@ -377,6 +377,8 @@ vendor/bin/phpqt-install
     - Streamline Your PHP Applications: 14 Ways to Improve Memory Allocation https://wepri.net/blog/streamline-your-php-applications-14-ways-to-improve-memory-allocation
     - PHP Memory : ZVAL, Symbols and GC https://heera.it/php-memory-zval-symbol-tables-and-garbage-collection
     - Почему после модификации массива refcount становится 0? Разбор работы Copy-on-Write в PHP 8.3 https://skibardin.ru/refcount-php-optimizaciya/
+    - ZVAL: фундаментальная структура данных в PHP. Часть 1 — устройство и оптимизации https://skibardin.ru/zval-fundamentalnaya-struktura-dannyh-v-php-chast-1-ustrojstvo-i-optimizacii/
+    - ZVAL в PHP: углублённый анализ работы с переменными. Часть 2 — копирование, ссылки и оптимизация https://skibardin.ru/zval-php-rukovodstvo-po-rabote-pamatuy-premenimi/
   - GC; Сборщик мусора
     - Введение в сборку мусора в PHP https://skibardin.ru/sborschik-musora-php/
   - Атрибуты, Attributes
