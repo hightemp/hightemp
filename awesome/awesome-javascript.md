@@ -170,6 +170,8 @@
     - Using NodeJS’s AsyncLocalStorage to Instrument a Webserver https://will-keleher.com/posts/asynclocalstorage_in_detail/
   - ECMAScript
     - UTF-16 https://262.ecma-international.org/7.0/#sec-utf16encoding
+  - Symbols
+    - What are JavaScript Symbols and When to Use Them? https://medium.com/@bsalwiczek/what-are-javascript-symbols-and-when-to-use-them-168b77ff88a4
   - Дата время; Date
     - JS Dates Are About to Be Fixed https://docs.timetime.in/blog/js-dates-finally-fixed/
     - How to Sort an Object Array by Date in JavaScript: A Complete Guide https://www.mbloging.com/post/how-to-sort-an-object-array-by-date-in-javascript-a-complete-guide
