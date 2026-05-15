@@ -86,6 +86,7 @@
 - TypeScript
   - https://code.mu/ru/javascript/typescript/book/prime/#
   - https://www.typescriptlang.org/docs/handbook/intro.html
+  - https://code-basics.com/ru/languages/typescript/lessons/hello-world
 
 ### Книги
 
