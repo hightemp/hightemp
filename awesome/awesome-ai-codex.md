@@ -7,3 +7,5 @@
 
 - Основное
     - Как устроен Codex https://habr.com/ru/companies/ods/articles/1001012/
+- Планирование долгих задач
+    - Using PLANS.md for multi-hour problem solving — официальный гайд OpenAI Cookbook по `PLANS.md`/ExecPlans для многочасовых задач в Codex: как через `AGENTS.md` задать living plan, self-contained milestones, decision log, progress и проверяемые acceptance criteria. https://developers.openai.com/cookbook/articles/codex_exec_plans
