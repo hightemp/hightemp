@@ -74,6 +74,7 @@
   - https://habr.com/ru/articles/786826/ 
       - https://web.archive.org/web/20240201014633/https://habr.com/ru/articles/786826/
       - https://github.com/hightemp/hightemp/blob/main/notes/computer_science/backend/golang/articles/go-100-interview-questions-and-tasks.md
+- AFK Offer: Golang — банк вопросов с собеседований по Go: 2388 вопросов с ответами, 40 задач и фильтр по уровням от Intern до Principal. https://afkoffer.com/interview/go
 
 ### Библиотеки
 
