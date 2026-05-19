@@ -279,17 +279,17 @@
     - A Guide to Undefined Behavior in C and C++, Part 1 https://blog.regehr.org/archives/213
     - A Guide to Undefined Behavior in C and C++, Part 2 https://blog.regehr.org/archives/226
     - A Guide to Undefined Behavior in C and C++, Part 3 https://blog.regehr.org/archives/232
-  - Остальное
-    - Implementing a Struct of Arrays https://brevzin.github.io/c++/2025/05/02/soa/
-    - What does C++ Object Layout Look Like? https://nimrod.blog/posts/what-does-cpp-object-layout-look-like/
-    - Безопасное использование C++ https://habr.com/ru/companies/pvs-studio/articles/580762/
-    - C++ quick tips: Overloaded virtual functions https://twdev.blog/2024/07/cpp_overloaded_virtuals/
-    - Всё, точка, приплыли! Учимся работать с числами с плавающей точкой и разрабатываем альтернативу с фиксированной точностью десятичной дроби https://habr.com/ru/companies/xakep/articles/257897/    
   - Лямбда-выражения, lambda
     - Capture `*this` in lambda expression: Timeline of change — разбор эволюции захвата текущего объекта в lambda с C++11 до C++20: `[this]`, `[*this]`, `[=]`, `[=, this]`, захват по значению с C++17 и предупреждения вокруг неявного захвата `this` через `[=]` в C++20. https://www.nextptr.com/tutorial/ta1430524603/capture-this-in-lambda-expression-timeline-of-change
     - Лямбда-выражения в C++ — официальная документация Microsoft Learn по синтаксису lambda: capture clause, список параметров, `mutable`, спецификация исключений, trailing return type, тело lambda, generalized capture в C++14, `*this` capture и `constexpr` lambda в C++17. https://learn.microsoft.com/ru-ru/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
     - Лямбды: от C++11 до C++20. Часть 1 — русская статья про эволюцию lambda: базовый синтаксис C++11, захваты, closure type, `mutable`, возвращаемый тип и изменения C++14. https://habr.com/ru/companies/otus/articles/444524/
     - Lambdas: From C++11 to C++20, Part 1 — первая часть серии C++ Stories про развитие lambda expressions: основы C++11, capture list, closure object, `mutable`, trailing return type и обобщённые lambda в C++14. https://www.cppstories.com/2019/02/lambdas-story-part1/
+  - Остальное
+    - Implementing a Struct of Arrays https://brevzin.github.io/c++/2025/05/02/soa/
+    - What does C++ Object Layout Look Like? https://nimrod.blog/posts/what-does-cpp-object-layout-look-like/
+    - Безопасное использование C++ https://habr.com/ru/companies/pvs-studio/articles/580762/
+    - C++ quick tips: Overloaded virtual functions https://twdev.blog/2024/07/cpp_overloaded_virtuals/
+    - Всё, точка, приплыли! Учимся работать с числами с плавающей точкой и разрабатываем альтернативу с фиксированной точностью десятичной дроби https://habr.com/ru/companies/xakep/articles/257897/
 - Сеть
   - TCP-Соединения
     - How to Forcibly Close a Socket in TIME_WAIT https://www.baeldung.com/linux/close-socket-time_wait
