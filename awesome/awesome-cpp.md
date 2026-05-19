@@ -288,6 +288,8 @@
   - Лямбда-выражения, lambda
     - Capture `*this` in lambda expression: Timeline of change — разбор эволюции захвата текущего объекта в lambda с C++11 до C++20: `[this]`, `[*this]`, `[=]`, `[=, this]`, захват по значению с C++17 и предупреждения вокруг неявного захвата `this` через `[=]` в C++20. https://www.nextptr.com/tutorial/ta1430524603/capture-this-in-lambda-expression-timeline-of-change
     - Лямбда-выражения в C++ — официальная документация Microsoft Learn по синтаксису lambda: capture clause, список параметров, `mutable`, спецификация исключений, trailing return type, тело lambda, generalized capture в C++14, `*this` capture и `constexpr` lambda в C++17. https://learn.microsoft.com/ru-ru/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
+    - Лямбды: от C++11 до C++20. Часть 1 — русская статья про эволюцию lambda: базовый синтаксис C++11, захваты, closure type, `mutable`, возвращаемый тип и изменения C++14. https://habr.com/ru/companies/otus/articles/444524/
+    - Lambdas: From C++11 to C++20, Part 1 — первая часть серии C++ Stories про развитие lambda expressions: основы C++11, capture list, closure object, `mutable`, trailing return type и обобщённые lambda в C++14. https://www.cppstories.com/2019/02/lambdas-story-part1/
 - Сеть
   - TCP-Соединения
     - How to Forcibly Close a Socket in TIME_WAIT https://www.baeldung.com/linux/close-socket-time_wait
