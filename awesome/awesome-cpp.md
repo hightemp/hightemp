@@ -284,6 +284,7 @@
     - Лямбда-выражения в C++ — официальная документация Microsoft Learn по синтаксису lambda: capture clause, список параметров, `mutable`, спецификация исключений, trailing return type, тело lambda, generalized capture в C++14, `*this` capture и `constexpr` lambda в C++17. https://learn.microsoft.com/ru-ru/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
     - Лямбды: от C++11 до C++20. Часть 1 — русская статья про эволюцию lambda: базовый синтаксис C++11, захваты, closure type, `mutable`, возвращаемый тип и изменения C++14. https://habr.com/ru/companies/otus/articles/444524/
     - Lambdas: From C++11 to C++20, Part 1 — первая часть серии C++ Stories про развитие lambda expressions: основы C++11, capture list, closure object, `mutable`, trailing return type и обобщённые lambda в C++14. https://www.cppstories.com/2019/02/lambdas-story-part1/
+    - C++ Working Draft N3337: Lambda expressions — текст раздела `[expr.prim.lambda]` из проекта стандарта: синтаксис lambda, closure object/type, `operator()`, capture list, захват по значению и по ссылке. https://timsong-cpp.github.io/cppwp/n3337/expr.prim.lambda#2
   - Остальное
     - Implementing a Struct of Arrays https://brevzin.github.io/c++/2025/05/02/soa/
     - What does C++ Object Layout Look Like? https://nimrod.blog/posts/what-does-cpp-object-layout-look-like/
