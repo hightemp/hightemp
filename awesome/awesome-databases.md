@@ -155,6 +155,7 @@
     - Дата и время
         - PostgreSQL Deep Dive Part 7 — Managing Time with Intervals and Generated Columns https://abheist.com/blogs/postgres-intervals-generated-columns
         - PostgreSQL Deep Dive Part 3 — Mastering Date, Time, and Timezone Handling https://abheist.com/blogs/postgres-datetime-timezone
+        - Как работать с метками времени (timestamp) в PostgreSQL? — перевод depesz о `timestamp`, `timestamptz`, `AT TIME ZONE`, Unix epoch и индексах для выражений времени. https://habr.com/ru/articles/273177/
         - Почему вам стоит отказаться от использования timestamp в PostgreSQL — разбор различий `timestamp` и `timestamptz`, влияния `TimeZone` в сессии, поведения psql/DataGrip/DBeaver и случаев, когда `timestamp without time zone` всё же уместен. https://habr.com/ru/articles/772954/
     - Остальное
         - PostgreSQL Deep Dive Part 15 — EXPLAIN - Understanding Query Execution Plans https://abheist.com/blogs/postgres-explain
