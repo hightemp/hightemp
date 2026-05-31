@@ -55,8 +55,14 @@
 ### Skills; Скилы
 
 - avoid-ai-writing — скилл для Claude Code и OpenClaw, который анализирует текст на 36 типовых признаков AI-стиля и поддерживает два режима: аудит с пометкой подозрительных паттернов и рерайт для удаления найденных шаблонов. https://github.com/conorbronsdon/avoid-ai-writing
+- Claude Ads — Claude Code skill для аудита и оптимизации paid advertising: Google, Meta, YouTube, LinkedIn, TikTok, Microsoft и Apple Ads, 250+ проверок, weighted scoring, parallel subagents, industry templates, creative audit, budget review и генерация отчётов. https://github.com/AgriciDaniel/claude-ads
+- Claude-Red — коллекция из 38 offensive security skills для Claude Skills: готовые `SKILL.md` по SQLi, XSS, SSRF, SSTI, XXE, IDOR, file upload, RCE, JWT/OAuth, shellcode, EDR evasion, exploit development, OSINT, fuzzing и AI security; предназначены для red team, bug bounty и security research. https://github.com/SnailSploit/Claude-Red
 - Deep Research for Claude Code — скилл для анализа папок с документами (PDF, Word, PPTX и др.), извлечения текста, таблиц и координат элементов и генерации HTML-отчётов с проверяемыми ссылками на источники и расположение цитат в исходных файлах. https://github.com/jerryjliu/liteparse_samples
+- Skill Creator https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
+- Toprank — open-source Claude Code skills для SEO, SEM и Google Ads: Search Console, Google Ads и CMS-интеграции, SEO-анализ, ads audit, диагностика просадки трафика, контент-рекомендации и workflow-команды `/toprank:*`. https://github.com/nowork-studio/toprank
+- humanizer — скилл для Claude Code, который делает AI-сгенерированный текст более естественным: ищет 24 признака машинного стиля, включая раздувание значимости, рекламные формулировки, размытые ссылки на экспертов, шаблонные противопоставления, тройные перечисления, избыток тире, эмодзи, чат-штампы и общие выводы; помогает переписать текст без потери смысла. https://github.com/softaworks/agent-toolkit/tree/main/skills/humanizer
 - last30days — skill/plugin для Claude Code и OpenClaw: команда `/last30days <тема>` запускает AI-agent search по Reddit, X/Twitter, YouTube, TikTok, Instagram, Hacker News, Polymarket, GitHub, Bluesky, Perplexity/web и другим источникам за последние 30 дней, ранжирует сигналы по engagement/ставкам/релевантности, объединяет повторы между платформами и синтезирует brief с источниками, цитатами и “Best Takes”. В zero-config режиме сразу работают Reddit comments, Hacker News, Polymarket и GitHub; X, YouTube, Bluesky, TikTok/Instagram/Threads/Pinterest и Perplexity подключаются через браузерные сессии, локальные утилиты или API-ключи. https://github.com/mvanhorn/last30days-skill
+- mcp-builder — официальный скилл Anthropic для проектирования и сборки MCP-серверов под внешние API и сервисы: ведёт через исследование API, выбор покрытия endpoint/workflow tools, реализацию на TypeScript/Python, тестирование через MCP Inspector и подготовку evals. https://github.com/anthropics/skills/tree/main/skills/mcp-builder
 
 ### Память
 
@@ -66,6 +72,7 @@
 ### Статьи
 
 - Основное
+    - Skills для Claude Code: огромный гайд от инженера Anthropic https://habr.com/ru/articles/1011524/
     - Что вы не знали о Claude Code: архитектура, управление и инженерные практики https://habr.com/ru/articles/1012412/
     - Claude Code: практический гайд по настройке, автоматизации и работе с контекстом https://habr.com/ru/articles/987094/
     - Проблема не в промпте: как Claude Code плывет на длинных задачах и как управлять контекстом https://habr.com/ru/articles/1004994/
@@ -78,3 +85,5 @@
     - Как я перестал бояться Claude Code и научил его не ломать мои проекты https://habr.com/ru/articles/1013330/
 - PHP
     - Awesome Claude Code: AI-помощник для PHP-архитектора https://habr.com/ru/articles/994090/ https://web.archive.org/web/20260216023741/https://habr.com/ru/articles/994090/
+- Подборки
+    - Top 8 Claude Skills for UI/UX Engineers https://snyk.io/articles/top-claude-skills-ui-ux-engineers/
