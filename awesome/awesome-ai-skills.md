@@ -6,10 +6,7 @@
 - https://lobehub.com/skills
 - https://skillmd.ai/skills/
 - https://skills.sh/
-- https://github.com/anthropics/skills
 - https://github.com/vercel-labs/agent-skills
-- design
-    - bencium-marketplace A Claude Code plugin marketplace with 13 skills for design, architecture, and productivity by bencium.io. https://github.com/bencium/bencium-marketplace
 
 ### Плагины
 

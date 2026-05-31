@@ -3,6 +3,9 @@
 - A selectively curated list of skills, agents, plugins, hooks, and other amazing tools for enhancing your Claude Code workflow. https://github.com/hesreallyhim/awesome-claude-code
 - Awesome Claude Code Subagents — коллекция 100+ специализированных Claude Code subagents для разработки, языков и фреймворков, инфраструктуры, QA/security, data/AI, DX, продуктовых и meta-orchestration задач; поддерживает установку как Claude Code plugins по категориям или ручную установку агентов в `~/.claude/agents/`. https://github.com/VoltAgent/awesome-claude-code-subagents
 - Awesome Claude Plugins — курируемый список production-ready плагинов для Claude Code с кастомными slash-командами, специализированными агентами, hooks и skills для интеграций, фронтенда, Git, тестирования, бэкенда, DevOps, документации и безопасности. https://github.com/ComposioHQ/awesome-claude-plugins
+- Anthropic Skills — официальный репозиторий Anthropic со skills для Claude: готовые `SKILL.md`, примеры структуры навыков и reusable инструкции для подключения к Claude-экосистеме. https://github.com/anthropics/skills
+- bencium-marketplace — Claude Code plugin marketplace с 13 skills для дизайна, архитектуры и продуктивности от bencium.io. https://github.com/bencium/bencium-marketplace
+- Knowledge Work Plugins — официальный open-source marketplace Anthropic для role-based Claude plugins: productivity, sales, customer support, product management, marketing, legal, finance, data, enterprise search, bio-research и cowork-plugin-management; каждый plugin состоит из `.claude-plugin/plugin.json`, `.mcp.json`, slash-команд и skills, ставится в Claude Cowork или через `claude plugin marketplace add anthropics/knowledge-work-plugins`. https://github.com/anthropics/knowledge-work-plugins
 
 ### Шпаргалки
 
@@ -20,6 +23,8 @@
 ### Плагины
 
 - Awesome Claude Code — PHP Architecture Toolkit: плагин для Claude Code с slash-командами, агентами, skills и hooks для аудита, генерации и документирования PHP-кода в DDD, CQRS, Event Sourcing, Clean/Hexagonal Architecture, PSR, тестах и code review. https://github.com/dykyi-roman/awesome-claude-code
+- Claude for Legal — suite Anthropic с Claude plugins, agents, skills, slash-командами и MCP-коннекторами для юридических workflow: commercial, corporate, employment, privacy, product, regulatory, AI governance, IP, litigation, legal clinic и law-student; outputs рассчитаны на attorney review и могут запускаться как Claude Cowork/Claude Code plugins или через Claude Managed Agents API. https://github.com/anthropics/claude-for-legal
+- Claude for Financial Services — reference agents, vertical plugins, skills, slash-команды и MCP-коннекторы Anthropic для financial-services workflow: investment banking, equity research, private equity, wealth management, fund admin, operations/KYC, pitch decks, DCF/LBO/3-statement models, earnings notes и GL reconciliation; доступен как Claude Cowork plugin marketplace или шаблоны для Claude Managed Agents API. https://github.com/anthropics/financial-services
 - claude-obsidian — Claude Code plugin/набор skills для превращения Obsidian vault в самоорганизующуюся wiki-базу знаний: Claude ingests источники, создаёт страницы, сущности и cross-links, поддерживает hot cache между сессиями, умеет `/wiki`, `/save`, `/autoresearch`, wiki lint, batch ingestion, цитирование страниц vault и MCP-интеграцию с Obsidian Local REST API или filesystem. https://github.com/AgriciDaniel/claude-obsidian
 
 ### Альтернативы и порты Claude Code
