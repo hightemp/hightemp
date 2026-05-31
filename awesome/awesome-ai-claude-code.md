@@ -15,6 +15,7 @@
 - Autoresearch Genealogy — набор структурированных промптов, vault-шаблонов, архивных гайдов и workflow для генеалогического исследования с Claude Code: включает 12 autoresearch-промптов, 19 файлов starter vault, 24 страновых и региональных архивных гайда, 9 методологических справочников и 7 пошаговых workflow для поиска предков, сверки источников, Find a Grave, GEDCOM, DNA-сегментов, иммиграционных и церковных записей; подход основан на автономных research loops с проверкой источников и confidence tiers. https://github.com/mattprusak/autoresearch-genealogy
 - OwnYourCode — набор протоколов и команд для AI-менторинга разработки, где ИИ обучает, задаёт вопросы и проводит ревью, но весь код пишет разработчик, чтобы результат был понятным, расширяемым и «своим». https://github.com/DanielPodolsky/ownyourcode
 - CCPM (Claude Code Project Manager) — обвес для Claude Code, который разбивает PRD на эпики и задачи в GitHub Issues и запускает параллельный рой автономных агентов в отдельных Git worktree для синхронной разработки без конфликтов. https://github.com/automazeio/ccpm
+- cclsp — MCP-сервер для интеграции Claude Code и других coding agents с LSP: даёт переход к определениям, поиск references, безопасный rename symbol, diagnostics и конфигурации language servers для TypeScript, Python, Go, Rust, C/C++, Ruby, PHP и других языков. https://github.com/ktnyt/cclsp
 
 ### Плагины
 

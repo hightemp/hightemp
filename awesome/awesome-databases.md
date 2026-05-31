@@ -152,6 +152,11 @@
         - A Complete Guide to UUIDs in PostgreSQL https://www.commandprompt.com/education/a-complete-guide-to-uuids-in-postgresql/
     - Оптимизация
         - Как оптимизировать PostgreSQL и не лишиться сна: разбор для разработчиков https://habr.com/ru/companies/selectel/articles/913572/
+    - Дата и время
+        - PostgreSQL Deep Dive Part 7 — Managing Time with Intervals and Generated Columns https://abheist.com/blogs/postgres-intervals-generated-columns
+        - PostgreSQL Deep Dive Part 3 — Mastering Date, Time, and Timezone Handling https://abheist.com/blogs/postgres-datetime-timezone
+        - Как работать с метками времени (timestamp) в PostgreSQL? — перевод depesz о `timestamp`, `timestamptz`, `AT TIME ZONE`, Unix epoch и индексах для выражений времени. https://habr.com/ru/articles/273177/
+        - Почему вам стоит отказаться от использования timestamp в PostgreSQL — разбор различий `timestamp` и `timestamptz`, влияния `TimeZone` в сессии, поведения psql/DataGrip/DBeaver и случаев, когда `timestamp without time zone` всё же уместен. https://habr.com/ru/articles/772954/
     - Остальное
         - PostgreSQL Deep Dive Part 15 — EXPLAIN - Understanding Query Execution Plans https://abheist.com/blogs/postgres-explain
         - PostgreSQL Deep Dive Part 14 — Understanding Index Storage — Files, Structure, and Management https://abheist.com/blogs/postgres-index-storage
@@ -160,11 +165,9 @@
         - PostgreSQL Deep Dive Part 10 — Data Integrity and Constraints — Building Robust Database Design https://abheist.com/blogs/postgres-constraints-integrity
         - PostgreSQL Deep Dive Part 9 — Complex Data Types — Network, JSON, Arrays, Text Search and more https://abheist.com/blogs/postgres-complex-data-types
         - PostgreSQL Deep Dive Part 8 - Identity Management — Serial Types, Sequences, and Identity Columns https://abheist.com/blogs/postgres-identity-management
-        - PostgreSQL Deep Dive Part 7 — Managing Time with Intervals and Generated Columns https://abheist.com/blogs/postgres-intervals-generated-columns
         - PostgreSQL Deep Dive Part 6 - Money, Type Casting, and Boolean Operations https://abheist.com/blogs/postgres-money-casting-boolean
         - PostgreSQL Deep Dive Part 5 - Mastering Constraints https://abheist.com/blogs/postgres-constraints
         - PostgreSQL Deep Dive Part 4 — Mastering Enums and Domains https://abheist.com/blogs/postgres-enums-domains
-        - PostgreSQL Deep Dive Part 3 — Mastering Date, Time, and Timezone Handling https://abheist.com/blogs/postgres-datetime-timezone
         - PostgreSQL Deep Dive Part 2 - Character Types, Binary Data, and UUIDs https://abheist.com/blogs/postgres-character-binary-uuid
         - PostgreSQL Deep Dive Part 1 - Schema Organization and Numeric Types https://abheist.com/blogs/postgres-schema-numeric
         - 7 Best Practice Tips for PostgreSQL Bulk Data Loading https://www.enterprisedb.com/blog/7-best-practice-tips-postgresql-bulk-data-loading
