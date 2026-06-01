@@ -6,10 +6,7 @@
 - https://lobehub.com/skills
 - https://skillmd.ai/skills/
 - https://skills.sh/
-- https://github.com/anthropics/skills
 - https://github.com/vercel-labs/agent-skills
-- design
-    - bencium-marketplace A Claude Code plugin marketplace with 13 skills for design, architecture, and productivity by bencium.io. https://github.com/bencium/bencium-marketplace
 
 ### Плагины
 
@@ -24,28 +21,22 @@
 - Для разработки
     - Agent Skills — личная коллекция скилов Matt Pocock для планирования, разработки, TDD, triage, refactoring, GitHub workflow, pre-commit, Obsidian и написания новых skills. https://github.com/mattpocock/skills
     - Andrej Karpathy Skills — компактные guidelines/skill для Claude Code и Cursor по мотивам наблюдений Андрея Карпаты: думать перед кодингом, упрощать, делать точечные изменения и задавать проверяемые критерии успеха. https://github.com/forrestchang/andrej-karpathy-skills
+    - Modern Web Guidance — официальный набор agent skills и CLI от Google Chrome/Edge для современных веб-интерфейсов: подмешивает в coding agents знания о Web Platform, совместимости браузеров, производительности, accessibility, CSS/layout, Forms/UI, security и built-in AI; ставится через `npx modern-web-guidance@latest install`, `npx skills add GoogleChrome/modern-web-guidance` или provider-плагины. https://developer.chrome.com/docs/modern-web-guidance https://github.com/GoogleChrome/modern-web-guidance
 - Создание скилов
-    - Skill Creator https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
+    - SkillOpt — Microsoft Research оптимизатор natural-language skills для frozen LLM agents: гоняет задачи, собирает trajectories/tool calls/verifier feedback, предлагает bounded edits, пропускает изменения через validation gates и экспортирует переиспользуемый `best_skill.md`; есть CLI, WebUI и репозиторий с MIT-лицензией. https://microsoft.github.io/SkillOpt/ https://github.com/microsoft/SkillOpt
 - Промптинг
     - Prompt Master — Claude skill для генерации и улучшения промптов под разные AI-инструменты: определяет целевой инструмент, извлекает 9 измерений намерения (task, input, output, constraints, context, audience, memory, success criteria, examples), задаёт до 3 уточняющих вопросов, выбирает подходящий prompt framework, применяет safe techniques и делает token-efficiency audit. В README перечислены профили для Claude, ChatGPT/GPT-5.x, Gemini, Ollama/Qwen/local models, Claude Code, Cursor/Windsurf/Cline, Copilot, Devin/SWE-agent, Perplexity/SearchGPT, Midjourney/DALL-E/Stable Diffusion/ComfyUI, Sora/Runway, ElevenLabs, Zapier/Make/n8n и др. https://github.com/nidhinjs/prompt-master
 - Проработка идей
     - grill-me — минималистичный скилл для жёсткого интервью по плану, идее или дизайну: задаёт вопросы по одному, проходит ветки решений до общего понимания и предлагает рекомендуемый ответ на каждый вопрос; если ответ можно найти в кодовой базе, сначала исследует проект. https://github.com/mattpocock/skills/tree/main/grill-me
 - Маркетинг; SEO; CRO
-    - Claude Ads — Claude Code skill для аудита и оптимизации paid advertising: Google, Meta, YouTube, LinkedIn, TikTok, Microsoft и Apple Ads, 250+ проверок, weighted scoring, parallel subagents, industry templates, creative audit, budget review и генерация отчётов. https://github.com/AgriciDaniel/claude-ads
-    - Toprank — open-source Claude Code skills для SEO, SEM и Google Ads: Search Console, Google Ads и CMS-интеграции, SEO-анализ, ads audit, диагностика просадки трафика, контент-рекомендации и workflow-команды `/toprank:*`. https://github.com/nowork-studio/toprank
     - seo-audit — скилл для технического и on-page SEO-аудита сайта: проверяет crawlability/indexation, robots.txt, sitemap, canonical/noindex, архитектуру, Core Web Vitals, мобильную пригодность, мета-теги, заголовки, контент и структурированные данные с учётом ограничений `web_fetch`/`curl`. https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit
     - page-cro — скилл для conversion rate optimization маркетинговых страниц: анализирует ценностное предложение, headline, CTA, визуальную иерархию, trust signals, social proof, возражения, friction points и выдаёт quick wins, high-impact changes, test ideas и варианты copy. https://github.com/coreyhaines31/marketingskills/tree/main/skills/page-cro
 - Редактура
     - ru-text — плагин/скилл для качества русского текста в AI-ассистентах: типографика, инфостиль, редактура, UX writing и деловая переписка; поддерживает Claude Code, Codex CLI, Notion, Cursor, GitHub Copilot, Gemini CLI, OpenClaw и другие платформы, включает команды проверки и оценки текста. https://github.com/talkstream/ru-text
     - editorial-skill-for-natural-russian-business-writing — редакторская система для естественного русского делового письма: убирает нейрояз, канцелярит, карьерные штампы и синтетическую гладкость, сохраняя факты, намерение и профессиональный тон; включает правила, справочник паттернов, примеры, проверочные кейсы и адаптеры для Codex, Claude Code, ChatGPT и Gemini. https://github.com/ValentinAvramko/editorial-skill-for-natural-russian-business-writing
     - humanizer-ru — Claude/AI-agent skill для редактуры русскоязычного AI-текста: выявляет и исправляет 25 паттернов машинной генерации, включая канцелярит, рекламный язык, общие выводы, следы Markdown, избыток тире и неестественные конструкции; устанавливается через Claude.ai, Claude Code или `npx skills add`. https://github.com/Vladimir-Human/humanizer-ru
-    - humanizer — скилл для Claude Code, который делает AI-сгенерированный текст более естественным: ищет 24 признака машинного стиля, включая раздувание значимости, рекламные формулировки, размытые ссылки на экспертов, шаблонные противопоставления, тройные перечисления, избыток тире, эмодзи, чат-штампы и общие выводы; помогает переписать текст без потери смысла. https://github.com/softaworks/agent-toolkit/tree/main/skills/humanizer
 - Фактчекинг
     - fact-checker — скилл для системной проверки утверждений и источников: выделяет фактологические claims, определяет нужный уровень доказательств, ранжирует источники по надежности, выставляет verdict от TRUE до UNVERIFIABLE и предлагает корректную формулировку при ошибках или недостатке контекста. https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/fact-checker
-- MCP
-    - mcp-builder — официальный скилл Anthropic для проектирования и сборки MCP-серверов под внешние API и сервисы: ведёт через исследование API, выбор покрытия endpoint/workflow tools, реализацию на TypeScript/Python, тестирование через MCP Inspector и подготовку evals. https://github.com/anthropics/skills/tree/main/skills/mcp-builder
-- Кибербезопасность
-    - Claude-Red — коллекция из 38 offensive security skills для Claude Skills: готовые `SKILL.md` по SQLi, XSS, SSRF, SSTI, XXE, IDOR, file upload, RCE, JWT/OAuth, shellcode, EDR evasion, exploit development, OSINT, fuzzing и AI security; предназначены для red team, bug bounty и security research. https://github.com/SnailSploit/Claude-Red
 - Генерация иконок
     - favicon
         - favicon https://lobehub.com/ru/skills/andrehfp-tinyplate-favicon
@@ -66,12 +57,3 @@
 - Laravel
     - Рефакторинг
         - Laravel Code Refactorer https://mcpmarket.com/tools/skills/laravel-code-refactorer
-
-### Статьи
-
-- Основное
-    - Skills для Claude Code: огромный гайд от инженера Anthropic https://habr.com/ru/articles/1011524/
-- PHP
-    - Awesome Claude Code: AI-помощник для PHP-архитектора https://habr.com/ru/articles/994090/
-- Подборки
-    - Top 8 Claude Skills for UI/UX Engineers https://snyk.io/articles/top-claude-skills-ui-ux-engineers/

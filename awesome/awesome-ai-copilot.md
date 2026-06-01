@@ -15,6 +15,7 @@
 ### Интсрументы
 
 - `#vscode/askQuestions` - карусель вопросов
+- Opilot — расширение VS Code для запуска локальных и удалённых Ollama-моделей внутри GitHub Copilot Chat: добавляет модели в model picker и `@ollama`, поддерживает inline code completions, tool calling/MCP, vision, Modelfile и управление моделями из редактора. https://marketplace.visualstudio.com/items?itemName=selfagency.opilot
 
 ### Статьи
 

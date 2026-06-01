@@ -20,6 +20,7 @@ Each file in `awesome/` is a topic-specific curated list. Prefer editing an exis
 - Check for duplicates across the whole repository before adding anything.
 - Place the entry by reader value and topic, not only by raw source type.
 - If the user corrects the categorization, treat that as the new rule unless it clearly conflicts with the repository structure.
+- Claude Code/Cowork-specific skills, plugins, agents, slash commands, hooks, or Anthropic Claude plugin marketplaces belong in `awesome/awesome-ai-claude-code.md`, not in the general `awesome/awesome-ai-skills.md`.
 
 ## Source Classification Rule
 
