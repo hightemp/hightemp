@@ -693,8 +693,12 @@
 ### Статьи
 
 - Что нового
-  - Rust 1.86.0: преобразование в родительский трейт, поддержка изменяемой индексации для HashMap и срезов https://habr.com/ru/articles/898008/
-  - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
+  - 1.96
+    - Rust 1.96 вышел: новые range-типы, удобные assert-матчи и важное изменение для WebAssembly https://habr.com/ru/news/1041338/
+  - 1.86
+    - Rust 1.86.0: преобразование в родительский трейт, поддержка изменяемой индексации для HashMap и срезов https://habr.com/ru/articles/898008/
+  - 1.85
+    - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
 - Основы языка
   - Основное
     - A Gentle Introduction To Rust https://stevedonovan.github.io/rust-gentle-intro/
