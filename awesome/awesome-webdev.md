@@ -234,6 +234,7 @@
 - NPM
   - https://devhints.io/npm
   - https://guide.freecodecamp.org/developer-tools/npm-cheatsheet/
+  - Semver Cheatsheet — краткая справка по Semantic Versioning для npm: формат `MAJOR.MINOR.PATCH`, диапазоны версий, правила `^`/`~`, pre-release теги и команды `npm version`. https://devstash.space/reference/semver-cheatsheet/
   - https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
 - Yarn
   - https://devhints.io/yarn
