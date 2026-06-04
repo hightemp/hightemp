@@ -151,7 +151,7 @@
 - Zero To Production In Rust — книга Луки Палмиери о production-ready backend-разработке на Rust через создание email newsletter API: тесты, типовые инварианты, auth, error handling, observability и CI/CD. https://www.zero2prod.com/
 - https://highassurance.rs/
 - https://rust-lang-nursery.github.io/rust-cookbook/
-- https://rust-lang.github.io/async-book/
+- Asynchronous Programming in Rust (Async Book) — официальная книга по async Rust: вводит `async`/`await`, runtimes, задачи и продвинутые темы; рассчитана на читателей, уже знакомых с основами Rust. https://rust-lang.github.io/async-book/
 - The Rust Performance Book https://nnethercote.github.io/perf-book/general-tips.html
 - Practical System Programming for Rust Developers: Build fast and secure software for Linux/Unix systems with the help of practical examples https://www.packtpub.com/en-us/product/practical-system-programming-for-rust-developers-9781800560963
   - https://github.com/PacktPublishing/Practical-System-Programming-for-Rust-Developers?tab=readme-ov-file
