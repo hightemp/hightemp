@@ -148,6 +148,7 @@
 - Rust на примерах https://doc.rust-lang.ru/stable/rust-by-example/
 - Учебник на русском https://doc.rust-lang.ru/book/ch01-02-hello-world.html
 - Rust Web Programming Maxwell Flitton, 2023 https://t.me/code_storage/755
+- Zero To Production In Rust — книга Луки Палмиери о production-ready backend-разработке на Rust через создание email newsletter API: тесты, типовые инварианты, auth, error handling, observability и CI/CD. https://www.zero2prod.com/
 - https://highassurance.rs/
 - https://rust-lang-nursery.github.io/rust-cookbook/
 - https://rust-lang.github.io/async-book/
