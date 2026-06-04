@@ -152,6 +152,8 @@
 - https://highassurance.rs/
 - https://rust-lang-nursery.github.io/rust-cookbook/
 - Asynchronous Programming in Rust (Async Book) — официальная книга по async Rust: вводит `async`/`await`, runtimes, задачи и продвинутые темы; рассчитана на читателей, уже знакомых с основами Rust. https://rust-lang.github.io/async-book/
+- Carl Fredrik Samson — «Asynchronous Programming in Rust», 2024: практическая книга по устройству async Rust; на рабочих примерах разбирает futures, green threads, callbacks, epoll, reactor/executor и создание собственного runtime. https://www.packtpub.com/en-us/product/asynchronous-programming-in-rust-9781805126621
+  - https://github.com/PacktPublishing/Asynchronous-Programming-in-Rust
 - The Rust Performance Book https://nnethercote.github.io/perf-book/general-tips.html
 - Practical System Programming for Rust Developers: Build fast and secure software for Linux/Unix systems with the help of practical examples https://www.packtpub.com/en-us/product/practical-system-programming-for-rust-developers-9781800560963
   - https://github.com/PacktPublishing/Practical-System-Programming-for-Rust-Developers?tab=readme-ov-file
