@@ -57,6 +57,10 @@
 
 - https://godbolt.org/
 
+### Инструменты
+
+- CGrep — context-aware grep для C/C++ и другого исходного кода с поддержкой 28+ языков: различает код, комментарии и строковые литералы, поддерживает semantic wildcards, многострочный поиск и фильтрацию test/prod-кода. https://awgn.github.io/cgrep/
+
 ### Книги
 
 - https://craftinginterpreters.com/
