@@ -360,6 +360,8 @@ vendor/bin/phpqt-install
 
 - Основы
   - Что нового
+    - 8.6
+      - Что нового в PHP 8.6 https://sergeymukhin.com/blog/chto-novogo-v-php-86
     - 8.5
       - Что нового в PHP 8.5 https://sergeymukhin.com/blog/chto-novogo-v-php-85
     - 8.4
