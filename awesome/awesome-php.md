@@ -665,6 +665,9 @@ vendor/bin/phpqt-install
     - Внедрение PHP-CS-Fixer в легаси PHP-проекты https://www.dev-notes.ru/articles/php/introducing-php-cs-fixer-into-legacy-projects/
     - Настройка PHP-CS-Fixer https://antonshell.me/post/php-cs-fixer
     - Usage https://cs.symfony.com/doc/usage.html
+  - NoVerify
+    - NoVerify: PHP-линтер, который работает быстро https://habr.com/ru/companies/oleg-bunin/articles/487260/
+    - Как добавить проверки в NoVerify, не написав ни строчки Go-кода https://habr.com/ru/companies/vk/articles/473718/
 - Интсрументы
   - Rector PHP
     - Mastering Code Refactoring: A Complete Guide to Using Rector PHP https://dev.to/peter_fox/mastering-code-refactoring-a-complete-guide-to-using-rector-php-hp1?utm_source=weeklyphp&utm_medium=email
