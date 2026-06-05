@@ -8,6 +8,7 @@
 - https://github.com/andreia/awesome-symfony
 - https://github.com/uhub/awesome-php
 - https://github.com/ziadoz/awesome-php
+- Awesome PHP Linter — небольшая подборка PHP-линтеров и утилит контроля стиля кода: PHP-CS-Fixer, PHP Mess Detector, PHP_CodeSniffer и PHP Parallel Lint. https://github.com/watilde/awesome-php-linter
 
 ### Сообщество
 

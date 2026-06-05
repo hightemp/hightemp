@@ -1,6 +1,6 @@
 ### Линтеры для CI/CD
 
-- https://github.com/marketplace/actions/megalinter
+- MegaLinter — мульти-языковой линтер для CI/CD и локального запуска: проверяет исходники, форматы, конфигурации инструментов, copy-paste, орфографию и security issues через GitHub Actions, другие CI-системы или локально. https://github.com/oxsecurity/megalinter
 
 ### Книги
 
