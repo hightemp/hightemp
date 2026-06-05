@@ -223,6 +223,7 @@ vendor/bin/phpqt-install
 
 - https://github.com/pdepend/pdepend
 - https://github.com/deptrac/deptrac
+- phpgrep — syntax-aware grep для PHP-кода: CLI и Go-библиотека для поиска по AST-шаблонам, близкая к structural search в PhpStorm, но удобная для standalone-запуска. https://github.com/quasilyte/phpgrep
 
 ### Генераторы документации
 
