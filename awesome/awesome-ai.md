@@ -153,6 +153,7 @@
 ### Research; Ресерч; Исследования; 
 
 - https://forecast.safe.ai/
+- Papers with Code — перезапущенный Hugging Face портал для отслеживания AI/ML-исследований, кода и state-of-the-art: собирает papers from Hugging Face Papers, тематические areas вроде Agents/World Models/Robotics, benchmark leaderboards с несколькими метриками, evals, paper lineage и раздел Methods, где можно смотреть все работы, использующие конкретную технику. https://paperswithcode.co/ https://huggingface.co/blog/nielsr/paperswithcode-launch
 - Anara — искусственный интеллект-помощник для научных исследований, разработанный командой из 6 человек с годовой выручкой $3,5 млн, который обеспечивает анализ и обработку документов в форматах PDF, видео, аудио и изображений, включает встроенный редактор для улучшения и оформления текстов по академическим стандартам, поддерживает более 90 языков включая русский, предоставляет возможности командной работы и анализа источников с автоматическим поиском пересечений между материалами, предлагая бесплатную обработку до 1000 слов в день. https://anara.com/ https://chromewebstore.google.com/detail/anara-web-clipper/iinmigjlcpeckfihbbfajpkiilfmakff?pli=1
 - SciSpace – переводит научные статьи на любой язык и сохраняет стиль оформления; https://typeset.io
 - Elicit – помогает находить источники для исследований; https://elicit.org
