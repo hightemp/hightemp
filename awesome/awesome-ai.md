@@ -1002,6 +1002,7 @@ https://arxiv.org/pdf/2411.08804v1
 ### Мультимодальные модели
 
 - Bagel — мультимодальная языковая модель с открытым исходным кодом от ByteDance, содержащая 7 миллиардов активных параметров (из общих 14 миллиардов) и обладающая возможностями ведения диалога, генерации креативного контента, создания и редактирования изображений, а также режимом демонстрации процесса рассуждений перед выдачей ответа. https://demo.bagel-ai.org/ https://huggingface.co/ByteDance-Seed/BAGEL-7B-MoT
+- Lance — open-source 3B-active unified multimodal модель ByteDance для понимания, генерации и редактирования изображений и видео в одном фреймворке: обучена с нуля по staged multi-task recipe, поддерживает `t2i`, `t2v`, `i2v`, `image_edit`, `video_edit`, `x2t_image`, `x2t_video`, multi-turn consistency editing и локальный Gradio; Apache-2.0, веса на Hugging Face, для инференса требуется Python 3.10+, CUDA 12.4+ и GPU с 40GB+ VRAM. https://github.com/bytedance/Lance https://huggingface.co/bytedance-research/Lance https://arxiv.org/abs/2605.18678
 
 ### Модели LLM; Текстовые модели
 
