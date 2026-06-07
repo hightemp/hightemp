@@ -532,7 +532,7 @@
 ### Креативные AI-платформы
 
 - Phygital Plus — платформа для визуальных создателей и дизайнерских команд, объединяющая 30+ AI-инструментов в одном веб-приложении. https://phygital.plus/
-- Open Generative AI — self-hosted open-source студия для генерации изображений и видео с 200+ model definitions и интеграцией image/video/lip-sync/cinema/workflow studios; позиционируется как альтернатива Higgsfield, Freepik AI, Krea и Openart AI, может использоваться в автоматизированных media pipelines через agent skills. https://github.com/Anil-matcha/Open-Generative-AI
+- Open Generative AI — open-source desktop/self-hosted студия для генерации изображений и видео с 200+ model definitions: image/video/lip-sync/cinema/workflow studios, модели вроде Flux, Midjourney, Kling, Sora, Veo, Seedream, Wan и LTX, альтернатива Higgsfield, Freepik AI, Krea и Openart AI; через Generative-Media-Skills может использоваться в automated media pipelines из Claude Code, Codex и других coding assistants. https://github.com/Anil-matcha/Open-Generative-AI
 - OpenShorts — open-source self-hosted AI-видеостудия для превращения длинных YouTube-роликов и локальных видео в вертикальные shorts/reels/tiktoks: находит фрагменты, делает 9:16 reframing, добавляет субтитры, озвучку, hook overlays, UGC-ролики с AI-акторами и публикацию в TikTok, Instagram Reels и YouTube Shorts без подписок и водяных знаков. https://github.com/mutonby/openshorts
 
 ### Upscaler; Апскейлеры; Увлечитель разрешения
