@@ -589,6 +589,7 @@
 - https://www.text-to-speech.online/
 - https://ttsmp3.com/
 - ebook2audiobook — это опенсорсный инструмент на Python, который автоматически превращает электронные книги (EPUB) в аудиокниги с помощью TTS‑технологий, поддерживает клонирование голоса и работает более чем с 1100 языками, обеспечивая сохранение структуры глав и чистое озвучивание текста. https://github.com/DrewThomasson/ebook2audiobook
+- Audiblez — open-source CLI и GUI для локального превращения EPUB-книг в M4B-аудиокниги через Kokoro-82M: генерирует главы в аудио, собирает итоговый файл через ffmpeg, работает на CPU или CUDA, а README приводит ориентиры скорости для Google Colab T4 и M2 MacBook Pro; русский язык в списке официальных голосов не заявлен. https://github.com/santinic/audiblez
 - https://github.com/snakers4/silero-models https://huggingface.co/spaces/NeuroSenko/tts-silero
 - Новая нейросеть MARS5 озвучит текст любым голосом, обучившись на вашем референсе https://camb.ai/ https://github.com/Camb-ai/MARS5-TTS
 - Dia - высококачественная и открытая модель преобразования текста в речь (TTS) с 1,6 млрд параметров, разработанная в Nari Labs, предоставляющая возможность реалистичного синтеза речи в реальном времени на мощных графических процессорах с занимаемым пространством памяти около 10 ГБ, с доступным исходным кодом на GitHub (https://github.com/nari-labs/dia) и неофициальным демо на Hugging Face (https://huggingface.co/spaces/mrfakename/dia-1.6b)
