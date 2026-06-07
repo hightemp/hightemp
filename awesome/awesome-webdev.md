@@ -234,6 +234,7 @@
 - NPM
   - https://devhints.io/npm
   - https://guide.freecodecamp.org/developer-tools/npm-cheatsheet/
+  - Semver Cheatsheet — краткая справка по Semantic Versioning для npm: формат `MAJOR.MINOR.PATCH`, диапазоны версий, правила `^`/`~`, pre-release теги и команды `npm version`. https://devstash.space/reference/semver-cheatsheet/
   - https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf
 - Yarn
   - https://devhints.io/yarn
@@ -504,6 +505,8 @@
       - Схемы всех потоков OpenID Connect https://darutk.medium.com/diagrams-of-all-the-openid-connect-flows-6968e3990660
 - API
    - 7 Best Practices for API Design https://newsletter.systemdesign.one/p/best-practices-for-api-design?utm_source=substack&utm_medium=email
+- Управление зависимостями и версии
+   - Semantic Versioning Explained — вводная статья про SemVer в npm: `MAJOR.MINOR.PATCH`, диапазоны `^`/`~`, lock-файлы, `0.x`, pre-release версии и правила bump'а для package maintainers. https://blog.openreplay.com/semantic-versioning-explained/
 - Снифферы
    - Снифферы трафика в мобильном тестировании: Обзор инструментов и их особенности https://habr.com/ru/articles/840084/
 - Безопасность, Security

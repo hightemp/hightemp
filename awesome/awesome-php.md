@@ -8,6 +8,7 @@
 - https://github.com/andreia/awesome-symfony
 - https://github.com/uhub/awesome-php
 - https://github.com/ziadoz/awesome-php
+- Awesome PHP Linter — небольшая подборка PHP-линтеров и утилит контроля стиля кода: PHP-CS-Fixer, PHP Mess Detector, PHP_CodeSniffer и PHP Parallel Lint. https://github.com/watilde/awesome-php-linter
 
 ### Сообщество
 
@@ -178,6 +179,7 @@ vendor/bin/phpqt-install
 ```
 - PHP Coding Standards Fixer - это инструмент командной строки для автоматического исправления и форматирования PHP-кода в соответствии с общепринятыми или пользовательскими стандартами кодирования (PSR-1, PSR-2, Symfony и др.), позволяющий модернизировать и оптимизировать код, а также автоматически устранять стилистические несоответствия. https://github.com/PHP-CS-Fixer/PHP-CS-Fixer
 - PHPStan - инструмент статического анализа кода для PHP, который выявляет потенциальные ошибки и проблемы в коде без его фактического выполнения, проверяя типы данных, неиспользуемые переменные, некорректные вызовы методов и другие проблемы на этапе разработки, что приближает PHP к компилируемым языкам с точки зрения надежности кода. https://phpstan.org/ https://github.com/phpstan/phpstan
+- NoVerify — быстрый PHP-линтер и static analysis tool от VKCOM, написанный на Go: ищет баги и style violations, поддерживает PHP 7/8, incremental-анализ git-изменений, baseline/diff modes и автоисправления для части предупреждений. https://github.com/VKCOM/noverify
 - PHP_CodeSniffer — это инструмент разработки, состоящий из двух PHP-скриптов, который анализирует код на PHP, JavaScript и CSS для обнаружения нарушений заданного стандарта кодирования и может автоматически исправлять найденные несоответствия стандарту. https://github.com/squizlabs/PHP_CodeSniffer
 - GrumPHP — это инструмент контроля качества кода, работающий как плагин для Composer, который интегрируется с Git-хуками для автоматической проверки кода при коммитах, блокируя изменения в случае несоответствия установленным командой стандартам качества. https://github.com/phpro/grumphp
 - php-coveralls — это клиентская библиотека на PHP для сервиса Coveralls, предназначенная для автоматической отправки отчётов о покрытии кода тестами (code coverage) на платформу Coveralls.io https://github.com/php-coveralls/php-coveralls
@@ -221,6 +223,7 @@ vendor/bin/phpqt-install
 
 - https://github.com/pdepend/pdepend
 - https://github.com/deptrac/deptrac
+- phpgrep — syntax-aware grep для PHP-кода: CLI и Go-библиотека для поиска по AST-шаблонам, близкая к structural search в PhpStorm, но удобная для standalone-запуска. https://github.com/quasilyte/phpgrep
 
 ### Генераторы документации
 
@@ -359,6 +362,8 @@ vendor/bin/phpqt-install
 
 - Основы
   - Что нового
+    - 8.6
+      - Что нового в PHP 8.6 https://sergeymukhin.com/blog/chto-novogo-v-php-86
     - 8.5
       - Что нового в PHP 8.5 https://sergeymukhin.com/blog/chto-novogo-v-php-85
     - 8.4
@@ -661,6 +666,9 @@ vendor/bin/phpqt-install
     - Внедрение PHP-CS-Fixer в легаси PHP-проекты https://www.dev-notes.ru/articles/php/introducing-php-cs-fixer-into-legacy-projects/
     - Настройка PHP-CS-Fixer https://antonshell.me/post/php-cs-fixer
     - Usage https://cs.symfony.com/doc/usage.html
+  - NoVerify
+    - NoVerify: PHP-линтер, который работает быстро https://habr.com/ru/companies/oleg-bunin/articles/487260/
+    - Как добавить проверки в NoVerify, не написав ни строчки Go-кода https://habr.com/ru/companies/vk/articles/473718/
 - Интсрументы
   - Rector PHP
     - Mastering Code Refactoring: A Complete Guide to Using Rector PHP https://dev.to/peter_fox/mastering-code-refactoring-a-complete-guide-to-using-rector-php-hp1?utm_source=weeklyphp&utm_medium=email

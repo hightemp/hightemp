@@ -4,10 +4,8 @@
 - https://medium.com/tag/rust/archive
 - https://github.com/mre/idiomatic-rust
 - https://rust-unofficial.github.io/patterns/
-- https://doc.rust-lang.org/rust-by-example/
 - https://github.com/ctjhoa/rust-learning
 - https://github.com/sger/RustBooks
-- https://github.com/rust-lang/rustlings
 - https://github.com/nikitaignatov/awesome-rust-talks
 - https://awesomerank.github.io/lists/rust-unofficial/awesome-rust.html
 - https://awesome-rust.com/
@@ -22,7 +20,7 @@
 
 ### Песочницы
 
-- https://play.rust-lang.org/
+- Rust Playground — официальная браузерная песочница Rust для быстрых экспериментов с компилятором, примерами из книг и небольшими воспроизводимыми сниппетами. https://play.rust-lang.org/
 - https://www.programiz.com/rust/online-compiler/
 - https://onecompiler.com/rust
 
@@ -74,6 +72,8 @@
 ### Упражнения
 
 - "Курс по изучению Rust" - это проект, предлагающий освоить язык программирования Rust путем решения 100 практических упражнений, позволяющих пройти путь от новичка до уровня, достаточного для написания собственных программ. https://github.com/mainmatter/100-exercises-to-learn-rust
+- Rust by Practice — практический курс с задачами по синтаксису, ownership/borrowing, traits, generics, error handling, lifetimes, collections и async; хорошо дополняет Rust by Example. https://practice.course.rs
+- Rustlings — официальный набор маленьких упражнений, которые запускаются локально и проводят через базовый синтаксис, ownership, enums, traits, error handling, lifetimes и стандартную библиотеку. https://github.com/rust-lang/rustlings/
 
 ### Репозитории
 
@@ -105,6 +105,7 @@
 - Starship — это минималистичная, невероятно быстрая и бесконечно настраиваемая командная строка для любых оболочек и операционных систем, показывающая актуальную информацию одним взглядом и поддерживающая множество инструментов. https://starship.rs/ https://github.com/starship/starship
 - Let's Get Rusty Learning Guide https://learn.letsgetrusty.com/further-learning/systems-programming-in-rust.html
 - Индекс ошибок https://doc.rust-lang.org/error_codes/error-index.html
+- Rust tools — официальная страница установки Rust и интеграций для редакторов/IDE, включая rust-analyzer, RustRover, VS Code, Vim/Neovim и Emacs. https://www.rust-lang.org/tools
 - Проект описывает различные стратегии интеграции Rust в существующие серверы, написанные на других языках программирования, для улучшения производительности CPU-интенсивных операций. https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md
 
 ### Фреймворки
@@ -142,23 +143,29 @@
 ### Книги
 
 - Руководство по rust https://my-js.org/docs/guide/rust/
+- The Rust Programming Language (TRPL, Rust Book) — официальная вводная книга по Rust: ownership/borrowing, lifetimes, structs/enums, traits, generics, collections, error handling, concurrency, smart pointers и unsafe. https://doc.rust-lang.org/book/
+- The Rust Programming Language, Brown edition — интерактивная версия Rust Book с дополнительными проверками, визуализациями и упражнениями для понимания ownership и borrowing. https://rust-book.cs.brown.edu
 - Rust на примерах https://doc.rust-lang.ru/stable/rust-by-example/
 - Учебник на русском https://doc.rust-lang.ru/book/ch01-02-hello-world.html
 - Rust Web Programming Maxwell Flitton, 2023 https://t.me/code_storage/755
+- Zero To Production In Rust — книга Луки Палмиери о production-ready backend-разработке на Rust через создание email newsletter API: тесты, типовые инварианты, auth, error handling, observability и CI/CD. https://www.zero2prod.com/
 - https://highassurance.rs/
 - https://rust-lang-nursery.github.io/rust-cookbook/
-- https://rust-lang.github.io/async-book/
+- Asynchronous Programming in Rust (Async Book) — официальная книга по async Rust: вводит `async`/`await`, runtimes, задачи и продвинутые темы; рассчитана на читателей, уже знакомых с основами Rust. https://rust-lang.github.io/async-book/
+- Carl Fredrik Samson — «Asynchronous Programming in Rust», 2024: практическая книга по устройству async Rust; на рабочих примерах разбирает futures, green threads, callbacks, epoll, reactor/executor и создание собственного runtime. https://www.packtpub.com/en-us/product/asynchronous-programming-in-rust-9781805126621
+  - https://github.com/PacktPublishing/Asynchronous-Programming-in-Rust
 - The Rust Performance Book https://nnethercote.github.io/perf-book/general-tips.html
 - Practical System Programming for Rust Developers: Build fast and secure software for Linux/Unix systems with the help of practical examples https://www.packtpub.com/en-us/product/practical-system-programming-for-rust-developers-9781800560963
   - https://github.com/PacktPublishing/Practical-System-Programming-for-Rust-Developers?tab=readme-ov-file
-- Rust in action https://www.rustinaction.com/
+- Rust in Action — практическая книга Тима Макнамары о системном Rust: файлы, память, CPU, networking, concurrency и реальные примеры использования низкоуровневых возможностей языка. https://www.rustinaction.com/ https://www.manning.com/books/rust-in-action
   - https://www.cb-india.com/index.php?dispatch=attachments.getfile&attachment_id=1575&__cf_chl_tk=XlB75x5iXEvL01vfWGp1YEXf0qY51ZZFQYIyB66wLfo-1724923057-0.0.1.1-4926
+- Rust for Rustaceans — продвинутая книга Джона Генгсета для разработчиков, уже знающих основы Rust: deeper ownership, traits, unsafe, concurrency, async и проектирование библиотек. https://www.amazon.com/Rust-Rustaceans-Programming-Experienced-Developers-ebook/dp/B0957SWKBS
 - The Embedded Rust Book https://doc.rust-lang.org/stable/embedded-book/start/index.html
 - Книги: Rust https://codelibrary.info/books/rust
 - https://ejudge.lksh.ru/lang_docs/The%20Rust%20Programming%20Language_ru.pdf
-- Тим Макнамара (Tim McNamara) — «Rust в действии», 2022 ("Rust in action", 2021)
-- Клабник С., Николс К. (Steve Klabnik, Carol Nichols) — «Программирование на Rust», 2021 ("The Rust Programming Language", 2021)
-- Jim Blandy, Jason Orendorff, Leonora F.S. Tindall — «Programming Rust. Fast, Safe Systems Development», 2021.
+- Jim Blandy, Jason Orendorff, Leonora F.S. Tindall — «Programming Rust. Fast, Safe Systems Development», 2021: последовательное введение для разработчиков с опытом в других языках; объясняет ownership, lifetimes, traits, concurrency, unsafe и сравнивает Rust с C/C++/Java/Python. https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1492052590
+- Rust Atomics and Locks — онлайн-книга Мары Бос по низкоуровневой конкурентности: атомики, memory ordering, happens-before, mutexes, condition variables и построение примитивов синхронизации. https://marabos.nl/atomics/
+- Rustonomicon — официальная книга по unsafe Rust: представление типов, lifetimes, ownership-инварианты, Send/Sync, variance, drop checking и другие детали, важные для низкоуровневого кода. https://doc.rust-lang.org/nomicon/intro.html
 - Paul Johnson, Vesa Kaihlavirta — «Learning Rust», 2017.
 - Jim Blandy — «Why Rust?» 2015.
 - Vigneshwer Dhinakaran — «Rust Cookbook».
@@ -172,6 +179,7 @@
 ### Руководства, Гайды
 
 - Руководство по языку программирования Rust https://metanit.com/rust/tutorial/
+- Rust Reference — официальная справочная спецификация языка Rust: лексика, expressions, items, types, traits, memory model, attributes, macros и unsafe semantics; полезна после освоения основ. https://doc.rust-lang.org/reference/
 - Crabbook — русскоязычная коллекция заметок о ловушках, ошибках и запутанных случаях в Rust-коде: borrowed/owned типы в аргументах функций, ссылки и generics, RAII и безопасность памяти, `unsafe`, `AnyMap` без `'static`, `Send`/`Sync`, `Pin`/`Unpin` и другие темы. https://github.com/Nekrolm/crabbook/
 - https://github.com/rustkas/simple-about-rust
 - https://prev.rust-lang.org/ru-RU/documentation.html
@@ -693,8 +701,13 @@
 ### Статьи
 
 - Что нового
-  - Rust 1.86.0: преобразование в родительский трейт, поддержка изменяемой индексации для HashMap и срезов https://habr.com/ru/articles/898008/
-  - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
+  - 1.96
+    - Rust 1.96 вышел: новые range-типы, удобные assert-матчи и важное изменение для WebAssembly https://habr.com/ru/news/1041338/
+    - Релиз Rust 1.96.0 https://habr.com/ru/news/1040970/
+  - 1.86
+    - Rust 1.86.0: преобразование в родительский трейт, поддержка изменяемой индексации для HashMap и срезов https://habr.com/ru/articles/898008/
+  - 1.85
+    - Релиз Rust 1.85.0 (Rust 2024) https://habr.com/ru/news/884768/
 - Основы языка
   - Основное
     - A Gentle Introduction To Rust https://stevedonovan.github.io/rust-gentle-intro/
@@ -706,7 +719,7 @@
     - Большая шпаргалка по Rust. 1/2 https://habr.com/ru/companies/timeweb/articles/785096/
     - Большая шпаргалка по Rust. 2/2 https://habr.com/ru/companies/timeweb/articles/787924/
     - Effective substring in Rust https://letmutex.com/article/effective-substring-in-rust
-    - Rust by Example https://doc.rust-lang.org/rust-by-example/
+    - Rust by Example — официальный интерактивный сборник небольших Rust-примеров в браузере; удобен для тренировки синтаксиса, стандартной библиотеки и проверки поведения компилятора. https://doc.rust-lang.org/rust-by-example/
     - Руководство по языку программирования Rust https://metanit.com/rust/tutorial/
     - Русский перевод книги «The Rust Programming Language» (TRPL) https://habr.com/ru/news/498794/
     - Getting Started with Rust https://medium.com/@rami.krispin/getting-started-with-rust-928bf7b8418f
@@ -882,6 +895,7 @@
   - Rust в деталях: пишем масштабируемый чат с нуля, часть 1 https://habr.com/ru/articles/268609/
 - Подборки
   - ТОП-10 книг о языке программирования Rust: от новичка до профессионала https://proglib.io/p/top-10-knig-o-yazyke-programmirovaniya-rust-ot-novichka-do-professionala-2021-12-06
+  - Про Rust — просто. Что читать в каком порядке? — личный маршрут изучения Rust через Rust Book, Rust by Example, Rustlings, Rust in Action, Programming Rust, Rust Reference, Rust Atomics and Locks и Rustonomicon; полезно как порядок чтения, а не как отдельный туториал. https://habr.com/ru/companies/bitrix/articles/878912/
 - Остальное
   - Why Rust? https://rerun.io/blog/why-rust
   - Небезопасный Rust сложнее C https://habr.com/ru/companies/ruvds/articles/858246/
