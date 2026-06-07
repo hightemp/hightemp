@@ -1054,6 +1054,7 @@ https://arxiv.org/pdf/2411.08804v1
 - EfficientNet: Оптимизированная модель для классификации изображений с высокой точностью и эффективностью.
 - DINOv2: Самообучающаяся модель от Meta Research для обучения без разметки.
 - Grounding DINO: Модель нулевого обучения для обнаружения объектов.
+- LocateAnything-3B — vision-language модель NVIDIA для visual grounding и локализации объектов по текстовому запросу: предсказывает bounding boxes/points через Parallel Box Decoding, поддерживает Fast/Slow/Hybrid inference, покрывает object detection, GUI grounding, OCR/layout и referring-expression grounding; веса доступны на Hugging Face под некоммерческой NVIDIA License, рядом опубликована 3D-версия LocateAnything3D для monocular RGB 3D detection. https://research.nvidia.com/labs/lpr/locate-anything/ https://huggingface.co/nvidia/LocateAnything-3B https://nvlabs.github.io/LocateAnything3D/
 - CoAtNet: Гибридная сеть, сочетающая свёрточные и трансформерные слои.
 - YOLACT: Модель для сегментации объектов в реальном времени.
 - OpenPose: Модель для детекции позы человека.
