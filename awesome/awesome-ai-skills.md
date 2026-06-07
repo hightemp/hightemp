@@ -49,6 +49,7 @@
         - app-icon https://skills.sh/code-with-beto/skills/app-icon
 - UI/UX
     - UI UX Pro Max https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+    - imagegen-frontend-web — скилл для генерации отдельных горизонтальных image references для секций лендингов и маркетинговых сайтов: задаёт Awwwards-level арт-дирекшен, композиционное разнообразие, единый visual system, full-bleed/background-image подходы и правило «одна секция — одно изображение». https://github.com/Leonxlnx/taste-skill/blob/main/skills/imagegen-frontend-web/SKILL.md
 - PHP
     - Архитектура
         - PHP SOLID Architecture Guide https://mcpmarket.com/tools/skills/php-solid-architecture-guide
