@@ -3,6 +3,7 @@
 - https://github.com/kuchin/awesome-cto
 - Ресурс, собравший в одном месте лучшие бесплатные программы: редакторы для фото, видео и музыки, игры, инструменты для работы с данными и многое другое, с описаниями и поддерживаемыми ОС, доступный по ссылке https://github.com/Axorax/awesome-free-apps
 - https://github.com/pawelborkar/awesome-repos
+- 100 free open-source github repos everyone needs — кураторская подборка 100 бесплатных open-source репозиториев для разработчиков и создателей: AI-агенты, self-hosted SaaS-альтернативы, LLM tooling, dev essentials, обучение, frontend/design, data/scraping/analytics, security/privacy, web3 и creator tools; у каждого проекта указан практический нюанс или ограничение. https://github.com/Moh4696/100-free-open-source-github-repos
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - https://github.com/tayllan/awesome-algorithms
 - https://github.com/KenneyNL/Adobe-Alternatives
