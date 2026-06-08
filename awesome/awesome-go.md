@@ -681,6 +681,7 @@
       - Pluggable Architecture in About 300 Lines of Code https://haykot.dev/blog/pluggable-architecture-in-about-300-lines-of-code/
     - regexp
       - Коротко про regexp в Go https://habr.com/ru/companies/otus/articles/889320/
+      - Лучший regexp для Go. Benchmark c другими ЯП. Сравнение библиотек https://habr.com/ru/articles/756222/
     - strings
       - Основное
         - An Introduction to the Strings Package in Go https://www.digitalocean.com/community/tutorials/an-introduction-to-the-strings-package-in-go
