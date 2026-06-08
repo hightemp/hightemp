@@ -682,6 +682,7 @@
     - regexp
       - Коротко про regexp в Go https://habr.com/ru/companies/otus/articles/889320/
       - Лучший regexp для Go. Benchmark c другими ЯП. Сравнение библиотек https://habr.com/ru/articles/756222/
+      - Mastering regular expressions in Go — подробный гайд по regexp в Go: RE2, синтаксис, metacharacters, quantifiers, anchors, Unicode и примеры работы с пакетом `regexp`. https://www.honeybadger.io/blog/a-definitive-guide-to-regular-expressions-in-go/
     - strings
       - Основное
         - An Introduction to the Strings Package in Go https://www.digitalocean.com/community/tutorials/an-introduction-to-the-strings-package-in-go
