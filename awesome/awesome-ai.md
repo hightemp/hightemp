@@ -1250,6 +1250,7 @@ https://arxiv.org/pdf/2411.08804v1
     - https://github.com/johannestang/llamaxing/
     - https://github.com/dzhng/llm-api
     - https://github.com/Portkey-AI/gateway
+    - https://github.com/Wei-Shaw/sub2api
 - Модели
     - Mini-Omni - мультимодальная речевая модель с возможностью ввода-вывода речи в режиме реального времени, построенная на основе метода "Any Model Can Talk", позволяющего добавлять речевые возможности к существующим языковым моделям с минимальными изменениями в архитектуре, которая обладает следующими функциями: речь-в-речь в режиме реального времени без дополнительных моделей распознавания и синтеза речи, одновременная генерация текста и аудио, потоковое воспроизведение аудио, пакетное преобразование речь-в-текст и речь-в-речь. https://huggingface.co/spaces/gpt-omni/mini-omni https://arxiv.org/pdf/2408.16725 https://huggingface.co/gpt-omni/mini-omni/tree/main https://github.com/gpt-omni/mini-omni 
     - Модель s1 — это разработанная учеными из Стэнфорда и Вашингтонского университета модель ИИ, демонстрирующая результаты, сопоставимые с лидерами отрасли, при этом обученная за менее чем 50 долларов с использованием дистилляции способностей из модели Google Gemini 2 и доступная на GitHub вместе с данными и кодом обучения. https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50, https://github.com/simplescaling/s1
