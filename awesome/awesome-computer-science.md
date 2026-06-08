@@ -22,6 +22,8 @@
         - Stack and Heap Memory https://courses.grainger.illinois.edu/cs225/fa2022/resources/stack-heap/
         - Stack vs Heap: Understanding Memory Allocation in Programming https://medium.com/huawei-developers/stack-vs-heap-understanding-memory-allocation-in-programming-a83a54901416
         - Stack vs Heap Memory Allocation https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/?ysclid=m9gxaq184a683232825
+- Компиляторы
+    - Как реализованы JIT-компиляторы https://habr.com/ru/companies/vk/articles/513290/
 - Сортировки
     - Основное
         - Три теоремы о сортировках https://habr.com/ru/articles/893452/
