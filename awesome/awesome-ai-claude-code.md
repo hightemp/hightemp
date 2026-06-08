@@ -33,6 +33,10 @@
 - Claw Code — публичная Rust-реализация `claw` CLI agent harness: собирается из исходников, содержит canonical workspace в `rust/`, команды для prompt/session/config/parity workflows, health-check через `claw doctor`, поддержку API-ключей провайдеров, документацию по parity/roadmap и не заявляет аффилиации с Anthropic. https://github.com/ultraworkers/claw-code
 - Free Claude Code — неофициальный локальный proxy/drop-in replacement для Anthropic API, который позволяет запускать Claude Code CLI, VSCode/IntelliJ extensions и бота через альтернативные провайдеры: NVIDIA NIM, OpenRouter, DeepSeek, LM Studio и llama.cpp; поддерживает маршрутизацию Opus/Sonnet/Haiku на разные модели, thinking blocks, парсинг tool calls, rate limiting и запуск через `localhost`. https://github.com/Alishahryar1/free-claude-code#quick-start
 
+### Прокси и relay-сервисы
+
+- Claude Relay Service — self-hosted relay для Claude API и Claude Code: поддерживает несколько Claude-аккаунтов с ротацией, отдельные API keys для пользователей, статистику token usage, web-панель мониторинга, rate/client limits, Redis и Docker-развертывание. https://github.com/Wei-Shaw/claude-relay-service
+
 ### Token Optimization; Утилиты для экономии токенов
 
 - rtk — CLI-прокси на Rust, сокращающий потребление токенов LLM на 60–90% за счёт фильтрации, группировки и дедупликации вывода команд (git, cargo, pytest, docker и др.). Поддерживает авто-перехват команд через PreToolUse-хук Claude Code. https://github.com/rtk-ai/rtk
