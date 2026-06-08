@@ -353,6 +353,19 @@
 - https://openrouter.ai/
 - https://deepinfra.com/
 - https://agentrouter.org
+- https://www.openmodel.ai/
+- https://apikey.fun/
+- https://code.silkapi.com/
+- https://www.aicodemirror.com/
+- https://pateway.ai/
+- https://api.pptoken.org/
+- https://runapi.co/
+- https://unity2.ai/
+- https://veilx.io/
+
+### AI аккаунты и подписки
+
+- https://shop.bmoplus.com/
 
 ### API llm Inference
 

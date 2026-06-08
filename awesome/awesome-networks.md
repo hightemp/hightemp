@@ -149,6 +149,10 @@ Norton
 198.153.194.1
 ```
 
+### Прокси-сервисы
+
+- Bestproxy — residential proxy service с dedicated one-IP-per-account подходом и fingerprint isolation для снижения риска связки аккаунтов по сетевому окружению. https://bestproxy.com/
+
 ### VPN
 
 - vless
