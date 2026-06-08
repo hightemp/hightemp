@@ -986,6 +986,7 @@ https://arxiv.org/pdf/2411.08804v1
 ### Токенизаторы
 
 - https://github.com/openai/tiktoken
+- OpenAI Tokenizer — официальный инструмент OpenAI Platform для проверки, как текст разбивается на токены, и быстрой оценки token count при работе с OpenAI API. https://platform.openai.com/tokenizer
 - https://huggingface.co/Xenova/text-embedding-ada-002
 
 ### Code Context Management; Упаковщики репозитория или папки в промпт или текстовый файл; Repository map
