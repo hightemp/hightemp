@@ -153,6 +153,7 @@
 ### Research; Ресерч; Исследования; 
 
 - https://forecast.safe.ai/
+- Papers with Code — перезапущенный Hugging Face портал для отслеживания AI/ML-исследований, кода и state-of-the-art: собирает papers from Hugging Face Papers, тематические areas вроде Agents/World Models/Robotics, benchmark leaderboards с несколькими метриками, evals, paper lineage и раздел Methods, где можно смотреть все работы, использующие конкретную технику. https://paperswithcode.co/ https://huggingface.co/blog/nielsr/paperswithcode-launch
 - Anara — искусственный интеллект-помощник для научных исследований, разработанный командой из 6 человек с годовой выручкой $3,5 млн, который обеспечивает анализ и обработку документов в форматах PDF, видео, аудио и изображений, включает встроенный редактор для улучшения и оформления текстов по академическим стандартам, поддерживает более 90 языков включая русский, предоставляет возможности командной работы и анализа источников с автоматическим поиском пересечений между материалами, предлагая бесплатную обработку до 1000 слов в день. https://anara.com/ https://chromewebstore.google.com/detail/anara-web-clipper/iinmigjlcpeckfihbbfajpkiilfmakff?pli=1
 - SciSpace – переводит научные статьи на любой язык и сохраняет стиль оформления; https://typeset.io
 - Elicit – помогает находить источники для исследований; https://elicit.org
@@ -532,7 +533,7 @@
 ### Креативные AI-платформы
 
 - Phygital Plus — платформа для визуальных создателей и дизайнерских команд, объединяющая 30+ AI-инструментов в одном веб-приложении. https://phygital.plus/
-- Open Generative AI — self-hosted open-source студия для генерации изображений и видео с 200+ model definitions и интеграцией image/video/lip-sync/cinema/workflow studios; позиционируется как альтернатива Higgsfield, Freepik AI, Krea и Openart AI, может использоваться в автоматизированных media pipelines через agent skills. https://github.com/Anil-matcha/Open-Generative-AI
+- Open Generative AI — open-source desktop/self-hosted студия для генерации изображений и видео с 200+ model definitions: image/video/lip-sync/cinema/workflow studios, модели вроде Flux, Midjourney, Kling, Sora, Veo, Seedream, Wan и LTX, альтернатива Higgsfield, Freepik AI, Krea и Openart AI; через Generative-Media-Skills может использоваться в automated media pipelines из Claude Code, Codex и других coding assistants. https://github.com/Anil-matcha/Open-Generative-AI
 - OpenShorts — open-source self-hosted AI-видеостудия для превращения длинных YouTube-роликов и локальных видео в вертикальные shorts/reels/tiktoks: находит фрагменты, делает 9:16 reframing, добавляет субтитры, озвучку, hook overlays, UGC-ролики с AI-акторами и публикацию в TikTok, Instagram Reels и YouTube Shorts без подписок и водяных знаков. https://github.com/mutonby/openshorts
 
 ### Upscaler; Апскейлеры; Увлечитель разрешения
@@ -588,6 +589,7 @@
 - https://www.text-to-speech.online/
 - https://ttsmp3.com/
 - ebook2audiobook — это опенсорсный инструмент на Python, который автоматически превращает электронные книги (EPUB) в аудиокниги с помощью TTS‑технологий, поддерживает клонирование голоса и работает более чем с 1100 языками, обеспечивая сохранение структуры глав и чистое озвучивание текста. https://github.com/DrewThomasson/ebook2audiobook
+- Audiblez — open-source CLI и GUI для локального превращения EPUB-книг в M4B-аудиокниги через Kokoro-82M: генерирует главы в аудио, собирает итоговый файл через ffmpeg, работает на CPU или CUDA, а README приводит ориентиры скорости для Google Colab T4 и M2 MacBook Pro; русский язык в списке официальных голосов не заявлен. https://github.com/santinic/audiblez
 - https://github.com/snakers4/silero-models https://huggingface.co/spaces/NeuroSenko/tts-silero
 - Новая нейросеть MARS5 озвучит текст любым голосом, обучившись на вашем референсе https://camb.ai/ https://github.com/Camb-ai/MARS5-TTS
 - Dia - высококачественная и открытая модель преобразования текста в речь (TTS) с 1,6 млрд параметров, разработанная в Nari Labs, предоставляющая возможность реалистичного синтеза речи в реальном времени на мощных графических процессорах с занимаемым пространством памяти около 10 ГБ, с доступным исходным кодом на GitHub (https://github.com/nari-labs/dia) и неофициальным демо на Hugging Face (https://huggingface.co/spaces/mrfakename/dia-1.6b)
@@ -1003,6 +1005,7 @@ https://arxiv.org/pdf/2411.08804v1
 ### Мультимодальные модели
 
 - Bagel — мультимодальная языковая модель с открытым исходным кодом от ByteDance, содержащая 7 миллиардов активных параметров (из общих 14 миллиардов) и обладающая возможностями ведения диалога, генерации креативного контента, создания и редактирования изображений, а также режимом демонстрации процесса рассуждений перед выдачей ответа. https://demo.bagel-ai.org/ https://huggingface.co/ByteDance-Seed/BAGEL-7B-MoT
+- Lance — open-source 3B-active unified multimodal модель ByteDance для понимания, генерации и редактирования изображений и видео в одном фреймворке: обучена с нуля по staged multi-task recipe, поддерживает `t2i`, `t2v`, `i2v`, `image_edit`, `video_edit`, `x2t_image`, `x2t_video`, multi-turn consistency editing и локальный Gradio; Apache-2.0, веса на Hugging Face, для инференса требуется Python 3.10+, CUDA 12.4+ и GPU с 40GB+ VRAM. https://github.com/bytedance/Lance https://huggingface.co/bytedance-research/Lance https://arxiv.org/abs/2605.18678
 
 ### Модели LLM; Текстовые модели
 
@@ -1055,10 +1058,12 @@ https://arxiv.org/pdf/2411.08804v1
 - EfficientNet: Оптимизированная модель для классификации изображений с высокой точностью и эффективностью.
 - DINOv2: Самообучающаяся модель от Meta Research для обучения без разметки.
 - Grounding DINO: Модель нулевого обучения для обнаружения объектов.
+- LocateAnything-3B — vision-language модель NVIDIA для visual grounding и локализации объектов по текстовому запросу: предсказывает bounding boxes/points через Parallel Box Decoding, поддерживает Fast/Slow/Hybrid inference, покрывает object detection, GUI grounding, OCR/layout и referring-expression grounding; веса доступны на Hugging Face под некоммерческой NVIDIA License, рядом опубликована 3D-версия LocateAnything3D для monocular RGB 3D detection. https://research.nvidia.com/labs/lpr/locate-anything/ https://huggingface.co/nvidia/LocateAnything-3B https://nvlabs.github.io/LocateAnything3D/
 - CoAtNet: Гибридная сеть, сочетающая свёрточные и трансформерные слои.
 - YOLACT: Модель для сегментации объектов в реальном времени.
 - OpenPose: Модель для детекции позы человека.
 - WiFi DensePose — программное обеспечение с открытым исходным кодом, позволяющее в реальном времени оценивать позу человека за стеной с высокой точностью, используя два обычных Wi‑Fi роутера. https://github.com/ruvnet/wifi-densepose/
+- RuView — open-source исследовательская система Wi‑Fi sensing для чувствительного к приватности пространственного мониторинга: использует CSI/RF-изменения от обычных Wi‑Fi-устройств и ML/AI-пайплайн для оценки присутствия, движения, позы и витальных сигналов вроде дыхания и пульса; рассматривать только для авторизованных лабораторных, медицинских, smart-home или safety-сценариев с явным согласием. https://github.com/ruvnet/RuView
 - Cosmos-Reason1-7B — мультимодальная языковая модель от NVIDIA, предназначенная для физического искусственного интеллекта, которая способна воспринимать и анализировать физический мир на основе видеоданных и текстовой информации, обучена на миллионах пар видео-текст с использованием методов тонкой настройки и обучения с подкреплением, применяет двойную онтологию для логического прогнозирования действий и предназначена для задач робототехники, автономных систем, управления роботами-манипуляторами, моделирования автономного вождения и создания цифровых двойников промышленных процессов. https://github.com/nvidia-cosmos/cosmos-reason1 https://huggingface.co/nvidia/Cosmos-Reason1-7B
 
 ### Модели мира; world model
