@@ -350,6 +350,7 @@
 
 - https://proxyapi.ru/
 - https://vsegpt.ru/
+- https://api.apiyi.com/
 - https://openrouter.ai/
 - https://deepinfra.com/
 - https://agentrouter.org
