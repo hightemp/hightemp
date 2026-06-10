@@ -274,6 +274,9 @@
 - Создание пакета
   - Создание npm пакета на TypeScript с поддержкой CommonJS и ESM https://www.dev-notes.ru/tags/nodejs/
 - Библиотеки
+  - Дата время; Date
+    - Основное
+      - What Is the Best JavaScript Date and Time Library? https://phrase.com/blog/posts/best-javascript-date-time-libraries/
   - Worker Thread Pools
     - Piscina - Basic Usage https://piscinajs.dev/getting-started/Basic%20Usage
   - Ramda
