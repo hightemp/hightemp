@@ -280,6 +280,7 @@
   - Дата время; Date
     - Основное
       - What Is the Best JavaScript Date and Time Library? https://phrase.com/blog/posts/best-javascript-date-time-libraries/
+      - Working with Date in Javascript: new Date() vs Day.js vs Moment.js https://devaradise.com/date-in-javascript-dayjs-momentjs/
   - Date-fns
     - Основное
       - Reduce JavaScript Bundle Size by Replacing MomentJS with Date-fns https://thefiend.medium.com/replacing-momentjs-with-date-fns-for-a-smaller-package-size-3365f358db4d
