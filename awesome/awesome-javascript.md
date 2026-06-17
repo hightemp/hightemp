@@ -280,6 +280,9 @@
   - Date-fns
     - Основное
       - Reduce JavaScript Bundle Size by Replacing MomentJS with Date-fns https://thefiend.medium.com/replacing-momentjs-with-date-fns-for-a-smaller-package-size-3365f358db4d
+  - Day.js
+    - Основное
+      - Работа с датой и временем в JavaScript с помощью Day.js https://zencod.ru/articles/day-js/
   - Worker Thread Pools
     - Piscina - Basic Usage https://piscinajs.dev/getting-started/Basic%20Usage
   - Ramda
