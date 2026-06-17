@@ -286,6 +286,9 @@
   - Day.js
     - Основное
       - Работа с датой и временем в JavaScript с помощью Day.js https://zencod.ru/articles/day-js/
+  - Luxon
+    - Основное
+      - Luxon — новая библиотека для работы с датами от команды Moment.js https://habr.com/ru/articles/433850/
   - Worker Thread Pools
     - Piscina - Basic Usage https://piscinajs.dev/getting-started/Basic%20Usage
   - Ramda
