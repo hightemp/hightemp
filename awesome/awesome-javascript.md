@@ -174,6 +174,8 @@
     - Using NodeJS’s AsyncLocalStorage to Instrument a Webserver https://will-keleher.com/posts/asynclocalstorage_in_detail/
   - ECMAScript
     - UTF-16 https://262.ecma-international.org/7.0/#sec-utf16encoding
+  - Intl; i18n; Интернационализация
+    - The Power Of The Intl API: A Definitive Guide To Browser-Native Internationalization https://www.smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/
   - Symbols
     - What are JavaScript Symbols and When to Use Them? https://medium.com/@bsalwiczek/what-are-javascript-symbols-and-when-to-use-them-168b77ff88a4
     - Тип данных Symbol https://learn.javascript.ru/symbol
