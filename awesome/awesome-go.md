@@ -1899,6 +1899,8 @@
     - Trace Log in Golang https://riad.run/trace-in-golang
     - Effective Logging in Go: Best Practices and Examples https://medium.com/novai-go-programming-101/effective-logging-in-go-best-practices-and-examples-911c31145260
 - Безопасность
+  - Supply chain; Зависимости
+    - Как незаметная indirect-зависимость в Go дописала ручку в ваш HTTP-сервер https://habr.com/ru/articles/1048732/
   - Генераторы токенов
     - Demystifying OTPs: the logic behind the offline generation of tokens https://itnext.io/demystifying-otps-the-logic-behind-the-offline-generation-of-tokens-baefca7aa0d0
 - Тестирование
