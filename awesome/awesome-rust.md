@@ -842,6 +842,7 @@
     - Libp2p demo utilizing Rust https://koonts.net/articles/rust-libp2p
     - Playing with decentralized p2p network & Rust Libp2p Stacks https://medium.com/lifefunk/playing-with-decentralized-p2p-network-rust-libp2p-stacks-2022abdf3503
 - WASM
+  - A Gentle Introduction to WebAssembly in Rust (2025 Edition) https://medium.com/@mtolmacs/a-gentle-introduction-to-webassembly-in-rust-2025-edition-c1b676515c2d
   - Improving performance with React, WASM & Rust https://medium.com/@davidkelley87/improving-performance-with-react-wasm-rust-4c70f027b2c8
 - Оптимизация
   - Профилирование
