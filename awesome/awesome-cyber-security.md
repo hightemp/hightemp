@@ -283,6 +283,9 @@
 - DevSecOps
     - The Six Dumbest Ideas in Computer Security https://www.ranum.com/security/computer_security/editorials/dumb/
     - Setting Up a Cloud Security Roadmap for Your Startup https://awssecuritydigest.com/articles/cloud-security-roadmap-for-startups
+- Threat Intelligence
+    - Malware
+        - Cloned, Loaded, and Stolen: How 109 Fake GitHub Repositories Delivered SmartLoader and StealC — разбор malware-кампании с фейковыми GitHub-репозиториями, LuaJIT SmartLoader, StealC, C2 через Polygon smart contract, IoC и правилами детекции. https://hexastrike.com/resources/blog/threat-intelligence/cloned-loaded-and-stolen-how-109-fake-github-repositories-delivered-smartloader-and-stealc/
 - Penetration testing
     - Stockholm Syndrome: Accurate network testing https://blog.exploit.org/caster-stockholm-syndrome/
 - Сетевая безопасность
