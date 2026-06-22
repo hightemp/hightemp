@@ -1352,6 +1352,9 @@
       - Бесполезная статья. SimpleProtocol vs BinaryParameters https://habr.com/ru/articles/913754/
       - Приключения одного бага или как починить pgx чужими руками https://habr.com/ru/companies/avito/articles/519610/
       - GO-PG Golang Postgre ORM https://medium.com/tunaiku-tech/go-pg-golang-postgre-orm-2618b75c0430
+  - SQLite; libSQL
+    - PocketBase
+      - PocketBase и libSQL — статья про ограничения PocketBase/SQLite, устройство libSQL/sqld, протоколы Postgres/Hrana/HTTP, репликацию и подключение libSQL к PocketBase через Go `DBConnect`. https://kovardin.ru/articles/go/libsql-pocketbase/
   - MongoDB
     - Построение REST API на Go с использованием Gorilla Mux и MongoDB https://habr.com/ru/articles/935102/
   - SQL
