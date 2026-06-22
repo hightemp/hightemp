@@ -1261,6 +1261,7 @@
     - signal.NotifyContext: handling cancelation with Unix signals using context https://henvic.dev/posts/signal-notify-context/
   - Остальное
     - How to Shutdown a Golang Application in a Cleaner way https://medium.com/@leonardo5621_66451/how-to-shutdown-a-golang-application-in-a-cleaner-way-e9307b0ea505
+    - Обработка сигналов в операционных системах семейства Unix на Golang https://medium.com/nuances-of-programming/обработка-сигналов-в-операционных-системах-семейства-unix-на-golang-cb2c42b80ba5
     - go[channels]: hot config reload with os signal https://mrturkmen.com/posts/hot-reload-with-os-signals/
     - Terminating Elegantly: A Guide to Graceful Shutdowns https://itnext.io/terminating-elegantly-a-guide-to-graceful-shutdowns-e0dcd9940f4b
     - Listening to OS signals in Golang https://dev.to/lautarojayat/listening-to-os-signals-in-golang-nkh
