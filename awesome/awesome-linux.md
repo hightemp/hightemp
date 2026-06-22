@@ -276,6 +276,7 @@
         - Сокеты (Sockets)
             - Общее (General)
                 - What is a socket? https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket
+                - Unix Domain Sockets — разбор локального IPC через `AF_UNIX`: `SOCK_STREAM`/`SOCK_DGRAM`/`SOCK_SEQPACKET`, filesystem/abstract namespace, `socketpair()`, `SCM_RIGHTS`/`SCM_CREDENTIALS` и реализация в `net/unix/af_unix.c`. https://kernel-internals.org/ipc/unix-sockets/
                 - How raw sockets behave differently in macOS and Linux https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/
             - SO_REUSEPORT
                 - Linux TCP SO_REUSEPORT: Usage and Implementation https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html
