@@ -1030,6 +1030,7 @@
     - Behind the Scenes of Go Scheduler https://dev.to/sourikghosh/behind-the-scenes-of-go-scheduler-1hdi
     - The Golang Scheduler https://www.kelche.co/blog/go/golang-scheduling/
     - Preemption in Go https://hidetatz.github.io/goroutine_preemption/
+    - Proposal: Non-cooperative goroutine preemption https://github.com/golang/proposal/blob/master/design/24543-non-cooperative-preemption.md
   - Memory management
     - Go To Memory https://habr.com/ru/companies/oleg-bunin/articles/676332/
     - Stack Allocation: Understanding Stack Memory Allocation for Function Calls and Local Variables https://englyk.com/book2/Stack_Allocation/
