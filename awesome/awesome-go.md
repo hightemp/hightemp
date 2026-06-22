@@ -1398,6 +1398,7 @@
         - http.FileServer and HTTP StripPrefix https://programmer.ink/think/http.fileserver-and-http-stripprefix.html
       - Примеры
         - How to Parse a JSON Request Body in Go https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
+        - Video Streaming with Go https://blog.devgenius.io/video-streaming-with-go-f2a27b37c35f
         - Understanding bytes in Go by building a TCP protocol https://ieftimov.com/posts/understanding-bytes-golang-build-tcp-protocol/
         - Пишем ping на Go: сможем ли составить конкуренцию стандартному ping? https://habr.com/ru/companies/yadro/articles/870584/
       - http.ServeMux
