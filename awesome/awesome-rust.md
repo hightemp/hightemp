@@ -923,6 +923,8 @@
 
 - Основное
   - Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises | Zero To Mastery https://www.youtube.com/watch?v=lzKeecy4OmQ
+- Память; Типы
+  - Визуализация использования памяти для типов в Rust https://vkvideo.ru/video-228916121_456239018 https://www.youtube.com/watch?v=7_o-YRxf_cc
 - Обучающие видео
   - [s3/5/7 | 2022] Разработка на Rust, Илья Богданов, лекция 1 https://www.youtube.com/watch?v=VM7Fpd9XPWQ&list=PLd7QXkfmSY7ZqnZY6S9SN4LWeUM_KYZj_
 - Примеры приложений
