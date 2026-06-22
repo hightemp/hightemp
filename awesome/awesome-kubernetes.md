@@ -68,3 +68,9 @@
 - Остальное
     - Вертикальное масштабирование подов https://cloud.ru/docs/kubernetes-evolution/ug/topics/concepts__vertical-pod-autoscaler.html#id1
     - 13 Kubernetes Configurations You Should Know in 2024 https://overcast.blog/13-kubernetes-configurations-you-should-know-in-2024-54eec72f307e
+
+### Видео
+
+- kubernetes начало [2025] — первое видео для начинающих: компоненты кластера Kubernetes https://youtu.be/NpFjx-v7S58
+    - VK Video https://vkvideo.ru/video-211870343_456240257
+    - Rutube https://rutube.ru/video/28be41c7566321fe1d57aab1e81ee27f/
