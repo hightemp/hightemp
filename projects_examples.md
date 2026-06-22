@@ -372,6 +372,7 @@
 
 ## rust/javascript
 
+- SQL Studio - небольшая система для работы с базами данных в одном бинарнике; поддерживает SQLite, libSQL, PostgreSQL, MySQL, DuckDB и другие источники. https://sql-studio.onrender.com/ https://github.com/frectonz/sql-studio
 - Skyfolder - превратите любое устройство в файл-сервер, доступный в Интернете, представляющий собой безопасный, самодостаточный, портативный HTTP/Bittorrent-сервер, обслуживающий локальную папку на вашем компьютере как веб-сайт и торрент для мгновенного обмена файлами с друзьями, коллегами или сами собой, обеспечивая простую настройку и безопасное использование. https://github.com/mu-arch/skyfolder
 - Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. https://github.com/zed-industries/zed
 - Rolldown – это JavaScript-бандлер, написанный на Rust, предназначенный для использования в проекте Vite и ориентированный на обеспечение совместимости с Rollup, но с бóльшим функционалом, похожим на esbuild. https://github.com/rolldown/rolldown
