@@ -418,6 +418,8 @@
                 - Горячие клавиши терминала Linux https://selectel.ru/blog/tutorials/linux-terminal-hotkeys/
     - Остальное
 - POSIX
+    - Signals; Сигналы
+        - Сигналы (signal) — конспект HSE CAOS по POSIX-сигналам: `signal`, `sigaction`, `kill`, `raise`, `alarm`, `pause`, стандартные `SIG*` и ссылки на лекции. https://github.com/blackav/hse-caos-2020/blob/master/18-signal/README.md
     - Threads; Потоки
         - POSIX thread (pthread) libraries https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html
         - POSIX Threads http://www.csc.villanova.edu/~mdamian/threads/posixthreads.html
