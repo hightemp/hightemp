@@ -1566,6 +1566,8 @@ https://arxiv.org/pdf/2411.08804v1
         - LLM domain adaptation using continued pre-training — Part 3/4 https://anastasia-tzeveleka.medium.com/llm-domain-adaptation-using-continued-pre-training-part-2-3-23f9133681ee
         - LLM domain adaptation using continued pre-training — Part 4/4 https://medium.com/@aris.tsakpinis/llm-domain-adaptation-using-continued-pre-training-part-4-4-e4fc3acffac7
         - What is Continuous Pretraining? https://docs.arcee.ai/continuous-pretraining/what-is-continuous-pretraining
+    - Machine Unlearning (разучивание моделей)
+        - A Certified Unlearning Approach without Access to Source Data — ICML 2025 arXiv-статья о сертифицированном удалении данных из модели без доступа к исходному датасету: суррогатные данные, калибровка шума по статистической дистанции между распределениями, оценка через SGLD и эксперименты на CIFAR-10/USPS. https://arxiv.org/abs/2506.06486
 
 - **Оптимизация Вычислений (Computational Optimization)** {#оптимизация-вычислений}
     - Ускорение Инференса (Inference Acceleration)
