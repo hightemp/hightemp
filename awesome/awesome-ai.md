@@ -1230,6 +1230,8 @@ https://arxiv.org/pdf/2411.08804v1
 
 ### Репозитории
 
+- Генеративные модели
+    - Rectified Flow Matching — Jupyter Notebook tutorial по Rectified Flow Matching и ReFlow на PyTorch: обучение velocity field для переноса сэмплов между распределениями, визуализация Gaussian-to-star трансформации и ускоренное sampling. https://github.com/PLAYERUNKNOWN-Productions/rectified-flow-matching/
 - Генерация изображений
     - Проект ComfyUI - это мощный и модульный графический интерфейс с открытым исходным кодом для Stable Diffusion, позволяющий создавать сложные рабочие процессы генерации изображений с помощью визуального программирования на основе узлов и диаграмм, поддерживающий широкий спектр моделей и оптимизаций. https://github.com/comfyanonymous/ComfyUI
     - CogView4-6B — обновленный опенсорс генератор изображений с длинным контекстом, хорошо следует промпту, генерирует картинки с разрешением 512-2048 пикселей, конкурент модели Flux. https://github.com/THUDM/CogView4 https://huggingface.co/THUDM/CogView4-6B https://huggingface.co/spaces/THUDM-HF-SPACE/CogView4
