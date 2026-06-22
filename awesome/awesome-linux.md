@@ -48,6 +48,10 @@
         - https://www.litres.ru/book/brayan-kernigan/vremya-unix-a-history-and-a-memoir-pdf-epub-64082042/
 - linux-insides A book-in-progress about the linux kernel and its insides. https://github.com/0xAX/linux-insides
 - LINUX KERNEL IN A NUTSHELL https://bootlin.com/doc/books/lkn.pdf
+- Внутреннее устройство Linux, 2-е изд.
+    - Автор: Кетов Дмитрий Владимирович
+    - Ссылки
+        - https://bhv.ru/product/vnutrennee-ustrojstvo-linux-2-izd/
 - Understanding the Linux® Virtual Memory Manager
     - Автор: Mel Gorman
     - Ссылки
