@@ -318,6 +318,8 @@
 
     - **Сетевые технологии (Networking Technologies)**
         - Общее (General)
+            - Основное
+                - Linux Kernel Labs: Networking — лабораторная по сетевой подсистеме ядра Linux: `struct socket`, `struct sock`, `struct sk_buff`, netfilter и упражнения с TCP/UDP-сокетами в kernel space. https://linux-kernel-labs.github.io/refs/heads/master/labs/networking.html
             - DNS
                 - Основное
                     - Как работает DNS в Linux. Часть 1: от getaddrinfo до resolv.conf https://habr.com/ru/companies/k2tech/articles/919194/
