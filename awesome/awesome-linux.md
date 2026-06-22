@@ -347,7 +347,14 @@
                 - Infiniband https://www.altlinux.org/Infiniband
             - AF_XDP
         - Протоколы (Protocols)
+            - Демультиплексирование L4 на приёме (Rx)
+                - Sockets in the Linux Kernel - Part 1: L4 Protocol Demultiplexing on Rx — разбор выбора L4 receive handler для локально полученных IPv4/IPv6-пакетов: `ip_protocol_deliver_rcu()`, `ip6_protocol_deliver_rcu()`, `inet_protos`, `inet6_protos` и регистрация обработчиков протоколов. https://thermalcircle.de/doku.php?id=blog%3Alinux%3Asockets_in_the_linux_kernel_1_l4prot_demux_on_rx
+            - UDP
+                - Socket lookup на приёме (Rx)
+                    - Sockets in the Linux Kernel - Part 2: UDP Socket Lookup on Rx — разбор поиска сокета для входящих UDP-пакетов: IPv4/IPv6 Rx path, `struct socket`, `struct udp_sock`, UDP hash tables, `__udp4_lib_lookup()`, `__udp6_lib_lookup()` и dual-stack sockets. https://thermalcircle.de/doku.php?id=blog%3Alinux%3Asockets_in_the_linux_kernel_2_udp_socket_lookup_on_rx
             - TCP
+                - Socket lookup на приёме (Rx)
+                    - Sockets in the Linux Kernel - Part 3: TCP Socket Lookup on Rx — разбор поиска сокета для входящих TCP-пакетов в Linux v6.12: IPv4/IPv6 Rx path, `struct socket`, `struct sock`, `tcp_hashinfo`, `ehash`/`lhash2`, `__inet_lookup()` и пример TCP server socket. https://thermalcircle.de/doku.php?id=blog%3Alinux%3Asockets_in_the_linux_kernel_3_tcp_socket_lookup_on_rx
                 - TCP Congestion Control; TCP_CONGESTION
                     - Как работает TCP congestion control: Reno, Cubic, BBR простыми словами https://statuser.cloud/blog/kak-rabotaet-tcp-congestion-control-reno-cubic-bbr-prostymi-slovami
                     - How to Switch TCP Congestion Control Algorithms on Linux https://oneuptime.com/blog/post/2026-03-20-switch-tcp-congestion-control-linux/view
