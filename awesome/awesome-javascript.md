@@ -268,6 +268,7 @@
       - The Definitive Guide to Commander.js — подробный гайд по созданию CLI на Node.js с Commander.js: shebang, ESM, options, commands/subcommands, аргументы и валидация, цветной вывод через Chalk и интерактивные prompts. https://betterstack.com/community/guides/scaling-nodejs/commander-explained/
   - Подборки
     - 23 полезнейших Node.js-библиотеки, о которых стоит знать в 2020 году — обзорный список пакетов для Node.js: Express, Socket.io, Passport, Multer, Axios, Morgan, Sequelize, Mongoose, Jest, Chalk, Helmet и другие. https://habr.com/ru/companies/ruvds/articles/516298/
+    - 16 NPM-пакетов, о которых должен знать каждый Node.js-разработчик — обзор базовых пакетов для Node.js-разработки: Express, Axios, Mongoose, Prisma, Socket.IO, Vite, Jest и современные альтернативы вроде Fastify, Fetch API и Vitest. https://habr.com/ru/companies/otus/articles/893908/
   - Остальное
     - Understanding memory leaks in Node.js apps https://blog.logrocket.com/understanding-memory-leaks-node-js-apps/
     - Memory Leaks Demystified https://nodesource.com/blog/memory-leaks-demystified
