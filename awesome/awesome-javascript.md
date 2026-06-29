@@ -341,6 +341,9 @@
     - Piscina - Basic Usage https://piscinajs.dev/getting-started/Basic%20Usage
   - Ramda
     - Streaming Logs with Transducers and Ramda https://simplectic.com/blog/2015/ramda-transducers-logs/
+  - Lodash
+    - Остальное
+      - Вам не нужен Lodash. Хватит! Пожалуйста — мнение о том, почему в современных JS/TS-проектах часто стоит заменять Lodash нативными методами, `structuredClone` и точечными легковесными библиотеками; разбирает проблемы подключения, tree-shaking, ESM и устаревших пакетов. https://habr.com/ru/articles/823484/
   - axios
     - Основное
       - Базовое REST API для отправки запросов на сервер с использованием Axios https://websecret.by/blog/razrabotka/bazovoe-rest-api-dlya-otpravki-zaprosov-na-server-s-ispolzovaniem-axios-or-blog-veb-sekret
