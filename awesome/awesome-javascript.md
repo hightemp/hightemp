@@ -227,6 +227,7 @@
   - CLI
     - Commanderjs
       - Writing Command Line Scripts in Node.js — заметка о написании CLI-скриптов на Node.js: парсинг аргументов через `commander`/`minimist`, `require.main === module` для запуска файла как команды или импорта как модуля и синхронные API вроде `execSync`/`fs.*Sync`. https://sanori.github.io/2015/09/Writing-Command-Line-Scripts-in-Node-js/
+      - The Definitive Guide to Commander.js — подробный гайд по созданию CLI на Node.js с Commander.js: shebang, ESM, options, commands/subcommands, аргументы и валидация, цветной вывод через Chalk и интерактивные prompts. https://betterstack.com/community/guides/scaling-nodejs/commander-explained/
   - Остальное
     - Understanding memory leaks in Node.js apps https://blog.logrocket.com/understanding-memory-leaks-node-js-apps/
     - Memory Leaks Demystified https://nodesource.com/blog/memory-leaks-demystified
