@@ -222,6 +222,8 @@
     - Ментальная модель потоков в Node.js https://habr.com/ru/companies/timeweb/articles/854330/
   - ESM
     - Как использовать ESM в браузере и в Node.js https://webdevblog.ru/kak-ispolzovat-esm-v-brauzere-i-v-node-js/
+  - CommonJS
+    - What is `require.main === module` in Node.js means? — короткая заметка о проверке, запущен ли CommonJS-файл напрямую или импортирован как модуль; полезно для серверов, CLI и тестов, где не нужно автоматически стартовать приложение при `require()`. https://medium.com/@pyaesone/what-is-require-main-module-in-node-js-means-61b0ddca1a0d
   - Остальное
     - Understanding memory leaks in Node.js apps https://blog.logrocket.com/understanding-memory-leaks-node-js-apps/
     - Memory Leaks Demystified https://nodesource.com/blog/memory-leaks-demystified
