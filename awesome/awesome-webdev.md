@@ -36,7 +36,7 @@
 ### Сайты песочницы 
 
 - js, html, css
-   - https://stackblitz.com/edit/af-react-sandbox?file=index.js
+   - StackBlitz - браузерная full-stack песочница и dev environment для веб-приложений; запускает Node.js-окружение в браузере через WebContainers. https://stackblitz.com/
    - https://codesandbox.io/p/sandbox/react-new
    - https://codepen.io/
    - https://playcode.io/
