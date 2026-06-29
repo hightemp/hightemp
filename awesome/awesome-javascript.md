@@ -17,6 +17,8 @@
   - express-validator — middleware для Express.js поверх `validator.js`: валидирует и санитизирует данные запроса, подходит для проверки `body`, `query`, `params`, cookies и headers в Node.js API. https://github.com/express-validator/express-validator
 - ORM
   - Prisma ORM — это современная ORM-система для Node.js и TypeScript, включающая в себя клиент для построения запросов, систему миграций и визуальный редактор данных, позволяющая работать с различными базами данных и расширяемая дополнительными инструментами для кэширования, мониторинга и оптимизации запросов.  https://www.prisma.io/ https://github.com/prisma/prisma
+- CLI
+  - Commander.js — библиотека для создания CLI-приложений на Node.js: парсинг опций и аргументов, команды и подкоманды, автоматическая справка, hooks, TypeScript-типы и поддержка CommonJS/ESM. https://github.com/tj/commander.js/
 - markdown
   - https://www.npmjs.com/package/marked
 - query string, Параметры URL
