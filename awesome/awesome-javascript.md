@@ -35,10 +35,42 @@
 
 ### Репозитории
 
-- Modernizr - это JavaScript-библиотека, определяющая поддержку HTML5 и CSS3 функций в браузере пользователя, упакованная с множеством особенностей, таких как создание конфигураций из командной строки через NPM, поддержка интеграционных и модульных тестов, а также доступная документация, чтобы помочь обычному пользователю в разработке веб-проектов с учетом кроссбраузерного рендеринга. https://github.com/Modernizr/Modernizr
-- FingerprintJS - это клиентская библиотека с открытым исходным кодом для браузерного фингерпринтинга, которая собирает атрибуты браузера и вычисляет хешированный идентификатор посетителя, сохраняющийся даже в режиме инкогнито и при очистке данных браузера. https://github.com/fingerprintjs/fingerprintjs
-- Проект SWC - это высокопроизводительная Rust-платформа для веб-разработки с открытым исходным кодом, которая включает в себя компилятор и сборщик JavaScript/TypeScript с современными возможностями, поддерживаемыми основными браузерами, и в 20-70 раз быстрее Babel. https://github.com/swc-project/swc https://swc.rs/
-- Shiki - высокопроизводительный синтаксический подсветчик на базе грамматики TextMate, обеспечивающий точное и удобочитаемое выделение синтаксиса в коде (https://github.com/shikijs/shiki)
+- Браузер и клиентские возможности
+  - Modernizr - это JavaScript-библиотека, определяющая поддержку HTML5 и CSS3 функций в браузере пользователя, упакованная с множеством особенностей, таких как создание конфигураций из командной строки через NPM, поддержка интеграционных и модульных тестов, а также доступная документация, чтобы помочь обычному пользователю в разработке веб-проектов с учетом кроссбраузерного рендеринга. https://github.com/Modernizr/Modernizr
+  - FingerprintJS - это клиентская библиотека с открытым исходным кодом для браузерного фингерпринтинга, которая собирает атрибуты браузера и вычисляет хешированный идентификатор посетителя, сохраняющийся даже в режиме инкогнито и при очистке данных браузера. https://github.com/fingerprintjs/fingerprintjs
+- Сборка, компиляция и подсветка кода
+  - Проект SWC - это высокопроизводительная Rust-платформа для веб-разработки с открытым исходным кодом, которая включает в себя компилятор и сборщик JavaScript/TypeScript с современными возможностями, поддерживаемыми основными браузерами, и в 20-70 раз быстрее Babel. https://github.com/swc-project/swc https://swc.rs/
+  - Shiki - высокопроизводительный синтаксический подсветчик на базе грамматики TextMate, обеспечивающий точное и удобочитаемое выделение синтаксиса в коде (https://github.com/shikijs/shiki)
+- Node.js: сервер и middleware
+  - Express - минималистичный веб-фреймворк для Node.js HTTP API и серверных приложений. https://github.com/expressjs/express
+  - body-parser - middleware для Express/Connect, разбирающий JSON, URL-encoded, raw и text тела запросов в Node.js API. https://github.com/expressjs/body-parser
+  - cors - Express/Connect middleware для настройки CORS-заголовков. https://github.com/expressjs/cors
+  - Multer - middleware для обработки `multipart/form-data` и загрузки файлов в Express/Node.js. https://github.com/expressjs/multer
+  - Morgan - HTTP request logger middleware для Node.js/Express. https://github.com/expressjs/morgan
+  - http-errors - утилита для создания HTTP error objects с `status`, `statusCode`, `headers` и `expose`-логикой. https://github.com/jshttp/http-errors
+- Node.js: realtime и HTTP
+  - Socket.IO - библиотека для двустороннего обмена данными в реальном времени между Node.js-сервером и клиентами поверх WebSocket и fallback-транспортов. https://github.com/socketio/socket.io
+  - Axios - promise-based HTTP-клиент для браузера и Node.js с interceptors, cancellation, transforms и адаптерами. https://github.com/axios/axios
+- Аутентификация и безопасность
+  - Passport - middleware для аутентификации в Node.js с подключаемыми стратегиями для local auth, OAuth, OpenID Connect и других сценариев. https://github.com/jaredhanson/passport
+  - Helmet - Express middleware, настраивающий security HTTP headers. https://github.com/helmetjs/helmet
+- Конфигурация и окружение
+  - dotenv - загрузка переменных окружения из `.env` в `process.env` для Node.js-приложений. https://github.com/motdotla/dotenv
+- Данные, ORM и базы данных
+  - Faker (`@faker-js/faker`) - поддерживаемая версия Faker для генерации тестовых данных: имена, адреса, даты, тексты, commerce и др. https://github.com/faker-js/faker
+  - Sequelize - promise-based ORM для Node.js с поддержкой PostgreSQL, MySQL, MariaDB, SQLite, Microsoft SQL Server и других SQL-баз. https://github.com/sequelize/sequelize
+  - Mongoose - ODM для MongoDB и Node.js со схемами, validation, middleware, queries и model API. https://github.com/Automattic/mongoose
+- Почта
+  - Nodemailer - модуль для отправки email из Node.js через SMTP и transport-плагины. https://github.com/nodemailer/nodemailer
+- Тестирование
+  - Jest - JavaScript testing framework с test runner, assertions, mocking, snapshots и coverage. https://github.com/jestjs/jest
+- Утилиты, валидация и парсинг
+  - Lodash - utility-библиотека для работы с коллекциями, объектами, функциями, строками и другими типами данных. https://github.com/lodash/lodash
+  - Chalk - terminal string styling для Node.js: ANSI colors/styles без ручного управления escape codes. https://github.com/chalk/chalk
+  - validator.js - библиотека валидаторов и санитайзеров строк для email, URL, UUID, IP и других распространенных форматов. https://github.com/validatorjs/validator.js
+  - Cheerio - быстрый jQuery-like HTML/XML parser и API для манипуляции разметкой в Node.js. https://github.com/cheeriojs/cheerio
+- Документация
+  - JSDoc - генератор документации для JavaScript на основе JSDoc-комментариев. https://github.com/jsdoc/jsdoc
 
 ### Архитектура
 
