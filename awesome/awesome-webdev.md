@@ -621,6 +621,7 @@
 - https://clement-jean.github.io/
 - https://yifan-online.com/en/km
 - https://sajadtorkamani.com/posts/
+- Coffee-web.ru - блог о веб-разработке, web scraping и заказной разработке. https://coffee-web.ru/
 - Elevate Addy Osmani's newsletter on elevating your effectiveness. Join his community of 600,000 readers across social media. https://addyo.substack.com/
 - https://refactoring.fm/
 
