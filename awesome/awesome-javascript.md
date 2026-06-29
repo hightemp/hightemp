@@ -56,18 +56,22 @@
   - Helmet - Express middleware, настраивающий security HTTP headers. https://github.com/helmetjs/helmet
 - Конфигурация и окружение
   - dotenv - загрузка переменных окружения из `.env` в `process.env` для Node.js-приложений. https://github.com/motdotla/dotenv
-- Данные, ORM и базы данных
+- Генерация тестовых данных
   - Faker (`@faker-js/faker`) - поддерживаемая версия Faker для генерации тестовых данных: имена, адреса, даты, тексты, commerce и др. https://github.com/faker-js/faker
+- ORM и базы данных
   - Sequelize - promise-based ORM для Node.js с поддержкой PostgreSQL, MySQL, MariaDB, SQLite, Microsoft SQL Server и других SQL-баз. https://github.com/sequelize/sequelize
   - Mongoose - ODM для MongoDB и Node.js со схемами, validation, middleware, queries и model API. https://github.com/Automattic/mongoose
 - Почта
   - Nodemailer - модуль для отправки email из Node.js через SMTP и transport-плагины. https://github.com/nodemailer/nodemailer
 - Тестирование
   - Jest - JavaScript testing framework с test runner, assertions, mocking, snapshots и coverage. https://github.com/jestjs/jest
-- Утилиты, валидация и парсинг
+- Утилиты общего назначения
   - Lodash - utility-библиотека для работы с коллекциями, объектами, функциями, строками и другими типами данных. https://github.com/lodash/lodash
+- Терминал
   - Chalk - terminal string styling для Node.js: ANSI colors/styles без ручного управления escape codes. https://github.com/chalk/chalk
+- Валидация данных
   - validator.js - библиотека валидаторов и санитайзеров строк для email, URL, UUID, IP и других распространенных форматов. https://github.com/validatorjs/validator.js
+- HTML/XML-парсинг
   - Cheerio - быстрый jQuery-like HTML/XML parser и API для манипуляции разметкой в Node.js. https://github.com/cheeriojs/cheerio
 - Документация
   - JSDoc - генератор документации для JavaScript на основе JSDoc-комментариев. https://github.com/jsdoc/jsdoc
