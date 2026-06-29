@@ -224,6 +224,9 @@
     - Как использовать ESM в браузере и в Node.js https://webdevblog.ru/kak-ispolzovat-esm-v-brauzere-i-v-node-js/
   - CommonJS
     - What is `require.main === module` in Node.js means? — короткая заметка о проверке, запущен ли CommonJS-файл напрямую или импортирован как модуль; полезно для серверов, CLI и тестов, где не нужно автоматически стартовать приложение при `require()`. https://medium.com/@pyaesone/what-is-require-main-module-in-node-js-means-61b0ddca1a0d
+  - CLI
+    - Commanderjs
+      - Writing Command Line Scripts in Node.js — заметка о написании CLI-скриптов на Node.js: парсинг аргументов через `commander`/`minimist`, `require.main === module` для запуска файла как команды или импорта как модуля и синхронные API вроде `execSync`/`fs.*Sync`. https://sanori.github.io/2015/09/Writing-Command-Line-Scripts-in-Node-js/
   - Остальное
     - Understanding memory leaks in Node.js apps https://blog.logrocket.com/understanding-memory-leaks-node-js-apps/
     - Memory Leaks Demystified https://nodesource.com/blog/memory-leaks-demystified
