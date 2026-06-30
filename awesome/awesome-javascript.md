@@ -280,6 +280,8 @@
 - Express; expressjs
   - Пример проекта
     - How to set up TypeScript with Node.js and Express https://blog.logrocket.com/express-typescript-node/
+  - Обработка ошибок
+    - Async & Error Handling Best Practices — практический гайд по обработке ошибок в Express: `async/await`, `asyncHandler` для Express 4, custom error classes, centralized error middleware и process-level errors. https://www.devcraftly.com/express/best-practices-async-error-handling/
   - Остальное
     - Создание REST API с помощью TypeScript и Express https://ru.sharpcoderblog.com/blog/building-a-rest-api-with-typescript-and-express
     - Как настроить проект Node.js с TypeScript и Express https://blog.openreplay.com/ru/настроить-nodejs-typescript-express/
