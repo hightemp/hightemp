@@ -1,4 +1,8 @@
 
+### Репозитории
+
+- Every Code — community-driven fork OpenAI Codex CLI для терминала: добавляет Auto Drive, Auto Review, browser/CDP integration, multi-agent команды `/plan`, `/solve`, `/code`, темы, MCP, sandbox/approval modes и оркестрацию Claude Code, Gemini CLI, Qwen Code, Antigravity CLI и OpenAI-compatible провайдеров. https://github.com/just-every/code
+
 ### Скилы
 
 - justdoit — standalone Codex skill, который превращает сырую задачу в execution pack: сначала сканирует проект, затем создаёт `plans.md`, `status.md` и `test-plan.md`, держит шаги dependency-safe и validation-first, формулирует предложение по исполнению человеческим языком и ждёт подтверждения перед переходом в execution mode. Устанавливается через `$skill-installer` из `skills/justdoit` или копированием в `~/.codex/skills/`. https://github.com/serejaris/justdoit
