@@ -284,6 +284,7 @@
     - Project Structure Best Practices — практический гайд по структуре Express-приложения: разделение на routes/controllers/services/repositories, отдельные `app.js` и `server.js`, централизованный config и mounting routers через агрегатор маршрутов. https://www.devcraftly.com/express/best-practices-project-structure/
   - Обработка ошибок
     - Async & Error Handling Best Practices — практический гайд по обработке ошибок в Express: `async/await`, `asyncHandler` для Express 4, custom error classes, centralized error middleware и process-level errors. https://www.devcraftly.com/express/best-practices-async-error-handling/
+    - Обработка ошибок в Express — перевод статьи Zell Liew о синхронных и асинхронных ошибках в Express, собственном error middleware, `http-errors`, 404, `ERR_HTTP_HEADERS_SENT` и обработке ошибок при потоковой передаче данных. https://habr.com/ru/companies/ruvds/articles/476290/
   - Остальное
     - Создание REST API с помощью TypeScript и Express https://ru.sharpcoderblog.com/blog/building-a-rest-api-with-typescript-and-express
     - Как настроить проект Node.js с TypeScript и Express https://blog.openreplay.com/ru/настроить-nodejs-typescript-express/
