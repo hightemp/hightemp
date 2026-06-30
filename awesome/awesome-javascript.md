@@ -43,6 +43,7 @@
   - Shiki - высокопроизводительный синтаксический подсветчик на базе грамматики TextMate, обеспечивающий точное и удобочитаемое выделение синтаксиса в коде (https://github.com/shikijs/shiki)
 - Node.js: сервер и middleware
   - Express - минималистичный веб-фреймворк для Node.js HTTP API и серверных приложений. https://github.com/expressjs/express
+  - express-async-errors - небольшой patch для Express 4, который пробрасывает исключения из `async/await` route handlers в error middleware без ручного `next(err)`. https://github.com/davidbanham/express-async-errors
   - body-parser - middleware для Express/Connect, разбирающий JSON, URL-encoded, raw и text тела запросов в Node.js API. https://github.com/expressjs/body-parser
   - cors - Express/Connect middleware для настройки CORS-заголовков. https://github.com/expressjs/cors
   - Multer - middleware для обработки `multipart/form-data` и загрузки файлов в Express/Node.js. https://github.com/expressjs/multer
