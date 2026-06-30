@@ -280,6 +280,8 @@
 - Express; expressjs
   - Пример проекта
     - How to set up TypeScript with Node.js and Express https://blog.logrocket.com/express-typescript-node/
+  - Структура проекта
+    - Project Structure Best Practices — практический гайд по структуре Express-приложения: разделение на routes/controllers/services/repositories, отдельные `app.js` и `server.js`, централизованный config и mounting routers через агрегатор маршрутов. https://www.devcraftly.com/express/best-practices-project-structure/
   - Обработка ошибок
     - Async & Error Handling Best Practices — практический гайд по обработке ошибок в Express: `async/await`, `asyncHandler` для Express 4, custom error classes, centralized error middleware и process-level errors. https://www.devcraftly.com/express/best-practices-async-error-handling/
   - Остальное
