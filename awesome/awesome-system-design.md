@@ -85,6 +85,7 @@
     - Заметки об основах программной архитектуры https://habr.com/ru/companies/piter/articles/748094/
 - Архитектурные решения; ADR
     - Architectural Decision Records — хаб по ADR: практики, шаблоны и инструменты для фиксации архитектурных решений и их последствий. https://adr.github.io/
+    - Architecture Decision Record — статья Мартина Фаулера о формате ADR: короткая запись одного архитектурного решения, контекст, последствия, статусы, хранение рядом с кодом и superseding вместо переписывания принятого решения. https://martinfowler.com/bliki/ArchitectureDecisionRecord.html
 - Роадмэпы, Roadmap
     - Complete Roadmap to Learn System Design for Beginners https://www.geeksforgeeks.org/complete-roadmap-to-learn-system-design/
 - PACELC Theorem
