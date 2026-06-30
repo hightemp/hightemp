@@ -10,13 +10,10 @@
 ### Библиотеки
 
 - Логирование
-  - pino — высокопроизводительный JavaScript-логгер с минимальными накладными расходами для Node.js и совместимых сред выполнения, поддерживающий форматирование JSON, дочерние логгеры, транспорты данных и интеграцию с популярными веб-фреймворками. https://github.com/pinojs/pino
   - Winston — универсальная библиотека логирования для Node.js с поддержкой множественных транспортов (способов хранения логов), гибкой настройкой уровней логирования и форматов, обеспечивающая разделение компонентов процесса логирования для максимальной расширяемости и гибкости. https://github.com/winstonjs/winston
 - Валидация данных
   - ArkType - это библиотека для проверки данных во время выполнения, которая создает оптимизированные валидаторы из привычного, типобезопасного синтаксиса, полезная для проверки внешних данных, таких как JSON-пейлоуды или отправленные формы, на границах вашего кода. https://github.com/arktypeio/arktype
   - express-validator — middleware для Express.js поверх `validator.js`: валидирует и санитизирует данные запроса, подходит для проверки `body`, `query`, `params`, cookies и headers в Node.js API. https://github.com/express-validator/express-validator
-- ORM
-  - Prisma ORM — это современная ORM-система для Node.js и TypeScript, включающая в себя клиент для построения запросов, систему миграций и визуальный редактор данных, позволяющая работать с различными базами данных и расширяемая дополнительными инструментами для кэширования, мониторинга и оптимизации запросов.  https://www.prisma.io/ https://github.com/prisma/prisma
 - CLI
   - Commander.js — библиотека для создания CLI-приложений на Node.js: парсинг опций и аргументов, команды и подкоманды, автоматическая справка, hooks, TypeScript-типы и поддержка CommonJS/ESM. https://github.com/tj/commander.js/
 - markdown
@@ -41,8 +38,10 @@
 - Сборка, компиляция и подсветка кода
   - Проект SWC - это высокопроизводительная Rust-платформа для веб-разработки с открытым исходным кодом, которая включает в себя компилятор и сборщик JavaScript/TypeScript с современными возможностями, поддерживаемыми основными браузерами, и в 20-70 раз быстрее Babel. https://github.com/swc-project/swc https://swc.rs/
   - Shiki - высокопроизводительный синтаксический подсветчик на базе грамматики TextMate, обеспечивающий точное и удобочитаемое выделение синтаксиса в коде (https://github.com/shikijs/shiki)
+  - Vite - быстрый frontend build tool и dev server на базе нативных ES-модулей, Rollup и esbuild, с HMR и поддержкой React, Vue, Svelte, TypeScript и других стеков. https://github.com/vitejs/vite
 - Node.js: сервер и middleware
   - Express - минималистичный веб-фреймворк для Node.js HTTP API и серверных приложений. https://github.com/expressjs/express
+  - Fastify - высокопроизводительный Node.js web framework с plugin-системой, schema-based validation/serialization и хорошей поддержкой TypeScript. https://github.com/fastify/fastify
   - express-async-errors - небольшой patch для Express 4, который пробрасывает исключения из `async/await` route handlers в error middleware без ручного `next(err)`. https://github.com/davidbanham/express-async-errors
   - body-parser - middleware для Express/Connect, разбирающий JSON, URL-encoded, raw и text тела запросов в Node.js API. https://github.com/expressjs/body-parser
   - cors - Express/Connect middleware для настройки CORS-заголовков. https://github.com/expressjs/cors
@@ -55,23 +54,32 @@
 - Аутентификация и безопасность
   - Passport - middleware для аутентификации в Node.js с подключаемыми стратегиями для local auth, OAuth, OpenID Connect и других сценариев. https://github.com/jaredhanson/passport
   - Helmet - Express middleware, настраивающий security HTTP headers. https://github.com/helmetjs/helmet
+  - jsonwebtoken - библиотека для подписи и проверки JSON Web Tokens в Node.js, используемая для stateless-аутентификации и передачи claims между сервисами. https://github.com/auth0/node-jsonwebtoken
+  - bcrypt.js - JavaScript-реализация bcrypt для хеширования и проверки паролей без native bindings. https://github.com/dcodeIO/bcrypt.js
 - Конфигурация и окружение
   - dotenv - загрузка переменных окружения из `.env` в `process.env` для Node.js-приложений. https://github.com/motdotla/dotenv
+- Логирование
+  - Pino - высокопроизводительный Node.js-логгер со структурированным JSON-выводом, низкими накладными расходами, transports и интеграциями с web-фреймворками. https://github.com/pinojs/pino
 - Генерация тестовых данных
   - Faker (`@faker-js/faker`) - поддерживаемая версия Faker для генерации тестовых данных: имена, адреса, даты, тексты, commerce и др. https://github.com/faker-js/faker
 - ORM и базы данных
+  - Prisma ORM - современная ORM для Node.js и TypeScript с декларативной схемой данных, типобезопасным клиентом, миграциями и поддержкой PostgreSQL, MySQL, SQLite, MongoDB и других баз. https://github.com/prisma/prisma
   - Sequelize - promise-based ORM для Node.js с поддержкой PostgreSQL, MySQL, MariaDB, SQLite, Microsoft SQL Server и других SQL-баз. https://github.com/sequelize/sequelize
   - Mongoose - ODM для MongoDB и Node.js со схемами, validation, middleware, queries и model API. https://github.com/Automattic/mongoose
 - Почта
   - Nodemailer - модуль для отправки email из Node.js через SMTP и transport-плагины. https://github.com/nodemailer/nodemailer
 - Тестирование
   - Jest - JavaScript testing framework с test runner, assertions, mocking, snapshots и coverage. https://github.com/jestjs/jest
+  - Vitest - быстрый Vite-native test framework с Jest-compatible API, ESM/TypeScript-first подходом, snapshots, mocking и browser/component testing. https://github.com/vitest-dev/vitest
 - Утилиты общего назначения
   - Lodash - utility-библиотека для работы с коллекциями, объектами, функциями, строками и другими типами данных. https://github.com/lodash/lodash
+- Дата и время
+  - Day.js - легковесная immutable-библиотека для работы с датами и временем с Moment-like API, plugin-системой, локализациями и поддержкой timezone-плагинов. https://github.com/iamkun/dayjs
 - Терминал
   - Chalk - terminal string styling для Node.js: ANSI colors/styles без ручного управления escape codes. https://github.com/chalk/chalk
 - Валидация данных
   - validator.js - библиотека валидаторов и санитайзеров строк для email, URL, UUID, IP и других распространенных форматов. https://github.com/validatorjs/validator.js
+  - Zod - TypeScript-first schema validation библиотека с выводом типов, `parse`/`safeParse`, трансформациями и zero-dependency runtime validation. https://github.com/colinhacks/zod
 - HTML/XML-парсинг
   - Cheerio - быстрый jQuery-like HTML/XML parser и API для манипуляции разметкой в Node.js. https://github.com/cheeriojs/cheerio
 - Документация
