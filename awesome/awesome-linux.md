@@ -140,6 +140,7 @@
 - https://darkcoding.net/tags/linux/
 - https://penkovski.com/
 - https://stegard.net/category/linux/
+- https://r4ven.me/posts/
 - https://linuxexplore.com/
 - https://www.linuxlinks.com/
 - https://adamdjellouli.com/articles/linux_notes
