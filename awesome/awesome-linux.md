@@ -139,6 +139,7 @@
 - https://idea.popcount.org/
 - https://darkcoding.net/tags/linux/
 - https://penkovski.com/
+- https://stegard.net/category/linux/
 - https://linuxexplore.com/
 - https://www.linuxlinks.com/
 - https://adamdjellouli.com/articles/linux_notes
