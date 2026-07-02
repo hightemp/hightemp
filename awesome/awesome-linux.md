@@ -475,6 +475,8 @@
     - ssh_config
         - How to Use The SSH Config File https://phoenixnap.com/kb/ssh-config
         - Drop-In (.d) Directories In Linux Explained: A Safer Way to Manage Config Files https://ostechnix.com/drop-in-d-directories-linux-configuration-explained/
+    - GUI-клиенты
+        - SSH Pilot - Современный менеджер SSH сессий для Linux — русскоязычный обзор GUI SSH-менеджера для Linux на Python/GTK: вкладки с SSH-сессиями, интеграция с `~/.ssh/config`, группы хостов, port forwarding, keyring для секретов, SFTP/SCP и установка через apt-репозиторий или GitHub releases. https://r4ven.me/software/ssh-pilot-sovremennyy-menedzher-ssh-sessiy-dlya-linux/
     - tunnels
         - A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding https://iximiuz.com/en/posts/ssh-tunnels/
         - SSH Local Port Forwarding https://penkovski.com/post/ssh-local-port-forwarding/
