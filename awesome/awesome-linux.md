@@ -389,6 +389,7 @@
             - How Linux Keeps Track of Time https://tldp.org/HOWTO/Clock-2.html
         - Планировщики задач (Job Scheduling)
             - crontab in Linux https://www.geeksforgeeks.org/linux-unix/crontab-in-linux-with-examples/
+            - Почему cron — самый опасный инструмент в Linux — практический разбор рисков cron: потерянные ошибки, отличия окружения от интерактивной shell, повторные запуски, локальное время, аудит подозрительных задач, права на cron-файлы и wrapper-скрипты с `flock`, логированием и exit codes. https://habr.com/ru/companies/ruvds/articles/1052508/
         - Логирование (Logging)
             - Общее (General)
                 - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/
