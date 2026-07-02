@@ -398,6 +398,8 @@
                 - Использование таймеров systemd вместо заданий cron — перевод статьи David Both о `systemd.timer`: существующие таймеры обслуживания системы, создание пары `.service`/`.timer`, расписания через `OnCalendar`, запуск, включение в автозагрузку и диагностика через `systemctl` и `journalctl`. https://habr.com/ru/companies/ruvds/articles/512868/
         - Блокировки; flock
             - Locking critical sections in shell scripts — практическая статья о защите критических секций в shell-скриптах через `flock(1)`: атомарные file locks, lock-файл как namespace, file descriptors, автоматическое освобождение lock при завершении процесса и защита singleton-daemon startup от race conditions. https://stegard.net/2022/05/locking-critical-sections-in-shell-scripts/
+            - Follow-Up: Bash script locking with flock — короткое дополнение про неблокирующее использование `flock -n` на file descriptor для singleton-запуска shell-скриптов; автор сравнивает подход с `mkdir`-lock и подчёркивает, что Linux `flock` проще и надёжнее, но не переносим в таком виде на все Unix/BSD. https://www.tobru.ch/follow-up-bash-script-locking-with-flock/
+            - Using Lock Files for Job Control in Bash Scripts — обзор lock files для shell-скриптов: простые lock-файлы с `trap`, использование `flock` на file descriptor, очередь задач, timeout через `-w`, быстрый отказ через `-n`, exclusive/shared locks и cleanup. https://www.putorius.net/lock-files-bash-scripts.html
         - Логирование (Logging)
             - Общее (General)
                 - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/
