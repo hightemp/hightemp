@@ -396,6 +396,8 @@
                 - systemd/Timers — русскоязычная страница ArchWiki по systemd-таймерам: `.timer`-юниты, monotonic и realtime timers, `OnCalendar`, `OnBootSec`, `OnUnitActiveSec`, `AccuracySec`, `Persistent`, пользовательские таймеры и примеры расписаний. https://wiki.archlinux.org/title/Systemd_(Русский)/Timers_(Русский)
                 - systemd-таймеры в Ubuntu: автоматизация задач без cron — практическая инструкция по созданию `.service` и `.timer`-юнитов в Ubuntu, включению таймеров, проверке через `systemctl list-timers` и просмотру логов. https://serverspace.ru/articles/systemd-tajmery-v-ubuntu-avtomatizacziya-zadach-bez-cron/
                 - Использование таймеров systemd вместо заданий cron — перевод статьи David Both о `systemd.timer`: существующие таймеры обслуживания системы, создание пары `.service`/`.timer`, расписания через `OnCalendar`, запуск, включение в автозагрузку и диагностика через `systemctl` и `journalctl`. https://habr.com/ru/companies/ruvds/articles/512868/
+        - Блокировки; flock
+            - Locking critical sections in shell scripts — практическая статья о защите критических секций в shell-скриптах через `flock(1)`: атомарные file locks, lock-файл как namespace, file descriptors, автоматическое освобождение lock при завершении процесса и защита singleton-daemon startup от race conditions. https://stegard.net/2022/05/locking-critical-sections-in-shell-scripts/
         - Логирование (Logging)
             - Общее (General)
                 - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/
