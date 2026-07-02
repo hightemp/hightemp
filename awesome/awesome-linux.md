@@ -395,6 +395,7 @@
                 - Что такое systemd timers и как заменить ими cron для планирования задач — вводный гайд по `systemd.timer`: пара `.service`/`.timer`, `OnCalendar`, `Persistent=true`, запуск через `systemctl enable --now`, просмотр активных таймеров и логов через `journalctl`. https://statuser.cloud/blog/chto-takoe-systemd-timers-i-kak-zamenit-imi-cron-dlya-planirovaniya-zadach
                 - systemd/Timers — русскоязычная страница ArchWiki по systemd-таймерам: `.timer`-юниты, monotonic и realtime timers, `OnCalendar`, `OnBootSec`, `OnUnitActiveSec`, `AccuracySec`, `Persistent`, пользовательские таймеры и примеры расписаний. https://wiki.archlinux.org/title/Systemd_(Русский)/Timers_(Русский)
                 - systemd-таймеры в Ubuntu: автоматизация задач без cron — практическая инструкция по созданию `.service` и `.timer`-юнитов в Ubuntu, включению таймеров, проверке через `systemctl list-timers` и просмотру логов. https://serverspace.ru/articles/systemd-tajmery-v-ubuntu-avtomatizacziya-zadach-bez-cron/
+                - Использование таймеров systemd вместо заданий cron — перевод статьи David Both о `systemd.timer`: существующие таймеры обслуживания системы, создание пары `.service`/`.timer`, расписания через `OnCalendar`, запуск, включение в автозагрузку и диагностика через `systemctl` и `journalctl`. https://habr.com/ru/companies/ruvds/articles/512868/
         - Логирование (Logging)
             - Общее (General)
                 - Linux Logging Basics https://www.loggly.com/ultimate-guide/linux-logging-basics/
