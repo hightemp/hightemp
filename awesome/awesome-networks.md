@@ -370,6 +370,7 @@ Norton
 
 - https://www.vanwerkhoven.org/blog/
 - https://pavel.su/
+- https://itdog.info/posts/
 - https://www.networkdefenseblog.com/
 
 ### Видео
