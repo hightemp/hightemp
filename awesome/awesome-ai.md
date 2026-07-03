@@ -368,6 +368,7 @@
 - https://runapi.co/
 - https://unity2.ai/
 - https://veilx.io/
+- LiteLLM — open-source AI Gateway / LLM hub для единого OpenAI-compatible доступа к 100+ LLM-провайдерам; можно self-hosted proxy server с routing, load balancing, virtual keys, rate limits, spend tracking, guardrails и logging. https://github.com/BerriAI/litellm https://docs.litellm.ai/
 
 ### AI аккаунты и подписки
 
