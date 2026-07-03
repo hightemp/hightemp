@@ -1860,7 +1860,7 @@
     - Кастомные memory pools в Golang https://habr.com/ru/companies/otus/articles/888554/
   - Остальное    
 - Распределенные системы
-  - Реализация Paxos на Go: создаем алгоритм консенсуса без готовых решений https://habr.com/ru/companies/otus/articles/869122/
+  - Реализация Paxos на Go: создаем алгоритм консенсуса без готовых решений — русскоязычный учебный разбор Paxos в Go: роли proposer, acceptor и learner, quorum, фазы Prepare/Accept/Learn, простая in-memory реализация с `sync.Mutex`, структура проекта и запуск демо через `go run main.go`. https://habr.com/ru/companies/otus/articles/869122/
 - Хранилища данных
   - Объектные хранилища
     - MinIO (s3)

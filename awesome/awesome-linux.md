@@ -547,6 +547,7 @@
     - etckeeper
         - Etckeeper: Git-история для /etc и быстрый аудит изменений конфигурации — инструкция по внедрению `etckeeper` для Git-контроля `/etc`: установка на Debian/Ubuntu и RHEL-like, интеграция с `apt`/`dnf`, настройка `/etc/etckeeper/etckeeper.conf`, ежедневные автокоммиты через cron или systemd timers, игноры для секретов и шумных файлов, аудит через `git log`/`git show`/`git diff` и точечный rollback конфигов. https://fastfox.pro/blog/tutorials/etckeeper-git-etc-audit/
         - Упрощаем администрирование с etckeeper. Настройка контроля версий конфигов в /etc — короткий практический туториал по `etckeeper` на Debian: установка с Git, первичный commit, автокоммиты после `apt`, просмотр истории через `git log`, сравнение изменений через `git log -p` и `git diff`, исключение шумных файлов через `git rm --cached` и `.gitignore`. https://admins.su/etckeeper-tutorial/
+        - Власть над конфигурацией. Etckeeper и Git — практическая статья по `etckeeper` на CentOS/RHEL-like: подключение EPEL, установка через `yum`, выбор Git в `/etc/etckeeper/etckeeper.conf`, daily и pre-install commits, `etckeeper vcs status`, ручная работа с `/etc/.git`, `git log`, `git diff`, `git reset --hard`, `git reflog` и точечный откат файла через `git checkout`. https://ivirt-it.ru/etckeeper-and-git/
 - getfattr, setfattr
 - setfacl, getfacl
 - setpriv
