@@ -544,6 +544,9 @@
     - auditd
         - auditd https://sematext.com/glossary/auditd/
         - Configure Linux system auditing with auditd https://www.redhat.com/en/blog/configure-linux-auditing-auditd
+    - etckeeper
+        - Etckeeper: Git-история для /etc и быстрый аудит изменений конфигурации — инструкция по внедрению `etckeeper` для Git-контроля `/etc`: установка на Debian/Ubuntu и RHEL-like, интеграция с `apt`/`dnf`, настройка `/etc/etckeeper/etckeeper.conf`, ежедневные автокоммиты через cron или systemd timers, игноры для секретов и шумных файлов, аудит через `git log`/`git show`/`git diff` и точечный rollback конфигов. https://fastfox.pro/blog/tutorials/etckeeper-git-etc-audit/
+        - Упрощаем администрирование с etckeeper. Настройка контроля версий конфигов в /etc — короткий практический туториал по `etckeeper` на Debian: установка с Git, первичный commit, автокоммиты после `apt`, просмотр истории через `git log`, сравнение изменений через `git log -p` и `git diff`, исключение шумных файлов через `git rm --cached` и `.gitignore`. https://admins.su/etckeeper-tutorial/
 - getfattr, setfattr
 - setfacl, getfacl
 - setpriv
