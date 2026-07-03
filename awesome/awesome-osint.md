@@ -89,6 +89,7 @@
 - [whoer.net/port-scanner-online](https://whoer.net/port-scanner-online) - проверка открытых портов.
 - [panopticlick.eff.org](https://panopticlick.eff.org) - проект от EFF для проверки трекинга.
 - [dnsleaktest.com](https://www.dnsleaktest.com) - показывает DNS.
+- [browserleaks.com/dns](https://browserleaks.com/dns) - DNS Leak Test от BrowserLeaks: показывает, какие DNS-серверы использует браузер, и помогает выявлять утечки DNS при VPN/proxy-настройках.
 - [2ip.io/ru/privacy](https://2ip.io/ru/privacy) - проверка анонимности.
 - [criminalip.io](https://www.criminalip.io/) - IP Scoring.
 - [themarkup.org/blacklight](https://themarkup.org/blacklight) - оценивает конфиденциальность при посещении сайта.
