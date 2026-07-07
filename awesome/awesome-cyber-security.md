@@ -4,6 +4,7 @@
 - https://github.com/enaqx/awesome-pentest
 - Hackfa.st — гигантская бесплатная база данных по хакерству и кибербезопасности, включающая разборы атак, инструкции по защите и инструменты пентеста. https://hackfa.st
 - https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection
+- Awesome Cybersecurity List — персональная подборка cybersecurity blog posts, write-ups и papers, разложенная по годам с 2011 по 2026 и отдельными разделами Misc/Other Lists; полезна для чтения разборов уязвимостей, exploit chains, reverse engineering, malware, kernel/browser/mobile/security research. https://github.com/0xor0ne/awesome-list
 - Hacking-Tools — каталог на GitHub с большой библиотекой инструментов кибербезопасности, сгруппированных по категориям (OSINT, сканирование уязвимостей, пентест, анализ сетей и трафика, форензика, стресс‑тесты, подбор паролей, анализ веба, реверс‑инжиниринг и социальная инженерия). https://github.com/yogsec/Hacking-Tools
 
 ### AI Инструменты для пентестинга
