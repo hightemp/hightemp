@@ -604,6 +604,10 @@
 - TranscribeMe – Профессиональный сервис для расшифровки аудио и видео, экспортирует в различные форматы — https://www.transcribeme.com
 - Deep Scribe – Специализируется на транскрибации бесед с пациентами для врачей, упрощает документацию — https://www.deepscribe.ai
 
+### Анализ аудио; Классификация звуков
+
+- cardiag — open-source proof-of-concept audio-ML pipeline для первичной triage-диагностики автомобиля по звуку: собирает fault-sound клипы с YouTube/TikTok, очищает запись до механического звука, строит CLAP-эмбеддинги и классифицирует их маленькими линейными heads; доступен как CLI и web app, возвращает fault/normal, вероятную зону автомобиля и ranked shortlist деталей, но не заменяет механика. https://github.com/adam-s/car-diagnosis
+
 ### Генерация аудио речи из текста; Cинтез речи; Генерация речи; Text to Speech; TTS
 
 - https://www.text-to-speech.online/
