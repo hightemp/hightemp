@@ -55,6 +55,7 @@
 ### Карьера; Job Search
 
 - Career-Ops — open-source система поиска работы на базе Claude Code: slash-команда `/career-ops` с 14 режимами для оценки вакансий, сканирования job boards и career pages, генерации ATS-оптимизированных PDF-резюме под конкретную вакансию, batch processing, заполнения анкет, подготовки к интервью и TUI-dashboard для трекинга pipeline. https://github.com/santifer/career-ops
+- AI Job Search — open-source фреймворк на Claude Code для поиска работы: `/setup` собирает профиль, `/scrape` ищет и ранжирует вакансии, `/apply` оценивает fit, генерирует LaTeX CV и сопроводительное письмо, запускает отдельного reviewer-агента, проверяет PDF/ATS и поддерживает добавление локальных job-порталов через `/add-portal`. https://github.com/MadsLorentzen/ai-job-search
 
 ### Skills; Скилы
 
