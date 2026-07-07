@@ -58,6 +58,7 @@
 - https://github.com/n0mi1k/certina - осинт  тулза для  Red Team
 - https://github.com/chm0dx/creepyCrawler - кроулер для  разведки (href, robots.txt, sitemap).
 - https://github.com/Moham3dRiahi/Th3inspector -   универсальный фреймворк для сбора информации.
+- Argus — Python-набор для information gathering/reconnaissance с интерактивной CLI: 135 модулей для DNS/WHOIS/IP, subdomain enumeration, web-проверок и интеграций Shodan, VirusTotal, Censys, SSL Labs; поддерживает Docker и экспорт результатов. https://github.com/jasonxtn/Argus
 - BigDomainData — специализированный сервис для анализа доменных имён, предоставляющий стандартные WHOIS-запросы, исторические данные о регистрации доменов и функцию обратного WHOIS-поиска для выявления всех доменов, зарегистрированных на определённый email-адрес или организацию. https://www.bigdomaindata.com/reverse-whois/ https://www.bigdomaindata.com/whois/bitcoin.org#history
 
 ### Мониторинг киберугроз
