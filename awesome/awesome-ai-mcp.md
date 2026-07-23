@@ -32,6 +32,7 @@
     - Browser MCP — инструмент для автоматизации браузера и рутинных действий через MCP. https://browsermcp.io/
     - Midscene MCP — MCP-сервис Midscene для автоматизации веб-интерфейсов и UI-взаимодействий. https://midscenejs.com/mcp
     - Chrome DevTools MCP — сервер для интеграции с Chrome DevTools Protocol и отладки веб-приложений. https://github.com/benjaminr/chrome-devtools-mcp
+    - Stealth Browser MCP — MCP-сервер для разрешённой браузерной автоматизации и тестирования поверх `nodriver`, Chrome DevTools Protocol и FastMCP: 20–97 инструментов для навигации, UI-взаимодействий, CDP-команд, network inspection/interception, dynamic hooks, cookie/storage management и CDP-точного клонирования элементов; работает с Claude Code, Claude Desktop, Cursor и другими MCP-клиентами. https://github.com/vibheksoni/stealth-browser-mcp
     - Computer Control MCP — управление мышью, клавиатурой, OCR и desktop automation через MCP. https://github.com/AB498/computer-control-mcp
     - Talk to Figma MCP — интеграция Cursor/Claude Code с Figma для чтения и изменения дизайна напрямую. https://github.com/grab/cursor-talk-to-figma-mcp
 - Память, код и контекст

@@ -58,6 +58,7 @@
 - https://github.com/n0mi1k/certina - осинт  тулза для  Red Team
 - https://github.com/chm0dx/creepyCrawler - кроулер для  разведки (href, robots.txt, sitemap).
 - https://github.com/Moham3dRiahi/Th3inspector -   универсальный фреймворк для сбора информации.
+- Argus — Python-набор для information gathering/reconnaissance с интерактивной CLI: 135 модулей для DNS/WHOIS/IP, subdomain enumeration, web-проверок и интеграций Shodan, VirusTotal, Censys, SSL Labs; поддерживает Docker и экспорт результатов. https://github.com/jasonxtn/Argus
 - BigDomainData — специализированный сервис для анализа доменных имён, предоставляющий стандартные WHOIS-запросы, исторические данные о регистрации доменов и функцию обратного WHOIS-поиска для выявления всех доменов, зарегистрированных на определённый email-адрес или организацию. https://www.bigdomaindata.com/reverse-whois/ https://www.bigdomaindata.com/whois/bitcoin.org#history
 
 ### Мониторинг киберугроз
@@ -185,6 +186,7 @@
 ### Поиск цифрового следа
 
 - мультифункциональный инструмент, позволяющий быстро и эффективно отслеживать цифровой след целевого пользователя посредством автоматического сканирования и сбора данных со множества онлайн-ресурсов. https://github.com/ibnaleem/gosearch
+- Aliens Eye — AI-OSINT CLI для поиска username по 840+ соцсетям и платформам: использует ML+эвристики вместо простых status-code проверок, извлекает display name/bio/avatar, умеет коррелировать профили, рекурсивно находить связанные никнеймы, работать через proxy/Tor и экспортировать отчёты в JSON, CSV, HTML, Markdown, PDF и graph-форматы. https://github.com/arxhr007/Aliens_eye
 - IPED — мощный open-source инструмент для цифровой криминалистики, разработанный экспертами Федеральной полиции Бразилии, позволяющий обрабатывать и анализировать цифровые доказательства с поддержкой множества форматов образов дисков и глубоким анализом данных. https://github.com/sepinf-inc/IPED
 - PizzINT Watch — панель мониторинга в реальном времени для отслеживания популярности пиццерий в районе Пентагона, основанная на теории о корреляции между заказами пиццы и военной активностью. https://www.pizzint.watch
 - HaveIBeenPwned (https://haveibeenpwned.com/) — проверка email-адреса или пароля на наличие в известных утечках данных.
