@@ -246,6 +246,7 @@ Norton
 - VPN
     - Клиенты
         - https://github.com/Happ-proxy/happ-desktop
+        - Обход блокировок на OpenWRT с помощью Sing-box (VLESS, VMess, Trojan, Shadowsocks) https://web.archive.org/web/20230822134159/https://habr.com/ru/articles/756178/
     - Relay; Реллейные серверы
         - Tutorial for setting up Dokodemo-Door tunnel as relay server https://hiddify.com/manager/domain-worker-cdn-and-tunneling/Tutorial-for-setting-up-Dokodemo-Door-tunnel-as-relay-server/
     - Правила маршрутизации; rule sets
