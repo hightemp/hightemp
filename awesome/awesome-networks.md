@@ -235,6 +235,8 @@ Norton
     - Эмулятор UNetLab — революционный прыжок https://habr.com/ru/articles/262027/
 - QUIC
     - Протокол QUIC в деле: как его внедрял Uber, чтобы оптимизировать производительность https://habr.com/ru/companies/Voximplant/articles/463073/
+- MASQUE
+    - Proxying UDP in HTTP — Internet-Draft `draft-ietf-masque-connect-udp-15`, описывающий CONNECT-UDP для туннелирования UDP через HTTP-прокси. https://www.ietf.org/archive/id/draft-ietf-masque-connect-udp-15.html
 - SSH
     - SOCKS Proxy Over SSH https://hjr265.me/blog/socks-proxy-over-ssh/
 - DMZ
