@@ -257,6 +257,12 @@ Norton
         - OpenConnect: недетектируемый VPN, который вам понравится https://habr.com/ru/articles/776256/
     - Shadowsocks
         - Как поднять прокси-сервер с технологией Shadowsocks2022 с помощью Docker — практическая инструкция по запуску `sing-box` в Docker через `docker-compose.yml`: установка Docker, генерация пароля, настройка `SERVER`/`PORT`/`METHOD`, запуск `docker compose up -d`, получение client config и QR через `docker exec sing-box show`, мультиаккаунтинг через `config/config.json` и перезапуск контейнера при изменении пользователей. https://itdog.info/kak-podnyat-proksi-server-s-tekhnologiej-shadowsocks2022-s-pomoshchyu-docker-sozdayom-neskolko-akkauntov-upravlyaem-vsem-cherez-komandnuyu-stroku/
+    - Trojan
+    - VMess
+    - SOCKS
+    - ShadowTLS
+    - Hysteria
+    - NaiveProxy
     - IPIP
     - GRE
         - Настройка туннелей GRE и IPIP в Debian и Ubuntu https://interface31.ru/tech_it/2021/09/nastroyka-tunneley-gre-i-ipip-v-debian-i-ubuntu.html
@@ -274,7 +280,6 @@ Norton
             - VLESS-TCP-TLS-WS (Recommended) https://deepwiki.com/v2fly/v2ray-examples/3.1.1-vless-tcp-tls-ws-(recommended)
         - XHTTP
             - Кратко про XHTTP для VLESS: что, зачем и как https://habr.com/ru/articles/913324/
-    - NaiveProxy
     - DMVPN
     - SSTP
         - Как устроен VPN через SSTP https://habr.com/ru/articles/196134/
