@@ -11,5 +11,7 @@
 
 - Основное
     - Как устроен Codex https://habr.com/ru/companies/ods/articles/1001012/
+- Мультиагентная оркестрация
+    - Multi-Agent Orchestration With Codex — практическое руководство по уровням оркестрации Codex: subagents внутри сессии, custom agents, batch fan-out, параллельные запуски через Git worktrees и `codex exec`, а также always-on workflow с Symphony; включает готовый сценарий параллельного ревью и веб-исследования через MCP. https://www.firecrawl.dev/blog/codex-multi-agent-orchestration
 - Планирование долгих задач
     - Using PLANS.md for multi-hour problem solving — официальный гайд OpenAI Cookbook по `PLANS.md`/ExecPlans для многочасовых задач в Codex: как через `AGENTS.md` задать living plan, self-contained milestones, decision log, progress и проверяемые acceptance criteria. https://developers.openai.com/cookbook/articles/codex_exec_plans
