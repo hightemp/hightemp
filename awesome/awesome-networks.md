@@ -24,9 +24,13 @@
 
 ### Репозитории
 
-- Этот проект представляет собой инструмент на Python 3.8.10, который позволяет извлекать домены из диапазона IP-адресов, используя исторические данные из VirusTotal (с помощью API-ключа), поддерживает входной файл и выходной CSV-файл, и может быть полезен для извлечения субдоменов в программах по поиску ошибок. https://github.com/jevalenciap/iptodomain
-- WireGuard Easy — веб-приложение "всё-в-одном" для простой установки и управления VPN-сервером WireGuard на любом Linux-хосте с графическим интерфейсом для создания, редактирования и мониторинга клиентов, включая генерацию QR-кодов и статистику подключений. https://github.com/wg-easy/wg-easy
-- Karadul — self-hosted mesh VPN на Go в одном бинарнике без внешних зависимостей: WireGuard-compatible протокол, coordination server, node, DERP relay, NAT traversal через STUN/hole punching, MagicDNS, ACL, exit nodes и встроенный Web UI для мониторинга топологии, узлов, peers и настроек. Позиционируется как «Tailscale + Headscale в одном бинарнике», без SaaS-control-plane. https://github.com/karadul/karadul
+- Сетевая разведка
+    - Этот проект представляет собой инструмент на Python 3.8.10, который позволяет извлекать домены из диапазона IP-адресов, используя исторические данные из VirusTotal (с помощью API-ключа), поддерживает входной файл и выходной CSV-файл, и может быть полезен для извлечения субдоменов в программах по поиску ошибок. https://github.com/jevalenciap/iptodomain
+- VPN
+    - WireGuard Easy — веб-приложение "всё-в-одном" для простой установки и управления VPN-сервером WireGuard на любом Linux-хосте с графическим интерфейсом для создания, редактирования и мониторинга клиентов, включая генерацию QR-кодов и статистику подключений. https://github.com/wg-easy/wg-easy
+    - Karadul — self-hosted mesh VPN на Go в одном бинарнике без внешних зависимостей: WireGuard-compatible протокол, coordination server, node, DERP relay, NAT traversal через STUN/hole punching, MagicDNS, ACL, exit nodes и встроенный Web UI для мониторинга топологии, узлов, peers и настроек. Позиционируется как «Tailscale + Headscale в одном бинарнике», без SaaS-control-plane. https://github.com/karadul/karadul
+- Прокси и обход блокировок
+    - sing-box-lx — тонкий downstream-форк `sing-box` с клиентскими XHTTP, AmneziaWG 2.0 и MASQUE, расширениями CommandClient и round-robin-балансировкой; дополнительные возможности изолированы build-тегами, а изменения регулярно ребейзятся на upstream-теги. https://github.com/Leadaxe/sing-box-lx
 
 ### DNS; SmartDNS
 
@@ -244,6 +248,8 @@ Norton
         - https://github.com/Happ-proxy/happ-desktop
     - Relay; Реллейные серверы
         - Tutorial for setting up Dokodemo-Door tunnel as relay server https://hiddify.com/manager/domain-worker-cdn-and-tunneling/Tutorial-for-setting-up-Dokodemo-Door-tunnel-as-relay-server/
+    - Правила маршрутизации; rule sets
+        - MetaCubeX/meta-rules-dat — набор rule-set/GeoIP/GeoSite данных для `mihomo`/Clash.Meta и `sing-box`: `country.mmdb`, `geoip.dat/db/metadb`, `geosite.dat/db`, lite-варианты, MRS bundle и готовые rule-providers для маршрутизации доменов/IP по категориям вроде `cn`, `telegram`, `netflix`, `openai`, `youtube`, `proxy` и `geolocation-!cn`. https://github.com/MetaCubeX/meta-rules-dat
     - OpenVPN
     - WireGuard
     - OpenConnect
