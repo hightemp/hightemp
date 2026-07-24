@@ -179,6 +179,8 @@
   - static; Спецификатор класса хранения
     - Пока смерть не разлучит нас, или всё о `static` в C++ https://habr.com/ru/articles/527044/
     - Статические члены класса https://metanit.com/cpp/tutorial/5.7.php
+  - thread_local; Локальное хранение потока
+    - `thread_local` Storage in C++11 https://www.geeksforgeeks.org/cpp/thread_local-storage-in-cpp-11/
   - Литералы; ""_suffix
     - Пользовательские литералы в C++11 https://habr.com/ru/articles/140357/
   - union; Объединения
