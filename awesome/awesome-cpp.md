@@ -274,6 +274,8 @@
     - Мьютексы, Mutexes
       - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
       - Mutex in C++: the story so far – Part 2 https://curiouslyrecurringthoughts.home.blog/2019/07/21/mutex-in-c-the-story-so-far-part-2/
+    - ABA-проблема
+      - Understanding and Effectively Preventing the ABA Problem in Descriptor-based Lock-free Designs — исследование ложноположительного CAS после изменения A→B→A и способов предотвращения ABA в descriptor-based lock-free структурах. (PDF) https://www.stroustrup.com/isorc2010.pdf
     - Остальное
       - Multithreading in C++: Memory Ordering https://www.ramtintjb.com/blog/memory-ordering
   - Исключения, Exceptions
