@@ -49,6 +49,16 @@ Prefer this order when choosing where to place an entry:
 
 Do not create a new `awesome/*.md` file unless the user explicitly asks for it or the repository already implies that missing topic should exist.
 
+## Tree Structure Rule
+
+Keep every sibling level structurally uniform:
+
+- Never mix leaf entries and category branches under the same parent.
+- If a parent has child categories, place all direct entries into the narrowest fitting child category.
+- Use `Основное` only for foundational or introductory material about the parent topic. Never use it as a generic catch-all.
+- Use `Остальное` for material that belongs to the parent topic but does not fit any specific child category.
+- Treat an empty category heading as a branch, not as a leaf.
+
 ## Series and Index Rule
 
 Some links are not standalone articles but index pages to a useful series.
@@ -119,4 +129,6 @@ After editing:
 
 1. verify the new entry appears in the intended section
 2. verify the repository does not now contain a duplicate of the same item
-3. inspect `git diff` for unintended changes nearby
+3. verify no changed parent mixes leaf entries and category branches at the same level
+4. verify `Основное` contains only foundational material and uncategorized non-foundational entries are in `Остальное`
+5. inspect `git diff` for unintended changes nearby
