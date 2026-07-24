@@ -176,8 +176,9 @@
       - Строковые и символьные литералы (C++) https://learn.microsoft.com/ru-ru/cpp/cpp/string-and-character-literals-cpp?view=msvc-170
       - Creating C++ Literals with Prefixes and Suffixes https://www.dummies.com/article/technology/programming-web-design/cplusplus/creating-c-literals-with-prefixes-and-suffixes-147634/
       - Литералы http://mycpp.ru/cpp/book/c03_1.html
-  - static
+  - static; Спецификатор класса хранения
     - Пока смерть не разлучит нас, или всё о `static` в C++ https://habr.com/ru/articles/527044/
+    - Статические члены класса https://metanit.com/cpp/tutorial/5.7.php
   - Литералы; ""_suffix
     - Пользовательские литералы в C++11 https://habr.com/ru/articles/140357/
   - union; Объединения
