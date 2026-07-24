@@ -179,11 +179,6 @@
   - static; Спецификатор класса хранения
     - Пока смерть не разлучит нас, или всё о `static` в C++ https://habr.com/ru/articles/527044/
     - Статические члены класса https://metanit.com/cpp/tutorial/5.7.php
-  - thread_local; Локальное хранение потока
-    - `thread_local` Storage in C++11 https://www.geeksforgeeks.org/cpp/thread_local-storage-in-cpp-11/
-    - `thread_local` in C++: What It Is, How It Works, and a Real-World Use Case — кейс замены общего `static ServiceResolver*` на `static thread_local` при переходе к многопоточности, чтобы изолировать состояние резолвера по потокам без mutex. https://www.linkedin.com/pulse/threadlocal-c-what-how-works-real-world-use-case-apurv-shah-rnxnf/
-    - Как устроена работа `thread_local` переменных: разбираемся и добавляем поддержку в учебную ОС — реализация TLS через регистр `%fs`, ELF-сегменты `.tdata`/`.tbss`, подготовку памяти и вызов деструкторов через `__cxa_thread_atexit`. https://habr.com/ru/articles/702814/
-    - Thread Local в C++: как он есть — слайды о POSIX/GCC `thread_local`, секциях ELF `.tdata`/`.tbss`, моделях доступа GD/LD/IE/LE, инициализации, разрушении и стоимости TLS. (PDF) https://assets.ctfassets.net/oxjq45e8ilak/58WJNk5SJAjR95b0bIoXtL/3ea3fc7203d940218a3d61da26e9f7c7/Thread_Local____C________________________.pdf
   - Литералы; ""_suffix
     - Пользовательские литералы в C++11 https://habr.com/ru/articles/140357/
   - union; Объединения
@@ -271,6 +266,11 @@
       - LinkTimeOptimization https://gcc.gnu.org/wiki/LinkTimeOptimization
       - FatLTO — официальная документация LLVM о fat LTO objects: обычный object code плюс LLVM bitcode в `.llvm.lto`, выбор LTO на этапе link-time, `-ffat-lto-objects` вместе с `-flto`/`-flto=thin`, поддержка LLD и GNU gold plugin. https://llvm.org/docs/FatLTO.html
   - Многопоточное программирование
+    - thread_local; Локальное хранение потока
+      - `thread_local` Storage in C++11 https://www.geeksforgeeks.org/cpp/thread_local-storage-in-cpp-11/
+      - `thread_local` in C++: What It Is, How It Works, and a Real-World Use Case — кейс замены общего `static ServiceResolver*` на `static thread_local` при переходе к многопоточности, чтобы изолировать состояние резолвера по потокам без mutex. https://www.linkedin.com/pulse/threadlocal-c-what-how-works-real-world-use-case-apurv-shah-rnxnf/
+      - Как устроена работа `thread_local` переменных: разбираемся и добавляем поддержку в учебную ОС — реализация TLS через регистр `%fs`, ELF-сегменты `.tdata`/`.tbss`, подготовку памяти и вызов деструкторов через `__cxa_thread_atexit`. https://habr.com/ru/articles/702814/
+      - Thread Local в C++: как он есть — слайды о POSIX/GCC `thread_local`, секциях ELF `.tdata`/`.tbss`, моделях доступа GD/LD/IE/LE, инициализации, разрушении и стоимости TLS. (PDF) https://assets.ctfassets.net/oxjq45e8ilak/58WJNk5SJAjR95b0bIoXtL/3ea3fc7203d940218a3d61da26e9f7c7/Thread_Local____C________________________.pdf
     - Мьютексы, Mutexes
       - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
       - Mutex in C++: the story so far – Part 2 https://curiouslyrecurringthoughts.home.blog/2019/07/21/mutex-in-c-the-story-so-far-part-2/
