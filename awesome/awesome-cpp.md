@@ -181,6 +181,8 @@
     - Статические члены класса https://metanit.com/cpp/tutorial/5.7.php
   - thread_local; Локальное хранение потока
     - `thread_local` Storage in C++11 https://www.geeksforgeeks.org/cpp/thread_local-storage-in-cpp-11/
+    - `thread_local` in C++: What It Is, How It Works, and a Real-World Use Case — кейс замены общего `static ServiceResolver*` на `static thread_local` при переходе к многопоточности, чтобы изолировать состояние резолвера по потокам без mutex. https://www.linkedin.com/pulse/threadlocal-c-what-how-works-real-world-use-case-apurv-shah-rnxnf/
+    - Как устроена работа `thread_local` переменных: разбираемся и добавляем поддержку в учебную ОС — реализация TLS через регистр `%fs`, ELF-сегменты `.tdata`/`.tbss`, подготовку памяти и вызов деструкторов через `__cxa_thread_atexit`. https://habr.com/ru/articles/702814/
     - Thread Local в C++: как он есть — слайды о POSIX/GCC `thread_local`, секциях ELF `.tdata`/`.tbss`, моделях доступа GD/LD/IE/LE, инициализации, разрушении и стоимости TLS. (PDF) https://assets.ctfassets.net/oxjq45e8ilak/58WJNk5SJAjR95b0bIoXtL/3ea3fc7203d940218a3d61da26e9f7c7/Thread_Local____C________________________.pdf
   - Литералы; ""_suffix
     - Пользовательские литералы в C++11 https://habr.com/ru/articles/140357/
