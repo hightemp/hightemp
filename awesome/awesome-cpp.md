@@ -1,9 +1,11 @@
 ### Коллекции
 
-- https://cpp.libhunt.com/
+- Основное
+  - https://cpp.libhunt.com/
 - Логирование
   - https://cpp.libhunt.com/libs/logging
-- https://github.com/fenbf/AwesomePerfCpp
+- Производительность
+  - https://github.com/fenbf/AwesomePerfCpp
 
 ### Makefile
 
@@ -63,15 +65,19 @@
 
 ### Книги
 
-- https://craftinginterpreters.com/
-- Programming with C++20 - Concepts, Coroutines, Ranges, and more https://andreasfertig.com/books/programming-with-cpp20/
-- Algorithms Design (in C) https://www.ime.usp.br/~pf/algorithms/index.html#C-language
-- C++ Templates The Complete Guide, 2nd Edition
-  - Авторы:
-    - by David Vandevoorde (Author), Nicolai Josuttis (Author), Douglas Gregor (Author)
-  - Ссылки:
-    - https://github.com/xuchen-tech/Books/blob/main/C%2B%2B%20Templates%20The%20Complete%20Guide%2C%202nd%20Edition%20%5BBooxRack%5D.pdf
-    - https://agorism.dev/book/c++/David%20Vandevoorde%2C%20Nicolai%20M.%20Josuttis%2C%20Douglas%20Gregor%20-%20C%2B%2B%20Templates_%20The%20Complete%20Guide-Addison-Wesley%20%282017%29.pdf
+- Компиляторы и интерпретаторы
+  - https://craftinginterpreters.com/
+- Современный C++
+  - Programming with C++20 - Concepts, Coroutines, Ranges, and more https://andreasfertig.com/books/programming-with-cpp20/
+- Алгоритмы
+  - Algorithms Design (in C) https://www.ime.usp.br/~pf/algorithms/index.html#C-language
+- Шаблоны
+  - C++ Templates The Complete Guide, 2nd Edition
+    - Авторы:
+      - by David Vandevoorde (Author), Nicolai Josuttis (Author), Douglas Gregor (Author)
+    - Ссылки:
+      - https://github.com/xuchen-tech/Books/blob/main/C%2B%2B%20Templates%20The%20Complete%20Guide%2C%202nd%20Edition%20%5BBooxRack%5D.pdf
+      - https://agorism.dev/book/c++/David%20Vandevoorde%2C%20Nicolai%20M.%20Josuttis%2C%20Douglas%20Gregor%20-%20C%2B%2B%20Templates_%20The%20Complete%20Guide-Addison-Wesley%20%282017%29.pdf
 
 ### Курсы
 
@@ -187,27 +193,21 @@
     - Understanding Unions in C/C++ Programming https://medium.com/@pawan2505/understanding-unions-in-c-c-programming-43e16728a911
     - A Deep Dive into Struct, Union and Enum in C++ https://medium.com/@shantanulagvankar/a-deep-dive-into-struct-union-and-enum-in-c-8e155859ed1d
     - Объединения в С++ (union C++) https://purecodecpp.com/archives/2306
-  - sizeof...
-    - sizeof... operator (since C++11) https://en.cppreference.com/w/cpp/language/sizeof...
   - RAII
     - Концепция RAII (Resource Acquisition Is Initialization) https://habr.com/ru/companies/otus/articles/778942/
     - Идиома RAII и умные указатели https://education.yandex.ru/handbook/cpp/article/raii-and-smart-pointers
-  - Exceptions
+  - Исключения, Exceptions
     - Understanding the .gcc_except_table section in ELF binaries (GCC) https://martin.uy/blog/understanding-the-gcc_except_table-section-in-elf-binaries-gcc/
     - How to Handle Exceptions in C++ https://rollbar.com/guides/cpp/how-to-handle-exceptions-in-cpp/
     - How McSema Handles C++ Exceptions https://blog.trailofbits.com/2019/01/21/how-mcsema-handles-c-exceptions/
     - The Secret Life of C++: Exceptions https://web.mit.edu/tibbetts/Public/inside-c/www/exceptions.html
     - An Introduction to Stack Unwinding and Exception Handling https://www.zyma.me/post/stack-unwind-intro/
+    - Обработка исключений https://education.yandex.ru/handbook/cpp/article/exceptions
   - Корутины, coroutines
     - Deep Dive into C++20 Coroutines https://medium.com/@threehappyer/deep-dive-into-c-20-coroutines-ef5a557d15cb
     - C++20. Coroutines https://habr.com/ru/articles/519464/
     - C++20 Coroutines https://dimakorolev.substack.com/p/c20-coroutines
-  - std::unique_lock
-    - std::unique_lock https://cplusplus.com/reference/mutex/unique_lock/
-    - Mutex lock guards in C++11 https://geidav.wordpress.com/2014/01/09/mutex-lock-guards-in-c11/    
-    - unique_lock or lock_guard: Which Is Better? https://www.geeksforgeeks.org/cpp/stdunique_lock-or-stdlock_guard-which-is-better/
-    - Let Threads Sleep: A Simple Guide To Condition Variables in C++ https://code.likeagirl.io/let-threads-sleep-a-simple-guide-to-condition-variables-in-c-200bd418c006
-  - Ссылки
+  - Категории значений и ссылки
     - Категории выражений и виды ссылок https://pvs-studio.ru/ru/blog/terms/6517/
     - Understanding lvalues, rvalues and their references https://www.fluentcpp.com/2018/02/06/understanding-lvalues-rvalues-and-their-references/
     - Lvalues and Rvalues (C++) https://learn.microsoft.com/en-us/cpp/cpp/lvalues-and-rvalues-visual-cpp?view=msvc-170
@@ -218,17 +218,21 @@
     - The Story of Value Categories in C++ | Ray https://oneraynyday.github.io/dev/2020/07/03/Value-Categories/
     - lvalues, rvalues, glvalues, prvalues, xvalues, помогите! - https://habr.com/ru/articles/869854/
   - Perfect Forwarding
-    - Perfect Forwarding https://levelup.gitconnected.com/perfect-forwarding-647e1caaf879
-    - Understanding Move Semantics and Perfect Forwarding: Part 3 https://drewcampbell92.medium.com/understanding-move-semantics-and-perfect-forwarding-part-3-65575d523ff8
+    - Основное
+      - Perfect Forwarding https://levelup.gitconnected.com/perfect-forwarding-647e1caaf879
+      - Understanding Move Semantics and Perfect Forwarding: Part 3 https://drewcampbell92.medium.com/understanding-move-semantics-and-perfect-forwarding-part-3-65575d523ff8
+    - std::forward
+      - Функция std::forward https://pvs-studio.ru/ru/blog/terms/6515/
   - Перемещение
-    - std:forward
-      - Функция std::forward https://pvs-studio.ru/ru/blog/terms/6515/  
     - Остальное
       - Углубляемся в C++: move семантика и rvalue https://tproger.ru/articles/move-semantics-and-rvalue
       - What is a Move Constructor in C++? https://www.scaler.com/topics/cpp-move-constructor/
   - vtable; Виртуальные таблицы
-    - Урок №167. Виртуальные таблицы https://ravesli.com/urok-167-virtualnye-tablitsy/
-    - 18.6 – Виртуальная таблица (таблица виртуальных функций) https://radioprog.ru/post/1279
+    - Основное
+      - Урок №167. Виртуальные таблицы https://ravesli.com/urok-167-virtualnye-tablitsy/
+      - 18.6 – Виртуальная таблица (таблица виртуальных функций) https://radioprog.ru/post/1279
+    - VTT
+      - C++ Virtual Table Tables(VTT) https://nimrod.blog/posts/cpp-virtual-table-tables/
   - Умные указатели, smart pointers
     - Основное
       - Prefer unique_ptr over shared_ptr unless you need to share ownership https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rr-unique
@@ -246,18 +250,14 @@
       - Exploring std::shared_ptr https://shaharmike.com/cpp/shared-ptr/
     - Остальное
       - Singletons, shared instances, the modern way http://cukic.co/2013/06/26/singletons-shared-instances-the-modern-way/
-  - VTT
-    - C++ Virtual Table Tables(VTT) https://nimrod.blog/posts/cpp-virtual-table-tables/
-  - Condition variables
-    - std::condition_variable https://ru.cppreference.com/w/cpp/thread/condition_variable
-    - How-to: Use C++ Conditional Variables for Thread Synchronization https://jtchen.io/blog/cpp-conditional-variables
-    - C++ Condition Variable https://leimao.github.io/blog/CPP-Condition-Variable/
-    - Understanding Conditional Variables in C++ https://medium.com/@jtchen2k/using-c-conditional-variables-for-thread-synchronization-87fb1ac3601c
   - date
     - Time in C++ – present and future – Part 2 https://curiouslyrecurringthoughts.home.blog/2019/08/30/time-in-c-present-and-future-part-2/
   - Шаблоны, templates
-    - Шаблоны https://education.yandex.ru/handbook/cpp/article/templates
-  - SFINAE (Substitution Failure Is Not An Error - подстановка, не являющаяся ошибкой)
+    - Основное
+      - Шаблоны https://education.yandex.ru/handbook/cpp/article/templates
+    - sizeof...
+      - sizeof... operator (since C++11) https://en.cppreference.com/w/cpp/language/sizeof...
+    - SFINAE (Substitution Failure Is Not An Error - подстановка, не являющаяся ошибкой)
   - Флаги
     - -fno-semantic-interposition
       - -fno-semantic-interposition https://maskray.me/blog/2021-05-09-fno-semantic-interposition
@@ -272,27 +272,36 @@
       - Как устроена работа `thread_local` переменных: разбираемся и добавляем поддержку в учебную ОС — реализация TLS через регистр `%fs`, ELF-сегменты `.tdata`/`.tbss`, подготовку памяти и вызов деструкторов через `__cxa_thread_atexit`. https://habr.com/ru/articles/702814/
       - Thread Local в C++: как он есть — слайды о POSIX/GCC `thread_local`, секциях ELF `.tdata`/`.tbss`, моделях доступа GD/LD/IE/LE, инициализации, разрушении и стоимости TLS. (PDF) https://assets.ctfassets.net/oxjq45e8ilak/58WJNk5SJAjR95b0bIoXtL/3ea3fc7203d940218a3d61da26e9f7c7/Thread_Local____C________________________.pdf
     - Мьютексы, Mutexes
-      - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
-      - Mutex in C++: the story so far – Part 2 https://curiouslyrecurringthoughts.home.blog/2019/07/21/mutex-in-c-the-story-so-far-part-2/
+      - Основное
+        - Multithreading in C++: Mutexes https://www.ramtintjb.com/blog/Mutexes
+        - Mutex in C++: the story so far – Part 2 https://curiouslyrecurringthoughts.home.blog/2019/07/21/mutex-in-c-the-story-so-far-part-2/
+      - std::unique_lock
+        - std::unique_lock https://cplusplus.com/reference/mutex/unique_lock/
+        - Mutex lock guards in C++11 https://geidav.wordpress.com/2014/01/09/mutex-lock-guards-in-c11/
+        - unique_lock or lock_guard: Which Is Better? https://www.geeksforgeeks.org/cpp/stdunique_lock-or-stdlock_guard-which-is-better/
+    - Условные переменные, Condition variables
+      - std::condition_variable https://ru.cppreference.com/w/cpp/thread/condition_variable
+      - How-to: Use C++ Conditional Variables for Thread Synchronization https://jtchen.io/blog/cpp-conditional-variables
+      - C++ Condition Variable https://leimao.github.io/blog/CPP-Condition-Variable/
+      - Understanding Conditional Variables in C++ https://medium.com/@jtchen2k/using-c-conditional-variables-for-thread-synchronization-87fb1ac3601c
+      - Let Threads Sleep: A Simple Guide To Condition Variables in C++ https://code.likeagirl.io/let-threads-sleep-a-simple-guide-to-condition-variables-in-c-200bd418c006
     - ABA-проблема
       - Understanding and Effectively Preventing the ABA Problem in Descriptor-based Lock-free Designs — исследование ложноположительного CAS после изменения A→B→A и способов предотвращения ABA в descriptor-based lock-free структурах. (PDF) https://www.stroustrup.com/isorc2010.pdf
-    - Остальное
+    - Порядок памяти, Memory ordering
       - Multithreading in C++: Memory Ordering https://www.ramtintjb.com/blog/memory-ordering
-  - Исключения, Exceptions
-    - Обработка исключений https://education.yandex.ru/handbook/cpp/article/exceptions
+    - Остальное
   - Стиль программирования
     - On Using Guards in C++ https://www.fluentcpp.com/2018/02/20/on-using-guards-in-cpp/
-  - undefined behavior
+  - Неопределённое поведение, Undefined Behavior
     - Путеводитель C++ программиста по неопределённому поведению https://pvs-studio.ru/ru/blog/posts/cpp/1215/
-  - Name mangling 
-    - Name mangling https://en.wikipedia.org/wiki/Name_mangling
-  - Undefined Behavior
     - Что каждый программист на C должен знать об Undefined Behavior. Часть 1/3 https://habr.com/ru/articles/341048/
     - Что каждый программист на C должен знать об Undefined Behavior. Часть 2/3 https://habr.com/ru/articles/341144/
     - Что каждый программист на C должен знать об Undefined Behavior. Часть 3/3 https://habr.com/ru/articles/341154/
     - A Guide to Undefined Behavior in C and C++, Part 1 https://blog.regehr.org/archives/213
     - A Guide to Undefined Behavior in C and C++, Part 2 https://blog.regehr.org/archives/226
     - A Guide to Undefined Behavior in C and C++, Part 3 https://blog.regehr.org/archives/232
+  - Name mangling
+    - Name mangling https://en.wikipedia.org/wiki/Name_mangling
   - Лямбда-выражения, lambda
     - Capture `*this` in lambda expression: Timeline of change — разбор эволюции захвата текущего объекта в lambda с C++11 до C++20: `[this]`, `[*this]`, `[=]`, `[=, this]`, захват по значению с C++17 и предупреждения вокруг неявного захвата `this` через `[=]` в C++20. https://www.nextptr.com/tutorial/ta1430524603/capture-this-in-lambda-expression-timeline-of-change
     - Лямбда-выражения в C++ — официальная документация Microsoft Learn по синтаксису lambda: capture clause, список параметров, `mutable`, спецификация исключений, trailing return type, тело lambda, generalized capture в C++14, `*this` capture и `constexpr` lambda в C++17. https://learn.microsoft.com/ru-ru/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
@@ -308,6 +317,9 @@
 - Сеть
   - TCP-Соединения
     - How to Forcibly Close a Socket in TIME_WAIT https://www.baeldung.com/linux/close-socket-time_wait
+  - Сокеты, Sockets
+    - Остальное
+      - Some notes on Sockets programming https://cybersect.substack.com/p/some-notes-on-sockets-programming
 - Курс по разработке 64-битных приложений на языке C и C++
   - Урок 13. Паттерн 5. Адресная арифметика https://pvs-studio.ru/ru/blog/lessons/0013/
 - Memory allocator
@@ -348,10 +360,6 @@
     - Top C++ Logging Libraries Compared: How to Choose the Best One - part 1 https://c-and-beyond.hashnode.dev/top-c-logging-libraries-compared-how-to-choose-the-best-one-part-1
     - Logger C++ https://habr.com/ru/articles/838412/
     - Logging without Compromising Performance https://medium.com/software-architecture-foundations/logging-without-compromising-performance-3ab4d9ac3caa
-- Сокеты, Sockets
-  - Основное
-  - Остальное
-    - Some notes on Sockets programming https://cybersect.substack.com/p/some-notes-on-sockets-programming
 - Ввод/Вывод (I/O)
   - Остальное
     - Select, poll and EINTR https://www.hardening-consulting.com/en/posts/20210322-select-poll-and-eintr.html
@@ -418,10 +426,12 @@
 
 ### Видео
 
-- Разработка, программирование, обучение - это то немногое что вы можете здесь найти. https://www.youtube.com/@Ice.Rezzet/videos
-  - C++ Быстрый старт. #11.1. Компиляция и сборка приложения https://www.youtube.com/watch?v=w4TQdL3OGe8
-- Семинары 238 группы по акосу https://www.youtube.com/watch?v=5lqdXNpKEag&list=PLdW86-ZDBvbU0_J255GNYi1YVUW_GoKmH
-- Семинары 226 группы ФКН ПМИ https://www.youtube.com/watch?v=WGxA9WTWyNQ&list=PLdW86-ZDBvbUrgXfGyETuC3qU3TrEHaP5
+- Каналы
+  - Разработка, программирование, обучение - это то немногое что вы можете здесь найти. https://www.youtube.com/@Ice.Rezzet/videos
+    - C++ Быстрый старт. #11.1. Компиляция и сборка приложения https://www.youtube.com/watch?v=w4TQdL3OGe8
+- Семинары
+  - Семинары 238 группы по акосу https://www.youtube.com/watch?v=5lqdXNpKEag&list=PLdW86-ZDBvbU0_J255GNYi1YVUW_GoKmH
+  - Семинары 226 группы ФКН ПМИ https://www.youtube.com/watch?v=WGxA9WTWyNQ&list=PLdW86-ZDBvbUrgXfGyETuC3qU3TrEHaP5
 
 ### Stackoverflow
 
