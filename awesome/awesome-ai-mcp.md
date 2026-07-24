@@ -8,6 +8,7 @@
 - https://www.mcp.pizza/
 - Smithery — платформа и каталог для подключения и публикации MCP-серверов. https://smithery.ai/
 - AWS Labs MCP — набор специализированных MCP-серверов для AWS. https://github.com/awslabs/mcp
+- Atomno MCP — каталог MCP-серверов для российских реестров, финансовых и бизнес-систем: ФНС, ЕГРЮЛ, ФССП, Росреестр, ЦБ РФ, госзакупки, 1С и других; доступны локальная установка через `uvx` и hosted REST/MCP. https://atomno-mcp.ru/mcp/
 - Официальная коллекция серверов MCP. https://github.com/modelcontextprotocol/servers
 
 ### Платформы, хабы и интеграции
@@ -15,6 +16,7 @@
 - GitMCP — превращает GitHub-репозиторий в remote MCP endpoint для Claude, Cursor, Windsurf, VS Code и других клиентов. https://gitmcp.io/
 - Context7 — сервис и MCP-сервер с актуальной документацией и примерами кода для библиотек и API. https://context7.com/
 - Toolbox by Smithery — сервер/хаб интеграций, который дает агентам доступ к тысячам сервисов через единый MCP-интерфейс. https://smithery.ai/server/@smithery/toolbox
+- ru-mcp — managed MCP-хаб в раннем доступе: единый Streamable HTTP endpoint к 1С, Wildberries, Ozon, ЕГРЮЛ, ФНС и другим российским API; хостинг в РФ и документация на русском языке. https://ru-mcp.ru/
 - CopilotKit MCP — гайд и компоненты для подключения своего приложения к любому MCP-серверу. https://docs.copilotkit.ai/learn/connect-mcp-servers
 - MCP Studio — инструмент для создания, тестирования и публикации собственных MCP-плагинов/серверов. Ссылка из списка сейчас выглядит нестабильной. https://mcp.getflow.dev/
 - Mcpify.ai — no-code платформа для создания MCP-серверов; на сайте есть предупреждение о закрытии сервиса. https://mcpify.ai/
