@@ -127,6 +127,7 @@
 - https://maskray.me/blog/tags/clang/
 - https://preshing.com/
 - https://herbsutter.com/
+- https://www.stroustrup.com/
 - https://www.modernescpp.com/index.php/blog/
 
 ### Статьи
