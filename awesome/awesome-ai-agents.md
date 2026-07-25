@@ -1,6 +1,10 @@
 
 > В этот файл добавлять только инструменты для агентской разработки, agent harness/workflow и `.agents`-экосистемы.
 
+### Коллекции
+
+- Awesome Harness Engineering — curated list ресурсов, паттернов и шаблонов для AI agent harnesses: context delivery/compaction, tool interfaces, planning artifacts, verification loops, memory/state, MCP/skills, permissions/sandboxes, observability, orchestration и multi-agent workflows; включает материалы OpenAI, Anthropic, Google, IBM, LangChain и related awesome lists. https://github.com/ai-boost/awesome-harness-engineering
+
 ### Loops
 
 - Repo Task Proof Loop https://github.com/DenisSergeevitch/repo-task-proof-loop
