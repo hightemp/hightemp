@@ -344,6 +344,8 @@
   - Valgrind
     - Выявление ошибок в работе с памятью в C и C++: Сравниваем Sanitizers и Valgrind https://habr.com/ru/companies/otus/articles/801123/
     - Helgrind tool — практическое руководство по поиску ошибок синхронизации в C/C++ с POSIX Threads: неправильного использования API, потенциальных взаимоблокировок и гонок данных. https://www.it.uc3m.es/pbasanta/asng/course_notes/helgrind_tool_en.html
+    - Valgrind Part 6 – Helgrind and DRD — сравнение двух анализаторов Valgrind для поиска взаимоблокировок и гонок данных в многопоточном C/C++. https://accu.org/journals/overload/21/114/floyd_1867/
+    - C++ Concurrent profiling using Helgrind — разбор поиска гонок данных и нарушений порядка захвата `std::mutex`, приводящих к циклическим взаимоблокировкам, на примерах многопоточного C++. https://dev.to/sommukhopadhyay/c-concurrent-profiling-using-helgrind-a-tool-of-valgrind-4m0j
   - GDB
     - Шпаргалка полезных команд GDB https://habr.com/ru/articles/535960/
     - Дайте мне 15 минут, и я изменю ваш взгляд на GDB https://habr.com/ru/articles/824638/
