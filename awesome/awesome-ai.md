@@ -47,23 +47,37 @@
 
 ### Данные для обучения; Датасеты; Datasets
 
-- https://github.com/Zjh-819/LLMDataHub?tab=readme-ov-file
-- https://huggingface.co/datasets/Open-Orca/OpenOrca
-- https://github.com/glgh/awesome-llm-human-preference-datasets?tab=readme-ov-file
-- https://github.com/jianzhnie/awesome-instruction-datasets
-- Reddit comments/submissions 2005-06 to 2025-12 — архив комментариев и постов Reddit в zstandard-compressed ndjson, собранный из Pushshift и новых дампов; раздается через Academic Torrents, размер загрузки около 3.8 ТБ. https://academictorrents.com/details/3d426c47c767d40f82c7ef0f47c3acacedd2bf44
-- Common Crawl — открытый корпус веб-краулинга: сотни миллиардов страниц за много лет, ежемесячные новые crawls, доступ к WARC/WAT/WET/CDX-данным через S3/HTTP и индексы для выборки данных. https://commoncrawl.org/ https://commoncrawl.org/get-started
-- Wikimedia Downloads — дампы Wikipedia/Wikimedia: wikitext/XML exports, metadata, SQL-таблицы, pageviews, Wikidata, Commons structured data, search indexes и HTML/OpenZIM-варианты для офлайн-использования и обучения моделей. https://dumps.wikimedia.org/
-- The Stack v2 — датасет исходного кода BigCode/Hugging Face на базе Software Heritage: 3.28 млрд уникальных файлов из 104.2 млн GitHub-репозиториев, 600+ языков, около 67.5 ТБ несжатого кода. https://huggingface.co/datasets/bigcode/the-stack-v2
-- LAION-5B — открытый мультимодальный датасет из 5.85 млрд CLIP-filtered image-text pairs с embeddings, kNN-индексами, NSFW/watermark scores и инструментами для обучения CLIP-like и text-to-image моделей. https://laion.ai/blog/laion-5b/
-- arXiv Bulk Data Access — официальный bulk-доступ к metadata и full text arXiv: API для метаданных, RSS и full text через S3 для научных корпусов и research-пайплайнов. https://info.arxiv.org/help/bulk_data.html
-- AgiBot World - первый крупномасштабный датасет для обучения роботов, разработанный для продвижения многоцелевых задач робототехники, включающий в себя 1 миллион+ траекторий от 100 роботов, 100+ реальных сценариев в 5 целевых областях, современное оборудование с визуальными тактильными датчиками, манипуляторами с шестью степенями свободы, двухрукими мобильными роботами и широким спектром универсальных сложных задач, а также базовые модели, тесты и экосистему для демократизации доступа к высококачественным данным. https://agibot-world.com/ https://github.com/OpenDriveLab/AgiBot-World https://huggingface.co/datasets/agibot-world/AgiBotWorld-Alpha
-- FineMath (https://huggingface.co/datasets/HuggingFaceTB/finemath) – подкорпус на 54 млрд токенов из FineWeb, содержащий математический контент, в том числе пошаговые решения. Есть еще его корпус-побратим FineWeb-edu (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu) с образовательными текстами. Лицензия ODC-by
-- FineVideo (https://huggingface.co/spaces/HuggingFaceFV/FineVideo-Explorer)  – датасет на 43 тысячи видео для обучения SORA-like моделей видео-генерации, своя лицензия License CC-By
-- FineWeb (https://huggingface.co/datasets/HuggingFaceFW/fineweb) – огромный очищенный интернет-корпус для предобучения больших языковых моделей на 15 триллионов токенов. Есть мультиязычная версия, я теперь еще и бенчмарк, доказывающий, что корпус лучше остальных для сходимости моделей. Лицензия ODC-by
-- VK-LSVD — датасет от VK для развития рекомендательных систем, собранный на базе коротких видео. https://huggingface.co/datasets/deepvk/VK-LSVD
-- Pico-Banana 400k — крупнейший открытый датасет для редактирования изображений (~400 тыс. примеров на реальных фото) с 35 типами правок в 8 категориях, где правки сгенерированы моделью Nano-Banana, а качество оценено Gemini-2.5-Pro. https://github.com/apple/pico-banana-400k
-- Arena Expert 5k — датасет из 5000 экспертных диалогов с профессиональными метками для исследований. https://huggingface.co/datasets/lmarena-ai/arena-expert-5k
+- Каталоги и поисковики
+  - Kaggle Datasets — каталог наборов данных для машинного обучения, анализа и визуализации с поиском по темам и форматам, метаданными и примерами использования в ноутбуках. https://www.kaggle.com/datasets
+  - Awesome Public Datasets — курируемая по темам коллекция открытых наборов данных для науки, экономики, географии, здравоохранения и других областей. https://github.com/awesomedata/awesome-public-datasets
+  - UCI Machine Learning Repository — академический репозиторий наборов данных для экспериментов с классификацией, регрессией, кластеризацией и другими задачами машинного обучения. https://archive.ics.uci.edu/
+  - Google Dataset Search — поисковая система Google для обнаружения наборов данных, опубликованных на сайтах исследовательских организаций, государственных порталах и в репозиториях. https://datasetsearch.research.google.com/
+  - Hugging Face Datasets — каталог датасетов с фильтрацией по задачам, языкам, лицензиям, модальностям и форматам, встроенным просмотром и интеграцией с экосистемой Hugging Face. https://huggingface.co/datasets
+  - Azure Open Datasets — подготовленные публичные данные Microsoft для ML и аналитики: погода, транспорт, экономика, население и география; доступны через Azure, Python API, Databricks и другие инструменты. https://learn.microsoft.com/en-us/azure/open-datasets/overview-what-are-open-datasets
+  - Registry of Open Data on AWS — реестр общедоступных наборов данных, размещённых в ресурсах AWS, с документацией, примерами использования и сведениями о владельцах и лицензиях. https://registry.opendata.aws/
+  - https://github.com/Zjh-819/LLMDataHub?tab=readme-ov-file
+- Инструкции, диалоги и предпочтения
+  - https://huggingface.co/datasets/Open-Orca/OpenOrca
+  - https://github.com/glgh/awesome-llm-human-preference-datasets?tab=readme-ov-file
+  - https://github.com/jianzhnie/awesome-instruction-datasets
+  - Arena Expert 5k — датасет из 5000 экспертных диалогов с профессиональными метками для исследований. https://huggingface.co/datasets/lmarena-ai/arena-expert-5k
+- Текстовые и веб-корпусы
+  - Reddit comments/submissions 2005-06 to 2025-12 — архив комментариев и постов Reddit в zstandard-compressed ndjson, собранный из Pushshift и новых дампов; раздается через Academic Torrents, размер загрузки около 3.8 ТБ. https://academictorrents.com/details/3d426c47c767d40f82c7ef0f47c3acacedd2bf44
+  - Common Crawl — открытый корпус веб-краулинга: сотни миллиардов страниц за много лет, ежемесячные новые crawls, доступ к WARC/WAT/WET/CDX-данным через S3/HTTP и индексы для выборки данных. https://commoncrawl.org/ https://commoncrawl.org/get-started
+  - Wikimedia Downloads — дампы Wikipedia/Wikimedia: wikitext/XML exports, metadata, SQL-таблицы, pageviews, Wikidata, Commons structured data, search indexes и HTML/OpenZIM-варианты для офлайн-использования и обучения моделей. https://dumps.wikimedia.org/
+  - arXiv Bulk Data Access — официальный bulk-доступ к metadata и full text arXiv: API для метаданных, RSS и full text через S3 для научных корпусов и research-пайплайнов. https://info.arxiv.org/help/bulk_data.html
+  - FineMath (https://huggingface.co/datasets/HuggingFaceTB/finemath) – подкорпус на 54 млрд токенов из FineWeb, содержащий математический контент, в том числе пошаговые решения. Есть еще его корпус-побратим FineWeb-edu (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu) с образовательными текстами. Лицензия ODC-by
+  - FineWeb (https://huggingface.co/datasets/HuggingFaceFW/fineweb) – огромный очищенный интернет-корпус для предобучения больших языковых моделей на 15 триллионов токенов. Есть мультиязычная версия, я теперь еще и бенчмарк, доказывающий, что корпус лучше остальных для сходимости моделей. Лицензия ODC-by
+- Исходный код
+  - The Stack v2 — датасет исходного кода BigCode/Hugging Face на базе Software Heritage: 3.28 млрд уникальных файлов из 104.2 млн GitHub-репозиториев, 600+ языков, около 67.5 ТБ несжатого кода. https://huggingface.co/datasets/bigcode/the-stack-v2
+- Изображения и мультимодальные данные
+  - LAION-5B — открытый мультимодальный датасет из 5.85 млрд CLIP-filtered image-text pairs с embeddings, kNN-индексами, NSFW/watermark scores и инструментами для обучения CLIP-like и text-to-image моделей. https://laion.ai/blog/laion-5b/
+  - Pico-Banana 400k — крупнейший открытый датасет для редактирования изображений (~400 тыс. примеров на реальных фото) с 35 типами правок в 8 категориях, где правки сгенерированы моделью Nano-Banana, а качество оценено Gemini-2.5-Pro. https://github.com/apple/pico-banana-400k
+- Видео
+  - FineVideo (https://huggingface.co/spaces/HuggingFaceFV/FineVideo-Explorer)  – датасет на 43 тысячи видео для обучения SORA-like моделей видео-генерации, своя лицензия License CC-By
+  - VK-LSVD — датасет от VK для развития рекомендательных систем, собранный на базе коротких видео. https://huggingface.co/datasets/deepvk/VK-LSVD
+- Робототехника
+  - AgiBot World - первый крупномасштабный датасет для обучения роботов, разработанный для продвижения многоцелевых задач робототехники, включающий в себя 1 миллион+ траекторий от 100 роботов, 100+ реальных сценариев в 5 целевых областях, современное оборудование с визуальными тактильными датчиками, манипуляторами с шестью степенями свободы, двухрукими мобильными роботами и широким спектром универсальных сложных задач, а также базовые модели, тесты и экосистему для демократизации доступа к высококачественным данным. https://agibot-world.com/ https://github.com/OpenDriveLab/AgiBot-World https://huggingface.co/datasets/agibot-world/AgiBotWorld-Alpha
 
 ### Сравнение моделей; Арены
 
