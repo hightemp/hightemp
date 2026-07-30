@@ -1601,7 +1601,6 @@ https://arxiv.org/pdf/2411.08804v1
         - Qwen2.5-Coder: обзор стратегии обучения — разбор архитектуры и FIM-токенов, смеси данных из кода, текста и математики, file- и repo-level pretraining, синтеза и фильтрации мультиязычных инструкций, mixed tuning, DPO и деконтаминации. https://llmstudio.ru/blog/qwen-coder
     - Параметроэффективное дообучение (Parameter-Efficient Fine-Tuning, PEFT)
         - Оптимизируем дообучение LLM: теория + гайд — обзор prefix-tuning, prompt-tuning, P-tuning и LoRA с реализациями на PyTorch и PEFT, а также практический пайплайн дообучения Llama 3.2 3B через Transformers и Unsloth. https://habr.com/ru/articles/860892/
-        - Fine-tuning Qwen-8B под проприетарный синтаксис CADINP на одной RTX 3090 — практический LoRA-кейс на Unsloth: подготовка 3500+ CoT-пар, борьба с OOM и переобучением, подбор гиперпараметров Qwen 3 8B и экспорт GGUF для LM Studio. https://habr.com/ru/articles/987240/
     - Обучение с подкреплением (Reinforcement Learning)
         - Как мы готовим RL для Alignment в больших языковых моделях: опыт команды YandexGPT https://habr.com/ru/companies/yandex/articles/817391/
     - Alignment, sycophancy и steering
@@ -1618,6 +1617,9 @@ https://arxiv.org/pdf/2411.08804v1
         - What is Continuous Pretraining? https://docs.arcee.ai/continuous-pretraining/what-is-continuous-pretraining
     - Machine Unlearning (разучивание моделей)
         - A Certified Unlearning Approach without Access to Source Data — ICML 2025 arXiv-статья о сертифицированном удалении данных из модели без доступа к исходному датасету: суррогатные данные, калибровка шума по статистической дистанции между распределениями, оценка через SGLD и эксперименты на CIFAR-10/USPS. https://arxiv.org/abs/2506.06486
+    - Остальное
+        - Как дообучать локальные LLM в 2026 году: практическое руководство — выбор между fine-tuning, prompt engineering и RAG, подготовка датасета, сравнение полного дообучения, LoRA и QLoRA, запуск через Unsloth и Hugging Face, оценка модели и экспорт в GGUF. https://habr.com/ru/companies/otus/articles/1026700/
+        - Fine-tuning Qwen-8B под проприетарный синтаксис CADINP на одной RTX 3090 — практический LoRA-кейс на Unsloth: подготовка 3500+ CoT-пар, борьба с OOM и переобучением, подбор гиперпараметров Qwen 3 8B и экспорт GGUF для LM Studio. https://habr.com/ru/articles/987240/
 
 - **Оптимизация Вычислений (Computational Optimization)** {#оптимизация-вычислений}
     - Ускорение Инференса (Inference Acceleration)
