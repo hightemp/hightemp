@@ -1596,6 +1596,8 @@ https://arxiv.org/pdf/2411.08804v1
     - Общее и Оптимизация обучения
         - Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning https://arxiv.org/abs/2102.03554
         - V7 Labs: Качество обучающих данных: Почему это важно в машинном обучении; An Introductory Guide to Quality Training Data for Machine Learning https://www.v7labs.com/blog/quality-training-data-for-machine-learning-guide
+    - Стратегии обучения LLM
+        - Qwen2.5-Coder: обзор стратегии обучения — разбор архитектуры и FIM-токенов, смеси данных из кода, текста и математики, file- и repo-level pretraining, синтеза и фильтрации мультиязычных инструкций, mixed tuning, DPO и деконтаминации. https://llmstudio.ru/blog/qwen-coder
     - Параметроэффективное дообучение (Parameter-Efficient Fine-Tuning, PEFT)
         - Оптимизируем дообучение LLM: теория + гайд — обзор prefix-tuning, prompt-tuning, P-tuning и LoRA с реализациями на PyTorch и PEFT, а также практический пайплайн дообучения Llama 3.2 3B через Transformers и Unsloth. https://habr.com/ru/articles/860892/
         - Fine-tuning Qwen-8B под проприетарный синтаксис CADINP на одной RTX 3090 — практический LoRA-кейс на Unsloth: подготовка 3500+ CoT-пар, борьба с OOM и переобучением, подбор гиперпараметров Qwen 3 8B и экспорт GGUF для LM Studio. https://habr.com/ru/articles/987240/
@@ -1632,7 +1634,8 @@ https://arxiv.org/pdf/2411.08804v1
         - Tracing the thoughts of a large language model https://www.anthropic.com/research/tracing-thoughts-language-model
 
 - **Большие Языковые Модели (LLM)** {#большие-языковые-модели}
-    - [См. также: Введение в LLM в разделе Основы и Введение](#основы-и-введение)
+    - Основное
+        - [См. также: Введение в LLM в разделе Основы и Введение](#основы-и-введение)
     - Оценка моделей и бенчмарки
         - Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity — arXiv-статья о black-box оценке числа параметров LLM через фактическую ёмкость: 1400 factual questions в 7 уровнях редкости, калибровка на 89 open-weight models с лог-линейной зависимостью от total params (R²=0.917), отдельная проверка MoE и оговорка, что refusals у safety-tuned моделей дают нижнюю оценку. https://arxiv.org/abs/2604.24827
     - Prompt Engineering и Управление Выводом (Prompt Engineering & Output Control)
