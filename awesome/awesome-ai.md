@@ -1585,6 +1585,8 @@ https://arxiv.org/pdf/2411.08804v1
         - [См. также: TinyML - Quantization Aware Training в разделе TinyML](#tinyml-и-периферийные-устройства)
     - Токенизация (Tokenization)
         - Tokenization in large language models, explained https://seantrott.substack.com/p/tokenization-in-large-language-models
+    - Инференс LLM и KV-cache
+        - KV-Cache в LLM: разбираем инференс через 9 ключевых вопросов — технический разбор prefill/decode, расчёта памяти KV-cache, GQA, FlashAttention, PagedAttention, chunked prefill, prefix caching и production-метрик TTFT/ITL/throughput. https://habr.com/ru/articles/1021832/
 
 - **Обучение и Тюнинг (Training & Tuning)** {#обучение-и-тюнинг}
     - Общее и Оптимизация обучения
@@ -1612,7 +1614,7 @@ https://arxiv.org/pdf/2411.08804v1
         - Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment https://arxiv.org/abs/2501.19309
         - Ускорение LLM: универсальные методы для популярных архитектур https://habr.com/ru/companies/yandex/articles/878230/
         - Scaling test-time compute - a Hugging Face Space by HuggingFaceH4 https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute
-    - [См. также: Квантование в разделе Ключевые Концепции](#квантование)
+        - [См. также: Квантование в разделе Ключевые Концепции](#квантование)
 
 - **Интерпретируемость и Отладка Моделей (Model Interpretability & Debugging)** {#интерпретируемость-и-отладка-моделей}
     - Circuit Tracing (Отслеживание нейронных цепей)
