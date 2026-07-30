@@ -338,7 +338,7 @@
 
 - Cody — AI-ассистент, которого можно обучать на данных бизнеса, команды, процессов и клиентов, чтобы он отвечал на вопросы по внутренней базе знаний. https://meetcody.ai/
 
-### Презентации
+### Инструменты для создания презентаций
 
 - Wonderslide — AI-инструмент для создания презентаций на основе предоставленной пользователем информации. https://wonderslide.com/
 - Gamma — сервис для создания презентаций, веб-страниц и документов с интерактивностью, аналитикой вовлеченности и поддержкой брендинга. https://gamma.app/
@@ -1543,6 +1543,10 @@ https://arxiv.org/pdf/2411.08804v1
 - https://flicklabs.substack.com/
 - https://www.aimodels.fyi/papers?search=&selectedTimeRange=thisWeek&page=1
 
+### Презентации
+
+- Как учить большие языковые модели — презентация Мурата Апишева о полном цикле работы с LLM: архитектуре Transformer и токенизации, данных и стадиях pretraining/SFT/alignment, масштабировании обучения на GPU, PEFT, длинном контексте, мультимодальности и оценке качества. https://mellain.github.io/data/YNDX_Meetup_LLM_Train_Slides_2024.pdf
+
 ### Статьи
 
 - **Основы и Введение (Foundations & Introduction)** {#основы-и-введение}
@@ -1592,6 +1596,8 @@ https://arxiv.org/pdf/2411.08804v1
     - Общее и Оптимизация обучения
         - Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning https://arxiv.org/abs/2102.03554
         - V7 Labs: Качество обучающих данных: Почему это важно в машинном обучении; An Introductory Guide to Quality Training Data for Machine Learning https://www.v7labs.com/blog/quality-training-data-for-machine-learning-guide
+    - Параметроэффективное дообучение (Parameter-Efficient Fine-Tuning, PEFT)
+        - Оптимизируем дообучение LLM: теория + гайд — обзор prefix-tuning, prompt-tuning, P-tuning и LoRA с реализациями на PyTorch и PEFT, а также практический пайплайн дообучения Llama 3.2 3B через Transformers и Unsloth. https://habr.com/ru/articles/860892/
     - Обучение с подкреплением (Reinforcement Learning)
         - Как мы готовим RL для Alignment в больших языковых моделях: опыт команды YandexGPT https://habr.com/ru/companies/yandex/articles/817391/
     - Alignment, sycophancy и steering
