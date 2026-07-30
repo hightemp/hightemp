@@ -1598,6 +1598,7 @@ https://arxiv.org/pdf/2411.08804v1
         - V7 Labs: Качество обучающих данных: Почему это важно в машинном обучении; An Introductory Guide to Quality Training Data for Machine Learning https://www.v7labs.com/blog/quality-training-data-for-machine-learning-guide
     - Параметроэффективное дообучение (Parameter-Efficient Fine-Tuning, PEFT)
         - Оптимизируем дообучение LLM: теория + гайд — обзор prefix-tuning, prompt-tuning, P-tuning и LoRA с реализациями на PyTorch и PEFT, а также практический пайплайн дообучения Llama 3.2 3B через Transformers и Unsloth. https://habr.com/ru/articles/860892/
+        - Fine-tuning Qwen-8B под проприетарный синтаксис CADINP на одной RTX 3090 — практический LoRA-кейс на Unsloth: подготовка 3500+ CoT-пар, борьба с OOM и переобучением, подбор гиперпараметров Qwen 3 8B и экспорт GGUF для LM Studio. https://habr.com/ru/articles/987240/
     - Обучение с подкреплением (Reinforcement Learning)
         - Как мы готовим RL для Alignment в больших языковых моделях: опыт команды YandexGPT https://habr.com/ru/companies/yandex/articles/817391/
     - Alignment, sycophancy и steering
