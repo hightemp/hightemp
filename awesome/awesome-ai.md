@@ -72,6 +72,7 @@
   - The Stack v2 — датасет исходного кода BigCode/Hugging Face на базе Software Heritage: 3.28 млрд уникальных файлов из 104.2 млн GitHub-репозиториев, 600+ языков, около 67.5 ТБ несжатого кода. https://huggingface.co/datasets/bigcode/the-stack-v2
 - Кибербезопасность и уязвимости
   - VulZoo — крупномасштабный набор данных об уязвимостях, объединяющий структурированные базы и неструктурированные источники: CVE, NVD, CWE, CAPEC, бюллетени, эксплойты и рассылки; содержит исходные и обработанные данные для обнаружения, оценки и приоритизации уязвимостей. https://github.com/NUS-Curiosity/VulZoo
+  - Exploit Database — зеркало архива публичных эксплойтов, PoC и шелл-кодов с CSV-индексами и утилитой SearchSploit для локального поиска по уязвимому программному обеспечению. https://github.com/blackorbird/exploit-database
 - Изображения и мультимодальные данные
   - LAION-5B — открытый мультимодальный датасет из 5.85 млрд CLIP-filtered image-text pairs с embeddings, kNN-индексами, NSFW/watermark scores и инструментами для обучения CLIP-like и text-to-image моделей. https://laion.ai/blog/laion-5b/
   - Pico-Banana 400k — крупнейший открытый датасет для редактирования изображений (~400 тыс. примеров на реальных фото) с 35 типами правок в 8 категориях, где правки сгенерированы моделью Nano-Banana, а качество оценено Gemini-2.5-Pro. https://github.com/apple/pico-banana-400k
