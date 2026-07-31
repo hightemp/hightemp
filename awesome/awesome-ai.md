@@ -1602,6 +1602,7 @@ https://arxiv.org/pdf/2411.08804v1
         - Qwen2.5-Coder: обзор стратегии обучения — разбор архитектуры и FIM-токенов, смеси данных из кода, текста и математики, file- и repo-level pretraining, синтеза и фильтрации мультиязычных инструкций, mixed tuning, DPO и деконтаминации. https://llmstudio.ru/blog/qwen-coder
     - Параметроэффективное дообучение (Parameter-Efficient Fine-Tuning, PEFT)
         - Оптимизируем дообучение LLM: теория + гайд — обзор prefix-tuning, prompt-tuning, P-tuning и LoRA с реализациями на PyTorch и PEFT, а также практический пайплайн дообучения Llama 3.2 3B через Transformers и Unsloth. https://habr.com/ru/articles/860892/
+    - Прикладные кейсы дообучения моделей
         - Fine-tune Qwen3 Embeddings для классификации категорий товаров — практический LoRA-кейс на корпусе Web Data Commons: подготовка данных, дообучение Qwen3-Embedding 0.6B для шести товарных категорий, оценка по macro-F1 и accuracy и замеры инференса на GPU. https://habr.com/ru/articles/944520/
     - Обучение с подкреплением (Reinforcement Learning)
         - Как мы готовим RL для Alignment в больших языковых моделях: опыт команды YandexGPT https://habr.com/ru/companies/yandex/articles/817391/
