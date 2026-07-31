@@ -103,12 +103,32 @@
 - PicoCTF (https://picoctf.com/) - обучение проходит в формате Capture The Flag, пользователям придётся искать уязвимости в веб-приложениях, проводить криминалистический анализ цифровых данных, разбирать бинарные файлы и др., отдельное внимание уделяется сетевой безопасности и методам разведки по открытым источникам.
 - Виртуальные лаборатории TryHackMe (https://tryhackme.com/) и HackTheBox (https://www.hackthebox.com/) - здесь можно развернуть целые сети из виртуальных машин с разными операционными системами, а затем искать в них уязвимости, чаще всего для тренировки используют специальные версии Windows XP и Linux-систему Metasploitable – в них намеренно оставлены бреши в защите, чтобы пользователи могли оттачивать свои навыки.
 
-### Уязвимые лабораторные окружения; Боксы для тестирования взлома
+### Коллекции и каталоги уязвимых лабораторных окружений
 
 - Vulhub — коллекция готовых уязвимых окружений на основе Docker Compose для воспроизведения уязвимостей, обучения и исследований безопасности; для каждого окружения приведены инструкции по запуску и воспроизведению. https://github.com/vulhub/vulhub
 - DockerLabs — каталог уязвимых машин для практики пентестинга с разделением по сложности и направлениям: веб-безопасность, bug bounty, CMS, инфраструктура и pivoting. https://dockerlabs.es/
-- Pentest-In-Docker — учебный уязвимый Docker-образ для отработки эксплуатации Shellshock, повышения привилегий и выхода из контейнера, а также проверки средств контейнерной безопасности Trivy и Falco. https://github.com/Swordfish-Security/Pentest-In-Docker
 - Offensive Pentesting Lab — коллекция намеренно уязвимых Docker-контейнеров и готовых образов виртуальных машин для практики разведки, анализа и эксплуатации уязвимостей различных сетевых служб в изолированном окружении. https://github.com/InfoSecWarrior/Offensive-Pentesting-Lab
+
+### Docker-образы инструментов и рабочих окружений для тестирования безопасности
+
+- Kali Linux — официальный минимальный образ Kali Rolling; инструменты устанавливаются отдельно. Образ: `kalilinux/kali-rolling`; получение: `docker pull kalilinux/kali-rolling`. https://hub.docker.com/r/kalilinux/kali-rolling
+- OWASP ZAP — стабильный образ прокси и сканера безопасности веб-приложений. Образ: `zaproxy/zap-stable`; получение: `docker pull zaproxy/zap-stable`. https://hub.docker.com/r/zaproxy/zap-stable
+- WPScan — сканер безопасности WordPress. Образ: `wpscanteam/wpscan`; получение: `docker pull wpscanteam/wpscan`. https://hub.docker.com/r/wpscanteam/wpscan
+- Metasploit Framework — образ фреймворка для разработки и проверки эксплойтов. Образ: `metasploitframework/metasploit-framework`; получение: `docker pull metasploitframework/metasploit-framework`. https://hub.docker.com/r/metasploitframework/metasploit-framework
+- Docker Bench for Security — проверка конфигурации Docker по рекомендациям CIS Docker Benchmark. Опубликованный образ устарел, поэтому проект нужно собирать из репозитория: `git clone https://github.com/docker/docker-bench-security.git && cd docker-bench-security && docker compose run --rm docker-bench-security`. https://github.com/docker/docker-bench-security
+
+### Уязвимые Docker-образы и стенды для практики
+
+- Pentest-In-Docker — стенд для отработки эксплуатации Shellshock, повышения привилегий и выхода из контейнера, а также проверки Trivy и Falco. Образ: `dvyakimov/vuln-wheezy`; получение: `docker pull dvyakimov/vuln-wheezy`. https://github.com/Swordfish-Security/Pentest-In-Docker
+- DVWA — намеренно уязвимое приложение на PHP и MySQL для практики веб-безопасности. Образ: `vulnerables/web-dvwa`; получение: `docker pull vulnerables/web-dvwa`. https://hub.docker.com/r/vulnerables/web-dvwa
+- Vulnerable WordPress — намеренно уязвимая сборка WordPress для проверки WPScan и изучения уязвимостей экосистемы. Сборка: `git clone https://github.com/wpscanteam/VulnerableWordPress.git && cd VulnerableWordPress && docker build --rm -t wpscan/vulnerablewordpress .`. https://github.com/wpscanteam/VulnerableWordPress
+- Shellshock (CVE-2014-6271) — изолированный стенд для воспроизведения Shellshock. Образ: `hmlio/vaas-cve-2014-6271`; получение: `docker pull hmlio/vaas-cve-2014-6271`. https://hub.docker.com/r/hmlio/vaas-cve-2014-6271
+- Heartbleed (CVE-2014-0160) — изолированный стенд для воспроизведения Heartbleed. Образ: `hmlio/vaas-cve-2014-0160`; получение: `docker pull hmlio/vaas-cve-2014-0160`. https://hub.docker.com/r/hmlio/vaas-cve-2014-0160
+- Security Ninjas — учебное приложение по безопасности веб-приложений. Образ: `opendns/security-ninjas`; получение: `docker pull opendns/security-ninjas`. https://hub.docker.com/r/opendns/security-ninjas
+- OWASP Security Shepherd — платформа с заданиями по безопасности веб- и мобильных приложений. Образ: `owasp/security-shepherd`; получение: `docker pull owasp/security-shepherd`. https://hub.docker.com/r/owasp/security-shepherd
+- OWASP WebGoat — намеренно небезопасное Java-приложение для изучения типовых веб-уязвимостей. Образ: `webgoat/webgoat`; получение: `docker pull webgoat/webgoat`. https://hub.docker.com/r/webgoat/webgoat
+- OWASP NodeGoat — учебное Node.js-приложение по рискам OWASP Top 10. Запуск из репозитория: `git clone https://github.com/OWASP/NodeGoat.git && cd NodeGoat && docker compose up --build`. https://github.com/OWASP/NodeGoat
+- OWASP Mutillidae II — намеренно уязвимое веб-приложение для практики пентестинга. Образ: `webpwnized/mutillidae:www`; получение: `docker pull webpwnized/mutillidae:www`. https://hub.docker.com/r/webpwnized/mutillidae
 
 ### Смартфоны
 
