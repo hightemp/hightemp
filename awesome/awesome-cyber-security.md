@@ -6,6 +6,7 @@
 - https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection
 - Awesome Cybersecurity List — персональная подборка cybersecurity blog posts, write-ups и papers, разложенная по годам с 2011 по 2026 и отдельными разделами Misc/Other Lists; полезна для чтения разборов уязвимостей, exploit chains, reverse engineering, malware, kernel/browser/mobile/security research. https://github.com/0xor0ne/awesome-list
 - Hacking-Tools — каталог на GitHub с большой библиотекой инструментов кибербезопасности, сгруппированных по категориям (OSINT, сканирование уязвимостей, пентест, анализ сетей и трафика, форензика, стресс‑тесты, подбор паролей, анализ веба, реверс‑инжиниринг и социальная инженерия). https://github.com/yogsec/Hacking-Tools
+- Awesome AI Security Benchmarks — развивающийся каталог бенчмарков безопасности AI с разбивкой по годам, типам и задачам: CTF, пентест, поиск и исправление уязвимостей, CTI/SOC, prompt injection и безопасность агентов; для многих позиций приведены статьи, датасеты, сайты и репозитории. https://github.com/EvanThomasLuke/Awesome-AI-Security-Benchmarks
 
 ### Модели для кибербезопасности
 
@@ -15,12 +16,20 @@
 ### Бенчмарки для AI-агентов в кибербезопасности
 
 - Inspect Evals — официальный репозиторий готовых оценок для фреймворка Inspect AI; раздел кибербезопасности содержит запускаемые реализации Cybench, CVE-Bench, CyberGym, CyberSecEval, 3CB, InterCode-CTF и других бенчмарков. https://github.com/UKGovernmentBEIS/inspect_evals
+- AgentThreatBench — бенчмарк 2026 года для проверки устойчивости LLM-агентов к угрозам OWASP Top 10 for Agentic Applications; три запускаемые задачи Inspect одновременно измеряют полезность и безопасность при отравлении памяти, перехвате автономного поведения и эксфильтрации данных. https://ukgovernmentbeis.github.io/inspect_evals/evals/safeguards/agent_threat_bench/ https://github.com/UKGovernmentBEIS/inspect_evals/tree/main/src/inspect_evals/agent_threat_bench
+- CyberSecEval 4 — набор бенчмарков Meta для оценки наступательных и защитных возможностей AI: автономных киберопераций, эксплуатации уязвимостей, автоматического исправления кода, malware/CTI-анализа, prompt injection, злоупотребления интерпретатором и генерации безопасного кода. https://meta-llama.github.io/PurpleLlama/CyberSecEval/ https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks
+- DefenderBench — открытый набор интерактивных сред Microsoft для оценки языковых агентов в сетевом вторжении, обнаружении вредоносного текста и сайтов, CTI-вопросах, поиске и исправлении уязвимостей кода. https://github.com/microsoft/DefenderBench
 - ExploitGym — крупномасштабный бенчмарк из 869 реальных уязвимостей в userspace-программах, движке V8 и ядре Linux для оценки способности AI-агентов разрабатывать работающие эксплойты; включает изолированные Docker-окружения, автоматическую оценку и firewall для ограничения сети. https://github.com/sunblaze-ucb/exploitgym
 - ExploitBench — бенчмарк и leaderboard для оценки полного процесса разработки эксплойтов по пяти уровням: достижение уязвимого кода, воспроизведение сбоя, построение специфичных и универсальных exploit primitives и arbitrary code execution. Первый набор `v8-bench` проверяет 16 возможностей на production V8 с включённым security sandbox, используя детерминированный verifier, Docker-окружения и MCP. https://exploitbench.ai/ https://github.com/exploitbench/exploitbench
 - CVE-Bench — бенчмарк из 40 критических CVE для оценки способности AI-агентов эксплуатировать реальные уязвимости веб-приложений; поддерживает zero-day и one-day сценарии и запускает воспроизводимые проверки в изолированных Docker-окружениях через Inspect. https://github.com/uiuc-kang-lab/cve-bench
 - Cybench — бенчмарк для оценки возможностей и рисков языковых моделей в кибербезопасности на 40 профессиональных CTF-задачах из четырёх соревнований; охватывает криптографию, веб-безопасность, reverse engineering, форензику и эксплуатацию, а промежуточные подзадачи позволяют оценивать частичный прогресс агента. https://cybench.github.io/ https://github.com/andyzorigin/cybench
+- BountyBench — бенчмарк реальных bug bounty-задач для сквозной оценки обнаружения, эксплуатации и исправления уязвимостей AI-агентами с учётом денежной ценности результата; содержит воспроизводимые окружения и отдельные detect, exploit и patch workflows. https://bountybench.com/ https://github.com/bountybench/bountybench
+- TermiBench — реалистичный agent-oriented бенчмарк пентестинга на 510 хостах, 25 сервисах и 30 CVE, где целью является получение полного контроля над системой, а не поиск CTF-флага; код и контейнеризованные уязвимые сервисы опубликованы на Zenodo. https://arxiv.org/abs/2509.09207 https://zenodo.org/records/17479793
 - CyberGym-E2E — end-to-end бенчмарк из 920 реальных уязвимостей в 139 open-source проектах: агент должен самостоятельно обнаружить уязвимость, создать PoC и написать исправление; также есть patch-only режим и четыре стадии проверки результата. https://www.cybergym.io/cybergym-e2e/ https://github.com/sunblaze-ucb/cybergym-e2e
 - CyberGym — фреймворк оценки AI-агентов на 1507 исторических уязвимостях из 188 проектов OSS-Fuzz: проверяет воспроизведение уязвимостей работающими PoC, поддерживает несколько уровней входных данных, open-ended vulnerability discovery и локальное Docker-развёртывание. https://www.cybergym.io/cybergym/ https://github.com/sunblaze-ucb/cybergym
+- SEC-bench — воспроизводимый Docker-бенчмарк реальных software-security задач для LLM-агентов: автоматически строит экземпляры из OSV/CVE и оценивает генерацию PoC и исправление уязвимостей с поддержкой SWE-agent, OpenHands, Aider и smolagents. https://sec-bench.github.io/ https://github.com/SEC-bench/SEC-bench
+- A.S.E — repository-level бенчмарк Tencent для оценки безопасности кода, создаваемого моделями и coding-агентами, на сценариях из реальных проектов и CVE-патчей; охватывает 29 типов CWE и сочетает функциональные тесты, статический анализ и динамическую проверку PoC. https://github.com/Tencent/AICGSecEval
+- SecCodeBench — бенчмарк для современных agentic coding tools с 98 проверенными экспертами задачами на Java, C/C++, Python, Go и Node.js по 22 типам CWE; оценивает генерацию и исправление кода, сначала проверяя функциональность, а затем безопасность динамическими PoC и специализированным judge. https://github.com/alibaba/sec-code-bench
 
 ### AI Инструменты для пентестинга
 
@@ -93,6 +102,11 @@
 - OverTheWire (https://overthewire.org/wargames/) - платформа объединяет серию обучающих игр (wargames), ставших настоящей находкой для начинающих, с каждым уровнем сложность возрастает, а задачи становятся более комплексными.
 - PicoCTF (https://picoctf.com/) - обучение проходит в формате Capture The Flag, пользователям придётся искать уязвимости в веб-приложениях, проводить криминалистический анализ цифровых данных, разбирать бинарные файлы и др., отдельное внимание уделяется сетевой безопасности и методам разведки по открытым источникам.
 - Виртуальные лаборатории TryHackMe (https://tryhackme.com/) и HackTheBox (https://www.hackthebox.com/) - здесь можно развернуть целые сети из виртуальных машин с разными операционными системами, а затем искать в них уязвимости, чаще всего для тренировки используют специальные версии Windows XP и Linux-систему Metasploitable – в них намеренно оставлены бреши в защите, чтобы пользователи могли оттачивать свои навыки.
+
+### Уязвимые лабораторные окружения; Боксы для тестирования взлома
+
+- Vulhub — коллекция готовых уязвимых окружений на основе Docker Compose для воспроизведения уязвимостей, обучения и исследований безопасности; для каждого окружения приведены инструкции по запуску и воспроизведению. https://github.com/vulhub/vulhub
+- DockerLabs — каталог уязвимых машин для практики пентестинга с разделением по сложности и направлениям: веб-безопасность, bug bounty, CMS, инфраструктура и pivoting. https://dockerlabs.es/
 
 ### Смартфоны
 
