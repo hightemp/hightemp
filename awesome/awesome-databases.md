@@ -54,6 +54,8 @@
 - MongoDB
     - Основное
         - Где хранить неструктурированные данные: СУБД MongoDB для веб-разработчиков и аналитиков https://practicum.yandex.ru/blog/subd-mongodb-ustanovka-i-ispolzovanie/
+    - Aggregation Pipeline
+        - How to Use `$redact` for Field-Level Access Control in MongoDB Aggregation — руководство по фильтрации полей, вложенных документов и массивов в aggregation pipeline с помощью `$$KEEP`, `$$PRUNE` и `$$DESCEND`; включает примеры security labels, ролевого доступа, совместного применения с `$match` и ограничения подхода. https://oneuptime.com/blog/post/2026-03-31-mongodb-redact-field-level-access-control/view
     - Резервное копирование
         - Резервное копирование и восстановление MongoDB https://www.8host.com/blog/rezervnoe-kopirovanie-i-vosstanovlenie-mongodb/
 - PostgreSQL
