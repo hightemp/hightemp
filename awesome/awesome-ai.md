@@ -803,10 +803,6 @@
 - Модели
     - Qwen3.5-9B-Uncensored-HauhauCS-Aggressive — Apache-2.0 GGUF-версия Qwen3.5-9B с жёстко снятыми refusal/safety-фильтрами; автор заявляет 0/465 refusals и сохранение возможностей базовой модели. Поддерживает text/image/video, 201 язык, 262K native context, кванты BF16/Q8/Q6/Q4_K_M размером примерно 5.3–17 GB и запуск через llama.cpp, LM Studio, Jan, koboldcpp и совместимые runtime. Публикация `jaahas/qwen3.5-uncensored` для Ollama объединяет варианты 2B, 4B, 9B, 27B и 35B с контекстом 256K; её `latest` соответствует 9B. Использовать только в контролируемой среде: модели специально публикуются без стандартных safety-ограничений. https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive https://ollama.com/jaahas/qwen3.5-uncensored
 
-### Безопасность
-
-- Claude Code Security Reviewer — инструмент для автоматической проверки безопасности кода и выявления уязвимостей, созданный компанией Anthropic. https://www.anthropic.com/news/automate-security-reviews-with-claude-code https://github.com/anthropics/claude-code-security-review
-
 ### Распознавание речи
 
 - https://huggingface.co/spaces/Xenova/whisper-web

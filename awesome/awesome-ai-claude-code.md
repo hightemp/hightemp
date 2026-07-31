@@ -53,6 +53,10 @@
 
 - claude-code-workflows — набор плагинов для Claude Code, реализующий сквозные рабочие процессы AI-ассистируемой разработки (бэкенд, фронтенд, полный стек) с разделением на специализированных агентов для формулирования требований, проектирования, реализации и проверки качества. https://github.com/shinpr/claude-code-workflows
 
+### Безопасность
+
+- Claude Code Security Reviewer — инструмент для автоматической проверки безопасности кода и выявления уязвимостей, созданный компанией Anthropic. https://www.anthropic.com/news/automate-security-reviews-with-claude-code https://github.com/anthropics/claude-code-security-review
+
 ### Карьера; Job Search
 
 - Career-Ops — open-source система поиска работы на базе Claude Code: slash-команда `/career-ops` с 14 режимами для оценки вакансий, сканирования job boards и career pages, генерации ATS-оптимизированных PDF-резюме под конкретную вакансию, batch processing, заполнения анкет, подготовки к интервью и TUI-dashboard для трекинга pipeline. https://github.com/santifer/career-ops
