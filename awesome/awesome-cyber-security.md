@@ -14,6 +14,7 @@
 
 ### Бенчмарки для AI-агентов в кибербезопасности
 
+- Inspect Evals — официальный репозиторий готовых оценок для фреймворка Inspect AI; раздел кибербезопасности содержит запускаемые реализации Cybench, CVE-Bench, CyberGym, CyberSecEval, 3CB, InterCode-CTF и других бенчмарков. https://github.com/UKGovernmentBEIS/inspect_evals
 - ExploitGym — крупномасштабный бенчмарк из 869 реальных уязвимостей в userspace-программах, движке V8 и ядре Linux для оценки способности AI-агентов разрабатывать работающие эксплойты; включает изолированные Docker-окружения, автоматическую оценку и firewall для ограничения сети. https://github.com/sunblaze-ucb/exploitgym
 - ExploitBench — бенчмарк и leaderboard для оценки полного процесса разработки эксплойтов по пяти уровням: достижение уязвимого кода, воспроизведение сбоя, построение специфичных и универсальных exploit primitives и arbitrary code execution. Первый набор `v8-bench` проверяет 16 возможностей на production V8 с включённым security sandbox, используя детерминированный verifier, Docker-окружения и MCP. https://exploitbench.ai/ https://github.com/exploitbench/exploitbench
 - CVE-Bench — бенчмарк из 40 критических CVE для оценки способности AI-агентов эксплуатировать реальные уязвимости веб-приложений; поддерживает zero-day и one-day сценарии и запускает воспроизводимые проверки в изолированных Docker-окружениях через Inspect. https://github.com/uiuc-kang-lab/cve-bench
@@ -293,6 +294,8 @@
 
 ### Статьи
 
+- Оценка AI-агентов в кибербезопасности
+    - Measuring AI Agents’ Progress on Multi-Step Cyber Attack Scenarios — исследование автономных кибератак на двух специализированных cyber range: 32-шаговой корпоративной сети и 7-шаговой промышленной системе управления; сравнивает семь frontier-моделей, влияние бюджета до 100 млн токенов и способность агентов связывать разнородные техники в длинные цепочки атак. https://arxiv.org/html/2603.11214v2
 - Уязвимости; CVE; write-up
     - Copy Fail (CVE-2026-31431) — disclosure и технический разбор Linux kernel LPE в `algif_aead`/`authencesn`: цепочка `AF_ALG` + `splice()` даёт unprivileged local user контролируемую 4-byte запись в page cache читаемого файла, что превращается в root через setuid-бинарник и затрагивает multi-tenant Linux, CI runners и контейнерные/Kubernetes-среды; есть mitigations через патч kernel commit `a664bf3d603d`, блокировку `AF_ALG`/`algif_aead` и PoC-репозиторий для авторизованной проверки патчей. https://copy.fail/ https://xint.io/blog/copy-fail-linux-distributions https://github.com/theori-io/copy-fail-CVE-2026-31431
 - DevSecOps
