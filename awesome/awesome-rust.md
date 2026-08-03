@@ -772,6 +772,8 @@
   - unsafe
     - Learn Unsafe Rust From My Mistakes https://geo-ant.github.io/blog/2023/unsafe-rust-exploration/
     - Why Rust's Unsafe Works https://jam1.re/blog/why-rusts-unsafe-works
+  - FFI
+    - Rust + C++ через FFI: как подружить два мира и не сойти с ума — практический пример Rust-библиотеки с C API, генерацией заголовков через `cbindgen`, общей сборкой через CMake и callbacks из Rust в C++; отдельно разобраны указатели, жизненный цикл объектов и совместимость ABI. https://habr.com/ru/articles/953524/
   - macros, Макросы
     - Macros By Example https://doc.rust-lang.org/stable/reference/macros-by-example.html
   - Остальное
