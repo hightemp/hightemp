@@ -1,3 +1,7 @@
+### Репозитории
+
+- OpenSERP — open-source self-hosted SERP API и CLI для Google, Yandex, Baidu, Bing, DuckDuckGo и Ecosia: работает без API-ключей, возвращает выдачу по единой схеме, объединяет и дедуплицирует результаты нескольких поисковиков и извлекает страницы в Markdown; есть Docker-образ и официальный MCP-сервер. https://github.com/karust/openserp
+
 ### Статьи
 
 - Google
