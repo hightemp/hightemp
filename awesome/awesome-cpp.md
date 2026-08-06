@@ -65,6 +65,8 @@
 
 ### Книги
 
+- Основное
+  - C++ course notes — онлайн-книга по материалам курса кафедры КТ ИТМО: от архитектуры компьютера, ассемблера и модели компиляции до RAII, шаблонов, STL, многопоточности, Qt, концептов, ranges, корутин и модулей; главы дополнены записями лекций. https://cpp-kt.github.io/cpp-notes/
 - Компиляторы и интерпретаторы
   - https://craftinginterpreters.com/
 - Современный C++
@@ -82,7 +84,6 @@
 ### Курсы
 
 - https://ravesli.com/uroki-cpp/
-- https://cpp-kt.github.io/cpp-notes/
 
 ### Гайды
 
@@ -139,6 +140,7 @@
     - Урок №80. Указатели https://ravesli.com/urok-80-ukazateli-vvedenie/
     - Упрощённое руководство по работе с памятью Си https://habr.com/ru/articles/711458/
   - Компиляция
+    - Процесс компиляции программ — подробная глава о препроцессинге, трансляции, ассемблировании и линковке C++; объясняет единицы трансляции, объявления и определения, символы и релокации, `nm`/`objdump`, заголовочные файлы, ODR и `inline`. https://cpp-kt.github.io/cpp-notes/05_compilation.html
     - О GCC, компиляции и библиотеках https://pyviy.blogspot.com/2010/12/gcc.html
     - О GCC, компиляции и библиотеках часть 2 https://uzverss.livejournal.com/57883.html
     - Оптимизируя неоптимизируемое: ускорение компиляции C++ https://habr.com/ru/companies/ruvds/articles/785420/
