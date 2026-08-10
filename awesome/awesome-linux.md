@@ -229,8 +229,8 @@
             - Глубокое погружение в Linux namespaces, часть 4 https://habr.com/ru/articles/549414/
         - ELF Файлы и Библиотеки (ELF Files and Libraries)
             - ELF Файлы (ELF Files)
+                - Evolution of the ELF object file format — история ELF от System V Release 4 и TIS до современного generic ABI; объясняет связь формата с System V ABI, psABI и OSABI и судьбу его спецификации. https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format
                 - Рецепты для ELFов https://habr.com/ru/companies/inforion/articles/460247/
-                - Evolution of the ELF object file format — история ELF от System V Release 4 и TIS до современной generic ABI; разбирает смену сопровождающих организаций, связь с System V ABI, ключевые расширения формата, процессорные psABI и OS-specific ABI. https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format
             - Библиотеки (Libraries)
                 - What is a Shared Object File https://cloudmersive.com/article/What-is-a-Shared-Object-File
                 - musl FAQ — официальный FAQ по musl libc: что делает C-библиотека в Linux userspace, чем musl отличается от glibc/uClibc/dietlibc, как собирать и использовать `musl-gcc`, где границы совместимости с glibc и какие portability-проблемы обычно всплывают при сборке пакетов. https://www.musl-libc.org/faq.html
