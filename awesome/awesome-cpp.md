@@ -400,6 +400,8 @@
       - Adding a Dependency Based on Autotools to a Bazel Project https://bloggerbust.ca/post/adding-a-dependency-based-on-autotools-to-a-bazel-project/
   - CMake; генератор систем сборки
     - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
+    - Сборка на CMake для новичка — вводный разбор структуры проекта, out-of-source сборки, библиотек, подпроектов и отдельных targets. https://habr.com/ru/articles/904992/
+    - Руководство CMake. Шаг 1. Базовая отправная точка — практические упражнения по созданию проекта, выбору стандарта C++ и генерации конфигурационного заголовка через `configure_file()`. https://radioprog.ru/post/1577
     - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
     - Полное руководство по CMake. Часть первая: Синтаксис https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-pervaya-Sintaksis-02-27
     - Полное руководство по CMake. Часть вторая: Система сборки https://web.archive.org/web/20220528140444/https://habr.com/en/post/432096/
