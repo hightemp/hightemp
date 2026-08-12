@@ -405,6 +405,7 @@
     - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
     - Полное руководство по CMake. Часть первая: Синтаксис https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-pervaya-Sintaksis-02-27
     - Полное руководство по CMake. Часть вторая: Система сборки https://web.archive.org/web/20220528140444/https://habr.com/en/post/432096/
+    - Руководство по CMake для разработчиков C++ библиотек — modern CMake для интеграции через `find_package` и `FetchContent`, экспорта символов, установки package-конфигурации и сборки тестов. https://habr.com/ru/articles/683204/
   - Make, Makefile
     - GNU make https://www.gnu.org/software/make/manual/make.html
     - Makefile для самых маленьких https://habr.com/ru/articles/155201/
