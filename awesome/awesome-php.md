@@ -490,6 +490,28 @@ vendor/bin/phpqt-install
     - Готовимся к собеседованию по PHP: псевдотип «callable» https://habr.com/ru/articles/259991/
     - Готовимся к собеседованию по PHP: Всё об итерации и немного про псевдотип «iterable» https://habr.com/ru/articles/324934/
     - Готовимся к собеседованию по PHP: Всё, что вы хотели узнать об интерфейсах, совместимости сигнатур и не побоялись узнать https://habr.com/ru/articles/328890/
+- Безопасность
+  - Основное
+    - Security — официальный индекс PHP Manual по безопасности пользовательского ввода, файловой системы, баз данных, сессий и конфигурации. https://www.php.net/manual/en/security.php
+  - Конфигурация
+    - PHP Configuration Cheat Sheet — рекомендации OWASP по hardening `php.ini`, сессий, загрузки файлов и потенциально опасных функций. https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html
+  - Пользовательский ввод
+    - User Submitted Data — границы доверия и проверка данных из `$_GET`, `$_POST`, cookies, загруженных файлов и других внешних источников. https://www.php.net/manual/en/security.variables.php
+  - Сессии
+    - Session Management Basics — защита от session fixation и кражи сессий, ротация идентификаторов, strict mode и контроль активных сессий. https://www.php.net/manual/en/features.session.security.management.php
+    - Securing Session INI Settings — безопасные настройки `HttpOnly`, `Secure`, `SameSite`, `session.use_strict_mode` и `session.save_path`. https://www.php.net/manual/en/session.security.ini.php
+  - Пароли
+    - Hashing passwords safely and securely — `password_hash()`, `password_verify()`, соли и причины не использовать MD5/SHA-1 для хранения паролей. https://www.php.net/manual/en/faq.passwords.php
+  - Базы данных
+    - SQL Injection — примеры атак, подготовленные выражения, проверка входных данных и принцип минимальных привилегий для подключения к БД. https://www.php.net/manual/en/security.database.sql-injection.php
+  - Файловая система
+    - Filesystem Security — права доступа, проверка путей и риски файловых операций с пользовательскими данными. https://www.php.net/manual/en/security.filesystem.php
+  - Сериализация
+    - `unserialize()` — официальное предупреждение о PHP Object Injection и выполнении кода при десериализации недоверенных данных. https://www.php.net/manual/en/function.unserialize.php
+  - Зависимости
+    - Composer audit — проверка установленных пакетов на известные уязвимости, заброшенность и отметки malware. https://getcomposer.org/doc/03-cli.md#audit
+  - Остальное
+    - The 2018 Guide to Building Secure PHP Software — большой обзор XSS, CSRF, SQL injection, загрузки файлов, десериализации, паролей и криптографии; отдельные рекомендации по версиям PHP и HTTP-заголовкам устарели и требуют сверки с актуальной документацией. https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software
 - Отладчики, Debugger
   - XDebug
     - Configure Xdebug https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html
