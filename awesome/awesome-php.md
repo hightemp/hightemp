@@ -269,6 +269,7 @@ vendor/bin/phpqt-install
 - Свободный перевод официального руководства по Codeception https://github.com/yupe/codeception-guide-ru/tree/master
 - http://phpsadness.com/ созданный Эриком Вастлом для документирования реальных ошибок и странного поведения PHP.
 - DesignPatternsPHP — это коллекция примеров реализации широко известных шаблонов проектирования на PHP 8.x с пояснениями и тестами для изучения основных паттернов ООП. https://github.com/DesignPatternsPHP/DesignPatternsPHP
+- PHP Must Watch — подборка конференционных докладов и видео по PHP: основы, архитектура, производительность, безопасность, тестирование и фреймворки. https://github.com/phptodayorg/php-must-watch
 
 ### Доступно ли в PHP
 
@@ -713,6 +714,8 @@ vendor/bin/phpqt-install
   - https://github.com/CodelyTV/php-ddd-example
   - https://github.com/jorge07/ddd-playground
   - https://github.com/ilyachase/monolith-decoupling-example
+- CQRS и Event Sourcing
+  - Broadway — архивированный набор слабосвязанных компонентов, инфраструктуры и тестовых helpers для CQRS/Event Sourcing приложений с примерами реализации. https://github.com/broadway/broadway
 
 ### Stackoverflow
 
