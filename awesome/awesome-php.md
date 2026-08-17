@@ -501,6 +501,8 @@ vendor/bin/phpqt-install
     - User Submitted Data — границы доверия и проверка данных из `$_GET`, `$_POST`, cookies, загруженных файлов и других внешних источников. https://www.php.net/manual/en/security.variables.php
   - XSS
     - Everything You Need to Know About Preventing Cross-Site Scripting Vulnerabilities in PHP — контекстное экранирование HTML, attributes, JavaScript и URL; примеры следует сверять с современными браузерными рекомендациями. https://paragonie.com/blog/2015/06/preventing-xss-vulnerabilities-in-php-everything-you-need-know
+    - Joomla: PHP Bug Introduces Multiple XSS Vulnerabilities — обход фильтрации через неконсистентную обработку повреждённых multibyte-последовательностей функциями `mbstring`. https://www.sonarsource.com/blog/joomla-multiple-xss-vulnerabilities/
+    - Detecting and exploiting path-relative stylesheet import vulnerabilities — PRSSI/RPO на примере phpBB: особенности PHP path handling, относительных CSS-путей и MIME sniffing. https://portswigger.net/research/detecting-and-exploiting-path-relative-stylesheet-import-prssi-vulnerabilities
   - Сессии
     - Session Management Basics — защита от session fixation и кражи сессий, ротация идентификаторов, strict mode и контроль активных сессий. https://www.php.net/manual/en/features.session.security.management.php
     - Securing Session INI Settings — безопасные настройки `HttpOnly`, `Secure`, `SameSite`, `session.use_strict_mode` и `session.save_path`. https://www.php.net/manual/en/session.security.ini.php
@@ -518,6 +520,20 @@ vendor/bin/phpqt-install
   - Сериализация
     - `unserialize()` — официальное предупреждение о PHP Object Injection и выполнении кода при десериализации недоверенных данных. https://www.php.net/manual/en/function.unserialize.php
     - Securely Implementing (De)Serialization in PHP — PHP Object Injection, аутентификация сериализованных сообщений и выбор безопасного формата обмена. https://paragonie.com/blog/2016/04/securely-implementing-de-serialization-in-php
+    - Object serialization and injection in PHP — учебный разбор изменения свойств сериализованного объекта, magic methods и перехода от object injection к выполнению кода. https://www.arsouyes.org/articles/2020/14_PHP_Injection_Objet/index.en.html
+    - PHP Object Injection — формат сериализованных объектов, magic methods и построение POP chains для file write, SQL injection и RCE. https://www.sonarsource.com/blog/php-object-injection/
+    - What is Phar Deserialization — неявная десериализация метаданных через `phar://` при файловых операциях без прямого вызова `unserialize()`. https://www.sonarsource.com/blog/new-php-exploitation-technique/
+  - PHP-интерпретатор
+    - Breaking PHP’s Garbage Collection and Unserialize — исторический разбор UAF в GC и `unserialize()`, использованных в цепочке удалённого выполнения кода. https://www.evonide.com/breaking-phps-garbage-collection-and-unserialize/
+    - MAD Bugs: Finding and Exploiting a 21-Year-Old Vulnerability in PHP — исследование 2026 года о UAF в `unserialize()`, истории POP chains и proof of concept против PHP 8.5.5. https://blog.calif.io/p/mad-bugs-finding-and-exploiting-a
+    - Hack the Elephant One Bite at a Time — исследование memory-safety ошибок PHP при обработке JPEG и сценариев эксплуатации через потоковый ввод. https://swarm.ptsecurity.com/hack-the-elephant-one-bite-at-a-time-jpeg-related-memory-safety-bugs-in-php/
+  - Stream wrappers и фильтры
+    - Iconv, set the charset to RCE — превращение file-read в RCE через `php://filter`, iconv и CVE-2024-2961 в glibc. https://blog.lexfo.fr/iconv-cve-2024-2961-p1.html
+    - Introducing wrapwrap — построение произвольных prefix/suffix через цепочки PHP-фильтров для развития SSRF и LFI. https://blog.lexfo.fr/wrapwrap-php-filters-suffix.html
+  - Template injection
+    - Server-Side Template Injection — исходное исследование SSTI с эксплуатацией PHP-шаблонизаторов Twig и Smarty, включая sandbox bypasses. https://portswigger.net/research/server-side-template-injection
+  - Race conditions
+    - Smashing the state machine — race conditions в многошаговых процессах, частично созданные сущности и влияние блокировок PHP-сессий на тестирование атак. https://portswigger.net/research/smashing-the-state-machine
   - Криптография
     - How to Securely Generate Random Strings and Integers in PHP — CSPRNG, unbiased integer mapping и безопасное применение `random_bytes()`/`random_int()`. https://paragonie.com/blog/2015/07/how-safely-generate-random-strings-and-integers-in-php
     - Modern PHP data Encryption/Decryption with Sodium extension — симметричное и асимметричное authenticated encryption, ключи и nonce на практических примерах. https://php.watch/articles/modern-php-encryption-decryption-sodium
@@ -527,10 +543,14 @@ vendor/bin/phpqt-install
     - Composer audit — проверка установленных пакетов на известные уязвимости, заброшенность и отметки malware. https://getcomposer.org/doc/03-cli.md#audit
     - Composer Security Hardening — supply-chain threats, canonical repositories, lock-файл, `--no-dev` и риски package scripts/autoload. https://php.watch/articles/composer-security-hardening
     - New `composer audit` Command and security audits in Composer 2.4 — форматы отчётов, Packagist Security Advisories API и запуск проверки в CI/CD. https://php.watch/articles/composer-audit
+    - PHP Supply Chain Attack on PEAR — захват учётных записей разработчиков и центрального сервера PEAR через уязвимости, существовавшие более 15 лет. https://www.sonarsource.com/blog/php-supply-chain-attack-on-pear
+  - Веб-серверы и маршрутизация
+    - Nginx/Apache Path Confusion to Auth Bypass — обход аутентификации из-за различий нормализации URL между Nginx, Apache и PHP. https://www.slcyber.io/research/nginx-apache-path-confusion-to-auth-bypass-in-pan-os-cve-2025-0108
   - Legacy-приложения
     - How to extend the lifetime of legacy PHP applications — backported security fixes, LTS-дистрибутивы, локальные forks и изоляция устаревшего приложения. https://php.watch/articles/extend-lifetime-legacy-php
   - Остальное
     - The 2018 Guide to Building Secure PHP Software — большой обзор XSS, CSRF, SQL injection, загрузки файлов, десериализации, паролей и криптографии; отдельные рекомендации по версиям PHP и HTTP-заголовкам устарели и требуют сверки с актуальной документацией. https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software
+    - Survive The Deep End: PHP Security — большая книга по validation, injection, XSS, TLS и entropy; примеры и рекомендации по API следует сверять с современными версиями PHP. https://phpsecurity.readthedocs.io/en/latest/
 - Отладчики, Debugger
   - XDebug
     - Configure Xdebug https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html
