@@ -493,23 +493,42 @@ vendor/bin/phpqt-install
 - Безопасность
   - Основное
     - Security — официальный индекс PHP Manual по безопасности пользовательского ввода, файловой системы, баз данных, сессий и конфигурации. https://www.php.net/manual/en/security.php
+    - A Gentle Introduction to Application Security — вводная модель угроз через смешение данных и инструкций, ошибки бизнес-логики, уязвимое окружение и криптографические ошибки. https://paragonie.com/blog/2015/08/gentle-introduction-application-security
   - Конфигурация
     - PHP Configuration Cheat Sheet — рекомендации OWASP по hardening `php.ini`, сессий, загрузки файлов и потенциально опасных функций. https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html
+    - Security considerations when parsing user-provided INI strings and files — утечка переменных окружения и PHP-констант через `parse_ini_*`; защита с помощью `INI_SCANNER_RAW`. https://php.watch/articles/parse_ini_string-file-security-considerations
   - Пользовательский ввод
     - User Submitted Data — границы доверия и проверка данных из `$_GET`, `$_POST`, cookies, загруженных файлов и других внешних источников. https://www.php.net/manual/en/security.variables.php
+  - XSS
+    - Everything You Need to Know About Preventing Cross-Site Scripting Vulnerabilities in PHP — контекстное экранирование HTML, attributes, JavaScript и URL; примеры следует сверять с современными браузерными рекомендациями. https://paragonie.com/blog/2015/06/preventing-xss-vulnerabilities-in-php-everything-you-need-know
   - Сессии
     - Session Management Basics — защита от session fixation и кражи сессий, ротация идентификаторов, strict mode и контроль активных сессий. https://www.php.net/manual/en/features.session.security.management.php
     - Securing Session INI Settings — безопасные настройки `HttpOnly`, `Secure`, `SameSite`, `session.use_strict_mode` и `session.save_path`. https://www.php.net/manual/en/session.security.ini.php
+    - The Fast Track to Safe and Secure PHP Sessions — практическая настройка встроенных PHP-сессий: cookie flags, strict mode, ротация идентификаторов и защита от фиксации. https://paragonie.com/blog/2015/04/fast-track-safe-and-secure-php-sessions
+  - Аутентификация
+    - Implementing Secure User Authentication with “Remember Me” Cookies — selector/validator tokens, постоянная авторизация, восстановление доступа и отзыв токенов. https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence
   - Пароли
     - Hashing passwords safely and securely — `password_hash()`, `password_verify()`, соли и причины не использовать MD5/SHA-1 для хранения паролей. https://www.php.net/manual/en/faq.passwords.php
   - Базы данных
     - SQL Injection — примеры атак, подготовленные выражения, проверка входных данных и принцип минимальных привилегий для подключения к БД. https://www.php.net/manual/en/security.database.sql-injection.php
+    - Preventing SQL Injection in PHP Applications — prepared statements, отключение emulated prepares, allowlist для динамических identifiers и различие validation/sanitization. https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide
   - Файловая система
     - Filesystem Security — права доступа, проверка путей и риски файловых операций с пользовательскими данными. https://www.php.net/manual/en/security.filesystem.php
+    - How to Securely Allow Users to Upload Files — хранение вне document root, случайные имена, недоверенный MIME type и безопасная выдача загруженных файлов. https://paragonie.com/blog/2015/10/how-securely-allow-users-upload-files
   - Сериализация
     - `unserialize()` — официальное предупреждение о PHP Object Injection и выполнении кода при десериализации недоверенных данных. https://www.php.net/manual/en/function.unserialize.php
+    - Securely Implementing (De)Serialization in PHP — PHP Object Injection, аутентификация сериализованных сообщений и выбор безопасного формата обмена. https://paragonie.com/blog/2016/04/securely-implementing-de-serialization-in-php
+  - Криптография
+    - How to Securely Generate Random Strings and Integers in PHP — CSPRNG, unbiased integer mapping и безопасное применение `random_bytes()`/`random_int()`. https://paragonie.com/blog/2015/07/how-safely-generate-random-strings-and-integers-in-php
+    - Modern PHP data Encryption/Decryption with Sodium extension — симметричное и асимметричное authenticated encryption, ключи и nonce на практических примерах. https://php.watch/articles/modern-php-encryption-decryption-sodium
+  - HTTP и SSRF
+    - PHP Curl Security Hardening — ограничение протоколов, TLS-проверки, redirects, proxy и защита серверных запросов от SSRF. https://php.watch/articles/php-curl-security-hardening
   - Зависимости
     - Composer audit — проверка установленных пакетов на известные уязвимости, заброшенность и отметки malware. https://getcomposer.org/doc/03-cli.md#audit
+    - Composer Security Hardening — supply-chain threats, canonical repositories, lock-файл, `--no-dev` и риски package scripts/autoload. https://php.watch/articles/composer-security-hardening
+    - New `composer audit` Command and security audits in Composer 2.4 — форматы отчётов, Packagist Security Advisories API и запуск проверки в CI/CD. https://php.watch/articles/composer-audit
+  - Legacy-приложения
+    - How to extend the lifetime of legacy PHP applications — backported security fixes, LTS-дистрибутивы, локальные forks и изоляция устаревшего приложения. https://php.watch/articles/extend-lifetime-legacy-php
   - Остальное
     - The 2018 Guide to Building Secure PHP Software — большой обзор XSS, CSRF, SQL injection, загрузки файлов, десериализации, паролей и криптографии; отдельные рекомендации по версиям PHP и HTTP-заголовкам устарели и требуют сверки с актуальной документацией. https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software
 - Отладчики, Debugger
