@@ -1581,11 +1581,16 @@ https://arxiv.org/pdf/2411.08804v1
     - Эмбеддинги (Embeddings)
         - 10 Top Alternatives to text-embedding-ada-002 https://www.pingcap.com/article/10-top-alternatives-to-text-embedding-ada-002/
     - Позиционное кодирование (Positional Encoding)
-        - Demystifying Transformer Architecture: The Magic of Positional Encoding https://medium.com/@waelrashwan/demystifying-transformer-architecture-the-magic-of-positional-encoding-5fe8154d4a64
-        - Positional Encoding https://medium.com/@hunter-j-phillips/positional-encoding-7a93db4109e6
-        - Positional Encoding Explained: A Deep Dive into Transformer PE https://medium.com/thedeephub/positional-encoding-explained-a-deep-dive-into-transformer-pe-65cfe8cfe10b
-        - Positional Encoding in Transformer https://medium.com/@sachinsoni600517/positional-encoding-in-transformer-2cc4ec703076
-        - Explaining the need for positional encodings in Transformers https://medium.com/@ngiengkianyew/explaining-the-need-for-positional-encodings-in-transformers-db4209d4be10
+        - Основное
+            - Demystifying Transformer Architecture: The Magic of Positional Encoding https://medium.com/@waelrashwan/demystifying-transformer-architecture-the-magic-of-positional-encoding-5fe8154d4a64
+            - Positional Encoding https://medium.com/@hunter-j-phillips/positional-encoding-7a93db4109e6
+            - Positional Encoding Explained: A Deep Dive into Transformer PE https://medium.com/thedeephub/positional-encoding-explained-a-deep-dive-into-transformer-pe-65cfe8cfe10b
+            - Positional Encoding in Transformer https://medium.com/@sachinsoni600517/positional-encoding-in-transformer-2cc4ec703076
+            - Explaining the need for positional encodings in Transformers https://medium.com/@ngiengkianyew/explaining-the-need-for-positional-encodings-in-transformers-db4209d4be10
+        - Расширение контекстного окна (Context Window Extension)
+            - Extending the RoPE — разбор от авторов YaRN: RoPE, Position Interpolation, NTK-aware и NTK-by-parts интерполяция, температурное масштабирование attention и динамическое расширение контекста. https://blog.eleuther.ai/yarn/
+            - YaRN: Yet Another RoPE Extension Method — краткое объяснение расширения контекстного окна через разную интерполяцию частот RoPE и коррекцию температуры attention. https://alessioborgi.github.io/blog/transformers/yarn/
+            - LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens — статья о неравномерной позиционной интерполяции и поэтапном расширении контекста LLM до 2,048 млн токенов с сохранением качества на коротком контексте. https://arxiv.org/abs/2402.13753
     - Квантование (Quantization)
         - Quantization for Neural Networks https://leimao.github.io/article/Neural-Networks-Quantization/
         - Building a quantization paradigm from first principles https://github.com/google/gemmlowp/blob/16e8662c34917be0065110bfcd9cc27d30f52fdf/doc/quantization.md
