@@ -568,6 +568,7 @@ vendor/bin/phpqt-install
     - SOLID Principles in PHP: A Developer’s Guide to Clean Code https://peoplesblog.co.in/articles/understanding-the-solid-principles-in-php.html
     - Applying SOLID principles to modern PHP https://phpizza.com/articles/solid-php/
     - Mastering Clean PHP Code: A Deep Dive into SOLID Principles https://kitemetric.com/blogs/mastering-clean-php-code-a-deep-dive-into-solid-principles
+    - SOLID в реальном мире: LSP без квадратов и прямоугольников — третья часть PHP-серии о SOLID: практический разбор LSP через контракты, предусловия, постусловия и рефакторинг кода на PHP 8.1+. https://habr.com/ru/companies/agima/articles/1070242/
   - Чистая архитектура; Clean architecture
     - Clean Architecture with PHP https://medium.com/unil-ci-software-engineering/clean-architecture-with-php-22de915a6c50
     - Чистая архитектура на PHP. Как её измерять и контролировать? https://habr.com/ru/articles/504590/
