@@ -1591,6 +1591,8 @@ https://arxiv.org/pdf/2411.08804v1
             - YaRN
                 - Extending the RoPE — разбор от авторов YaRN: RoPE, Position Interpolation, NTK-aware и NTK-by-parts интерполяция, температурное масштабирование attention и динамическое расширение контекста. https://blog.eleuther.ai/yarn/
                 - YaRN: Yet Another RoPE Extension Method — краткое объяснение расширения контекстного окна через разную интерполяцию частот RoPE и коррекцию температуры attention. https://alessioborgi.github.io/blog/transformers/yarn/
+                - Interpolation in Positional Encodings and Using YaRN for Larger Context Window — практический туториал по интерполяции синусоидальных, обучаемых и RoPE-представлений с реализацией YaRN на PyTorch. https://machinelearningmastery.com/interpolation-in-positional-encodings-and-using-yarn-for-larger-context-window/
+                - YaRN: A Long-Context Extension Method for RoPE-Based LLMs — подробный инженерный разбор NTK-by-parts, масштабирования attention, Dynamic Scaling, ограничений KV-cache и стратегии дообучения длинного контекста. https://imoz.jp/scraps/202604_yarn.en.html
             - LongRoPE
                 - LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens — статья о неравномерной позиционной интерполяции и поэтапном расширении контекста LLM до 2,048 млн токенов с сохранением качества на коротком контексте. https://arxiv.org/abs/2402.13753
     - Квантование (Quantization)
