@@ -518,12 +518,15 @@ vendor/bin/phpqt-install
     - Implementing Secure User Authentication with “Remember Me” Cookies — selector/validator tokens, постоянная авторизация, восстановление доступа и отзыв токенов. https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence
   - Пароли
     - Hashing passwords safely and securely — `password_hash()`, `password_verify()`, соли и причины не использовать MD5/SHA-1 для хранения паролей. https://www.php.net/manual/en/faq.passwords.php
+  - Приведение типов
+    - (Super) Magic Hashes — эксплуатация нестрогих сравнений строк вида `0e...`, слабого хранения паролей и некорректного использования bcrypt. https://offsec.almond.consulting/super-magic-hash.html
   - Базы данных
     - SQL Injection — примеры атак, подготовленные выражения, проверка входных данных и принцип минимальных привилегий для подключения к БД. https://www.php.net/manual/en/security.database.sql-injection.php
     - Preventing SQL Injection in PHP Applications — prepared statements, отключение emulated prepares, allowlist для динамических identifiers и различие validation/sanitization. https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide
   - Файловая система
     - Filesystem Security — права доступа, проверка путей и риски файловых операций с пользовательскими данными. https://www.php.net/manual/en/security.filesystem.php
     - How to Securely Allow Users to Upload Files — хранение вне document root, случайные имена, недоверенный MIME type и безопасная выдача загруженных файлов. https://paragonie.com/blog/2015/10/how-securely-allow-users-upload-files
+    - Upgrade from LFI to RCE via PHP Sessions — развитие Local File Inclusion до выполнения кода через управляемые значения в файле PHP-сессии. https://www.rcesecurity.com/2017/08/upgrade-from-lfi-to-rce-via-php-sessions/
   - Сериализация
     - `unserialize()` — официальное предупреждение о PHP Object Injection и выполнении кода при десериализации недоверенных данных. https://www.php.net/manual/en/function.unserialize.php
     - Securely Implementing (De)Serialization in PHP — PHP Object Injection, аутентификация сериализованных сообщений и выбор безопасного формата обмена. https://paragonie.com/blog/2016/04/securely-implementing-de-serialization-in-php
@@ -534,9 +537,11 @@ vendor/bin/phpqt-install
     - Breaking PHP’s Garbage Collection and Unserialize — исторический разбор UAF в GC и `unserialize()`, использованных в цепочке удалённого выполнения кода. https://www.evonide.com/breaking-phps-garbage-collection-and-unserialize/
     - MAD Bugs: Finding and Exploiting a 21-Year-Old Vulnerability in PHP — исследование 2026 года о UAF в `unserialize()`, истории POP chains и proof of concept против PHP 8.5.5. https://blog.calif.io/p/mad-bugs-finding-and-exploiting-a
     - Hack the Elephant One Bite at a Time — исследование memory-safety ошибок PHP при обработке JPEG и сценариев эксплуатации через потоковый ввод. https://swarm.ptsecurity.com/hack-the-elephant-one-bite-at-a-time-jpeg-related-memory-safety-bugs-in-php/
+    - Security audit of PHP-SRC — результаты аудита PHP-FPM, PDO, MySQL, OpenSSL, multipart parsing и криптографических API с найденными уязвимостями и CVE. https://blog.quarkslab.com/security-audit-of-php-src.html
   - Stream wrappers и фильтры
     - Iconv, set the charset to RCE — превращение file-read в RCE через `php://filter`, iconv и CVE-2024-2961 в glibc. https://blog.lexfo.fr/iconv-cve-2024-2961-p1.html
     - Introducing wrapwrap — построение произвольных prefix/suffix через цепочки PHP-фильтров для развития SSRF и LFI. https://blog.lexfo.fr/wrapwrap-php-filters-suffix.html
+    - PHP filters chain: What is it and how to use it — построение данных цепочками `iconv`-фильтров и превращение file inclusion в RCE на примерах Laravel и Kohana. https://www.synacktiv.com/en/publications/php-filters-chain-what-is-it-and-how-to-use-it.html
   - Template injection
     - Server-Side Template Injection — исходное исследование SSTI с эксплуатацией PHP-шаблонизаторов Twig и Smarty, включая sandbox bypasses. https://portswigger.net/research/server-side-template-injection
   - Race conditions
@@ -546,6 +551,7 @@ vendor/bin/phpqt-install
     - Modern PHP data Encryption/Decryption with Sodium extension — симметричное и асимметричное authenticated encryption, ключи и nonce на практических примерах. https://php.watch/articles/modern-php-encryption-decryption-sodium
   - HTTP и SSRF
     - PHP Curl Security Hardening — ограничение протоколов, TLS-проверки, redirects, proxy и защита серверных запросов от SSRF. https://php.watch/articles/php-curl-security-hardening
+    - SSRF vs. Developers: A Study of SSRF-Defenses in PHP Applications — исследование методов защиты от SSRF и их распространённости в тысячах открытых PHP-приложений. https://www.usenix.org/conference/usenixsecurity24/presentation/wessels
   - Зависимости
     - Composer audit — проверка установленных пакетов на известные уязвимости, заброшенность и отметки malware. https://getcomposer.org/doc/03-cli.md#audit
     - Composer Security Hardening — supply-chain threats, canonical repositories, lock-файл, `--no-dev` и риски package scripts/autoload. https://php.watch/articles/composer-security-hardening
@@ -553,6 +559,7 @@ vendor/bin/phpqt-install
     - PHP Supply Chain Attack on PEAR — захват учётных записей разработчиков и центрального сервера PEAR через уязвимости, существовавшие более 15 лет. https://www.sonarsource.com/blog/php-supply-chain-attack-on-pear
   - Веб-серверы и маршрутизация
     - Nginx/Apache Path Confusion to Auth Bypass — обход аутентификации из-за различий нормализации URL между Nginx, Apache и PHP. https://www.slcyber.io/research/nginx-apache-path-confusion-to-auth-bypass-in-pan-os-cve-2025-0108
+    - Security Alert: CVE-2024-4577 — PHP CGI Argument Injection — обход защиты через Best-Fit преобразование символов в Windows и удалённое выполнение кода в PHP-CGI. https://devco.re/blog/2024/06/06/security-alert-cve-2024-4577-php-cgi-argument-injection-vulnerability-en/
   - Legacy-приложения
     - How to extend the lifetime of legacy PHP applications — backported security fixes, LTS-дистрибутивы, локальные forks и изоляция устаревшего приложения. https://php.watch/articles/extend-lifetime-legacy-php
   - Остальное
