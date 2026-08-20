@@ -327,6 +327,7 @@
 ### Блоги
 
 - https://alexmacra.com/author/alex/
+- Low-level adventures — независимый технический блог о reverse engineering, разработке эксплойтов, fuzzing и аппаратной безопасности; включает материалы по Linux kernel exploitation, GLIBC heap, ARM TEE и анализу устройств. https://0x434b.dev/
 
 ### Статьи
 
