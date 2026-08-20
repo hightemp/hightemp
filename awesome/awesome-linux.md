@@ -193,6 +193,7 @@
                     - What is Virtual Memory on Linux? https://www.scaler.com/topics/virtual-memory-in-linux/
                     - Describing Physical Memory https://www.kernel.org/doc/gorman/html/understand/understand005.html
                 - Адресные пространства процессов (Process Address Spaces)
+                    - ASLR In Depth — практический урок о `randomize_va_space`, отображениях `/proc/<pid>/maps` и влиянии PIE на рандомизацию 32- и 64-битных ELF-файлов; включает диагностические программы и проверку через `checksec`. https://deepwiki.com/nnamon/linux-exploitation-course/4.5-aslr-in-depth
             - Механизмы управления памятью (Memory Management Mechanisms)
                 - Страничная организация и Свопинг (Paging and Swapping)
                 - Выделение памяти (Memory Allocation)
