@@ -502,6 +502,7 @@ vendor/bin/phpqt-install
     - Security — официальный индекс PHP Manual по безопасности пользовательского ввода, файловой системы, баз данных, сессий и конфигурации. https://www.php.net/manual/en/security.php
     - A Gentle Introduction to Application Security — вводная модель угроз через смешение данных и инструкций, ошибки бизнес-логики, уязвимое окружение и криптографические ошибки. https://paragonie.com/blog/2015/08/gentle-introduction-application-security
     - Modern PHP Security Part 1: bug classes — обзор современных для PHP классов уязвимостей: SQL injection, file inclusion, десериализация и развитие SSRF до атаки на PHP-FPM. https://labs.detectify.com/security-guidance/modern-php-security-part-1-bug-classes/
+    - Injection Attacks — обзор SQL-, code-, command-, log-, path- и XML-инъекций в PHP; рекомендации для устаревших версий PHP и `libxml` следует сверять с современной конфигурацией. https://phpsecurity.readthedocs.io/en/latest/Injection-Attacks.html
   - Конфигурация
     - PHP Configuration Cheat Sheet — рекомендации OWASP по hardening `php.ini`, сессий, загрузки файлов и потенциально опасных функций. https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html
     - Security considerations when parsing user-provided INI strings and files — утечка переменных окружения и PHP-констант через `parse_ini_*`; защита с помощью `INI_SCANNER_RAW`. https://php.watch/articles/parse_ini_string-file-security-considerations
@@ -545,6 +546,7 @@ vendor/bin/phpqt-install
     - PHP Object Injection — формат сериализованных объектов, magic methods и построение POP chains для file write, SQL injection и RCE. https://www.sonarsource.com/blog/php-object-injection/
     - What is Phar Deserialization — неявная десериализация метаданных через `phar://` при файловых операциях без прямого вызова `unserialize()`. https://www.sonarsource.com/blog/new-php-exploitation-technique/
   - PHP-интерпретатор
+    - PHP filter_var shenanigans — обход `FILTER_VALIDATE_DOMAIN` из-за преобразования длины строки между signed и unsigned типами; для PoC требуется вход размером около 4 ГБ. https://pwning.systems/posts/php_filter_var_shenanigans/
     - Breaking PHP’s Garbage Collection and Unserialize — исторический разбор UAF в GC и `unserialize()`, использованных в цепочке удалённого выполнения кода. https://www.evonide.com/breaking-phps-garbage-collection-and-unserialize/
     - MAD Bugs: Finding and Exploiting a 21-Year-Old Vulnerability in PHP — исследование 2026 года о UAF в `unserialize()`, истории POP chains и proof of concept против PHP 8.5.5. https://blog.calif.io/p/mad-bugs-finding-and-exploiting-a
     - Hack the Elephant One Bite at a Time — исследование memory-safety ошибок PHP при обработке JPEG и сценариев эксплуатации через потоковый ввод. https://swarm.ptsecurity.com/hack-the-elephant-one-bite-at-a-time-jpeg-related-memory-safety-bugs-in-php/
