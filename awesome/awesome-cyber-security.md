@@ -328,6 +328,7 @@
 
 - https://alexmacra.com/author/alex/
 - Low-level adventures — независимый технический блог о reverse engineering, разработке эксплойтов, fuzzing и аппаратной безопасности; включает материалы по Linux kernel exploitation, GLIBC heap, ARM TEE и анализу устройств. https://0x434b.dev/
+- Andy's Cave — блог о security research космических систем, поиске уязвимостей, обходе exploit mitigations и аппаратном хакинге; включает исследования NASA cFS, F', OpenC3 COSMOS и спутниковых протоколов. https://andy.codes/blog/blog.html
 
 ### Статьи
 
