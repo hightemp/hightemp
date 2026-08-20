@@ -501,21 +501,29 @@ vendor/bin/phpqt-install
   - Основное
     - Security — официальный индекс PHP Manual по безопасности пользовательского ввода, файловой системы, баз данных, сессий и конфигурации. https://www.php.net/manual/en/security.php
     - A Gentle Introduction to Application Security — вводная модель угроз через смешение данных и инструкций, ошибки бизнес-логики, уязвимое окружение и криптографические ошибки. https://paragonie.com/blog/2015/08/gentle-introduction-application-security
+    - Modern PHP Security Part 1: bug classes — обзор современных для PHP классов уязвимостей: SQL injection, file inclusion, десериализация и развитие SSRF до атаки на PHP-FPM. https://labs.detectify.com/security-guidance/modern-php-security-part-1-bug-classes/
   - Конфигурация
     - PHP Configuration Cheat Sheet — рекомендации OWASP по hardening `php.ini`, сессий, загрузки файлов и потенциально опасных функций. https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html
     - Security considerations when parsing user-provided INI strings and files — утечка переменных окружения и PHP-констант через `parse_ini_*`; защита с помощью `INI_SCANNER_RAW`. https://php.watch/articles/parse_ini_string-file-security-considerations
+    - Exploiting Laravel based applications with leaked APP_KEYs and Queues — последствия утечки `.env` и `APP_KEY`, небезопасной десериализации и доступа к очередям Laravel. https://mogwailabs.de/en/blog/2022/08/exploiting-laravel-based-applications-with-leaked-app_keys-and-queues/
   - Пользовательский ввод
     - User Submitted Data — границы доверия и проверка данных из `$_GET`, `$_POST`, cookies, загруженных файлов и других внешних источников. https://www.php.net/manual/en/security.variables.php
   - XSS
     - Everything You Need to Know About Preventing Cross-Site Scripting Vulnerabilities in PHP — контекстное экранирование HTML, attributes, JavaScript и URL; примеры следует сверять с современными браузерными рекомендациями. https://paragonie.com/blog/2015/06/preventing-xss-vulnerabilities-in-php-everything-you-need-know
     - Joomla: PHP Bug Introduces Multiple XSS Vulnerabilities — обход фильтрации через неконсистентную обработку повреждённых multibyte-последовательностей функциями `mbstring`. https://www.sonarsource.com/blog/joomla-multiple-xss-vulnerabilities/
     - Detecting and exploiting path-relative stylesheet import vulnerabilities — PRSSI/RPO на примере phpBB: особенности PHP path handling, относительных CSS-путей и MIME sniffing. https://portswigger.net/research/detecting-and-exploiting-path-relative-stylesheet-import-prssi-vulnerabilities
+  - CSRF
+    - Cross-Site Request Forgeries — исторически важная PHP-статья, систематизировавшая CSRF и token-based защиту; примеры с `rand()`, `uniqid()`, MD5 и нестрогим сравнением устарели и не должны копироваться. https://shiflett.org/articles/cross-site-request-forgeries
+  - XML и XXE
+    - Revisting XXE and abusing protocols — эксплуатация XXE через OpenID, `php://filter` и `expect://`; рекомендации по `libxml` следует адаптировать к безопасным defaults PHP 8 и современной конфигурации парсера. https://sensepost.com/blog/2014/revisting-xxe-and-abusing-protocols/
   - Сессии
     - Session Management Basics — защита от session fixation и кражи сессий, ротация идентификаторов, strict mode и контроль активных сессий. https://www.php.net/manual/en/features.session.security.management.php
     - Securing Session INI Settings — безопасные настройки `HttpOnly`, `Secure`, `SameSite`, `session.use_strict_mode` и `session.save_path`. https://www.php.net/manual/en/session.security.ini.php
     - The Fast Track to Safe and Secure PHP Sessions — практическая настройка встроенных PHP-сессий: cookie flags, strict mode, ротация идентификаторов и защита от фиксации. https://paragonie.com/blog/2015/04/fast-track-safe-and-secure-php-sessions
   - Аутентификация
     - Implementing Secure User Authentication with “Remember Me” Cookies — selector/validator tokens, постоянная авторизация, восстановление доступа и отзыв токенов. https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence
+  - Контроль доступа
+    - BACFuzz: Exposing the Silence on Broken Access Control Vulnerabilities in Web Applications — gray-box fuzzing для поиска BOLA/BFLA в PHP-приложениях с runtime feedback и проверкой SQL-запросов. https://arxiv.org/abs/2507.15984
   - Пароли
     - Hashing passwords safely and securely — `password_hash()`, `password_verify()`, соли и причины не использовать MD5/SHA-1 для хранения паролей. https://www.php.net/manual/en/faq.passwords.php
   - Приведение типов
@@ -523,6 +531,9 @@ vendor/bin/phpqt-install
   - Базы данных
     - SQL Injection — примеры атак, подготовленные выражения, проверка входных данных и принцип минимальных привилегий для подключения к БД. https://www.php.net/manual/en/security.database.sql-injection.php
     - Preventing SQL Injection in PHP Applications — prepared statements, отключение emulated prepares, allowlist для динамических identifiers и различие validation/sanitization. https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide
+    - Stranger Strings: An exploitable flaw in SQLite — integer overflow и расхождение представлений в SQLite formatting API, достигнутые через PHP PDO SQLite и превращённые в memory corruption. https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/
+  - Командная строка
+    - Exploit/bypass PHP escapeshellarg/escapeshellcmd functions — различия между shell и argument injection, опасные параметры `tar`, `find`, `wget`, `curl`, `sendmail` и других программ. https://security.szurek.pl/en/exploit-bypass-php-escapeshellarg-escapeshellcmd/
   - Файловая система
     - Filesystem Security — права доступа, проверка путей и риски файловых операций с пользовательскими данными. https://www.php.net/manual/en/security.filesystem.php
     - How to Securely Allow Users to Upload Files — хранение вне document root, случайные имена, недоверенный MIME type и безопасная выдача загруженных файлов. https://paragonie.com/blog/2015/10/how-securely-allow-users-upload-files
@@ -538,6 +549,7 @@ vendor/bin/phpqt-install
     - MAD Bugs: Finding and Exploiting a 21-Year-Old Vulnerability in PHP — исследование 2026 года о UAF в `unserialize()`, истории POP chains и proof of concept против PHP 8.5.5. https://blog.calif.io/p/mad-bugs-finding-and-exploiting-a
     - Hack the Elephant One Bite at a Time — исследование memory-safety ошибок PHP при обработке JPEG и сценариев эксплуатации через потоковый ввод. https://swarm.ptsecurity.com/hack-the-elephant-one-bite-at-a-time-jpeg-related-memory-safety-bugs-in-php/
     - Security audit of PHP-SRC — результаты аудита PHP-FPM, PDO, MySQL, OpenSSL, multipart parsing и криптографических API с найденными уязвимостями и CVE. https://blog.quarkslab.com/security-audit-of-php-src.html
+    - Modern PHP Security Part 2: Breaching and hardening the PHP engine — обход ограничений движка и defense in depth через PHP-FPM isolation, read-only filesystem, `php.ini`, systemd и Snuffleupagus. https://labs.detectify.com/security-guidance/modern-php-security-part-2-breaching-and-hardening-the-php-engine/
   - Stream wrappers и фильтры
     - Iconv, set the charset to RCE — превращение file-read в RCE через `php://filter`, iconv и CVE-2024-2961 в glibc. https://blog.lexfo.fr/iconv-cve-2024-2961-p1.html
     - Introducing wrapwrap — построение произвольных prefix/suffix через цепочки PHP-фильтров для развития SSRF и LFI. https://blog.lexfo.fr/wrapwrap-php-filters-suffix.html
@@ -560,6 +572,8 @@ vendor/bin/phpqt-install
   - Веб-серверы и маршрутизация
     - Nginx/Apache Path Confusion to Auth Bypass — обход аутентификации из-за различий нормализации URL между Nginx, Apache и PHP. https://www.slcyber.io/research/nginx-apache-path-confusion-to-auth-bypass-in-pan-os-cve-2025-0108
     - Security Alert: CVE-2024-4577 — PHP CGI Argument Injection — обход защиты через Best-Fit преобразование символов в Windows и удалённое выполнение кода в PHP-CGI. https://devco.re/blog/2024/06/06/security-alert-cve-2024-4577-php-cgi-argument-injection-vulnerability-en/
+  - Тестирование безопасности
+    - What All the PHUZZ Is About — coverage-guided fuzzing PHP-приложений для поиска SQLi, command injection, десериализации, path traversal, XXE и XSS; проверено более 1000 endpoints WordPress-плагинов. https://arxiv.org/abs/2406.06261
   - Legacy-приложения
     - How to extend the lifetime of legacy PHP applications — backported security fixes, LTS-дистрибутивы, локальные forks и изоляция устаревшего приложения. https://php.watch/articles/extend-lifetime-legacy-php
   - Остальное
