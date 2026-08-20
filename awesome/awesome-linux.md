@@ -193,9 +193,10 @@
                     - What is Virtual Memory on Linux? https://www.scaler.com/topics/virtual-memory-in-linux/
                     - Describing Physical Memory https://www.kernel.org/doc/gorman/html/understand/understand005.html
                 - Адресные пространства процессов (Process Address Spaces)
-                    - ASLR In Depth — практический урок о `randomize_va_space`, отображениях `/proc/<pid>/maps` и влиянии PIE на рандомизацию 32- и 64-битных ELF-файлов; включает диагностические программы и проверку через `checksec`. https://deepwiki.com/nnamon/linux-exploitation-course/4.5-aslr-in-depth
-                    - Exploit Mitigation Techniques — Part 3: Address Space Layout Randomization — устройство ASLR и PIE в Linux, реализация рандомизации в ядре, ограничения энтропии и x64 PoC обхода ASLR вместе с canary, DEP и Full RELRO. https://0x434b.dev/an-introduction-to-address-space-layout-randomization-aslr-in-linux/
-                    - How to Bypass Basic Exploit Mitigation — Part 0x03: ASLR — практический x86-64 разбор ASLR с `gdb`/GEF, Ghidra и pwntools: утечки canary, PIE- и libc-base через format string и двухэтапный ROP-exploit. https://andy.codes/blog/security-articles/2025-11-02-exploit-mitigation-aslr.html
+                    - ASLR
+                        - ASLR In Depth — практический урок о `randomize_va_space`, отображениях `/proc/<pid>/maps` и влиянии PIE на рандомизацию 32- и 64-битных ELF-файлов; включает диагностические программы и проверку через `checksec`. https://deepwiki.com/nnamon/linux-exploitation-course/4.5-aslr-in-depth
+                        - Exploit Mitigation Techniques — Part 3: Address Space Layout Randomization — устройство ASLR и PIE в Linux, реализация рандомизации в ядре, ограничения энтропии и x64 PoC обхода ASLR вместе с canary, DEP и Full RELRO. https://0x434b.dev/an-introduction-to-address-space-layout-randomization-aslr-in-linux/
+                        - How to Bypass Basic Exploit Mitigation — Part 0x03: ASLR — практический x86-64 разбор ASLR с `gdb`/GEF, Ghidra и pwntools: утечки canary, PIE- и libc-base через format string и двухэтапный ROP-exploit. https://andy.codes/blog/security-articles/2025-11-02-exploit-mitigation-aslr.html
             - Механизмы управления памятью (Memory Management Mechanisms)
                 - Страничная организация и Свопинг (Paging and Swapping)
                 - Выделение памяти (Memory Allocation)
