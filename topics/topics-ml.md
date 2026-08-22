@@ -1,0 +1,953 @@
+# Машинное обучение с нуля: темы и подтемы
+
+Roadmap расположен в рекомендуемом порядке изучения. Разделы 1–10 составляют ядро, после них можно выбрать одну или несколько специализаций из раздела 12. Разделы 13–15 нужны для разработки реальных ML-систем, а не только учебных моделей.
+
+## 1. Карта области и постановка ML-задачи
+
+- **Что такое машинное обучение**
+  - Отличия ML от обычного программирования, статистики, Data Science и искусственного интеллекта
+  - Модель, алгоритм обучения, признаки, целевая переменная, предсказание
+  - Параметры модели и гиперпараметры
+  - Обучение, валидация, тестирование и инференс
+- **Основные парадигмы обучения**
+  - Обучение с учителем
+  - Обучение без учителя
+  - Полууправляемое и слабо контролируемое обучение
+  - Самообучение и self-supervised learning
+  - Обучение с подкреплением
+  - Пакетное и онлайн-обучение
+- **Типы задач**
+  - Регрессия
+  - Бинарная, многоклассовая и многометочная классификация
+  - Ранжирование
+  - Кластеризация
+  - Понижение размерности
+  - Поиск аномалий
+  - Прогнозирование временных рядов
+  - Рекомендации
+  - Генерация данных
+- **Перевод прикладной проблемы в ML-задачу**
+  - Объект предсказания и единица наблюдения
+  - Момент формирования признаков и горизонт прогноза
+  - Определение целевой переменной и источника разметки
+  - Ограничения по задержке, памяти, стоимости и интерпретируемости
+  - Цена ошибок разных типов
+  - Бизнес-метрика, offline-метрика и критерий успеха
+  - Проверка, нужен ли ML вообще
+  - Простая эвристика или константная модель как baseline
+- **Курсы и материалы**
+  - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) — 8.5/10; быстрый бесплатный вводный курс с упражнениями
+  - [Machine Learning Specialization](https://www.deeplearning.ai/specializations/machine-learning) — 9/10; последовательный стартовый курс Andrew Ng
+
+## 2. Программирование и рабочие инструменты
+
+- **Python**
+  - Типы данных, переменные и операторы
+  - Условия, циклы и comprehensions
+  - Функции, области видимости и декораторы на базовом уровне
+  - Модули, пакеты и импорт
+  - Классы и протоколы Python на базовом уровне
+  - Исключения и обработка ошибок
+  - Итераторы, генераторы и контекстные менеджеры
+  - Type hints и dataclasses
+- **Научный стек Python**
+  - NumPy: массивы, формы, индексация, broadcasting и векторизация
+  - pandas или Polars: таблицы, фильтрация, join, groupby и агрегации
+  - Matplotlib, Seaborn или Plotly: базовая визуализация
+  - SciPy: статистика, расстояния и оптимизация
+  - scikit-learn: единый интерфейс estimator/transformer
+  - PyTorch: тензоры, модели и обучение нейросетей
+- **Работа с данными**
+  - CSV, JSON, Parquet и сериализация
+  - SQL: SELECT, JOIN, GROUP BY, оконные функции и CTE
+  - Получение данных из файлов, баз данных и API
+  - Основы регулярных выражений
+- **Среда разработки**
+  - Терминал и базовые команды Linux
+  - Jupyter Notebook для исследования и Python-модули для повторяемого кода
+  - Виртуальные окружения и управление зависимостями
+  - Git: commit, branch, merge/rebase и code review
+  - Конфигурация через файлы и переменные окружения
+  - Логирование вместо случайных `print`
+- **Качество кода**
+  - Разделение кода загрузки данных, признаков, обучения и оценки
+  - Функции без скрытого состояния
+  - Unit-, integration- и smoke-тесты
+  - Линтеры, форматирование и статическая типизация
+  - Профилирование времени и памяти
+  - Фиксация random seed и ограничений воспроизводимости
+- **Курсы и материалы**
+  - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/) — 7/10; бесплатный русскоязычный вход в Python, pandas и scikit-learn
+
+## 3. Математика для ML
+
+- **Алгебра и функции**
+  - Числа, степени, корни и логарифмы
+  - Линейные, квадратичные, экспоненциальные и логарифмические функции
+  - Сигмоида, softmax и кусочно-линейные функции
+  - Суммы, произведения и индексная запись
+- **Линейная алгебра**
+  - Скаляры, векторы, матрицы и тензоры
+  - Сложение, умножение, транспонирование и broadcasting
+  - Скалярное произведение, нормы и расстояния
+  - Линейная независимость, базис, ранг и пространство столбцов
+  - Системы линейных уравнений
+  - Ортогональность и проекции
+  - Собственные значения и собственные векторы
+  - Определитель и обратная матрица: смысл и ограничения
+  - Разложения SVD, QR и собственное разложение
+  - Положительно определённые матрицы и ковариационная матрица
+- **Математический анализ**
+  - Предел и непрерывность на интуитивном уровне
+  - Производная и правила дифференцирования
+  - Частные производные
+  - Градиент, якобиан и матрица Гессе
+  - Правило цепочки
+  - Направленная производная и геометрия градиента
+  - Ряды Тейлора на базовом уровне
+  - Интеграл как площадь и математическое ожидание
+- **Теория вероятностей**
+  - Пространство исходов, события и аксиомы вероятности
+  - Условная вероятность и независимость
+  - Формулы полной вероятности и Байеса
+  - Случайные величины и функции распределения
+  - Плотность и функция вероятности
+  - Математическое ожидание, дисперсия, ковариация и корреляция
+  - Совместные, маргинальные и условные распределения
+  - Бернулли, биномиальное, категориальное и Пуассона
+  - Равномерное, нормальное, экспоненциальное, beta- и gamma-распределения
+  - Закон больших чисел и центральная предельная теорема
+  - Выборка, случайность и Монте-Карло
+- **Математическая статистика**
+  - Генеральная совокупность и выборка
+  - Среднее, медиана, квантили, дисперсия и устойчивые статистики
+  - Выборочное распределение и стандартная ошибка
+  - Точечные оценки, смещение, состоятельность и эффективность
+  - Доверительные интервалы
+  - Нулевая и альтернативная гипотезы
+  - p-value, уровень значимости, мощность и ошибки I/II рода
+  - t-тест, χ²-тест, ANOVA и непараметрические тесты
+  - Множественная проверка гипотез
+  - Корреляция не равна причинности
+- **Оптимизация**
+  - Целевая функция, ограничения и допустимое множество
+  - Локальный и глобальный минимум
+  - Выпуклые функции и выпуклая оптимизация
+  - Градиентный, стохастический и mini-batch gradient descent
+  - Learning rate, momentum и адаптивные шаги
+  - Условия остановки и сходимость
+  - Метод Ньютона и квазиньютоновские методы на уровне идеи
+  - Множители Лагранжа и двойственность на базовом уровне
+- **Теория информации**
+  - Энтропия
+  - Кросс-энтропия
+  - KL-дивергенция
+  - Взаимная информация
+  - Связь кодирования, правдоподобия и loss-функций
+- **Курсы и материалы**
+  - [Mathematics for Machine Learning](https://mml-book.github.io/) — 9/10; линейная алгебра, анализ, вероятность и оптимизация через ML-задачи
+
+## 4. Данные, EDA и подготовка признаков
+
+- **Типы и смысл данных**
+  - Числовые, категориальные, порядковые и бинарные признаки
+  - Текст, изображения, аудио, видео, графы и последовательности
+  - Табличные, временные, пространственные и событийные данные
+  - Независимые и зависимые наблюдения
+  - Статические и изменяющиеся во времени признаки
+- **Сбор и происхождение данных**
+  - Источник данных и процесс их генерации
+  - Смещение выборки и coverage bias
+  - Разметка, инструкция аннотаторам и согласие между аннотаторами
+  - Шумные, задержанные и proxy-метки
+  - Лицензии, персональные данные и согласие пользователей
+  - Datasheet/data card и lineage данных
+- **Проверка качества**
+  - Схема, типы, диапазоны и единицы измерения
+  - Пропуски: MCAR, MAR и MNAR на уровне идеи
+  - Дубликаты и почти дубликаты
+  - Выбросы, ошибки ввода и невозможные значения
+  - Несогласованные категории и временные зоны
+  - Дисбаланс классов
+  - Малые группы и редкие события
+- **Разведочный анализ данных**
+  - Одномерные распределения
+  - Совместные распределения и зависимости
+  - Срезы по времени, группам и источникам
+  - Корреляционная матрица и её ограничения
+  - Визуализация выбросов и пропусков
+  - Проверка гипотез о процессе появления данных
+  - Поиск подозрительно сильных признаков
+- **Разделение данных**
+  - Train, validation и test
+  - Случайное и стратифицированное разбиение
+  - Group split для связанных объектов
+  - Временное и rolling-window разбиение
+  - Разбиение до вычисления статистик и построения признаков
+  - Репрезентативность тестовой выборки
+  - Отдельный финальный test set
+- **Утечки данных**
+  - Target leakage
+  - Train-test contamination
+  - Использование будущего при прогнозировании прошлого
+  - Дубликаты между частями выборки
+  - Утечка через агрегации, нормализацию и target encoding
+  - Утечка при подборе гиперпараметров
+- **Предобработка**
+  - Заполнение пропусков и индикаторы пропусков
+  - Стандартизация, min-max scaling и robust scaling
+  - Логарифмирование, Box–Cox и Yeo–Johnson
+  - Binning и дискретизация
+  - One-hot, ordinal, frequency, hashing и target encoding
+  - Работа с редкими и неизвестными категориями
+  - Обработка дат, времени и циклических признаков
+  - Токенизация текста и базовая обработка изображений
+- **Feature engineering**
+  - Взаимодействия и полиномиальные признаки
+  - Агрегаты, окна и лаги
+  - Domain-specific признаки
+  - Нормализация относительно группы или времени
+  - Feature crosses
+  - Извлечение признаков из текста, изображений и графов
+  - Цена вычисления и доступность признака на инференсе
+- **Отбор признаков**
+  - Filter-, wrapper- и embedded-методы
+  - Низкая дисперсия и сильная мультиколлинеарность
+  - Mutual information и статистические тесты
+  - Recursive feature elimination
+  - Регуляризация и feature importance
+- **Безопасные преобразования**
+  - `fit`, `transform` и `fit_transform`
+  - Pipeline и ColumnTransformer
+  - Одинаковая логика признаков при обучении и инференсе
+  - Версионирование схемы и преобразований
+- **Курсы и материалы**
+  - [Machine Learning in Python with scikit-learn](https://inria.github.io/scikit-learn-mooc/) — 9.5/10; бесплатный курс с executable notebooks и актуальными pipelines
+  - [Common pitfalls and recommended practices](https://scikit-learn.org/stable/common_pitfalls.html) — 9.5/10; preprocessing, leakage и безопасные pipelines
+
+## 5. Основы теории обучения
+
+- **Формализация обучения**
+  - Пространство объектов, ответов и гипотез
+  - Функция потерь и функция качества
+  - Эмпирический и ожидаемый риск
+  - Принцип минимизации эмпирического риска
+  - Параметрические и непараметрические модели
+  - Дискриминативные и генеративные модели
+- **Обобщающая способность**
+  - Предположение IID и случаи, когда оно нарушается
+  - Ошибка на train, validation и test
+  - Недообучение и переобучение
+  - Bias–variance trade-off
+  - Сложность модели и объём данных
+  - Learning curves и validation curves
+  - Проклятие размерности
+- **Регуляризация**
+  - Явная и неявная регуляризация
+  - L1, L2 и Elastic Net
+  - Early stopping
+  - Ограничение глубины и pruning деревьев
+  - Data augmentation и noise injection
+  - Dropout и weight decay
+- **Статистическая теория обучения — продвинутый уровень**
+  - PAC-learning на уровне идеи
+  - VC dimension
+  - Концентрационные неравенства
+  - Structural risk minimization
+  - Margin theory
+  - No Free Lunch theorem
+- **Курсы и материалы**
+  - [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/) — 9/10; статистический смысл моделей и Python-labs
+  - [Учебник по машинному обучению](https://education.yandex.ru/handbook/ml) — 9/10; глубокий русскоязычный материал после математической базы
+  - [Stanford CS229: Machine Learning](https://cs229.stanford.edu/) — 9/10; строгий академический курс
+
+## 6. Оценка моделей и организация экспериментов
+
+- **Baselines**
+  - Среднее, медиана и наиболее частый класс
+  - Случайный и стратифицированный baseline
+  - Простая эвристика
+  - Последнее или сезонное значение для временного ряда
+  - Простая линейная модель перед сложной
+- **Метрики регрессии**
+  - MAE и Median Absolute Error
+  - MSE и RMSE
+  - R² и adjusted R²
+  - MAPE, sMAPE и их проблемы около нуля
+  - RMSLE
+  - Quantile/pinball loss
+- **Метрики классификации**
+  - Confusion matrix
+  - Accuracy и balanced accuracy
+  - Precision, recall, specificity и F-score
+  - Macro-, micro- и weighted-усреднение
+  - ROC-кривая и ROC AUC
+  - Precision–Recall curve и Average Precision
+  - Log loss и Brier score
+  - Top-k accuracy
+  - Метрики для multilabel-задач
+- **Порог решения и стоимость ошибок**
+  - Вероятность не равна готовому решению
+  - Подбор порога только по validation set
+  - Матрица стоимости и expected cost
+  - Reject option и abstention
+  - Разные пороги для разных режимов использования
+- **Калибровка вероятностей**
+  - Calibration/reliability diagram
+  - Platt scaling
+  - Isotonic regression
+  - Temperature scaling
+- **Валидация**
+  - Holdout
+  - K-fold и repeated K-fold
+  - Stratified, Group и TimeSeries split
+  - Leave-one-out: польза и ограничения
+  - Nested cross-validation
+  - Bootstrap и доверительные интервалы метрик
+- **Подбор гиперпараметров**
+  - Ручной поиск с пониманием параметров
+  - Grid search
+  - Random search
+  - Bayesian optimization
+  - Successive halving и early stopping неудачных запусков
+  - Пространства поиска и логарифмические шкалы
+  - Риск переобучения на validation set
+- **Сравнение моделей**
+  - Одинаковые разбиения и парные сравнения
+  - Разброс метрики между фолдами и seed
+  - Практическая значимость против статистической
+  - Несколько метрик и ограничения одной итоговой цифры
+  - Проверка качества на важных срезах
+- **Анализ ошибок**
+  - Матрица ошибок и разбор false positive/false negative
+  - Анализ худших примеров
+  - Сегментация ошибок по группам и источникам
+  - Ошибка разметки против ошибки модели
+  - Остатки, гетероскедастичность и систематические паттерны
+  - Проверка стабильности к шуму и сдвигу данных
+- **Воспроизводимость экспериментов**
+  - Версии кода, данных, признаков и окружения
+  - Конфигурация запуска
+  - Seed и недетерминированные операции
+  - Логирование параметров, метрик и артефактов
+  - Сохранение модели и отчёта об эксперименте
+- **Курсы и материалы**
+  - [Machine Learning in Python with scikit-learn](https://inria.github.io/scikit-learn-mooc/) — 9.5/10; model selection, cross-validation и метрики
+  - [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/) — 9/10; resampling, model selection и статистическая оценка
+
+## 7. Обучение с учителем: классические модели
+
+- **Линейная регрессия**
+  - Простая и множественная регрессия
+  - Метод наименьших квадратов
+  - Геометрический и вероятностный смысл
+  - Интерпретация коэффициентов
+  - Остатки и предположения модели
+  - Мультиколлинеарность
+  - Полиномиальные и spline-признаки
+  - Ridge, Lasso и Elastic Net
+  - Robust regression
+  - Quantile regression
+- **Обобщённые линейные модели**
+  - Link function и экспоненциальное семейство
+  - Логистическая регрессия
+  - Softmax/multinomial regression
+  - Poisson, Gamma и Tweedie regression
+- **Байесовские классификаторы**
+  - Теорема Байеса как правило классификации
+  - Gaussian, Multinomial и Bernoulli Naive Bayes
+  - Предположение условной независимости
+  - Linear и Quadratic Discriminant Analysis
+- **Метрические методы**
+  - k-nearest neighbors для классификации и регрессии
+  - Евклидово, манхэттенское, косинусное и другие расстояния
+  - Масштабирование признаков
+  - Выбор `k` и взвешивание соседей
+  - Индексы приближённого поиска ближайших соседей
+- **Метод опорных векторов**
+  - Разделяющая гиперплоскость и максимальный margin
+  - Soft margin и параметр `C`
+  - Hinge loss
+  - Kernel trick
+  - Линейное, полиномиальное и RBF-ядро
+  - SVC, SVR и one-class SVM
+- **Деревья решений**
+  - Рекурсивное разбиение пространства
+  - Gini, entropy и information gain
+  - Критерии для регрессии
+  - Глубина, минимальный лист и pruning
+  - Работа с нелинейностями и взаимодействиями
+  - Нестабильность одиночного дерева
+- **Ансамбли**
+  - Bagging
+  - Random Forest и Extra Trees
+  - Boosting как последовательное исправление ошибок
+  - AdaBoost
+  - Gradient Boosting
+  - XGBoost, LightGBM и CatBoost на уровне принципов
+  - Voting, blending и stacking
+  - Out-of-fold predictions
+- **Gaussian Processes — продвинутый уровень**
+  - Распределение над функциями
+  - Kernel/covariance function
+  - Оценка предсказания и неопределённости
+  - Ограничения вычислительной сложности
+- **Особые постановки**
+  - Multiclass: one-vs-rest и one-vs-one
+  - Multilabel и multioutput
+  - Ordinal regression/classification
+  - Cost-sensitive learning
+  - Обучение на несбалансированных данных
+  - Class weights, over-/undersampling и SMOTE
+  - Learning to rank на уровне идеи
+- **Курсы и материалы**
+  - [Machine Learning Specialization](https://www.deeplearning.ai/specializations/machine-learning) — 9/10; линейные модели, деревья и ансамбли для начинающих
+  - [Machine Learning in Python with scikit-learn](https://inria.github.io/scikit-learn-mooc/) — 9.5/10; прикладная работа с классическими моделями
+  - [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/) — 9/10; регрессия, классификация, SVM и tree-based methods
+
+## 8. Обучение без учителя
+
+- **Кластеризация**
+  - Понятие сходства и выбор расстояния
+  - k-means и k-means++
+  - Иерархическая кластеризация и дендрограммы
+  - DBSCAN, HDBSCAN и OPTICS
+  - Gaussian Mixture Models и мягкая кластеризация
+  - Spectral clustering
+  - Выбор числа кластеров
+  - Silhouette, Davies–Bouldin и внешние метрики
+  - Стабильность и прикладная интерпретация кластеров
+- **Понижение размерности**
+  - PCA и explained variance
+  - SVD и truncated SVD
+  - NMF и ICA
+  - Random projection
+  - Kernel PCA
+  - t-SNE и UMAP для визуализации
+  - Ограничения интерпретации двумерных проекций
+- **Оценка плотности**
+  - Гистограммы и kernel density estimation
+  - Параметрические и непараметрические оценки
+  - Gaussian Mixture Models
+  - Expectation–Maximization algorithm
+- **Поиск аномалий и новизны**
+  - Статистические правила и robust z-score
+  - Isolation Forest
+  - Local Outlier Factor
+  - One-Class SVM
+  - Autoencoder-based anomaly detection
+  - Разница между outlier, novelty и редким полезным наблюдением
+  - Оценка при отсутствии полной разметки
+- **Извлечение скрытой структуры**
+  - Matrix factorization
+  - Topic modeling: LSA, probabilistic LDA и NMF
+  - Ассоциативные правила: support, confidence и lift
+  - Apriori и FP-Growth
+  - Biclustering
+- **Курсы и материалы**
+  - [Machine Learning Specialization](https://www.deeplearning.ai/specializations/machine-learning) — 9/10; clustering и anomaly detection
+  - [Stanford CS229: Machine Learning](https://cs229.stanford.edu/) — 9/10; академическая теория unsupervised learning
+  - [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/) — 9/10; PCA, clustering и практические лабораторные
+
+## 9. Вероятностное машинное обучение и неопределённость
+
+- **Вероятностный взгляд на модель**
+  - Likelihood, log-likelihood и negative log-likelihood
+  - Maximum Likelihood Estimation
+  - Maximum A Posteriori
+  - Prior, posterior и posterior predictive distribution
+  - Сопряжённые распределения на простых примерах
+- **Латентные переменные**
+  - Mixture models
+  - EM-алгоритм
+  - Hidden Markov Models
+  - State-space models
+- **Вероятностные графические модели**
+  - Условная независимость
+  - Bayesian networks
+  - Markov random fields
+  - Factor graphs на уровне идеи
+- **Приближённый вывод**
+  - Sampling и rejection sampling
+  - Markov Chain Monte Carlo
+  - Variational inference
+  - Компромисс точности и вычислительной стоимости
+- **Неопределённость предсказаний**
+  - Aleatoric и epistemic uncertainty
+  - Prediction и confidence intervals
+  - Bootstrap ensembles
+  - Bayesian и approximate Bayesian methods
+  - Conformal prediction
+  - Out-of-distribution detection
+  - Калибровка и selective prediction
+- **Курсы и материалы**
+  - [Учебник по машинному обучению](https://education.yandex.ru/handbook/ml) — 9/10; вероятностные модели, байесовский подход и латентные переменные
+  - [Stanford CS229: Machine Learning](https://cs229.stanford.edu/) — 9/10; вероятностный и генеративный взгляд на ML
+
+## 10. Глубокое обучение
+
+- **Вычислительная основа**
+  - Тензоры, формы, dtype и device
+  - Векторизация и пакетная обработка
+  - Вычислительный граф
+  - Automatic differentiation
+  - Forward pass и backpropagation
+  - Dataset, DataLoader и mini-batch
+- **Полносвязные нейронные сети**
+  - Перцептрон и линейный слой
+  - Multilayer Perceptron
+  - Скрытое представление
+  - ReLU, sigmoid, tanh, GELU и softmax
+  - MSE, cross-entropy и другие loss-функции
+  - Универсальная аппроксимация на уровне идеи
+- **Обучение нейросети**
+  - SGD, Momentum, RMSprop, Adam и AdamW
+  - Выбор learning rate
+  - Learning-rate schedules и warmup
+  - Инициализация Xavier/Glorot и He/Kaiming
+  - Batch, layer и group normalization
+  - Dropout, weight decay и early stopping
+  - Gradient clipping
+  - Исчезающие и взрывающиеся градиенты
+  - Диагностика по train/validation curves
+- **Свёрточные сети**
+  - Свёртка, kernel, stride и padding
+  - Receptive field
+  - Pooling
+  - Residual connections
+  - Архитектуры LeNet, AlexNet, VGG, ResNet и EfficientNet как этапы развития
+  - Vision Transformer на уровне архитектуры
+- **Последовательные модели**
+  - RNN и разворачивание во времени
+  - Backpropagation through time
+  - LSTM и GRU
+  - Seq2seq и encoder–decoder
+  - Attention
+  - Ограничения рекуррентных моделей
+- **Transformers**
+  - Token/patch embeddings и positional encoding
+  - Query, key и value
+  - Scaled dot-product и multi-head attention
+  - Self-attention и cross-attention
+  - Encoder-only, decoder-only и encoder–decoder
+  - Causal и padding masks
+  - Pretraining и fine-tuning
+  - Ограничения по памяти и квадратичная сложность attention
+- **Representation learning**
+  - Embeddings
+  - Metric learning
+  - Contrastive learning
+  - Autoencoders
+  - Self-supervised objectives
+  - Transfer learning
+- **Генеративные модели**
+  - Авторегрессионные модели
+  - Variational Autoencoders
+  - Generative Adversarial Networks
+  - Normalizing flows на уровне идеи
+  - Diffusion и score-based models
+  - Оценка качества генерации
+- **Практика обучения**
+  - Аугментация данных
+  - Transfer learning и заморозка слоёв
+  - Fine-tuning и parameter-efficient fine-tuning
+  - Mixed precision
+  - Gradient accumulation
+  - Checkpointing и возобновление обучения
+  - Мониторинг градиентов и активаций
+  - Поиск bottleneck по данным, памяти и вычислениям
+- **Сжатие и ускорение**
+  - Quantization
+  - Pruning
+  - Knowledge distillation
+  - Компиляция и оптимизация графа
+  - Экспорт и переносимость модели
+- **Курсы и материалы**
+  - [PyTorch: Learn the Basics](https://docs.pytorch.org/tutorials/beginner/basics/intro.html) — 8/10; минимальный полный training workflow на PyTorch
+  - [Dive into Deep Learning](https://d2l.ai/) — 9/10; интерактивный учебник с математикой и кодом
+  - [Practical Deep Learning for Coders](https://course.fast.ai/) — 8.5/10; практический top-down курс
+  - [Deep Learning Tuning Playbook](https://developers.google.com/machine-learning/guides/deep-learning-tuning-playbook) — 9/10; системный tuning и диагностика обучения
+  - [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) — 9/10; практический чек-лист отладки нейросетей
+
+## 11. Дополнительные парадигмы обучения
+
+- **Semi-supervised learning**
+  - Self-training и pseudo-labeling
+  - Label propagation
+  - Consistency regularization
+- **Self-supervised learning**
+  - Masked prediction
+  - Contrastive objectives
+  - Предтекстовая задача и downstream-задача
+- **Weak supervision**
+  - Эвристики и программные labeling functions
+  - Шумные и конфликтующие источники разметки
+- **Active learning**
+  - Uncertainty sampling
+  - Query by committee
+  - Баланс информативности и разнообразия
+- **Transfer и multitask learning**
+  - Domain adaptation
+  - Feature extraction и fine-tuning
+  - Multi-task loss и shared representation
+- **Online и continual learning**
+  - Incremental updates
+  - Concept drift
+  - Catastrophic forgetting
+  - Replay и регуляризация
+- **Federated learning**
+  - Локальное обучение и агрегация обновлений
+  - Неоднородность клиентских данных
+  - Коммуникационные и приватностные ограничения
+- **AutoML и meta-learning**
+  - Автоматический поиск признаков и гиперпараметров
+  - Neural architecture search на уровне идеи
+  - Few-shot learning и learning to learn
+- **Курсы и материалы**
+  - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) — 8.5/10; вводные модули по AutoML и современным моделям
+  - [Учебник по машинному обучению](https://education.yandex.ru/handbook/ml) — 9/10; дополнительные и теоретические парадигмы ML
+
+## 12. Специализации после ядра
+
+- **12.1. Компьютерное зрение**
+  - Пиксели, каналы и цветовые пространства
+  - Resize, crop, normalization и аугментации
+  - Классификация изображений
+  - Object detection: anchors, one-stage и two-stage detectors
+  - Semantic, instance и panoptic segmentation
+  - Keypoints и pose estimation
+  - OCR
+  - Video understanding и tracking
+  - Self-supervised visual representations
+  - Vision Transformers
+  - Метрики IoU, Dice, mAP и FID
+  - **Курсы и материалы**
+    - [Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/) — 9/10; строгий курс по архитектурам, обучению и исследованиям в CV
+- **12.2. Обработка естественного языка и LLM**
+  - Нормализация текста, токенизация и subword tokenization
+  - Bag of Words, n-grams и TF–IDF
+  - Word2Vec, GloVe, FastText и contextual embeddings
+  - Классификация текста, NER, извлечение отношений и суммаризация
+  - Языковое моделирование
+  - Encoder-, decoder- и encoder–decoder Transformers
+  - Предобучение, instruction tuning и supervised fine-tuning
+  - PEFT, adapters и LoRA
+  - Preference optimization: RLHF и DPO на уровне идеи
+  - Prompting и in-context learning
+  - Decoding: greedy, beam search, temperature, top-k и top-p
+  - Retrieval-Augmented Generation
+  - Инструменты и агентные циклы на уровне архитектуры
+  - Оценка factuality, relevance, safety и качества генерации
+  - Галлюцинации, prompt injection и утечки данных
+  - **Курсы и материалы**
+    - [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) — 9/10; математический курс по NLP и Transformers
+    - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) — 8.5/10; современная прикладная работа с NLP/LLM
+- **12.3. Временные ряды**
+  - Timestamp, частота, лаг и горизонт прогноза
+  - Тренд, сезонность, циклы и остаток
+  - Stationarity и differencing
+  - Autocorrelation и partial autocorrelation
+  - Naive и seasonal baselines
+  - Exponential smoothing и ETS
+  - AR, MA, ARIMA и SARIMA
+  - Регрессия с лагами и внешними признаками
+  - Деревья и boosting для временных рядов
+  - RNN, temporal CNN и Transformers
+  - Rolling/expanding-window validation
+  - Multi-step и probabilistic forecasting
+  - Иерархические ряды и reconciliation
+  - Поиск изменений и аномалий
+  - **Курсы и материалы**
+    - [Forecasting: Principles and Practice](https://otexts.com/fpp3/) — 9/10; EDA, baselines, ETS, ARIMA и корректный backtesting
+- **12.4. Рекомендательные системы, поиск и ранжирование**
+  - Popularity и non-personalized baselines
+  - Explicit и implicit feedback
+  - User–item matrix
+  - Collaborative и content-based filtering
+  - Matrix factorization
+  - Two-tower retrieval
+  - Candidate generation, ranking и re-ranking
+  - Learning to rank: pointwise, pairwise и listwise
+  - Embeddings и approximate nearest neighbors
+  - Cold start
+  - Diversity, novelty, serendipity и fairness
+  - Метрики Precision@k, Recall@k, MAP, MRR и NDCG
+  - Offline evaluation против online A/B-теста
+  - Feedback loops и position bias
+  - **Курсы и материалы**
+    - [Recommendation Systems](https://developers.google.com/machine-learning/recommendation) — 8/10; candidate generation, scoring и re-ranking
+- **12.5. Графовое машинное обучение**
+  - Узлы, рёбра, признаки и adjacency matrix
+  - Centrality, community detection и random walks
+  - Node, edge и graph-level задачи
+  - Graph embeddings
+  - Message passing
+  - GCN, GraphSAGE и GAT
+  - Link prediction
+  - Heterogeneous и temporal graphs
+  - Oversmoothing и масштабирование GNN
+  - **Курсы и материалы**
+    - [Stanford CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) — 9/10; node embeddings, GNN и knowledge graphs
+- **12.6. Причинный анализ и эксперименты**
+  - Ассоциация, интервенция и контрфактический исход
+  - DAG, confounder, mediator и collider
+  - Potential outcomes и average treatment effect
+  - Рандомизированный эксперимент и A/B-тест
+  - Размер выборки, мощность и длительность эксперимента
+  - Novelty, network и carryover effects
+  - Matching и propensity score
+  - Inverse propensity weighting
+  - Difference-in-differences
+  - Instrumental variables и regression discontinuity на уровне идеи
+  - Heterogeneous treatment effects и uplift modeling
+  - Ограничения причинных выводов по наблюдательным данным
+- **12.7. Обучение с подкреплением**
+  - Агент, среда, состояние, действие и награда
+  - Policy, value function и return
+  - Markov Decision Process
+  - Exploration–exploitation trade-off
+  - Multi-armed bandits
+  - Dynamic programming
+  - Monte Carlo methods
+  - Temporal-difference learning
+  - Q-learning и SARSA
+  - Function approximation
+  - Deep Q-Network
+  - Policy gradients
+  - Actor–Critic
+  - Model-based и offline RL
+  - Reward design, безопасность и sim-to-real gap
+  - **Курсы и материалы**
+    - [Reinforcement Learning Course](https://www.davidsilver.uk/teaching/) — 8.5/10; канонический фундаментальный курс David Silver
+- **12.8. Мультимодальные и генеративные системы**
+  - Совмещение текста, изображений, аудио и видео
+  - Contrastive multimodal learning
+  - Joint и aligned embedding spaces
+  - Vision–language models
+  - Text-to-image и text-to-video diffusion
+  - Speech recognition и speech synthesis
+  - Multimodal retrieval
+  - Оценка согласованности модальностей
+  - **Курсы и материалы**
+    - [Учебник по машинному обучению](https://education.yandex.ru/handbook/ml) — 9/10; генеративные модели и современные нейросетевые архитектуры
+
+## 13. Интерпретируемость, ответственность и безопасность
+
+- **Интерпретация моделей**
+  - Глобальная и локальная интерпретация
+  - Коэффициенты линейной модели
+  - Feature importance и permutation importance
+  - Partial Dependence и ICE plots
+  - SHAP и LIME: идея, возможности и ограничения
+  - Counterfactual explanations
+  - Surrogate models
+  - Интерпретация не равна причинному объяснению
+- **Справедливость**
+  - Источники bias в постановке, данных, разметке и deployment
+  - Представленность и качество по срезам
+  - Demographic parity
+  - Equal opportunity и equalized odds
+  - Калибровка по группам
+  - Несовместимость критериев fairness
+  - Mitigation до, во время и после обучения
+- **Приватность**
+  - Минимизация и ограничение срока хранения данных
+  - Анонимизация и риск повторной идентификации
+  - Differential privacy
+  - Federated learning как часть, но не гарантия приватности
+  - Membership и model inversion attacks
+- **Надёжность и устойчивость**
+  - Distribution shift и out-of-distribution data
+  - Corruption и stress testing
+  - Adversarial examples
+  - Data poisoning и backdoors
+  - Prompt injection для LLM-систем
+  - Red teaming
+  - Human-in-the-loop и безопасный отказ
+- **Документация и управление**
+  - Data cards и model cards
+  - Назначение и запрещённые сценарии применения
+  - Известные ограничения и результаты по срезам
+  - Аудит, трассировка решений и ответственность
+  - Право на использование данных и интеллектуальная собственность
+  - Энергопотребление и вычислительный бюджет
+- **Курсы и материалы**
+  - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) — 9/10; методы интерпретации и критический разбор их ограничений
+  - [Fairness and Machine Learning](https://fairmlbook.org/) — 9/10; формальные критерии fairness и общественный контекст решений
+
+## 14. Production ML и MLOps
+
+- **Архитектура ML-системы**
+  - Источник данных → признаки → обучение → registry → serving → monitoring
+  - Training pipeline и inference pipeline
+  - Batch, streaming и online inference
+  - Offline и online features
+  - Синхронный сервис, асинхронная очередь и edge deployment
+- **Управление данными и признаками**
+  - Data validation и schema checks
+  - Версионирование datasets и snapshots
+  - Data lineage
+  - Feature store и point-in-time correctness
+  - Backfill признаков
+  - Согласованность training и serving
+- **Управление экспериментами и моделями**
+  - Experiment tracking
+  - Артефакты, метрики и конфигурации
+  - Model registry
+  - Версионирование модели и среды
+  - Reproducible training pipeline
+- **Тестирование ML-систем**
+  - Unit-тесты преобразований и метрик
+  - Контрактные тесты схемы данных
+  - Проверки статистических свойств и инвариантов
+  - Проверки отсутствия leakage
+  - Training-serving skew tests
+  - Model regression tests
+  - Integration, load и end-to-end tests
+- **Упаковка и serving**
+  - Сериализация модели и preprocessing pipeline
+  - API и контракт запроса/ответа
+  - Контейнеризация
+  - CPU, GPU и accelerator serving
+  - Latency, throughput и batch size
+  - Кэширование
+  - Fallback и graceful degradation
+- **Развёртывание**
+  - Shadow deployment
+  - Canary и blue-green deployment
+  - A/B-тестирование
+  - Rollback
+  - Совместимость версий модели, признаков и API
+- **Мониторинг**
+  - Доступность, latency, throughput и ошибки сервиса
+  - Качество и свежесть входных данных
+  - Schema drift, data drift и concept drift
+  - Распределение предсказаний и калибровка
+  - Метрики качества при задержанных labels
+  - Качество по важным срезам и fairness
+  - Стоимость и использование ресурсов
+  - Алерты и runbooks
+- **Обратные связи**
+  - Модель влияет на будущие данные
+  - Selection и exposure bias
+  - Неслучайно отсутствующие labels
+  - Exploration traffic и unbiased logging
+  - Защита от самоусиления ошибок
+- **Переобучение и жизненный цикл**
+  - Периодическое и event-driven retraining
+  - Автоматические quality gates
+  - Champion–challenger
+  - Архивирование и вывод модели из эксплуатации
+  - План реагирования на деградацию
+- **CI/CD/CT**
+  - Continuous Integration для кода и данных
+  - Continuous Delivery для моделей
+  - Continuous Training
+  - Оркестрация DAG и идемпотентность задач
+  - Управление секретами и доступами
+- **Курсы и материалы**
+  - [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml) — 9/10; problem framing, baselines, pipelines и training-serving skew
+  - [Hidden Technical Debt in Machine Learning Systems](https://research.google/pubs/hidden-technical-debt-in-machine-learning-systems/) — 9/10; системные источники ML-долга
+  - [The ML Test Score](https://research.google/pubs/the-ml-test-score-a-rubric-for-ml-production-readiness-and-technical-debt-reduction/) — 8.5/10; аудит production readiness
+  - [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) — 8/10; жизненный цикл модели от инфраструктуры до monitoring
+
+## 15. Масштабирование и производительность
+
+- **Эффективная обработка данных**
+  - Векторизация
+  - Chunking и out-of-core learning
+  - Параллельная загрузка и prefetch
+  - Колоночные форматы и predicate pushdown
+  - Распределённая обработка данных
+- **Эффективное обучение**
+  - CPU против GPU/TPU/других ускорителей
+  - Data parallelism
+  - Model и pipeline parallelism
+  - Distributed training
+  - Mixed precision
+  - Gradient accumulation и checkpointing
+  - Профилирование вычислений, памяти и ввода-вывода
+- **Эффективный инференс**
+  - Dynamic и static batching
+  - Quantization, pruning и distillation
+  - Компиляция модели
+  - Approximate nearest neighbor search
+  - Autoscaling
+  - Компромисс качества, задержки, throughput, памяти и стоимости
+- **Курсы и материалы**
+  - [Deep Learning Tuning Playbook](https://developers.google.com/machine-learning/guides/deep-learning-tuning-playbook) — 9/10; вычислительный бюджет, batch size и tuning
+  - [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) — 8/10; infrastructure, serving и эксплуатационные компромиссы
+
+## 16. Практика, проекты и исследовательские навыки
+
+- **Алгоритмы, которые стоит реализовать самостоятельно**
+  - Линейная и логистическая регрессия с gradient descent
+  - k-nearest neighbors
+  - Дерево решений небольшой глубины
+  - k-means
+  - PCA через SVD
+  - Небольшой MLP и backpropagation
+  - Простая attention layer
+- **Последовательность учебных проектов**
+  - EDA и baseline на небольшом табличном датасете
+  - Регрессия с корректной кросс-валидацией
+  - Несбалансированная классификация с подбором порога
+  - Сравнение линейной модели, Random Forest и gradient boosting
+  - Кластеризация или поиск аномалий без готовых labels
+  - Нейросеть для изображения, текста или временного ряда
+  - Проект в выбранной специализации
+  - End-to-end система с API, тестами, мониторингом и отчётом
+- **Требования к каждому проекту**
+  - Чёткая постановка задачи и критерий успеха
+  - Описание происхождения и ограничений данных
+  - Baseline
+  - Защита от leakage
+  - Воспроизводимый pipeline
+  - Обоснованный выбор метрик и схемы валидации
+  - Сравнение нескольких моделей
+  - Анализ ошибок и важных срезов
+  - Оценка ограничений, рисков и стоимости
+  - README, конфигурация запуска и зафиксированные зависимости
+- **Чтение исследований**
+  - Abstract → постановка → метод → эксперимент → ограничения
+  - Отличие вклада от инженерных деталей
+  - Проверка baselines, ablation studies и statistical significance
+  - Поиск утечек, нечестных сравнений и dataset bias
+  - Воспроизведение результата статьи
+  - Ведение конспекта и списка открытых вопросов
+- **Коммуникация результата**
+  - Объяснение модели технической и нетехнической аудитории
+  - Визуализация результатов без искажения
+  - Разделение фактов, гипотез и причинных утверждений
+  - Рекомендация действия вместе с неопределённостью
+  - Документирование неудачных экспериментов
+- **Курсы и материалы**
+  - [Practical Deep Learning for Coders](https://course.fast.ai/) — 8.5/10; проектный top-down подход
+  - [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) — 8/10; end-to-end лабораторная с deployment
+
+## 17. Контрольные точки обучения
+
+- **После базы**
+  - Уметь загрузить, проверить и визуализировать данные
+  - Понимать производную, градиент, матричное умножение и условную вероятность
+  - Реализовать простой gradient descent
+- **После классического ML**
+  - Самостоятельно выбрать split и метрику под задачу
+  - Построить pipeline без leakage
+  - Обучить baseline, линейную модель, дерево и boosting
+  - Подобрать порог и разобрать ошибки по срезам
+  - Объяснить переобучение, регуляризацию и bias–variance trade-off
+- **После deep learning**
+  - Написать полный training loop
+  - Объяснить backpropagation и назначение optimizer
+  - Дообучить предобученную модель
+  - Диагностировать нестабильное обучение и нехватку обобщения
+- **После специализации**
+  - Знать типовые архитектуры, baselines и метрики своей области
+  - Понимать, какие свойства данных нарушают обычную случайную валидацию
+  - Собрать проект от сырых данных до воспроизводимой оценки
+- **После Production ML**
+  - Развернуть модель в batch- или online-режиме
+  - Версионировать код, данные и модель
+  - Настроить тесты, мониторинг и безопасный rollback
+  - Отличать деградацию сервиса от data drift и падения качества модели
