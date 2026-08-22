@@ -31,9 +31,17 @@
 
 ### Мануалы и справочники
 
-### Книги
+- Данные и оценка моделей
+  - Предобработка и утечки данных
+    - Common pitfalls and recommended practices — scikit-learn https://scikit-learn.org/stable/common_pitfalls.html
+- Глубокое обучение
+  - Настройка и диагностика
+    - Deep Learning Tuning Playbook — Google https://developers.google.com/machine-learning/guides/deep-learning-tuning-playbook
+- Production ML и MLOps
+  - Проектирование ML-систем
+    - Rules of Machine Learning — Google https://developers.google.com/machine-learning/guides/rules-of-ml
 
-### Статьи
+### Книги
 
 - Математика для ML
   - Математическая база
@@ -43,15 +51,10 @@
     - An Introduction to Statistical Learning with Applications in Python https://www.statlearning.com/
   - Теория и алгоритмы
     - Учебник по машинному обучению — Яндекс Образование https://education.yandex.ru/handbook/ml
-- Данные и оценка моделей
-  - Предобработка и утечки данных
-    - Common pitfalls and recommended practices — scikit-learn https://scikit-learn.org/stable/common_pitfalls.html
 - Глубокое обучение
   - Архитектуры и практика
     - Dive into Deep Learning https://d2l.ai/
     - Practical Deep Learning for Coders — companion book https://course.fast.ai/Resources/book.html
-    - A Recipe for Training Neural Networks — Andrej Karpathy https://karpathy.github.io/2019/04/25/recipe/
-    - Deep Learning Tuning Playbook — Google https://developers.google.com/machine-learning/guides/deep-learning-tuning-playbook
 - Временные ряды
   - Прогнозирование
     - Forecasting: Principles and Practice https://otexts.com/fpp3/
@@ -60,9 +63,14 @@
     - Interpretable Machine Learning — Christoph Molnar https://christophm.github.io/interpretable-ml-book/
   - Справедливость
     - Fairness and Machine Learning: Limitations and Opportunities https://fairmlbook.org/
+
+### Статьи
+
+- Глубокое обучение
+  - Обучение и отладка
+    - A Recipe for Training Neural Networks — Andrej Karpathy https://karpathy.github.io/2019/04/25/recipe/
 - Production ML и MLOps
-  - Проектирование ML-систем
-    - Rules of Machine Learning — Google https://developers.google.com/machine-learning/guides/rules-of-ml
+  - Архитектура и технический долг
     - Hidden Technical Debt in Machine Learning Systems https://research.google/pubs/hidden-technical-debt-in-machine-learning-systems/
   - Тестирование и готовность к production
     - The ML Test Score https://research.google/pubs/the-ml-test-score-a-rubric-for-ml-production-readiness-and-technical-debt-reduction/
