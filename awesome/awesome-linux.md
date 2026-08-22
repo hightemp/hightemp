@@ -193,6 +193,10 @@
                     - What is Virtual Memory on Linux? https://www.scaler.com/topics/virtual-memory-in-linux/
                     - Describing Physical Memory https://www.kernel.org/doc/gorman/html/understand/understand005.html
                 - Адресные пространства процессов (Process Address Spaces)
+                    - ASLR
+                        - ASLR In Depth — практический урок о `randomize_va_space`, отображениях `/proc/<pid>/maps` и влиянии PIE на рандомизацию 32- и 64-битных ELF-файлов; включает диагностические программы и проверку через `checksec`. https://deepwiki.com/nnamon/linux-exploitation-course/4.5-aslr-in-depth
+                        - Exploit Mitigation Techniques — Part 3: Address Space Layout Randomization — устройство ASLR и PIE в Linux, реализация рандомизации в ядре, ограничения энтропии и x64 PoC обхода ASLR вместе с canary, DEP и Full RELRO. https://0x434b.dev/an-introduction-to-address-space-layout-randomization-aslr-in-linux/
+                        - How to Bypass Basic Exploit Mitigation — Part 0x03: ASLR — практический x86-64 разбор ASLR с `gdb`/GEF, Ghidra и pwntools: утечки canary, PIE- и libc-base через format string и двухэтапный ROP-exploit. https://andy.codes/blog/security-articles/2025-11-02-exploit-mitigation-aslr.html
             - Механизмы управления памятью (Memory Management Mechanisms)
                 - Страничная организация и Свопинг (Paging and Swapping)
                 - Выделение памяти (Memory Allocation)
@@ -229,6 +233,7 @@
             - Глубокое погружение в Linux namespaces, часть 4 https://habr.com/ru/articles/549414/
         - ELF Файлы и Библиотеки (ELF Files and Libraries)
             - ELF Файлы (ELF Files)
+                - Evolution of the ELF object file format — история ELF от System V Release 4 и TIS до современного generic ABI; объясняет связь формата с System V ABI, psABI и OSABI и судьбу его спецификации. https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format
                 - Рецепты для ELFов https://habr.com/ru/companies/inforion/articles/460247/
             - Библиотеки (Libraries)
                 - What is a Shared Object File https://cloudmersive.com/article/What-is-a-Shared-Object-File

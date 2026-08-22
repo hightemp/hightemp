@@ -65,6 +65,8 @@
 
 ### Книги
 
+- Основное
+  - C++ course notes — онлайн-книга по материалам курса кафедры КТ ИТМО: от архитектуры компьютера, ассемблера и модели компиляции до RAII, шаблонов, STL, многопоточности, Qt, концептов, ranges, корутин и модулей; главы дополнены записями лекций. https://cpp-kt.github.io/cpp-notes/
 - Компиляторы и интерпретаторы
   - https://craftinginterpreters.com/
 - Современный C++
@@ -82,7 +84,6 @@
 ### Курсы
 
 - https://ravesli.com/uroki-cpp/
-- https://cpp-kt.github.io/cpp-notes/
 
 ### Гайды
 
@@ -139,6 +140,7 @@
     - Урок №80. Указатели https://ravesli.com/urok-80-ukazateli-vvedenie/
     - Упрощённое руководство по работе с памятью Си https://habr.com/ru/articles/711458/
   - Компиляция
+    - Процесс компиляции программ — подробная глава о препроцессинге, трансляции, ассемблировании и линковке C++; объясняет единицы трансляции, объявления и определения, символы и релокации, `nm`/`objdump`, заголовочные файлы, ODR и `inline`. https://cpp-kt.github.io/cpp-notes/05_compilation.html
     - О GCC, компиляции и библиотеках https://pyviy.blogspot.com/2010/12/gcc.html
     - О GCC, компиляции и библиотеках часть 2 https://uzverss.livejournal.com/57883.html
     - Оптимизируя неоптимизируемое: ускорение компиляции C++ https://habr.com/ru/companies/ruvds/articles/785420/
@@ -398,9 +400,12 @@
       - Adding a Dependency Based on Autotools to a Bazel Project https://bloggerbust.ca/post/adding-a-dependency-based-on-autotools-to-a-bazel-project/
   - CMake; генератор систем сборки
     - C++ Quickstart With CMake https://abseil.io/docs/cpp/quickstart-cmake
+    - Сборка на CMake для новичка — вводный разбор структуры проекта, out-of-source сборки, библиотек, подпроектов и отдельных targets. https://habr.com/ru/articles/904992/
+    - Руководство CMake. Шаг 1. Базовая отправная точка — практические упражнения по созданию проекта, выбору стандарта C++ и генерации конфигурационного заголовка через `configure_file()`. https://radioprog.ru/post/1577
     - Шпаргалка по CMake https://ps-group.github.io/cxx/cmake_cheatsheet
     - Полное руководство по CMake. Часть первая: Синтаксис https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-pervaya-Sintaksis-02-27
     - Полное руководство по CMake. Часть вторая: Система сборки https://web.archive.org/web/20220528140444/https://habr.com/en/post/432096/
+    - Руководство по CMake для разработчиков C++ библиотек — modern CMake для интеграции через `find_package` и `FetchContent`, экспорта символов, установки package-конфигурации и сборки тестов. https://habr.com/ru/articles/683204/
   - Make, Makefile
     - GNU make https://www.gnu.org/software/make/manual/make.html
     - Makefile для самых маленьких https://habr.com/ru/articles/155201/

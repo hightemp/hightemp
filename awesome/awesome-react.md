@@ -47,6 +47,7 @@
     - https://github.com/marmelab/react-admin
     - https://github.com/segmentio/evergreen
     - https://github.com/shadcn-ui/ui
+    - BagUI — open-source registry компонентов, блоков, шаблонов и анимаций на базе `shadcn/ui` для React, Next.js и Tailwind CSS; код можно скопировать и адаптировать в своём проекте. https://www.bagui.pro/
     - https://github.com/radix-ui/themes https://www.radix-ui.com/
     - Origin UI - это обширная коллекция компонентов для быстрого создания пользовательского интерфейса приложений, включающая сотни настраиваемых компонентов с последовательным оформлением, регулярными обновлениями, добавлением новых элементов и поддержкой темного режима интерфейса "из коробки". https://github.com/origin-space/originui
 - Формы

@@ -84,17 +84,24 @@
 
 ### Репозитории
 
-- Prism - это мощный Laravel-пакет, предоставляющий удобный интерфейс для интеграции различных языковых моделей (LLM) в приложения, позволяющий генерировать текст, управлять многошаговыми диалогами и использовать инструменты с разными AI-провайдерами. https://github.com/echolabsdev/prism
-- PHP-VCR - это инструмент для автоматизации тестирования HTTP-взаимодействий в PHP-приложениях, который записывает и воспроизводит HTTP-запросы во время выполнения тестов, поддерживая работу с основными HTTP-функциями (curl, SoapClient, file_get_contents), различными форматами сериализации (YAML, JSON) и PHPUnit-аннотациями для быстрого, детерминированного и точного тестирования. https://github.com/php-vcr/php-vcr
-- WireMock-php - это PHP-библиотека для создания и управления заглушками (stubs) и макетами (mocks) веб-сервисов, использующая JSON API оригинального Java-проекта WireMock для имитации HTTP-взаимодействий в тестовом окружении с помощью удобного fluent-интерфейса. https://github.com/rowanhill/wiremock-php
-- Devilbox: универсальный, высоко настраиваемый стек Docker для PHP с нулевой конфигурацией, поддерживающий LEMP, MEAN и различные веб-технологии через автоматическую интеграцию обратного прокси. https://github.com/cytopia/devilbox
-- Oracle
-  - https://github.com/kool-dev/docker-php-oci8
+- AI
+  - Prism - это мощный Laravel-пакет, предоставляющий удобный интерфейс для интеграции различных языковых моделей (LLM) в приложения, позволяющий генерировать текст, управлять многошаговыми диалогами и использовать инструменты с разными AI-провайдерами. https://github.com/echolabsdev/prism
 - Тестирование
+  - HTTP
+    - PHP-VCR - это инструмент для автоматизации тестирования HTTP-взаимодействий в PHP-приложениях, который записывает и воспроизводит HTTP-запросы во время выполнения тестов, поддерживая работу с основными HTTP-функциями (curl, SoapClient, file_get_contents), различными форматами сериализации (YAML, JSON) и PHPUnit-аннотациями для быстрого, детерминированного и точного тестирования. https://github.com/php-vcr/php-vcr
+    - WireMock-php - это PHP-библиотека для создания и управления заглушками (stubs) и макетами (mocks) веб-сервисов, использующая JSON API оригинального Java-проекта WireMock для имитации HTTP-взаимодействий в тестовом окружении с помощью удобного fluent-интерфейса. https://github.com/rowanhill/wiremock-php
   - Mock; Моки
     - **BypassFinals** — PHP-библиотека, которая динамически удаляет ключевые слова `final` и `readonly` из кода на лету, позволяя создавать моки финальных методов и классов для тестирования с интеграцией в популярные фреймворки тестирования как PHPUnit, Mockery и Nette Tester. https://github.com/dg/bypass-finals
-- Остальное
+- Инфраструктура
+  - Devilbox: универсальный, высоко настраиваемый стек Docker для PHP с нулевой конфигурацией, поддерживающий LEMP, MEAN и различные веб-технологии через автоматическую интеграцию обратного прокси. https://github.com/cytopia/devilbox
   - Workerman - это открытый высокопроизводительный контейнер для PHP-приложений, разработанный исключительно на PHP. https://manual.workerman.net/doc/ru/README.html https://github.com/walkor/workerman
+- Безопасность
+  - Сериализация
+    - PHPGGC (PHP Generic Gadget Chains) — библиотека и CLI-генератор payload’ов для эксплуатации PHP Object Injection через готовые POP chains популярных фреймворков и пакетов; поддерживает RCE, чтение и запись файлов, PHAR/polyglot-файлы и программный API. https://github.com/ambionics/phpggc
+- Базы данных
+  - Oracle
+    - https://github.com/kool-dev/docker-php-oci8
+- Веб-краулинг
   - Beanbun — простой и расширяемый фреймворк для веб-краулинга на PHP с поддержкой распределённого режима, работы в режиме демона на основе Workerman, загрузчика на основе Guzzle, нескольких типов очередей (память, Redis), фильтрации URI, а также обходов в ширину и глубину. https://github.com/kiddyuchina/Beanbun
 
 ### Скриншоты сайтов
@@ -269,6 +276,7 @@ vendor/bin/phpqt-install
 - Свободный перевод официального руководства по Codeception https://github.com/yupe/codeception-guide-ru/tree/master
 - http://phpsadness.com/ созданный Эриком Вастлом для документирования реальных ошибок и странного поведения PHP.
 - DesignPatternsPHP — это коллекция примеров реализации широко известных шаблонов проектирования на PHP 8.x с пояснениями и тестами для изучения основных паттернов ООП. https://github.com/DesignPatternsPHP/DesignPatternsPHP
+- PHP Must Watch — подборка конференционных докладов и видео по PHP: основы, архитектура, производительность, безопасность, тестирование и фреймворки. https://github.com/phptodayorg/php-must-watch
 
 ### Доступно ли в PHP
 
@@ -489,6 +497,90 @@ vendor/bin/phpqt-install
     - Готовимся к собеседованию по PHP: псевдотип «callable» https://habr.com/ru/articles/259991/
     - Готовимся к собеседованию по PHP: Всё об итерации и немного про псевдотип «iterable» https://habr.com/ru/articles/324934/
     - Готовимся к собеседованию по PHP: Всё, что вы хотели узнать об интерфейсах, совместимости сигнатур и не побоялись узнать https://habr.com/ru/articles/328890/
+- Безопасность
+  - Основное
+    - Security — официальный индекс PHP Manual по безопасности пользовательского ввода, файловой системы, баз данных, сессий и конфигурации. https://www.php.net/manual/en/security.php
+    - A Gentle Introduction to Application Security — вводная модель угроз через смешение данных и инструкций, ошибки бизнес-логики, уязвимое окружение и криптографические ошибки. https://paragonie.com/blog/2015/08/gentle-introduction-application-security
+    - Modern PHP Security Part 1: bug classes — обзор современных для PHP классов уязвимостей: SQL injection, file inclusion, десериализация и развитие SSRF до атаки на PHP-FPM. https://labs.detectify.com/security-guidance/modern-php-security-part-1-bug-classes/
+    - Injection Attacks — обзор SQL-, code-, command-, log-, path- и XML-инъекций в PHP; рекомендации для устаревших версий PHP и `libxml` следует сверять с современной конфигурацией. https://phpsecurity.readthedocs.io/en/latest/Injection-Attacks.html
+  - Конфигурация
+    - PHP Configuration Cheat Sheet — рекомендации OWASP по hardening `php.ini`, сессий, загрузки файлов и потенциально опасных функций. https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html
+    - Security considerations when parsing user-provided INI strings and files — утечка переменных окружения и PHP-констант через `parse_ini_*`; защита с помощью `INI_SCANNER_RAW`. https://php.watch/articles/parse_ini_string-file-security-considerations
+    - Exploiting Laravel based applications with leaked APP_KEYs and Queues — последствия утечки `.env` и `APP_KEY`, небезопасной десериализации и доступа к очередям Laravel. https://mogwailabs.de/en/blog/2022/08/exploiting-laravel-based-applications-with-leaked-app_keys-and-queues/
+  - Пользовательский ввод
+    - User Submitted Data — границы доверия и проверка данных из `$_GET`, `$_POST`, cookies, загруженных файлов и других внешних источников. https://www.php.net/manual/en/security.variables.php
+  - XSS
+    - Everything You Need to Know About Preventing Cross-Site Scripting Vulnerabilities in PHP — контекстное экранирование HTML, attributes, JavaScript и URL; примеры следует сверять с современными браузерными рекомендациями. https://paragonie.com/blog/2015/06/preventing-xss-vulnerabilities-in-php-everything-you-need-know
+    - Joomla: PHP Bug Introduces Multiple XSS Vulnerabilities — обход фильтрации через неконсистентную обработку повреждённых multibyte-последовательностей функциями `mbstring`. https://www.sonarsource.com/blog/joomla-multiple-xss-vulnerabilities/
+    - Detecting and exploiting path-relative stylesheet import vulnerabilities — PRSSI/RPO на примере phpBB: особенности PHP path handling, относительных CSS-путей и MIME sniffing. https://portswigger.net/research/detecting-and-exploiting-path-relative-stylesheet-import-prssi-vulnerabilities
+  - CSRF
+    - Cross-Site Request Forgeries — исторически важная PHP-статья, систематизировавшая CSRF и token-based защиту; примеры с `rand()`, `uniqid()`, MD5 и нестрогим сравнением устарели и не должны копироваться. https://shiflett.org/articles/cross-site-request-forgeries
+  - XML и XXE
+    - Revisting XXE and abusing protocols — эксплуатация XXE через OpenID, `php://filter` и `expect://`; рекомендации по `libxml` следует адаптировать к безопасным defaults PHP 8 и современной конфигурации парсера. https://sensepost.com/blog/2014/revisting-xxe-and-abusing-protocols/
+  - Сессии
+    - Session Management Basics — защита от session fixation и кражи сессий, ротация идентификаторов, strict mode и контроль активных сессий. https://www.php.net/manual/en/features.session.security.management.php
+    - Securing Session INI Settings — безопасные настройки `HttpOnly`, `Secure`, `SameSite`, `session.use_strict_mode` и `session.save_path`. https://www.php.net/manual/en/session.security.ini.php
+    - The Fast Track to Safe and Secure PHP Sessions — практическая настройка встроенных PHP-сессий: cookie flags, strict mode, ротация идентификаторов и защита от фиксации. https://paragonie.com/blog/2015/04/fast-track-safe-and-secure-php-sessions
+  - Аутентификация
+    - Implementing Secure User Authentication with “Remember Me” Cookies — selector/validator tokens, постоянная авторизация, восстановление доступа и отзыв токенов. https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence
+  - Контроль доступа
+    - BACFuzz: Exposing the Silence on Broken Access Control Vulnerabilities in Web Applications — gray-box fuzzing для поиска BOLA/BFLA в PHP-приложениях с runtime feedback и проверкой SQL-запросов. https://arxiv.org/abs/2507.15984
+  - Пароли
+    - Hashing passwords safely and securely — `password_hash()`, `password_verify()`, соли и причины не использовать MD5/SHA-1 для хранения паролей. https://www.php.net/manual/en/faq.passwords.php
+  - Приведение типов
+    - (Super) Magic Hashes — эксплуатация нестрогих сравнений строк вида `0e...`, слабого хранения паролей и некорректного использования bcrypt. https://offsec.almond.consulting/super-magic-hash.html
+  - Базы данных
+    - SQL Injection — примеры атак, подготовленные выражения, проверка входных данных и принцип минимальных привилегий для подключения к БД. https://www.php.net/manual/en/security.database.sql-injection.php
+    - Preventing SQL Injection in PHP Applications — prepared statements, отключение emulated prepares, allowlist для динамических identifiers и различие validation/sanitization. https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide
+    - Stranger Strings: An exploitable flaw in SQLite — integer overflow и расхождение представлений в SQLite formatting API, достигнутые через PHP PDO SQLite и превращённые в memory corruption. https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/
+  - Командная строка
+    - Exploit/bypass PHP escapeshellarg/escapeshellcmd functions — различия между shell и argument injection, опасные параметры `tar`, `find`, `wget`, `curl`, `sendmail` и других программ. https://security.szurek.pl/en/exploit-bypass-php-escapeshellarg-escapeshellcmd/
+  - Файловая система
+    - Filesystem Security — права доступа, проверка путей и риски файловых операций с пользовательскими данными. https://www.php.net/manual/en/security.filesystem.php
+    - How to Securely Allow Users to Upload Files — хранение вне document root, случайные имена, недоверенный MIME type и безопасная выдача загруженных файлов. https://paragonie.com/blog/2015/10/how-securely-allow-users-upload-files
+    - Upgrade from LFI to RCE via PHP Sessions — развитие Local File Inclusion до выполнения кода через управляемые значения в файле PHP-сессии. https://www.rcesecurity.com/2017/08/upgrade-from-lfi-to-rce-via-php-sessions/
+  - Сериализация
+    - `unserialize()` — официальное предупреждение о PHP Object Injection и выполнении кода при десериализации недоверенных данных. https://www.php.net/manual/en/function.unserialize.php
+    - Securely Implementing (De)Serialization in PHP — PHP Object Injection, аутентификация сериализованных сообщений и выбор безопасного формата обмена. https://paragonie.com/blog/2016/04/securely-implementing-de-serialization-in-php
+    - Object serialization and injection in PHP — учебный разбор изменения свойств сериализованного объекта, magic methods и перехода от object injection к выполнению кода. https://www.arsouyes.org/articles/2020/14_PHP_Injection_Objet/index.en.html
+    - PHP Object Injection — формат сериализованных объектов, magic methods и построение POP chains для file write, SQL injection и RCE. https://www.sonarsource.com/blog/php-object-injection/
+    - What is Phar Deserialization — неявная десериализация метаданных через `phar://` при файловых операциях без прямого вызова `unserialize()`. https://www.sonarsource.com/blog/new-php-exploitation-technique/
+  - PHP-интерпретатор
+    - PHP filter_var shenanigans — обход `FILTER_VALIDATE_DOMAIN` из-за преобразования длины строки между signed и unsigned типами; для PoC требуется вход размером около 4 ГБ. https://pwning.systems/posts/php_filter_var_shenanigans/
+    - Breaking PHP’s Garbage Collection and Unserialize — исторический разбор UAF в GC и `unserialize()`, использованных в цепочке удалённого выполнения кода. https://www.evonide.com/breaking-phps-garbage-collection-and-unserialize/
+    - MAD Bugs: Finding and Exploiting a 21-Year-Old Vulnerability in PHP — исследование 2026 года о UAF в `unserialize()`, истории POP chains и proof of concept против PHP 8.5.5. https://blog.calif.io/p/mad-bugs-finding-and-exploiting-a
+    - Hack the Elephant One Bite at a Time — исследование memory-safety ошибок PHP при обработке JPEG и сценариев эксплуатации через потоковый ввод. https://swarm.ptsecurity.com/hack-the-elephant-one-bite-at-a-time-jpeg-related-memory-safety-bugs-in-php/
+    - Security audit of PHP-SRC — результаты аудита PHP-FPM, PDO, MySQL, OpenSSL, multipart parsing и криптографических API с найденными уязвимостями и CVE. https://blog.quarkslab.com/security-audit-of-php-src.html
+    - Modern PHP Security Part 2: Breaching and hardening the PHP engine — обход ограничений движка и defense in depth через PHP-FPM isolation, read-only filesystem, `php.ini`, systemd и Snuffleupagus. https://labs.detectify.com/security-guidance/modern-php-security-part-2-breaching-and-hardening-the-php-engine/
+  - Stream wrappers и фильтры
+    - Iconv, set the charset to RCE — превращение file-read в RCE через `php://filter`, iconv и CVE-2024-2961 в glibc. https://blog.lexfo.fr/iconv-cve-2024-2961-p1.html
+    - Introducing wrapwrap — построение произвольных prefix/suffix через цепочки PHP-фильтров для развития SSRF и LFI. https://blog.lexfo.fr/wrapwrap-php-filters-suffix.html
+    - PHP filters chain: What is it and how to use it — построение данных цепочками `iconv`-фильтров и превращение file inclusion в RCE на примерах Laravel и Kohana. https://www.synacktiv.com/en/publications/php-filters-chain-what-is-it-and-how-to-use-it.html
+  - Template injection
+    - Server-Side Template Injection — исходное исследование SSTI с эксплуатацией PHP-шаблонизаторов Twig и Smarty, включая sandbox bypasses. https://portswigger.net/research/server-side-template-injection
+  - Race conditions
+    - Smashing the state machine — race conditions в многошаговых процессах, частично созданные сущности и влияние блокировок PHP-сессий на тестирование атак. https://portswigger.net/research/smashing-the-state-machine
+  - Криптография
+    - How to Securely Generate Random Strings and Integers in PHP — CSPRNG, unbiased integer mapping и безопасное применение `random_bytes()`/`random_int()`. https://paragonie.com/blog/2015/07/how-safely-generate-random-strings-and-integers-in-php
+    - Modern PHP data Encryption/Decryption with Sodium extension — симметричное и асимметричное authenticated encryption, ключи и nonce на практических примерах. https://php.watch/articles/modern-php-encryption-decryption-sodium
+  - HTTP и SSRF
+    - PHP Curl Security Hardening — ограничение протоколов, TLS-проверки, redirects, proxy и защита серверных запросов от SSRF. https://php.watch/articles/php-curl-security-hardening
+    - SSRF vs. Developers: A Study of SSRF-Defenses in PHP Applications — исследование методов защиты от SSRF и их распространённости в тысячах открытых PHP-приложений. https://www.usenix.org/conference/usenixsecurity24/presentation/wessels
+  - Зависимости
+    - Composer audit — проверка установленных пакетов на известные уязвимости, заброшенность и отметки malware. https://getcomposer.org/doc/03-cli.md#audit
+    - Composer Security Hardening — supply-chain threats, canonical repositories, lock-файл, `--no-dev` и риски package scripts/autoload. https://php.watch/articles/composer-security-hardening
+    - New `composer audit` Command and security audits in Composer 2.4 — форматы отчётов, Packagist Security Advisories API и запуск проверки в CI/CD. https://php.watch/articles/composer-audit
+    - PHP Supply Chain Attack on PEAR — захват учётных записей разработчиков и центрального сервера PEAR через уязвимости, существовавшие более 15 лет. https://www.sonarsource.com/blog/php-supply-chain-attack-on-pear
+  - Веб-серверы и маршрутизация
+    - Nginx/Apache Path Confusion to Auth Bypass — обход аутентификации из-за различий нормализации URL между Nginx, Apache и PHP. https://www.slcyber.io/research/nginx-apache-path-confusion-to-auth-bypass-in-pan-os-cve-2025-0108
+    - Security Alert: CVE-2024-4577 — PHP CGI Argument Injection — обход защиты через Best-Fit преобразование символов в Windows и удалённое выполнение кода в PHP-CGI. https://devco.re/blog/2024/06/06/security-alert-cve-2024-4577-php-cgi-argument-injection-vulnerability-en/
+  - Тестирование безопасности
+    - What All the PHUZZ Is About — coverage-guided fuzzing PHP-приложений для поиска SQLi, command injection, десериализации, path traversal, XXE и XSS; проверено более 1000 endpoints WordPress-плагинов. https://arxiv.org/abs/2406.06261
+  - Legacy-приложения
+    - How to extend the lifetime of legacy PHP applications — backported security fixes, LTS-дистрибутивы, локальные forks и изоляция устаревшего приложения. https://php.watch/articles/extend-lifetime-legacy-php
+  - Остальное
+    - The 2018 Guide to Building Secure PHP Software — большой обзор XSS, CSRF, SQL injection, загрузки файлов, десериализации, паролей и криптографии; отдельные рекомендации по версиям PHP и HTTP-заголовкам устарели и требуют сверки с актуальной документацией. https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software
+    - Survive The Deep End: PHP Security — большая книга по validation, injection, XSS, TLS и entropy; примеры и рекомендации по API следует сверять с современными версиями PHP. https://phpsecurity.readthedocs.io/en/latest/
 - Отладчики, Debugger
   - XDebug
     - Configure Xdebug https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html
@@ -567,6 +659,7 @@ vendor/bin/phpqt-install
     - SOLID Principles in PHP: A Developer’s Guide to Clean Code https://peoplesblog.co.in/articles/understanding-the-solid-principles-in-php.html
     - Applying SOLID principles to modern PHP https://phpizza.com/articles/solid-php/
     - Mastering Clean PHP Code: A Deep Dive into SOLID Principles https://kitemetric.com/blogs/mastering-clean-php-code-a-deep-dive-into-solid-principles
+    - SOLID в реальном мире: LSP без квадратов и прямоугольников — третья часть PHP-серии о SOLID: практический разбор LSP через контракты, предусловия, постусловия и рефакторинг кода на PHP 8.1+. https://habr.com/ru/companies/agima/articles/1070242/
   - Чистая архитектура; Clean architecture
     - Clean Architecture with PHP https://medium.com/unil-ci-software-engineering/clean-architecture-with-php-22de915a6c50
     - Чистая архитектура на PHP. Как её измерять и контролировать? https://habr.com/ru/articles/504590/
@@ -713,6 +806,8 @@ vendor/bin/phpqt-install
   - https://github.com/CodelyTV/php-ddd-example
   - https://github.com/jorge07/ddd-playground
   - https://github.com/ilyachase/monolith-decoupling-example
+- CQRS и Event Sourcing
+  - Broadway — архивированный набор слабосвязанных компонентов, инфраструктуры и тестовых helpers для CQRS/Event Sourcing приложений с примерами реализации. https://github.com/broadway/broadway
 
 ### Stackoverflow
 

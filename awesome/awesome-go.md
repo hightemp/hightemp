@@ -625,6 +625,7 @@
     - Развлекаемся с итераторами в Go https://habr.com/ru/companies/beget/articles/852940/
     - Understanding Iterators in Go: A Fun Dive! https://dev.to/tuna99/understanding-iterators-in-go-a-fun-dive-1c57
     - Go's Weird Little Iterators https://mcyoung.xyz/2024/12/16/rangefuncs/
+    - Going Backward — пошаговый вывод дизайна `slices.Backward`: от копирования слайса и closure до callback-итератора, `iter.Seq2` и generic constraint `~[]E`. https://antonz.org/going-backward/
   - iota
     - 4 iota enum examples https://yourbasic.org/golang/iota/ https://habr.com/ru/companies/nixys/articles/492056/
   - panic
