@@ -5,12 +5,15 @@
     - Введение в Data Science и машинное обучение https://stepik.org/course/4852/
     - Google Machine Learning Crash Course https://developers.google.com/machine-learning/crash-course/
     - Machine Learning Specialization https://www.deeplearning.ai/specializations/machine-learning https://www.coursera.org/specializations/machine-learning-introduction
+    - Intro to Machine Learning — Kaggle https://www.kaggle.com/learn/intro-to-machine-learning
   - Практика
     - Machine Learning in Python with scikit-learn https://inria.github.io/scikit-learn-mooc/
     - Открытый курс по машинному обучению ODS https://ods.ai/tracks/open-ml-course/about
     - Machine Learning Zoomcamp https://datatalks.club/docs/courses/ml-zoomcamp/
     - Decision Forests — Google https://developers.google.com/machine-learning/decision-forests
     - Clustering — Google https://developers.google.com/machine-learning/clustering
+    - Intermediate Machine Learning — Kaggle https://www.kaggle.com/learn/intermediate-machine-learning
+    - Feature Engineering — Kaggle https://www.kaggle.com/learn/feature-engineering
   - Академический уровень
     - Stanford CS229: Machine Learning https://cs229.stanford.edu/
     - MIT 6.036: Introduction to Machine Learning https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/
@@ -23,25 +26,40 @@
     - Practical Deep Learning for Coders https://course.fast.ai/
     - Neuromatch Academy: Deep Learning https://deeplearning.neuromatch.io/
     - UvA Deep Learning Tutorials https://uvadlc-notebooks.readthedocs.io/en/latest/
+    - MIT 6.S191: Introduction to Deep Learning https://introtodeeplearning.com/
+    - Deep Learning Specialization https://www.deeplearning.ai/specializations/deep-learning
+    - Neural Networks: Zero to Hero — Andrej Karpathy https://karpathy.ai/zero-to-hero.html
   - Компьютерное зрение
     - Stanford CS231n: Deep Learning for Computer Vision https://cs231n.stanford.edu/
+    - Community Computer Vision Course — Hugging Face https://huggingface.co/learn/computer-vision-course/en/unit0/welcome/welcome
   - Обработка естественного языка и LLM
     - Stanford CS224N: Natural Language Processing with Deep Learning https://web.stanford.edu/class/cs224n/
     - Hugging Face LLM Course https://huggingface.co/learn/llm-course/chapter1/1
+    - Stanford CS336: Language Modeling from Scratch https://cs336.stanford.edu/
+  - Генеративные модели
+    - Diffusion Models Course — Hugging Face https://huggingface.co/learn/diffusion-course/en/unit0/1
+  - Аудио и речь
+    - Audio Course — Hugging Face https://huggingface.co/learn/audio-course/chapter0/introduction
   - Графовое машинное обучение
     - Stanford CS224W: Machine Learning with Graphs https://web.stanford.edu/class/cs224w/
   - Обучение с подкреплением
     - Reinforcement Learning Course — David Silver https://www.davidsilver.uk/teaching/
-- Прикладные ML-системы
+    - Stanford CS234: Reinforcement Learning https://web.stanford.edu/class/cs234/
+    - UC Berkeley CS185/285: Deep Reinforcement Learning https://rail.eecs.berkeley.edu/deeprlcourse/
+    - Deep Reinforcement Learning Course — Hugging Face https://huggingface.co/learn/deep-rl-course/en/unit0/introduction
+- Прикладное машинное обучение и ML-системы
   - Постановка задачи и управление проектом
     - Introduction to Machine Learning Problem Framing — Google https://developers.google.com/machine-learning/problem-framing
     - Managing ML Projects — Google https://developers.google.com/machine-learning/managing-ml-projects
   - Рекомендательные системы
     - Recommendation Systems — Google https://developers.google.com/machine-learning/recommendation
+  - Временные ряды и прогнозирование
+    - Time Series — Kaggle https://www.kaggle.com/learn/time-series
   - Production ML и MLOps
     - Full Stack Deep Learning https://fullstackdeeplearning.com/course/2022/
     - MLOps Zoomcamp https://datatalks.club/docs/courses/mlops-zoomcamp/
     - MLOps Course — Made With ML https://madewithml.com/courses/mlops/
+    - Stanford CS329S: Machine Learning Systems Design https://stanford-cs329s.github.io/
 
 ### Мануалы и справочники
 
@@ -88,3 +106,5 @@
     - Hidden Technical Debt in Machine Learning Systems https://research.google/pubs/hidden-technical-debt-in-machine-learning-systems/
   - Тестирование и готовность к production
     - The ML Test Score https://research.google/pubs/the-ml-test-score-a-rubric-for-ml-production-readiness-and-technical-debt-reduction/
+
+### Видео
