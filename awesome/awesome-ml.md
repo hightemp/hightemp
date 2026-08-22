@@ -8,12 +8,21 @@
   - Практика
     - Machine Learning in Python with scikit-learn https://inria.github.io/scikit-learn-mooc/
     - Открытый курс по машинному обучению ODS https://ods.ai/tracks/open-ml-course/about
+    - Machine Learning Zoomcamp https://datatalks.club/docs/courses/ml-zoomcamp/
+    - Decision Forests — Google https://developers.google.com/machine-learning/decision-forests
+    - Clustering — Google https://developers.google.com/machine-learning/clustering
   - Академический уровень
     - Stanford CS229: Machine Learning https://cs229.stanford.edu/
+    - MIT 6.036: Introduction to Machine Learning https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/
+    - CMU 10-301/10-601: Introduction to Machine Learning https://www.cs.cmu.edu/~mgormley/courses/10601/
+    - UC Berkeley CS189: Introduction to Machine Learning https://people.eecs.berkeley.edu/~jrs/189s25/
+    - Learning From Data — Caltech https://home.work.caltech.edu/telecourse
 - Глубокое обучение
   - Основы
     - PyTorch: Learn the Basics https://docs.pytorch.org/tutorials/beginner/basics/intro.html
     - Practical Deep Learning for Coders https://course.fast.ai/
+    - Neuromatch Academy: Deep Learning https://deeplearning.neuromatch.io/
+    - UvA Deep Learning Tutorials https://uvadlc-notebooks.readthedocs.io/en/latest/
   - Компьютерное зрение
     - Stanford CS231n: Deep Learning for Computer Vision https://cs231n.stanford.edu/
   - Обработка естественного языка и LLM
@@ -24,10 +33,15 @@
   - Обучение с подкреплением
     - Reinforcement Learning Course — David Silver https://www.davidsilver.uk/teaching/
 - Прикладные ML-системы
+  - Постановка задачи и управление проектом
+    - Introduction to Machine Learning Problem Framing — Google https://developers.google.com/machine-learning/problem-framing
+    - Managing ML Projects — Google https://developers.google.com/machine-learning/managing-ml-projects
   - Рекомендательные системы
     - Recommendation Systems — Google https://developers.google.com/machine-learning/recommendation
   - Production ML и MLOps
     - Full Stack Deep Learning https://fullstackdeeplearning.com/course/2022/
+    - MLOps Zoomcamp https://datatalks.club/docs/courses/mlops-zoomcamp/
+    - MLOps Course — Made With ML https://madewithml.com/courses/mlops/
 
 ### Мануалы и справочники
 
