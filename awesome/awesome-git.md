@@ -82,6 +82,8 @@
     - Git Worktree: Секретное оружие ML-инженера https://habr.com/ru/articles/986220/
 - sparse-checkout
     - Bring your monorepo down to size with sparse-checkout https://github.blog/open-source/git/bring-your-monorepo-down-to-size-with-sparse-checkout/
+- Оффлайн-работа
+    - Оффлайновое использование Git — работа без сети через bare-репозиторий на внешнем носителе, копирование репозитория и `git bundle` https://habr.com/ru/companies/wunderfund/articles/791190/
 - bisect
     - git-bisect - Use binary search to find the commit that introduced a bug https://git-scm.com/docs/git-bisect
 - rebase
