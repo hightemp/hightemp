@@ -7,6 +7,7 @@
 - https://skillmd.ai/skills/
 - https://skills.sh/
 - https://github.com/vercel-labs/agent-skills
+- https://github.com/wondelai/skills
 
 ### Плагины
 
@@ -54,8 +55,8 @@
 - PHP
     - Архитектура
         - PHP SOLID Architecture Guide https://mcpmarket.com/tools/skills/php-solid-architecture-guide
-    - Остальное
-        - Скил для обновления кода до php 8.* https://github.com/netresearch/php-modernization-skill
+    - Модернизация
+        - PHP Modernization Skill — скилл для модернизации приложений до PHP 8.0–8.5: типобезопасность, PHPStan, PHPat, Rector, PHP-CS-Fixer, PSR/PER-CS и паттерны Symfony/Doctrine; включает verifier и dry-run orchestration с отчётами JSON, SARIF и JUnit. https://github.com/netresearch/php-modernization-skill
 - Laravel
     - Рефакторинг
         - Laravel Code Refactorer https://mcpmarket.com/tools/skills/laravel-code-refactorer
