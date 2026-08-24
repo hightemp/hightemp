@@ -1911,11 +1911,35 @@
     - Как незаметная indirect-зависимость в Go дописала ручку в ваш HTTP-сервер https://habr.com/ru/articles/1048732/
     - How Go Mitigates Supply Chain Attacks — защита экосистемы Go через детерминированный `go.mod`, хеши `go.sum`, checksum database, module proxy и отсутствие install hooks. https://go.dev/blog/supply-chain
     - Don’t Go with the flaw — атаки на экосистему Go Modules: repojacking, захват доменов, dependency confusion, typosquatting, `replace`, pseudo-versions и сохранение скрытого вредоносного кода в Go Proxy. https://labs.boostsecurity.io/articles/dont-go-with-the-flaw/
+    - Hijackable Go Module Repositories — исследование тысяч Go-модулей, уязвимых к repojacking после переименования или удаления GitHub-аккаунтов. https://www.vulncheck.com/blog/go-repojacking
+    - Go Supply Chain Attack: Malicious Package Exploits Go Module Proxy Caching for Persistence — BoltDB-typosquat, RCE-backdoor и сокрытие вредоносного кода через изменение Git tag после кеширования в Go Proxy. https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence
+    - wget to Wipeout: Malicious Go Modules Fetch Destructive Payload — Go-модули с обфусцированными загрузчиками destructive malware для уничтожения данных. https://socket.dev/blog/wget-to-wipeout-malicious-go-modules-fetch-destructive-payload
+    - Typosquatted Go Packages Deliver Malware Loader Targeting Linux and macOS Systems — семь поддельных модулей с общими техниками обфускации и загрузки malware. https://socket.dev/blog/typosquatted-go-packages-deliver-malware-loader
+    - Malicious Go “crypto” Module Steals Passwords and Deploys Rekoobe Backdoor — подмена `x/crypto`, перехват паролей и установка Linux-backdoor. https://socket.dev/blog/malicious-go-crypto-module-steals-passwords-and-deploys-rekoobe-backdoor
+    - Malicious Go Packages Impersonate Google’s UUID Library and Exfiltrate Data — encrypted exfiltration через typosquatted UUID-модули. https://socket.dev/blog/malicious-go-packages-impersonate-googles-uuid-library-and-exfiltrate-data
+    - Popular Go Decimal Library Targeted by Long-Running Typosquat with DNS Backdoor — trust-then-poison, import-time backdoor и управление через DNS TXT. https://socket.dev/blog/popular-go-decimal-library-typosquat-dns-backdoor
   - Файловая система
     - Traversal-resistant file APIs — path traversal, symlink-атаки и TOCTOU; защита с помощью `filepath.IsLocal`, `filepath.Localize`, `os.Root` и `os.OpenInRoot`. https://go.dev/blog/osroot
     - How I found the Grafana zero-day Path Traversal — CVE-2021-43798 и ошибочное предположение, что одного вызова `path.Clean` достаточно для защиты файловых путей. https://labs.detectify.com/security-guidance/how-i-found-the-grafana-zero-day-path-traversal-exploit-that-gave-me-access-to-your-logs/
+    - Go’s `filepath.Clean` does not prevent path traversal — практические обходы `Clean`/`Join` и разбор GO-2025-4138. https://argemma.com/blog/go-filepath-clean/
+    - Gogs 0-Day Exploited in the Wild — CVE-2025-8110: symlink bypass, произвольная запись за пределами репозитория и RCE. https://www.wiz.io/blog/wiz-research-gogs-cve-2025-8110-rce-exploit
+    - Securing Go Applications With SonarQube: Real-World Examples — Gin TLS и цепочка stored XSS → path traversal → RCE в Memos. https://www.sonarsource.com/blog/securing-go-applications-with-sonarqube-real-world-examples/
   - HTTP
     - Patching Go’s leaky HTTP clients — CVE-2023-45289: утечка `Authorization` и cookies при редиректах в `net/http.Client` и `cookiejar.Jar`, причины ошибки и варианты защиты. https://mattermost.com/blog/patching-gos-leaky-http-clients/
+    - Analysis of Two Newly Patched Kubernetes Vulnerabilities — CVE-2019-16276: неоднозначные HTTP-заголовки в Go `net/http`, request smuggling и auth bypass. https://www.paloaltonetworks.com/blog/2019/10/cloud-kubernetes-vulnerabilities/
+    - Go and enhance your calm — неправильное использование Go HTTP/2 client, превращающее обычный трафик в PING flood. https://blog.cloudflare.com/go-and-enhance-your-calm/
+    - So you want to expose Go on the Internet — TLS, timeouts и защита Internet-facing Go-сервера; конкретные настройки 2016 года следует адаптировать к современному `crypto/tls`. https://blog.cloudflare.com/exposing-go-on-the-internet/
+    - The perils of the “real” client IP — безопасная интерпретация `X-Forwarded-For`, trusted proxies и Go `RemoteAddr`. https://adam-p.ca/blog/2022/03/x-forwarded-for/
+    - chi RealIP Middleware IP Spoofing via Unvalidated X-Forwarded-For Header — подмена IP через недоверенные forwarding headers и обход rate limits/access controls. https://securelayer7.net/lab/chi-realip-middleware-ip-spoofing-x-forwarded-for
+    - Traefik HTTP/2 CONNECT Pool Poisoning Cross-User Response Smuggling — response smuggling через `ReverseProxy`, CONNECT и повторное использование backend-соединений. https://securelayer7.net/lab/cve-2026-71324-traefik-h2-connect-pool-poisoning-response-smuggling
+  - XSS и шаблоны
+    - Go `html/template` iframe `srcdoc` XSS — двойной браузерный parsing `srcdoc`, при котором обычного attribute escaping недостаточно. https://snoopysecurity.github.io/posts/go-html-template-srcdoc-xss/
+    - From `text/template` to `html/template`: Closing the XSS Door — практический разбор XSS из-за выбора небезопасного шаблонизатора. https://orbisappsec.com/blog/from-texttemplate-to-htmltemplate-closing-the-xss-door
+    - Unmasking a Go HTML Parser Bug with Differential Fuzzing — расхождение `x/net/html` с браузером и возможный обход HTML-фильтра. https://mionskowski.pl/posts/unmasking-go-html-parser-bug/
+  - URL parsing и SSRF
+    - Security Implications of URL Parsing Differentials — fuzzing URL-парсеров, включая Go `net/url`, и эксплуатация parser confusion. https://www.sonarsource.com/blog/security-implications-of-url-parsing-differentials/
+    - Exploiting URL Parsing Confusion — сравнение шестнадцати URL-парсеров, включая Go, и обход security checks. https://claroty.com/team82/research/exploiting-url-parsing-confusion
+    - Building an SSRF-Safe URL Fetcher — structural validation, IP checking, DNS pinning, защита от rebinding и повторная проверка редиректов. https://moayyadfaris.com/blog/ssrf-safe-url-fetcher-dns-pinning
   - XML и SAML
     - Coordinated disclosure of XML round-trip vulnerabilities in Go — расхождения при повторной сериализации через `encoding/xml`, нарушавшие проверку SAML-подписей в нескольких Go-библиотеках. https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/
   - Парсинг входных данных
@@ -1923,25 +1947,65 @@
   - Аудит кода
     - Go for Security Auditors: Part 1 — особенности Go, важные при аудите: typed nil, shadowing, захват переменных цикла, build tags, compiler pragmas и ошибки тестов. https://sigmaprime.io/blog/go-for-security-auditors-part-1/
     - An introduction to secure code review on Go applications — методика анализа Go-проектов на примере Traefik: структура кода, static analysis, карта модулей и отслеживание sources/sinks. https://blog.convisoappsec.com/an-introduction-to-secure-code-review-on-go-applications/
+    - Golang code review notes — traversal, goroutine leaks, `unsafe`, форматирование URL и платформенные различия, важные при security review. https://www.elttam.com/blog/golang-codereview
+    - Golang code review notes II — integer overflow, `ReverseProxy.Director`, shared `url.URL`, null bytes, JSON redaction и CSRF. https://www.elttam.com/blog/golang-code-review-notes-ii
+    - Getting Started With Go Code Review — методика поиска уязвимостей, опасные API, `unsafe`, криптография и HTTP. https://blog.secursive.com/posts/getting-started-golang-code-review/
+    - 6 Easy Bugs to Find in Golang Source Code Reviews — шесть повторяющихся паттернов уязвимостей для ручного аудита Go-кода. https://pentesterlab.com/blog/6-easy-bugs-golang-source-code-review
+  - Cookies
+    - A Complete Guide to Working with Cookies in Go — `Secure`, `HttpOnly`, `SameSite`, HMAC-подпись и AES-GCM для конфиденциальных cookies. https://www.alexedwards.net/blog/working-with-cookies-in-go
+  - CSRF
+    - A Modern Approach to Preventing CSRF in Go — `http.CrossOriginProtection`, Fetch Metadata, `Origin`, HSTS и SameSite как defense in depth. https://www.alexedwards.net/blog/preventing-csrf-in-go
+  - Пароли
+    - How to Hash and Verify Passwords with Argon2 in Go — Argon2id, выбор параметров, соль и формат хранения хеша. https://www.alexedwards.net/blog/how-to-hash-and-verify-passwords-with-argon2-in-go
+  - Аутентификация
+    - How to Correctly Use Basic Authentication in Go — HTTPS, rate limiting, SHA-256 normalization и constant-time сравнение учётных данных. https://www.alexedwards.net/blog/basic-authentication-in-go
+  - Обработка ошибок
+    - Best Practices for Secure Error Handling in Go — разделение публичных и внутренних ошибок, sanitization и предотвращение утечек через API и логи. https://blog.jetbrains.com/go/2026/03/02/secure-go-error-handling-best-practices/
+  - Логирование и секреты
+    - Prevent Logging Secrets in Go by Using Custom Types — типизация секретов для предотвращения случайной записи credentials в журналы. https://www.commonfate.io/blog/prevent-logging-secrets-in-go-by-using-custom-types
   - Запуск команд
     - Command PATH security in Go — выполнение подменённых программ через `exec.LookPath` и `exec.Command`, особенности поиска в текущем каталоге и исправление RCE в `go get`. https://go.dev/blog/path-security
   - Криптография
     - Secure Randomness in Go 1.22 — различия статистической и криптографической случайности, устройство ChaCha8Rand и снижение ущерба от ошибочного применения `math/rand`. https://go.dev/blog/chacha8rand
     - Go Cryptography Security Audit — результаты независимого аудита реализаций ECDH, ECDSA, RSA, Ed25519, AES, ML-KEM, DRBG и других криптографических компонентов Go. https://go.dev/blog/tob-crypto-audit
     - The KyberSlash vulnerability and the crystals-go library — ретроспектива timing side-channel в Go-реализации Kyber и Dilithium, исправления и процесса раскрытия уязвимости. https://kudelskisecurity.com/research/the-kyberslash-vulnerability-and-the-crystals-go-library-a-retrospective-story/
+    - Padding oracles and the decline of CBC-mode cipher suites — Lucky13 и историческая уязвимость Go TLS CBC к timing attacks. https://blog.cloudflare.com/padding-oracles-and-the-decline-of-cbc-mode-ciphersuites/
+    - Taking the quantum leap with Go — реализация постквантовой криптографии и защита от timing/cache side channels. https://kudelskisecurity.com/research/taking-the-quantum-leap-with-go
+    - A Timing Attack In Action — практическая демонстрация timing attack и применения `crypto/subtle.ConstantTimeCompare`. https://verboselogging.com/2012/08/20/a-timing-attack-in-action
   - Генераторы токенов
     - Demystifying OTPs: the logic behind the offline generation of tokens https://itnext.io/demystifying-otps-the-logic-behind-the-offline-generation-of-tokens-baefca7aa0d0
   - Fuzzing
     - Fuzzing Golang msgpack for fun and panic — практический поиск DoS-уязвимости в Go-библиотеке MessagePack, получившей идентификаторы GO-2022-0972 и CVE-2022-41719. https://redcanary.com/blog/testing-and-validation/fuzzing/
     - DNS parser, meet Go fuzzer — fuzzing DNS-парсера обнаружил бесконечный цикл, DoS и ошибки работы с буферами; используется устаревший `go-fuzz`, но методика остаётся полезной. https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/
     - gosentry brings LibAFL-grade fuzzing to Go’s native interface — ограничения стандартного Go fuzzer и поиск integer overflow, data races, goroutine leaks и timeout-багов с помощью LibAFL, grammar- и structure-aware fuzzing. https://blog.trailofbits.com/2026/05/12/go-fuzzing-was-missing-half-the-toolkit.-we-forked-the-toolchain-to-fix-it./
+    - Go or No Go: Differential Fuzzing of Native and C Libraries — сравнение Go/C реализаций libcrypto, libssl, libpng и zlib и security impact parser differentials. https://mweissbacher.com/2023/05/25/go-or-no-go/
+    - Coverage Guided Fuzzing in Go — исторический обзор `go-fuzz`, libFuzzer и compiler instrumentation до появления native fuzzing. https://alexplaskett.github.io/coverage-guided-fuzzing-golang/
+    - Golang Fuzzing: Key Improvements in Go 1.19 — 8-bit counters, value profiling, string comparison interception и семь найденных багов. https://www.code-intelligence.com/blog/golang-fuzzing-1.19
+    - Fuzz Testing in Go: Discovering Vulnerabilities and Analyzing CVE-2022-43677 — практический fuzz test и воспроизведение уязвимости free5GC. https://free5gc.org/blog/20230809/main/
+    - The HTTP Garden — differential fuzzing потоков HTTP/1.1 и parser discrepancies, включая Go `net/http`. https://arxiv.org/abs/2405.17737
+    - G-Fuzz: A Directed Fuzzing Framework for gVisor — направленный fuzzing ядра gVisor, написанного на Go. https://arxiv.org/abs/2409.13139
+    - Rust and Go Directed Fuzzing with LibAFL-DiFuzz — directed greybox fuzzing для Go и Rust. https://arxiv.org/abs/2601.22772
+    - Exposing Go’s Hidden Bugs: A Novel Concolic Framework — сочетание symbolic и concrete execution для исследования сложных путей Go-программ. https://arxiv.org/abs/2505.20183
+  - Runtime, toolchain и memory safety
+    - CVE-2021-38297: Analysis of a Go WebAssembly Vulnerability — перезапись Wasm-модуля длинными аргументами и выполнение вредоносного bytecode. https://jfrog.com/blog/cve-2021-38297-analysis-of-a-go-web-assembly-vulnerability/
+    - When the compiler lies: breaking memory safety in safe Go — compiler bugs в Go до 1.26.1, control-flow hijack без `unsafe`, cgo, asm и data races. https://ciolek.dev/posts/when-the-compiler-lies
+    - Golang heap corruption during garbage collection — историческая эксплуатация GC-багa как use-after-free в Go 1.1. https://blog.stalkr.net/2013/06/golang-heap-corruption-during-garbage.html
+    - Golang data races to break memory safety — превращение race condition в type confusion и управление указателем; исторический разбор. https://blog.stalkr.net/2015/04/golang-data-races-to-break-memory-safety.html
+    - SPEAR attacks: transient bypass of Go bounds checks — анализ speculative-execution атак против bounds checks Go. https://ibm.github.io/system-security-research-updates/2022/02/24/go-spear
+    - Uncovering the Hidden Dangers: Finding Unsafe Go Code in the Wild — исследование `unsafe` в популярных проектах и возможных exploit vectors. https://arxiv.org/abs/2010.11242
   - Защита бинарников
     - Build PIE executables in Go: I got nerd-sniped — устройство PIE и ASLR и сборка статического PIE-бинарника Go через external linker и musl. https://gaultier.github.io/blog/build-pie-executables-with-pie.html
     - Hardening Go Programs 1/n — проверка бинарников через `checksec`, PIE, RELRO, Fortify и компромиссы external linking; конкретные флаги следует сверять с актуальной версией toolchain. https://devdrivensecurity.substack.com/p/hardening-go-programs-1n
+    - Securing and Exploiting Go Binaries — историческая эксплуатация cgo-бинарника и ранних слабостей Go runtime; не использовать как актуальный hardening guide. https://codearcana.com/posts/2012/05/06/securing-and-exploiting-go-binaries.html
   - Debug endpoints
     - Your pprof is showing — результаты IPv4-сканирования открытых `/debug/pprof` и безопасное вынесение профилировщика на отдельный localhost-порт и `ServeMux`. https://mmcloughlin.com/posts/your-pprof-is-showing
   - Reverse engineering
     - Ready, Set, Go — Golang Internals and Symbol Recovery — внутренние структуры Go-бинарников, восстановление символов и метаданных в stripped/packed файлах и анализ Go-malware с помощью GoReSym. https://cloud.google.com/blog/topics/threat-intelligence/golang-internals-symbol-recovery/
+    - GoStringUngarbler: Deobfuscating Strings in Garbled Binaries — устройство `garble -literals` и восстановление зашифрованных строк. https://cloud.google.com/blog/topics/threat-intelligence/gostringungarbler-deobfuscating-strings-in-garbled-binaries
+    - Golang Reverse Engineering Tips — stripped binaries, static linking, PCLN и анализ через IDA Pro. https://www.travismathison.com/posts/Golang-Reverse-Engineering-Tips/
+    - Reverse Engineering Go Binaries with Ghidra — восстановление функций, строк, типов и runtime-структур. https://cujo.com/blog/reverse-engineering-go-binaries-with-ghidra/
+    - AlphaGolang — пошаговая методика анализа Go-malware в IDA Pro. https://www.sentinelone.com/labs/alphagolang-a-step-by-step-go-malware-reversing-methodology-for-ida-pro/
+    - Panchan’s Mining Rig — разбор Go P2P-ботнета и извлечение функций из `pclntab`. https://www.akamai.com/blog/security-research/new-p2p-botnet-panchan
 - Тестирование
   - Основное
     - Go-тесты: путь к надежному коду https://habr.com/ru/articles/916464/
