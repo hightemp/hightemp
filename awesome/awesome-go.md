@@ -1909,8 +1909,25 @@
 - Безопасность
   - Supply chain; Зависимости
     - Как незаметная indirect-зависимость в Go дописала ручку в ваш HTTP-сервер https://habr.com/ru/articles/1048732/
+    - How Go Mitigates Supply Chain Attacks — защита экосистемы Go через детерминированный `go.mod`, хеши `go.sum`, checksum database, module proxy и отсутствие install hooks. https://go.dev/blog/supply-chain
+  - Файловая система
+    - Traversal-resistant file APIs — path traversal, symlink-атаки и TOCTOU; защита с помощью `filepath.IsLocal`, `filepath.Localize`, `os.Root` и `os.OpenInRoot`. https://go.dev/blog/osroot
+  - HTTP
+    - Patching Go’s leaky HTTP clients — CVE-2023-45289: утечка `Authorization` и cookies при редиректах в `net/http.Client` и `cookiejar.Jar`, причины ошибки и варианты защиты. https://mattermost.com/blog/patching-gos-leaky-http-clients/
+  - XML и SAML
+    - Coordinated disclosure of XML round-trip vulnerabilities in Go — расхождения при повторной сериализации через `encoding/xml`, нарушавшие проверку SAML-подписей в нескольких Go-библиотеках. https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/
+  - Парсинг входных данных
+    - Unexpected security footguns in Go’s parsers — duplicate keys, case-insensitive matching, неизвестные поля, trailing data и различия поведения JSON-, XML- и YAML-парсеров. https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/
+  - Запуск команд
+    - Command PATH security in Go — выполнение подменённых программ через `exec.LookPath` и `exec.Command`, особенности поиска в текущем каталоге и исправление RCE в `go get`. https://go.dev/blog/path-security
+  - Криптография
+    - Secure Randomness in Go 1.22 — различия статистической и криптографической случайности, устройство ChaCha8Rand и снижение ущерба от ошибочного применения `math/rand`. https://go.dev/blog/chacha8rand
+    - Go Cryptography Security Audit — результаты независимого аудита реализаций ECDH, ECDSA, RSA, Ed25519, AES, ML-KEM, DRBG и других криптографических компонентов Go. https://go.dev/blog/tob-crypto-audit
+    - The KyberSlash vulnerability and the crystals-go library — ретроспектива timing side-channel в Go-реализации Kyber и Dilithium, исправления и процесса раскрытия уязвимости. https://kudelskisecurity.com/research/the-kyberslash-vulnerability-and-the-crystals-go-library-a-retrospective-story/
   - Генераторы токенов
     - Demystifying OTPs: the logic behind the offline generation of tokens https://itnext.io/demystifying-otps-the-logic-behind-the-offline-generation-of-tokens-baefca7aa0d0
+  - Fuzzing
+    - Fuzzing Golang msgpack for fun and panic — практический поиск DoS-уязвимости в Go-библиотеке MessagePack, получившей идентификаторы GO-2022-0972 и CVE-2022-41719. https://redcanary.com/blog/testing-and-validation/fuzzing/
 - Тестирование
   - Основное
     - Go-тесты: путь к надежному коду https://habr.com/ru/articles/916464/
