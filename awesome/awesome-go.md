@@ -1910,14 +1910,19 @@
   - Supply chain; Зависимости
     - Как незаметная indirect-зависимость в Go дописала ручку в ваш HTTP-сервер https://habr.com/ru/articles/1048732/
     - How Go Mitigates Supply Chain Attacks — защита экосистемы Go через детерминированный `go.mod`, хеши `go.sum`, checksum database, module proxy и отсутствие install hooks. https://go.dev/blog/supply-chain
+    - Don’t Go with the flaw — атаки на экосистему Go Modules: repojacking, захват доменов, dependency confusion, typosquatting, `replace`, pseudo-versions и сохранение скрытого вредоносного кода в Go Proxy. https://labs.boostsecurity.io/articles/dont-go-with-the-flaw/
   - Файловая система
     - Traversal-resistant file APIs — path traversal, symlink-атаки и TOCTOU; защита с помощью `filepath.IsLocal`, `filepath.Localize`, `os.Root` и `os.OpenInRoot`. https://go.dev/blog/osroot
+    - How I found the Grafana zero-day Path Traversal — CVE-2021-43798 и ошибочное предположение, что одного вызова `path.Clean` достаточно для защиты файловых путей. https://labs.detectify.com/security-guidance/how-i-found-the-grafana-zero-day-path-traversal-exploit-that-gave-me-access-to-your-logs/
   - HTTP
     - Patching Go’s leaky HTTP clients — CVE-2023-45289: утечка `Authorization` и cookies при редиректах в `net/http.Client` и `cookiejar.Jar`, причины ошибки и варианты защиты. https://mattermost.com/blog/patching-gos-leaky-http-clients/
   - XML и SAML
     - Coordinated disclosure of XML round-trip vulnerabilities in Go — расхождения при повторной сериализации через `encoding/xml`, нарушавшие проверку SAML-подписей в нескольких Go-библиотеках. https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/
   - Парсинг входных данных
     - Unexpected security footguns in Go’s parsers — duplicate keys, case-insensitive matching, неизвестные поля, trailing data и различия поведения JSON-, XML- и YAML-парсеров. https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/
+  - Аудит кода
+    - Go for Security Auditors: Part 1 — особенности Go, важные при аудите: typed nil, shadowing, захват переменных цикла, build tags, compiler pragmas и ошибки тестов. https://sigmaprime.io/blog/go-for-security-auditors-part-1/
+    - An introduction to secure code review on Go applications — методика анализа Go-проектов на примере Traefik: структура кода, static analysis, карта модулей и отслеживание sources/sinks. https://blog.convisoappsec.com/an-introduction-to-secure-code-review-on-go-applications/
   - Запуск команд
     - Command PATH security in Go — выполнение подменённых программ через `exec.LookPath` и `exec.Command`, особенности поиска в текущем каталоге и исправление RCE в `go get`. https://go.dev/blog/path-security
   - Криптография
@@ -1928,6 +1933,15 @@
     - Demystifying OTPs: the logic behind the offline generation of tokens https://itnext.io/demystifying-otps-the-logic-behind-the-offline-generation-of-tokens-baefca7aa0d0
   - Fuzzing
     - Fuzzing Golang msgpack for fun and panic — практический поиск DoS-уязвимости в Go-библиотеке MessagePack, получившей идентификаторы GO-2022-0972 и CVE-2022-41719. https://redcanary.com/blog/testing-and-validation/fuzzing/
+    - DNS parser, meet Go fuzzer — fuzzing DNS-парсера обнаружил бесконечный цикл, DoS и ошибки работы с буферами; используется устаревший `go-fuzz`, но методика остаётся полезной. https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/
+    - gosentry brings LibAFL-grade fuzzing to Go’s native interface — ограничения стандартного Go fuzzer и поиск integer overflow, data races, goroutine leaks и timeout-багов с помощью LibAFL, grammar- и structure-aware fuzzing. https://blog.trailofbits.com/2026/05/12/go-fuzzing-was-missing-half-the-toolkit.-we-forked-the-toolchain-to-fix-it./
+  - Защита бинарников
+    - Build PIE executables in Go: I got nerd-sniped — устройство PIE и ASLR и сборка статического PIE-бинарника Go через external linker и musl. https://gaultier.github.io/blog/build-pie-executables-with-pie.html
+    - Hardening Go Programs 1/n — проверка бинарников через `checksec`, PIE, RELRO, Fortify и компромиссы external linking; конкретные флаги следует сверять с актуальной версией toolchain. https://devdrivensecurity.substack.com/p/hardening-go-programs-1n
+  - Debug endpoints
+    - Your pprof is showing — результаты IPv4-сканирования открытых `/debug/pprof` и безопасное вынесение профилировщика на отдельный localhost-порт и `ServeMux`. https://mmcloughlin.com/posts/your-pprof-is-showing
+  - Reverse engineering
+    - Ready, Set, Go — Golang Internals and Symbol Recovery — внутренние структуры Go-бинарников, восстановление символов и метаданных в stripped/packed файлах и анализ Go-malware с помощью GoReSym. https://cloud.google.com/blog/topics/threat-intelligence/golang-internals-symbol-recovery/
 - Тестирование
   - Основное
     - Go-тесты: путь к надежному коду https://habr.com/ru/articles/916464/
