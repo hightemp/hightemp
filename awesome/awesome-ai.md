@@ -1022,7 +1022,6 @@ https://arxiv.org/pdf/2411.08804v1
 ### Google colab
 
 - Файнтюним LLaMa 3.1 8B бесплатно в Google Collab https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing
-- "Практический курс по глубокому обучению (Deep Learning) на ноутбуках Google Colab" — бесплатный онлайн сборник ресурсов, включающий 20 глав с теоретическими основами, примерами кода, вопросами для повторения и практическими задачами по реализации методов глубокого обучения, ориентированный на новичков и рекомендующий ознакомиться с сопутствующей книгой, https://course.fast.ai/Resources/book.html
 - Unsloth Notebooks — коллекция из более чем 100 готовых блокнотов Google Colab для файн-тюнинга языковых моделей, включающая практические руководства по вызову инструментов, классификации, подготовке датасетов, инференсу, оценке качества, оптимизации и настройке различных семейств нейронных сетей. https://github.com/unslothai/notebooks
 
 ### AI для письма
@@ -1377,7 +1376,6 @@ https://arxiv.org/pdf/2411.08804v1
 - Hugging Face выпустил курс по созданию ИИ-агентов, первая часть которого доступна на YouTube и переведена на русском языке на платформе Teletype. (https://www.youtube.com/live/iLVyYDbdSmM, https://huggingface.co/learn/agents-course/unit1/introduction, https://teletype.in/@prompt_design/agents-course)
 - подборка обучающих курсов по ИИ от Петра Скальски с полным описанием популярных языковых моделей и нейронных сетей. https://github.com/SkalskiP/courses
 - Stanford university
-    - Машинное обучение — основы ИИ, ML-модели и создание нейросетей. https://www.coursera.org/specializations/machine-learning-introduction
     - Кибербезопасность — кибератаки, фишинг, защита данных и карьера в сфере инфобеза. https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview
     - Продвинутый SQL — индексы, триггеры, ограничения и авторизация в реляционных БД. https://online.stanford.edu/courses/soe-ydatabases0001-databases-advanced-topics-sql
     - Программирование на R — для аналитиков данных и специалистов по анализу. https://online.stanford.edu/courses/xfds112-r-programming-fundamentals
@@ -1398,8 +1396,6 @@ https://arxiv.org/pdf/2411.08804v1
 - Anthropic AI Fluency — бесплатный образовательный курс по работе с искусственным интеллектом, разработанный компанией Anthropic, который обучает системному подходу к формулировке задач и взаимодействию с ИИ-системами через пятиэтапную методологию (описание, получение результата, оценка, уточнение, повторение), включающий практические упражнения по промпт-инжинирингу, анализ типичных ошибок пользователей и интерактивные примеры для развития навыков эффективного использования искусственного интеллекта в профессиональной деятельности. https://www.anthropic.com/ai-fluency https://github.com/anthropics/prompt-eng-interactive-tutorial
 - Language Modeling from Scratch — образовательный курс Стэнфордского университета, направленный на практическое изучение разработки больших языковых моделей (LLM) с нуля, включающий пять домашних заданий по реализации архитектуры трансформера, оптимизации внимания FlashAttention 2, распределённому обучению, анализу законов масштабирования и обучению с подкреплением, требующий базовых знаний Python, теории вероятностей, математического анализа и опыта работы с PyTorch. https://stanford-cs336.github.io/spring2025/ https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_ https://github.com/stanford-cs336/spring2025-lectures
 - Компьютерное зрение https://code.mipt.ru/courses-public/cv/public/-/blob/fall-2024/README.md
-- бесплатный открытый курс по машинному обучению от ODS и Петра Ермакова https://ods.ai/tracks/open-ml-course/about
-- CS224N: Natural Language Processing with Deep Learning Stanford / Winter 2025 https://web.stanford.edu/class/cs224n/
 - MIT 6.S191: Introduction to Deep Learning — обновлённый вводный курс MIT по deep learning на 2026 год: интенсивный bootcamp по основам нейросетей и современным темам вроде LLM, generative AI, computer vision, sequence modeling, reinforcement learning, AI for Science и масштабного обучения; новые лекции, слайды и лабораторные публикуются еженедельно, первая лекция доступна на YouTube. https://introtodeeplearning.com/ https://www.youtube.com/watch?v=II4giR4vOOo&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1
 - Deep Learning — бесплатный курс MIT по глубокому обучению с лекциями Phillip Isola (соавтор CycleGAN), включающий видео, слайды, материалы и домашние задания. https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/video_galleries/lecture-videos/
 
@@ -1410,14 +1406,12 @@ https://arxiv.org/pdf/2411.08804v1
 
 ### Учебники
 
-- Учебник по машинному обучению(ШАД) https://education.yandex.ru/handbook/ml
 - https://illustrated-machine-learning.github.io/
 - Google выложил учебник по искусственному интеллекту и ИИ-агентам - в 42-страничном учебнике подробно объясняются принципы работы ИИ-агентов, компоненты и когнитивные архитектуры, инструменты (расширения, функции и хранилища данных), техники обучения для повышения эффективности ИИ-агентов, а также создание ИИ-агентов на LangChain и LangGraph. https://www.kaggle.com/whitepaper-agents
 - Конспект - обзор методов обработки текстовых последовательностей в области обработки естественного языка, содержащий раздел о методах на основе подсчета (мешок слов, TF-IDF, матрица совстречаемости, точечная взаимная информация), векторные представления слов (Word2Vec, GloVe, FastText), методы классификации текста до появления трансформерных моделей, виды нейронных сетей для обработки последовательностей (сверточные, рекуррентные, LSTM, GRU, ссылочные семантические модели, модель Мамба), методы позиционного кодирования, механизм внимания, ключевые отличия моделей на основе трансформера до 2021 года, методы расширения возможностей нейронных сетей (ядро Нгуена-Видитского, интерполяция). https://docs.google.com/document/d/1TeSM3stfltBCERnWav4JLezioU0MvpYZJMpWqig-EvE/edit
 - OpenAI выложили (https://platform.openai.com/docs/guides/reasoning-best-practices) новый гайд по промптингу нейронок из серии «о» — они отлично разбираются в стратегии, планировании и принятии решений в отличие от GPT. Но обычный промптинг с ними не работает!
 - "The Hundred-Page Language Models Book" - книга, предоставляющая простое и доступное введение в язык большие языковые модели, включая теоретическую базу машинного обучения и математику, эволюцию языковых моделей от самых ранних до современных архитектур, устройство трансформеров и LLM, а также рекомендации по дальнейшему изучению темы и образцы рабочего кода на Python. https://ru.scribd.com/document/824597424/OceanofPDF-com-the-Hundred-Page-Language-Models-Book-Andriy-Burkov, https://github.com/aburkov/theLMbook
 - Учебник LLM и ИИ от LLM Studio — систематизированное оглавление русскоязычных материалов от вводного до профессионального уровня: устройство и обучение LLM, оценка и reasoning, VLM, квантование и локальный запуск, AI-агенты и протоколы, генерация кода. https://llmstudio.ru/handbook
-- Это интерактивная книга по глубокому обучению с кодом, математикой и практическими заданиями, реализованная на PyTorch, NumPy/MXNet, JAX и TensorFlow и используемая в университетах по всему миру. https://d2l.ai/index.html
 - Это бесплатный онлайн-учебник и набор материалов к курсу по глубокому обучению — "Understanding Deep Learning" (Саймон Дж. Д. Принс), включающий главы книги, презентации и ноутбуки для самостоятельного изучения современных методов машинного обучения и нейросетей. https://udlbook.github.io/udlbook/
 - Introduction to Machine Learning — учебник для профессионалов, систематизирующий математические основы машинного обучения: анализ, линейную алгебру и теорию вероятностей. Теория сложности моделей и обобщающей способности — работа о мерах сложности моделей и связи со способностью к обобщению в машинном обучении. https://arxiv.org/abs/2409.02668
 
@@ -1774,11 +1768,9 @@ https://arxiv.org/pdf/2411.08804v1
 - Deep Learning: Foundations and Concepts (Bishop & Bishop, 2023)
 - Deep Learning (Goodfellow, Bengio, Courville, 2016)
 - The Little Book of Deep Learning (Fleuret, 2023)
-- Mathematics for Machine Learning (Deisenroth, Faisal, Ong, 2020)
 - Probabilistic Machine Learning (Murphy, 2012-2023)
 - Linear Algebra and Learning from Data (Strang, 2019)
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition (Géron, 2022)
-- Dive into Deep Learning (Zhang et al., 2023)
 - Designing Machine Learning Systems (Huyen, 2022)
 - Fundamentals of Data Engineering (Reis & Housley, 2022)
 - Natural Language Processing with Transformers, Revised Edition (Tunstall, von Werra, Wolf, 2023)
@@ -1794,7 +1786,6 @@ https://arxiv.org/pdf/2411.08804v1
 - "Библия Reinforcement Learning" от Ричарда Саттона - второе дополненное издание, которое служит фундаментом для понимания принципов работы современных ИИ-систем, таких как ChatGPT, AlphaGo, AlphaStar, MuZero, OpenAI Five и др. https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
 - Учебник «Artificial Intelligence: A Modern Approach» (http://lib.ysu.am/disciplines_bk/efdd4d1d4c2087fe1cbe03d9ced67f34.pdf) - основополагающий университетский учебник по искусственному интеллекту, написанный Питером Норвигом и Стюартом Расселом в 1995 году, объёмом 1116 страниц.
 - Руководство по обучению больших языковых моделей (LLM) - руководство, предлагающее простое и понятное объяснение основных концепций разработки и развития больших языковых моделей, включая математические основы, нейросети, архитектуру и принципы работы Transformers. https://github.com/aburkov/theLMbook
-- Interpretable Machine Learning. A Guide for Making Black Box Models Explainable. Author Christoph Molnar https://christophm.github.io/interpretable-ml-book/
 - The Spike: An Epic Journey Through the Brain in 2.1 Seconds — книга, в которой обсуждаются идеи Хассабиса о связи нейронауки и ИИ. Демис Хассабис (Demis Hassabis) — британский учёный, сооснователь и глава Google DeepMind, пионер в области искусственного интеллекта, лауреат Нобелевской премии по химии 2024 года за прорывную работу в предсказании структуры белков с помощью ИИ.
 https://www.sackett.net/The-Spike.pdf
 - это веб-сайт, содержащий бесплатную онлайн-книгу "Neural Networks and Deep Learning" (Нейронные сети и глубокое обучение) http://neuralnetworksanddeeplearning.com/
