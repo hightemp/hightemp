@@ -1582,7 +1582,6 @@
 - Аунтификация, Авторизация
   - Основное
     - Authentication for Go Applications: The Secure Way https://www.jetbrains.com/guide/go/tutorials/authentication-for-go-apps/auth/?ysclid=m06r9cxvkn600024780
-    - Разработчики всё ещё путают JWT, JWKS, OAuth2 и OpenID Connect — разбираем на примерах. Часть 2 https://habr.com/ru/companies/ozontech/articles/987012/
   - Обычная
     - Сайт на Golang. Авторизация. Часть 1 https://alextonkonogov.ru/?p=572
     - Сайт на Golang. Авторизация. Часть 2 https://alextonkonogov.ru/?p=601 
@@ -1923,6 +1922,9 @@
     - GoReleaser and Software Supply Chain Security — генерация SBOM через Syft, подпись артефактов и container images с помощью Cosign и проверка целостности Go-релизов. https://www.goreleaser.com/blog/supply-chain-security/
     - GoReleaser with Cosign Signing and Syft SBOM — практическая конфигурация Go release pipeline с SBOM, checksums и keyless-подписью артефактов. https://imti.co/goreleaser-cosign-sbom/
     - SLSA L0–L3 и provenance: цепочка доверия от commit до admission — связь SBOM, Cosign-подписи, build provenance и admission policy для проверки происхождения артефакта. https://axyi.ru/ru/slsa-provenance-build-trust-chain/
+  - Secure SDLC
+    - Безопасная разработка: проектирование ПО — индекс серии из четырёх материалов Selectel о процессах, требованиях, secure design и безопасном использовании сторонних компонентов. https://selectel.ru/blog/courses/security-development/
+    - Киберугрозы веб-приложений и инфраструктуры разработки: тренды и прогнозы 2026–2027 — исследование угроз для API, open source, CI/CD, Docker и Kubernetes и рекомендации по Secure SDLC. https://ptsecurity.com/research/analytics/web-applications-and-development-infrastructure-threatscape-2026-2027-trends-and-forecasts/
   - Файловая система
     - Traversal-resistant file APIs — path traversal, symlink-атаки и TOCTOU; защита с помощью `filepath.IsLocal`, `filepath.Localize`, `os.Root` и `os.OpenInRoot`. https://go.dev/blog/osroot
     - How I found the Grafana zero-day Path Traversal — CVE-2021-43798 и ошибочное предположение, что одного вызова `path.Clean` достаточно для защиты файловых путей. https://labs.detectify.com/security-guidance/how-i-found-the-grafana-zero-day-path-traversal-exploit-that-gave-me-access-to-your-logs/
@@ -1999,10 +2001,17 @@
     - Getting Started With Go Code Review — методика поиска уязвимостей, опасные API, `unsafe`, криптография и HTTP. https://blog.secursive.com/posts/getting-started-golang-code-review/
     - 6 Easy Bugs to Find in Golang Source Code Reviews — шесть повторяющихся паттернов уязвимостей для ручного аудита Go-кода. https://pentesterlab.com/blog/6-easy-bugs-golang-source-code-review
     - Тёмная сторона Go: разбор живых уязвимостей с продакшена и инструменты против них — command injection, request smuggling, JWT, mTLS, fuzzing и практический checklist проверки Go-кода. https://habr.com/ru/companies/oleg-bunin/articles/1048122/
+    - Проверяем защищённость приложения на Go: с чего начать — input validation, SSRF, Swagger security, TLS и логи; пример хеширования паролей через salted SHA-256 устарел и требует замены на password KDF. https://habr.com/ru/companies/deliveryclub/articles/658569/
+    - Как писать безопасный код на Go — обновление toolchain, `govulncheck`, `gosec`, fuzzing и автоматизация проверок безопасности. https://nuancesprog.ru/p/25318/
+    - 6 рекомендаций по разработке безопасных Go-приложений — исторический обзор XSS, CSRF, SQL injection и безопасных cookies; конкретные библиотеки и практики 2020 года следует перепроверять. https://habr.com/ru/companies/ruvds/articles/484614/
   - SAST и инструменты анализа
     - Comparing Semgrep and CodeQL — устройство и ограничения SAST, false positives, parsing errors и результаты обоих инструментов на Go-проекте. https://blog.doyensec.com/2022/10/06/semgrep-codeql.html
     - Integrating SAST into CI/CD Pipelines — Semgrep, CodeQL, `gosec`, SARIF и управление false positives в security pipeline. https://www.systemshardening.com/articles/cicd/sast-integration-cicd/
     - Статический анализ исходного кода для языка Golang: обзор литературы — научный обзор `go vet`, `gosec`, Staticcheck, `golangci-lint` и методов статического анализа Go. https://www.ispras.ru/proceedings/docs/2025/37/6/isp_37_2025_6_59.pdf
+    - Как искать уязвимости в проекте на Go — сравнение GoSec, `govulncheck` и GoKart с примерами SQL/command/path injection, файловых permissions, TLS и weak randomness. https://habr.com/ru/companies/avito/articles/739144/
+    - Анализ инструментов Go для проверки уязвимостей безопасности — практическое применение `govulncheck`, reachability analysis и сканирование исходного кода и собранных бинарников. https://nuancesprog.ru/p/16802/
+  - Security tooling
+    - Go сканить: пишем простой сканер портов на Golang — реализация сетевого security-инструмента с timeouts, конкурентным сканированием, HTTP probing и JSON-выводом. https://xakep.ru/2026/03/06/go-port-scanner/
   - Cookies
     - A Complete Guide to Working with Cookies in Go — `Secure`, `HttpOnly`, `SameSite`, HMAC-подпись и AES-GCM для конфиденциальных cookies. https://www.alexedwards.net/blog/working-with-cookies-in-go
     - Разбираем `net/http`: динамические маршруты, cookie-аутентификация и управление доступом — HMAC-подпись cookies и защищённые endpoints на чистом Go. https://habr.com/ru/articles/1014000/
@@ -2027,9 +2036,14 @@
     - How Auth0 Rebuilt go-jwt-middleware Version 3 — типизированные claims, JWKS, issuer/audience validation, DPoP и защита JWT от replay. https://auth0.com/blog/rebuilding-go-jwt-middleware-v3/
     - OAuth 2.0 e OIDC em Go: Login com Google e Keycloak — Authorization Code, PKCE, `state`, `nonce`, полная проверка ID Token и создание сессии. https://golang.com.br/blog/oauth2-oidc-go-login-google-keycloak/
     - OAuth 2.0, OpenID Connect и SSO для самых маленьких — Authorization Code с PKCE, ID Token, claims, audience validation и схема единого входа. https://habr.com/ru/companies/banki/articles/862516/
+    - Разработчики всё ещё путают JWT, JWKS, OAuth2 и OpenID Connect. Часть 1 — подпись JWT, назначение JWKS, access/refresh tokens и разница AuthN/AuthZ на Go-примерах. https://habr.com/ru/companies/ozontech/articles/976950/
+    - Разработчики всё ещё путают JWT, JWKS, OAuth2 и OpenID Connect. Часть 2 — практическая реализация OIDC-клиента на Go через `x/oauth2` и `coreos/go-oidc`, Keycloak и проверку ID Token. https://habr.com/ru/companies/ozontech/articles/987012/
+    - Краткое введение в безопасность OAuth — `state`, PKCE, строгая проверка redirect URI и защита Authorization Code Flow от CSRF и перехвата кода. https://blog.logto.io/ru/peresmotr-bezopasnosti-oauth
+    - Что такое ротация refresh token и почему это важно — token families, обнаружение повторного использования украденного токена и отзыв всей цепочки grant. https://blog.logto.io/ru/understanding-refresh-token-rotation
   - Обработка ошибок
     - Best Practices for Secure Error Handling in Go — разделение публичных и внутренних ошибок, sanitization и предотвращение утечек через API и логи. https://blog.jetbrains.com/go/2026/03/02/secure-go-error-handling-best-practices/
     - Ужасно подробные ошибки в API: пишем на Go инструмент для работы с ними — типизированные публичные ошибки, локализация и исключение внутренних деталей библиотек из ответа. https://habr.com/ru/companies/yadro/articles/817719/
+    - Архитектура обработки ошибок в Go: границы и паттерны — безопасный HTTP mapping, стабильные error codes и разделение внутренних диагностических ошибок и публичных сообщений. https://www.glukhov.org/ru/app-architecture/code-architecture/go-error-handling-architecture/
   - Логирование и секреты
     - Prevent Logging Secrets in Go by Using Custom Types — типизация секретов для предотвращения случайной записи credentials в журналы. https://www.commonfate.io/blog/prevent-logging-secrets-in-go-by-using-custom-types
     - От терабайтов шума к байтам смысла: искусство эффективного логирования — masking паролей, токенов и PII и проверка утечек чувствительных полей на code review. https://habr.com/ru/companies/T1Holding/articles/947426/
@@ -2061,6 +2075,7 @@
   - Генераторы токенов
     - Demystifying OTPs: the logic behind the offline generation of tokens https://itnext.io/demystifying-otps-the-logic-behind-the-offline-generation-of-tokens-baefca7aa0d0
     - TOTP без смартфона — устройство HOTP и TOTP, рассинхронизация счётчика, короткое время жизни и ограничения одноразовых кодов. https://habr.com/ru/articles/802953/
+    - Как реализовать в Golang двухфакторную аутентификацию с TOTP — `pquerna/otp`, QR provisioning и проверка кодов; демонстрационные plaintext passwords и cookie нельзя переносить в production. https://nuancesprog.ru/p/26884/
   - Fuzzing
     - Fuzzing Golang msgpack for fun and panic — практический поиск DoS-уязвимости в Go-библиотеке MessagePack, получившей идентификаторы GO-2022-0972 и CVE-2022-41719. https://redcanary.com/blog/testing-and-validation/fuzzing/
     - DNS parser, meet Go fuzzer — fuzzing DNS-парсера обнаружил бесконечный цикл, DoS и ошибки работы с буферами; используется устаревший `go-fuzz`, но методика остаётся полезной. https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/
@@ -2106,6 +2121,12 @@
     - AlphaGolang — пошаговая методика анализа Go-malware в IDA Pro. https://www.sentinelone.com/labs/alphagolang-a-step-by-step-go-malware-reversing-methodology-for-ida-pro/
     - Panchan’s Mining Rig — разбор Go P2P-ботнета и извлечение функций из `pclntab`. https://www.akamai.com/blog/security-research/new-p2p-botnet-panchan
     - Реверс бинарных файлов Golang с использованием Ghidra. Часть 1 — восстановление функций через `pclntab`, поиск строк и анализ stripped Go-malware. https://habr.com/ru/articles/758310/
+    - Реверс бинарных файлов Golang с использованием Ghidra. Часть 2 — восстановление Go-типов, анализ Windows PE и различия runtime metadata между версиями Go. https://habr.com/ru/articles/762994/
+    - ExCobalt: GoRed — техника скрытого туннеля — анализ Go-бэкдора: garble, RPC, QUIC, WSS, DNS/ICMP tunneling, внутренние пакеты и YARA-правила. https://ptsecurity.com/research/pt-esc-threat-intelligence/ex-cobalt-go-red-tehnika-skrytogo-tunnelya/
+    - Новый CloudAtlas: разбираем бэкдор на Go — цепочка заражения, WebRTC-транспорт, облачная сигнализация и архитектура CloudAtlasGo. https://securelist.ru/cloudatlasgo-backdoor/116367/
+    - Как изменились инструменты группы BO Team — анализ написанного на Go ZeronetKit, его C2-команд, TCP/IPv4/IPv6 tunnels и механизма закрепления. https://securelist.ru/bo-team-upgrades-brockendoor-and-zeronetkit-backdoors/113536/
+    - Новая угроза: разбираемся с вредоносным ПО на Golang — обзор причин слабого детектирования Go-бинарников, кроссплатформенности и семейств ElectroRAT, RobbinHood и Zebrocy. https://www.securitylab.ru/analytics/521188.php
+    - Как GoFlateLoader обманывает песочницы гигантскими файлами — PE-overlay до 950 МБ, извлечение payload из `.rdata`, ручная загрузка в память и вызов через `syscall.Syscall`. https://www.securitylab.ru/news/573695.php
 - Тестирование
   - Основное
     - Go-тесты: путь к надежному коду https://habr.com/ru/articles/916464/
