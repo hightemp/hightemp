@@ -1918,6 +1918,10 @@
     - Malicious Go Packages Impersonate Google’s UUID Library and Exfiltrate Data — encrypted exfiltration через typosquatted UUID-модули. https://socket.dev/blog/malicious-go-packages-impersonate-googles-uuid-library-and-exfiltrate-data
     - Popular Go Decimal Library Targeted by Long-Running Typosquat with DNS Backdoor — trust-then-poison, import-time backdoor и управление через DNS TXT. https://socket.dev/blog/popular-go-decimal-library-typosquat-dns-backdoor
     - Cilium и защита CI/CD: как опенсорс-проект уровня ядра Kubernetes защищает свою цепочку поставок — SHA-pinning GitHub Actions, изоляция недоверенного PR-кода, vendoring Go-модулей, Cosign и SBOM attestations. https://habr.com/ru/companies/vktech/articles/1040540/
+    - Turn Dependabot Off — сравнение шумных dependency alerts с reachability-анализом `govulncheck` и пример безопасного CI, тестирующего актуальные зависимости без автоматического обновления production-графа. https://words.filippo.io/dependabot/
+    - Inspecting the Source of Go Modules — почему mutable Git tags и интерфейс code host могут показывать не тот код, который попал в Go Module Proxy, и как проверять канонический source через checksum database. https://words.filippo.io/go-source/
+    - `go.sum` Is Not a Lockfile — роли `go.mod`, `go.sum` и Go Checksum Database в разрешении версий и проверке целостности зависимостей. https://words.filippo.io/gosum/
+    - I’m Independently Verifying Go’s Reproducible Builds — воспроизводимость Go toolchain, checksum transparency log, bootstrap chain и снижение риска Trusting Trust атак. https://www.agwa.name/blog/post/verifying_go_reproducible_builds
   - SBOM, подпись и build provenance
     - GoReleaser and Software Supply Chain Security — генерация SBOM через Syft, подпись артефактов и container images с помощью Cosign и проверка целостности Go-релизов. https://www.goreleaser.com/blog/supply-chain-security/
     - GoReleaser with Cosign Signing and Syft SBOM — практическая конфигурация Go release pipeline с SBOM, checksums и keyless-подписью артефактов. https://imti.co/goreleaser-cosign-sbom/
@@ -1932,6 +1936,7 @@
     - Gogs 0-Day Exploited in the Wild — CVE-2025-8110: symlink bypass, произвольная запись за пределами репозитория и RCE. https://www.wiz.io/blog/wiz-research-gogs-cve-2025-8110-rce-exploit
     - Securing Go Applications With SonarQube: Real-World Examples — Gin TLS и цепочка stored XSS → path traversal → RCE в Memos. https://www.sonarsource.com/blog/securing-go-applications-with-sonarqube-real-world-examples/
     - Как начать заниматься багхантингом веб-приложений. Часть 2 — практический разбор directory traversal, чтения системных файлов и выхода за границы разрешённого каталога. https://habr.com/ru/companies/pt/articles/721978/
+    - `filepath.Ext` Notes — регистр, точка в возвращаемом расширении и другие особенности `filepath.Ext`, позволяющие обходить blacklist-проверки типов файлов. https://parsiya.net/blog/2018-11-10-filepath.ext-notes/
   - Загрузка файлов
     - On-the-Fly Content Type Sniffing and Validation in Go — потоковая проверка magic bytes через `http.DetectContentType` без загрузки файла целиком в память. https://destel.dev/blog/on-the-fly-content-type-detection-in-go
     - Secure File Upload in Go: 7 Attacks on File Upload and How We Mitigated Them — MIME spoofing, disk exhaustion, path traversal, SSRF, replay и abuse controls в Go upload handler. https://medium.com/@petrakov_d/secure-file-upload-in-go-7-attacks-on-file-upload-and-how-we-mitigated-them-ddc4771c03b1
@@ -1947,6 +1952,7 @@
     - HTTP Request smuggling — новые подходы — CVE-2019-16276 в Go `net/http`, различия разбора `Transfer-Encoding` и влияние уязвимости на Caddy. https://habr.com/ru/articles/468489/
   - CORS и browser security policy
     - Fearless CORS: A Design Philosophy for CORS Middleware Libraries — причины небезопасных CORS-конфигураций и проектирование fail-secure middleware на Go. https://jub0bs.com/posts/2023-02-08-fearless-cors/
+    - Reconfigurable CORS Middleware with `jub0bs/cors` — разбор критической ошибки в radix tree, разрешавшей недоверенные origins, и пример того, почему даже 100% code coverage не гарантирует безопасность. https://jub0bs.com/posts/2024-05-14-reconfigurable-cors-middleware/
     - gin-contrib/cors Wildcard Fix — wildcard с credentials, ошибки проверки Origin и безопасная конфигурация CORS в Gin. https://offensive360.com/blog/gin-contrib-cors-wildcard-misconfiguration-fix/
     - SOP & CORS — устройство Origin и preflight, credentials, wildcard, отражение недоверенного Origin и другие ошибки, ослабляющие Same-Origin Policy. https://habr.com/ru/articles/1069658/
   - gRPC и Protobuf
@@ -1965,6 +1971,7 @@
     - Servindo em produção — timeouts e limites — защита Go HTTP-сервера от Slowloris через `ReadHeaderTimeout`, остальные timeouts, `MaxHeaderBytes` и `MaxBytesReader`. https://josenaldo.com.br/codex-technomanticus-site/03-dominios/tecnologia/go/10---http-e-frameworks-web/08---servindo-em-producao-%E2%80%94-timeouts-e-limites
     - Security Vulnerability in OTel Collector confighttp and configgrpc — CVE-2024-36129: decompression bomb и отсутствие лимита распакованных HTTP/gRPC-данных в Go Collector. https://opentelemetry.io/blog/2024/cve-2024-36129/
     - Руководство по `net/http`-таймаутам в Go — защита internet-facing сервера от медленных клиентов и исчерпания файловых дескрипторов; конкретные настройки следует сверять с актуальным Go. https://kovardin.ru/articles/go/rukovodstvo-po-nethttp-taimautam-v-go/
+    - Diving into Go’s HTTP Server Timeouts — взаимодействие `ReadHeaderTimeout`, `ReadTimeout`, `WriteTimeout`, `IdleTimeout` и `http.TimeoutHandler`, включая поведение за load balancer. https://adam-p.ca/blog/2022/01/golang-http-server-timeouts/
   - Rate limiting и abuse prevention
     - Rate Limiting em Go: Proteja APIs em Produção — token bucket, ограничения по пользователю, Redis и корректная работа за trusted proxy. https://golang.com.br/blog/rate-limiting-go-api-producao/
     - The Security Middleware Suite: CORS, CSRF, JWT, Rate Limit and Binder — композиция Go middleware, trusted proxies и предотвращение обхода лимитов через поддельный `X-Forwarded-For`. https://sheng.page/en/posts/gortex-security-middleware-suite/
@@ -1979,6 +1986,9 @@
     - Exploiting URL Parsing Confusion — сравнение шестнадцати URL-парсеров, включая Go, и обход security checks. https://claroty.com/team82/research/exploiting-url-parsing-confusion
     - Building an SSRF-Safe URL Fetcher — structural validation, IP checking, DNS pinning, защита от rebinding и повторная проверка редиректов. https://moayyadfaris.com/blog/ssrf-safe-url-fetcher-dns-pinning
     - Где и как искать этот ваш SSRF: первые шаги в багхантинге — URL parser bypass, redirects, allowlist-обходы и запросы к закрытым внутренним ресурсам. https://habr.com/ru/companies/pt/articles/842598/
+    - Preventing Server-Side Request Forgery in Golang — проверка адреса после DNS resolution через `net.Dialer.Control` для защиты от private IP и DNS rebinding; код 2019 года следует адаптировать к современным сетевым API. https://www.agwa.name/blog/post/preventing_server_side_request_forgery_in_golang
+    - Mitigating SSRF Vulnerabilities in Go. Part 1 — уязвимый Gin endpoint, `gosec`, обход denylist через IP и обход allowlist через HTTP redirect. https://xvnpw.github.io/posts/mitigating_ssrf_vulnerabilities_in_go_a_practical_guide_part_1/
+    - Mitigating SSRF Vulnerabilities in Go. Part 2 — защита redirects и DNS rebinding через `safeurl`, настройка `CheckRedirect`, egress proxy и network policies. https://xvnpw.github.io/posts/mitigating_ssrf_vulnerabilities_in_go_a_practical_guide_part_2/
   - XML и SAML
     - Coordinated disclosure of XML round-trip vulnerabilities in Go — расхождения при повторной сериализации через `encoding/xml`, нарушавшие проверку SAML-подписей в нескольких Go-библиотеках. https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/
     - Небезопасная аутентификация: ищем баги в приложениях с SSO на базе SAML — XXE, XEE, XML Signature Wrapping и атаки, выполняемые до проверки подписи SAML Response. https://xakep.ru/2016/02/09/hacking-single-sign-on/
@@ -2004,12 +2014,16 @@
     - Проверяем защищённость приложения на Go: с чего начать — input validation, SSRF, Swagger security, TLS и логи; пример хеширования паролей через salted SHA-256 устарел и требует замены на password KDF. https://habr.com/ru/companies/deliveryclub/articles/658569/
     - Как писать безопасный код на Go — обновление toolchain, `govulncheck`, `gosec`, fuzzing и автоматизация проверок безопасности. https://nuancesprog.ru/p/25318/
     - 6 рекомендаций по разработке безопасных Go-приложений — исторический обзор XSS, CSRF, SQL injection и безопасных cookies; конкретные библиотеки и практики 2020 года следует перепроверять. https://habr.com/ru/companies/ruvds/articles/484614/
+    - Security Vulnerabilities in Smallstep PKI Software — аудит написанного на Go CA: JSON injection в certificate templates, неправильное доверие JWT и client-side enforcement серверных ограничений. https://www.agwa.name/blog/post/security_vulnerabilities_in_smallstep
+    - Security Review of CFSSL Signer Code — отслеживание данных из CSR, `SignRequest` и certificate profiles до SAN, Basic Constraints и расширений сертификата. https://www.agwa.name/blog/post/security_review_of_cfssl_signer_code
   - SAST и инструменты анализа
     - Comparing Semgrep and CodeQL — устройство и ограничения SAST, false positives, parsing errors и результаты обоих инструментов на Go-проекте. https://blog.doyensec.com/2022/10/06/semgrep-codeql.html
     - Integrating SAST into CI/CD Pipelines — Semgrep, CodeQL, `gosec`, SARIF и управление false positives в security pipeline. https://www.systemshardening.com/articles/cicd/sast-integration-cicd/
     - Статический анализ исходного кода для языка Golang: обзор литературы — научный обзор `go vet`, `gosec`, Staticcheck, `golangci-lint` и методов статического анализа Go. https://www.ispras.ru/proceedings/docs/2025/37/6/isp_37_2025_6_59.pdf
     - Как искать уязвимости в проекте на Go — сравнение GoSec, `govulncheck` и GoKart с примерами SQL/command/path injection, файловых permissions, TLS и weak randomness. https://habr.com/ru/companies/avito/articles/739144/
     - Анализ инструментов Go для проверки уязвимостей безопасности — практическое применение `govulncheck`, reachability analysis и сканирование исходного кода и собранных бинарников. https://nuancesprog.ru/p/16802/
+    - Code Review Hot Spots with Semgrep — правила для поиска старых TLS versions, `InsecureSkipVerify`, `text/template`, `unsafe`, hardcoded secrets и других мест ручного security review. https://parsiya.net/blog/2022-04-07-code-review-hot-spots-with-semgrep/
+    - A Hands-On Intro to Semgrep’s Autofix — автоматические исправления небезопасного `text/template` и отсутствующего `HttpOnly`; синтаксис правил 2021 года следует сверять с актуальным Semgrep. https://parsiya.net/blog/2021-10-25-a-hands-on-intro-to-semgreps-autofix/
   - Security tooling
     - Go сканить: пишем простой сканер портов на Golang — реализация сетевого security-инструмента с timeouts, конкурентным сканированием, HTTP probing и JSON-выводом. https://xakep.ru/2026/03/06/go-port-scanner/
   - Cookies
@@ -2022,6 +2036,7 @@
   - CSRF
     - A Modern Approach to Preventing CSRF in Go — `http.CrossOriginProtection`, Fetch Metadata, `Origin`, HSTS и SameSite как defense in depth. https://www.alexedwards.net/blog/preventing-csrf-in-go
     - Безопасное использование языка Go в веб-программировании — CSRF-токены и middleware для Go web applications; конкретные библиотеки 2016 года следует проверять на актуальность. https://habr.com/ru/articles/308088/
+    - Cross-Site Request Forgery — глубокий разбор same-site и same-origin, `Origin`, `Sec-Fetch-Site`, SameSite cookies, HSTS и дизайна Go `http.CrossOriginProtection`. https://words.filippo.io/csrf/
   - Пароли
     - How to Hash and Verify Passwords with Argon2 in Go — Argon2id, выбор параметров, соль и формат хранения хеша. https://www.alexedwards.net/blog/how-to-hash-and-verify-passwords-with-argon2-in-go
     - Разбираем `net/http`: архитектура, безопасность и хеширование паролей — практическое применение `golang.org/x/crypto/bcrypt`, cost и проверка хеша. https://habr.com/ru/articles/1012470/
@@ -2060,6 +2075,8 @@
     - OS Command Injection in Go Lang — безопасное применение `exec.Command` без shell parsing и риски передачи непроверенных команд и аргументов. https://knowledge-base.secureflag.com/vulnerabilities/code_injection/os_command_injection_go_lang.html
     - Authenticated RCE via Argument Injection in Gogs — реальная argument injection в Go-приложении через интерпретацию имени Git branch как параметра `--exec`. https://www.rapid7.com/blog/post/ve-authenticated-rce-via-argument-injection-gogs-unfixed/
     - От RFC до RCE, или как неожиданная особенность библиотечного метода стала причиной уязвимости — реальная command injection, безопасный `os/exec.Command`, отказ от shell и контекстное экранирование. https://habr.com/ru/articles/825210/
+  - SSH
+    - Simple SSH Harvester in Go — проверка SSH host keys и сертификатов через `ssh.CertChecker`, `IsHostAuthority` и `HostKeyFallback`; API и зависимости примера 2017 года следует перепроверять. https://parsiya.net/blog/2017-12-29-simple-ssh-harvester-in-go/
   - TLS, mTLS и PKI
     - mTLS with Go — взаимная аутентификация Go HTTP-клиента и сервера, certificate pools и проверка client certificates. https://blog.rasc.ch/2025/09/go-mtls.html
     - Fooling Go’s X.509 Certificate Verification — различия Go и OpenSSL при сравнении issuer/subject и тонкости построения цепочки X.509. https://danielmangum.com/posts/fooling-go-x509-certificate-verification/
@@ -2072,6 +2089,8 @@
     - Taking the quantum leap with Go — реализация постквантовой криптографии и защита от timing/cache side channels. https://kudelskisecurity.com/research/taking-the-quantum-leap-with-go
     - A Timing Attack In Action — практическая демонстрация timing attack и применения `crypto/subtle.ConstantTimeCompare`. https://verboselogging.com/2012/08/20/a-timing-attack-in-action
     - Криптография в коде — bcrypt, AES-GCM и `crypto/rand` в Go — выбор алгоритмов, уникальные nonce, криптографическая случайность и небезопасные API. https://vikulin-va.ru/standards/backend/security/go/crypto/
+    - Go Assembly Mutation Testing — mutation testing constant-time cryptographic assembly для обнаружения непокрытых carry flags, ветвей выбора и ошибок оптимизированного кода. https://words.filippo.io/assembly-mutation/
+    - A Cryptographic Near Miss — root-cause analysis ошибки `crypto/elliptic` в Go 1.20.1, возникшей из сочетания assembly, incomplete formulas и недокументированного требования к scalar. https://words.filippo.io/near-miss/
   - Генераторы токенов
     - Demystifying OTPs: the logic behind the offline generation of tokens https://itnext.io/demystifying-otps-the-logic-behind-the-offline-generation-of-tokens-baefca7aa0d0
     - TOTP без смартфона — устройство HOTP и TOTP, рассинхронизация счётчика, короткое время жизни и ограничения одноразовых кодов. https://habr.com/ru/articles/802953/
@@ -2101,6 +2120,8 @@
     - SPEAR attacks: transient bypass of Go bounds checks — анализ speculative-execution атак против bounds checks Go. https://ibm.github.io/system-security-research-updates/2022/02/24/go-spear
     - Uncovering the Hidden Dangers: Finding Unsafe Go Code in the Wild — исследование `unsafe` в популярных проектах и возможных exploit vectors. https://arxiv.org/abs/2010.11242
     - Чёрная магия `unsafe` в Go: практические примеры и ошибки использования — обход type safety, pointer arithmetic, изменение immutable strings и риски повреждения памяти. https://habr.com/ru/companies/oleg-bunin/articles/1006044/
+    - How My Minimal, Memory-Safe Go rsync Steers Clear of Vulnerabilities — сравнение двенадцати CVE в C rsync с Go-реализацией, включая bounds checks, zero initialization, symlink races и защиту через `os.Root`. https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/
+    - Safe Use of `unsafe.Pointer` — поиск опасных преобразований через `go vet` и `checkptr`, pointer arithmetic и чтение за границами структуры; команды в статье 2019 года следует адаптировать к актуальному Go. https://mdlayher.com/blog/safe-use-of-unsafe-pointer/
   - Hardening контейнеров и deployment
     - Container Security Scanning and Hardening for Go Applications — multi-stage builds, distroless images, non-root execution, scanning и runtime hardening. https://ubogdan.com/2025/10/container-security-scanning-and-hardening-for-go-applications/
     - Secure Dockerfile: Minimal, Non-Root and Multi-Stage Images — минимальные Go container images, capability drops, read-only root filesystem и безопасный Dockerfile. https://www.golinuxcloud.com/secure-container-images-dockerfile/
@@ -2409,8 +2430,10 @@
 
 - https://habr.com/ru/hubs/go/articles/
 - A Journey With Go https://medium.com/a-journey-with-go
+- adam-p https://adam-p.ca/blog/
 - Alex Edwards https://www.alexedwards.net/blog/
 - Alex Pliutau https://pliutau.com/
+- Andrew Ayer https://www.agwa.name/blog/
 - Applied Go https://appliedgo.net/
 - Ardan Labs https://www.ardanlabs.com/blog/
 - Attila Olah https://attilaolah.eu/
@@ -2421,6 +2444,7 @@
 - Dmitri Shuralyov https://dmitri.shuralyov.com/blog
 - Eli Bendersky https://eli.thegreenplace.net/
 - Fatih Arslan https://arslan.io/
+- Filippo Valsorda https://words.filippo.io/
 - Gary Burd https://gary.burd.info/
 - Go Ahead https://jbrandhorst.com/
 - Go By Example https://gobyexample.com/
@@ -2443,6 +2467,7 @@
 - ITNEXT's Blog https://itnext.io/tagged/golang
 - James Bowen https://blog.jbowen.dev/
 - Janos Pasztor https://pasztor.at/
+- jub0bs https://jub0bs.com/
 - junegunn https://junegunn.kr/
 - Just For Func https://medium.com/justforfunc
 - Katrina Owen http://whipperstacker.com/
@@ -2459,6 +2484,7 @@
 - Mitchell Hashimoto http://mitchellh.com/
 - Nate Finch https://npf.io/blog/
 - Owen Ou https://owenou.com/
+- Parsia https://parsiya.net/blog/
 - Rob Pike https://github.com/robpike
 - Robert Griesemer https://github.com/griesemer
 - Russ Cox https://swtch.com/~rsc/
@@ -2474,6 +2500,7 @@
 - Vincent Bernat https://vincent.bernat.ch/en
 - Wandering Thoughts' Go Topic https://utcc.utoronto.ca/~cks/space/blog/__TopicGo
 - William Kennedy http://www.goinggo.net/
+- xvnpw https://xvnpw.github.io/
 - https://reintech.io/blog?technology=go
 - https://www.codingexplorations.com/blog/category/golang
 - https://nakabonne.dev/
