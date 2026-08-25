@@ -1918,12 +1918,18 @@
     - Malicious Go “crypto” Module Steals Passwords and Deploys Rekoobe Backdoor — подмена `x/crypto`, перехват паролей и установка Linux-backdoor. https://socket.dev/blog/malicious-go-crypto-module-steals-passwords-and-deploys-rekoobe-backdoor
     - Malicious Go Packages Impersonate Google’s UUID Library and Exfiltrate Data — encrypted exfiltration через typosquatted UUID-модули. https://socket.dev/blog/malicious-go-packages-impersonate-googles-uuid-library-and-exfiltrate-data
     - Popular Go Decimal Library Targeted by Long-Running Typosquat with DNS Backdoor — trust-then-poison, import-time backdoor и управление через DNS TXT. https://socket.dev/blog/popular-go-decimal-library-typosquat-dns-backdoor
+  - SBOM, подпись и build provenance
+    - GoReleaser and Software Supply Chain Security — генерация SBOM через Syft, подпись артефактов и container images с помощью Cosign и проверка целостности Go-релизов. https://www.goreleaser.com/blog/supply-chain-security/
+    - GoReleaser with Cosign Signing and Syft SBOM — практическая конфигурация Go release pipeline с SBOM, checksums и keyless-подписью артефактов. https://imti.co/goreleaser-cosign-sbom/
   - Файловая система
     - Traversal-resistant file APIs — path traversal, symlink-атаки и TOCTOU; защита с помощью `filepath.IsLocal`, `filepath.Localize`, `os.Root` и `os.OpenInRoot`. https://go.dev/blog/osroot
     - How I found the Grafana zero-day Path Traversal — CVE-2021-43798 и ошибочное предположение, что одного вызова `path.Clean` достаточно для защиты файловых путей. https://labs.detectify.com/security-guidance/how-i-found-the-grafana-zero-day-path-traversal-exploit-that-gave-me-access-to-your-logs/
     - Go’s `filepath.Clean` does not prevent path traversal — практические обходы `Clean`/`Join` и разбор GO-2025-4138. https://argemma.com/blog/go-filepath-clean/
     - Gogs 0-Day Exploited in the Wild — CVE-2025-8110: symlink bypass, произвольная запись за пределами репозитория и RCE. https://www.wiz.io/blog/wiz-research-gogs-cve-2025-8110-rce-exploit
     - Securing Go Applications With SonarQube: Real-World Examples — Gin TLS и цепочка stored XSS → path traversal → RCE в Memos. https://www.sonarsource.com/blog/securing-go-applications-with-sonarqube-real-world-examples/
+  - Загрузка файлов
+    - On-the-Fly Content Type Sniffing and Validation in Go — потоковая проверка magic bytes через `http.DetectContentType` без загрузки файла целиком в память. https://destel.dev/blog/on-the-fly-content-type-detection-in-go
+    - Secure File Upload in Go: 7 Attacks on File Upload and How We Mitigated Them — MIME spoofing, disk exhaustion, path traversal, SSRF, replay и abuse controls в Go upload handler. https://medium.com/@petrakov_d/secure-file-upload-in-go-7-attacks-on-file-upload-and-how-we-mitigated-them-ddc4771c03b1
   - HTTP
     - Patching Go’s leaky HTTP clients — CVE-2023-45289: утечка `Authorization` и cookies при редиректах в `net/http.Client` и `cookiejar.Jar`, причины ошибки и варианты защиты. https://mattermost.com/blog/patching-gos-leaky-http-clients/
     - Analysis of Two Newly Patched Kubernetes Vulnerabilities — CVE-2019-16276: неоднозначные HTTP-заголовки в Go `net/http`, request smuggling и auth bypass. https://www.paloaltonetworks.com/blog/2019/10/cloud-kubernetes-vulnerabilities/
@@ -1932,6 +1938,24 @@
     - The perils of the “real” client IP — безопасная интерпретация `X-Forwarded-For`, trusted proxies и Go `RemoteAddr`. https://adam-p.ca/blog/2022/03/x-forwarded-for/
     - chi RealIP Middleware IP Spoofing via Unvalidated X-Forwarded-For Header — подмена IP через недоверенные forwarding headers и обход rate limits/access controls. https://securelayer7.net/lab/chi-realip-middleware-ip-spoofing-x-forwarded-for
     - Traefik HTTP/2 CONNECT Pool Poisoning Cross-User Response Smuggling — response smuggling через `ReverseProxy`, CONNECT и повторное использование backend-соединений. https://securelayer7.net/lab/cve-2026-71324-traefik-h2-connect-pool-poisoning-response-smuggling
+  - CORS и browser security policy
+    - Fearless CORS: A Design Philosophy for CORS Middleware Libraries — причины небезопасных CORS-конфигураций и проектирование fail-secure middleware на Go. https://jub0bs.com/posts/2023-02-08-fearless-cors/
+    - gin-contrib/cors Wildcard Fix — wildcard с credentials, ошибки проверки Origin и безопасная конфигурация CORS в Gin. https://offensive360.com/blog/gin-contrib-cors-wildcard-misconfiguration-fix/
+  - gRPC и Protobuf
+    - Implementing API Call Authorization Using Go Protocol Buffer Message API V2 Reflection and gRPC Server-side Interceptors — декларативная авторизация RPC через protobuf metadata и Go interceptors. https://note.com/dd_techblog/n/n9d7f4f1df979?hl=en
+    - Securing gRPC Services with JWT Authentication in Go — JWT, metadata и server interceptors для аутентификации gRPC-запросов. https://www.bytesizego.com/blog/securing-grpc-golang/
+  - WebSocket и SSE
+    - Enterprise WebSocket Security in Go — одноразовые tickets, периодическая re-authentication, строгий `CheckOrigin`, connection limits и защита от CSWSH. https://www.superdevacademy.com/en/blogs/go-enterprise-websocket-security-guide-best-practices
+    - WebSockets in Go: Building Real-Time Bidirectional Communication — JWT, rate limiting, deadlines, ping/pong и масштабирование долгоживущих соединений. https://alamrafiul.com/posts/websockets-guide/
+  - Webhooks
+    - Webhooks em Go: Assinatura, Idempotência e Fila — HMAC по raw body, timestamps, secret rotation, deduplication и безопасная асинхронная обработка. https://golang.com.br/blog/webhooks-go-assinatura-idempotencia/
+    - Receive and Verify Webhooks in Go — проверка HMAC-SHA256, timestamp и подписи через constant-time comparison. https://gethookmesh.io/blog/receive-verify-webhooks-go/
+  - DoS и исчерпание ресурсов
+    - Servindo em produção — timeouts e limites — защита Go HTTP-сервера от Slowloris через `ReadHeaderTimeout`, остальные timeouts, `MaxHeaderBytes` и `MaxBytesReader`. https://josenaldo.com.br/codex-technomanticus-site/03-dominios/tecnologia/go/10---http-e-frameworks-web/08---servindo-em-producao-%E2%80%94-timeouts-e-limites
+    - Security Vulnerability in OTel Collector confighttp and configgrpc — CVE-2024-36129: decompression bomb и отсутствие лимита распакованных HTTP/gRPC-данных в Go Collector. https://opentelemetry.io/blog/2024/cve-2024-36129/
+  - Rate limiting и abuse prevention
+    - Rate Limiting em Go: Proteja APIs em Produção — token bucket, ограничения по пользователю, Redis и корректная работа за trusted proxy. https://golang.com.br/blog/rate-limiting-go-api-producao/
+    - The Security Middleware Suite: CORS, CSRF, JWT, Rate Limit and Binder — композиция Go middleware, trusted proxies и предотвращение обхода лимитов через поддельный `X-Forwarded-For`. https://sheng.page/en/posts/gortex-security-middleware-suite/
   - XSS и шаблоны
     - Go `html/template` iframe `srcdoc` XSS — двойной браузерный parsing `srcdoc`, при котором обычного attribute escaping недостаточно. https://snoopysecurity.github.io/posts/go-html-template-srcdoc-xss/
     - From `text/template` to `html/template`: Closing the XSS Door — практический разбор XSS из-за выбора небезопасного шаблонизатора. https://orbisappsec.com/blog/from-texttemplate-to-htmltemplate-closing-the-xss-door
@@ -1944,6 +1968,12 @@
     - Coordinated disclosure of XML round-trip vulnerabilities in Go — расхождения при повторной сериализации через `encoding/xml`, нарушавшие проверку SAML-подписей в нескольких Go-библиотеках. https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/
   - Парсинг входных данных
     - Unexpected security footguns in Go’s parsers — duplicate keys, case-insensitive matching, неизвестные поля, trailing data и различия поведения JSON-, XML- и YAML-парсеров. https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/
+  - SQL-инъекции
+    - Preventing SQL Injection in Go: How `database/sql` and Placeholders Protect Your First Web App — параметризованные запросы, prepared statements и риски динамического SQL. https://www.codegenes.net/blog/how-can-i-prevent-sql-injection-attacks-in-go-while-using-database-sql/
+    - The Effectiveness of Parameterized Queries in Preventing SQL Injection Attacks at Go — исследование защиты REST API на Go от SQL injection с помощью параметризованных запросов. https://www.atlantis-press.com/article/125996187.pdf
+  - Business logic, replay и race conditions
+    - Race Conditions in Web Applications: How TOCTOU Vulnerabilities Enable Double-Spend and Privilege Escalation — Go-примеры business-logic races, атомарные операции, locking и idempotency keys. https://appsecbrief.com/articles/race-conditions-toctou-web-application-security/
+    - Idempotency in Go: HTTP Middleware for Safe Retries — защита от повторного выполнения операций через idempotency keys, PostgreSQL и сохранение результата запроса. https://www.web-developpeur.com/en/blog/idempotence-cqrs-event-sourcing-bases
   - Аудит кода
     - Go for Security Auditors: Part 1 — особенности Go, важные при аудите: typed nil, shadowing, захват переменных цикла, build tags, compiler pragmas и ошибки тестов. https://sigmaprime.io/blog/go-for-security-auditors-part-1/
     - An introduction to secure code review on Go applications — методика анализа Go-проектов на примере Traefik: структура кода, static analysis, карта модулей и отслеживание sources/sinks. https://blog.convisoappsec.com/an-introduction-to-secure-code-review-on-go-applications/
@@ -1951,20 +1981,43 @@
     - Golang code review notes II — integer overflow, `ReverseProxy.Director`, shared `url.URL`, null bytes, JSON redaction и CSRF. https://www.elttam.com/blog/golang-code-review-notes-ii
     - Getting Started With Go Code Review — методика поиска уязвимостей, опасные API, `unsafe`, криптография и HTTP. https://blog.secursive.com/posts/getting-started-golang-code-review/
     - 6 Easy Bugs to Find in Golang Source Code Reviews — шесть повторяющихся паттернов уязвимостей для ручного аудита Go-кода. https://pentesterlab.com/blog/6-easy-bugs-golang-source-code-review
+  - SAST и инструменты анализа
+    - Comparing Semgrep and CodeQL — устройство и ограничения SAST, false positives, parsing errors и результаты обоих инструментов на Go-проекте. https://blog.doyensec.com/2022/10/06/semgrep-codeql.html
+    - Integrating SAST into CI/CD Pipelines — Semgrep, CodeQL, `gosec`, SARIF и управление false positives в security pipeline. https://www.systemshardening.com/articles/cicd/sast-integration-cicd/
   - Cookies
     - A Complete Guide to Working with Cookies in Go — `Secure`, `HttpOnly`, `SameSite`, HMAC-подпись и AES-GCM для конфиденциальных cookies. https://www.alexedwards.net/blog/working-with-cookies-in-go
+  - Управление сессиями
+    - Building a Secure Session Manager in Go — криптографические session IDs, expiration, cookie flags, серверное хранение и масштабирование session manager. https://themsaid.com/building-secure-session-manager-in-go
+    - Web Sessions and Common User Workflows — session hijacking, fixation и безопасные пользовательские сценарии в Go web applications. https://blog.gopheracademy.com/advent-2017/web-sessions-and-users/
   - CSRF
     - A Modern Approach to Preventing CSRF in Go — `http.CrossOriginProtection`, Fetch Metadata, `Origin`, HSTS и SameSite как defense in depth. https://www.alexedwards.net/blog/preventing-csrf-in-go
   - Пароли
     - How to Hash and Verify Passwords with Argon2 in Go — Argon2id, выбор параметров, соль и формат хранения хеша. https://www.alexedwards.net/blog/how-to-hash-and-verify-passwords-with-argon2-in-go
   - Аутентификация
     - How to Correctly Use Basic Authentication in Go — HTTPS, rate limiting, SHA-256 normalization и constant-time сравнение учётных данных. https://www.alexedwards.net/blog/basic-authentication-in-go
+  - Авторизация и разграничение доступа
+    - OWASP? O'Please. A Secure Design Pattern for RBAC Authorization in Go — реализация RBAC в Go HTTP API через permissions и middleware без внешних зависимостей. https://blog.runreveal.com/owasp-oplease-a-secure-design-pattern-for-role-based-authorization-in-go/
+    - Building RBAC in Go — сравнение собственной реализации RBAC, Casbin, GoRBAC и внешнего authorizer на общих Go-примерах. https://www.aserto.com/blog/building-rbac-in-go
+  - OAuth 2.0, OIDC и JWT
+    - How Auth0 Rebuilt go-jwt-middleware Version 3 — типизированные claims, JWKS, issuer/audience validation, DPoP и защита JWT от replay. https://auth0.com/blog/rebuilding-go-jwt-middleware-v3/
+    - OAuth 2.0 e OIDC em Go: Login com Google e Keycloak — Authorization Code, PKCE, `state`, `nonce`, полная проверка ID Token и создание сессии. https://golang.com.br/blog/oauth2-oidc-go-login-google-keycloak/
   - Обработка ошибок
     - Best Practices for Secure Error Handling in Go — разделение публичных и внутренних ошибок, sanitization и предотвращение утечек через API и логи. https://blog.jetbrains.com/go/2026/03/02/secure-go-error-handling-best-practices/
   - Логирование и секреты
     - Prevent Logging Secrets in Go by Using Custom Types — типизация секретов для предотвращения случайной записи credentials в журналы. https://www.commonfate.io/blog/prevent-logging-secrets-in-go-by-using-custom-types
+  - Секреты и ключи
+    - Rotate AWS Secrets Manager Secrets Without Restarting Your Go Service — live rotation, polling с jitter и атомарное обновление секретов без рестарта Go-процесса. https://xavidop.me/aws/2026-07-22-mamori-rotate-aws-secrets-manager-go/
+    - How to Manage Go Application Secrets Using Vault — получение и управление секретами Go-приложения через HashiCorp Vault. https://www.twilio.com/en-us/blog/manage-go-application-secrets-using-vault
+  - Privacy, PII и удаление данных
+    - Privacy by Design in Go: Redaction and Masking — PII в system и audit logs, masking, role-based redaction и право на удаление данных. https://www.larcade.dev/articles/go-privacy-pii-redaction-masking
+    - Building a GDPR Compliance Solution with Amazon DynamoDB — преимущественно написанный на Go механизм поиска, сериализации и удаления персональных данных из DynamoDB и S3. https://aws.amazon.com/blogs/database/building-a-gdpr-compliance-solution-with-amazon-dynamodb/
   - Запуск команд
     - Command PATH security in Go — выполнение подменённых программ через `exec.LookPath` и `exec.Command`, особенности поиска в текущем каталоге и исправление RCE в `go get`. https://go.dev/blog/path-security
+    - OS Command Injection in Go Lang — безопасное применение `exec.Command` без shell parsing и риски передачи непроверенных команд и аргументов. https://knowledge-base.secureflag.com/vulnerabilities/code_injection/os_command_injection_go_lang.html
+    - Authenticated RCE via Argument Injection in Gogs — реальная argument injection в Go-приложении через интерпретацию имени Git branch как параметра `--exec`. https://www.rapid7.com/blog/post/ve-authenticated-rce-via-argument-injection-gogs-unfixed/
+  - TLS, mTLS и PKI
+    - mTLS with Go — взаимная аутентификация Go HTTP-клиента и сервера, certificate pools и проверка client certificates. https://blog.rasc.ch/2025/09/go-mtls.html
+    - Fooling Go’s X.509 Certificate Verification — различия Go и OpenSSL при сравнении issuer/subject и тонкости построения цепочки X.509. https://danielmangum.com/posts/fooling-go-x509-certificate-verification/
   - Криптография
     - Secure Randomness in Go 1.22 — различия статистической и криптографической случайности, устройство ChaCha8Rand и снижение ущерба от ошибочного применения `math/rand`. https://go.dev/blog/chacha8rand
     - Go Cryptography Security Audit — результаты независимого аудита реализаций ECDH, ECDSA, RSA, Ed25519, AES, ML-KEM, DRBG и других криптографических компонентов Go. https://go.dev/blog/tob-crypto-audit
@@ -1986,6 +2039,9 @@
     - G-Fuzz: A Directed Fuzzing Framework for gVisor — направленный fuzzing ядра gVisor, написанного на Go. https://arxiv.org/abs/2409.13139
     - Rust and Go Directed Fuzzing with LibAFL-DiFuzz — directed greybox fuzzing для Go и Rust. https://arxiv.org/abs/2601.22772
     - Exposing Go’s Hidden Bugs: A Novel Concolic Framework — сочетание symbolic и concrete execution для исследования сложных путей Go-программ. https://arxiv.org/abs/2505.20183
+  - Плагины и запуск недоверенного кода
+    - Introducing wazero from Tetrate — WebAssembly runtime на чистом Go для изолированного запуска плагинов, расширений и пользовательского кода. https://tetrate.io/blog/introducing-wazero-from-tetrate
+    - WASM Host Function Security: Hardening the WASM-to-Host Boundary — capability boundary, валидация host functions и защита Go/Wazero embedder от escape через предоставленные host APIs. https://www.systemshardening.com/articles/wasm/wasm-host-function-security/
   - Runtime, toolchain и memory safety
     - CVE-2021-38297: Analysis of a Go WebAssembly Vulnerability — перезапись Wasm-модуля длинными аргументами и выполнение вредоносного bytecode. https://jfrog.com/blog/cve-2021-38297-analysis-of-a-go-web-assembly-vulnerability/
     - When the compiler lies: breaking memory safety in safe Go — compiler bugs в Go до 1.26.1, control-flow hijack без `unsafe`, cgo, asm и data races. https://ciolek.dev/posts/when-the-compiler-lies
@@ -1993,6 +2049,9 @@
     - Golang data races to break memory safety — превращение race condition в type confusion и управление указателем; исторический разбор. https://blog.stalkr.net/2015/04/golang-data-races-to-break-memory-safety.html
     - SPEAR attacks: transient bypass of Go bounds checks — анализ speculative-execution атак против bounds checks Go. https://ibm.github.io/system-security-research-updates/2022/02/24/go-spear
     - Uncovering the Hidden Dangers: Finding Unsafe Go Code in the Wild — исследование `unsafe` в популярных проектах и возможных exploit vectors. https://arxiv.org/abs/2010.11242
+  - Hardening контейнеров и deployment
+    - Container Security Scanning and Hardening for Go Applications — multi-stage builds, distroless images, non-root execution, scanning и runtime hardening. https://ubogdan.com/2025/10/container-security-scanning-and-hardening-for-go-applications/
+    - Secure Dockerfile: Minimal, Non-Root and Multi-Stage Images — минимальные Go container images, capability drops, read-only root filesystem и безопасный Dockerfile. https://www.golinuxcloud.com/secure-container-images-dockerfile/
   - Защита бинарников
     - Build PIE executables in Go: I got nerd-sniped — устройство PIE и ASLR и сборка статического PIE-бинарника Go через external linker и musl. https://gaultier.github.io/blog/build-pie-executables-with-pie.html
     - Hardening Go Programs 1/n — проверка бинарников через `checksec`, PIE, RELRO, Fortify и компромиссы external linking; конкретные флаги следует сверять с актуальной версией toolchain. https://devdrivensecurity.substack.com/p/hardening-go-programs-1n
