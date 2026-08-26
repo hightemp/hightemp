@@ -781,162 +781,216 @@
     - Lock-freedom without garbage collection https://aturon.github.io/blog/2015/08/27/epoch/
 - Безопасность
   - Модель безопасности Rust
+    - Заимствование и время существования в Rust — ownership, borrowing, перемещение значений и lifetimes как основа memory safety. https://habr.com/ru/articles/266715/
+    - Магическая система типов Rust — представление доменных инвариантов через типы, constructors и compile-time проверки. https://habr.com/ru/articles/840692/
     - Ownership — ownership как основа композиции ресурсов, borrowing и построения безопасных API в Rust. https://without.boats/blog/ownership/
     - Wrapper Types in Rust: Choosing Your Guarantees — newtype wrappers, инварианты типов и выбор между статическими и runtime-гарантиями. https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/
     - Borrowing — раннее объяснение модели заимствований, aliasing и контролируемой мутабельности в Rust. https://smallcultfollowing.com/babysteps/blog/2012/05/01/borrowing/
     - Rust Language Ergonomics — баланс между явными ownership-переходами, безопасностью и удобством языка. https://blog.rust-lang.org/2017/03/02/lang-ergonomics/
     - The Problem With Shared Mutability — почему совместная изменяемость усложняет reasoning и как ownership устраняет целый класс ошибок. https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/
   - Unsafe Rust
+    - Что значит unsafe в Rust? — границы гарантий языка, специальные unsafe-возможности и ответственность автора abstraction. https://habr.com/ru/articles/460295/
+    - Rust: «Небезопасные абстракции» — безопасные API поверх raw pointers и локализация unsafe operations. https://habr.com/ru/articles/346336/
     - Unsafe Abstractions — требования к безопасному API поверх `unsafe`, локализация инвариантов и ответственность abstraction boundary. https://without.boats/blog/unsafe-abstractions/
     - Two Kinds of Invariants: Safety and Validity — различие safety- и validity-инвариантов при проектировании unsafe-кода. https://www.ralfj.de/blog/2018/08/22/two-kinds-of-invariants.html
     - Undefined Behavior and Unsafe Code Guidelines: The Iceberg — границы UB, validity и сложности спецификации unsafe Rust. https://www.ralfj.de/blog/2017/07/14/undefined-behavior.html
     - Rust Lifetimes and Collections — практический разбор lifetimes, raw pointers и инвариантов при реализации коллекций. https://faultlore.com/blah/rust-lifetimes-and-collections/
     - Is Unsafe an Achilles' Heel? — исследование safety requirements для unsafe API и причин реальных Rust CVE. https://arxiv.org/abs/2308.04785
   - Безопасность памяти
+    - Бесстрашная защита. Безопасность памяти в Rust — use-after-free, double-free, uninitialized memory и защита через ownership. https://habr.com/ru/articles/438288/
+    - Безопасная работа с памятью в Rust — научная работа о compile-time memory safety и сравнении Rust с C++. https://trifonov.cs.msu.ru/012316-6%20TEXT.pdf
     - Rust's Unsafe Pointer Types Need an Overhaul — проблемы семантики raw pointers, provenance и предложения по улучшению pointer API. https://faultlore.com/blah/fix-rust-pointers/
     - Stacked Borrows: An Aliasing Model for Rust — модель допустимого aliasing, reborrowing и обнаружения UB в Miri. https://www.ralfj.de/blog/2018/08/07/stacked-borrows.html
     - Tree Borrows — альтернативная модель aliasing для Rust и её различия со Stacked Borrows. https://www.ralfj.de/blog/2023/06/02/tree-borrows.html
     - Provenance Exposed — strict provenance, integer-to-pointer casts и границы корректного обращения с адресами. https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html
     - Initialize Me Maybe — uninitialized memory, `MaybeUninit` и безопасная инициализация низкоуровневых структур. https://faultlore.com/blah/initialize-me-maybe/
   - Object lifetime и Pin
+    - Закрепи меня покрепче: Pin, самоссылки и почему всё падает — `Pin`, `Unpin`, `PhantomPinned` и self-referential structures. https://habr.com/ru/companies/beget/articles/967076/
+    - Твой async fn на самом деле enum, а Pin нужен из-за самоссылок — устройство async state machines и причины появления `Pin`. https://habr.com/ru/articles/1033710/
     - Self-Referential Types — self-referential структуры, стабильность адреса и роль `Pin` в их безопасном представлении. https://blog.yoshuawuyts.com/self-referential-types/
     - Pin and Unpin in Rust — практическое объяснение `Pin`, `Unpin` и адресно-зависимых async futures. https://blog.cloudflare.com/pin-and-unpin-in-rust/
     - Pin, Unpin, and Why Rust Needs Them — связь перемещения значений, self-references и гарантий `Pin`. https://blog.adamchalmers.com/pin-unpin/
     - Pin and Suffering — подробное исследование pinning, generators и ошибок при ручной работе с pinned values. https://fasterthanli.me/articles/pin-and-suffering
     - Rust Pin — компактный разбор контрактов `Pin`, projection и soundness unsafe-реализаций. https://blog.iany.me/2020/04/rust-pin/
   - FFI и межъязыковые границы
+    - FFI: как создать мост между Rust и C/C++ — ABI, bindgen, memory layout и потокобезопасность межъязыковых interfaces. https://habr.com/ru/companies/mvideo/articles/892926/
+    - Unsafe Rust для FFI: безопасные обёртки над C-библиотеками — ownership указателей, `Drop`, `repr(C)` и предотвращение утечек. https://habr.com/ru/companies/otus/articles/988860/
     - Rust Once, Run Everywhere — безопасные zero-cost wrappers над C FFI, ownership и lifetimes для внешних ресурсов. https://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere/
     - A Mixed-Methods Study on the Implications of Unsafe Rust — interoperation, encapsulation и проблемы tooling на unsafe/FFI-границах. https://arxiv.org/abs/2404.02230
     - The ABI Is the Boundary — calling conventions, layout promises и риски несовпадения типов на Rust/C ABI. https://lospino.so/blog/abi-series/the-abi-is-the-boundary/
     - "Rewrite It in Rust" Considered Harmful? — новые классы ошибок при частичной миграции C/C++ и проверка безопасности FFI pointers. https://goto.ucsd.edu/~rjhala/hotos-ffi.pdf
     - SafeFFI: Efficient Sanitization at the Boundary Between Safe and Unsafe Code — memory-safety instrumentation на границе safe Rust, unsafe Rust и C/C++. https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_braunsdorf.pdf
   - Concurrency-безопасность
+    - Безопасная многопоточность в Rust — ownership, `Arc`, `Mutex` и предотвращение data races. https://habr.com/ru/companies/otus/articles/578138/
+    - Бесстрашная защита. Безопасность потоков в Rust — `Send`, `Sync` и compile-time thread safety. https://habr.com/ru/articles/441370/
     - Fearless Concurrency — ownership, `Send`/`Sync` и предотвращение data races на уровне типов. https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency/
     - How Rust Achieves Thread Safety — детальный разбор `Send`, `Sync`, interior mutability и безопасного совместного доступа. https://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/
     - Understanding Atomics — атомарные операции, compare-and-swap и связь с memory ordering. https://blog.rustbr.org/en/understanding-atomics/
     - Memory Ordering — relaxed, acquire/release и sequentially consistent ordering на практических Rust-примерах. https://mara.nl/atomics/memory-ordering.html
     - Static Deadlock Detection for Rust Programs — статический анализ lock graph и обнаружение потенциальных deadlocks. https://arxiv.org/abs/2401.01114
   - Парсинг и валидация входных данных
+    - Создание парсеров на Rust — `nom`, `pest` и композиция небольших parsers для структурированного входа. https://habr.com/ru/companies/otus/articles/816687/
+    - Изучение комбинаторных парсеров с Rust — построение parser combinators с нуля и обработка ошибок входа. https://habr.com/ru/articles/469213/
     - Safe Parsers in Rust — проектирование `nom`, parser combinators и безопасная обработка недоверенных бинарных форматов. https://www.usenix.org/publications/login/fall2017/couprie
     - Secure Input Validation in Rust — исследование parsing expression grammars и строгой валидации hostile input. https://www.ll.mit.edu/sites/default/files/publication/doc/secure-input-validation-rust-parsing-expression-dawson-thesis-dawson.pdf
     - Vest: Verified, Secure, High-Performance Parsing and Serialization for Rust — verified parsers и доказательство взаимной обратимости parsing/serialization. https://tracycy.com/papers/vest-usenix-security25.pdf
     - Nom 1.0 Is Out: Safe Parsers in Rust — устройство memory-safe zero-copy parser combinators и streaming parsing. https://www.clever.cloud/blog/engineering/2015/11/16/nom-1-0/
     - Parsing Stuff in Rust — проектирование parser combinators, контроль ошибок и проверка структуры входа. https://doma.dev/blog/parsing-stuff-in-rust/
   - Сериализация и десериализация
+    - Rust: используем Serde для сериализации — преобразование внешних TOML-данных в строго типизированные структуры. https://habr.com/ru/articles/350956/
+    - Кратко про Serde в Rust — `Serialize`, `Deserialize`, derive и работа с JSON. https://habr.com/ru/companies/otus/articles/806247/
     - Validation in rkyv — bounds, alignment, subtree ranges и проверка zero-copy archives перед доступом к untrusted data. https://rkyv.org/validation.html
     - Stack Overflow During Recursive JSON Parsing — DoS через глубоко вложенный JSON в `rustc-serialize`. https://rustsec.org/advisories/RUSTSEC-2022-0004.html
     - `derive(Deserialize)` Can Break Type Invariants — как автоматическая десериализация обходит проверки constructors и создаёт некорректные значения. https://www.reddit.com/r/rust/comments/1itv4mw/
     - Parse, Don't Validate in Rust — типы как средство сохранения доменных инвариантов после Serde deserialization. https://rdiachenko.com/posts/rust/parse-dont-validate/
     - Zoo Security Audit: SAML and Serde Parsing Differentials — неодинаковая интерпретация XML, signature wrapping и ошибки на границе Serde-модели. https://zoo.dev/blog/security-trail-of-bits
   - Файловая система и TOCTOU
+    - Как злоупотреблять симлинками и повышать привилегии в Windows — TOCTOU, OpLock, junctions и подмена файлов. https://habr.com/ru/articles/927600/
+    - Неочевидные возможности ZIP на macOS — symlink traversal, произвольный доступ к файлам и ZIP bombs. https://habr.com/ru/companies/dsec/articles/588286/
     - CVE-2022-21658: `remove_dir_all` Symlink Race — TOCTOU между проверкой symlink и рекурсивным удалением каталога. https://blog.rust-lang.org/2022/01/20/cve-2022-21658/
     - CVE-2026-5223: Cargo Tarball Symlink Handling — перезапись соседнего crate cache через crafted symlinks в registry archive. https://blog.rust-lang.org/2026/05/25/cve-2026-5223/
     - TOCTOU Symlink Attack in Rust Lock Files — race между проверкой и созданием lock file и защита через `O_NOFOLLOW`. https://orbisappsec.com/blog/toctou-symlink-attack-fixed-how-race-conditions-threaten-lock-files
     - Building Robust Filesystem Interactions in Rust — concurrent writes, symlinks и filesystem races, которые borrow checker не предотвращает. https://www.tangramvision.com/blog/building-robust-filesystem-interactions-in-rust
     - RustFS Snowball Auto-Extract Path Traversal — обход path confinement и cross-bucket injection при распаковке недоверенного архива. https://github.com/rustfs/rustfs/security/advisories/GHSA-f4vq-9ffr-m8m3
   - Запуск процессов и загрузка кода
+    - Уязвимость BatBadBut в стандартных библиотеках языков — command injection через `Command::arg` в Rust на Windows. https://www.opennet.ru/opennews/art.shtml?num=60964
+    - OS Command Injection: ось под контролем — эксплуатация, фильтрация аргументов и отказ от shell execution. https://habr.com/ru/companies/pentestit/articles/550252/
     - CVE-2024-24576: Command Injection on Windows — неоднозначный Windows command-line parsing и инъекция аргументов через `Command`. https://blog.rust-lang.org/2024/04/09/cve-2024-24576/
     - CVE-2024-43402: Windows Batch File Argument Escaping — неполное escaping аргументов при запуске `.bat` и `.cmd`. https://blog.rust-lang.org/2024/09/04/cve-2024-43402/
     - Rust Command Injection Examples and Prevention — различие прямого запуска процесса и shell execution, allowlists и безопасные аргументы. https://www.stackhawk.com/blog/rust-command-injection-examples-and-prevention/
     - Shell Expansion in Starship Custom Commands — command substitution из недоверенных Git metadata и непредсказуемые quoting rules. https://rustsec.org/advisories/RUSTSEC-2024-0446.html
     - Counterexamples in Safe Rust — process execution, environment и filesystem как внешние каналы обхода внутрипроцессных гарантий. https://web.cs.ucdavis.edu/~cdstanford/doc/2024/ASEW24a.pdf
   - DoS и управление ресурсами
+    - Как бороться с ReDoS — catastrophic backtracking, сокращение regex и fuzzing исправлений. https://habr.com/ru/companies/otus/articles/822929/
+    - Layer 7 DoS: атаки на отказ в обслуживании веб-приложения — исчерпание CPU, памяти и диска через ресурсоёмкие операции. https://habr.com/ru/companies/owasp/articles/347456/
     - CVE-2022-24713: Regex Complexity DoS — обход complexity limits при компиляции attacker-controlled regular expressions. https://blog.rust-lang.org/2022/03/08/cve-2022-24713/
     - Unbounded Channels Are Mostly a Mistake — memory exhaustion, backpressure и необходимость обоснованных границ очередей. https://fereidani.com/unbounded-channels-are-mostly-a-mistake
     - Unbounded Allocation in `websocket` — OOM через attacker-controlled WebSocket frame length и отсутствие message limits. https://rustsec.org/advisories/RUSTSEC-2022-0035.html
     - Stack Overflow in `serde-json-wasm` — process abort при рекурсивном разборе глубоко вложенного JSON. https://rustsec.org/advisories/RUSTSEC-2024-0012.html
     - Resource Exhaustion in `h2` — чрезмерное использование CPU в HTTP/2 через reset stream abuse. https://rustsec.org/advisories/RUSTSEC-2023-0034.html
   - TLS, PKI и сетевые API
+    - Разбираем TLS по байтам. Кто такой этот HTTPS? — TLS 1.3, handshake, ключи, MAC и certificate chain. https://habr.com/ru/companies/timeweb/articles/752270/
+    - Как устроены цифровые сертификаты — X.509, SAN, Name Constraints, CRL, OCSP и проверка цепочки. https://habr.com/ru/articles/930972/
     - Securing the Web: Rustls on Track to Outperform OpenSSL — memory-safe TLS, performance tradeoffs и zeroization secret fields. https://www.memorysafety.org/blog/rustls-performance/
     - Rustls Security Assessment — независимый аудит state machine, certificate processing, `ring` и `webpki`. https://cure53.de/pentest-report_rustls.pdf
     - CPU DoS in Rustls Certificate Path Building — экспоненциальный перебор candidate certificates и введение verification budget. https://rustsec.org/advisories/RUSTSEC-2023-0053.html
     - Wildcard Certificate Name Constraints in rustls-webpki — неправильная обработка permitted subtrees для wildcard DNS names. https://rustsec.org/advisories/RUSTSEC-2026-0099
     - CE Labs' Approach to TLS: A Critical Analysis — ошибки signature validation, authentication tags, certificate checks и remote DoS в Rust TLS implementations. https://symbolic.software/blog/2026-03-07-ce-labs-tls/
   - Криптография и случайность
+    - Криптография на Rust и немного FFI — `OsRng`, secp256k1, keypairs и работа с private keys. https://habr.com/ru/articles/748534/
+    - Библиотека RustCrypto: симметричное и асимметричное шифрование — AES, RSA и крейты RustCrypto. https://habr.com/ru/companies/otus/articles/833714/
     - How Usable Are Rust Cryptography APIs? — usability, misuse resistance и опасные свойства низкоуровневых crypto API. https://arxiv.org/abs/1806.04929
     - On Random Numbers — системная entropy, CSPRNG и выбор между `getrandom` и высокоуровневыми генераторами. https://matklad.github.io/2023/01/04/on-random-numbers.html
     - RustCrypto AES-GCM and ChaCha20-Poly1305 Review — аудит pure-Rust AEAD implementations и constant-time свойств dependencies. https://www.nccgroup.com/research/public-report-rustcrypto-aesgcm-and-chacha20pluspoly1305-implementation-review/
     - Entropy/Rust Cryptography Review — аудит bigint arithmetic, prime generation, secp256k1 и side-channel risks. https://www.nccgroup.com/research/public-report-entropyrust-cryptography-review/
     - Our Rust Crypto Was Reviewed — опыт независимого аудита прикладного pure-Rust crypto layer и исправления найденных проблем. https://ente.com/blog/rust-crypto-audit/
   - Секреты и zeroization
+    - Secure by design: хранение чувствительных данных в памяти — read-once objects, RAII и безопасная очистка памяти. https://habr.com/ru/companies/kaspersky/articles/725360/
+    - Безопасное криптопрограммирование. Часть 2 — удаление secrets, compiler optimizations и специализированные zeroization functions. https://habr.com/ru/articles/269737/
     - Your Stack Is Leaking — остатки ключей в stack/heap, cold-boot и crash-dump risks, `zeroize` и `secrecy`. https://www.rustlab.dev/articles/your-stack-is-leaking-how-memory-operations-expose-cryptographic-secrets-in-rust
     - Secure App Development with Rust's Memory Model — lifecycle secrets, zeroization и использование типов для ограничения доступа. https://rustfoundation.org/media/secure-app-development-with-rusts-memory-model/
     - What Silo Does with Your Master Password — `mlock`, scoped borrows, Argon2 и очистка key material. https://mezie.dev/writings/secret-lifecycle-hardening
     - Secure Configuration and Secrets Management in Rust — environment variables, `secrecy` и предотвращение утечек через logging. https://leapcell.io/blog/secure-configuration-and-secrets-management-in-rust-with-secrecy-and-environment-variables
     - Zeroizing Sensitive Memory in Rust — secure erasure через `zeroize`, automatic cleanup и ограничения compiler-level очистки. https://rustz2h.com/chapter_13_rust_security_and_cryptography/series_05_project_secure_password_manager/zeroizing_sensitive_memory_rust
   - Side-channel attacks
+    - Атаки по сторонним каналам — timing, power, electromagnetic и acoustic side channels. https://habr.com/ru/articles/534318/
+    - Как работает новая атака по времени и что с защитой — timeless timing attacks, HTTP/2 и constant-time countermeasures. https://habr.com/ru/companies/vasexperts/articles/519864/
     - A RustCrypto Side-Channel CVE — timing leak в ML-DSA, variable-time division и constant-time исправление. https://www.projecteleven.com/blog/pq-implementation-vulnerabilities-volume-1-a-rustcrypto-side-channel-cve
     - The Life of an Optimization Barrier — как LLVM возвращает secret-dependent branches в constant-time Rust/Wasm code. https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/
     - Constant-Time Data Processing and QUIC Privacy — secret offsets, timing leakage и Rust implementation constant-time processing. https://www.nccgroup.com/research/constant-time-data-processing-at-a-secret-offset-privacy-and-quic/
     - Cargo-checkct: Guarding Rust Against Timing Attacks — binary analysis для поиска secret-dependent control flow и memory access. https://www.ledger.com/blog-cargo-checkct-our-home-made-tool-guarding-against-timing-attacks-is-now-open-source
     - The `subtle` Crate and Constant-Time Operations — `Choice`, optimization barriers и ограничения software-only side-channel resistance. https://docs.rs/subtle/latest/subtle/index.html
   - Sandboxing и минимизация привилегий
+    - Hajiz: rootless Linux-sandbox на Rust — namespaces, Landlock, seccomp-BPF и eBPF-аудит. https://habr.com/ru/articles/1053220/
+    - Разделяй и властвуй. Изоляция процессов в Linux — namespaces, cgroups, capabilities и ограничение ресурсов. https://habr.com/ru/companies/otus/articles/673960/
     - Introducing cap-std — capability-based filesystem/network API, защита от ambient authority и symlink traversal. https://blog.sunfishcode.online/introducing-cap-std/
     - Sandboxing Rust with Seccomp and Landlock — syscall filtering, filesystem rules, capability dropping и privilege separation. https://oneuptime.com/blog/post/2026-01-07-rust-sandboxing-seccomp-landlock/view
     - Capability-Based File I/O with cap-std and WASI — scoped directory handles, tenant isolation и отсутствие ambient filesystem authority. https://www.systemshardening.com/articles/wasm/wasm-cap-std-capability-io/
     - SandCell: Sandboxing Rust Beyond Unsafe Code — fine-grained изоляция компонентов и защита от вредоносного safe-кода. https://arxiv.org/abs/2509.24032
     - Friend or Foe Inside? In-Process Isolation for Unsafe Rust — memory domains и изоляция unsafe/foreign components внутри процесса. https://arxiv.org/abs/2306.08127
   - Supply chain и Cargo
+    - В crates.io выявлен вредоносный пакет `rustdecimal` — typosquatting и компрометация GitLab CI. https://opennet.ru/opennews/art.shtml?num=57169
+    - Вредоносные Rust-крейты крадут криптографические ключи — атака через пакеты `faster_log` и `async_println`. https://cybersecurefox.com/ru/rust-crates-faster-log-async-println-crypto-keys-theft/
     - Rust and Cargo Supply Chain Security — Cargo.lock, cargo-vet, cargo-deny, build scripts и контроль transitive dependencies. https://www.systemshardening.com/articles/cicd/rust-cargo-supply-chain-security/
     - Improving My Rust Projects' Supply Chain Security — trusted publishing, pinned GitHub Actions, `--locked` и практический cargo-vet workflow. https://blog.ortham.net/posts/2025-10-02-rust-supply-chain-security/
     - Open-Sourcing Google's Rust Crate Audits — совместимые cargo-vet audits и повторное использование ручных проверок dependencies. https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html
     - Malicious Crate `rustdecimal` — typosquatting, credential theft и процедура реагирования crates.io. https://blog.rust-lang.org/2022/05/10/malicious-crate-rustdecimal/
     - Keeping Rust Projects Secure with cargo-audit — RustSec scanning, binary auditing и переход cargo-audit на rustls/gitoxide. https://blog.rust-lang.org/inside-rust/2023/09/04/keeping-secure-with-cargo-audit-0.18/
   - Build scripts и procedural macros
+    - Rust-крейты скомпрометированы через build-time malware — `proc-macro1`, `build.rs` и выполнение payload во время сборки. https://www.gate.com/ru/news/detail/rust-crates-compromised-in-supply-chain-attack-with-build-time-malware-23620808
+    - Пишем API на Rust с помощью процедурных макросов — устройство proc macros, `syn`, `quote` и compile-time code generation. https://habr.com/ru/articles/486740/
     - Crates.io Postmortem: User Uploaded Malware — вредоносные `build.rs`, exfiltration и меры crates.io после typosquatting incident. https://blog.rust-lang.org/inside-rust/2023/09/01/crates-io-malware-postmortem/
     - Exploring Sandboxed Build Scripts — модель permissions для filesystem, network и process spawning в Cargo builds. https://rust-lang.github.io/rust-project-goals/2024h2/sandboxed-build-script.html
     - Rust Procedural Macros: Security Risks — compile-time arbitrary code execution, CI secrets и сложности аудита generated code. https://safeguard.sh/resources/blog/rust-procedural-macro-security-risks
     - Compromised `onering` Crate Performs Code Exfiltration — кража исходного кода проекта через добавленный dependency `build.rs`. https://www.aikido.dev/blog/compromised-rust-crate-onering-performs-code-exfiltration
     - Sandboxed Wasm Compilation of Procedural Macros — deterministic proc macros, capability restrictions и tradeoffs Wasm execution. https://internals.rust-lang.org/t/pre-rfc-sandboxed-deterministic-reproducible-efficient-wasm-compilation-of-proc-macros/19359
   - Аудит unsafe-кода
+    - Я заставил LLM писать Rust полгода. Что они стабильно ломают — `SAFETY` comments, инварианты и обязательный review unsafe-кода. https://habr.com/ru/articles/1035712/
+    - Rust 1.78: проверка предусловий unsafe — alignment, raw slices и runtime-проверки контрактов unsafe API. https://habr.com/ru/articles/812199/
     - Annotating and Auditing the Safety Properties of Unsafe Rust — DSL safety properties, propagation graph и разбиение кода на audit units. https://arxiv.org/abs/2504.21312
     - Safety Comments Matter — практическое документирование предпосылок и обоснование каждого unsafe operation. https://tbt.qkation.com/posts/safety-comments-matter/
     - Unsafe in Rust: The Abstraction Safety Contract and Public Escape — backward reasoning о safety contracts и утечке unsafe-инвариантов через public API. https://cs.stanford.edu/~aozdemir/blog/unsafe-rust-escape/
     - Characterizing Unsafe Code Encapsulation in Real-World Rust — empirical study внутренних unsafe functions и soundness safe wrappers. https://arxiv.org/abs/2406.07936
     - Auditing Rust Crates Effectively — Cargo Scan, effect analysis и сокращение поверхности ручного dependency audit. https://arxiv.org/abs/2602.06466
   - Miri и sanitizers
+    - Miri ловит то, что пропускает компилятор — invalid values, dangling pointers и запуск через `cargo miri`. https://habr.com/ru/companies/beget/articles/994556/
+    - Я дал LLM писать unsafe Rust полгода. Miri плакал — aliasing, provenance, overlapping references и реальные отчёты Miri. https://habr.com/ru/articles/1035914/
     - Making Unsafe Rust a Little Safer — Miri, Valgrind, AddressSanitizer и проверка Rust-кода с C/C++ dependencies. https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-tools-for-verifying-unsafe-code/
     - Miri, Valgrind and Sanitizers: Verifying Unsafe Rust — сравнение dynamic analysis tools и классов обнаруживаемого undefined behavior. https://microsoft.github.io/RustTraining/engineering-book/ch05-miri-valgrind-and-sanitizers-verifying-u.html
     - Miri Is Getting Better — provenance, concurrency, weak memory и новые возможности UB detection. https://www.ralfj.de/blog/2022/07/02/miri.html
     - What's New in Miri — новые shims, diagnostics, aliasing checks и улучшенная проверка data races. https://www.ralfj.de/blog/2025/12/22/miri.html
     - Miri: Practical Undefined Behavior Detection for Rust — формальная основа, реализация и оценка Miri на реальных crates. https://plf.inf.ethz.ch/research/popl26-miri.html
   - Fuzzing и property-based testing
+    - Хакинг на Rust: фаззинг и тестирование на устойчивость — cargo-fuzz, LibFuzzer и генерация тестовых данных. https://timcore.ru/2025/04/27/kurs-haking-na-rust-22-instrumenty-hakera-na-rust-fazzing-i-testirovanie-na-ustojchivost-generacija-testovyh-dannyh-dlja-obnaruzhenija-ujazvimostej/
+    - DevSecOps: организация фаззинга исходного кода — fuzz targets, corpus, sanitizers и применение к Rust/Go. https://habr.com/ru/companies/dsec/articles/517596/
     - The Rust Fuzz Book — cargo-fuzz, AFL, structured inputs, corpus management и воспроизведение найденных crashes. https://rust-fuzz.github.io/book/
     - Fuzzing a Rust Crate End-to-End with cargo-fuzz — полный workflow от harness до corpus, sanitizers и CI. https://fuzze.rs/blog/fuzzing-rust-end-to-end
     - Proptest: Property Testing in Rust — real-world roundtrip tests для Kafka protocol serialization и shrinking входов. https://ivanyu.me/blog/2024/09/22/proptest-property-testing-in-rust/
     - Bridging Fuzzing and Property Testing — общий `Arbitrary` model, differential testing и reuse генераторов. https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/
     - Introduction to Fuzzing Rust Code — выбор fuzz targets, cargo-fuzz/libFuzzer и поиск ошибок в библиотечных API. https://fuzzinglabs.com/introduction-rust-fuzzing-tutorial/
   - Статический анализ
+    - Инструментарий Rust-разработчика: средства статического анализа — Clippy, rust-analyzer, cargo-audit и Miri. https://www.in-com.com/ru/blog/the-rust-developers-toolbox-best-static-code-analysis-tools/
+    - Обзор инструментов Rust: Cargo, Rustfmt, Clippy — lint groups, CI и обнаружение подозрительного кода. https://lets-go-code.ru/posts/rust/cargo-rustfmt/
     - Rudra: Finding Memory-Safety Bugs at Ecosystem Scale — анализ unsafe Rust patterns и результаты проверки всего crates.io. https://gts3.org/assets/papers/2021/bae%3Arudra.pdf
     - Yuga: Detecting Lifetime Annotation Bugs — flow- и field-sensitive alias analysis для поиска ошибочных lifetime annotations. https://arxiv.org/abs/2310.08507
     - TypePulse: Detecting Type-Confusion Bugs in Rust — static analysis type layout, transmute и unsafe conversion paths. https://www.usenix.org/system/files/usenixsecurity25-chen-hung-mao.pdf
     - Rust Analysis Platform — RAPx как extensible framework для alias, dataflow, callgraph и unsafe verification analyses. https://safer-rust.github.io/RAPx-Book/1-intro.html
     - Paralegal: Practical Static Analysis for Privacy Bugs — проверка authorization, encryption и data-retention policies в Rust applications. https://www.usenix.org/conference/osdi25/presentation/adam
   - Compiler и binary hardening
+    - Стековые канарейки и где они обитают — stack protector, RELRO и per-function canaries. https://habr.com/ru/companies/kaspersky/articles/893064/
+    - Находим и устраняем уязвимости бинарных файлов в Linux — checksec, canaries, NX, PIE и RELRO. https://habr.com/ru/companies/macloud/articles/562420/
     - Rust Compiler Exploit Mitigations — PIE, RELRO, stack protection, CFI, SafeStack и ShadowCallStack в `rustc`. https://doc.rust-lang.org/rustc/exploit-mitigations.html
     - Control Flow Guard for Clang/LLVM and Rust — CFG для pure Rust, unsafe и смешанных Rust/C++ binaries в Windows. https://www.microsoft.com/en-us/msrc/blog/2020/08/control-flow-guard-for-clang-llvm-and-rust
     - LLVM CFI and Cross-Language CFI Support for Rust — fine-grained forward-edge protection для mixed-language programs. https://justino.pro/assets/RevistaH2HC_17.pdf
     - Hardening Memory-Safe Languages — эмпирическое исследование PIE, RELRO, NX, CFI и других mitigations в Rust/Go binaries. https://www.sciencedirect.com/science/article/pii/S016740482600146X
     - Exploiting Mixed Binaries — cross-language attacks, ослабление CFI и риски совместной линковки Rust с C/C++. https://www.ndss-symposium.org/wp-content/uploads/2022-78-paper.pdf
   - Web и API security
+    - Механизмы авторизации в web-приложениях на Rust — ACL/RBAC/PBAC, Actix middleware и защита endpoints. https://habr.com/ru/articles/556888/
+    - Как я писал сервис авторизации на Rust — JWT/JWS, public/private keys, refresh tokens и разбор допущенных уязвимостей. https://habr.com/ru/articles/1013338/
     - How to Secure Rust APIs Against Common Vulnerabilities — input validation, SQL injection, auth, rate limiting и secure headers в Axum API. https://oneuptime.com/blog/post/2026-01-07-rust-api-security/view
     - Making a Secure Axum Route — JWT-protected endpoint и black-box tests для проверки authorization boundary. https://blog.sedrik.se/posts/secure-axum/
     - Building a JWT Authentication API with Rust and Axum — authentication middleware, token validation и защищённые routes. https://blog.logrocket.com/using-rust-axum-build-jwt-authentication-api/
     - Fortifying Rust Web Applications Against Timing Attacks — constant-time comparisons, input validation и типичные application-level vulnerabilities. https://leapcell.io/blog/fortifying-rust-web-applications-against-timing-attacks-and-common-vulnerabilities
     - Authentication and Authorization in Rust Web Applications — Argon2, JWT, RBAC и разделение authentication/authorization. https://reintech.io/blog/implementing-authentication-authorization-rust-web-apps
   - WASM security
+    - Стандарт WASI: запуск WebAssembly за пределами веба — capability-based security, песочница и принцип минимальных полномочий. https://habr.com/ru/articles/446764/
+    - Как обстоят дела с WebAssembly? — deny-by-default, linear memory, явные imports и границы sandbox. https://habr.com/ru/companies/ruvds/articles/992658/
     - Provably-Safe Sandboxing with WebAssembly and Rust — verified compiler и safe-Rust embedding для изоляции untrusted Wasm. https://www.cs.cmu.edu/~csd-phd-blog/2023/provably-safe-sandboxing-wasm/
     - Memory Safety Preservation for WebAssembly — границы sandbox memory safety и требования к межмодульным interfaces. https://arxiv.org/abs/1910.09586
     - Unsound Shared Linear Memory API in Wasmtime — data races между Wasm и safe Rust host через shared linear memory. https://advisories.gitlab.com/cargo/wasmtime/CVE-2025-64345/
     - cargo-component WASM Build Tool Supply Chain Security — WIT generation, build-time code execution и dependency risks Component Model. https://www.systemshardening.com/articles/wasm/cargo-component-supply-chain/
     - WebAssembly Memory Tagging — memory-corruption risks внутри sandbox и software memory tagging для Wasm32/Wasm64. https://doi.org/10.1145/3733812.3765536
   - Embedded и `no_std`
+    - Rust Embedded: разработка под Cortex-M3 — `no_std`, `no_main`, panic handler и безопасный доступ к peripherals. https://habr.com/ru/articles/495948/
+    - Пишем ОС на Rust: бинарник для голого железа — устройство `no_std`, точка входа и отсутствие runtime/allocator. https://habr.com/ru/articles/527682/
     - Deploying Rust in Existing Firmware Codebases — incremental migration, `no_std`, FFI shims и замена security-critical parsers. https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html
     - Rust's Role in Embedded Security — unsafe prevalence, firmware attack surface и ограничения memory safety в bare-metal systems. https://www.netspi.com/blog/technical-blog/hardware-and-embedded-systems-penetration-testing/rusts-role-in-embedded-security/
     - Rust for Embedded Systems: Current State and Challenges — исследование 2,836 проектов, unsafe usage и ограничений SAST tools. https://arxiv.org/abs/2311.05063
     - Introducing Rusted Firmware-A — Rust-first реализация Trusted Firmware-A с security-by-design архитектурой. https://www.trustedfirmware.org/blog/rf-a-blog/
     - RusTEE: Developing Memory-Safe ARM TrustZone Applications — safe Rust SDK, secure system-service API и cross-world communication. https://mssun.me/research/acsac20rustee.html
   - Разборы уязвимостей
+    - 44 CVE в uutils: что Rust ловит, а что нет — TOCTOU, path handling, panic-as-DoS и граница Rust/OS. https://habr.com/ru/articles/1031420/
+    - Когда парсеры URL расходятся — CVE-2023-38633 — parser differential между Rust и GLib, приводящий к directory traversal. https://habr.com/ru/companies/ruvds/articles/760766/
     - `str::repeat`: Stable Wildcopy Exploit — эксплуатация CVE-2018-1000810 из safe Rust до стабильного arbitrary read/write. https://saaramar.github.io/str_repeat_exploit/
     - Cap'n Proto Undefined Behavior Deep Dive — safe-code-triggered memory corruption из-за raw pointers и unchecked offsets. https://cvereports.com/reports/GHSA-5W5R-MF82-595P
     - Race to Use-After-Free in the `oneshot` Crate — ошибочный порядок atomic operations и UAF в unsafe channel implementation. https://cvereports.com/reports/GHSA-RVR2-R3PV-5M4P
