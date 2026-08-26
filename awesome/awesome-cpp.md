@@ -130,6 +130,24 @@
 - https://herbsutter.com/
 - https://www.stroustrup.com/
 - https://www.modernescpp.com/index.php/blog/
+- https://joeduffyblog.com/
+- https://floooh.github.io/
+- https://nrk.neocities.org/
+- https://r1ru.github.io/
+- https://www.halfdog.net/Security/
+- https://www.dennisbabkin.com/blog/
+- https://rivit.dev/
+- https://blog.inhq.net/
+- https://blog.hboeck.de/
+- https://jefftrull.github.io/
+- https://randomascii.wordpress.com/
+- https://outflux.net/blog/
+- https://rigtorp.se/
+- https://luj.fr/blog/
+- https://www.daemonology.net/blog/
+- https://www.cryptologie.net/
+- https://kqueue.org/blog/
+- https://cnlelema.github.io/memo/
 
 ### Статьи
 
@@ -351,6 +369,7 @@
     - Build Reliable and Secure C++ Programs — практический набор из ASan, CodeQL, BinSkim, GSL, SafeInt, `/sdl`, `/GS`, `/guard` и fuzzing. https://devblogs.microsoft.com/cppblog/build-reliable-and-secure-cpp-programs-microsoft-learn/
     - Действительно ли C++ — лучший язык, чтобы выстрелить себе в ногу? — причины memory-safety ошибок, ограничения языка и современные подходы к снижению рисков. https://habr.com/ru/companies/kaspersky/articles/787586/
     - Безопасная разработка на C++ без нарушения обратной совместимости с легаси-кодом — compiler plugins, safety profiles и постепенное внедрение проверок. https://habr.com/ru/articles/872956/
+    - A Tale of Three Safeties — опыт построения системы с type, memory и concurrency safety без отказа от производительности native code. https://joeduffyblog.com/2015/11/03/a-tale-of-three-safeties/
   - Стандарты безопасного C++
     - CERT C++ Secure Coding Guidelines — назначение правил CERT, связь с exploitable undefined behavior и применение в security-critical проектах. https://www.sei.cmu.edu/blog/cert-c-secure-coding-guidelines/
     - AUTOSAR C++14 Guidelines — правила использования C++14 в critical и safety-related автомобильных системах. https://www.autosar.org/fileadmin/standards/R22-11/AP/AUTOSAR_RS_CPP14Guidelines.pdf
@@ -367,6 +386,7 @@
     - Performance Degradation Attributable to Run-Time Bounds Checks — экспериментальная оценка overhead проверок границ при доступе к C++ vector. https://pmc.ncbi.nlm.nih.gov/articles/PMC4487316/
     - Безопасно рисуем иконки в ПЗУ и ловим UB в C++ — обнаружение выхода за границы буфера и integer overflow во время компиляции. https://habr.com/ru/articles/593347/
     - Введение в эксплоитинг и реверсинг. Глава 2 — устройство stack buffer overflow и пошаговая эксплуатация переполнения в Windows. https://habr.com/ru/articles/496672/
+    - Vanilla Buffer Overflow — устройство stack frame, перезапись return address и пошаговая эксплуатация простого C buffer overflow. https://andy.codes/blog/security-articles/2025-10-15-exploit-mitigation-vanilla-buffer-overflow.html
   - Use-after-free, double-free и heap corruption
     - Heap Exploitation Part 1 — use-after-free, double-free, fastbin attacks и получение arbitrary write через metadata allocator. https://www.willsroot.io/2019/03/heap-exploitation-part-1-use-after-free.html
     - Riding Free on the Heap — устройство и эксплуатация double-free в glibc с учётом allocator security checks. https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-riding-free-on-the-heap-double-free-attacks/
@@ -375,6 +395,7 @@
     - Static Analysis Framework for Detecting Use-After-Free Bugs in C++ — lifetime tracking объектов и памяти для автоматического поиска dangling dereferences. https://arxiv.org/abs/2410.23764
     - Уязвимость Use-After-Free — устройство glibc heap, повторное использование освобождённых chunks и построение exploit primitive. https://habr.com/ru/companies/otus/articles/516150/
     - Путеводитель C++-программиста по UB. Часть 3 — нарушения lifetime, висячие ссылки, `string_view` и use-after-free. https://pvs-studio.ru/ru/blog/posts/cpp/1149/
+    - Should You Set `free()`-ed Pointers to NULL? — почему обнуление одного alias не устраняет UAF и как применять ASan, poisoning и generational handles. https://nrk.neocities.org/articles/free-null
   - Format string vulnerabilities
     - When `printf` Becomes a Weapon — format language как read/write primitive, утечки адресов и запись через `%n`. https://domig.net/blog/posts/0005-formatstring/
     - Secure Programming: Format Strings — причины format bugs, stack/heap access и пример перехвата control flow. https://www.cgsecurity.org/Articles/SecProg/Art4/index.html
@@ -383,6 +404,7 @@
     - Format String Exploitation: Hands-On Linux — практическое построение payload с positional parameters, leaks и controlled writes. https://blog.nviso.eu/2024/05/23/format-string-exploitation-a-hands-on-exploration-for-linux/
     - Опасные ловушки C++: типичные ошибки, их последствия и защита — format-string injection, `%n`, небезопасный `printf` и способы защиты. https://habr.com/ru/companies/bercut/articles/970442/
     - Format String в CTF — практическая `printf`-атака, утечка памяти процесса и использование positional parameters. https://hackerlab.pro/blog/format-string-uyazvimost-v-ctf-razbiraem-printf-ataku-i-chitaem-pamyat-protsessa-shag-za-s
+    - Format String Attack and GOT Overwrite — превращение format-string bug в memory leak и controlled write по GOT. https://r1ru.github.io/posts/16/
   - Type confusion, vtables и object lifetime
     - A Safe Pointer That Protects Against Use After Free — lifetime-aware C++ pointer, реагирующий на уничтожение и перемещение pointee. https://techblog.rosemanlabs.com/c%2B%2B/safety/object-lifetime/2025/08/28/a-safe-pointer-that-protects-against-use-after-free-and-updates-when-the-pointee-is-moved.html
     - ShrinkWrap: VTable Protection Without Loose Ends — усиление VTV и защита C++ dynamic dispatch от vtable hijacking. https://www.microsoft.com/en-us/research/publication/shrinkwrap-vtable-protection-without-loose-ends/
@@ -391,6 +413,7 @@
     - Browser Exploitation: Use-After-Free Vulnerabilities — heap grooming, fake C++ objects и перехват вызова через forged vftable. https://connormcgarr.github.io/browser1/
     - Таблица виртуальных методов и техника безопасности — устройство vptr/vtable и последствия повреждения указателя виртуальной таблицы. https://habr.com/ru/companies/pvs-studio/articles/239915/
     - Продление жизни временных значений в C++ — правила lifetime extension, висячие ссылки и опасные пограничные случаи. https://habr.com/ru/articles/669474/
+    - Handles Are the Better Pointers — generational handles, type-safe IDs и runtime checks против dangling pointer и use-after-free. https://floooh.github.io/2018/06/17/handles-vs-pointers.html
   - Опасные C API и строки
     - Avoiding Buffer Overflows and Underflows — `strcpy`, `strncpy`, `snprintf`, integer overflow и безопасные альтернативы string functions. https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Articles/BufferOverflows.html
     - Secure Programming: Writing Secure Code — null-terminated strings, ограничения `strncpy` и ошибки ложной уверенности в `n`-функциях. https://www.cgsecurity.org/Articles/SecProg/Art3/index.html
@@ -399,6 +422,7 @@
     - The Painful Pitfalls of C++ STL Strings — ошибкоопасные string interfaces, allocations, views и проблемы API design в современном C++. https://ashvardanian.com/posts/painful-strings/
     - Четыре типовые ловушки строк C/C++ — ошибки с null terminator, `strlen`, копированием и ограничениями размера буфера. https://habr.com/ru/companies/ncloudtech/articles/830918/
     - Проблемные аспекты программирования на C++ — опасные `strcpy`, `strcat`, `sprintf`, указатели и прямое управление памятью. https://habr.com/ru/articles/428898/
+    - `strcpy`: a Niche Function You Don’t Need — недостатки `strcpy`, `strncpy`, `strlcpy`, `strcpy_s` и переход к проверяемому `memcpy`. https://nullprogram.com/blog/2021/07/30/
   - Безопасность памяти
     - An Update on Memory Safety in Chrome — compile-time и runtime-подходы к снижению числа memory-safety уязвимостей в крупной C++-кодовой базе. https://security.googleblog.com/2021/09/an-update-on-memory-safety-in-chrome.html
     - Retrofitting Temporal Memory Safety on C++ — heap scanning, quarantine и компромиссы защиты существующего C++ от use-after-free. https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html
@@ -410,6 +434,7 @@
     - Как устранить первопричину уязвимостей безопасности памяти — сравнение точечных mitigations, safe coding и миграции компонентов на memory-safe языки. https://habr.com/ru/companies/ruvds/articles/847056/
     - Как решается проблема неинициализированной стековой памяти в Windows — InitAll, утечки секретов и автоматическая инициализация C/C++ variables. https://habr.com/ru/articles/505498/
     - Безопасная работа с памятью на C++ без нарушения обратной совместимости — MemSafe, strong/weak pointers и compiler plugin для lifetime checks. https://habr.com/ru/articles/874648/
+    - Safe Native Code — устройство type- и memory-safe native-системы, precise GC, immutable state и safe concurrency. https://joeduffyblog.com/2015/12/19/safe-native-code/
   - Парсинг и валидация входных данных
     - Validating Input and Interprocess Communication — trust boundaries, hostile input, buffer lengths, format strings и canonicalization. https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Articles/ValidatingInput.html
     - Hardening Attack Surfaces with Formally Proven Binary Format Parsers — EverParse и генерация C parsers с доказательствами memory, arithmetic и functional safety. https://www.microsoft.com/en-us/research/publication/hardening-attack-surfaces-with-formally-proven-binary-format-parsers/
@@ -418,6 +443,8 @@
     - Apache XML Security for C++ Allows SSRF — небезопасная конфигурация XML resolver и сетевые запросы при обработке untrusted documents. https://cloud.google.com/blog/topics/threat-intelligence/apache-library-allows-server-side-request-forgery
     - Несоответствие парсеров: как определить незаметное внедрение кода — parser differentials, неоднозначная интерпретация входа и способы выявления. https://www.securitylab.ru/analytics/545332.php
     - XXE-атаки: эксплуатация, мутации и защита — внешние XML entities, чтение файлов, SSRF и безопасная конфигурация parser. https://www.securitylab.ru/blog/personal/Neurosinaps/356069.php
+    - Fuzzing libfyaml — создание harness для C YAML parser, seed corpus, sanitizers и triage найденных crashes. https://rivit.dev/posts/fuzzing-libfyaml/
+    - Fuzzing Multiple C-based Parsers — аудит нескольких C parsers с помощью coverage-guided fuzzing и разбор найденных security issues. https://blog.inhq.net/posts/fuzzing-C-parsers-1/
   - Сериализация и десериализация
     - Deserialization of Untrusted Data — malformed object graphs, type allowlists, recursive DoS и опасные предположения о восстановленных объектах. https://owasp.org/www-community/vulnerabilities/Deserialization_of_untrusted_data
     - Insecure Deserialization of Shared References in C++ — Boost.Serialization, shared references, confusion attacks и zero-copy attack surface. https://trebledj.me/posts/insecure-deserialization-and-confusion-attacks-in-cpp/
@@ -426,6 +453,7 @@
     - Boost Security Audit — аудит Boost.Beast, DLL, Filesystem, JSON, Regex, URL и других библиотек, обрабатывающих внешние данные. https://www.shielder.com/blog/2024/05/boost-security-audit/
     - Десериализация YAML: уязвимость, открывающая путь к RCE — опасные object tags, недоверенные конфигурации и safe loaders. https://www.securitylab.ru/blog/personal/Neurosinaps/356112.php
     - Как взломать сервис, использующий десериализацию данных — построение RCE payload, reverse shell и рекомендации по защите. https://habr.com/ru/articles/777470/
+    - Secure Binary Serialization and Deserialization in C++ — bounds checks, versioning, integer validation и безопасное восстановление объектов из untrusted data. https://www.dennisbabkin.com/blog/?t=example-of-secure-binary-serialization-and-deserialization-in-cpp
   - Файловая система и TOCTOU
     - Race Conditions and Secure File Operations — temporary files, symlinks, hard links, descriptor-based API и TOCTOU. https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Articles/RaceConditions.html
     - POS35-C: Avoid Symbolic-Link Race Conditions — устранение разрыва между `lstat` и `open` через atomic operations и `O_NOFOLLOW`. https://cmu-sei.github.io/secure-coding-standards/sei-cert-c-coding-standard/rules/posix-pos/pos35-c/
@@ -434,6 +462,7 @@
     - A Simple Algorithm for Preventing Directory Traversal — анализ распространённых защит и stack-based canonicalization пользовательских путей. https://arxiv.org/abs/1908.04502
     - Что такое симлинк и как его используют злоумышленники — symlink race, предсказуемые временные файлы и подмена privileged file operations. https://www.securitylab.ru/blog/personal/xiaomite-journal/356209.php
     - Семантические ловушки имён файлов в macOS — Unicode normalization, path equivalence и TOCTOU между проверкой и использованием. https://fleey.me/ru/blog/sys/security/macos_filename_semantics/
+    - Symlinks and Security: Never Trust a Path You Cannot Control — filesystem traversal races, inotify-assisted replacement и ограничения `O_NOFOLLOW`. https://www.halfdog.net/Security/2010/FilesystemRecursionAndSymlinks/index.html
   - Запуск процессов и загрузка кода
     - ENV33-C: Do Not Call `system()` — command injection, executable spoofing, опасный `PATH` и переход на `execve`. https://cmu-sei.github.io/secure-coding-standards/sei-cert-c-coding-standard/rules/environment-env/env33-c/
     - Avoiding Injection Attacks — C command execution, shell metacharacters, SQL injection и разделение code/data. https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/OtherHardeningTechniques/OtherHardeningTechniques.html
@@ -442,6 +471,7 @@
     - Testing for Command Injection — `system`, `exec`, `ShellExecute`, shell separators и практическая проверка tainted arguments. https://wstg.owasp.org/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/12-Testing_for_Command_Injection/
     - Make DLL Hijacking Great Again — поиск динамически загружаемых библиотек, перехват `LdrLoadDll` и автоматизация DLL proxying. https://habr.com/ru/articles/988684/
     - Perfect DLL Hijacking — Windows loader, DLL search order, Loader Lock и практические техники hijacking. https://habr.com/ru/articles/792424/
+    - A JIT Compiler Skirmish with SELinux — безопасное создание executable memory, W^X, `mmap`/`mprotect` и взаимодействие JIT с security policy. https://nullprogram.com/blog/2018/11/15/
   - DoS и исчерпание ресурсов
     - cpp-httplib Zip Bomb DoS — проверка compressed size без лимита decompressed payload, приводящая к memory exhaustion. https://github.com/yhirose/cpp-httplib/security/advisories/GHSA-h934-98h4-j43q
     - Don’t Recurse on Untrusted Input — stack exhaustion через глубоко вложенные Protocol Buffers, JSON и другие recursive formats. https://blog.trailofbits.com/2025/02/21/dont-recurse-on-untrusted-input/
@@ -450,6 +480,7 @@
     - What Is ReDoS, and How Do You Fix It? — catastrophic backtracking, минимизация vulnerable regex и стратегия исправления. https://github.blog/security/how-to-fix-a-redos/
     - Некриптографические хеш-функции и DoS-атака на них — hash flooding, управляемые коллизии и защита hash tables от worst-case input. https://habr.com/ru/articles/178955/
     - Ещё лучшая ZIP-бомба — нерекурсивная decompression bomb, resource exhaustion и необходимость внешних лимитов для parser. https://habr.com/ru/articles/459254/
+    - Regular Expression Matching Can Be Simple and Fast — exponential backtracking, Thompson NFA и линейная альтернатива уязвимым regex engines. https://swtch.com/~rsc/regexp/regexp1.html
   - TLS, PKI и сетевые API
     - C++ Networking Must Be Secure by Default — требования к standard networking API с TLS, certificate validation и secure defaults. https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1860r0.html
     - Secure Networking in C++ — TLS/DTLS-by-default, TAPS-based API, secure connection parameters и extensibility для QUIC. https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p1861r1.html
@@ -466,6 +497,7 @@
     - Using the OpenSSL Random Number API — исторический разбор cryptographic RNG; конкретные вызовы следует сверять с OpenSSL 3.x. https://flylib.com/books/en/2.878.1.194/1/
     - Когда Random совсем не случаен — восстановление состояния слабого `rand`, предсказание результатов и непригодность общего PRNG для security-задач. https://habr.com/ru/articles/787284/
     - Криптографически стойкие генераторы псевдослучайных чисел — CSPRNG, требования к seed и анализ уязвимых конструкций генераторов. https://habr.com/ru/articles/779536/
+    - Why I’m Writing a Book on Cryptography — реальные crypto misuse bugs, ошибкоопасные library APIs и принципы проектирования понятных криптографических интерфейсов. https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/
   - Секреты и очистка памяти
     - CWE-14: Compiler Removal of Code to Clear Buffers — dead-store elimination `memset`, оставляющая passwords и keys в памяти. https://cwe.mitre.org/data/definitions/14.html
     - Safe Clearing of Private Data — `memset_s`, `SecureZeroMemory`, volatile implementation и очистка stack/heap allocations. https://cplusplus.com/articles/ETqpX9L8/
@@ -474,6 +506,7 @@
     - High-Assurance Zeroization — формальная модель, compiler optimizations и проверка корректной очистки secrets в C implementations. https://eprint.iacr.org/2023/1713.pdf
     - Безопасная очистка приватных данных — почему optimizer удаляет `memset` и какие функции использовать для zeroization. https://habr.com/ru/companies/pvs-studio/articles/281072/
     - Перезаписывать память — зачем? — утечки ключей и паролей через stale buffers и применение `SecureZeroMemory`. https://habr.com/ru/companies/contentai/articles/127259/
+    - Zeroing Buffers Is Insufficient — скрытые копии secrets в stack slots и CPU registers, которые невозможно очистить из portable C. https://www.daemonology.net/blog/2014-09-06-zeroing-buffers-is-insufficient.html
   - Sandboxing и privilege separation
     - Chromium Security Best Practices for C++ — Rule of Two: unsafe language, untrusted input и отсутствие sandbox нельзя совмещать одновременно. https://www.chromium.org/chromium-os/developer-library/reference/security/cpp-security-best-practices/
     - The Road to Less Trusted Code — RLBox, C++ type system и изоляция third-party libraries внутри Firefox. https://www.usenix.org/publications/login/winter2020/garfinkel-tal
@@ -482,6 +515,7 @@
     - Sandboxing Adoption in Open Source Ecosystems — практическое использование seccomp, Landlock, Capsicum, pledge и unveil. https://arxiv.org/abs/2405.06447
     - Изоляция процессов и минимизация привилегий — Linux namespaces, seccomp allowlists и запуск процесса с ограниченными syscalls. https://habr.com/ru/companies/selectel/articles/866942/
     - Контейнеры и безопасность: seccomp — strict/filter modes, libseccomp и настройка syscall policy для Docker. https://habr.com/ru/company/selectel/blog/322046/
+    - Evolution of seccomp — сравнение seccomp и pledge, syscall-level filtering и превращение opt-in mitigation в повсеместную защиту. https://outflux.net/blog/archives/2015/11/11/evolution-of-seccomp/
   - Exploit mitigations
     - Linux Binary Hardening: RELRO, PIE, NX and CET — назначение mitigations, compiler/linker flags и проверка через `checksec`. https://nathanberg.io/posts/linux-binary-hardening-relro-pie-nx-cet/
     - Hardening ELF Binaries Using RELRO — защита GOT, различия partial/full RELRO и связь с PIE/ASLR. https://www.redhat.com/en/blog/hardening-elf-binaries-using-relocation-read-only-relro
@@ -490,6 +524,11 @@
     - Address Space Layout Randomization in Linux — ASLR/PIE implementation, entropy, weaknesses и практический bypass. https://0x434b.dev/an-introduction-to-address-space-layout-randomization-aslr-in-linux/
     - Минимальный эксплойт на C, который научил меня любить защиты — stack canaries, NX, ASLR, PIE, RELRO и FORTIFY на одном примере. https://habr.com/ru/articles/943300/
     - Return-oriented programming: собираем эксплойт по кусочкам — ROP gadgets, stack canary, NX и практический обход ASLR. https://habr.com/ru/articles/255519/
+    - Manual Control Flow Guard in C — демонстрация control-flow hijacking и ручной CFG-подобной проверки indirect call targets. https://nullprogram.com/blog/2017/01/21/
+    - Stack Clashing for Fun and Profit — обход guard page большой stack allocation и роль compiler-generated stack probes. https://nullprogram.com/blog/2017/06/21/
+    - Infectious Executable Stacks — как один object file делает итоговый ELF stack исполняемым и повышает опасность buffer overflow. https://nullprogram.com/blog/2019/11/15/
+    - DEP/NX and ROP — устройство non-executable memory и пошаговое построение ROP chain для обхода mitigation. https://andy.codes/blog/security-articles/2025-10-20-exploit-mitigation-dep-nx-rop.html
+    - Stack Canaries — устройство canary, утечка через format string и восстановление рабочего stack-overflow exploit. https://andy.codes/blog/security-articles/2025-10-24-exploit-mitigation-stack-canaries.html
   - Hardened allocators и hardware memory safety
     - SCUDO Hardened Allocator Internals — metadata checks, randomization, quarantine, GWP-ASan, MTE и allocator trade-offs. https://www.l3harris.com/newsroom/editorial/2023/10/scudo-hardened-allocator-unofficial-internals-documentation
     - GrapheneOS `hardened_malloc` — isolated metadata, guard regions, invalid-free detection, randomized allocation и MTE integration. https://github.com/GrapheneOS/hardened_malloc
@@ -498,6 +537,8 @@
     - HardsHeap: Evaluating Secure Allocators — систематическое сравнение security properties hardened_malloc, Scudo, DieHarder и других allocators. https://taesoo.kim/pubs/2021/yun%3Ahardsheap.pdf
     - Краткий обзор Memory Tagging Extension — memory tags Armv8.5-A для обнаружения spatial и temporal memory errors. https://habr.com/ru/articles/493118/
     - Pointer Authentication на ARMv8.3 — PAC, защита return addresses и указателей от подмены. https://habr.com/ru/articles/592687/
+    - Memory Allocator Security Revisited — integer overflow в `calloc`, allocator metadata и набор проверок для security-oriented malloc. https://kqueue.org/blog/2012/03/05/memory-allocator-security-revisited/
+    - MTE: Memory Tagging Extension — устройство allocation и pointer tags, synchronous/asynchronous faults и интеграция Arm MTE. https://cnlelema.github.io/memo/en/mem-safe/mem-tag/mte/
   - Sanitizers
     - Understanding AddressSanitizer — устройство shadow memory и redzones и диагностика out-of-bounds, use-after-free и stack-use-after-return в C++. https://blog.trailofbits.com/2024/05/16/understanding-addresssanitizer-better-memory-safety-for-your-code/
     - Sanitize Your C++ Containers — пошаговое добавление ASan contiguous-container annotations в собственные структуры данных. https://blog.trailofbits.com/2024/09/10/sanitize-your-c-containers-asan-annotations-step-by-step/
@@ -509,6 +550,10 @@
     - MemorySanitizer: когда он нужен и как внедрять — поиск чтения неинициализированной памяти, instrumented dependencies и применение MSan вместе с тестами и fuzzing. https://habr.com/ru/articles/937934/
     - Зачем нужен динамический анализ кода — внедрение AddressSanitizer в C++-проект и реальные ошибки, найденные в PVS-Studio. https://pvs-studio.ru/ru/blog/posts/cpp/0868/
     - Address Sanitizer, или что делать, если не работает Valgrind — подключение ASan и поиск memory corruption в нативном коде. https://habr.com/ru/articles/323380/
+    - Safer Use of C Code: Running Gentoo with AddressSanitizer — системная ASan-сборка, найденные memory bugs и риски использования sanitizer в production. https://blog.hboeck.de/archives/879-Safer-use-of-C-code-running-Gentoo-with-Address-Sanitizer.html
+    - My Favorite C Compiler Flags During Development — ASan, UBSan, TSan, strict warnings и debugger-oriented runtime checks. https://nullprogram.com/blog/2023/04/29/
+    - All About Sanitizer Interceptors — symbol interposition, перехват libc API и внутреннее устройство ASan, HWASan и TSan runtimes. https://maskray.me/blog/2023-01-08-all-about-sanitizer-interceptors
+    - All About LeakSanitizer — stop-the-world, root-set scanning, mark-and-sweep и standalone/integrated LSan modes. https://maskray.me/blog/2023-02-12-all-about-leak-sanitizer
   - Fuzzing
     - Master Fuzzing with Our New Testing Handbook Chapter — libFuzzer, AFL++, harness design, seed corpora, dictionaries, sanitizers и интеграция реальных C/C++-проектов. https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/
     - Fuzzing an API with DeepState. Part 1 — stateful fuzzing C/C++ API через unit-test-подобные сценарии, libFuzzer и AFL. https://blog.trailofbits.com/2019/01/22/fuzzing-an-api-with-deepstate-part-1/
@@ -518,6 +563,9 @@
     - This Shouldn’t Have Happened: A Vulnerability Postmortem — почему высокая суммарная coverage не помогла найти BigSig в NSS и как проектировать end-to-end fuzz targets. https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html
     - Быстрый security-oriented fuzzing с AFL — instrumentation, ASan, corpus design и поиск уязвимости в libcurl. https://habr.com/ru/articles/259671/
     - Как подружить DynamoRIO и LibFuzzer — coverage-guided fuzzing ассемблерных функций и вставок в криптографическом C/C++-коде. https://habr.com/ru/articles/826932/
+    - How Heartbleed Could’ve Been Found — воспроизведение Heartbleed через AFL, AddressSanitizer и минимальный TLS handshake harness. https://blog.hboeck.de/archives/868-How-Heartbleed-couldve-been-found.html
+    - A Gentle Introduction to Fuzzing C++ with AFL and libFuzzer — harness design, SanitizerCoverage и совместное применение fuzzers с sanitizers. https://jefftrull.github.io/c%2B%2B/clang/llvm/fuzzing/sanitizer/2015/11/27/fuzzing-with-sanitizers.html
+    - The Day I Fell in Love with Fuzzing — практический AFL workflow для portable C parser и исправление найденных crashes. https://nullprogram.com/blog/2019/01/25/
   - Undefined behavior, integer и lifetime
     - What Every C Programmer Should Know About Undefined Behavior. Part 1 — виды UB, оптимизации и унаследованные C++ риски uninitialized values, wild pointers и aliasing. https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
     - What Every C Programmer Should Know About Undefined Behavior. Part 2 — удаление проверок, взаимодействие optimizer passes и превращение ранее работавшего кода в уязвимый. https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html
@@ -528,6 +576,8 @@
     - Подробно о неопределённом поведении в C и C++ — причины UB, реальные security consequences и сравнение compiler flags, Valgrind и sanitizers. https://habr.com/ru/articles/956522/
     - UB-2017. Часть 1 — ASan, UBSan, TSan, hardened allocators и практический поиск undefined behavior. https://habr.com/ru/articles/341694/
     - Неопределённое поведение в C/C++ и приёмы против лома — integer overflow, optimizer assumptions и безопасные compiler options. https://habr.com/ru/articles/756000/
+    - Undefined Behavior Can Format Your Drive — реальные последствия signed overflow, out-of-bounds и optimizer assumptions в C/C++. https://randomascii.wordpress.com/2014/05/19/undefined-behavior-can-format-your-drive/
+    - How Should You Write a Fast Integer Overflow Check? — корректные portable overflow checks и сравнение compiler-generated code. https://blog.regehr.org/archives/1139
   - Compiler и binary hardening
     - Compiler Options Hardening Guide for C and C++ — рекомендуемые warning, instrumentation, compiler и linker options для GCC и Clang. https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C%2B%2B.html
     - Clang Hardening Cheat Sheet: Ten Years Later — современные Clang mitigations, sanitizers, CFI, SafeStack и production hardening flags. https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html
@@ -537,6 +587,8 @@
     - Control-Flow Integrity — forward-edge CFI, type checks, особенности C++ virtual calls и применение `-fsanitize=cfi`. https://maskray.me/blog/2022-12-18-control-flow-integrity
     - Миллионы бинарников спустя: как укреплялся Linux — измерение распространённости PIE, RELRO, stack canaries, FORTIFY и stack-clash protection. https://habr.com/ru/articles/444418/
     - Hardened Gentoo — PIE, SSP, PaX, NX и организация hardened toolchain для сборки защищённых бинарников. https://habr.com/ru/articles/13094/
+    - `-fstack-protector-strong` — критерии инструментирования функций, security coverage и измерение overhead в Linux kernel. https://outflux.net/blog/archives/2014/01/27/fstack-protector-strong/
+    - Compiler Hardening in Ubuntu and Debian — распространение RELRO, stack protector, FORTIFY, PIE и bind-now в дистрибутивах. https://outflux.net/blog/archives/2014/02/03/compiler-hardening-in-ubuntu-and-debian/
   - Статический анализ и аудит
     - Catching OpenSSL Misuse Using CodeQL — запросы для неправильной работы с ключами, entropy initialization, BIGNUM и очисткой секретных данных. https://blog.trailofbits.com/2023/12/22/catching-openssl-misuse-using-codeql/
     - The Problem with Dynamic Program Analysis — ограничения динамических тестов и межпроцедурный static data-flow поиск use-after-free в больших кодовых базах. https://blog.trailofbits.com/2016/03/09/the-problem-with-dynamic-program-analysis/
@@ -550,6 +602,8 @@
     - Fix Your Damned Data Races — почему кажущиеся безобидными C++ data races остаются undefined behavior и могут изменяться оптимизатором. https://blog.mozilla.org/nnethercote/2015/02/24/fix-your-damned-data-races/
     - Путеводитель C++-программиста по UB. Часть 11 — data races, deadlocks, атомики и применение ThreadSanitizer. https://pvs-studio.ru/ru/blog/posts/cpp/1199/
     - Lock-free структуры данных: модель памяти — memory ordering, data-race verification и практическое использование ThreadSanitizer. https://habr.com/ru/articles/197520/
+    - Correctly Implementing a Spinlock in C++ — test-and-test-and-set, acquire/release ordering и снижение cache coherency traffic. https://rigtorp.se/spinlock/
+    - Relaxed Atomics and Data Races — пример ошибки с `memory_order_relaxed` и исправление через release/acquire synchronization. https://vorbrodt.blog/2019/02/23/relaxed-atomics-and-data-races/
   - Продвинутая concurrency-безопасность
     - Atomic Weapons: The C++ Memory Model and Modern Hardware — atomics, fences, acquire/release, relaxed ordering и отображение semantics на разные CPU. https://herbsutter.com/2013/02/11/atomic-weapons-the-c-memory-model-and-modern-hardware/
     - Solving the ABA Problem for Lock-Free Free Lists — reference counting, tagged pointers и безопасная memory reclamation в C++11. https://moodycamel.com/blog/2014/solving-the-aba-problem-for-lock-free-free-lists
@@ -558,6 +612,8 @@
     - CON53-CPP: Avoid Deadlock — predefined lock ordering, circular wait и применение `std::lock`/`std::scoped_lock`. https://cmu-sei.github.io/secure-coding-standards/sei-cert-cpp-coding-standard/rules/concurrency-con/con53-cpp/
     - Lock-free структуры данных: схемы управления памятью — ABA, tagged pointers, Hazard Pointer и safe memory reclamation. https://habr.com/ru/articles/202190/
     - Топ-20 ошибок многопоточности на C++ — forgotten unlock, oversized critical sections, deadlocks и lock ordering. https://habr.com/ru/articles/443406/
+    - Hazard Pointers in C++26 — защита lock-free nodes от преждевременного reclamation и решение ABA problem. https://www.modernescpp.com/index.php/hazard-pointers-in-c26/
+    - Using Quiescent States to Reclaim Memory — RCU-подобная публикация immutable copies и безопасное удаление старых C++ objects. https://preshing.com/20160726/using-quiescent-states-to-reclaim-memory
   - FFI и границы небезопасного кода
     - C++/Rust Interoperability Initiative — потеря safety guarantees на C ABI, unsafe boundary и требования к современному interop. https://github.com/rustfoundation/interop-initiative
     - Improving Interoperability Between Rust and C++ — значение безопасного interop для постепенной миграции legacy C++ codebases. https://security.googleblog.com/2024/02/improving-interoperability-between-rust-and-c.html
@@ -566,6 +622,7 @@
     - The Problem of Safe FFI Bindings in Rust — pointer validity, aliasing, lifetimes и проектирование минимального проверяемого unsafe wrapper. https://www.abubalay.com/blog/2020/08/22/safe-bindings-in-rust
     - Как мы подружили однопоточный C++ с многопоточным Rust — `cxx`, unsafe boundaries и типобезопасное ограничение thread-affine API. https://habr.com/ru/articles/1010062/
     - Почему передавать пустые срезы между Rust и C/C++ сложно — несовместимые pointer-length invariants и undefined behavior на FFI-границе. https://habr.com/ru/companies/ruvds/articles/788654/
+    - Control What Crosses FFI Boundaries — ownership, allocation, C-compatible representations, panic/exception handling и safe wrappers. https://www.lurklurk.org/effective-rust/ffi.html
   - Supply chain, SBOM и provenance
     - Introducing the Conan Audit Command for Scanning C++ CVEs — проверка одного пакета или полного Conan dependency graph по известным уязвимостям. https://blog.conan.io/introducing-conan-audit-command/
     - New Security Measures for Conan — исторический обзор namespaces, manifests, checksums и distributed package storage; детали старых версий Conan следует перепроверять. https://blog.conan.io/2016/10/05/New-security-measures-for-conan-C-and-C%2B%2B-package-manager.html
@@ -576,10 +633,13 @@
     - Tamper-Proof Builds and SLSA Provenance — isolated builders, OIDC identity, Sigstore и non-forgeable build attestations. https://security.googleblog.com/2022/04/improving-software-supply-chain.html
     - Композиционный анализ проектов на C++ — SCA, CycloneDX/SPDX, Conan dependency graph и поиск известных уязвимостей. https://habr.com/ru/companies/aktiv-company/articles/1066992/
     - Автоматизация SBOM в большом legacy-проекте — извлечение C/C++ dependencies из сборки LibreOffice и сопоставление с CVE. https://habr.com/ru/companies/codescoring/articles/1045570/
+    - How NixOS and Reproducible Builds Could Have Detected the XZ Backdoor — различия Git tree и release tarball, independent rebuilds и supply-chain verification. https://luj.fr/blog/how-nixos-could-have-detected-xz.html
   - Криптография и side channels
     - Introducing Constant-Time Support for LLVM — `__builtin_ct_select`, LLVM IR intrinsics и защита C/C++-криптографии от compiler-introduced timing leaks. https://blog.trailofbits.com/2025/12/02/introducing-constant-time-support-for-llvm-to-protect-cryptographic-code/
     - Время в криптографии — timing leakage при сравнении секретов, constant-time operations и влияние compiler optimizations. https://habr.com/ru/articles/942932/
     - Атаки по времени — практический эксперимент с посимвольным сравнением секретов и измерением времени ответа. https://habr.com/ru/articles/217327/
+    - Micro-Architectural Side-Channel Attacks — cache timing, shared hardware и constant-time programming как software countermeasure. https://www.cryptologie.net/posts/ches-2016-tutorial-part-2-micro-architectural-side-channel-attacks/
+    - Timing and Lattice Attacks on a Remote ECDSA OpenSSL Server — утечка nonce length по времени и восстановление private key через lattices. https://cryptologie.net/posts/timing-and-lattice-attacks-on-a-remote-ecdsa-openssl-server-how-practical-are-they-really/
 - Отладка
   - Valgrind
     - Выявление ошибок в работе с памятью в C и C++: Сравниваем Sanitizers и Valgrind https://habr.com/ru/companies/otus/articles/801123/
