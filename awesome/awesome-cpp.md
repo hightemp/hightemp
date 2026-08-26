@@ -148,6 +148,7 @@
 - https://www.cryptologie.net/
 - https://kqueue.org/blog/
 - https://cnlelema.github.io/memo/
+- https://sploitfun.wordpress.com/
 
 ### Статьи
 
@@ -396,6 +397,7 @@
     - Уязвимость Use-After-Free — устройство glibc heap, повторное использование освобождённых chunks и построение exploit primitive. https://habr.com/ru/companies/otus/articles/516150/
     - Путеводитель C++-программиста по UB. Часть 3 — нарушения lifetime, висячие ссылки, `string_view` и use-after-free. https://pvs-studio.ru/ru/blog/posts/cpp/1149/
     - Should You Set `free()`-ed Pointers to NULL? — почему обнуление одного alias не устраняет UAF и как применять ASan, poisoning и generational handles. https://nrk.neocities.org/articles/free-null
+    - Use-After-Free — glibc heap information leak, обход ASLR и превращение UAF в arbitrary code execution через повреждение chunk metadata. https://sploitfun.wordpress.com/2015/06/16/use-after-free/
   - Format string vulnerabilities
     - When `printf` Becomes a Weapon — format language как read/write primitive, утечки адресов и запись через `%n`. https://domig.net/blog/posts/0005-formatstring/
     - Secure Programming: Format Strings — причины format bugs, stack/heap access и пример перехвата control flow. https://www.cgsecurity.org/Articles/SecProg/Art4/index.html
