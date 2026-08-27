@@ -1,0 +1,22 @@
+### Сервисы для перевода видео
+
+- Коммерческие облачные сервисы
+  - HeyGen Video Translator — перевод готовых роликов и YouTube-видео с клонированием голоса, субтитрами и синхронизацией губ. https://www.heygen.com/translate
+  - ElevenLabs Dubbing Studio — автоматический перевод и дубляж с сохранением голосов, эмоций, тайминга и фоновой дорожки; есть API. https://elevenlabs.io/dubbing-studio
+  - Rask AI — перевод, субтитры и многоголосый дубляж с редактируемым транскриптом, глоссарием, клонированием голоса и lip-sync. https://www.rask.ai/tools/video-translator
+  - Synthesia Video Translator — локализация загруженных и YouTube-видео с клонированием голоса, субтитрами и lip-sync. https://www.synthesia.io/features/video-translator
+  - VEED Video Translator — перевод субтитров и речи внутри браузерного видеоредактора с клонированием голоса, сохранением фонового звука и lip-sync. https://www.veed.io/tools/video-translator
+  - Kapwing Video Translator — перевод, дубляж и субтитры с редактированием транскрипта, правилами перевода, выбором голосов и автоматическим lip-sync. https://www.kapwing.com/tools/translate
+  - Maestra Video Translator — единый редактор для субтитров, дубляжа, клонирования голоса и lip-sync; поддерживает совместную работу и API. https://maestra.ai/tools/video-translator
+  - CAMB.AI DubStudio — перевод видео с определением говорящих, клонированием голосов, переносом эмоций и экспортом субтитров. https://www.camb.ai/features/translation
+  - Dubverse — перевод и дубляж с редактором сценария, несколькими голосами, клонированием голоса, lip-sync и переводом текста в кадре. https://dubverse.ai/video-translator/
+  - Wavel AI Video Translator — дубляж, субтитры, клонирование голоса и lip-sync; для команд доступна дополнительная проверка перевода человеком. https://wavel.ai/solutions/ai-video-translator
+  - Vozo Video Translator — перевод и дубляж с клонированием голосов, lip-sync, настраиваемыми субтитрами и редактированием текста непосредственно в кадре. https://www.vozo.ai/video-translate
+- Опенсорсные и self-hosted инструменты
+  - pyVideoTrans — GUI и CLI для полного конвейера ASR → перевод → многоголосый TTS → синхронизация и сборка видео; поддерживает локальные модели и облачные API. https://github.com/jianchang512/pyvideotrans
+  - VideoLingo — Streamlit-приложение для распознавания, сегментации и перевода субтитров с глоссарием, вычиткой через LLM и несколькими TTS-бэкендами. https://github.com/Huanshere/VideoLingo
+  - KrillinAI — клиент и CLI для загрузки, транскрибации, перевода, дубляжа и адаптации роликов под горизонтальные и вертикальные форматы. https://github.com/krillinai/KrillinAI
+  - Linly-Dubbing — WebUI с разделением голоса и фоновой дорожки, WhisperX/FunASR, несколькими переводчиками и TTS, клонированием голоса и lip-sync. https://github.com/Kedreamix/Linly-Dubbing
+  - YouDub WebUI — локальный конвейер для перевода и озвучивания YouTube и Bilibili с сохранением фоновой музыки; наиболее зрелый сценарий — английский ↔ китайский. https://github.com/liuzhao1225/YouDub-webui
+  - langswap — полностью локальный Docker-конвейер для GPU: распознавание, перевод, клонирование голоса, тайминг дубляжа и экспорт видео с SRT. https://github.com/langswap-app/langswap
+  - AutoDub — локальный переводчик и дуббер на Whisper, Ollama и XTTS/Piper/Edge TTS с поддержкой множества языков и клонированием голоса. https://github.com/shyhirt/AutoDub
