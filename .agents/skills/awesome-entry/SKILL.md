@@ -53,6 +53,7 @@ Do not create a new `awesome/*.md` file unless the user explicitly asks for it o
 
 Keep every sibling level structurally uniform:
 
+- Keep category names atomic: one category represents one topic. If a label combines independently useful topics with `и`, `and`, `/`, or a similar connector, create separate sibling categories instead (for example, `GPTQ` and `AWQ`, not `GPTQ и AWQ`).
 - Never mix leaf entries and category branches under the same parent.
 - If a parent has child categories, place all direct entries into the narrowest fitting child category.
 - Use `Основное` only for foundational or introductory material about the parent topic. Never use it as a generic catch-all.
