@@ -101,6 +101,24 @@
 - Глубокое обучение
   - Обучение и отладка
     - A Recipe for Training Neural Networks — Andrej Karpathy https://karpathy.github.io/2019/04/25/recipe/
+  - Квантизация моделей
+    - Основы
+      - Quantization Deep Dive, или Введение в современную квантизацию — Yandex https://habr.com/ru/companies/yandex/articles/800945/
+      - Quantization concepts — Hugging Face https://huggingface.co/docs/transformers/main/quantization/concept_guide
+    - Общие методы
+      - Как устроены 4.6-битные сети: обучение — Smart Engines https://habr.com/ru/companies/smartengines/articles/823366/
+      - Practical Quantization in PyTorch https://pytorch.org/blog/quantization-in-practice/
+    - LLM
+      - Как квантовать LLM. Практическое руководство для начинающих https://habr.com/ru/articles/975468/
+      - Разбираемся с суффиксами квантования LLM: что на самом деле значат Q4_K_M, Q6_K и Q8_0 https://habr.com/ru/articles/918936/
+      - Квантизация LLM: как запихнуть 70B модель в свою видюху — Cloud.ru https://habr.com/ru/companies/cloud_ru/articles/1069004/
+    - Инференс
+      - Ускорение инференса LLM — Yandex https://habr.com/ru/companies/yandex/articles/801119/
+      - Optimizing LLMs for Performance and Accuracy with Post-Training Quantization — NVIDIA https://developer.nvidia.com/blog/optimizing-llms-for-performance-and-accuracy-with-post-training-quantization/
+    - GPTQ
+      - Making LLMs lighter with AutoGPTQ and Transformers — Hugging Face https://huggingface.co/blog/gptq-integration
+    - AWQ
+      - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration https://arxiv.org/abs/2306.00978
 - Production ML и MLOps
   - Архитектура и технический долг
     - Hidden Technical Debt in Machine Learning Systems https://research.google/pubs/hidden-technical-debt-in-machine-learning-systems/
