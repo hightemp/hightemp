@@ -1819,6 +1819,7 @@ https://www.sackett.net/The-Spike.pdf
     - AI Engineering in 76 Minutes (Complete Course/Speedrun!) https://www.youtube.com/watch?v=JV3pL1_mn2M
     - Essential Machine Learning and AI Concepts Animated https://www.youtube.com/watch?v=PcbuKRNtCUc
 - Transformers
+    - The Paper That Created Modern AI — видео Ани Кубов об истории статьи «Attention Is All You Need», появлении архитектуры Transformer и её роли в развитии современных больших языковых моделей. https://www.youtube.com/watch?v=jIo2ccqPnLQ
     - Transformer, explained in detail | Igor Kotenkov | NLP Lecture (in Russian) https://www.youtube.com/watch?v=iOrNbK2T92M
     - Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy https://www.youtube.com/watch?v=XfpMkf4rD6E
     - LLM, трансформеры, внимательно разбираем внутренности https://www.youtube.com/watch?v=1vPqIweQh_U
