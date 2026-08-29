@@ -13,6 +13,7 @@
 
 - Hugging Face Robotics Course — бесплатный курс по робототехнике и методам ИИ, основанный на Robot Learning Tutorial и связанный с проектом Le Robot. https://huggingface.co/learn/robotics-course/unit0/1 https://arxiv.org/pdf/2510.1240 https://huggingface.co/lerobot
     - Конспекты перевода курса Hugging Face Robotics Course — неофициальные русскоязычные конспекты по материалам курса и туториала. https://docs.google.com/document/d/1dVZIDOmTeJe2DmFM4JzCdO1BZYFJ9qDqI2dKBrw5IDM/edit?tab=t.0
+- Classical Control Theory — бесплатный курс Brian Douglas из 46 видео по классической теории управления: замкнутые системы, передаточные функции, преобразования Фурье и Лапласа, устойчивость, корневые годографы, диаграммы Боде, идентификация систем и PID-регуляторы. https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk
 
 ### Телеграм каналы
 
