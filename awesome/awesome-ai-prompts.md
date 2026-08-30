@@ -11,6 +11,7 @@
 
 ### Промты; Промптинг
 
+- Prompt Engineering Guide — руководство DAIR.AI по техникам промптинга, приложениям, исследованиям, инструментам и работе с LLM. https://www.promptingguide.ai/ https://github.com/dair-ai/Prompt-Engineering-Guide
 - https://github.com/DenisSergeevitch/chatgpt-custom-instructions
 - Prompt Jesus — бесплатная платформа для автоматического улучшения пользовательских запросов к языковым моделям, которая преобразует простые текстовые инструкции в структурированные профессиональные промпты с использованием методологий от Google, OpenAI и Anthropic, включая добавление ролей, цепочек рассуждений и механизмов защиты от ошибок. https://promptjesus.com
 - Claude System Prompt — утёкший в сеть системный промпт языковой модели Claude от компании Anthropic объёмом более 24 тысяч токенов, содержащий детальные инструкции по обработке различных типов задач (подсчёт букв и слов пошагово, логические задачи с дословным выписыванием условий), встроенные фактологические данные (например, о победе Трампа на выборах 2024 года), правила использования инструментов, указания по имитации субъективных предпочтений и требования избегать клише при написании стихов. https://www.dbreunig.com/2025/05/07/claude-s-system-prompt-chatbots-are-more-than-just-models.html https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/refs/heads/main/claude.txt

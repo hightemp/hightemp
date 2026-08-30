@@ -1,6 +1,7 @@
 ### Коллекции
 
 - DAIR.AI Mathematics for Machine Learning — подборка книг, статей и видеолекций по линейной алгебре, математическому анализу, теории вероятностей, статистике и другим математическим основам ML. https://github.com/dair-ai/Mathematics-for-ML
+- LabML Annotated Deep Learning Paper Implementations — коллекция простых реализаций статей и алгоритмов на PyTorch с построчными пояснениями; охватывает трансформеры, диффузионные модели, GAN, обучение с подкреплением, оптимизаторы и масштабирование. https://github.com/labmlai/annotated_deep_learning_paper_implementations https://nn.labml.ai/
 
 ### Курсы
 
@@ -64,7 +65,7 @@
   - Production ML и MLOps
     - Full Stack Deep Learning https://fullstackdeeplearning.com/course/2022/
     - MLOps Zoomcamp https://datatalks.club/docs/courses/mlops-zoomcamp/
-    - MLOps Course — Made With ML https://madewithml.com/courses/mlops/
+    - MLOps Course — Made With ML https://madewithml.com/courses/mlops/ https://github.com/GokuMohandas/Made-With-ML
     - Stanford CS329S: Machine Learning Systems Design https://stanford-cs329s.github.io/
 
 ### Мануалы и справочники
