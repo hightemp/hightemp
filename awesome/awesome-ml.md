@@ -11,6 +11,7 @@
     - Machine Learning in Python with scikit-learn https://inria.github.io/scikit-learn-mooc/
     - Открытый курс по машинному обучению ODS https://ods.ai/tracks/open-ml-course/about
     - Machine Learning Zoomcamp https://datatalks.club/docs/courses/ml-zoomcamp/
+    - 100 Days of Machine Learning Code — практический журнал-челлендж с конспектами, Jupyter-ноутбуками, кодом и проектами по ML, глубокому обучению и компьютерному зрению. https://github.com/george-studenko/100_Days_of_ML_Code
     - Decision Forests — Google https://developers.google.com/machine-learning/decision-forests
     - Clustering — Google https://developers.google.com/machine-learning/clustering
     - Intermediate Machine Learning — Kaggle https://www.kaggle.com/learn/intermediate-machine-learning
