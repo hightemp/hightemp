@@ -15,6 +15,7 @@
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/resumejob/System-Design-Best-Practices
 - System Design 101 Explain complex systems using visuals and simple terms. https://github.com/ByteByteGoHq/system-design-101
+- System Design Interview Notes — незавершённые конспекты двух томов «System Design Interview — An Insider's Guide» Алекса Сюй по масштабированию и проектированию распределённых сервисов, дополненные ссылками на статьи, доклады и исследовательские работы. https://github.com/liquidslr/system-design-notes https://pagefy.io/system-design/system-design-interview-by-alex-xu
 - https://github.com/checkcheckzz/system-design-interview
 - https://github.com/InterviewReady/system-design-resources
 - https://github.com/binhnguyennus/awesome-scalability
