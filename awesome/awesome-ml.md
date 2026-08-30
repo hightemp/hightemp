@@ -3,6 +3,7 @@
 - Основы и классическое машинное обучение
   - Начальный уровень
     - Введение в Data Science и машинное обучение https://stepik.org/course/4852/
+    - Machine Learning for Beginners — Microsoft https://github.com/microsoft/ML-For-Beginners
     - Google Machine Learning Crash Course https://developers.google.com/machine-learning/crash-course/
     - Machine Learning Specialization https://www.deeplearning.ai/specializations/machine-learning https://www.coursera.org/specializations/machine-learning-introduction
     - Intro to Machine Learning — Kaggle https://www.kaggle.com/learn/intro-to-machine-learning
