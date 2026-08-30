@@ -2,6 +2,7 @@
 
 - DAIR.AI Mathematics for Machine Learning — подборка книг, статей и видеолекций по линейной алгебре, математическому анализу, теории вероятностей, статистике и другим математическим основам ML. https://github.com/dair-ai/Mathematics-for-ML
 - LabML Annotated Deep Learning Paper Implementations — коллекция простых реализаций статей и алгоритмов на PyTorch с построчными пояснениями; охватывает трансформеры, диффузионные модели, GAN, обучение с подкреплением, оптимизаторы и масштабирование. https://github.com/labmlai/annotated_deep_learning_paper_implementations https://nn.labml.ai/
+- Awesome Reinforcement Learning — коллекция курсов, книг, статей, кода, сред и платформ по обучению с подкреплением; больше не поддерживается. https://github.com/aikorea/awesome-rl
 
 ### Курсы
 
@@ -76,6 +77,9 @@
 - Глубокое обучение
   - Настройка и диагностика
     - Deep Learning Tuning Playbook — Google https://developers.google.com/machine-learning/guides/deep-learning-tuning-playbook
+- Обучение с подкреплением
+  - Реализации алгоритмов
+    - Reinforcement Learning Algorithms — учебные реализации алгоритмов с нуля в Jupyter-ноутбуках: от SARSA и Q-learning до REINFORCE и actor–critic, с пояснениями и примерами на Gymnasium. https://github.com/ChristianOrr/reinforcement-learning-algorithms
 - Production ML и MLOps
   - Проектирование ML-систем
     - Rules of Machine Learning — Google https://developers.google.com/machine-learning/guides/rules-of-ml
