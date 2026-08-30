@@ -80,6 +80,7 @@
 - Обучение с подкреплением
   - Реализации алгоритмов
     - Reinforcement Learning Algorithms — учебные реализации алгоритмов с нуля в Jupyter-ноутбуках: от SARSA и Q-learning до REINFORCE и actor–critic, с пояснениями и примерами на Gymnasium. https://github.com/ChristianOrr/reinforcement-learning-algorithms
+    - RL From Scratch — 35 реализаций алгоритмов на чистых Python и NumPy без Gym и PyTorch: от многоруких бандитов и табличных методов до deep RL, непрерывного управления и imitation learning; для каждого алгоритма есть теория, псевдокод, оценка сложности и вопросы для интервью. https://github.com/rohanmistry231/RL-From-Scratch
 - Production ML и MLOps
   - Проектирование ML-систем
     - Rules of Machine Learning — Google https://developers.google.com/machine-learning/guides/rules-of-ml
