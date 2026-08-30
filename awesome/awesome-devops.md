@@ -305,3 +305,4 @@
 - Terraform vs Pulumi: Which IaC tool is right for you? https://www.youtube.com/watch?v=GORaENwHuPU
 - Плейлисты
     - DevOps практикум https://www.youtube.com/watch?v=fpp1npEfbug&list=PLYl91BhaOf-mod2MEk2ewaFsr4wV3CVdy
+    - Apache Kafka Fundamentals — официальный курс Confluent с Тимом Берглундом из семи видео по сценариям применения Kafka, основным концепциям и архитектуре, принципам работы, интеграции и платформе Confluent. https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA
