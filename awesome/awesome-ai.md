@@ -212,6 +212,7 @@
 - https://github.com/jakobhoeg/nextjs-ollama-llm-ui
 - https://github.com/open-webui/open-webui (есть поддержка deepseek-r1)
 - https://github.com/albinvar/ollama-webui
+- SillyTavern — локально устанавливаемый интерфейс для продвинутой работы с LLM: подключается к KoboldAI, OpenAI, OpenRouter, Claude, Mistral и другим API, поддерживает персонажей и lorebooks, Visual Novel Mode, расширенную настройку промптов, TTS, автоперевод, генерацию изображений через Automatic1111 и ComfyUI, мобильную раскладку и сторонние расширения. https://github.com/SillyTavern/SillyTavern
 
 ### Чаты с ботами
 
@@ -290,7 +291,6 @@
 - https://github.com/josephgodwinkimani/openrouter-web
 - https://docs.openwebui.com/
 - https://lobechat.com
-- SillyTavern provides a single unified interface for many LLM APIs (KoboldAI/CPP, Horde, NovelAI, Ooba, Tabby, OpenAI, OpenRouter, Claude, Mistral and more), a mobile-friendly layout, Visual Novel Mode, Automatic1111 & ComfyUI API image generation integration, TTS, WorldInfo (lorebooks), customizable UI, auto-translate, more prompt options than you'd ever want or need, and endless growth potential via third-party extensions. https://github.com/SillyTavern/SillyTavern
 
 ### ai-платформы для инференса (MAAS, Model-as-a-Service)
 
