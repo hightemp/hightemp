@@ -181,7 +181,10 @@
 
 ### Курсы
 
-- Бесплатный курс «Путь инвестора» Курс для начинающих инвесторов https://school.moex.com/put-investora/
+- Инвестиции
+    - Бесплатный курс «Путь инвестора» Курс для начинающих инвесторов https://school.moex.com/put-investora/
+- Фьючерсы
+    - Introduction to Futures — CME Group https://www.cmegroup.com/education/courses/introduction-to-futures.hideCoureNav.educationIframe.html?hideAddThisExt=y&hideFooter=y&hideHeader=y&hideRightRail=y
 
 ### Статьи
 
@@ -210,6 +213,17 @@
         - Как научится делать технический анализ акций? https://www.banki.ru/investment/investment_education/?id=10945917
 - Портфельное инвестирование
     - От «Портфеля лежебоки» к «Лежебоке плюс», часть 1 — первая часть серии про модельный портфель из БПИФов на ИИС: исходные данные, структура из акций, облигаций, золота и фонда денежного рынка, регулярные пополнения, ребалансировка, комиссии и налоговые льготы ИИС типа А/Б. https://assetallocation.ru/sluggard-plus-1/
+- Фьючерсы
+    - Что такое фьючерсы и как они устроены — Московская биржа https://school.moex.com/articles/chto-takoe-fyuchersy-i-kak-oni-ustroeny
+    - Фьючерсы и опционы: что это и можно ли на них заработать — Финансовая культура https://fincult.info/article/fyuchersy-i-optsiony-chto-eto-i-mozhno-li-na-nikh-zarabotat/
+    - Расчёт индикативной вариационной маржи — Московская биржа https://www.moex.com/s3878
+    - Как происходит торговля фьючерсами на бирже — Т-Банк https://www.tbank.ru/invest/help/brokerage/account/forts/trade-futures/
+    - Как хеджировать риски — Московская биржа https://school.moex.com/articles/kak-hedzhirovat-riski-effektivnye-metody-dlya-rossijskih-investorov
+    - Как читать коды инструментов на срочном рынке — Московская биржа https://school.moex.com/articles/kak-chitat-kody-instrumentov-na-srochnom-rynke
+    - Economic Purpose of Futures Markets and How They Work — CFTC https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/economicpurpose.html
+    - The Benefits of Futures Margins — CME Group https://www.cmegroup.com/education/courses/understanding-the-benefits-of-futures/the-benefits-of-futures-margins
+    - What Is Contango and Backwardation — CME Group https://www.cmegroup.com/education/courses/introduction-to-ferrous-metals/what-is-contango-and-backwardation
+    - Investor Best Practices — NFA https://www.nfa.futures.org/investors/investor-resources/files/investor-best-practices.html
 - Остальное
 
 ### Видео
