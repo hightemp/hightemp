@@ -1702,9 +1702,11 @@ https://arxiv.org/pdf/2411.08804v1
     - Работа с Аппаратным Обеспечением (Hardware Interaction)
         - Nvidia
             - Installing the NVIDIA Container Toolkit https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
-    - Деплой и Инференс (Deployment & Inference)
+    - Деплой (Deployment)
         - Self-Host Kimi K2.6: Complete Guide to vLLM, SGLang & KTransformers Deployment — практический гайд по self-hosting open-source модели Kimi K2.6: hardware sizing для FP16/INT4, native QAT INT4, запуск через `vLLM`, `SGLang` и `KTransformers`, настройка `thinking`/`instant` режимов, cost break-even против API и production best practices. https://lushbinary.com/blog/kimi-k2-6-self-hosting-guide-vllm-sglang-ktransformers/
         - Open-source AI-modellen dichten de kloof: DeepSeek, Qwen3 en Llama 4 evenaren nu GPT-5 — обзор open-source LLM landscape за декабрь 2025 с акцентом на build-vs-buy для enterprise AI: сравнивает DeepSeek V3.2, Qwen3-235B, Llama 4 Scout и Mistral по benchmark parity, стоимости токенов, self-hosting требованиям и рискам vendor lock-in. https://introl.com/nl/blog/open-source-ai-models-december-2025
+    - Инференс (Inference)
+        - Как запустить локально LLM, если её веса не помещаются в память — практический разбор послойного распределения инференса между компьютерами в локальной сети: объясняет зависимость генерации от пропускной способности памяти, небольшой объём межузловых передач, настройку `llama.cpp` RPC с `GGML_RPC` и автоматическое объединение узлов через EXO. https://habr.com/ru/articles/904172/
     - Протоколы и Интеграция (Protocols & Integration)
         - MCP (Model Context Protocol)
     - Оркестрация и Автоматизация (Orchestration & Automation)
