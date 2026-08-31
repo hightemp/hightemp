@@ -1631,6 +1631,27 @@ https://arxiv.org/pdf/2411.08804v1
         - Ускорение LLM: универсальные методы для популярных архитектур https://habr.com/ru/companies/yandex/articles/878230/
         - Scaling test-time compute - a Hugging Face Space by HuggingFaceH4 https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute
         - [См. также: Квантование в разделе Ключевые Концепции](#квантование)
+    - Спекулятивное декодирование
+        - Основы
+            - Быстрый инференс трансформеров посредством спекулятивного декодирования — основополагающая работа о draft-модели, параллельной проверке нескольких кандидатов и lossless acceptance/rejection sampling; доступен русский разбор alphaXiv и оригинальная статья. https://www.alphaxiv.org/ru/abs/2211.17192 https://arxiv.org/abs/2211.17192
+            - Looking Back at Speculative Decoding — ретроспектива Google Research с доступным объяснением draft/verify, сохранения исходного распределения ответов и причин ускорения memory-bound инференса. https://research.google/blog/looking-back-at-speculative-decoding/
+            - Speculative Decoding — актуальная документация vLLM по методам `ngram`, `suffix`, `eagle3`, `dflash`, общей конфигурации, lossless-гарантиям и ограничениям совместимости. https://docs.vllm.ai/en/latest/features/speculative_decoding/
+            - How Speculative Decoding Boosts vLLM Performance by up to 2.8x — разбор proposer/verifier-пайплайна vLLM, prompt lookup, EAGLE, continuous batching и практических компромиссов производительности. https://vllm.ai/blog/2024-10-17-spec-decode
+            - Спекулятивное декодирование: производительность или иллюзия? — систематическое исследование `n-gram`, EAGLE/EAGLE-3, draft-model и MTP в vLLM при разных моделях, нагрузках и размерах batch; русский разбор и оригинал. https://www.alphaxiv.org/ru/abs/2601.11580 https://arxiv.org/abs/2601.11580
+        - N-gram
+            - Prompt Lookup Decoding — технический разбор и минимальная реализация без draft-модели: продолжение предлагается поиском совпадения последней n-граммы с более ранним фрагментом prompt; особенно полезно для суммаризации, QA, чатов и редактирования кода. https://github.com/apoorvumang/prompt-lookup-decoding
+            - Inside vLLM: Anatomy of a High-Throughput LLM Inference System — архитектурный разбор vLLM с псевдоалгоритмом n-gram proposer, циклом draft/verify/accept и примером `speculative_config`. https://vllm.ai/blog/2025-09-05-anatomy-of-vllm
+        - Suffix
+            - Суффиксное декодирование для новых приложений ИИ — метод без draft-модели, использующий динамические суффиксные деревья текущего запроса и прошлых генераций, частоты продолжений и адаптивную длину спекуляции; русский разбор и оригинал. https://www.alphaxiv.org/ru/abs/2411.04975 https://arxiv.org/abs/2411.04975
+            - SuffixDecoding at Production Scale with Arctic Inference and vLLM — инженерный разбор Snowflake: устройство суффиксных деревьев, общий кеш генераций, token-level matching, обновление и ограничение памяти в production-реализации. https://www.snowflake.com/en/blog/engineering/suffixdecoding-arctic-inference-vllm/
+            - Suffix Decoding — документация vLLM с отличиями от n-gram, подходящими повторяющимися workload и примером конфигурации через Arctic Inference. https://docs.vllm.ai/en/stable/features/speculative_decoding/suffix/
+        - EAGLE
+            - EAGLE-3: масштабирование ускорения инференса LLM — переход от предсказания признаков к прямому предсказанию токенов, объединение скрытых состояний нескольких слоёв и training-time test; русский разбор и оригинал. https://www.alphaxiv.org/ru/abs/2503.01840 https://arxiv.org/abs/2503.01840
+            - Eagle-3 — документация vLLM Speculators по архитектуре target-conditioned draft-модели, процессу авторегрессионного создания кандидатов, проверке и готовым speculator-моделям. https://docs.vllm.ai/projects/speculators/en/stable/user_guide/algorithms/eagle3/
+        - DFlash
+            - DFlash: блочная диффузия для быстрого спекулятивного декодирования — параллельное предсказание блока токенов за один проход, fusion скрытых состояний целевой модели и их внедрение в KV-кеш draft-модели; русский разбор и оригинал. https://www.alphaxiv.org/ru/abs/2602.06036 https://arxiv.org/abs/2602.06036
+            - DFlash: How It Works — визуальный разбор Z Lab о feature fusion, KV injection и block-diffusion drafting с параллельной генерацией кандидатов. https://z-lab.ai/projects/dflash/
+            - DFlash — документация vLLM Speculators по архитектуре, anchor point mechanism, режимам семплирования, готовым моделям и интеграции с vLLM. https://docs.vllm.ai/projects/speculators/en/latest/user_guide/algorithms/dflash/
 
 - **Интерпретируемость и Отладка Моделей (Model Interpretability & Debugging)** {#интерпретируемость-и-отладка-моделей}
     - Circuit Tracing (Отслеживание нейронных цепей)
