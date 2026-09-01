@@ -38,6 +38,15 @@ Then classify it again by topic:
 
 The topic decides the target file. The source type helps choose the section and wording.
 
+## Section Type Rule
+
+Treat the section's source type as a hard constraint:
+
+- `Статьи` contains articles, blog posts, tutorials published as articles, and research papers.
+- `Мануалы и справочники` contains manuals, official documentation, API references, reference pages, and reference wikis — not articles or lectures.
+- `Курсы`, `Лекции`, `Книги`, `Репозитории`, and similar sections contain only the corresponding source type.
+- Do not place a source in a mismatched section merely because its topic is relevant. Use another existing section or topic file, or create a small correctly typed subsection when justified.
+
 ## Primary Topic Rule
 
 - Classify a source by the primary subject of the complete page, not by an incidental mention, dependency, example, or single subsection.
