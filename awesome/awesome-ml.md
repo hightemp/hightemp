@@ -131,6 +131,26 @@
       - Making LLMs lighter with AutoGPTQ and Transformers — Hugging Face https://huggingface.co/blog/gptq-integration
     - AWQ
       - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration https://arxiv.org/abs/2306.00978
+    - I-quants
+      - Основы
+        - Quantizing LLMs for inference — технический разбор различий между imatrix и `IQ_*`, weighted RMSE, codebooks, E₈-решётки и нелинейных уровней. https://nor-blog.pages.dev/posts/2025-05-14-quantization/
+        - LLM Quantization Part 3: Honey, I Shrunk the Numbers! — обзор K-quants, I-quants и imatrix с экспериментами на моделях от 7B до 70B. https://www.lttlabs.com/articles/2026/08/13/llm-quantization-part-3-honey-i-shrunk-the-numbers
+        - Tensor Encoding Schemes — справочная таблица форматов `IQ1`, `IQ2`, `IQ3`, `IQ4`, их фактической битности, размеров блоков и исходных PR. https://github.com/ggml-org/llama.cpp/wiki/Tensor-Encoding-Schemes
+        - Quant type documentation — описание структур, сеток, масштабов и упаковки `IQ2_XXS`, `IQ2_XS`, `IQ3_XXS`, `IQ4_NL`. https://github.com/ggml-org/llama.cpp/discussions/17393
+      - Imatrix
+        - GGUF: квантизация с калибровкой (imatrix) — русскоязычный практический пример создания imatrix на корпусе Википедии и квантизации GigaChat в GGUF. https://habr.com/ru/articles/953682/
+        - llama.cpp/tools/imatrix — официальная инструкция по созданию, объединению, анализу и применению importance matrix. https://github.com/ggml-org/llama.cpp/blob/master/tools/imatrix/README.md
+        - Importance Matrix calculation — исходный PR с реализацией imatrix в llama.cpp. https://github.com/ggml-org/llama.cpp/pull/4861
+        - Importance matrix calculations work best on near-random data — обсуждение калибровочных корпусов, weighted RMSE, чувствительности эвристик и риска переобучения. https://github.com/ggml-org/llama.cpp/discussions/5006
+      - IQ2
+        - IQ2_XXS: SOTA 2-bit quants — первичный разбор формата 2.0625 bpw, E₈-решётки, codebook и выбора наименее важного веса для sign flip. https://github.com/ggml-org/llama.cpp/pull/4773
+      - IQ3
+        - IQ3_XXS: SOTA 3-bit quants — формат 3.0625 bpw, D₄-решётка, структура блоков и сравнение с `Q3_K_XS`. https://github.com/ggml-org/llama.cpp/pull/5196
+      - IQ4
+        - IQ4_NL: 4-bit non-linear quants — нелинейная таблица из 16 уровней, блоки по 32 веса, работа без обязательной imatrix и сравнение с `Q4_0` и `Q4_K_S`. https://github.com/ggml-org/llama.cpp/pull/5590
+      - Исследования
+        - Квантовать или не квантовать LLM? — русскоязычное сравнение размера, скорости и perplexity IQ/K-quants; теоретическое описание распределения битности в I-quants упрощено и местами неточно. https://habr.com/ru/companies/first/articles/849560/
+        - English K-Quantization of LLMs Does Not Disproportionately Diminish Multilingual Performance — эксперимент с imatrix на английском, норвежском и малаялам для Llama 3.3 70B. https://arxiv.org/abs/2503.03592
 - Production ML и MLOps
   - Архитектура и технический долг
     - Hidden Technical Debt in Machine Learning Systems https://research.google/pubs/hidden-technical-debt-in-machine-learning-systems/
