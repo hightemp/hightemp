@@ -74,6 +74,9 @@
 - Данные и оценка моделей
   - Предобработка и утечки данных
     - Common pitfalls and recommended practices — scikit-learn https://scikit-learn.org/stable/common_pitfalls.html
+  - Оценка языковых моделей
+    - Перплексия — справочная страница о PPL как intrinsic-метрике, связи с cross-entropy и ограничениях сравнения моделей с разной токенизацией. https://systems-analysis.ru/wiki/%D0%9F%D0%B5%D1%80%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D1%8F
+    - Perplexity of fixed-length models — практический расчёт PPL для causal LM через sliding window и объяснение влияния размера контекста, stride и токенизации. https://huggingface.co/docs/transformers/v4.44.2/en/perplexity
 - Глубокое обучение
   - Настройка и диагностика
     - Deep Learning Tuning Playbook — Google https://developers.google.com/machine-learning/guides/deep-learning-tuning-playbook
@@ -99,6 +102,12 @@
   - Архитектуры и практика
     - Dive into Deep Learning https://d2l.ai/
     - Practical Deep Learning for Coders — companion book https://course.fast.ai/Resources/book.html
+- Обработка естественного языка
+  - Основы
+    - Speech and Language Processing — официальная страница третьего издания учебника Jurafsky и Martin по NLP с полным PDF и отдельными главами; охватывает языковое моделирование, вероятность последовательностей, entropy, cross-entropy и perplexity. https://web.stanford.edu/~jurafsky/slp3/
+- Оценка моделей
+  - Perplexity
+    - Machine Learning Q and AI, Chapter 19 — глава книги с числовыми примерами cross-entropy и perplexity и разбором оснований логарифма. https://sebastianraschka.com/books/ml-q-and-ai-chapters/ch19
 - Временные ряды
   - Прогнозирование
     - Forecasting: Principles and Practice https://otexts.com/fpp3/
@@ -108,11 +117,23 @@
   - Справедливость
     - Fairness and Machine Learning: Limitations and Opportunities https://fairmlbook.org/
 
+### Лекции
+
+- Обработка естественного языка
+  - Оценка качества языковых моделей — лекция с формулой perplexity, условными вероятностями и примерами интерпретации метрики. https://marigostra.ru/materials/presentation-nlp-lect07.pdf
+
 ### Статьи
 
 - Глубокое обучение
   - Обучение и отладка
     - A Recipe for Training Neural Networks — Andrej Karpathy https://karpathy.github.io/2019/04/25/recipe/
+  - Perplexity
+    - Перплексия в языковых моделях — русскоязычный разбор вероятности последовательности, нормализации по длине, cross-entropy и интуиции «удивления» модели. https://habr.com/ru/companies/wunderfund/articles/580230/
+    - Evaluation Metrics for Language Modeling — объяснение perplexity через вероятность, entropy, cross-entropy, bits per character и влияние токенизации. https://thegradient.pub/understanding-evaluation-metrics-for-language-models/
+    - The Intuition and Derivation of Perplexity for LLM Evaluation — пошаговый математический вывод от вероятности следующего токена до средней cross-entropy и PPL. https://drazenzaric.com/blog/perplexity/
+    - Understanding perplexity and its relation to cross-entropy and compression — интерпретация PPL через информационную теорию, эффективное число вариантов и сжимаемость текста. https://quentinduval.github.io/blog/2022/06/19/perplexity.html
+    - Perplexity from Pretrained Language Models Is Unreliable for Evaluating Text Quality — исследование ограничений PPL как метрики качества сгенерированного текста. https://arxiv.org/abs/2210.05892
+    - Lower Perplexity Is Not Always Human-Like — исследование, показывающее, что низкая PPL не всегда означает более естественный для человека текст. https://arxiv.org/abs/2106.01229
   - Квантизация моделей
     - Основы
       - Quantization Deep Dive, или Введение в современную квантизацию — Yandex https://habr.com/ru/companies/yandex/articles/800945/
