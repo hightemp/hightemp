@@ -69,24 +69,31 @@
     - MLOps Course — Made With ML https://madewithml.com/courses/mlops/ https://github.com/GokuMohandas/Made-With-ML
     - Stanford CS329S: Machine Learning Systems Design https://stanford-cs329s.github.io/
 
-### Мануалы и справочники
+### Репозитории
+
+- Обучение с подкреплением
+  - Реализации алгоритмов
+    - Reinforcement Learning Algorithms — учебные реализации алгоритмов с нуля в Jupyter-ноутбуках: от SARSA и Q-learning до REINFORCE и actor–critic, с пояснениями и примерами на Gymnasium. https://github.com/ChristianOrr/reinforcement-learning-algorithms
+    - RL From Scratch — 35 реализаций алгоритмов на чистых Python и NumPy без Gym и PyTorch: от многоруких бандитов и табличных методов до deep RL, непрерывного управления и imitation learning; для каждого алгоритма есть теория, псевдокод, оценка сложности и вопросы для интервью. https://github.com/rohanmistry231/RL-From-Scratch
+
+### Мануалы
 
 - Данные и оценка моделей
   - Предобработка и утечки данных
     - Common pitfalls and recommended practices — scikit-learn https://scikit-learn.org/stable/common_pitfalls.html
   - Оценка языковых моделей
-    - Перплексия — справочная страница о PPL как intrinsic-метрике, связи с cross-entropy и ограничениях сравнения моделей с разной токенизацией. https://systems-analysis.ru/wiki/%D0%9F%D0%B5%D1%80%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D1%8F
     - Perplexity of fixed-length models — практический расчёт PPL для causal LM через sliding window и объяснение влияния размера контекста, stride и токенизации. https://huggingface.co/docs/transformers/v4.44.2/en/perplexity
 - Глубокое обучение
   - Настройка и диагностика
     - Deep Learning Tuning Playbook — Google https://developers.google.com/machine-learning/guides/deep-learning-tuning-playbook
-- Обучение с подкреплением
-  - Реализации алгоритмов
-    - Reinforcement Learning Algorithms — учебные реализации алгоритмов с нуля в Jupyter-ноутбуках: от SARSA и Q-learning до REINFORCE и actor–critic, с пояснениями и примерами на Gymnasium. https://github.com/ChristianOrr/reinforcement-learning-algorithms
-    - RL From Scratch — 35 реализаций алгоритмов на чистых Python и NumPy без Gym и PyTorch: от многоруких бандитов и табличных методов до deep RL, непрерывного управления и imitation learning; для каждого алгоритма есть теория, псевдокод, оценка сложности и вопросы для интервью. https://github.com/rohanmistry231/RL-From-Scratch
 - Production ML и MLOps
   - Проектирование ML-систем
     - Rules of Machine Learning — Google https://developers.google.com/machine-learning/guides/rules-of-ml
+
+### Справочники
+
+- Системный анализ
+  - Systems-analysis.ru — справочно-информационный портал по системному анализу, исследованию операций, моделированию, теории принятия решений и системному подходу, включающий тематическую wiki и каталог материалов. https://systems-analysis.ru/
 
 ### Книги
 
@@ -129,6 +136,7 @@
     - A Recipe for Training Neural Networks — Andrej Karpathy https://karpathy.github.io/2019/04/25/recipe/
   - Perplexity
     - Перплексия в языковых моделях — русскоязычный разбор вероятности последовательности, нормализации по длине, cross-entropy и интуиции «удивления» модели. https://habr.com/ru/companies/wunderfund/articles/580230/
+    - Перплексия — русскоязычная справочная статья о PPL как intrinsic-метрике, связи с cross-entropy и ограничениях сравнения моделей с разной токенизацией. https://systems-analysis.ru/wiki/%D0%9F%D0%B5%D1%80%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D1%8F
     - Evaluation Metrics for Language Modeling — объяснение perplexity через вероятность, entropy, cross-entropy, bits per character и влияние токенизации. https://thegradient.pub/understanding-evaluation-metrics-for-language-models/
     - The Intuition and Derivation of Perplexity for LLM Evaluation — пошаговый математический вывод от вероятности следующего токена до средней cross-entropy и PPL. https://drazenzaric.com/blog/perplexity/
     - Understanding perplexity and its relation to cross-entropy and compression — интерпретация PPL через информационную теорию, эффективное число вариантов и сжимаемость текста. https://quentinduval.github.io/blog/2022/06/19/perplexity.html

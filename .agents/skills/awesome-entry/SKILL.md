@@ -43,7 +43,8 @@ The topic decides the target file. The source type helps choose the section and 
 Treat the section's source type as a hard constraint:
 
 - `Статьи` contains articles, blog posts, tutorials published as articles, and research papers.
-- `Мануалы и справочники` contains manuals, official documentation, API references, reference pages, and reference wikis — not articles or lectures.
+- `Мануалы` contains manuals, how-to guides, and official documentation intended for task-oriented reading.
+- `Справочники` contains links to standalone reference sites, portals, whole wikis, glossaries, and similar lookup resources. Individual articles or pages from those sites belong in `Статьи`.
 - `Курсы`, `Лекции`, `Книги`, `Репозитории`, and similar sections contain only the corresponding source type.
 - Do not place a source in a mismatched section merely because its topic is relevant. Use another existing section or topic file, or create a small correctly typed subsection when justified.
 
