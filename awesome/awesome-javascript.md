@@ -278,6 +278,9 @@
   - Подборки
     - 23 полезнейших Node.js-библиотеки, о которых стоит знать в 2020 году — обзорный список пакетов для Node.js: Express, Socket.io, Passport, Multer, Axios, Morgan, Sequelize, Mongoose, Jest, Chalk, Helmet и другие. https://habr.com/ru/companies/ruvds/articles/516298/
     - 16 NPM-пакетов, о которых должен знать каждый Node.js-разработчик — обзор базовых пакетов для Node.js-разработки: Express, Axios, Mongoose, Prisma, Socket.IO, Vite, Jest и современные альтернативы вроде Fastify, Fetch API и Vitest. https://habr.com/ru/companies/otus/articles/893908/
+  - Почта
+    - Руководство для начинающих по отправке email с помощью Node.js — настройка Nodemailer через SMTP и Gmail OAuth2, переменные окружения и рекомендации для production. https://blog.openreplay.com/ru/%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-emails-nodejs/
+    - Делаем фронтенд-сборку для вёрстки HTML-писем на MJML — сборка шаблонов и их тестовая отправка через Nodemailer и SMTP в разные почтовые клиенты. https://habr.com/ru/articles/937538/
   - Остальное
     - Understanding memory leaks in Node.js apps https://blog.logrocket.com/understanding-memory-leaks-node-js-apps/
     - Memory Leaks Demystified https://nodesource.com/blog/memory-leaks-demystified
@@ -288,6 +291,7 @@
 - Express; expressjs
   - Пример проекта
     - How to set up TypeScript with Node.js and Express https://blog.logrocket.com/express-typescript-node/
+    - Создание интернет-магазина на Node.js с нуля. Часть 2: Бэкенд — туториал по REST API интернет-магазина на Express, MongoDB и Mongoose: модели данных, CRUD-контроллеры, маршруты и обработка заказов. https://timeweb.cloud/tutorials/nodejs/sozdanie-internet-magazina-na-node-js-s-nulya-chast-2-backend
   - Структура проекта
     - Project Structure Best Practices — практический гайд по структуре Express-приложения: разделение на routes/controllers/services/repositories, отдельные `app.js` и `server.js`, централизованный config и mounting routers через агрегатор маршрутов. https://www.devcraftly.com/express/best-practices-project-structure/
   - Обработка ошибок
