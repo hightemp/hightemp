@@ -636,6 +636,8 @@ vendor/bin/phpqt-install
   - pthreads
     - How to use Multithreading in php https://medium.com/@codingpanel/how-to-use-multithreading-in-php-55b4e3ad69ee
     - PHP and Threads: Multithreading and Parallel Execution in PHP https://reintech.io/blog/php-and-threads-multithreading-and-parallel-execution
+  - Swoole
+    - PHP на стероидах: Swoole in production https://habr.com/ru/articles/647077/
   - System V
     - Parallelism in PHP — fork & system V message queues https://medium.com/@mikhail.chuloshnikov/parallelism-in-php-fork-system-v-message-queues-cf410a7f6a20
   - Остальное
