@@ -278,6 +278,8 @@
   - Подборки
     - 23 полезнейших Node.js-библиотеки, о которых стоит знать в 2020 году — обзорный список пакетов для Node.js: Express, Socket.io, Passport, Multer, Axios, Morgan, Sequelize, Mongoose, Jest, Chalk, Helmet и другие. https://habr.com/ru/companies/ruvds/articles/516298/
     - 16 NPM-пакетов, о которых должен знать каждый Node.js-разработчик — обзор базовых пакетов для Node.js-разработки: Express, Axios, Mongoose, Prisma, Socket.IO, Vite, Jest и современные альтернативы вроде Fastify, Fetch API и Vitest. https://habr.com/ru/companies/otus/articles/893908/
+  - Безопасность
+    - 23 рекомендации по защите Node.js-приложений — линтинг безопасности, rate limiting, хранение секретов, защита от инъекций и ReDoS, HTTP-заголовки, аудит зависимостей, обработка ошибок и дочерних процессов; материал 2018 года, поэтому конкретные пакеты и практики нужно сверять с актуальными рекомендациями. https://habr.com/ru/companies/ruvds/articles/419719/
   - Почта
     - Руководство для начинающих по отправке email с помощью Node.js — настройка Nodemailer через SMTP и Gmail OAuth2, переменные окружения и рекомендации для production. https://blog.openreplay.com/ru/%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-emails-nodejs/
     - Делаем фронтенд-сборку для вёрстки HTML-писем на MJML — сборка шаблонов и их тестовая отправка через Nodemailer и SMTP в разные почтовые клиенты. https://habr.com/ru/articles/937538/
