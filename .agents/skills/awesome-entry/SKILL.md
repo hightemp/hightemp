@@ -38,6 +38,12 @@ Then classify it again by topic:
 
 The topic decides the target file. The source type helps choose the section and wording.
 
+## Primary Topic Rule
+
+- Classify a source by the primary subject of the complete page, not by an incidental mention, dependency, example, or single subsection.
+- A source belongs in a narrow topic category only when that topic is central to its title, introduction, and overall coverage. Otherwise place it under its actual primary topic or omit it from the requested topic set.
+- Write the description around the source's primary subject. Do not reframe a secondary fragment as if it were the purpose of the whole source.
+
 ## Placement Rule
 
 Prefer this order when choosing where to place an entry:
