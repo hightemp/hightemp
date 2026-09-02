@@ -244,6 +244,8 @@
     - **Ядро и Разработка (Kernel and Development)**
         - Общее (General)
             - The Linux Kernel Module Programming Guide https://tldp.org/LDP/lkmpg/2.6/html/index.html
+        - Планировщик CPU (CPU Scheduler)
+            - Cache Aware Scheduling — анонс v3 серии из 21 патча для cache-aware балансировки нагрузки в планировщике Linux: потоки одного процесса группируются в общем LLC-домене для снижения cache bouncing и cache misses; приведены результаты тестов на Intel Sapphire Rapids и AMD Genoa. https://lwn.net/Articles/1058288/
         - Livepatching
             - Livepatch — официальная документация ядра Linux о runtime-патчинге функций без reboot; объясняет связку `dynamic ftrace`/kprobes, consistency model, lifecycle livepatch-модуля, sysfs и ограничения. https://docs.kernel.org/livepatch/livepatch.html
         - Сборка ядра (Kernel Build)
