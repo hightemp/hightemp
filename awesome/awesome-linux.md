@@ -167,6 +167,8 @@
 
 - Linux
     - Что нового
+        - 7.2
+            - Релиз Linux 7.2 https://habr.com/ru/news/1068558/
         - 6.13
             - Релиз Linux 6.13 https://habr.com/ru/news/874842/
         - 6.4
