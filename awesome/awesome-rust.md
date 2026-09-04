@@ -729,6 +729,7 @@
   - Управление памятью
     - 🚀 Visualizing memory management in Rust https://deepu.tech/memory-management-in-rust/
     - Как работает управление памятью в Rust без сборщика мусора https://habr.com/ru/companies/otus/articles/787362/
+    - Работа с кучей в Rust — практическое введение в raw pointers, `alloc`/`dealloc`, `Layout`, `size_of`/`align_of`, типы Sized/ZST/DST и чтение/запись значений через указатели. https://habr.com/ru/articles/573422/
   - cargo
     - Как работает Cargo https://habr.com/ru/companies/otus/articles/902584/
   - enum, Перечисления
