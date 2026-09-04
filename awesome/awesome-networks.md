@@ -3,6 +3,14 @@
 
 - https://github.com/anderspitman/awesome-tunneling
 
+### Сетевые лаборатории
+
+- GNS3 — бесплатная open-source платформа для эмуляции и симуляции сетей: строит локальные, серверные и облачные топологии из реальных образов сетевых ОС, виртуальных устройств, Linux-машин и Docker-контейнеров и может подключать их к физической сети. https://www.gns3.com/
+- EVE-NG — multivendor-платформа для сетевых, security- и DevOps-лабораторий с HTML5-интерфейсом, KVM-ускорением, Docker-контейнерами и подключением виртуальной топологии к реальной сети; доступна в Community и Professional редакциях. https://www.eve-ng.net/
+- Containerlab — CLI для описываемых кодом сетевых лабораторий: разворачивает из topology-файла контейнерные сетевые ОС, Linux-контейнеры и поддерживаемые виртуальные роутеры, соединяет узлы и подходит для тестирования сетей и CI. https://containerlab.dev/
+- Cisco Modeling Labs — локальная платформа Cisco для моделирования сетей на реальных образах Cisco и сторонних виртуальных устройствах; поддерживает KVM-машины, Docker-контейнеры, API и автоматизацию через pyATS, Ansible и Terraform. https://developer.cisco.com/modeling-labs/
+- Cisco Packet Tracer — учебный симулятор Cisco для построения сетевых топологий и отработки базовой настройки; реализует только часть функций и команд реальных устройств. https://www.netacad.com/cisco-packet-tracer
+
 ### Виртуальные роутеры
 
 - Cisco ASAv https://software.cisco.com/download/home/286119613/type/280775065/release/9.18.4%20Interim
