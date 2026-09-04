@@ -5,6 +5,11 @@
 - https://github.com/docker/awesome-compose
 - https://gitpiper.com/resources/docker/awesomelists/n1trux-awesome-sysadmin
 
+### Интерактивные лаборатории
+
+- KodeKloud Docker Labs — набор интерактивных браузерных лабораторий с терминалом и автоматической проверкой заданий по Docker CLI, запуску контейнеров, образам и Dockerfile, networking, storage, Docker Compose и registry. https://kodekloud.com/studio/labs/docker
+- Play with Docker — официальная браузерная среда Docker для самостоятельных практических уроков и прохождения workshop без локальной установки. https://www.docker.com/play-with-docker/
+
 ### Репозитории
 
 - Сканеры безопасности, security scanners
@@ -35,6 +40,7 @@
 ### Гайды
 
 - Docker, FROM scratch https://docker-from-scratch.ivonet.nl/
+- Docker Workshop — практический модульный воркшоп по Docker: основы контейнеризации, разработка, тестирование, сборка и защита приложения, а также Docker Agent, Model Runner, MCP, sandboxing и Kubernetes. https://www.dockerworkshop.com/
 
 ### Книги
 
