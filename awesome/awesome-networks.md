@@ -161,6 +161,10 @@ Norton
 198.153.194.1
 ```
 
+### Списки публичных прокси
+
+- Proxy Pulse — автоматически обновляемые списки проверенных публичных HTTP, HTTPS (CONNECT), SOCKS4 и SOCKS5-прокси с данными о стране, ASN, задержке и доступности; результаты публикуются также в машиночитаемом JSON. https://github.com/BlacKSnowDot0/Proxy-Pulse
+
 ### Прокси-сервисы
 
 - Bestproxy — residential proxy service с dedicated one-IP-per-account подходом и fingerprint isolation для снижения риска связки аккаунтов по сетевому окружению. https://bestproxy.com/
