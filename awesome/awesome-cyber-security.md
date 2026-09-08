@@ -31,6 +31,10 @@
 - A.S.E — repository-level бенчмарк Tencent для оценки безопасности кода, создаваемого моделями и coding-агентами, на сценариях из реальных проектов и CVE-патчей; охватывает 29 типов CWE и сочетает функциональные тесты, статический анализ и динамическую проверку PoC. https://github.com/Tencent/AICGSecEval
 - SecCodeBench — бенчмарк для современных agentic coding tools с 98 проверенными экспертами задачами на Java, C/C++, Python, Go и Node.js по 22 типам CWE; оценивает генерацию и исправление кода, сначала проверяя функциональность, а затем безопасность динамическими PoC и специализированным judge. https://github.com/alibaba/sec-code-bench
 
+### AI API для кибербезопасности
+
+- Abliteration AI — hosted OpenAI- и Anthropic-совместимый API к abliterated-моделям без стандартных safety/refusal-ограничений, позиционируемый для red-team и security research; использовать только для авторизованных проверок. Сервис: https://abliteration.ai/ API: https://api.abliteration.ai/v1 Документация: https://abliteration.ai/docs Цены: https://abliteration.ai/pricing
+
 ### AI Инструменты для пентестинга
 
 - Cybersecurity AI (CAI) - легковесная, эргономичная open-source платформа для создания искусственных интеллектов, ориентированных на поиск уязвимостей в области кибербезопасности, с интегрированными инструментами, логированием и поддержкой нескольких языковых моделей различных поставщиков. https://github.com/aliasrobotics/cai
