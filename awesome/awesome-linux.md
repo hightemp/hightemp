@@ -106,6 +106,7 @@
 
 ### Мануалы
 
+- XDG user directories (Русский) — установка и настройка стандартных пользовательских каталогов через `xdg-user-dirs`, `user-dirs.dirs` и `xdg-user-dirs-update`. https://wiki.archlinux.org/title/XDG_user_directories_(Русский)
 - https://www.kernel.org/doc/man-pages/
 - https://linux.die.net/man/
 - https://man.cx/
@@ -259,6 +260,7 @@
         - Общее (General)
             - Files and Filesystems https://adamdjellouli.com/articles/linux_notes/file_system
             - FHS (Filesystem Hierarchy Standard); стандарт иерархии файловой системы https://ru.wikipedia.org/wiki/FHS
+            - Безумие дотфайлов — перевод статьи о размещении пользовательских конфигураций, данных, кэша и runtime-файлов по спецификации XDG Base Directory вместо корня `$HOME`. https://habr.com/ru/articles/440620/
         - zfs
             - Что такое ZFS? И почему люди от неё без ума? https://habr.com/ru/articles/424651/
             - Основы ZFS: система хранения и производительность https://habr.com/ru/articles/504692/
