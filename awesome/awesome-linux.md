@@ -248,6 +248,9 @@
         - Планировщик CPU (CPU Scheduler)
             - Cache Aware Scheduling — анонс v3 серии из 21 патча для cache-aware балансировки нагрузки в планировщике Linux: потоки одного процесса группируются в общем LLC-домене для снижения cache bouncing и cache misses; приведены результаты тестов на Intel Sapphire Rapids и AMD Genoa. https://lwn.net/Articles/1058288/
             - Characterization of Cache Aware Scheduling on Linux — исследование EEVDF и eBPF-планировщика SCX_LAVD на двухсокетном Intel Sapphire Rapids с `perf`/PMU, SPEC CPU2017 и DCPerf; показывает влияние межсокетного размещения потоков, L3 RFO misses и миграций на производительность workloads с общими данными. https://screamingpigeon.net/projects/cas/
+            - Cache awareness for the CPU scheduler — технический разбор LWN о группировке потоков общего процесса в одном LLC-домене, конфликте cache locality с load balancing и ранних ограничениях patch series. https://lwn.net/Articles/1018334/
+            - Cache-Aware Scheduling Lands in Linux 7.2 — объяснение `CONFIG_SCHED_CACHE`, границ LLC и ранних результатов для PostgreSQL, Valkey и MySQL на современных многочиплетных CPU. https://blog.zxce3.net/posts/cache-aware-scheduling-lands-in-linux-7-2/
+            - Cache Aware Scheduling Merged For Linux 7.2 — новость о включении CAS в Linux 7.2, его целях по снижению cache misses/bouncing и тестах на AMD EPYC и Intel Xeon. https://www.phoronix.com/news/Linux-7.2-Scheduler
         - Livepatching
             - Livepatch — официальная документация ядра Linux о runtime-патчинге функций без reboot; объясняет связку `dynamic ftrace`/kprobes, consistency model, lifecycle livepatch-модуля, sysfs и ограничения. https://docs.kernel.org/livepatch/livepatch.html
         - Сборка ядра (Kernel Build)
