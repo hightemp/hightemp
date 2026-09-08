@@ -2,6 +2,11 @@
 - Andrej Karpathy
     - Let's build the GPT Tokenizer
         - https://www.youtube.com/watch?v=zduSFxRajkE
+- Jeff Dean (ex-Google, Chief Scientist)
+    - AI Engineering: LLM → промпты → агентные команды → графы (1 час). LLM с нуля → как использовать AI-модели → промпт-инжиниринг → один человек координирует 100 агентов
+        - Таймкоды: 1:45 LLM from scratch · 17:22 как использовать AI-модели · 30:03 промпт-инжиниринг · 52:35 один человек — 100 агентов
+        - English: https://www.youtube.com/watch?v=WyLWoTmf9dw
+        - Русский дубляж: https://www.youtube.com/watch?v=pcaLOdv78ZE
 - Центр Архэ
     - Алексей Водовозов: "Медицинские итоги 2023 года"
         - https://www.youtube.com/watch?v=F_L0jXAhjt4

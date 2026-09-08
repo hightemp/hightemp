@@ -7,6 +7,10 @@
 
 - Coding Interview University https://github.com/jwasham/coding-interview-university
 
+### Курсы
+
+- Algorithmica HPC — курс по high-performance computing и performance engineering (12 глав: архитектура CPU, компиляция, профилирование, иерархия памяти, CPU-кэши, SIMD, кейсы алгоритмов и структур данных). Особенно силён раздел про RAM & CPU Caches (latency, pointer chasing, prefetching). Автор — Сергей Слободянин. https://en.algorithmica.org/hpc/
+
 ### Книги
 
 - Учебник «Программирование: введение в профессию» ориентирован на самостоятельное изучение и предполагает использование систем семейства Unix (в т.ч. Linux) в роли сквозной среды для обучения. Андрей Викторович Столяров
