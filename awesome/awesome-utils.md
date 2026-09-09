@@ -49,6 +49,13 @@
   * Ubuntu: `sudo apt install ripgrep`
   * Brew: `brew install ripgrep` 
 
+* `tgrep`
+
+  * Репо: `https://github.com/microsoft/tgrep`
+  * Описание: триграммно-индексированный grep от Microsoft с клиент-серверной архитектурой для regex-поиска в огромных кодовых базах: один раз строит триграммный индекс, и каждый запрос трогает только потенциально подходящие файлы, вместо сканирования всего репо; на монорепо вроде gecko-dev/chromium до ~52x быстрее ripgrep; встроен в GitHub Copilot CLI. примеры использования: `tgrep index .` (построить индекс), `tgrep serve .` (запустить сервер, следит за изменениями), `tgrep "fn main" .` (мгновенный поиск).
+  * Ubuntu: сборка из исходников в корне репо: `cargo install --path tgrep-cli --locked`
+  * Brew: `brew install tgrep` 
+
 * `procs`
 
   * Репо: `https://github.com/dalance/procs`
