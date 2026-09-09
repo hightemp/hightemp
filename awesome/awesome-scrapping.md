@@ -2,11 +2,6 @@
 
 - Scraping APIs for Devs — коллекция из 2622 готовых API в 17 категориях для парсинга и сбора данных с сайтов, соцсетей, маркетплейсов и других источников без необходимости писать парсеры и поддерживать инфраструктуру. https://github.com/cporter202/scraping-apis-for-devs
 
-### Proxy
-
-- Остальное
-    - https://www.blackhatworld.com/
-
 ### GeoIP
 
 - https://lite.ip2location.com/ip2location-lite
@@ -41,6 +36,10 @@
 ### Сервисы для тренировки
 
 - https://toscrape.com
+
+### Proxy
+
+- Каталог прокси-сервисов: [awesome-proxy.md](awesome-proxy.md)
 
 ### Сервисы проксирующие запросы
 

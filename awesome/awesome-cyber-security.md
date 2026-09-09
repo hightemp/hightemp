@@ -169,6 +169,7 @@
 - Antichat – https://forum.antichat.com
 - ASCarding – https://ascarding.com
 - Black Hat Pro Tools – https://www.blackhatprotools.info
+- BlackHatWorld – https://www.blackhatworld.com/
 - BreachForums – https://breached.to
 - Carder Forum Online – https://carder-forum.online
 - Carding Forum – https://cardingforum.cx
