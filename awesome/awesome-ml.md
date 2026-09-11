@@ -68,6 +68,8 @@
     - MLOps Zoomcamp https://datatalks.club/docs/courses/mlops-zoomcamp/
     - MLOps Course — Made With ML https://madewithml.com/courses/mlops/ https://github.com/GokuMohandas/Made-With-ML
     - Stanford CS329S: Machine Learning Systems Design https://stanford-cs329s.github.io/
+- AI Engineering / Инженерия AI-систем
+  - AI Engineering from Scratch — курс из 523 структурированных уроков (20 фаз, ~342 часа), обучающий проектированию и созданию AI-систем с нуля: LLM, трансформеры, агенты, MCP, компьютерное зрение, обучение с подкреплением и др.; каждый урок завершается переиспользуемым артефактом (промпт, скилл, агент, MCP-сервер). Python, TypeScript, Rust, Julia. MIT. https://github.com/rohitg00/ai-engineering-from-scratch https://aiengineeringfromscratch.com
 
 ### Репозитории
 

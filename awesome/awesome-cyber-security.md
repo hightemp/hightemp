@@ -59,6 +59,7 @@
 - Sn1per — автоматизированный инструментарий для пентеста и управления поверхностью атаки (ASM), который выполняет OSINT/рекон и оркестрирует сторонние сканеры уязвимостей для непрерывного обнаружения активов и рисков. https://github.com/1N3/Sn1per https://sn1persecurity.com/wordpress/ https://sn1persecurity.com/wordpress/documentation/
 - Hetty — open-source HTTP toolkit для security research и bug bounty, альтернатива Burp Suite Pro: MITM HTTP-прокси, логи и поиск, ручное создание/редактирование/replay запросов, перехват запросов и ответов, scope и web-based admin interface. https://github.com/dstotijn/hetty
 - HackingTool — all-in-one Python-набор для security researchers и pentesters с меню установки/запуска 185+ инструментов по категориям: information gathering, wordlists, wireless, web testing, forensics, reverse engineering, Active Directory, cloud и mobile security; поддерживает поиск по инструментам, теги, рекомендации по задаче, batch install и локальную Docker-сборку. Использовать только для обучения, лабораторий и разрешённых проверок. https://github.com/Z4nzu/hackingtool
+- BugScanner — модульный высокопроизводительный сканер и фреймворк для разведки (recon) и автоматизированной оценки веб-уязвимостей для bug bounty и red team: глубокое обнаружение субдоменов, активное TCP-фингерпринтингирование, контекстно-зависимый движок проверки уязвимостей (SQLi, XSS, SSRF, CORS, IDOR, JWT, open redirect, business logic) с адаптивным rate limiting и обходом WAF. https://github.com/eldarshiraliyev/BugScanner
 
 ### Сетевая безопасность
 
@@ -93,6 +94,7 @@
 
 - HexStrike AI — продвинутый MCP‑фреймворк, позволяющий автономным AI‑агентам (Claude, GPT) управлять арсеналом из 150+ инструментов для пентестинга и автоматизировать задачи от разведки до поиска уязвимостей, что делает его мощным решением для специалистов по кибербезопасности, баг‑баунти и операций Red Team. https://github.com/0x4m4/hexstrike-ai
 - CVE-Search MCP Server — MCP‑сервер на Python для запросов к API CVE‑Search, позволяющий получать списки вендоров и продуктов, уязвимости по продукту или CVE‑ID, последние обновлённые CVE и сведения о состоянии/обновлении базы. https://github.com/roadwy/cve-search_mcp https://www.cve-search.org/api/
+- CVE MCP Server — production-grade MCP-сервер, превращающий Claude в full-spectrum security-аналитика: 28 инструментов через 24 API (CVE lookup, EPSS, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, GreyNoise и др.) плюс one-call оркестратор triage_cve, который параллельно опрашивает все источники, считает composite risk score (с жёстким override от CISA KEV) и выдаёт приоритизированную рекомендацию с доказательствами. https://github.com/mukul975/cve-mcp-server
 
 ### Системы автоматизированного тестирования
 
