@@ -45,6 +45,7 @@
 - Perplexity R1 latest system prompts https://www.reddit.com/r/ArtificialInteligence/comments/1innsw3/perplexity_r1_latest_system_prompts/
 - https://www.perplexity.ai/search/what-is-the-text-before-this-m-DcwBzzrwSgK7G02hXelGjQ
 - Утёкший системный промпт агента Codex на базе GPT-6 (GPT-6 Astra) от OpenAI — полный документ с базовой инструкцией модели, правилами автономии и запроса разрешений, настройками личности и стиля, шаблонами PR и внутренней логикой работы; отдельно лежит GPT-6-Astra_Tools.json с описанием инструментов. https://github.com/elder-plinius/CL4R1T4S/blob/main/OPENAI/Codex_Desktop/GPT-6_Astra_Prompts.md
+- Uncodixify (Uncodexify) — набор правил/системный промпт для генерации UI: блокирует типичные «GPT-UI»-паттерны (плавающие карточки, oversized corners, градиентные дашборды, glass-панели, декоративные лейблы) и заставляет модели делать более естественный «человеческий» интерфейс; есть и агентскилл (SKILL.md) для Codex и Claude Code. https://github.com/cyxzdev/Uncodixfy
 
 ### Статьи
 
