@@ -97,6 +97,7 @@
 - HexStrike AI — продвинутый MCP‑фреймворк, позволяющий автономным AI‑агентам (Claude, GPT) управлять арсеналом из 150+ инструментов для пентестинга и автоматизировать задачи от разведки до поиска уязвимостей, что делает его мощным решением для специалистов по кибербезопасности, баг‑баунти и операций Red Team. https://github.com/0x4m4/hexstrike-ai
 - CVE-Search MCP Server — MCP‑сервер на Python для запросов к API CVE‑Search, позволяющий получать списки вендоров и продуктов, уязвимости по продукту или CVE‑ID, последние обновлённые CVE и сведения о состоянии/обновлении базы. https://github.com/roadwy/cve-search_mcp https://www.cve-search.org/api/
 - CVE MCP Server — production-grade MCP-сервер, превращающий Claude в full-spectrum security-аналитика: 28 инструментов через 24 API (CVE lookup, EPSS, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, GreyNoise и др.) плюс one-call оркестратор triage_cve, который параллельно опрашивает все источники, считает composite risk score (с жёстким override от CISA KEV) и выдаёт приоритизированную рекомендацию с доказательствами. https://github.com/mukul975/cve-mcp-server
+- Darknet MCP Server — MCP-сервер из 66 инструментов и 16 источников для dark web & threat intelligence: breach-данные и утечки, отслеживание ransomware-групп, доступ к .onion (Tor), malware-анализ, exploit-поиск, blockchain-intel и поиск по stealer-logs. https://github.com/badchars/darknet-mcp-server
 
 ### Системы автоматизированного тестирования
 
