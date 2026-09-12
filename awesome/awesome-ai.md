@@ -1077,6 +1077,7 @@ https://arxiv.org/pdf/2411.08804v1
 
 - MiDashengLM-7B — аудиомодель от Xiaomi, способная анализировать речь, звуки и музыку, устанавливающая рекорды на 22 публичных бенчмарках, обученная на 100% открытых данных и доступная под лицензией Apache 2.0. https://mp.weixin.qq.com/s/at9Qo1b5kef6RK0yTEZ-nA https://github.com/xiaomi-research/dasheng-lm https://huggingface.co/mispeech/midashenglm-7b
 - SAM-Audio — расширение Meta SAM для аудиомодальности, которое по текстовым и/или визуальным промптам (выделение объекта на видео и временной спан) отделяет целевой звук от аудиомикса и генерирует целевой и остаточный треки, работая быстрее реального времени и доступно в виде кода и весов под CC-BY-NC 4.0. https://ai.meta.com/blog/sam-audio/ https://ai.meta.com/samaudio/ https://github.com/facebookresearch/sam-audio
+- Moshi — speech-text foundation модель и фреймворк полно-дуплексного голосового диалога от Kyutai Labs (можно говорить и слушать одновременно без пауз), использует Mimi — SOTA стриминговый нейро-аудио-кодек. https://github.com/kyutai-labs/moshi
 
 ### Модели генератора речи
 
