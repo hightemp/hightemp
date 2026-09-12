@@ -53,6 +53,7 @@
 - Shannon Pro — коммерческая платформа AppSec «всё‑в‑одном» от Keygraph, объединяющая агентный SAST/SCA/поиск секретов и тестирование бизнес‑логики с автономным динамическим пентестом и корреляцией статических находок с подтверждёнными PoC‑эксплойтами. https://github.com/KeygraphHQ/shannon/blob/main/SHANNON-PRO.md https://keygraph.io/
 - METATRON — локальный AI-агент для пентестинга на Linux без API-ключей: принимает целевой IP или домен, запускает инструменты разведки вроде nmap, whois, whatweb, curl, dig и nikto, помогает находить уязвимости, эксплойты и рекомендации по исправлению. https://github.com/sooryathejas/METATRON
 - CyberStrike — open-source AI-powered offensive-security harness для автоматизированного пентестинга из терминала: превращает вашу подписку на Claude, GPT или любой другой LLM (150+ провайдеров) в автономного red-team оператора с 13+ специализированными агентами, 7600+ security-скиллами, 120+ OWASP-тест-кейсами и поддержкой Bolt remote tool servers. Использовать только для CTF, лабораторий и разрешённых проверок. https://github.com/CyberStrikeus/CyberStrike
+- HackerAI — open-source AI-агент, который превращает пентест в обычный разговор: обнаруживает, эксплуатирует и автоматически исправляет уязвимости через полностью агентную (agentic) систему, с изолированной средой выполнения (E2B sandbox) для безопасного запуска кода; backend на Convex, аутентификация через WorkOS. Self-hosted. Использовать только против систем, на которые есть разрешение. https://github.com/hackerai-tech/hackerai
 
 ### Пентестинг
 
