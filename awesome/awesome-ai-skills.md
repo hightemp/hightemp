@@ -56,6 +56,13 @@
 - UI/UX
     - UI UX Pro Max https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
     - imagegen-frontend-web — скилл для генерации отдельных горизонтальных image references для секций лендингов и маркетинговых сайтов: задаёт Awwwards-level арт-дирекшен, композиционное разнообразие, единый visual system, full-bleed/background-image подходы и правило «одна секция — одно изображение». https://github.com/Leonxlnx/taste-skill/blob/main/skills/imagegen-frontend-web/SKILL.md
+    - Emil Kowalski Skills — дизайн-скиллы для дизайнеров и инженеров от Emil Kowalski (веб-дизайн, UI, типографика) для Claude Code и других agentic тулов; призваны увести модель от «одноликого» AI-дизайна. https://github.com/emilkowalski/skills
+    - garden-skills — коллекция open-source скиллов ConardLi: веб-дизайн, извлечение знаний, генерация изображений и др. https://github.com/ConardLi/garden-skills
+    - landing-page-design — скилл для дизайна лендингов (из набора ai-design-skills elayadesign). https://github.com/elayadesign/ai-design-skills
+    - Meng To Skills — агентные скиллы для дизайнеров и разработчиков (Meng To, автор Design+Code): работают с Codex, Claude, Cursor и другими AI coding агентами. https://github.com/MengTo/Skills
+    - Jakub Krehel Skills — коллекция агент-скиллов для создания качественных интерфейсов (layout, типографика, дизайн-системы). https://github.com/jakubkrehel/skills
+    - tastemaker — Claude Code skill, который «заземляет» AI-генерируемый UI на реальных референс-изображениях и персональном per-developer профиле вкуса вместо generic AI-паттернов. https://github.com/codeswithroh/tastemaker
+    - designer-skills — коллекция дизайн-скиллов Owl-Listener: агентные скиллы, команды и плагины для дизайна — от исследования до систем, UI, интеракции и доставки. https://github.com/Owl-Listener/designer-skills
 - PHP
     - Архитектура
         - PHP SOLID Architecture Guide https://mcpmarket.com/tools/skills/php-solid-architecture-guide
