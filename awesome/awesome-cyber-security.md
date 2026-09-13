@@ -8,6 +8,7 @@
 - Hacking-Tools — каталог на GitHub с большой библиотекой инструментов кибербезопасности, сгруппированных по категориям (OSINT, сканирование уязвимостей, пентест, анализ сетей и трафика, форензика, стресс‑тесты, подбор паролей, анализ веба, реверс‑инжиниринг и социальная инженерия). https://github.com/yogsec/Hacking-Tools
 - Awesome AI Security Benchmarks — развивающийся каталог бенчмарков безопасности AI с разбивкой по годам, типам и задачам: CTF, пентест, поиск и исправление уязвимостей, CTI/SOC, prompt injection и безопасность агентов; для многих позиций приведены статьи, датасеты, сайты и репозитории. https://github.com/EvanThomasLuke/Awesome-AI-Security-Benchmarks
 - PentestTools — подборка инструментов для пентеста: сканеры уязвимостей, эксплойтация, command injection и другие категории. https://github.com/arch3rPro/PentestTools
+- Awesome-Pentest — подборка ресурсов по пентесту и тестированию на проникновение. https://github.com/Muhammd/Awesome-Pentest
 
 ### Модели для кибербезопасности
 
