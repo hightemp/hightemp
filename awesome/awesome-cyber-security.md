@@ -56,6 +56,9 @@
 - METATRON — локальный AI-агент для пентестинга на Linux без API-ключей: принимает целевой IP или домен, запускает инструменты разведки вроде nmap, whois, whatweb, curl, dig и nikto, помогает находить уязвимости, эксплойты и рекомендации по исправлению. https://github.com/sooryathejas/METATRON
 - CyberStrike — open-source AI-powered offensive-security harness для автоматизированного пентестинга из терминала: превращает вашу подписку на Claude, GPT или любой другой LLM (150+ провайдеров) в автономного red-team оператора с 13+ специализированными агентами, 7600+ security-скиллами, 120+ OWASP-тест-кейсами и поддержкой Bolt remote tool servers. Использовать только для CTF, лабораторий и разрешённых проверок. https://github.com/CyberStrikeus/CyberStrike
 - HackerAI — open-source AI-агент, который превращает пентест в обычный разговор: обнаруживает, эксплуатирует и автоматически исправляет уязвимости через полностью агентную (agentic) систему, с изолированной средой выполнения (E2B sandbox) для безопасного запуска кода; backend на Convex, аутентификация через WorkOS. Self-hosted. Использовать только против систем, на которые есть разрешение. https://github.com/hackerai-tech/hackerai
+
+### Скилы
+
 - claude-red — курируемая библиотека из 78 offensive‑security скиллов (SKILL.md) для системы навыков Claude: от SQL‑инъекций и shellcode до EDR‑evasion и разработки эксплойтов; превращает Claude в контекстно‑зависимого red‑team оператора. Использовать только для авторизованных red team, bug bounty, CTF и исследовательских проверок. https://github.com/SnailSploit/claude-red
 
 ### Пентестинг
