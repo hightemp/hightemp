@@ -2,6 +2,7 @@
 
 - https://github.com/viatsko/awesome-vscode
 - https://github.com/jonathandion/awesome-emails
+- Educational Channels — каталог 70 000 образовательных YouTube-каналов по категориям (языки, DIY, ремонт, программирование, психология, бизнес, микроконтроллеры и др.); внутри категорий — подборки каналов, видео и плейлистов, включая сотни роликов на русском. https://educational-channels.com/ru
 
 ### PDF
 
