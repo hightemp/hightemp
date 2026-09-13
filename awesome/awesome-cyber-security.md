@@ -7,6 +7,7 @@
 - Awesome Cybersecurity List — персональная подборка cybersecurity blog posts, write-ups и papers, разложенная по годам с 2011 по 2026 и отдельными разделами Misc/Other Lists; полезна для чтения разборов уязвимостей, exploit chains, reverse engineering, malware, kernel/browser/mobile/security research. https://github.com/0xor0ne/awesome-list
 - Hacking-Tools — каталог на GitHub с большой библиотекой инструментов кибербезопасности, сгруппированных по категориям (OSINT, сканирование уязвимостей, пентест, анализ сетей и трафика, форензика, стресс‑тесты, подбор паролей, анализ веба, реверс‑инжиниринг и социальная инженерия). https://github.com/yogsec/Hacking-Tools
 - Awesome AI Security Benchmarks — развивающийся каталог бенчмарков безопасности AI с разбивкой по годам, типам и задачам: CTF, пентест, поиск и исправление уязвимостей, CTI/SOC, prompt injection и безопасность агентов; для многих позиций приведены статьи, датасеты, сайты и репозитории. https://github.com/EvanThomasLuke/Awesome-AI-Security-Benchmarks
+- PentestTools — подборка инструментов для пентеста: сканеры уязвимостей, эксплойтация, command injection и другие категории. https://github.com/arch3rPro/PentestTools
 
 ### Модели для кибербезопасности
 
