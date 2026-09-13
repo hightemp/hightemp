@@ -156,6 +156,7 @@
 ### Обучающие материалы
 
 - PwnPad — открытая аппаратная учебная платформа для изучения hardware hacking и безопасности встроенных систем через набор практических челленджей (UART/I2C/SPI, дамп прошивок, fault injection, side-channel) с переключением заданий джамперами и документацией по сборке и прохождению. https://github.com/twelvesec/PwnPad https://github.com/twelvesec/PwnPadWiki/wiki https://www.youtube.com/watch?v=uaiB-Esttt4
+- TryHackMe-Roadmap — коллекция 500+ бесплатных комнат TryHackMe, организованных по темам (Linux, сети, веб‑пентест, Active Directory, reverse engineering, malware, CTF), подойдёт как роадмап для старта в кибербезопасности. https://github.com/Hunterdii/TryHackMe-Roadmap
 
 ### Курсы
 
