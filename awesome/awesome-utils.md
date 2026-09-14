@@ -27,6 +27,13 @@
   * Brew: `brew install bat`
   * Примечание: в Ubuntu бинарник может называться `batcat`; если нужен именно `bat`, сделай `alias bat="batcat"` или симлинк.
 
+* `fzf`
+
+  * Репо: `https://github.com/junegunn/fzf`
+  * Описание: интерактивный нечёткий поиск в терминале по спискам строк; помогает быстро находить файлы, команды в истории, процессы и другие элементы, а также гибко интегрируется с shell-скриптами.
+  * Ubuntu: `sudo apt install fzf`
+  * Brew: `brew install fzf`
+
 * `eza`
 
   * Репо: `https://github.com/eza-community/eza`
@@ -48,6 +55,13 @@
   * Описание: очень быстрый поиск текста, который уважает `.gitignore`.
   * Ubuntu: `sudo apt install ripgrep`
   * Brew: `brew install ripgrep` 
+
+* `rga`
+
+  * Репо: `https://github.com/phiresky/ripgrep-all`
+  * Описание: расширение `ripgrep` для поиска по PDF, DOCX, EPUB, архивам и другим форматам с помощью адаптеров и внешних конвертеров.
+  * Ubuntu: `sudo apt install ripgrep pandoc poppler-utils ffmpeg && cargo install --locked ripgrep_all`
+  * Brew: `brew install rga && brew install pandoc poppler ffmpeg`
 
 * `tgrep`
 
