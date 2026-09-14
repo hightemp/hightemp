@@ -221,6 +221,8 @@
                 - OOM Killer (Убийца процессов при нехватке памяти)
             - Отладка и профилирование (Debugging and Profiling)
                 - Шпаргалка по поиску узких мест в Linux: топ утилит на все случаи жизни https://habr.com/ru/companies/ruvds/articles/1000218/
+        - Графика
+            - Графический стек Linux — обзор архитектуры открытого графического стека Linux: X11/Xorg, Cairo, Mesa/OpenGL, Gallium, DRM/KMS, DRI2 и Wayland; объясняет взаимодействие компонентов при 2D- и 3D-отрисовке. https://habr.com/ru/articles/148954/
         - Потоки
             - How Threads and Concurrency Work in Linux Systems https://dev.to/iaadidev/how-threads-and-concurrency-work-in-linux-systems-233c
             - Threads in Linux: A Comprehensive Guide https://www.gopakumar-rajappan.com/p/threads-in-linux-a-comprehensive
