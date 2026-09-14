@@ -176,6 +176,13 @@
     - Prometheus
         - Основное
             - Полное руководство по Prometheus в 2019 году https://habr.com/ru/companies/slurm/articles/455290/
+            - An introduction to Prometheus — a tool for collecting metrics and monitoring services https://eytanmanor.medium.com/an-introduction-to-prometheus-a-tool-for-collecting-metrics-and-monitoring-services-12fcc3bdb5d6
+            - Prometheus 101: Metrics, Monitoring, Practical Setup and More https://harsh05.medium.com/prometheus-101-metrics-monitoring-practical-setup-and-more-eaccf18bdf91
+            - Система мониторинга Prometheus https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/sistema-monitoringa-prometheus#1
+            - Человеческим языком про метрики 1: Потерянное введение https://habr.com/ru/companies/tochka/articles/683608/
+            - Человеческим языком про метрики 2: Prometheus https://habr.com/ru/companies/tochka/articles/685636/
+            - Человеческим языком про метрики 3: перцентили для чайников https://habr.com/ru/companies/tochka/articles/690814/
+        - TSDB
             - Writing a Time Series Database from Scratch — разбор устройства TSDB Prometheus: временные ряды, метки, особенности пакетной записи и чтения, а также проектирование хранилища для высокодинамичных сервисов и Kubernetes. https://web.archive.org/web/20210803115658/https://fabxc.org/tsdb/
             - Prometheus TSDB (Part 1): The Head Block — объясняет жизненный цикл данных в Head-блоке Prometheus: чанки, WAL, memory mapping, компакцию и восстановление состояния после перезапуска. https://ganeshvernekar.com/blog/prometheus-tsdb-the-head-block/
             - Prometheus TSDB (Part 2): WAL and Checkpoint — разбирает WAL и checkpoint в TSDB: типы записей, сегменты, усечение журнала, создание checkpoint и replay для восстановления данных; включает детали формата и контрольные суммы. https://ganeshvernekar.com/blog/prometheus-tsdb-wal-and-checkpoint/
@@ -184,12 +191,6 @@
             - Prometheus TSDB (Part 5): Queries — разбирает низкоуровневые запросы TSDB к persistent blocks и Head: `LabelNames`, `LabelValues` и `Select`, индексы postings и объединение результатов нескольких блоков; отдельно отличает их от PromQL. https://ganeshvernekar.com/blog/prometheus-tsdb-queries/
             - Prometheus TSDB (Part 6): Compaction and Retention — разбирает фоновое обслуживание блоков: компакцию и retention по времени и размеру, удаление устаревших блоков, экономию места и ускорение запросов. https://ganeshvernekar.com/blog/prometheus-tsdb-compaction-and-retention/
             - Prometheus TSDB (Part 7): Snapshot on Shutdown — разбирает snapshots данных в памяти при штатном завершении для ускорения перезапуска Prometheus за счёт пропуска WAL replay; описывает формат, восстановление состояния и ограничения. https://ganeshvernekar.com/blog/prometheus-tsdb-snapshot-on-shutdown/
-            - An introduction to Prometheus — a tool for collecting metrics and monitoring services https://eytanmanor.medium.com/an-introduction-to-prometheus-a-tool-for-collecting-metrics-and-monitoring-services-12fcc3bdb5d6
-            - Prometheus 101: Metrics, Monitoring, Practical Setup and More https://harsh05.medium.com/prometheus-101-metrics-monitoring-practical-setup-and-more-eaccf18bdf91
-            - Система мониторинга Prometheus https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/sistema-monitoringa-prometheus#1
-            - Человеческим языком про метрики 1: Потерянное введение https://habr.com/ru/companies/tochka/articles/683608/
-            - Человеческим языком про метрики 2: Prometheus https://habr.com/ru/companies/tochka/articles/685636/
-            - Человеческим языком про метрики 3: перцентили для чайников https://habr.com/ru/companies/tochka/articles/690814/
         - PromQL
             - Что такое PromQL и как с ним работать https://timeweb.com/ru/community/articles/chto-takoe-promql-i-kak-s-nim-rabotat
             - Basics and best practices for getting started with PromQL https://grafana.com/blog/2021/01/29/basics-and-best-practices-for-getting-started-with-promql/
