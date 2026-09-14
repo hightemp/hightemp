@@ -1,6 +1,7 @@
 
 ### Репозитории
 
+- OpenAI Codex CLI — open-source coding agent от OpenAI, который работает локально в терминале; также доступен через IDE и desktop app. https://github.com/openai/codex
 - Codex Security — официальный CLI и TypeScript SDK OpenAI для поиска, проверки и исправления уязвимостей в коде: сканирует репозитории и изменения, сохраняет историю находок и запускает проверки безопасности в CI. https://github.com/openai/codex-security
 - Every Code — community-driven fork OpenAI Codex CLI для терминала: добавляет Auto Drive, Auto Review, browser/CDP integration, multi-agent команды `/plan`, `/solve`, `/code`, темы, MCP, sandbox/approval modes и оркестрацию Claude Code, Gemini CLI, Qwen Code, Antigravity CLI и OpenAI-compatible провайдеров. https://github.com/just-every/code
 

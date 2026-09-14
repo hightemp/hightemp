@@ -334,6 +334,7 @@
 ### Работа с документами
 
 - NotebookLM - это инструмент на основе искусственного интеллекта, разработанный Google Labs3. Это персонализированный соавтор, который помогает генерировать идеи и работать с документами. https://notebooklm.google/
+- AnyDoc — быстрая Rust-библиотека Firecrawl, преобразующая Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV и PDF в единый GitHub-Flavored Markdown; имеет Node.js, Python и WebAssembly bindings и поставляется как Agent Skill для Codex, Claude Code, Cursor и OpenCode. https://github.com/firecrawl/anydoc
 
 ### Корпоративные ассистенты; База знаний
 
@@ -514,6 +515,7 @@
 ### Смарт-библиотеки
 
 - https://iki.ai/
+- Calibre 9.14 — открытый кроссплатформенный менеджер электронных книг: добавляет кнопку AI Generate для создания обложек в разных стилях и AI-бэкенды Anthropic и Grok, сохраняя управление библиотекой и форматами e-book. https://calibre-ebook.com/ https://calibre-ebook.com/whats-new
 
 ### CAD
 
@@ -545,7 +547,7 @@
 - https://leonardo.ai/
 - https://openart.ai/
 - https://www.freepik.com/pikaso/sketch
-- https://invoke-ai.github.io/InvokeAI/
+- InvokeAI 6.14.0 — open-source локальный движок генерации изображений и видео с workflow-редактором: релиз добавляет Wan 2.2, multi-GPU, Intel XPU, FP8 и поддержку новых image-моделей. https://invoke-ai.github.io/InvokeAI/ https://github.com/invoke-ai/InvokeAI/releases/tag/v6.14.0
 - https://aigreem.com/
 - https://deepai.org/
 - https://www.bluewillow.ai/
@@ -669,6 +671,7 @@
 - Real-Time Voice Cloning — open-source инструмент на Python для локального мгновенного клонирования голоса по нескольким секундам записи с последующей генерацией любой речи в реальном времени. https://github.com/CorentinJ/Real-Time-Voice-Cloning
 - Sonic 3 — генератор речи с продвинутым клонированием и глубокой кастомизацией голоса (паузы, произношение, скорость, тембр, акценты, 50+ эмоций), точным копированием по 3 секундам образца, поддержкой 42 языков и бонусом 30 000 кредитов при регистрации (≈30 минут генерации). https://cartesia.ai/sonic
 - Voicebox — локальный инструмент для клонирования и генерации речи по нескольким секундам аудио с поддержкой многоязычности, мультиголосовых диалогов и монтажа в DAW-таймлайне без облачных загрузок и подписок. https://github.com/jamiepine/voicebox
+- VoiceStudio — полностью локальная open-source альтернатива ElevenLabs для клонирования и дизайна голосов, дубляжа видео, диктовки, транскрибации и создания аудиокниг; заявлена поддержка 646 языков. https://github.com/debpalash/VoiceStudio
 
 ### Изменение голоса
 
@@ -676,6 +679,7 @@
 
 ### Генерация видео
 
+- CinePrompt — конструктор кинематографичных промптов для AI-видео: позволяет задавать сюжет, субъектов, камеру, свет, настроение и звук, сохранять персонажей, собирать многокадровые последовательности и генерировать видео через собственные API-ключи. https://cineprompt.io/
 - Elai — AI-сервис для создания видео-контента из текстового запроса. https://elai.io/
 - RunwayML — генератор и редактор видео по текстовому запросу с инструментами для работы с фоном, объектами, раскадровкой, субтитрами и транскрибацией. https://runwayml.com/
 - GEN-1 от Runway — система искусственного интеллекта для синтеза изображений и видео. https://research.runwayml.com/gen1
@@ -725,7 +729,7 @@
 - CAD — нейронка генерирует трехмерные модели САПР из текстовых запросов. Можно облегчить работу и не проектировать шестеренки, детали и запчасти вручную https://zoo.dev/text-to-cad
 - DeepMesh - новый подход, который оптимизирует генерацию 3D-сеток с помощью предварительного обучения, включающего новый алгоритм токенизации, а также улучшения в кураторстве и обработке данных, а также путем внедрения обучения с подкреплением (RL) для достижения выравнивания сеток. https://zhaorw02.github.io/DeepMesh/
 - Hi3DGen - генератор 3D-геометрии на основе карт нормалей для автоматического создания объектов в трёхмерном пространстве. https://stable-x.github.io/Hi3DGen/
-- универсальный инструмент Hyper 3D для 3D- и моушен-дизайна, позволяющий генерировать и редактировать части 3D‑моделей, сохранять их как макросы, апскейлить фото, конвертировать 2D в 3D, создавать аватары и синхронизироваться с Blender и Unreal Engine для быстрой сборки синематиков. https://hyper3d.ai/
+- Hyper3D Rodin — AI-сервис для генерации 3D-ассетов из текста или изображения: поддерживает image-to-3D, text-to-3D, редактирование, API и экспорт в форматы для игр, AR/VR, 3D-печати и e-commerce. https://hyper3d.ai/
 - Marble — генератор ультрареалистичных 3D‑миров от World Labs, создающий локации из изображения, видео, текстового запроса или 3D‑макета с возможностью редактировать, расширять, объединять и экспортировать миры; при регистрации дают 7000 кредитов (≈4 мира). https://marble.worldlabs.ai/
 - Hunyuan3D-2-WinPortable — портативная сборка Hunyuan3D для локального запуска на Windows 10/11 в один клик с веб-интерфейсом Gradio, генерирующая 3D‑модели с текстурами и мешами из изображения или текстового запроса. https://github.com/YanWenKun/Hunyuan3D-2-WinPortable
 - TRELLIS 2 — open-source модель Microsoft на 4 млрд параметров для генерации полностью текстурированных 3D‑объектов из одного изображения с поддержкой PBR‑материалов и технологией O‑Voxel для корректной обработки открытых поверхностей и внутренних структур. https://github.com/microsoft/TRELLIS.2 https://huggingface.co/spaces/microsoft/TRELLIS.2
@@ -1130,6 +1134,7 @@ https://arxiv.org/pdf/2411.08804v1
 ### Векторные базы данных
 
 - Маленькая, портативная векторная база данных, созданная на SQLite. Подходит для RAG решений. https://github.com/asg017/sqlite-vec
+- Turbovec — Rust-векторный индекс с Python bindings на основе алгоритма Google TurboQuant: сжимает высокоразмерные embedding-индексы, поддерживает поиск, сохранение и загрузку, а также интеграции с LangChain, LlamaIndex, Haystack и Agno. https://github.com/RyanCodrai/turbovec
 
 ### Полезные chrome ai-расширения
 
@@ -1149,7 +1154,6 @@ https://arxiv.org/pdf/2411.08804v1
 ### Агенты; Agents
 
 - Агентные системы
-    - OpenClaw — personal AI assistant, который запускается на своих устройствах (local-first) и отвечает в привычных каналах (Telegram/WhatsApp/Slack/Discord/Signal/iMessage и др.); включает Gateway-демон + CLI, навыки/инструменты и Canvas. https://github.com/openclaw/openclaw
     - Manus (https://manus.im/app) — универсальный агент, которому под силу разные задачи: от планирования до анализа. Дают 300 кредитов в день.
     - Proxy.convergence.ai - бесплатный веб-агент и автоматизированная система для выполнения задач в интернете, отличающийся возможностью самостоятельного прохождения капчи, автоматического взаимодействия с пользовательскими интерфейсами и высокой скоростью работы по сравнению с аналогичными решениями, такими как ChatGPT Operator и DeepResearch. https://proxy.convergence.ai/
     - Parallel AI — инструмент для глубоких исследований, способный анализировать 10 тысяч веб-страниц за 15 минут и выдавать результаты в виде комплексной таблицы с возможностью интеграции через API. https://parallel.ai/
@@ -1248,6 +1252,7 @@ https://arxiv.org/pdf/2411.08804v1
 ### RAG
 
 - RAG-Anything — all-in-one фреймворк Retrieval-Augmented Generation для мультимодальной обработки и поиска по документам (текст, изображения, таблицы, формулы) в едином пайплайне, построенный на LightRAG и поддерживающий высокоточное парсинг-извлечение через MinerU. https://github.com/HKUDS/RAG-Anything https://arxiv.org/abs/2510.12323 https://github.com/HKUDS/LightRAG https://github.com/opendatalab/MinerU https://pypi.org/project/raganything/
+- Semantica — graph-native инфраструктура контекста и accountable AI: строит queryable Context Graph и knowledge graph из разнородных данных, поддерживает RDF/LPG, ontology management, deterministic reasoning, Graph RAG и полную provenance/auditability без обязательного LLM. https://github.com/semantica-agi/semantica
 
 ### Полезные ссылки
 
@@ -1282,6 +1287,8 @@ https://arxiv.org/pdf/2411.08804v1
     - vLLM — высокопроизводительный и эффективный по памяти движок инференса и serving для LLM: использует PagedAttention, continuous batching, chunked prefill и prefix caching, поддерживает распространённые схемы квантизации, tensor/pipeline/data/expert/context parallelism, модели Hugging Face и API, совместимые с OpenAI и Anthropic. Работает с GPU NVIDIA, AMD и Intel, CPU и дополнительными аппаратными бэкендами. https://github.com/vllm-project/vllm
     - Colibrì — экспериментальный движок инференса на чистом C для запуска очень больших MoE-моделей на доступном оборудовании: объединяет VRAM, RAM и NVMe в единую иерархию памяти и подгружает экспертов с диска по мере необходимости. https://github.com/JustVugg/colibri
     - EXO — GitHub-организация по edge ML; её основной open-source проект `exo` объединяет доступные устройства в локальный AI-кластер, автоматически обнаруживает узлы и выбирает topology-aware разбиение модели, поддерживает tensor parallelism, MLX, RDMA over Thunderbolt, модели с Hugging Face, встроенный dashboard и API, совместимые с OpenAI, Claude и Ollama. Организация: https://github.com/exo-explore/ Репозиторий: https://github.com/exo-explore/exo
+    - FreeToken — edge-native MoE serving engine для запуска frontier-scale open-weight моделей на потребительском оборудовании: объединяет GPU, CPU, RAM и interconnects, поддерживает bandwidth-adaptive CPU–GPU execution, expert/KV caching и OpenAI/Anthropic-compatible API. https://github.com/FlashML-org/FreeToken
+    - ExLlamaV3 1.4.3 — библиотека квантования и локального инференса LLM на современных потребительских GPU: поддерживает EXL3, 2–8-bit cache quantization, tensor/expert parallelism, CPU offloading, dynamic batching, speculative decoding и multimodal models. https://github.com/turboderp-org/exllamav3/releases/tag/v1.4.3
 - Агент
     - Agent.exe - это проект с открытым исходным кодом, который представляет собой простое Electron-приложение, позволяющее языковой модели Claude 3.5 Sonnet напрямую управлять локальным компьютером пользователя через специальные API-возможности. https://github.com/corbt/agent.exe
     - Jobber - это AI-агент с открытым исходным кодом, который автономно ищет и подает заявки на вакансии через браузер от имени пользователя, используя предоставленное резюме и предпочтения. https://github.com/sentient-engineering/jobber

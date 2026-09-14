@@ -8,6 +8,7 @@
 - https://skills.sh/
 - https://github.com/vercel-labs/agent-skills
 - https://github.com/wondelai/skills
+- Каталог skills от linkly.ai — сервис с ежедневными рейтингами агентских skills: агрегирует данные из семи источников, публикует девять рейтингов и предоставляет выгрузку данных. https://linkly.ai/skills
 
 ### Плагины
 
@@ -30,6 +31,8 @@
         - Modern Web Guidance — preview-набор agent skills и CLI от команд Google Chrome/Microsoft Edge для современных веб-интерфейсов: подмешивает в coding agents знания о Web Platform, compatibility data и production-паттернах вместо legacy workarounds; покрывает 102 web features и 128 use cases по UX, CSS/layout, performance, Forms/UI, accessibility, security/passkeys и built-in AI. Ставится через `npx modern-web-guidance@latest install`, `npx skills add GoogleChrome/modern-web-guidance`, Claude Code/Copilot CLI plugin marketplace, Antigravity CLI, Cursor (`.cursor-plugin`) или Gemini extension. https://developer.chrome.com/docs/modern-web-guidance https://github.com/GoogleChrome/modern-web-guidance
 - Создание скилов
     - SkillOpt — Microsoft Research оптимизатор natural-language skills для frozen LLM agents: гоняет задачи, собирает trajectories/tool calls/verifier feedback, предлагает bounded edits, пропускает изменения через validation gates и экспортирует переиспользуемый `best_skill.md`; README заявляет best/tied-best результат во всех 52 evaluated cells и приросты для direct chat, Codex loop и Claude Code; есть CLI, WebUI, PyPI-пакет и MIT-лицензия. https://microsoft.github.io/SkillOpt/ https://github.com/microsoft/SkillOpt
+- Визуализация данных
+    - Lieflat Charts — Agent Skills-скилл для построения интерактивных HTML-графиков и полноценных отчётов: выбирает визуальные стили и шаблоны для dashboards, исследований и годовых отчётов; совместим с Codex, Claude Code и другими агентами, поддерживающими `SKILL.md`. https://github.com/larashero3-dotcom/lieflat-charts
 - Промптинг
     - Prompt Master — Claude skill для генерации и улучшения промптов под разные AI-инструменты: определяет целевой инструмент, извлекает 9 измерений намерения (task, input, output, constraints, context, audience, memory, success criteria, examples), задаёт до 3 уточняющих вопросов, выбирает подходящий prompt framework, применяет safe techniques и делает token-efficiency audit. В README перечислены профили для Claude, ChatGPT/GPT-5.x, Gemini, Ollama/Qwen/local models, Claude Code, Cursor/Windsurf/Cline, Copilot, Devin/SWE-agent, Perplexity/SearchGPT, Midjourney/DALL-E/Stable Diffusion/ComfyUI, Sora/Runway, ElevenLabs, Zapier/Make/n8n и др. https://github.com/nidhinjs/prompt-master
 - Проработка идей
