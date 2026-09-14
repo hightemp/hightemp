@@ -29,6 +29,7 @@
 
 - Self-hosted ngrok alternative https://docs.ssi.sh/
 - tcp/http self-hosted tunnel https://telebit.cloud/
+- NETworkManager — open-source инструмент для управления сетями и диагностики сетевых проблем (Windows): профили подключений, ping, port scan, поиск устройств, WiFi-сканер, traceroute, DNS-запросы, IP-калькулятор, WHOIS и др. https://github.com/BornToBeRoot/NETworkManager
 
 ### Репозитории
 

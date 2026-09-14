@@ -1,5 +1,9 @@
 
 
+### Инструменты
+
+- CyberEther — GPU-ускоренный фреймворк для обработки и визуализации радиосигналов в реальном времени (SDR, ADS-B flowgraph, спектр-анализ). Запускается нативно, есть и веб-версия (WebGPU/WebUSB): https://cyberether.org/web https://github.com/luigifcruz/CyberEther
+
 ### Статьи
 
 - SAR

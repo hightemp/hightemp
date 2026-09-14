@@ -7,6 +7,8 @@
 - Awesome Cybersecurity List — персональная подборка cybersecurity blog posts, write-ups и papers, разложенная по годам с 2011 по 2026 и отдельными разделами Misc/Other Lists; полезна для чтения разборов уязвимостей, exploit chains, reverse engineering, malware, kernel/browser/mobile/security research. https://github.com/0xor0ne/awesome-list
 - Hacking-Tools — каталог на GitHub с большой библиотекой инструментов кибербезопасности, сгруппированных по категориям (OSINT, сканирование уязвимостей, пентест, анализ сетей и трафика, форензика, стресс‑тесты, подбор паролей, анализ веба, реверс‑инжиниринг и социальная инженерия). https://github.com/yogsec/Hacking-Tools
 - Awesome AI Security Benchmarks — развивающийся каталог бенчмарков безопасности AI с разбивкой по годам, типам и задачам: CTF, пентест, поиск и исправление уязвимостей, CTI/SOC, prompt injection и безопасность агентов; для многих позиций приведены статьи, датасеты, сайты и репозитории. https://github.com/EvanThomasLuke/Awesome-AI-Security-Benchmarks
+- PentestTools — подборка инструментов для пентеста: сканеры уязвимостей, эксплойтация, command injection и другие категории. https://github.com/arch3rPro/PentestTools
+- Awesome-Pentest — подборка ресурсов по пентесту и тестированию на проникновение. https://github.com/Muhammd/Awesome-Pentest
 
 ### Модели для кибербезопасности
 
@@ -53,17 +55,26 @@
 - Shannon Pro — коммерческая платформа AppSec «всё‑в‑одном» от Keygraph, объединяющая агентный SAST/SCA/поиск секретов и тестирование бизнес‑логики с автономным динамическим пентестом и корреляцией статических находок с подтверждёнными PoC‑эксплойтами. https://github.com/KeygraphHQ/shannon/blob/main/SHANNON-PRO.md https://keygraph.io/
 - METATRON — локальный AI-агент для пентестинга на Linux без API-ключей: принимает целевой IP или домен, запускает инструменты разведки вроде nmap, whois, whatweb, curl, dig и nikto, помогает находить уязвимости, эксплойты и рекомендации по исправлению. https://github.com/sooryathejas/METATRON
 - CyberStrike — open-source AI-powered offensive-security harness для автоматизированного пентестинга из терминала: превращает вашу подписку на Claude, GPT или любой другой LLM (150+ провайдеров) в автономного red-team оператора с 13+ специализированными агентами, 7600+ security-скиллами, 120+ OWASP-тест-кейсами и поддержкой Bolt remote tool servers. Использовать только для CTF, лабораторий и разрешённых проверок. https://github.com/CyberStrikeus/CyberStrike
+- HackerAI — open-source AI-агент, который превращает пентест в обычный разговор: обнаруживает, эксплуатирует и автоматически исправляет уязвимости через полностью агентную (agentic) систему, с изолированной средой выполнения (E2B sandbox) для безопасного запуска кода; backend на Convex, аутентификация через WorkOS. Self-hosted. Использовать только против систем, на которые есть разрешение. https://github.com/hackerai-tech/hackerai
+
+### Скилы
+
+- claude-red — курируемая библиотека из 78 offensive‑security скиллов (SKILL.md) для системы навыков Claude: от SQL‑инъекций и shellcode до EDR‑evasion и разработки эксплойтов; превращает Claude в контекстно‑зависимого red‑team оператора. Использовать только для авторизованных red team, bug bounty, CTF и исследовательских проверок. https://github.com/SnailSploit/claude-red
 
 ### Пентестинг
 
 - Sn1per — автоматизированный инструментарий для пентеста и управления поверхностью атаки (ASM), который выполняет OSINT/рекон и оркестрирует сторонние сканеры уязвимостей для непрерывного обнаружения активов и рисков. https://github.com/1N3/Sn1per https://sn1persecurity.com/wordpress/ https://sn1persecurity.com/wordpress/documentation/
 - Hetty — open-source HTTP toolkit для security research и bug bounty, альтернатива Burp Suite Pro: MITM HTTP-прокси, логи и поиск, ручное создание/редактирование/replay запросов, перехват запросов и ответов, scope и web-based admin interface. https://github.com/dstotijn/hetty
 - HackingTool — all-in-one Python-набор для security researchers и pentesters с меню установки/запуска 185+ инструментов по категориям: information gathering, wordlists, wireless, web testing, forensics, reverse engineering, Active Directory, cloud и mobile security; поддерживает поиск по инструментам, теги, рекомендации по задаче, batch install и локальную Docker-сборку. Использовать только для обучения, лабораторий и разрешённых проверок. https://github.com/Z4nzu/hackingtool
+- BugScanner — модульный высокопроизводительный сканер и фреймворк для разведки (recon) и автоматизированной оценки веб-уязвимостей для bug bounty и red team: глубокое обнаружение субдоменов, активное TCP-фингерпринтингирование, контекстно-зависимый движок проверки уязвимостей (SQLi, XSS, SSRF, CORS, IDOR, JWT, open redirect, business logic) с адаптивным rate limiting и обходом WAF. https://github.com/eldarshiraliyev/BugScanner
+- PwnEye — оффенсив-тул на Python для работы с IP-камерами (ONVIF + RTSP): обнаружение камер, тестирование аутентификации, сбор метаданных, стрим, «дефейс», управление движением и интерактивный shell через ONVIF. Использовать только против устройств, на которые есть разрешение. https://github.com/Hackerest/pwneye https://hackers-arise.com/camera-hacking-using-pwneye-to-compromise-ip-cameras/
 
 ### Сетевая безопасность
 
 - Контроль доступа к портам
     - PortGuard - open-source решение для Single Packet Authorization / port knocking: держит сервисные порты закрытыми по умолчанию и временно открывает доступ только после валидного AES/GPG-подписанного SPA-пакета; сайт указывает клиенты для Windows, iOS/macOS и Android, а также Linux server packages. https://portguard.net
+- WiFi-аудит
+    - Airgorah — графический инструмент для аудита безопасности WiFi на базе aircrack-ng, написан на Rust, Linux-only: сканирует сети, перечисляет подключённые устройства, может отключить клиента от точки доступа и перехватить WPA-хендшейк для офлайн-подбора пароля. Использовать только для тестирования собственных сетей и авторизованных аудитов. https://github.com/martin-olivier/airgorah
 
 ### AI-анализаторы кода
 
@@ -93,6 +104,8 @@
 
 - HexStrike AI — продвинутый MCP‑фреймворк, позволяющий автономным AI‑агентам (Claude, GPT) управлять арсеналом из 150+ инструментов для пентестинга и автоматизировать задачи от разведки до поиска уязвимостей, что делает его мощным решением для специалистов по кибербезопасности, баг‑баунти и операций Red Team. https://github.com/0x4m4/hexstrike-ai
 - CVE-Search MCP Server — MCP‑сервер на Python для запросов к API CVE‑Search, позволяющий получать списки вендоров и продуктов, уязвимости по продукту или CVE‑ID, последние обновлённые CVE и сведения о состоянии/обновлении базы. https://github.com/roadwy/cve-search_mcp https://www.cve-search.org/api/
+- CVE MCP Server — production-grade MCP-сервер, превращающий Claude в full-spectrum security-аналитика: 28 инструментов через 24 API (CVE lookup, EPSS, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, GreyNoise и др.) плюс one-call оркестратор triage_cve, который параллельно опрашивает все источники, считает composite risk score (с жёстким override от CISA KEV) и выдаёт приоритизированную рекомендацию с доказательствами. https://github.com/mukul975/cve-mcp-server
+- Darknet MCP Server — MCP-сервер из 66 инструментов и 16 источников для dark web & threat intelligence: breach-данные и утечки, отслеживание ransomware-групп, доступ к .onion (Tor), malware-анализ, exploit-поиск, blockchain-intel и поиск по stealer-logs. https://github.com/badchars/darknet-mcp-server
 
 ### Системы автоматизированного тестирования
 
@@ -151,6 +164,7 @@
 ### Обучающие материалы
 
 - PwnPad — открытая аппаратная учебная платформа для изучения hardware hacking и безопасности встроенных систем через набор практических челленджей (UART/I2C/SPI, дамп прошивок, fault injection, side-channel) с переключением заданий джамперами и документацией по сборке и прохождению. https://github.com/twelvesec/PwnPad https://github.com/twelvesec/PwnPadWiki/wiki https://www.youtube.com/watch?v=uaiB-Esttt4
+- TryHackMe-Roadmap — коллекция 500+ бесплатных комнат TryHackMe, организованных по темам (Linux, сети, веб‑пентест, Active Directory, reverse engineering, malware, CTF), подойдёт как роадмап для старта в кибербезопасности. https://github.com/Hunterdii/TryHackMe-Roadmap
 
 ### Курсы
 

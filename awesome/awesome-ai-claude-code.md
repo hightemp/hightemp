@@ -19,6 +19,7 @@
 - OwnYourCode — набор протоколов и команд для AI-менторинга разработки, где ИИ обучает, задаёт вопросы и проводит ревью, но весь код пишет разработчик, чтобы результат был понятным, расширяемым и «своим». https://github.com/DanielPodolsky/ownyourcode
 - CCPM (Claude Code Project Manager) — обвес для Claude Code, который разбивает PRD на эпики и задачи в GitHub Issues и запускает параллельный рой автономных агентов в отдельных Git worktree для синхронной разработки без конфликтов. https://github.com/automazeio/ccpm
 - cclsp — MCP-сервер для интеграции Claude Code и других coding agents с LSP: даёт переход к определениям, поиск references, безопасный rename symbol, diagnostics и конфигурации language servers для TypeScript, Python, Go, Rust, C/C++, Ruby, PHP и других языков. https://github.com/ktnyt/cclsp
+- Hyperresearch — глубокий research-harness, который превращает Claude Code в исследовательского агента: tier-adaptive 16-шаговый пайплайн обрабатывает сотни источников, проверяет каждую цитату (cite-checker жёстко блокирует галлюцинированные цитаты и нераскрытые отзывы), проводит аудит независимости (перепечатки одного релиза считаются как один источник), атакует каждый черновик четырьмя «критиками» параллельно и генерирует adversarially-audited отчёты с полным провенансом; всё прочитанное складывается в персистентную searchable вики-базу (SQLite), а оборванные запуски возобновляются. https://github.com/jordan-gibbs/hyperresearch
 
 ### Плагины
 

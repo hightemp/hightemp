@@ -56,6 +56,9 @@
 
 ### Репозитории
 
+- Litho (deepwiki-rs) — высокопроизводительный генератор документации на Rust с ИИ: автоматически анализирует исходный код и создаёт профессиональную архитектурную документацию в формате C4 (context, container, component, code-level), держа её в синхронизации с кодом без ручной поддержки. https://github.com/sopaco/deepwiki-rs
+- Terrain — преемник Litho от того же автора: AI-native среда управления инженерной средой, которая делает кодовую базу «agent-ready» — держит базу знаний в синхронизации с кодом, расширенная поддержка языков и фреймворков, интеграция с агентами (Claude Code, Codex, DeepSeek Harness) через ACP. https://github.com/sopaco/terrain
+
 ### Блоги
 
 - https://highscalability.com/

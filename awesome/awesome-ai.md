@@ -632,6 +632,7 @@
 ### Анализ аудио; Классификация звуков
 
 - cardiag — open-source proof-of-concept audio-ML pipeline для первичной triage-диагностики автомобиля по звуку: собирает fault-sound клипы с YouTube/TikTok, очищает запись до механического звука, строит CLAP-эмбеддинги и классифицирует их маленькими линейными heads; доступен как CLI и web app, возвращает fault/normal, вероятную зону автомобиля и ranked shortlist деталей, но не заменяет механика. https://github.com/adam-s/car-diagnosis
+- SheetSage2 — открытая модель (M-A-P) для извлечения нот/аккордов из музыки (транскрипция аудио в MIDI/ABC-нотацию): мелодия, бит/даунбит и аккорды; парная модель к YuE2, используется для построения читаемого/редактируемого символьного плана песни. https://huggingface.co/m-a-p/SheetSage2
 
 ### Генерация аудио речи из текста; Cинтез речи; Генерация речи; Text to Speech; TTS
 
@@ -711,6 +712,8 @@
 - ACE-Step UI — open-source веб-интерфейс для локальной генерации музыки через ACE-Step 1.5 с React/TypeScript UI, библиотекой треков, плеером, очередью генерации, настройками BPM/тональности/длительности, режимами instrumental/custom, редактором текстов, stem extraction через Demucs, AudioMass и FFmpeg. https://github.com/fspecii/ace-step-ui
 - ACE-Step Studio — портативная локальная студия генерации музыки на базе ACE-Step 1.5 XL: создаёт полные песни с вокалом и текстами, каверы, ремиксы и музыкальные видео, поддерживает one-click установку, offline-работу, LoRA, batch generation, Video Studio, AudioMass, Demucs, FFmpeg и GPU-мониторинг; ориентирована на Windows и NVIDIA GPU. https://github.com/timoncool/ACE-Step-Studio
 - **YuE (乐)** — революционная серия открытых базовых моделей искусственного интеллекта для генерации музыки, специализирующаяся на преобразовании текстов песен в полноценные композиции (lyrics2song), способная создавать многоминутные произведения с вокальной партией и инструментальным сопровождением, поддерживающая различные музыкальные жанры, языки и вокальные техники. https://github.com/multimodal-art-projection/YuE?tab=readme-ov-file
+- **YuE2-3B** — преемник YuE (Multimodal Art Projection, M-A-P), открытая модель генерации музыки уровня Suno v5 на базе структуры LLaMA2: превращает текст и описание стиля в полноценные песни с вокалом и аранжировкой; ключевой упор — точное следование заданным словам песни; через символьное планирование даёт «белый ящик» — читаемую/редактируемую мелодию и аккорды, plane «play-and-edit score», zero-shot каверы и agentic-редактирование до рендера; веса 7.26 GB, CC BY-NC 4.0 (бесплатно для некоммерческого), демо прямо в браузере. Модель: https://huggingface.co/m-a-p/YuE2-3B , GitHub: https://github.com/multimodal-art-projection/YuE , демо: https://huggingface.co/spaces/mrfakename/yue2-3b , сайт: https://map-yue2.github.io/
+- WildSongBench — автоматизированный бенчмарк (192 промпта) для оценки генерации музыки, используется для авто-оценки моделей семейства YuE. https://huggingface.co/datasets/m-a-p/WildSongBench
 - Wondera — генератор треков, использующий нейронные сети для создания и редактирования полноценных песен в реальном времени с возможностью работы в формате диалога. https://www.wondera.ai/
 
 ### Генерация подкастов
@@ -1074,6 +1077,7 @@ https://arxiv.org/pdf/2411.08804v1
 
 - MiDashengLM-7B — аудиомодель от Xiaomi, способная анализировать речь, звуки и музыку, устанавливающая рекорды на 22 публичных бенчмарках, обученная на 100% открытых данных и доступная под лицензией Apache 2.0. https://mp.weixin.qq.com/s/at9Qo1b5kef6RK0yTEZ-nA https://github.com/xiaomi-research/dasheng-lm https://huggingface.co/mispeech/midashenglm-7b
 - SAM-Audio — расширение Meta SAM для аудиомодальности, которое по текстовым и/или визуальным промптам (выделение объекта на видео и временной спан) отделяет целевой звук от аудиомикса и генерирует целевой и остаточный треки, работая быстрее реального времени и доступно в виде кода и весов под CC-BY-NC 4.0. https://ai.meta.com/blog/sam-audio/ https://ai.meta.com/samaudio/ https://github.com/facebookresearch/sam-audio
+- Moshi — speech-text foundation модель и фреймворк полно-дуплексного голосового диалога от Kyutai Labs (можно говорить и слушать одновременно без пауз), использует Mimi — SOTA стриминговый нейро-аудио-кодек. https://github.com/kyutai-labs/moshi
 
 ### Модели генератора речи
 
