@@ -54,7 +54,7 @@
   - Репо: `https://github.com/BurntSushi/ripgrep`
   - Описание: очень быстрый поиск текста, который уважает `.gitignore`.
   - Ubuntu: `sudo apt install ripgrep`
-  - Brew: `brew install ripgrep` 
+  - Brew: `brew install ripgrep`
 
 - `rga`
 
@@ -68,42 +68,42 @@
   - Репо: `https://github.com/microsoft/tgrep`
   - Описание: триграммно-индексированный grep от Microsoft с клиент-серверной архитектурой для regex-поиска в огромных кодовых базах: один раз строит триграммный индекс, и каждый запрос трогает только потенциально подходящие файлы, вместо сканирования всего репо; на монорепо вроде gecko-dev/chromium до ~52x быстрее ripgrep; встроен в GitHub Copilot CLI. примеры использования: `tgrep index .` (построить индекс), `tgrep serve .` (запустить сервер, следит за изменениями), `tgrep "fn main" .` (мгновенный поиск).
   - Ubuntu: `cargo install --path tgrep-cli --locked`
-  - Brew: `brew install tgrep` 
+  - Brew: `brew install tgrep`
 
 - `procs`
 
   - Репо: `https://github.com/dalance/procs`
   - Описание: современная замена `ps`.
   - Ubuntu: `sudo snap install procs`
-  - Brew: `brew install procs` 
+  - Brew: `brew install procs`
 
 - `dust`
 
   - Репо: `https://github.com/bootandy/dust`
   - Описание: более наглядный вариант `du`.
   - Ubuntu: `curl -sSfL https://raw.githubusercontent.com/bootandy/dust/refs/heads/master/install.sh | sh`
-  - Brew: `brew install dust` 
+  - Brew: `brew install dust`
 
 - `rip`
 
   - Репо: `https://github.com/nivekuil/rip`
   - Описание: безопасная и эргономичная альтернатива `rm`.
   - Ubuntu: `cargo install rm-improved`
-  - Brew: `brew install rm-improved` 
+  - Brew: `brew install rm-improved`
 
 - `hck`
 
   - Репо: `https://github.com/sstadick/hck`
   - Описание: быстрый и удобный аналог `cut`, умеет regex-разделители и перестановку колонок.
   - Ubuntu: `curl -LO https://github.com/sstadick/hck/releases/download/<latest>/hck-linux-amd64.deb && sudo dpkg -i hck-linux-amd64.deb`
-  - Brew: `brew tap sstadick/hck && brew install hck` 
+  - Brew: `brew tap sstadick/hck && brew install hck`
 
 - `sd`
 
   - Репо: `https://github.com/chmln/sd`
   - Описание: интуитивный CLI для find/replace, удобная альтернатива `sed`.
   - Ubuntu: `cargo install sd`
-  - Brew: `brew install sd` 
+  - Brew: `brew install sd`
 
 - `zoxide`
 
@@ -111,35 +111,35 @@
   - Описание: быстрая замена `cd`, которая учится на твоих переходах.
   - Ubuntu: `curl -sSfL https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | sh`
   - Brew: `brew install zoxide`
-  - Примечание: обычный `apt install zoxide` в Ubuntu upstream уже не рекомендует. 
+  - Примечание: обычный `apt install zoxide` в Ubuntu upstream уже не рекомендует.
 
 - `atuin`
 
   - Репо: `https://github.com/atuinsh/atuin`
   - Описание: хранит историю shell в SQLite, добавляет поиск и синхронизацию между машинами.
   - Ubuntu: `curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh`
-  - Brew: `brew install atuin` 
+  - Brew: `brew install atuin`
 
 - `uutils/coreutils`
 
   - Репо: `https://github.com/uutils/coreutils`
   - Описание: кроссплатформенный Rust rewrite набора GNU coreutils.
   - Ubuntu: `git clone https://github.com/uutils/coreutils && cd coreutils && cargo install --path . --locked`
-  - Brew: `brew install uutils-coreutils` 
+  - Brew: `brew install uutils-coreutils`
 
 - `bottom`
 
   - Репо: `https://github.com/ClementTsang/bottom`
   - Описание: TUI-монитор процессов и ресурсов, современная альтернатива `top`/`htop`.
   - Ubuntu: `curl -LO https://github.com/ClementTsang/bottom/releases/download/0.12.3/bottom_0.12.3-1_amd64.deb && sudo dpkg -i bottom_0.12.3-1_amd64.deb`
-  - Brew: `brew install bottom` 
+  - Brew: `brew install bottom`
 
 - `hyperfine`
 
   - Репо: `https://github.com/sharkdp/hyperfine`
   - Описание: удобный бенчмарк для CLI-команд.
   - Ubuntu: `sudo apt install hyperfine`
-  - Brew: `brew install hyperfine` 
+  - Brew: `brew install hyperfine`
 
 - `xh`
 
@@ -147,7 +147,7 @@
   - Описание: быстрый и дружелюбный HTTP-клиент, удобная альтернатива `curl`/`httpie`.
   - Ubuntu: `cargo install xh --locked`
   - Brew: `brew install xh`
-  - Примечание: `apt install xh` у upstream отмечен как доступный начиная с Ubuntu 25.04. 
+  - Примечание: `apt install xh` у upstream отмечен как доступный начиная с Ubuntu 25.04.
 
 - `just`
 
@@ -155,14 +155,14 @@
   - Описание: удобный command runner для повторяемых команд и dev-задач.
   - Ubuntu: `sudo apt install just`
   - Brew: `brew install just`
-  - Примечание: upstream отдельно отмечает пакет для Ubuntu 24.04+ и производных. 
+  - Примечание: upstream отдельно отмечает пакет для Ubuntu 24.04+ и производных.
 
 - `tokei`
 
   - Репо: `https://github.com/XAMPPRocky/tokei`
   - Описание: быстро считает строки кода по языкам.
   - Ubuntu: `cargo install tokei`
-  - Brew: `brew install tokei` 
+  - Brew: `brew install tokei`
 
 - `delta`
 
@@ -177,7 +177,7 @@
   - Репо: `https://github.com/pemistahl/grex`
   - Описание: генерирует регулярные выражения по примерам.
   - Ubuntu: `cargo install grex`
-  - Brew: `brew install grex` 
+  - Brew: `brew install grex`
 
 ### Статьи
 
