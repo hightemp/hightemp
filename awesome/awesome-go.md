@@ -903,7 +903,6 @@
     - Statically Linking Go in 2022 https://mt165.co.uk/blog/static-link-go/
     - Building Statically Linked Go Executables with CGO and Zig https://calabro.io/zig-cgo
     - Cgo Call Practice https://www.dingyuqi.com/en/article/cgo/
-    - FastCGo: как мы ускорили вызов C-кода в Go в 16,5 раза https://habr.com/ru/companies/flant/articles/878282/
     - Calling C from Go https://ericchiang.github.io/post/cgo/
   - Go netpoller
     - The Go netpoller https://morsmachine.dk/netpoller

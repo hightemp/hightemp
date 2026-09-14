@@ -197,6 +197,7 @@
                 - VictoriaMetrics и мониторинг приватных облаков. Павел Колобаев https://habr.com/ru/articles/518680/
             - Cortex
         - Остальное
+            - Deckhouse Prom++: мы добавили плюсы к Prometheus и сократили потребление памяти в 7,8 раза — разбор оптимизаций хранения метрик, устройства Prometheus TSDB и результатов сравнения с Prometheus и VictoriaMetrics. https://habr.com/ru/companies/flant/articles/878282/
             - Bucketing technique for calculating median and k-th percentile of a large dataset https://medium.com/@mnylen/bucketing-technique-for-calculating-median-and-k-th-percentile-of-a-large-dataset-33199af2538c
 - База данных временых рядов
     - InfluxDB
