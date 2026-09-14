@@ -176,6 +176,7 @@
     - Prometheus
         - Основное
             - Полное руководство по Prometheus в 2019 году https://habr.com/ru/companies/slurm/articles/455290/
+            - Writing a Time Series Database from Scratch — разбор устройства TSDB Prometheus: временные ряды, метки, особенности пакетной записи и чтения, а также проектирование хранилища для высокодинамичных сервисов и Kubernetes. https://web.archive.org/web/20210803115658/https://fabxc.org/tsdb/
             - An introduction to Prometheus — a tool for collecting metrics and monitoring services https://eytanmanor.medium.com/an-introduction-to-prometheus-a-tool-for-collecting-metrics-and-monitoring-services-12fcc3bdb5d6
             - Prometheus 101: Metrics, Monitoring, Practical Setup and More https://harsh05.medium.com/prometheus-101-metrics-monitoring-practical-setup-and-more-eaccf18bdf91
             - Система мониторинга Prometheus https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/sistema-monitoringa-prometheus#1
