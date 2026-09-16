@@ -118,6 +118,8 @@
     - Основное
         - 26 основных паттернов микросервисной разработки https://cloud.vk.com/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki/
         - Паттерны микросервисной архитектуры: от собеседования до прода https://habr.com/ru/companies/otus/articles/957294/
+    - Transactional Outbox Pattern
+        - Implementing the transactional outbox pattern with Amazon EventBridge Pipes — реализация надёжной доставки событий между микросервисами с использованием DynamoDB Streams, Amazon EventBridge Pipes и SQS. https://aws.amazon.com/ru/blogs/compute/implementing-the-transactional-outbox-pattern-with-amazon-eventbridge-pipes/
     - API Gateway Pattern
         - Microservices Design Patterns: API Gateway Design Pattern https://medium.com/@apulatjonov/microservices-design-patterns-api-gateway-design-pattern-ddba36700d84
     - Database per Service Pattern
