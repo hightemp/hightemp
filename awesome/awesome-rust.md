@@ -43,6 +43,8 @@
   - https://github.com/imhq/rust-interview-handbook
 - RUST GYM Rust Solutions
   - https://github.com/warycat/rustgym
+- Потоки, передача владения, Send и Sync — CodeChick: вопросы о потоках, передаче владения между потоками и трейтах `Send`/`Sync` на собеседовании по Rust.
+  - https://codechick.io/tutorials/interview-rust/iqrs-potoki-send-sync
 
 ### Шаблоны проектов
 
