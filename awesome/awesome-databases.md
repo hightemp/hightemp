@@ -28,6 +28,8 @@
 - Are You Qualified To Use Null in SQL? (Тест) https://agentm.github.io/project-m36/posts/2024-07-16-are-you-qualified-to-use-null.html
 - ресурс, посвященный индексированию SQL для разработчиков. Он объясняет основы индексирования и не ограничивается рассмотрением ORM-инструментов, таких как Hibernate. Сайт предоставляет информацию об индексировании в различных СУБД, таких как MySQL, Oracle, SQL Server и другие. Он также содержит множество статей и глав, посвященных различным аспектам индексирования, таким как структура индекса, использование индексов для улучшения производительности поиска, работа с различными операторами и функциями, а также влияние индексирования на операции вставки, удаления и обновления данных. Сайт является бесплатной веб-версией книги "SQL Performance Explained". https://use-the-index-luke.com/
 - Визуализатор плана запросов для PostgreSQL https://explain.tensor.ru/plan/
+- Книги Криса Дейта — поиск его книг по базам данных на Amazon. https://www.amazon.com/s?k=chris+date+database+books
+- Книги Сергея Кузнецова — профиль автора с перечнем книг и публикаций. https://istina.msu.ru/profile/Kuznetsovs/#books
 
 ### Мониторинг
 
@@ -272,13 +274,53 @@
     - https://devmark.ru/articles/tag/postgresql
     - https://www.commandprompt.com/education/category/postgres/
     - https://www.postgresonline.com/
+    - Data Egret https://dataegret.com/blog/
+    - depesz https://www.depesz.com/
+    - Planet PostgreSQL http://planet.postgresql.org/
+    - Хаб PostgreSQL на Хабре https://habr.com/ru/hub/postgresql/
 - Остальное
     - https://pankajconnect.medium.com/
 
 ### Видео
 
 - PostreSQL
+    - Data Egret — YouTube-канал с докладами и материалами по PostgreSQL и базам данных https://www.youtube.com/channel/UC1lxrBuEpZyiCjL5Cq794Bg
+    - HighLoad++ — видеоканал конференции с докладами по высоконагруженным системам и базам данных https://www.youtube.com/channel/UCwHL6WHUarjGfUM_586me8w
+    - PGConf.Russia — видеоканал конференции PostgreSQL https://www.youtube.com/channel/UC6gJN4hEmnPHZ53HP2r7zhA
     - Типичные ошибки при разработке приложений, работащих с PostgreSQL / Иван Фролков https://www.youtube.com/watch?v=dDryrO8y82c
+    - PostgreSQL Worst Practices — Илья Космодемьянский, SCALE18x 2020 (англ.) https://www.youtube.com/watch?v=3yPC3vesDCs
+    - PostgreSQL Worst Practices — Илья Космодемьянский, HighLoad++ 2017 (рус.) https://www.youtube.com/watch?v=HxwLCyCY8ec&list=PL6sRAkPwcKNnwScnpKomNXechZQ3WZe1j
+    - Топ ошибок со стороны разработки при работе с PostgreSQL — Алексей Лесовский, HighLoad++ 2018 https://www.youtube.com/watch?v=HjLnY0aPQZo&list=PL6sRAkPwcKNnwScnpKomNXechZQ3WZe1j
+    - RuPostgres — регулярные онлайн-митапы о разработке PostgreSQL и его возможностях https://www.youtube.com/channel/UC0SBGSNmBLrTZIkbN-lJHnw
 - Остальное
     - 10 - Recovery Protocols (CMU Databases / Spring 2020) https://www.youtube.com/watch?v=r0qZKOVByi4
     - Всё про изоляции транзакций БД. Тотальный гайд к подготовке к собесу IT transaction isolation levels https://www.youtube.com/watch?v=SMv5_-uVwRo
+
+### Конференции
+
+- PGDay Russia 2020 https://pgday.ru/ru/2020
+- PGConf.EU 2019 https://2019.pgconf.eu/
+- PGCon 2020 https://www.pgcon.org/2020/
+
+### Подкасты
+
+- Цинковый прод — подкаст о разработке и эксплуатации программных систем с участием специалистов по PostgreSQL. https://soundcloud.com/znprod
+- SDCast — подкаст о разработке и инфраструктуре. https://sdcast.ksdaemon.ru/
+- Андрей Сальников в гостях у подкаста «Цинковый Прод» на SaintHighload ’20 https://youtu.be/N2gaxyuM35k
+- SDCast #92: в гостях Илья Космодемьянский https://sdcast.ksdaemon.ru/2018/11/sdcast-92/
+- SDCast #94 HL Edition: Алексей Лесовский и Виктор Егоров https://sdcast.ksdaemon.ru/2018/11/sdcast-94/
+- Цинковый Прод #040: Алексей Лесовский — как влюбить в себя Postgres https://soundcloud.com/znprod/040-aleksey-lesovskiy-kak-vlyubit-v-sebya-postgres
+
+### Форумы и чаты
+
+- PostgreSQL IRC https://www.postgresql.org/community/irc/
+- SQL.ru — форум PostgreSQL https://www.sql.ru/forum/postgresql
+- PostgreSQL Slack https://postgres-slack.herokuapp.com/
+- PostgreSQL — группа в Facebook https://www.facebook.com/groups/postgresql/
+- Telegram-канал PG SQL https://t.me/pg_sql
+- Telegram-канал PostgreSQL https://t.me/pgsql
+- Telegram-канал DBA RU https://t.me/dba_ru
+
+### Почтовые рассылки
+
+- PostgreSQL mailing lists https://lists.postgresql.org/
