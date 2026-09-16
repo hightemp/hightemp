@@ -298,9 +298,9 @@
 
 ### Конференции
 
-- PGDay Russia 2020 https://pgday.ru/ru/2020
-- PGConf.EU 2019 https://2019.pgconf.eu/
-- PGCon 2020 https://www.pgcon.org/2020/
+- PGDay Russia — конференция, посвящённая PostgreSQL, его разработке, интеграции и практическому применению. https://pgday.ru/
+- PGConf.EU — ежегодная европейская конференция PostgreSQL с докладами и мероприятиями сообщества. https://www.pgconf.eu/
+- PGCon — конференция пользователей и разработчиков PostgreSQL. https://www.pgcon.org/
 
 ### Подкасты
 
