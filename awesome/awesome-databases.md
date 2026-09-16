@@ -43,6 +43,19 @@
 - PostgreSQL
     - https://postgrespro.ru/education/books
     - PostgreSQL изнутри. Егор Рогов https://edu.postgrespro.ru/postgresql_internals-15.pdf
+    - PostgreSQL. Основы языка SQL — Е. П. Моргунов; под редакцией Е. В. Рогова и П. В. Лузанова. https://postgrespro.ru/education/books/sqlprimer
+    - Mastering PostgreSQL 12 — Hans-Jürgen Schönig. https://www.amazon.com/Mastering-PostgreSQL-techniques-administer-applications-ebook/dp/B0822GCCDT
+    - Troubleshooting PostgreSQL — Hans-Jürgen Schönig. https://www.amazon.com/Troubleshooting-PostgreSQL-Hans-J%C3%BCrgen-Sch%C3%B6nig-ebook/dp/B00VGE69RC
+    - The Art of PostgreSQL — Dimitri Fontaine. https://theartofpostgresql.com/
+    - The Internals of PostgreSQL for database administrators and system developers — Hironobu Suzuki. https://www.interdb.jp/pg/index.html
+- Проектирование приложений баз данных
+    - Настройка приложений баз данных — Б. А. Новиков, Г. Р. Домбровская. https://www.ozon.ru/context/detail/id/2575383/
+- Транзакции
+    - Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery — G. Weikum, G. Vossen. https://www.amazon.com/Transactional-Information-Systems-Algorithms-Concurrency/dp/1558605088
+- Распределённые базы данных
+    - Principles of Distributed Database Systems — M. T. Özsu, P. Valduriez. https://www.amazon.com/Principles-Distributed-Database-Systems-Tamer/dp/3030262529/
+- Производительность
+    - SQL Performance Explained — Markus Winand. https://sql-performance-explained.com/
 
 ### Статьи
 

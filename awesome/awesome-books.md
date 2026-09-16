@@ -32,6 +32,17 @@
                 - Ссылки:
                     - https://onlinelibrary.wiley.com/doi/book/10.1002/9781119183525
                     - https://www.ozon.ru/product/the-antivirus-hacker-s-handbook-bachaalany-elias-koret-joxean-elektronnaya-kniga-936629241/
+    - Системное администрирование
+        - Systems Performance: Enterprise and the Cloud, 2nd Edition
+            - Автор: Brendan Gregg
+            - Ссылки:
+                - https://www.brendangregg.com/systems-performance-2nd-edition-book.html
+    - Языки программирования
+        - C
+            - Язык программирования C
+                - Авторы: Брайан У. Керниган, Деннис М. Ритчи
+                - Ссылки:
+                    - https://www.ozon.ru/context/detail/id/150133610/
 - Бизнес-литература
     - Предпринимательство и управление бизнесом
         "Бизнес как игра" (Дмитрий Кибкало)

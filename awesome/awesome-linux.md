@@ -67,6 +67,7 @@
     - Ссылки
         - https://buffalostreetbooks.com/book/9780596005658
         - https://www.cs.utexas.edu/~rossbach/cs380p/papers/ulk3.pdf
+        - https://www.ozon.ru/context/detail/id/3589107/
 - Расширения ядра Linux: драйверы и модули
     - Авторы: Цилюрик Олег Иванович
     - Ссылки
