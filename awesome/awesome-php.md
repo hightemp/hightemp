@@ -474,6 +474,7 @@ vendor/bin/phpqt-install
     - set_error_handler - Задает определенный пользователем обработчик ошибок https://php.ru/manual/function.set-error-handler.html
   - try; catch; finally
     - When to use finally in exception handling in PHP https://www.amitmerchant.com/when-use-finally-try-catch-php/
+    - PHP Try Catch Finally Explained — разбор блоков `try`, `catch` и `finally`, иерархии `Throwable` и обработки исключений в PHP. https://learn.programmingline.com/learn/php/php-try-catch-finally
   - Errors; Ошибки
     - Modern Error handling in PHP https://netgen.io/blog/modern-error-handling-in-php
     - WTF is T_PAAMAYIM_NEKUDOTAYIM https://philsturgeon.com/wtf-is-t-paamayim-nekudotayim/
