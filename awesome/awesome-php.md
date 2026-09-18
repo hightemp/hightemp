@@ -459,6 +459,15 @@ vendor/bin/phpqt-install
     - PHP 8.4 Property Hooks: Can we get rid of getters/setters now? A benchmark. https://tideways.com/profiler/blog/php-8-4-property-hooks-can-we-get-rid-of-getters-setters-now-a-benchmark
     - Property hooks in Practice https://hive.blog/hive-168588/@crell/property-hooks-in-practice
     - https://sergeymukhin.com/blog/php-84-property-hooks
+  - Lazy Objects; Ленивые объекты
+    - Ленивые объекты — официальная документация PHP: ghost-объекты, proxy-объекты, Reflection API и триггеры инициализации. https://www.php.net/manual/ru/language.oop5.lazy-objects.php
+    - Lazy objects in PHP 8.4 — практический пример ленивого десериализатора и инициализации объекта при обращении к свойству. https://chrastecky.dev/programming/lazy-objects-in-php-8-4
+    - PHP 8.4 Lazy Objects: Defer Expensive Initialization in Laravel — ghost/proxy-объекты, Reflection API и особенности идентичности экземпляров. https://richdynamix.com/articles/php-84-lazy-objects-deferred-initialization-laravel
+    - PHP 8.4: lazy objects, Dom\HTMLDocument, array_find et BcMath\Number — обзор lazy ghost и lazy proxy с примером использования. https://the-bearded-bear.com/blog/php-84-lazy-objects-dom-html5-array-find-bcmath-number
+    - Lazy Loading Data Objects in PHP 8.4 with Doctrine ORM — практический пример создания Doctrine-прокси через `ReflectionClass::newLazyGhost()`. https://tideways.com/profiler/blog/lazy-loading-data-objects-in-php-8-4-with-doctrine-orm-example
+    - ORM 3.4.0 released with Native Lazy Objects and Property hooks support — переход Doctrine ORM к нативным ленивым объектам PHP 8.4. https://www.doctrine-project.org/2025/06/28/orm-3.4.0-released.html
+    - Doctrine proxies are going away: PHP 8.4 lazy objects explained — объяснение замены генерируемых Doctrine-прокси на нативные lazy objects. https://www.linkhub.dk/doctrine-proxies-are-going-away-php-84-lazy-objects-explained
+    - Dependency Injection in PHP 8.4: Autowiring Limits, Lazy Objects, and Compiled Containers — применение ленивых объектов в контейнерах зависимостей. https://theleetcode.com/advanced-dependency-injection-php-8-4/
   - Garbage collector; Сборщик мусора
     - What Is Garbage Collection in PHP And How Do You Make The Most Of It? https://tideways.com/profiler/blog/what-is-garbage-collection-in-php-and-how-do-you-make-the-most-of-it
     - How to optimize the PHP garbage collector usage to improve memory and performance? https://tideways.com/profiler/blog/how-to-optimize-the-php-garbage-collector-usage-to-improve-memory-and-performance

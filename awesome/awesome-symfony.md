@@ -115,6 +115,8 @@
   - Kernel
     - The HttpKernel Component https://symfony.com/doc/current/components/http_kernel.html
     - The HttpKernel Component https://symfony-docs-zh-cn.readthedocs.io/components/http_kernel/introduction.html    
+  - Lazy Services; Ленивые сервисы
+    - Lazy Services — документация Symfony о ленивых сервисах и использовании native lazy objects в PHP 8.4+. https://symfony.com/doc/current/service_container/lazy_services.html
   - Routing, Маршрутизация
     - Routing https://symfony.com/doc/7.3/routing.html
     - 4 Ways to Create Routes in Symfony https://www.slingacademy.com/article/ways-to-create-routes-in-symfony/
