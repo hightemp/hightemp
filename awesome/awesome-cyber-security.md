@@ -9,6 +9,7 @@
 - Awesome AI Security Benchmarks — развивающийся каталог бенчмарков безопасности AI с разбивкой по годам, типам и задачам: CTF, пентест, поиск и исправление уязвимостей, CTI/SOC, prompt injection и безопасность агентов; для многих позиций приведены статьи, датасеты, сайты и репозитории. https://github.com/EvanThomasLuke/Awesome-AI-Security-Benchmarks
 - PentestTools — подборка инструментов для пентеста: сканеры уязвимостей, эксплойтация, command injection и другие категории. https://github.com/arch3rPro/PentestTools
 - Awesome-Pentest — подборка ресурсов по пентесту и тестированию на проникновение. https://github.com/Muhammd/Awesome-Pentest
+- Awesome AI Security Tools — курируемый список public-source, research и коммерческих инструментов для безопасности ИИ и ИИ-ассистированной кибербезопасности: autotriage, безопасность агентов, AI/ML supply chain, пентест-агенты, AI SAST, LLM-фаззинг, threat intelligence, SOC/SIEM triage, reverse engineering, LLM red-teaming, jailbreak-фреймворки и др. Использовать только для авторизованных проверок и исследований. https://github.com/scadastrangelove/awesome-ai-security-tools
 
 ### Модели для кибербезопасности
 
