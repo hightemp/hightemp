@@ -79,6 +79,8 @@
     - RL From Scratch — 35 реализаций алгоритмов на чистых Python и NumPy без Gym и PyTorch: от многоруких бандитов и табличных методов до deep RL, непрерывного управления и imitation learning; для каждого алгоритма есть теория, псевдокод, оценка сложности и вопросы для интервью. https://github.com/rohanmistry231/RL-From-Scratch
 - Языки и платформы для ИИ
   - Mojo / Modular Platform — открытые компоненты платформы для разработки и развёртывания AI: язык Mojo с компилятором и стандартной библиотекой, а также MAX accelerator library, inference server и model pipelines. https://github.com/modular/modular
+- Обучение LLM с нуля
+  - Train LLM From Scratch — пошаговый репозиторий по обучению трансформера с нуля на чистом PyTorch по оригинальной статье «Attention is All You Need»: от скачивания данных до генерации текста; полный путь raw text → токены → трансформер → next-token loss → базовые, затем SFT → Reward Model → DPO/PPO → GRPO, каждый алгоритм написан вручную без `transformers`/`trl`/`peft`; позволяет обучать модель до миллиарда параметров на одной GPU. Документация. https://github.com/FareedKhan-dev/train-llm-from-scratch https://fareedkhan-dev.github.io/train-llm-from-scratch/
 
 ### Мануалы
 
