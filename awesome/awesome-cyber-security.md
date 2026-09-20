@@ -10,6 +10,7 @@
 - PentestTools — подборка инструментов для пентеста: сканеры уязвимостей, эксплойтация, command injection и другие категории. https://github.com/arch3rPro/PentestTools
 - Awesome-Pentest — подборка ресурсов по пентесту и тестированию на проникновение. https://github.com/Muhammd/Awesome-Pentest
 - Awesome AI Security Tools — курируемый список public-source, research и коммерческих инструментов для безопасности ИИ и ИИ-ассистированной кибербезопасности: autotriage, безопасность агентов, AI/ML supply chain, пентест-агенты, AI SAST, LLM-фаззинг, threat intelligence, SOC/SIEM triage, reverse engineering, LLM red-teaming, jailbreak-фреймворки и др. Использовать только для авторизованных проверок и исследований. https://github.com/scadastrangelove/awesome-ai-security-tools
+- CLOAK (Concealment Layers for Online Anonymity and Knowledge) — первая публичная база знаний о мерах сокрытия/анонимности киберпреступников (по мотивам MITRE ATT&CK): 13 тактик, 129 техник, 743 субтехники и 674 процедуры (1 387 TTP), собранные из 200+ OpSec-гайдов клир- и даркнета. Три уровня — технический, поведенческий и физический. Применение: threat intelligence, расследования, выявление пробелов в контрмерах. Также интерактивная версия https://opsectechniques.com. https://github.com/Mickinthemiddle/CLOAK
 
 ### Модели для кибербезопасности
 
