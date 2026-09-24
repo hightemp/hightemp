@@ -376,8 +376,10 @@ vendor/bin/phpqt-install
       - Что нового в PHP 8.6 https://sergeymukhin.com/blog/chto-novogo-v-php-86
     - 8.5
       - Что нового в PHP 8.5 https://sergeymukhin.com/blog/chto-novogo-v-php-85
+      - Всё, что появилось в PHP 8.5 (Dev Notes) https://www.dev-notes.ru/articles/php/everything-that-is-coming-in-php-85/
     - 8.4
       - Что нового в PHP 8.4 https://sergeymukhin.com/blog/cto-novogo-v-php-84
+      - What’s New in PHP 8.4 (Zend) https://www.zend.com/blog/php-8-4
     - 8.2
       - PHP 8.2: Что нового? https://wrp.ru/statii/php-8-2-chto-novogo/
       - Обзор PHP 8.2: нововведения, устаревшие функции и исправления багов https://zomro.com/rus/blog/articles/562-php-82-preview-new-features-deprecations-and-bug-fixes
