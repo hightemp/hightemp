@@ -1134,6 +1134,7 @@ https://arxiv.org/pdf/2411.08804v1
 ### Модели мира; world model
 
 - Mirage 2 — интерактивная модель мира, позволяющая загружать изображения и создавать новые виртуальные окружения. https://demo.dynamicslab.ai/chaos
+- FLUX 3 Action (Black Forest Labs) — World Action Model на 7B параметров для управления роботами: одновременно предсказывает действия и будущие кадры с камеры, цикл «посмотрел → спланировал → сделал → поправился»; 1-е место в бенчмарке RoboLab-120 (42,9%); открытые веса для DROID и SO-101, полный файнтюнинг, LeRobot-интеграция; Apache-2.0. https://github.com/black-forest-labs/flux-action https://huggingface.co/collections/black-forest-labs/flux-3-action
 
 ### Интересные модели
 
