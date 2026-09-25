@@ -86,6 +86,10 @@
 
 ### Статьи
 
+- Покупка за наличные
+  - Как купить криптовалюту в России: Топ-3 сервиса для безопасного обмена — рекламный материал Exnode о наличной покупке криптовалюты: сравнивает три обменных пункта, описывает порядок сделки и даёт базовый чек-лист безопасности; также продвигает мониторинг Exnode. https://habr.com/ru/companies/Exnode/articles/1069770/
+- Пополнение криптокошелька
+  - Как пополнить крипту в России: способы завести деньги на кошелек в 2026 году — рекламный гайд Exnode о переводе рублей в криптовалюту через онлайн-обменники: выбор способа оплаты и сети, проверка адреса, пошаговая заявка и сравнение трёх сервисов. https://vc.ru/invest/3155240-kak-popolnit-kryptu-v-rossii-sposoby-zachisleniya-na-koshelek
 - SOL; Солана
   - Validators; Валидаторы
     - Solana Staking Rewards & Validator Economics — how does it work? https://laine-sa.medium.com/solana-staking-rewards-validator-economics-how-does-it-work-6718e4cccc4e
