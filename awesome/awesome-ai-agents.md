@@ -52,6 +52,10 @@
 - Agentic Engineering Patterns https://simonwillison.net/guides/agentic-engineering-patterns/
 - The AI Agent Factory — онлайн-книга и учебная программа по построению Agentic Enterprise: spec-driven подход к проектированию, разработке, деплою и управлению надёжными AI-агентами/Digital FTE для реальных бизнес-процессов, с фокусом на structured specifications, domain expertise, engineering architecture и human oversight. https://agentfactory.panaversity.org/docs/about
 
+### Курсы
+
+- Learn Harness Engineering — бесплатный проектный курс по harness engineering для AI coding agents «от 0 до 1»: построение окружения, управления состоянием, верификации и контроля, чтобы агенты работали надёжно; 14 лекций + 8 проектов, на 15 языках (включая русский), с references на OpenAI «Harness engineering: leveraging Codex in an agent-first workflow» и секцией разбора того, как frontier-продукты (включая Pi) строят свои harness'ы по пятиподсистемной модели (instructions, tools, environment, state, feedback). https://github.com/walkinglabs/learn-harness-engineering https://walkinglabs.github.io/learn-harness-engineering/
+
 ### Заметки
 
 ```
