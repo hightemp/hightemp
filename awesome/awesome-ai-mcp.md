@@ -37,6 +37,8 @@
     - Stealth Browser MCP — MCP-сервер для разрешённой браузерной автоматизации и тестирования поверх `nodriver`, Chrome DevTools Protocol и FastMCP: 20–97 инструментов для навигации, UI-взаимодействий, CDP-команд, network inspection/interception, dynamic hooks, cookie/storage management и CDP-точного клонирования элементов; работает с Claude Code, Claude Desktop, Cursor и другими MCP-клиентами. https://github.com/vibheksoni/stealth-browser-mcp
     - Computer Control MCP — управление мышью, клавиатурой, OCR и desktop automation через MCP. https://github.com/AB498/computer-control-mcp
     - Talk to Figma MCP — интеграция Cursor/Claude Code с Figma для чтения и изменения дизайна напрямую. https://github.com/grab/cursor-talk-to-figma-mcp
+- Дизайн
+    - Inspo — MCP-сервер дизайн-референсов для coding agents: собирает и тегирует 2 320 страниц с 832 реальных продакшн-сайтов (десктоп + мобильные капчи, трейс палитр, шрифтов, tech, детекция технологии, послойная «аутопсия» страниц), 68 канонических компонентов-референсов с copy-paste JSX и DESIGN.md для каждого сайта; 15 MCP-инструментов (включая `recommend(brief)` и семантический поиск через Together AI embeddings), работает с Claude Code, Codex, Cursor, OpenCode, Zed и др. Ставится `npx inspo-mcp install`. https://github.com/Nutlope/inspo https://inspomcp.dev
 - Память, код и контекст
     - Память и knowledge graph
         - OpenMemory — единый memory layer для Cursor, Claude, Windsurf и других MCP-клиентов. https://github.com/mem0ai/mem0/tree/main/openmemory
