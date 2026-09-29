@@ -598,6 +598,7 @@ vendor/bin/phpqt-install
     - Survive The Deep End: PHP Security — большая книга по validation, injection, XSS, TLS и entropy; примеры и рекомендации по API следует сверять с современными версиями PHP. https://phpsecurity.readthedocs.io/en/latest/
 - Отладчики, Debugger
   - XDebug
+    - Xdebug Update: August 2025 — заметка автора Xdebug о расследовании ошибки с нативными ленивыми объектами PHP 8.4; на момент публикации проблему ещё не удалось воспроизвести в минимальном примере. https://derickrethans.nl/xdebug-update-august-2025.html
     - Configure Xdebug https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html
     - Documentation - all settings https://xdebug.org/docs/all_settings
     - Настройка xDebug с Docker в PHPStorm https://itelmenko.ru/php/xdebug-docker-phpstorm/
