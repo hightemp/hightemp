@@ -241,6 +241,9 @@
             - ELF Файлы (ELF Files)
                 - Evolution of the ELF object file format — история ELF от System V Release 4 и TIS до современного generic ABI; объясняет связь формата с System V ABI, psABI и OSABI и судьбу его спецификации. https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format
                 - Рецепты для ELFов https://habr.com/ru/companies/inforion/articles/460247/
+            - ABI (Application Binary Interface)
+                - System V AMD64 ABI 1.0 — актуальная редакция от 12 марта 2025 года: соглашение о вызовах, передача данных, ELF-файлы, релокации и динамическая компоновка. https://gitlab.com/x86-psABIs/x86-64-ABI/-/jobs/artifacts/master/raw/x86-64-ABI/abi.pdf?job=build
+                - System V AMD64 ABI Draft 0.99.6 — исторический черновик от 2 июля 2012 года; более новая редакция доступна выше. https://refspecs.linuxbase.org/elf/x86_64-abi-0.99.pdf
             - Библиотеки (Libraries)
                 - What is a Shared Object File https://cloudmersive.com/article/What-is-a-Shared-Object-File
                 - musl FAQ — официальный FAQ по musl libc: что делает C-библиотека в Linux userspace, чем musl отличается от glibc/uClibc/dietlibc, как собирать и использовать `musl-gcc`, где границы совместимости с glibc и какие portability-проблемы обычно всплывают при сборке пакетов. https://www.musl-libc.org/faq.html
