@@ -1113,7 +1113,7 @@
     - Vulnerability Scanning in Go With Govulncheck https://semaphoreci.com/blog/govulncheck
   - Остальное
     - Статический анализ в Go: как мы экономим время при проверке кода https://habr.com/ru/companies/roistat/articles/413175/
-    - Линтеры в Go. Как их готовить. Денис Исаев https://habr.com/ru/articles/457970/
+    - Линтеры в Go. Как их готовить. Денис Исаев — обзор Go-линтеров с примером `gosec` для обнаружения небезопасной передачи пользовательского ввода в shell-команду и замечанием о ложных срабатываниях. https://habr.com/ru/articles/457970/
     - Introduction to Linting in Go https://www.mohitkhare.com/blog/linting-in-golang/
     - golangci-lint: a powerful and complete Go linter https://dev.to/guiyomh/golangci-lint-a-powerful-and-complete-go-linter-5eb8
     - Готовый набор golang линтеров (джунам и мидлам) https://habr.com/ru/articles/765784/
@@ -2020,6 +2020,14 @@
     - Integrating SAST into CI/CD Pipelines — Semgrep, CodeQL, `gosec`, SARIF и управление false positives в security pipeline. https://www.systemshardening.com/articles/cicd/sast-integration-cicd/
     - Статический анализ исходного кода для языка Golang: обзор литературы — научный обзор `go vet`, `gosec`, Staticcheck, `golangci-lint` и методов статического анализа Go. https://www.ispras.ru/proceedings/docs/2025/37/6/isp_37_2025_6_59.pdf
     - Как искать уязвимости в проекте на Go — сравнение GoSec, `govulncheck` и GoKart с примерами SQL/command/path injection, файловых permissions, TLS и weak randomness. https://habr.com/ru/companies/avito/articles/739144/
+    - Вы таки внедрили сканеры безопасности в пайплайны — на этом всё? — ускорение проверок GoSec в CI через кэширование и сравнение времени сканирования с `golangci-lint`. https://habr.com/ru/amp/publications/835518/
+    - Я хотел оживить голема, но получил галлюцинирующего идиота — пример интеграции `gosec` и `staticcheck`: бот запускает сканеры параллельно, агрегирует находки и передаёт их LLM для объяснения. https://habr.com/ru/articles/1027038/
+    - Пишите лучший код Go: 20 инструментов статического анализа — обзор инструментов с отдельным разделом о правилах и ограничениях `gosec`; утверждение об отсутствии taint-анализа устарело, актуальная версия его поддерживает. https://www.in-com.com/ru/blog/write-better-go-code-20-static-analysis-tools-that-catch-bugs-before-you-do/
+    - The gosec Static Analysis Guide: Rules, CI, and Taming False Positives — актуальный гайд по выбору правил, интеграции в GitHub Actions, подавлению ложных срабатываний и границам анализатора. https://safeguard.sh/resources/blog/gosec-static-analysis-guide
+    - Taint Analysis in gosec: Tracking Data Flow from Source to Sink — разбор анализа потока данных в `gosec`, источников и опасных вызовов для поиска SQL-инъекций, command injection, SSRF и других проблем. https://oss-sec.hashnode.dev/taint-analysis-in-gosec-tracking-data-flow-from-source-to-sink
+    - Find security issues in Go code using gosec — практическое сканирование Docker CE с разбором находок по TLS, генератору случайных чисел, запуску процессов и `unsafe`; статья 2020 года. https://opensource.com/article/20/9/gosec
+    - Using gosec Tool — короткое руководство по установке `gosec`, запуску сканирования и чтению отчёта с примером hardcoded credentials. https://go-cookbook.com/snippets/security/using-gosec-tool
+    - Evaluating Cryptographic API Misuse Detectors for Go — исследование 2026 года сравнивает `gosec` с CodeQL, Gopher и Snyk при поиске ошибок использования криптографических API и анализирует ложные срабатывания. https://arxiv.org/abs/2604.24085
     - Анализ инструментов Go для проверки уязвимостей безопасности — практическое применение `govulncheck`, reachability analysis и сканирование исходного кода и собранных бинарников. https://nuancesprog.ru/p/16802/
     - Code Review Hot Spots with Semgrep — правила для поиска старых TLS versions, `InsecureSkipVerify`, `text/template`, `unsafe`, hardcoded secrets и других мест ручного security review. https://parsiya.net/blog/2022-04-07-code-review-hot-spots-with-semgrep/
     - A Hands-On Intro to Semgrep’s Autofix — автоматические исправления небезопасного `text/template` и отсутствующего `HttpOnly`; синтаксис правил 2021 года следует сверять с актуальным Semgrep. https://parsiya.net/blog/2021-10-25-a-hands-on-intro-to-semgreps-autofix/
