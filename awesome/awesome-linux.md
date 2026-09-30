@@ -533,6 +533,7 @@
             - Running systemd-nspawn containers with a VPN interface https://blog.lieter.nl/posts/systemd-nspawn-multi-interfaces-container-wireguard/
             - Systemd Nspawn https://jimmyg.org/blog/2022/nspawn/index.html
     - journald
+        - Шпаргалка по journalctl в Linux — практический разбор ключей и примеров: логи сервисов и загрузок, фильтрация по времени, просмотр в реальном времени, форматы вывода и очистка журнала. https://losst.pro/shpargalka-po-journalctl-v-linux
         - How To Use Journalctl to View and Manipulate Systemd Logs https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs
         - A journalctl mini-tutorial https://smarketshq.com/a-journalctl-mini-tutorial-8675a5daa072
         - How to Use Journalctl to Consult Server Logs https://alibaba-cloud.medium.com/how-to-use-journalctl-to-consult-server-logs-4b07311b0ab4
