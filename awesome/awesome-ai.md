@@ -1692,8 +1692,17 @@ https://arxiv.org/pdf/2411.08804v1
 - **Большие Языковые Модели (LLM)** {#большие-языковые-модели}
     - Основное
         - [См. также: Введение в LLM в разделе Основы и Введение](#основы-и-введение)
-    - Оценка моделей и бенчмарки
-        - Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity — arXiv-статья о black-box оценке числа параметров LLM через фактическую ёмкость: 1400 factual questions в 7 уровнях редкости, калибровка на 89 open-weight models с лог-линейной зависимостью от total params (R²=0.917), отдельная проверка MoE и оговорка, что refusals у safety-tuned моделей дают нижнюю оценку. https://arxiv.org/abs/2604.24827
+    - Оценка моделей
+        - Оценка числа параметров
+            - Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity — arXiv-статья о black-box оценке числа параметров LLM через фактическую ёмкость: 1400 factual questions в 7 уровнях редкости, калибровка на 89 open-weight models с лог-линейной зависимостью от total params (R²=0.917), отдельная проверка MoE и оговорка, что refusals у safety-tuned моделей дают нижнюю оценку. https://arxiv.org/abs/2604.24827
+    - Бенчмарки кодинг-агентов
+        - DeepSWE
+            - Методология
+                - DeepSWE: Measuring frontier coding agents — официальный разбор бенчмарка Datacurve: 113 оригинальных длинных инженерных задач в 91 репозитории на пяти языках, поведенческие верификаторы и единый `mini-swe-agent`; поясняет, что рейтинг сравнивает модели в фиксированном harness. https://deepswe.datacurve.ai/blog/deepswe
+            - Независимый обзор
+                - DeepSWE: the benchmark that shows why coding agents fail on long tasks — независимое объяснение длинных задач DeepSWE, метрик качества/стоимости/времени и ограничений общего `mini-swe-agent` harness. https://ai.ondrej-pech.cz/en/blog/deepswe-coding-agent-benchmark
+            - Аудит качества
+                - DeepSWE v1.1 — Benchmark review — аудит Epoch AI: авторы сообщают об ошибках оценки как минимум в 23 из 113 задач и отмечают, как они влияют на pass/fail. https://epoch.ai/benchmarks/deepswe/review
     - Prompt Engineering и Управление Выводом (Prompt Engineering & Output Control)
         - Prompt Decorators: A Simple Way to Improve AI Responses https://kalami.medium.com/prompt-decorators-a-simple-way-to-improve-ai-responses-c3f3c2579a8c
         - Advanced Prompt Engineering Techniques https://www.mercity.ai/blog-post/advanced-prompt-engineering-techniques
