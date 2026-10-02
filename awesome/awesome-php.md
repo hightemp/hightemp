@@ -567,6 +567,10 @@ vendor/bin/phpqt-install
     - Hack the Elephant One Bite at a Time — исследование memory-safety ошибок PHP при обработке JPEG и сценариев эксплуатации через потоковый ввод. https://swarm.ptsecurity.com/hack-the-elephant-one-bite-at-a-time-jpeg-related-memory-safety-bugs-in-php/
     - Security audit of PHP-SRC — результаты аудита PHP-FPM, PDO, MySQL, OpenSSL, multipart parsing и криптографических API с найденными уязвимостями и CVE. https://blog.quarkslab.com/security-audit-of-php-src.html
     - Modern PHP Security Part 2: Breaching and hardening the PHP engine — обход ограничений движка и defense in depth через PHP-FPM isolation, read-only filesystem, `php.ini`, systemd и Snuffleupagus. https://labs.detectify.com/security-guidance/modern-php-security-part-2-breaching-and-hardening-the-php-engine/
+  - PHP-FPM
+    - Взломали один сайт из десяти на сервере: как не потерять остальные — изоляция сайтов отдельными системными пользователями и PHP-FPM-пулами, настройка сокетов и минимальные права на файлы. https://maatrix.io/blog/vzlomali-odin-sajt-iz-desyati-kak-spasti-ostalnye/
+    - PHP-FPM pools explained: one pool per site on a shared server — настройка пула на сайт с отдельным пользователем, сокетом и лимитами; разъясняет различие между пользователем PHP-процессов и правами на сокет. https://stackharbor.com/en/knowledge-base/php-fpm-pool-isolation-per-site/
+    - PHP-FPM Unix Socket Permissions — диагностика доступа Nginx к Unix-сокету PHP-FPM, фактические UID/GID воркеров, права на весь путь и безопасная настройка `listen.owner`, `listen.group` и `listen.mode`. https://adammuiz.com/php-fpm-unix-socket-permissions-let-nginx-reach-php-without-opening-the-door-to-everyone/
   - Stream wrappers и фильтры
     - Iconv, set the charset to RCE — превращение file-read в RCE через `php://filter`, iconv и CVE-2024-2961 в glibc. https://blog.lexfo.fr/iconv-cve-2024-2961-p1.html
     - Introducing wrapwrap — построение произвольных prefix/suffix через цепочки PHP-фильтров для развития SSRF и LFI. https://blog.lexfo.fr/wrapwrap-php-filters-suffix.html
