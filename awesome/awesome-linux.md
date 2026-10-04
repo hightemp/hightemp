@@ -104,6 +104,7 @@
 ### Шпаргалки; Cheatsheet
 
 - https://developers.redhat.com/cheat-sheets/linux-commands-cheat-sheet?intcmp=701f20000012ngPAAQ&_gl=1*2soac4*_gcl_au*MTI0NTgzMTM0Mi4xNzU3OTI2MDcw
+- Linux — огромная шпаргалка по Linux и командам Bash на русском: от основ (файлы, процессы, права, память, загрузка, сеть) до продвинутых тем (Bash для профи, LVM, RAID, трассировка и производительность, ядро, безопасность, контейнеры, восстановление системы) и вопросов с собеседований. GitHub-репозиторий с примерами по `grep`/`sed`/`awk`, SSH, systemd, Vim и готовыми однострочниками. https://github.com/justxor/Linux-
 
 ### Мануалы
 
