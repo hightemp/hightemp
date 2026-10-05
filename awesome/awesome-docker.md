@@ -39,6 +39,7 @@
 
 ### Гайды
 
+- Docker Compose в production — официальное руководство по настройке production-развёртывания: отделение кода от host mounts, production-конфигурация и обновление пересборкой образа. https://docs.docker.com/compose/how-tos/production/
 - Docker, FROM scratch https://docker-from-scratch.ivonet.nl/
 - Docker Workshop — практический модульный воркшоп по Docker: основы контейнеризации, разработка, тестирование, сборка и защита приложения, а также Docker Agent, Model Runner, MCP, sandboxing и Kubernetes. https://www.dockerworkshop.com/
 
