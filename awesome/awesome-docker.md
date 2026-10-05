@@ -46,6 +46,8 @@
 
 ### Статьи
 
+- Деплой
+    - Как не держать код на сервере — пример CI/CD: GitLab собирает приложение в Docker-образ и публикует его в Container Registry, а сервер загружает образ и запускает через Compose; автор отмечает тег latest как упрощение. https://habr.com/ru/articles/992258/
 - Основоное
     - #1 Что такое контейнер, image, DockerHub? https://habr.com/ru/articles/804323/
     - #2 Все инструкции Dockerfile https://habr.com/ru/articles/804325/
@@ -88,6 +90,8 @@
     - Работа с логами (Logs) в Docker https://linux-notes.org/rabota-s-logami-logs-v-docker/
 - Images, Образы
     - Основное
+        - Speed Up Your Development Flow With These Dockerfile Best Practices — показывает bind mount исходников для разработки и отдельный multi-stage образ для production. https://www.docker.com/blog/speed-up-your-development-flow-with-these-dockerfile-best-practices/
+        - Bind Mounts in Dev Will Lie to Your Face — на примере Laravel разбирает, как bind mount может скрыть отсутствующий vendor, собранные файлы и ошибки прав в production-образе; автор рекомендует проверять образ без монтирования исходников. https://www.nwos.com/daily/bind-mounts-in-dev-will-lie-to-your-face
         - 10 Docker Security Best Practices https://snyk.io/blog/10-docker-image-security-best-practices/
         - 10 best practices to containerize Node.js web applications with Docker https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/
     - scratch
