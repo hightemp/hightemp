@@ -37,6 +37,8 @@
     - MIT 6.S191: Introduction to Deep Learning https://introtodeeplearning.com/
     - Deep Learning Specialization https://www.deeplearning.ai/specializations/deep-learning
     - Neural Networks: Zero to Hero — Andrej Karpathy https://karpathy.ai/zero-to-hero.html
+  - Наука и астрофизика
+    - Deep Learning for Astrophysics — NASA — бесплатный открытый курс от NASA Cosmic Origins AI/ML STIG: глубокое обучение для астрономии и астрофизики. 23 главы / 6 частей / 17 лекторов (в т.ч. MIT, Boston University, Princeton). Охватывает autodiff и архитектуры нейросетей → генеративные модели, simulation-based inference, RL, и LLM-агенты для автономных исследований. Каждая глава — исполняемый Jupyter-ноутбук с кодом и привязанной записью лекции на YouTube. https://deeplearning4astro.com https://ai4astro.org https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/free-textbook-on-deep-learning-in-astrophysics/
   - Компьютерное зрение
     - Stanford CS231n: Deep Learning for Computer Vision https://cs231n.stanford.edu/
     - Community Computer Vision Course — Hugging Face https://huggingface.co/learn/computer-vision-course/en/unit0/welcome/welcome
