@@ -20,6 +20,10 @@
 
 - https://check-host.net/
 
+### Сервисы проверки блокировок
+
+- Cheburcheck — сервис проверки доменов и IP-адресов по реестру блокировок Роскомнадзора и спискам подсетей CDN-провайдеров. https://cheburcheck.ru/
+
 ### Диагностические эндпоинты
 
 - GoogleVideo report mapping - показывает сопоставление клиентского IP с узлом/маршрутом GoogleVideo CDN. https://redirector.googlevideo.com/report_mapping
