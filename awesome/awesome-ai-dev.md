@@ -17,6 +17,7 @@
 - ETok.ai — реле-сервис для AI coding agents с доступом к Claude Code, Google Gemini и OpenAI Codex через пакеты и API/аккаунтную инфраструктуру. https://etok.ai
 - AIGoCode — реле-платформа для Claude Code, Codex и Gemini с подписочными планами и доступом к моделям для coding agents. https://aigocode.com/
 - YLS Code — реле/API-сервис для coding agents с Codex, Claude и Gemini, subscription и pay-as-you-go вариантами доступа. https://ylscode.com/
+- QCode.cc — реле/API-сервис для AI coding agents с единым ключом и общей квотой для Claude, GPT, Gemini, GLM, Kimi, DeepSeek и Qwen; поддерживает Claude Code, Codex, OpenCode и интеграции с IDE. https://qcode.cc/
 
 ### Среды для агентной разработки
 
