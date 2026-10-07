@@ -3,6 +3,18 @@
 
 - https://t.me/femidasearch/79
 
+### Путешествия
+
+- WindowSwap — видео с видами из окон людей из разных стран. https://www.window-swap.com/
+- Virtual Vacation — виртуальные прогулки и виды городов мира. https://virtualvacation.us/
+- MapCrunch — случайная точка в Google Street View для виртуального путешествия. https://www.mapcrunch.com/
+- Atlas Obscura — каталог необычных мест и достопримечательностей мира. https://www.atlasobscura.com/
+
+### Интерактивные проекты
+
+- Neal.fun — коллекция интерактивных веб-проектов и игр для изучения разных тем. https://neal.fun/
+- Listen to Wikipedia — звуковая визуализация правок Википедии в реальном времени. https://listen.hatnote.com/
+
 ### Статьи
 
 - Data Transmission via GSM Voice Channel for End to End Security https://web.itu.edu.tr/~ozkanmeh/pubs/ozkanICCE.pdf?utm_source=chatgpt.com

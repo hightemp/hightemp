@@ -2,6 +2,7 @@
 
 - Бесплатные
     - Мульти-дисциплинарные
+        - arXiv — открытый архив препринтов по физике, математике, информатике и другим областям. https://arxiv.org/
         - https://core.ac.uk/
         - https://doaj.org/
         - https://eric.ed.gov
@@ -56,6 +57,7 @@
 
 ### Издания
 
+- ScienceDaily — новости и обзоры результатов научных исследований. https://www.sciencedaily.com/
 - Multidisciplinary Digital Publishing Institute; MDPI - это крупная академическая издательская платформа; https://www.mdpi.com/
 
 ### Полезные ссылки

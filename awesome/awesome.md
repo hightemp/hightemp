@@ -208,6 +208,31 @@
 - https://booktracker.org/
 - https://onticolist.ru/
 
+## Цифровые архивы
+
+- Internet Archive — цифровая библиотека книг, аудио, видео, программ и веб-страниц. https://archive.org/
+
+## Искусство
+
+- Google Arts & Culture — цифровые коллекции музеев и виртуальные экскурсии. https://artsandculture.google.com/
+- Rijksmuseum Collection Online — каталог произведений музея; изображения многих работ доступны для скачивания в высоком разрешении. https://www.rijksmuseum.nl/en/collection
+- WikiArt — каталог произведений искусства с поиском по художникам, стилям и жанрам. https://www.wikiart.org/
+- The Metropolitan Museum of Art — онлайн-коллекция музея Метрополитен. https://www.metmuseum.org/art/collection
+
+## Культура
+
+- The Public Domain Review — подборки и статьи о произведениях искусства, литературы и истории, перешедших в общественное достояние. https://publicdomainreview.org/
+- Open Culture — подборки бесплатных образовательных и культурных материалов. https://www.openculture.com/
+
+## Музыка
+
+- Musicmap — интерактивная схема истории и связей популярных музыкальных жанров. https://musicmap.info/
+- Radiooooo — музыкальное путешествие по странам и десятилетиям. https://app.radiooooo.com/
+
+## Время
+
+- timeanddate — часовые пояса, календари, восходы и закаты, астрономические события. https://www.timeanddate.com/
+
 ## Изучение языков
 
 - Английский

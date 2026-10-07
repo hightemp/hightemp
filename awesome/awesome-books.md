@@ -11,6 +11,11 @@
 - https://github.com/guilhermeoki/awesome-tech-books
 - https://github.com/fenbf/AwesomePerfCpp
 
+### Электронные библиотеки
+
+- Project Gutenberg — бесплатные электронные книги, преимущественно произведения с истёкшим сроком охраны авторских прав в США. https://www.gutenberg.org/
+- Open Library — каталог книг с возможностью читать и брать некоторые издания онлайн. https://openlibrary.org/
+
 ### Книги
 
 - Компьютерные науки / Информационные технологии

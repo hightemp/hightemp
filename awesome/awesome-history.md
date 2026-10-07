@@ -7,7 +7,8 @@
 - https://rutracker.org/forum/viewtopic.php?t=4654785
 - https://cloud.mail.ru/public/2cR6/2MptMnjYg?/public/f389def4210f/%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%B0%D1%80%D1%82%D1%8B
 - проект, позволяющий приобретать высококачественные цифровые копии старинных карт высокого разрешения для использования в научных, исследовательских, образовательных и творческих целях от ведущего интернет-магазина раритетных карт и атласов. https://www.raremaps.com/
-- TimeMap - масштабная интерактивная карта мира, охватывающая всю историю человечества и ключевые события, позволяющая проследить изменения границ государств, правителей, войны и сражения начиная с древних шумеров и до начала XXI века, каждое событие сопровождается статьями из Wikipedia. http://oldmapsonline.org/en/history/people
+- OldMapsOnline — поиск исторических карт по месту и времени; раздел TimeMap показывает исторические события на карте. https://www.oldmapsonline.org/ https://www.oldmapsonline.org/en/history/people
+- David Rumsey Historical Map Collection — поисковый архив исторических карт и атласов. https://www.davidrumsey.com/
 - Археологическая карта России https://archaeolog.ru/pub/map
 - https://hraniteli-nasledia.com/articles/map/
 - Girolamo Ruscelli
@@ -56,8 +57,11 @@
 ### Библиотеки
 
 - США
-    - The Library of Congress https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/finding/
+    - Библиотека Конгресса США — цифровые коллекции и каталог первоисточников. https://www.loc.gov/ Руководство по поиску: https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/finding/
     -  коллекция исторических газет из всех штатов США от Библиотеки Конгресса https://www.loc.gov/collections/chronicling-america/about-this-collection/
+    - Digital Public Library of America — единый поиск по цифровым коллекциям библиотек и архивов США. https://dp.la/
+- Европа
+    - Europeana — оцифрованные документы, изображения и другие объекты культурного наследия европейских учреждений. https://www.europeana.eu/
 - Россия
     - https://www.lib.tsu.ru/sp/subjects/guide.php?subject=histor
     - онлайн-репозиторий препринтов для социальных и гуманитарных наук, созданный по образцу arXiv https://osf.io/preprints/socarxiv

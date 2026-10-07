@@ -1,5 +1,21 @@
 
-### Полезные ссылки
+### Счётчики
+
+- Worldometer — счётчики населения и других мировых показателей на основе опубликованных данных и оценок. https://www.worldometers.info/
+- Internet Live Stats — оценочные счётчики активности интернета: пользователей, сайтов, поисковых запросов и сообщений. https://www.internetlivestats.com/
+
+### Порталы данных
+
+- Our World in Data — статьи, графики и наборы данных о глобальных тенденциях. https://ourworldindata.org/
+- Gapminder — интерактивные данные и тесты для проверки представлений о мире. https://www.gapminder.org/
+- World Bank Open Data — открытые показатели развития по странам и темам. https://data.worldbank.org/
+- TÜİK Data Portal — официальные статистические данные Турции. https://veriportali.tuik.gov.tr/
+
+### Визуализация данных
+
+- The Pudding — интерактивные статьи, основанные на данных. https://pudding.cool/
+- Information is Beautiful — инфографика и визуальные объяснения на основе данных. https://informationisbeautiful.net/
+- Observable — платформа для создания и публикации интерактивных визуализаций с помощью кода. https://observablehq.com/
 
 ### Блоги
 
