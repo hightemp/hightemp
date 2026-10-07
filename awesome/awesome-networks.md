@@ -30,6 +30,10 @@
 - GoogleVideo report mapping - показывает сопоставление клиентского IP с узлом/маршрутом GoogleVideo CDN. https://redirector.googlevideo.com/report_mapping
 - Cloudflare trace для ChatGPT - выводит параметры текущего соединения: IP, colo, TLS, HTTP, WARP/gateway. https://chatgpt.com/cdn-cgi/trace
 
+### Сетевые диагностические сервисы
+
+- CleanIP Claude AI IP Risk Check — проверяет сетевое окружение с точки зрения Claude: регион IP, тип и репутацию адреса, согласованность выходов Anthropic-доменов, WebRTC, DNS, IPv4/IPv6 и часовой пояс; итоговая оценка сторонняя и не является решением Anthropic. https://cleanip.io/en/claude
+
 ### Полезные утилиты
 
 - Self-hosted ngrok alternative https://docs.ssi.sh/
