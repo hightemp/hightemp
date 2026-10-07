@@ -277,18 +277,30 @@
       - The Definitive Guide to Commander.js — подробный гайд по созданию CLI на Node.js с Commander.js: shebang, ESM, options, commands/subcommands, аргументы и валидация, цветной вывод через Chalk и интерактивные prompts. https://betterstack.com/community/guides/scaling-nodejs/commander-explained/
   - Фреймворки
     - AdonisJS
-      - [EN, 28.09.2026] Redesigned starter kits with dark mode, layouts, and typed forms — обновление пяти официальных шаблонов: тёмная тема, отдельные макеты, типизированные формы и настройки аутентификации. https://adonisjs.com/blog/redesigned-starter-kits
-      - [EN, 20.08.2026] Introducing codegen command and application warmup phase — как обновлять сгенерированные файлы и типы командой `node ace codegen`, не запуская фоновые задачи приложения; в том числе для CI. https://adonisjs.com/blog/codegen-and-application-warmup
-      - [EN, 10.08.2026] Inertia v3 and end-to-end type safety in AdonisJS — переход на `@adonisjs/inertia` v5 и Inertia v3, типы от маршрутов и валидаторов до React/Vue-компонентов, подробности обновления. https://adonisjs.com/blog/adonisjs-inertia-5
-      - [EN, 10.08.2026] Vite 8 and server-side modules in AdonisJS — обновление интеграции до Vite 8 и загрузка Vite-модулей внутри процесса AdonisJS. https://adonisjs.com/blog/adonisjs-vite-6
-      - [RU, 24.06.2026] Как создать CRUD API с AdonisJS — практический пример на v7: API starter, миграции Lucid, генерация схем, контроллеры, VineJS и проверка curl-запросами. https://blog.openreplay.com/ru/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-crud-api-adonisjs/
-      - [EN, 09.04.2026] How we re-designed redirects in AdonisJS — защита `redirect().back()` от open redirect, сохранение предыдущего URL в сессии и возврат к странице после входа. https://adonisjs.com/blog/how-we-redesigned-redirects-in-adonisjs
-      - [RU, 25.03.2026] Обзор AdonisJS для разработки на Node — разбирает v7, MVC, Lucid ORM, VineJS и сквозную типизацию; сравнивает подход с Express. https://blog.openreplay.com/ru/adonisjs-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-node/
-      - [EN, 25.02.2026] AdonisJS v7 is here — обзор релиза v7: Node.js 24+, сквозная типобезопасность, новые starter kits, OpenTelemetry, шифрование и обновления Lucid. https://adonisjs.com/blog/v7
-      - [EN, 20.12.2025] Introducing OpenTelemetry support in AdonisJS — подключение трассировок, метрик и логов; автор показывает автосбор данных и измеряет накладные расходы. https://adonisjs.com/blog/introduction-adonisjs-opentelemetry
-      - [RU, 28.01.2024] Релиз фреймворка AdonisJS v6 — короткая новость о переходе на TypeScript и ESM и статусе совместимости пакетов на момент релиза. https://habr.com/ru/news/789542/
-      - [RU, 2022] Дежавю: от Laravel к AdonisJS, или как поменяли исходный код в Матрице — обзор MVC, структуры проекта, маршрутов и миграций глазами PHP-разработчика; примеры и команды относятся к старому API AdonisJS. https://habr.com/ru/articles/650341/
-      - [RU, 2020] AdonisJS 5 — Laravel-подобный фреймворк на Node.js и TypeScript — краткий обзор ORM, миграций, моделей, middleware и Ace CLI во времена preview-релиза v5; материал полезен для истории проекта, не как руководство для v7. https://habr.com/ru/articles/506228/
+      - Обзоры
+        - [RU, 25.03.2026] Обзор AdonisJS для разработки на Node — разбирает v7, MVC, Lucid ORM, VineJS и сквозную типизацию; сравнивает подход с Express. https://blog.openreplay.com/ru/adonisjs-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-node/
+        - [RU, 2022] Дежавю: от Laravel к AdonisJS, или как поменяли исходный код в Матрице — обзор MVC, структуры проекта, маршрутов и миграций глазами PHP-разработчика; примеры и команды относятся к старому API AdonisJS. https://habr.com/ru/articles/650341/
+        - [RU, 2020] AdonisJS 5 — Laravel-подобный фреймворк на Node.js и TypeScript — краткий обзор ORM, миграций, моделей, middleware и Ace CLI во времена preview-релиза v5; материал полезен для истории проекта, не как руководство для v7. https://habr.com/ru/articles/506228/
+      - Практические руководства
+        - [RU, 24.06.2026] Как создать CRUD API с AdonisJS — практический пример на v7: API starter, миграции Lucid, генерация схем, контроллеры, VineJS и проверка curl-запросами. https://blog.openreplay.com/ru/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-crud-api-adonisjs/
+      - Релизы
+        - AdonisJS 7
+          - [EN, 25.02.2026] AdonisJS v7 is here — обзор релиза v7: Node.js 24+, сквозная типобезопасность, новые starter kits, OpenTelemetry, шифрование и обновления Lucid. https://adonisjs.com/blog/v7
+        - AdonisJS 6
+          - [RU, 28.01.2024] Релиз фреймворка AdonisJS v6 — короткая новость о переходе на TypeScript и ESM и статусе совместимости пакетов на момент релиза. https://habr.com/ru/news/789542/
+      - Возможности
+        - Стартовые шаблоны
+          - [EN, 28.09.2026] Redesigned starter kits with dark mode, layouts, and typed forms — обновление пяти официальных шаблонов: тёмная тема, отдельные макеты, типизированные формы и настройки аутентификации. https://adonisjs.com/blog/redesigned-starter-kits
+        - Генерация кода и жизненный цикл приложения
+          - [EN, 20.08.2026] Introducing codegen command and application warmup phase — как обновлять сгенерированные файлы и типы командой `node ace codegen`, не запуская фоновые задачи приложения; в том числе для CI. https://adonisjs.com/blog/codegen-and-application-warmup
+        - Inertia
+          - [EN, 10.08.2026] Inertia v3 and end-to-end type safety in AdonisJS — переход на `@adonisjs/inertia` v5 и Inertia v3, типы от маршрутов и валидаторов до React/Vue-компонентов, подробности обновления. https://adonisjs.com/blog/adonisjs-inertia-5
+        - Vite
+          - [EN, 10.08.2026] Vite 8 and server-side modules in AdonisJS — обновление интеграции до Vite 8 и загрузка Vite-модулей внутри процесса AdonisJS. https://adonisjs.com/blog/adonisjs-vite-6
+        - Безопасность
+          - [EN, 09.04.2026] How we re-designed redirects in AdonisJS — защита `redirect().back()` от open redirect, сохранение предыдущего URL в сессии и возврат к странице после входа. https://adonisjs.com/blog/how-we-redesigned-redirects-in-adonisjs
+        - Наблюдаемость
+          - [EN, 20.12.2025] Introducing OpenTelemetry support in AdonisJS — подключение трассировок, метрик и логов; автор показывает автосбор данных и измеряет накладные расходы. https://adonisjs.com/blog/introduction-adonisjs-opentelemetry
   - Подборки
     - 23 полезнейших Node.js-библиотеки, о которых стоит знать в 2020 году — обзорный список пакетов для Node.js: Express, Socket.io, Passport, Multer, Axios, Morgan, Sequelize, Mongoose, Jest, Chalk, Helmet и другие. https://habr.com/ru/companies/ruvds/articles/516298/
     - 16 NPM-пакетов, о которых должен знать каждый Node.js-разработчик — обзор базовых пакетов для Node.js-разработки: Express, Axios, Mongoose, Prisma, Socket.IO, Vite, Jest и современные альтернативы вроде Fastify, Fetch API и Vitest. https://habr.com/ru/companies/otus/articles/893908/
