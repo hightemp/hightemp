@@ -275,6 +275,12 @@
     - Commanderjs
       - Writing Command Line Scripts in Node.js — заметка о написании CLI-скриптов на Node.js: парсинг аргументов через `commander`/`minimist`, `require.main === module` для запуска файла как команды или импорта как модуля и синхронные API вроде `execSync`/`fs.*Sync`. https://sanori.github.io/2015/09/Writing-Command-Line-Scripts-in-Node-js/
       - The Definitive Guide to Commander.js — подробный гайд по созданию CLI на Node.js с Commander.js: shebang, ESM, options, commands/subcommands, аргументы и валидация, цветной вывод через Chalk и интерактивные prompts. https://betterstack.com/community/guides/scaling-nodejs/commander-explained/
+  - Фреймворки
+    - AdonisJS
+      - Обзор AdonisJS для разработки на Node — разбирает v7, MVC, Lucid ORM, VineJS и сквозную типизацию; сравнивает подход с Express. https://blog.openreplay.com/ru/adonisjs-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-node/
+      - Как создать CRUD API с AdonisJS — практический пример на v7: API starter, миграции Lucid, генерация схем, контроллеры, VineJS и проверка curl-запросами. https://blog.openreplay.com/ru/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-crud-api-adonisjs/
+      - Дежавю: от Laravel к AdonisJS, или как поменяли исходный код в Матрице — обзор MVC, структуры проекта, маршрутов и миграций глазами PHP-разработчика; примеры и команды относятся к старому API AdonisJS. https://habr.com/ru/articles/650341/
+      - AdonisJS 5 — Laravel-подобный фреймворк на Node.js и TypeScript — краткий обзор ORM, миграций, моделей, middleware и Ace CLI во времена preview-релиза v5; материал полезен для истории проекта, не как руководство для v7. https://habr.com/ru/articles/506228/
   - Подборки
     - 23 полезнейших Node.js-библиотеки, о которых стоит знать в 2020 году — обзорный список пакетов для Node.js: Express, Socket.io, Passport, Multer, Axios, Morgan, Sequelize, Mongoose, Jest, Chalk, Helmet и другие. https://habr.com/ru/companies/ruvds/articles/516298/
     - 16 NPM-пакетов, о которых должен знать каждый Node.js-разработчик — обзор базовых пакетов для Node.js-разработки: Express, Axios, Mongoose, Prisma, Socket.IO, Vite, Jest и современные альтернативы вроде Fastify, Fetch API и Vitest. https://habr.com/ru/companies/otus/articles/893908/
