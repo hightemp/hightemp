@@ -285,11 +285,14 @@
   - Фреймворки
     - AdonisJS
       - Обзоры
+        - [EN, 21.04.2026] AdonisJS Review 2026: Is This Node.js Framework Still Worth It? — опыт миграции с Express на AdonisJS 6+, плюсы встроенного стека и CLI, а также оговорки о кривой обучения, конвенциях и небольшом сообществе. https://ajmani.dev/adonisjs-review-2026-worth-it/
         - [RU, 25.03.2026] Обзор AdonisJS для разработки на Node — разбирает v7, MVC, Lucid ORM, VineJS и сквозную типизацию; сравнивает подход с Express. https://blog.openreplay.com/ru/adonisjs-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-node/
+        - [EN, 15.01.2026] Advantages and Drawbacks of AdonisJS: A Structured Full-Stack Framework — разбирает скорость разработки благодаря MVC, Lucid и готовым модулям, а также ограничения конвенций и цену нестандартных интеграций. https://edana.ch/en/2026/01/15/advantages-and-drawbacks-of-adonisjs-a-structured-full-stack-accelerator-or-a-long-term-constraining-framework/
         - [RU, 2022] Дежавю: от Laravel к AdonisJS, или как поменяли исходный код в Матрице — обзор MVC, структуры проекта, маршрутов и миграций глазами PHP-разработчика; примеры и команды относятся к старому API AdonisJS. https://habr.com/ru/articles/650341/
         - [RU, 2020] AdonisJS 5 — Laravel-подобный фреймворк на Node.js и TypeScript — краткий обзор ORM, миграций, моделей, middleware и Ace CLI во времена preview-релиза v5; материал полезен для истории проекта, не как руководство для v7. https://habr.com/ru/articles/506228/
       - Практические руководства
         - [RU, 24.06.2026] Как создать CRUD API с AdonisJS — практический пример на v7: API starter, миграции Lucid, генерация схем, контроллеры, VineJS и проверка curl-запросами. https://blog.openreplay.com/ru/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-crud-api-adonisjs/
+        - [EN, 04.06.2026] I Built a SaaS with AdonisJS 7, and I Loved It — личный разбор SaaS на AdonisJS 7, Inertia и Vue 3: выбор монолита с общей типизацией вместо отдельного API и SPA. https://dev.to/maximeshr/i-built-a-saas-with-adonisjs-7-and-i-loved-it-20f0
       - Тестирование
         - Настройка тестовой среды
           - Настройка тестовой среды — Japa, suites, `.env.test`, HTTP- и browser-тесты. https://nweb42.com/books/adonisjs/nastroyka-testovoy-sredy-adonisjs/
