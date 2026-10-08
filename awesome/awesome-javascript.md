@@ -14,6 +14,7 @@
 - Валидация данных
   - ArkType - это библиотека для проверки данных во время выполнения, которая создает оптимизированные валидаторы из привычного, типобезопасного синтаксиса, полезная для проверки внешних данных, таких как JSON-пейлоуды или отправленные формы, на границах вашего кода. https://github.com/arktypeio/arktype
   - express-validator — middleware для Express.js поверх `validator.js`: валидирует и санитизирует данные запроса, подходит для проверки `body`, `query`, `params`, cookies и headers в Node.js API. https://github.com/express-validator/express-validator
+  - VineJS — библиотека проверки форм и JSON-полезных нагрузок в Node.js: валидирует данные по схемам, выводит TypeScript-типы и поддерживает пользовательские правила и сообщения об ошибках. Создана в экосистеме AdonisJS, но используется отдельно. https://github.com/vinejs/vine
 - CLI
   - Commander.js — библиотека для создания CLI-приложений на Node.js: парсинг опций и аргументов, команды и подкоманды, автоматическая справка, hooks, TypeScript-типы и поддержка CommonJS/ESM. https://github.com/tj/commander.js/
 - markdown
