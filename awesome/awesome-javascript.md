@@ -290,6 +290,22 @@
         - [RU, 2020] AdonisJS 5 — Laravel-подобный фреймворк на Node.js и TypeScript — краткий обзор ORM, миграций, моделей, middleware и Ace CLI во времена preview-релиза v5; материал полезен для истории проекта, не как руководство для v7. https://habr.com/ru/articles/506228/
       - Практические руководства
         - [RU, 24.06.2026] Как создать CRUD API с AdonisJS — практический пример на v7: API starter, миграции Lucid, генерация схем, контроллеры, VineJS и проверка curl-запросами. https://blog.openreplay.com/ru/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-crud-api-adonisjs/
+      - Тестирование
+        - Настройка тестовой среды
+          - Настройка тестовой среды — Japa, suites, `.env.test`, HTTP- и browser-тесты. https://nweb42.com/books/adonisjs/nastroyka-testovoy-sredy-adonisjs/
+          - Japa test runner — конфигурация, запуск тестов и возможности тестового раннера. https://nweb42.com/books/adonisjs/japa-test-runner/
+          - Introduction to testing — настройка Japa, suites, запуск тестов и переменные тестового окружения. https://docs.adonisjs.com/guides/testing/introduction
+        - Unit-тесты
+          - Unit-тестирование — изолированные тесты сервисов и логики, assertions и подмена зависимостей. https://nweb42.com/books/adonisjs/unit-testirovanie-adonisjs/
+          - Test doubles — встроенные фейки, подмена зависимостей через контейнер и подключение Sinon.js. https://docs.adonisjs.com/guides/testing/test-doubles
+        - Интеграционные тесты
+          - Integration-тестирование — проверка взаимодействия нескольких частей приложения и их зависимостей. https://nweb42.com/books/adonisjs/integration-testirovanie-adonisjs/
+          - Resetting state between tests — тестовая база, миграции, транзакции, очистка БД, файлов и Redis между тестами. https://docs.adonisjs.com/guides/testing/resetting-state-between-tests
+        - HTTP-тесты
+          - Functional-тестирование — HTTP-сценарии через клиент Japa и проверки ответов и побочных эффектов. https://nweb42.com/books/adonisjs/functional-testirovanie/
+          - API tests — HTTP-тесты маршрутов и API, валидации, сессий, аутентификации и ответов Inertia. https://docs.adonisjs.com/guides/testing/api-tests
+        - Браузерные тесты
+          - Browser tests — сквозные UI-тесты с Playwright для Hypermedia и Inertia-приложений. https://docs.adonisjs.com/guides/testing/browser-tests
       - Релизы
         - AdonisJS 7
           - [EN, 25.02.2026] AdonisJS v7 is here — обзор релиза v7: Node.js 24+, сквозная типобезопасность, новые starter kits, OpenTelemetry, шифрование и обновления Lucid. https://adonisjs.com/blog/v7
