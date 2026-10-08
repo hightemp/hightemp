@@ -8,6 +8,7 @@
 - Библиотека промтов Promptly — большая коллекция промтов, сгруппированных в 9 категорий: бизнес, карьера, креатив, образование, здоровье, маркетинг, технологии, личный помощник и общее. https://www.promptly.fyi/library
 - https://smith.langchain.com/hub/
 - https://cursor.directory/
+- Skillry: Opus 5.5 Videos — галерея видеороликов и анимаций, созданных кодом с Claude Opus 5.5: опубликованные авторами промпты, ссылки на исходные посты и сравнение оригиналов с воспроизведениями Skillry; примеры используют Remotion, HyperFrames, Three.js и GSAP. https://skillry.dev/ai-videos/opus-5-5
 
 ### Промты; Промптинг
 
