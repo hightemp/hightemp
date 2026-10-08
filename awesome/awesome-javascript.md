@@ -10,7 +10,18 @@
 ### Библиотеки
 
 - Логирование
-  - Winston — универсальная библиотека логирования для Node.js с поддержкой множественных транспортов (способов хранения логов), гибкой настройкой уровней логирования и форматов, обеспечивающая разделение компонентов процесса логирования для максимальной расширяемости и гибкости. https://github.com/winstonjs/winston
+  - Логи приложения
+    - Winston — логгер для Node.js с настраиваемыми уровнями и форматами сообщений; поддерживает несколько транспортов для записи в консоль, файлы и внешние хранилища. https://github.com/winstonjs/winston
+    - Pino — логгер для Node.js со структурированным JSON-выводом, дочерними логгерами для контекста запроса, скрытием чувствительных полей и транспортами в worker threads. https://github.com/pinojs/pino
+    - Log4js — логгер для Node.js с категориями, отдельными уровнями для разных частей приложения, шаблонами сообщений и appenders для консоли и файлов с ротацией по размеру или дате. https://github.com/log4js-node/log4js-node
+  - Консольные логи
+    - Consola — логгер для Node.js и браузера с форматированным выводом, метками, сменными reporters и ограничением повторяющихся сообщений; подходит для CLI и инструментов разработки. https://github.com/unjs/consola
+    - loglevel — лёгкая обёртка над консолью для браузера и Node.js: уровни trace/debug/info/warn/error, именованные логгеры и фильтрация сообщений без внешних зависимостей. https://github.com/pimterry/loglevel
+  - HTTP-запросы
+    - Morgan — middleware для логирования HTTP-запросов в Express/Connect: готовые форматы, собственные токены, статус ответа, время обработки и запись в выбранный поток. https://github.com/expressjs/morgan
+    - pino-http — HTTP-логгер на базе Pino для Node.js и Express: JSON-записи о запросах и ответах, идентификаторы запросов, время обработки и доступ к логгеру через `req.log`. https://github.com/pinojs/pino-http
+  - Отладочные сообщения
+    - debug — библиотека отладочных сообщений для Node.js и браузера: пространства имён, выборочное включение через `DEBUG` или настройки браузера, цветной вывод и время между сообщениями. https://github.com/debug-js/debug
 - Валидация данных
   - ArkType - это библиотека для проверки данных во время выполнения, которая создает оптимизированные валидаторы из привычного, типобезопасного синтаксиса, полезная для проверки внешних данных, таких как JSON-пейлоуды или отправленные формы, на границах вашего кода. https://github.com/arktypeio/arktype
   - express-validator — middleware для Express.js поверх `validator.js`: валидирует и санитизирует данные запроса, подходит для проверки `body`, `query`, `params`, cookies и headers в Node.js API. https://github.com/express-validator/express-validator
@@ -47,7 +58,6 @@
   - body-parser - middleware для Express/Connect, разбирающий JSON, URL-encoded, raw и text тела запросов в Node.js API. https://github.com/expressjs/body-parser
   - cors - Express/Connect middleware для настройки CORS-заголовков. https://github.com/expressjs/cors
   - Multer - middleware для обработки `multipart/form-data` и загрузки файлов в Express/Node.js. https://github.com/expressjs/multer
-  - Morgan - HTTP request logger middleware для Node.js/Express. https://github.com/expressjs/morgan
   - http-errors - утилита для создания HTTP error objects с `status`, `statusCode`, `headers` и `expose`-логикой. https://github.com/jshttp/http-errors
 - Node.js: realtime и HTTP
   - Socket.IO - библиотека для двустороннего обмена данными в реальном времени между Node.js-сервером и клиентами поверх WebSocket и fallback-транспортов. https://github.com/socketio/socket.io
@@ -59,8 +69,6 @@
   - bcrypt.js - JavaScript-реализация bcrypt для хеширования и проверки паролей без native bindings. https://github.com/dcodeIO/bcrypt.js
 - Конфигурация и окружение
   - dotenv - загрузка переменных окружения из `.env` в `process.env` для Node.js-приложений. https://github.com/motdotla/dotenv
-- Логирование
-  - Pino - высокопроизводительный Node.js-логгер со структурированным JSON-выводом, низкими накладными расходами, transports и интеграциями с web-фреймворками. https://github.com/pinojs/pino
 - Генерация тестовых данных
   - Faker (`@faker-js/faker`) - поддерживаемая версия Faker для генерации тестовых данных: имена, адреса, даты, тексты, commerce и др. https://github.com/faker-js/faker
 - ORM и базы данных
