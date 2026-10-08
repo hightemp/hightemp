@@ -148,6 +148,13 @@
       - https://www.ozon.ru/product/professionalnyy-typescript-razrabotka-masshtabiruemyh-javascript-prilozheniy-chernyy-boris-211424677/reviews/
       - https://ftp.zhirov.kz/books/IT/JavaScript/TypeScript/Профессиональный%20TypeScript.%20Разработка%20масштабируемых%20JavaScript-приложений%20%28Борис%20Черный%29.pdf
 
+### Мануалы
+
+- Nodejs
+  - Фреймворки
+    - AdonisJS
+      - Учебник AdonisJS — русскоязычная онлайн-книга из тематических глав по фреймворку: от маршрутизации, HTTP и Lucid ORM до тестирования, безопасности и развёртывания. Неофициальный источник; сверяйте примеры с версией AdonisJS, которую используете. https://nweb42.com/books/adonisjs/
+
 ### Статьи
 
 - Что нового
