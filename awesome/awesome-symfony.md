@@ -185,6 +185,14 @@
     - How to Stop Symfony Messenger Worker When Idle https://victorsh.dev/blog/stop-symfony-messenger-worker-when-idle
     - Symfony Messenger : background task https://weenesta.com/en/blog/post/symfony-messenger-background-task
     - Background jobs with Symfony messenger component https://dev.to/bornfightcompany/background-jobs-with-symfony-messenger-component-p63
+  - Mercure
+    - Интеграция
+      - Symfony, Mercure, React: Real-time Updates In Less Than 100 Lines Of Code — синхронизация состояния игры: конфигурация Symfony Bundle, публикация через HubInterface и React-хук с подпиской через EventSource. https://marmelab.com/blog/2026/03/25/symfony-mercure-react-realtime-updates.html
+    - Авторизация
+      - Real time with Mercure, no BFF: domains, cookies and JWTs — общий Hub для нескольких Symfony-сервисов, приватные обновления, ограничения JWT по темам, cookies, CORS и подписка из Vue; примеры для Mercure 1.0 и Symfony 7.4. https://alpsify.com/en/articles/mercure-temps-reel-sans-bff
+    - Развёртывание
+      - How we scaled live connections for 1200 developers at SymfonyCon — Caddyfile для FrankenPHP, отдельный Hub рядом с Symfony на PHP-FPM, маршрутизация SSE и отключение буферизации на Upsun. https://developer.upsun.com/posts/unknown/how-we-scaled-live-connections-for-1200-developers-at-symfonycon
+      - Real-time Communications via Server-Sent Events: Mercure, Apache, PHP, and Symfony in Production — Caddyfile, Apache reverse proxy, Supervisor и TokenFactory с LexikJWTAuthenticationBundle; материал 2022 года, в примерах отключена проверка TLS. https://www.ismailzai.com/blog/symfony-mercure-apache
   - Symfony Scheduler
     - Scheduler https://symfony.com/doc/current/scheduler.html
     - New in Symfony 6.3 Scheduler Component https://symfony.com/blog/new-in-symfony-6-3-scheduler-component
@@ -397,7 +405,7 @@
       - New in EasyAdmin: Pretty URLs https://dev.to/javiereguiluz/new-in-easyadmin-pretty-urls-2knk
     - Остальное
       - Symfony 6 and EasyAdmin 4: Hashing password https://dev.to/nabbisen/symfony-6-and-easyadmin-4-hashing-password-3eec?ysclid=m7vx4bexh6878510950
-      - EasyAdmin и Mercure: реальный юзкейс https://habr.com/ru/companies/otus/articles/754806/
+      - EasyAdmin и Mercure: реальный юзкейс — уведомления об изменении сущностей, подписка через EventSource, ручная публикация и E2E-тест с двумя изолированными браузерами Panther. https://habr.com/ru/companies/otus/articles/754806/ Оригинал: https://les-tilleuls.coop/en/blog/easyadmin-mercure-a-concrete-use-case
       - Managing Virtual Entities in Symfony’s EasyAdmin Without Doctrine Persistence https://medium.com/@maurice2k5/managing-virtual-entities-in-symfonys-easyadmin-without-doctrine-persistence-2271c3711c41
       - Implementing CKEditor and CKFinder on EasyAdmin (Symfony5) https://medium.com/suleyman-aydoslu/implementing-ckeditor-and-ckfinder-on-easyadmin-a269888771ce
       - Symfony 6 and EasyAdmin 4: Admin Panel for User Management System https://scqr.net/en/blog/2022/11/11/symfony-6-and-easyadmin-4-admin-panel-for-user-management-system/
