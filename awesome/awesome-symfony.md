@@ -186,6 +186,8 @@
     - Symfony Messenger : background task https://weenesta.com/en/blog/post/symfony-messenger-background-task
     - Background jobs with Symfony messenger component https://dev.to/bornfightcompany/background-jobs-with-symfony-messenger-component-p63
   - Mercure
+    - Основное
+      - Mercure — официальное руководство Symfony: установка Hub и Bundle, конфигурация, публикация обновлений, подписка через EventSource, JWT-авторизация, приватные темы и тестирование. https://symfony.com/doc/current/mercure.html
     - Интеграция
       - Symfony, Mercure, React: Real-time Updates In Less Than 100 Lines Of Code — синхронизация состояния игры: конфигурация Symfony Bundle, публикация через HubInterface и React-хук с подпиской через EventSource. https://marmelab.com/blog/2026/03/25/symfony-mercure-react-realtime-updates.html
     - Авторизация
