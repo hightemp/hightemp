@@ -56,6 +56,8 @@
         - agent-lsp — MCP-сервер для language intelligence у coding agents: запускает stateful runtime поверх реальных language servers, держит warm index, даёт type-aware navigation, references/implementations, blast-radius analysis, speculative preview/simulation edits, auto-diagnostics и agent workflows; CI-проверяет поддержку 30 языков. https://github.com/blackwell-systems/agent-lsp
 - Безопасность
     - HexStrike AI — MCP-фреймворк для пентеста и security automation с 150+ инструментами и автономными агентами. https://github.com/0x4m4/hexstrike-ai
+- Разведка, OSINT и глобальные данные
+    - World Intelligence MCP — MCP-сервер реального времени для глобальной разведки в 30+ доменов (132 инструмента): финансовые рынки, SEC EDGAR, экономические индикаторы, конфликты/ACLED, военная активность, инфраструктура/подводные кабели, авиация, морской трафик, новости (119 RSS) и GDELT, киберугрозы, стихийные бедствия, космос; данные только из бесплатных публичных API (без платных ключей), с Qdrant vector store для семантического поиска по накопленной разведке, дашбордом оперативного центра, CLI и эскалационным скорингом для пользовательских гео-зон. https://github.com/marc-shade/world-intel-mcp
 
 ### Инструменты разработки
 
