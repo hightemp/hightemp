@@ -367,6 +367,10 @@ vendor/bin/phpqt-install
 - https://skibardin.ru/category/php/
 - https://www.devmarks.ru/blog/
 - https://yapro.ru/blog
+- https://tideways.com/profiler/blog
+- https://phpstan.org/blog
+- https://sarvendev.com/
+- https://blog.frankdejonge.nl/ — архив PHP-статей; в 2026 году автор объявил о смене языкового направления.
 
 ### Мануалы
 
