@@ -368,6 +368,11 @@ vendor/bin/phpqt-install
 - https://www.devmarks.ru/blog/
 - https://yapro.ru/blog
 
+### Мануалы
+
+- FrankenPHP
+  - Worker Mode — официальное руководство по долгоживущим PHP-воркерам: цикл обработки запросов, сохранение состояния, сброс сервисов и суперглобальных переменных, ограничение количества запросов и перезапуск воркеров. https://frankenphp.dev/docs/worker/
+
 ### Статьи
 
 - Основы
@@ -380,6 +385,8 @@ vendor/bin/phpqt-install
     - 8.4
       - Что нового в PHP 8.4 https://sergeymukhin.com/blog/cto-novogo-v-php-84
       - What’s New in PHP 8.4 (Zend) https://www.zend.com/blog/php-8-4
+    - 8.3
+      - What’s New in PHP 8.3 — типизированные константы классов, `json_validate()`, атрибут `Override`, расширение Random и изменения совместимости с примерами. https://www.zend.com/blog/php-8-3
     - 8.2
       - PHP 8.2: Что нового? https://wrp.ru/statii/php-8-2-chto-novogo/
       - Обзор PHP 8.2: нововведения, устаревшие функции и исправления багов https://zomro.com/rus/blog/articles/562-php-82-preview-new-features-deprecations-and-bug-fixes
@@ -425,6 +432,8 @@ vendor/bin/phpqt-install
     - PHP целые числа, числа с плавающей точкой и числовые строки https://code.tutsplus.com/ru/php-integers-floats-and-number-strings--cms-32048t
     - PHP: Сравнение чисел с плавающей точкой https://developer.donnoval.ru/sravnenie-chisel-s-plavayushhej-tochkoj-v-php/
     - Числа с плавающей точкой в PHP https://codernotes.ru/articles/php/chisla-s-plavayushhej-tochkoj-v-php.html
+  - Generics; Дженерики
+    - Generics By Examples — практические PHPDoc-примеры `@template`, ограничений типов, `class-string<T>`, типизированных коллекций, `@implements`, `@extends` и generic traits. https://phpstan.org/blog/generics-by-examples
   - yield, Генераторы
     - Generator syntax https://www.php.net/manual/en/language.generators.syntax.php
     - How to Use Yield and Generators in PHP https://code.tutsplus.com/how-to-use-yield-and-generators-in-php--cms-39200t
@@ -645,6 +654,8 @@ vendor/bin/phpqt-install
   - PHProm: A Prometheus Datastore for PHP Applications https://chaseisabelle.medium.com/phprom-a-prometheus-datastore-for-php-applications-c761c5587215
   - Application Monitoring Using Prometheus https://www.vthink.co.in/blogs/application-monitoring-using-prometheus
 - Базы данных
+  - PDO
+    - The PDO tutorial — подробный разбор подключения к БД, подготовленных выражений и параметров, режимов выборки, обработки ошибок, транзакций и особенностей эмуляции prepared statements. https://phpdelusions.net/pdo
   - Oracle
     - INSTALLATION PHP OCI8 PHP_PDO_OCI https://github.com/CaptainClaquette/composer-database-client/blob/main/How%20to%20install%20PHP%2C%20Instantclient%20and%20PHP_PDO_OCI.md
     - Configuring PHP with OCI8 https://www.php.net/manual/en/oci8.installation.php
@@ -659,6 +670,8 @@ vendor/bin/phpqt-install
     - PHP and Threads: Multithreading and Parallel Execution in PHP https://reintech.io/blog/php-and-threads-multithreading-and-parallel-execution
   - Swoole
     - PHP на стероидах: Swoole in production https://habr.com/ru/articles/647077/
+  - Fibers
+    - PHP 8.1: Fibers — кооперативное выполнение с отдельными стеками, методы `start()`, `suspend()`, `resume()`, передача значений и исключений; объясняет ограничения Fibers и отличие от параллельного исполнения. https://php.watch/versions/8.1/fibers
   - System V
     - Parallelism in PHP — fork & system V message queues https://medium.com/@mikhail.chuloshnikov/parallelism-in-php-fork-system-v-message-queues-cf410a7f6a20
   - Остальное
@@ -666,7 +679,15 @@ vendor/bin/phpqt-install
     - Handling Concurrency and Parallelism in PHP Applications: Techniques and Tools https://dev.to/abhay_yt_52a8e72b213be229/handling-concurrency-and-parallelism-in-php-applications-techniques-and-tools-56l
     - Getting Symfony app ready for Swoole, RoadRunner, and FrankenPHP (no AI involved) https://dev.to/sergiid/getting-symfony-app-ready-for-swoole-roadrunner-and-frankenphp-no-ai-involved-2d0g
 - Оптимизация
-  - Optimizing PHP Performance for High-Traffic Websites: Best Practices and Techniques https://medium.com/@chirag.dave/optimizing-php-performance-for-high-traffic-websites-best-practices-and-techniques-d03fc0f79ea6
+  - OPcache
+    - Fine-Tune Your OPcache Configuration to Avoid Caching Surprises — настройка памяти и ёмкости OPcache, проверка изменений файлов, мониторинг кеша и способы инвалидации при деплое. https://tideways.com/profiler/blog/fine-tune-your-opcache-configuration-to-avoid-caching-suprises
+    - Dodge the thundering herd with file-based OPcache — вторичный файловый кеш, холодный старт и уменьшение повторной компиляции после перезапуска OPcache на нагруженных PHP-приложениях. https://tideways.com/profiler/blog/dodge-the-thundering-herd-with-file-based-opcache-in-php7
+  - Автозагрузка
+    - Autoloading Performance — Avoid These 5 Mistakes! — classmap Composer, загрузка ненужных классов, дорогие пользовательские autoloaders и ошибки настройки preloading. https://tideways.com/profiler/blog/autoloading-performance-avoid-these-5-mistakes
+  - Бенчмарки
+    - Testing if Franken PHP Classic Mode is faster and more scalable than PHP-FPM — методика нагрузочного сравнения Classic Mode FrankenPHP с PHP-FPM, настройки стенда и влияние сжатия HTTP-ответов на результаты. https://tideways.com/profiler/blog/testing-if-franken-php-classic-mode-is-faster-and-more-scalable-than-php-fpm
+  - Остальное
+    - Optimizing PHP Performance for High-Traffic Websites: Best Practices and Techniques https://medium.com/@chirag.dave/optimizing-php-performance-for-high-traffic-websites-best-practices-and-techniques-d03fc0f79ea6
 - Лучшие практики
   - Best practices for building a production-ready Dockerfile for PHP applications https://snyk.io/blog/building-production-ready-dockerfile-php/
 - Логирование
@@ -758,6 +779,10 @@ vendor/bin/phpqt-install
     - Test driven development with PHP — страница Netgen PHP workshops с записями воркшопов по тестированию: Behat Basics, Lightning Fast Tests и Pragmatic TDD; полезна для разбора BDD/Behat, структуры быстрой тестовой пирамиды и практичного применения PHPUnit/TDD в PHP-проектах. https://netgen.io/learn/php-workshops/test-driven-development-with-php
     - TDD разработка с использованием PHPUnit — статья Сергея Кудашева с пошаговым примером TDD на PHP: установка PHPUnit через Composer, класс для URL-кодирования/декодирования, тесты `setUp`/`tearDown`, `assertEquals`, проверка `urlencode`/`rawurlencode` и практический смысл тестов как регрессии и документации к коду. https://www.devmarks.ru/blog/tdd-phpunit-development-2017.html
     - Разработка через тестирование для PHP программистов. Теория — статья Александра Шереметова о том, зачем TDD нужен в сложных PHP-проектах: хрупкость кода, регрессионные проверки, связь тестируемости с ООП и паттернами, границы пользы unit-тестов и отличие от функционального тестирования интерфейсов. https://sheremetov.com/oop/test-driven-development/
+  - Clock
+    - Being in control of time in PHP — выделение часов в зависимость, работа с `DateTimeImmutable` и воспроизводимое тестирование кода, зависящего от текущего времени. https://blog.frankdejonge.nl/being-in-control-of-time-in-php/
+  - Мутационное тестирование
+    - Mutation testing — we are testing tests — практические примеры Infection, мутации операторов, поиск недостаточных assertions и разбор Mutation Score Indicator. Статья 2019 года; версии инструментов и параметры запуска требуют сверки с текущей документацией. https://sarvendev.com/2019/06/mutation-testing-we-are-testing-tests/
   - Остальное
     - A better PHP testing experience Part II: Pick your test doubles wisely https://matthiasnoback.nl/2014/07/test-doubles/
     - Автоматизированное тестирование https://gist.github.com/K0rINf/8ec4570694b7279c3364d91b0a57bf65
@@ -783,6 +808,8 @@ vendor/bin/phpqt-install
     - Внедрение PHP-CS-Fixer в легаси PHP-проекты https://www.dev-notes.ru/articles/php/introducing-php-cs-fixer-into-legacy-projects/
     - Настройка PHP-CS-Fixer https://antonshell.me/post/php-cs-fixer
     - Usage https://cs.symfony.com/doc/usage.html
+  - PHPStan
+    - PHPStan 2.3: Leap in Performance, Generics Improvements, Detecting Unused Variables, and More! — ускорение и кеширование анализа, вывод generic-типов по использованию, обнаружение неиспользуемых переменных и устройство нового движка анализа; часть возможностей включается через bleeding edge. https://phpstan.org/blog/phpstan-2-3-leap-in-performance
   - NoVerify
     - NoVerify: PHP-линтер, который работает быстро https://habr.com/ru/companies/oleg-bunin/articles/487260/
     - Как добавить проверки в NoVerify, не написав ни строчки Go-кода https://habr.com/ru/companies/vk/articles/473718/
