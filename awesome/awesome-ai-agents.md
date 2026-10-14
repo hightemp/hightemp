@@ -47,6 +47,11 @@
     - Inkeep Agents: Платформа для создания и управления ИИ-агентами, поддерживающая полную двустороннюю синхронизацию между визуальным конструктором без кода и TypeScript SDK для совместной работы технических и нетехнических специалистов. https://github.com/inkeep/agents
     - Vibe Kanban — локальная kanban-панель для планирования задач и запуска coding agents в отдельных workspaces с отдельной веткой, терминалом и dev-сервером; поддерживает ревью diff-ов с inline-комментариями, preview приложения и переключение между Claude Code, Codex, Gemini CLI, Amp и другими агентами. https://github.com/BloopAI/vibe-kanban
 
+### Сервисы
+
+- Дизайн
+    - Initium — веб-редактор дизайн-систем для coding agents: готовые пресеты, настройка цветов, шрифтов, типографики, скруглений, кнопок и форм с живым предпросмотром; экспорт `DESIGN.md` с визуальными правилами и отдельный Strategy Builder для `STRATEGY.md` с аудиторией, позиционированием и структурой сайта. Стили можно устанавливать в shadcn/ui; Markdown-экспорт бесплатный, готовые pro-блоки и агентные скиллы требуют лицензии. https://app.initium.sh/
+
 ### Книги
 
 - Agentic Engineering Patterns https://simonwillison.net/guides/agentic-engineering-patterns/
