@@ -423,6 +423,7 @@ vendor/bin/phpqt-install
     - Объекты в PHP 7 https://habr.com/ru/companies/vk/articles/275497/
     - Why objects (usually) use less memory than arrays in PHP https://gist.github.com/nikic/5015323
   - Readonly
+    - PHP 8.1: Readonly Properties — объявление и однократная инициализация readonly-свойств, ограничения на присваивание и `unset()`, изменяемость вложенных объектов с примерами. https://php.watch/versions/8.1/readonly
     - Cloning readonly properties in PHP 8.3 — изменение вложенного объекта в readonly-свойстве на примере `DateTime`, поверхностное клонирование и создание отдельной копии через `__clone()`. https://stitcher.io/blog/cloning-readonly-properties-in-php-83
   - Arrays; Массивы
     - PHP: Use associative arrays basically never https://hive.blog/php/@crell/php-use-associative-arrays-basically-never
