@@ -71,6 +71,8 @@
     - blader/humanizer — кросс-агентный skill для переписывания AI-сгенерированного текста без изменения смысла: отмечает 25 признаков машинного стиля, выполняет черновой rewrite, критику и финальную правку, сохраняя факты, код, данные, frontmatter и URL; вызывается как `/humanizer`. https://github.com/blader/humanizer
 - Фактчекинг
     - fact-checker — скилл для системной проверки утверждений и источников: выделяет фактологические claims, определяет нужный уровень доказательств, ранжирует источники по надежности, выставляет verdict от TRUE до UNVERIFIABLE и предлагает корректную формулировку при ошибках или недостатке контекста. https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/fact-checker
+- Логотипы
+    - logo-design-skill — кросс-агентный скилл для разработки логотипов: бриф, концепты, геометрия, типографика и палитра; после выбора концепта — SVG-логотип и бренд-гайдлайн. Включает библиотеку 1400+ SVG-референсов с классификацией и Python-инструменты для аудита SVG, проверки читаемости в малых размерах и монохромном варианте, рендера PNG и экспорта favicon/app-icons. Работает с Claude, Gemini CLI, Codex, Cursor, Copilot и другими агентами, поддерживающими Agent Skills. https://github.com/kaankiziltug/logo-design-skill
 - Генерация иконок
     - favicon
         - favicon https://lobehub.com/ru/skills/andrehfp-tinyplate-favicon
