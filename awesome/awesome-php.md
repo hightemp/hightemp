@@ -437,6 +437,7 @@ vendor/bin/phpqt-install
     - Closure::bind() и bindTo() в PHP https://habr.com/ru/companies/otus/articles/898094/
   - Трейты, Traits
     - PHP OOP Fundamentals - Traits In PHP 8 https://www.dailycomputerscience.com/post/php-oop-fundamentals-traits-in-php-8
+    - Как я использую трейты — выбор PHP-трейтов для вспомогательного поведения с доступом к состоянию объекта, сочетание с интерфейсами и сравнение с наследованием. https://habr.com/ru/articles/258671/
   - Строки, Strings
     - Manipulating Strings with PHP: A Comprehensive Guide https://medium.com/@tejeswar_79802/manipulating-strings-with-php-ca5b7cebc50e
   - enum
