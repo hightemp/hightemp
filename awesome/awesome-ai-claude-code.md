@@ -7,6 +7,7 @@
 - Anthropic Skills — официальный репозиторий Anthropic со skills для Claude: готовые `SKILL.md`, примеры структуры навыков и reusable инструкции для подключения к Claude-экосистеме. https://github.com/anthropics/skills
 - bencium-marketplace — Claude Code plugin marketplace с 13 skills для дизайна, архитектуры и продуктивности от bencium.io. https://github.com/bencium/bencium-marketplace
 - Knowledge Work Plugins — официальный open-source marketplace Anthropic для role-based Claude plugins: productivity, sales, customer support, product management, marketing, legal, finance, data, enterprise search, bio-research и cowork-plugin-management; каждый plugin состоит из `.claude-plugin/plugin.json`, `.mcp.json`, slash-команд и skills, ставится в Claude Cowork или через `claude plugin marketplace add anthropics/knowledge-work-plugins`. https://github.com/anthropics/knowledge-work-plugins
+- Awesome AI Plugins — курируемая библиотека лучших AI-плагинов/расширений для популярных ассистентов: Claude Code, OpenAI Codex/ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCode, Kimi и др.; покрывает генерацию кода, дизайн и балансировку токенов в одном месте. https://github.com/hashgraph-online/awesome-ai-plugins
 
 ### Шпаргалки
 
@@ -45,6 +46,7 @@
 - rtk — CLI-прокси на Rust, сокращающий потребление токенов LLM на 60–90% за счёт фильтрации, группировки и дедупликации вывода команд (git, cargo, pytest, docker и др.). Поддерживает авто-перехват команд через PreToolUse-хук Claude Code. https://github.com/rtk-ai/rtk
 - pxpipe — локальный proxy для Claude Code/Anthropic API, который рендерит тяжёлый контекст (system prompt, tool docs, старую историю, большие tool results) в PNG и отправляет его через vision-channel для снижения input tokens; включает dashboard, per-request estimator и события в `~/.pxpipe/events.jsonl`, но режим lossy и не подходит для byte-exact строк, хэшей и секретов. https://github.com/teamchong/pxpipe
 - caveman — skill/plugin для Claude Code и Codex, который сжимает стиль ответов до телеграфного «caveman mode», уменьшая расход output tokens, ускоряя ответы и добавляя режимы terse review/commit и сжатия memory/context-файлов. https://github.com/JuliusBrussee/caveman
+- billion-context — контекст-компрессионный плагин для coding-агентов с малым окном (достаточно 100K контекста): сокращает расход токенов примерно в 5 раз и позволяет держать сверхдлинные (месячные) одиночные сессии на миллиарды токенов без переполнения контекста и лишних затрат на API. https://github.com/ranxianglei/billion-context
 
 ### Loops; Ralph
 
