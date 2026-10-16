@@ -539,6 +539,7 @@
 
 ### Генерация изображений
 
+- FLUX 3 Image Klein — модель Black Forest Labs с доступными весами для генерации и редактирования изображений: 5,6 млрд параметров генератора, до 10 референсов и управление композицией через bounding boxes. Есть base для fine-tuning/LoRA и дистиллят на 16 шагов; ComfyUI/Diffusers, заявлены оптимизированные INT8-конфигурации от 8 ГБ VRAM. FLUX Kommunity License разрешает коммерческую генерацию пользователям с совокупной годовой выручкой менее $5 млн при соблюдении её условий. https://bfl.ai/blog/flux-3-image-klein https://huggingface.co/black-forest-labs/flux-3-image-klein https://huggingface.co/black-forest-labs/flux-3-image-klein-base
 - DALL-E 2 — генератор изображений по текстовому описанию от OpenAI. https://openai.com/product/dall-e-2
 - Stable Diffusion — генератор изображений по текстовому запросу или входному изображению. https://stablediffusionweb.com/
 - Playground AI — простой веб-инструмент для генерации изображений и графики. https://playgroundai.com/login?redirect=/create?
@@ -763,6 +764,7 @@
 
 ### Обработка изображений
 
+- Krea 3 — модель редактирования изображений с несколькими референсами и нативным 2K: смена сцены, материалов и цветов с упором на сохранение лиц, персонажей и деталей товаров; доступны веб-интерфейс и API. По данным разработчика, большинство правок занимает менее 8 секунд; в анонсе от 15.10.2026 указаны цены $0.03 за 1K и $0.06 за 2K. https://www.krea.ai/krea-3 https://www.krea.ai/blog/introducing-krea-3
 - Проект IC-Light (Imposing Consistent Light) представляет собой инструмент для манипулирования освещением изображений, предлагающий две модели: одну для изменения освещения на основе текстовых условий и вторую для корректировки освещения с учетом фона. https://huggingface.co/spaces/lllyasviel/iclight-v2
 
 ### Дизайн интерьеров
