@@ -101,6 +101,8 @@
         - PHP SOLID Architecture Guide https://mcpmarket.com/tools/skills/php-solid-architecture-guide
     - Модернизация
         - PHP Modernization Skill — скилл для модернизации приложений до PHP 8.0–8.5: типобезопасность, PHPStan, PHPat, Rector, PHP-CS-Fixer, PSR/PER-CS и паттерны Symfony/Doctrine; включает verifier и dry-run orchestration с отчётами JSON, SARIF и JUnit. https://github.com/netresearch/php-modernization-skill
+- Symfony
+    - Superpowers Symfony — библиотека из 44 скиллов, 7 специализированных агентов и 13 команд для Symfony 7.4 LTS и 8.x: API Platform, Doctrine ORM 3, TDD с Pest/PHPUnit, Messenger, безопасность, CQRS и гексагональная архитектура. Включает плагин Claude Code и адаптеры для Codex, OpenCode, Cursor, Windsurf, Copilot, Gemini CLI и aider; определяет версию фреймворка, Docker-окружение и тестовый раннер. https://github.com/dev-toolings/superpowers-symfony
 - Laravel
     - Рефакторинг
         - Laravel Code Refactorer https://mcpmarket.com/tools/skills/laravel-code-refactorer
