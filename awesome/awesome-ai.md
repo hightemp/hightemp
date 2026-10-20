@@ -825,6 +825,7 @@
 
 ### Распознавание речи
 
+- Handy — открытое приложение на Rust и Tauri для локального голосового ввода: запись по горячей клавише и вставка распознанного текста в активное поле; работает на Windows, macOS и Linux. https://github.com/cjpais/Handy https://handy.computer/
 - https://huggingface.co/spaces/Xenova/whisper-web
 - MAI-Transcribe-1 — speech-to-text модель Microsoft AI для транскрибации в шумных и сложных условиях, поддерживает 25 популярных языков, доступна в Microsoft Foundry и MAI Playground; Microsoft заявляет SOTA-качество на FLEURS, 1-е место по 11 core-языкам и превосходство над Whisper-large-v3 на остальных 14 языках. https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/
 - Whisper WebGPU моментально распознает текст из аудио и видео и переведет на нужный язык https://huggingface.co/spaces/Xenova/whisper-webgpu https://github.com/xenova/transformers.js/tree/v3/examples/webgpu-whisper
