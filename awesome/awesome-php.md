@@ -584,6 +584,13 @@ vendor/bin/phpqt-install
     - Hack the Elephant One Bite at a Time — исследование memory-safety ошибок PHP при обработке JPEG и сценариев эксплуатации через потоковый ввод. https://swarm.ptsecurity.com/hack-the-elephant-one-bite-at-a-time-jpeg-related-memory-safety-bugs-in-php/
     - Security audit of PHP-SRC — результаты аудита PHP-FPM, PDO, MySQL, OpenSSL, multipart parsing и криптографических API с найденными уязвимостями и CVE. https://blog.quarkslab.com/security-audit-of-php-src.html
     - Modern PHP Security Part 2: Breaching and hardening the PHP engine — обход ограничений движка и defense in depth через PHP-FPM isolation, read-only filesystem, `php.ini`, systemd и Snuffleupagus. https://labs.detectify.com/security-guidance/modern-php-security-part-2-breaching-and-hardening-the-php-engine/
+    - php2shell (CVE-2026-109618 / CVE-2026-109619) — подборка разборов двух критических RCE в ядре PHP (CVSS 9.2, патч 21.10.2026 14:00 UTC). Ведущая теория — use-after-free при парсинге multipart/form-data и session upload-progress; дыра срабатывает до выполнения кода приложения, любое POST-окончание без разбора файлов в зоне риска:
+        - Huntress Rapid Response — первый разбор инцидента от и до: хронология утечки деталей до согласованного раскрытия, какие версии затронуты (5–8, патчат только поддерживаемые), план действий для админов. https://www.huntress.com/blog/php2shell-leaked-critical-php-vulnerabilities
+        - watchTowr FAQ — ответы от фирмы, подтвердившей дыры: статус CVE, отсутствие эксплуатации в дикой природе, чего ждать от патча и как подготовиться. https://watchtowr.com/intelligence/php-cve-2026-109618-faq/
+        - The CyberSec Guru — самый глубокий технический разбор: теория use-after-free при парсинге multipart и session upload-progress, как деградация памяти превращается в webshell/реверс-шелл, обход WAF, детекция по eBPF и форензика. https://thecybersecguru.com/advisory/php2shell-cve-2026-109618-109619-php-rce/
+        - PHP2Shell: Inside PHP Upload Progress and the RCE — технический разбор механизма upload-progress и почему дыра срабатывает ещё до выполнения кода приложения. https://0x4148.com/posts/php2shell-php-core-rce-cve-2026-109618-109619/
+        - Dissecting PHP's Critical Session Upload Progress Vulnerabilities — про историю фичи session.upload_progress (есть с PHP 5.4) и её роль в цепочке эксплуатации. https://qideng.substack.com/p/php2shell-dissecting-phps-critical
+        - php2shell: ini won't save you — почему временная митигация session.upload_progress.enabled=Off не гарантия, если дефект сидит глубже в RFC 1867-парсинге; как ловить следы по паттернам segfault в логах PHP-FPM. https://www.flyingpenguin.com/php2shell-ini-wont-save-you/
   - PHP-FPM
     - Взломали один сайт из десяти на сервере: как не потерять остальные — изоляция сайтов отдельными системными пользователями и PHP-FPM-пулами, настройка сокетов и минимальные права на файлы. https://maatrix.io/blog/vzlomali-odin-sajt-iz-desyati-kak-spasti-ostalnye/
     - PHP-FPM pools explained: one pool per site on a shared server — настройка пула на сайт с отдельным пользователем, сокетом и лимитами; разъясняет различие между пользователем PHP-процессов и правами на сокет. https://stackharbor.com/en/knowledge-base/php-fpm-pool-isolation-per-site/
@@ -843,14 +850,6 @@ vendor/bin/phpqt-install
   - PHP Object Lazy-Loading is More Than What You Think https://jolicode.com/blog/php-object-lazy-loading-is-more-than-what-you-think
   - Modern PHP Without a Framework https://kevinsmith.io/modern-php-without-a-framework/
   - FrankenPHP: A Modern PHP App Server in Go (Install + Use) https://linuxtldr.com/installing-frankenphp/
-- Безопасность; Security
-  - php2shell (CVE-2026-109618 / CVE-2026-109619) — подборка разборов двух критических RCE в самом ядре PHP (CVSS 9.2, патч 21.10.2026 14:00 UTC):
-    - Huntress Rapid Response — первый разбор инцидента от и до: хронология утечки деталей до согласованного раскрытия, какие версии затронуты (5–8, патчат только поддерживаемые), план действий для админов. https://www.huntress.com/blog/php2shell-leaked-critical-php-vulnerabilities
-    - watchTowr FAQ — ответы от фирмы, подтвердившей дыры: статус CVE, отсутствие эксплуатации в дикой природе, чего ждать от патча и как подготовиться. https://watchtowr.com/intelligence/php-cve-2026-109618-faq/
-    - The CyberSec Guru — самый глубокий технический разбор: теория use-after-free при парсинге multipart и session upload-progress, как деградация памяти превращается в webshell/реверс-шелл, обход WAF, детекция по eBPF и форензика. https://thecybersecguru.com/advisory/php2shell-cve-2026-109618-109619-php-rce/
-    - PHP2Shell: Inside PHP Upload Progress and the RCE — технический разбор механизма upload-progress и почему дыра срабатывает ещё до выполнения кода приложения. https://0x4148.com/posts/php2shell-php-core-rce-cve-2026-109618-109619/
-    - Dissecting PHP's Critical Session Upload Progress Vulnerabilities — про историю фичи session.upload_progress (есть с PHP 5.4) и её роль в цепочке эксплуатации. https://qideng.substack.com/p/php2shell-dissecting-phps-critical
-    - php2shell: ini won't save you — почему временная митигация session.upload_progress.enabled=Off не гарантия, если дефект сидит глубже в RFC 1867-парсинге; как ловить следы по паттернам segfault в логах PHP-FPM. https://www.flyingpenguin.com/php2shell-ini-wont-save-you/
 
 ### Видео
 
