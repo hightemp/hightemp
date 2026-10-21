@@ -411,6 +411,7 @@
 
 - https://kluster.ai
 - Abliteration AI — OpenAI- и Anthropic-совместимый API к hosted open-weight моделям с abliterated/uncensored поведением: в моделях удалены стандартные safety/refusal-ограничения, поэтому сервис следует использовать только в контролируемой среде с собственными политиками доступа. Base URL `https://api.abliteration.ai/v1`, поддерживаются Chat Completions, Responses, Messages, streaming и tool calling. В прайсе большие модели указаны по $5 за 1 млн входных и $5 за 1 млн выходных токенов, базовая модель — $3/$3. Сервис: https://abliteration.ai/ API: https://api.abliteration.ai/v1 Документация: https://abliteration.ai/docs Быстрый старт: https://docs.abliteration.ai/quickstart Цены: https://abliteration.ai/pricing
+- DeepInfer — официальный высокопроизводительный open-source inference-фреймворк от DeepSeek для локального развёртывания их моделей: ставишь на свои GPU, подаёшь на вход запросы к DeepSeek-моделям и получаешь быстрый отклик с масштабированием на «большие» карточки; прямой аналог vLLM/SGLang из первых рук разработчика моделей. https://github.com/deepseek-ai/DeepInfer
 
 ### Приложения
 
