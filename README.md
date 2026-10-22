@@ -150,6 +150,10 @@
 
 </details>
 
+## Для windows
+
+- https://gist.github.com/hightemp/77968083c46b7e0896fb1843da83d7b6
+
 ## Telegram
 
 - rss linux.org.ru https://t.me/rss_linux_org_ru
