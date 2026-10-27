@@ -22,6 +22,7 @@
 
 - Для разработки
     - Общие практики разработки
+        - ub-mode — агентский скилл от Роберта Мартина (автора «Чистого кода»): заставляет ИИ-агента работать как дисциплинированный разработчик по принципам «First Make it Work → Then Make it Right → Practice» — разобраться в задаче, выбрать простейшее решение, писать тесты до кода (TDD), избегать дублирования, держать сложность в рамках, делать рефакторинг и мелкие коммиты. Работает на Claude Code / Cursor / Grok и других агентах, поддерживающих SKILL.md (ставится копированием SKILL.md в папку скиллов + `/ub-mode`). https://github.com/unclebob/ub-mode
         - Agent Skills — личная коллекция скилов Matt Pocock для планирования, разработки, TDD, triage, refactoring, GitHub workflow, pre-commit, Obsidian и написания новых skills. https://github.com/mattpocock/skills
         - Andrej Karpathy Skills — компактные guidelines/skill для Claude Code и Cursor по мотивам наблюдений Андрея Карпаты: думать перед кодингом, упрощать, делать точечные изменения и задавать проверяемые критерии успеха. https://github.com/forrestchang/andrej-karpathy-skills
         - AsyrafHussin Agent Skills — коллекция скилов для AI coding agents по Laravel/PHP, React/TypeScript, тестированию, безопасности, качеству кода, техническому долгу и документации; совместима с Claude Code, Cursor, Codex, Windsurf и другими агентами, устанавливается через `npx skills add`. https://github.com/AsyrafHussin/agent-skills
