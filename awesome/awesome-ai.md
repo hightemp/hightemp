@@ -362,6 +362,7 @@
 
 - Chandra OCR 2 — open-source OCR-модель и CLI для document intelligence: конвертирует изображения и PDF в структурированные Markdown, HTML или JSON с сохранением layout-информации, хорошо работает со сложными таблицами, формулами, формами, чекбоксами, рукописным текстом и 90+ языками; поддерживает локальный Hugging Face inference, vLLM-сервер, batch processing и Streamlit-приложение. https://github.com/datalab-to/chandra
 - Marker Solo — open-source OCR/document intelligence инструмент для быстрой и точной конвертации PDF в Markdown: поддерживает layout analysis, OCR, удаление headers/footers и артефактов, сохранение таблиц, code blocks, изображений и большинства формул в LaTeX; работает локально на GPU, CPU или Apple MPS. https://github.com/swswsws583/marker-solo
+- Unlimited OCR 2 (Baidu) — open-source OCR-модель (~3B параметров) для оцифровки длинных документов: книги, сканы, отчёты и PDF на сотни страниц обрабатываются за один запрос целиком, умеет достраивать таблицы и текст, которые продолжаются со страницы на страницу; ядро — разреженное внимание SR-SWA, которое выбирает только нужные визуальные токены и сильно экономит видеопамять на больших файлах; код, веса и обучающий бенчмарк открыты (MIT). Пригодится, когда нужно перевести в Markdown/текст целую книгу или многостраничный документ без нарезки на куски. https://github.com/baidu/Unlimited-OCR https://huggingface.co/baidu/Unlimited-OCR-2
 
 ### Альтернативные чаты
 
