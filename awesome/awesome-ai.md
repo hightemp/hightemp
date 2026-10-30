@@ -752,6 +752,7 @@
 ### Генерация 3D-анимации и движений
 
 - NVIDIA Kimodo (Kinematic Motion Diffusion) — модель генерации 3D-движений человека и гуманоидных роботов по текстовым промптам и кинематическим ограничениям: поддерживает полнотелые keyframes, позиции/вращения end-effectors, 2D paths и waypoints, локальный CLI и web timeline demo; обучалась на 700 часах optical mocap, модели доступны на Hugging Face, для локального запуска нужно около 17 ГБ VRAM. https://github.com/nv-tlabs/kimodo https://huggingface.co/collections/nvidia/kimodo-v1
+- NVIDIA MotionBricks — генеративная модель для 3D-анимации игровых персонажей и роботов, которая на лету достраивает плавные движения между заданными ключевыми позами (ходьбу, бег, прыжки, подбор предметов, падение) в любом стиле (раненый, зомби, скип, стрейф), без ручной сборки графов анимаций и без дообучения; обучена на 350 тыс. клипов motion capture, выдаёт кадр за ~2 мс (15 000 FPS на RTX 5090), работает zero-shot, есть локальные демо и веса на Hugging Face, также компонент стека NVIDIA GR00T для робототехники. https://nvlabs.github.io/motionbricks/ https://github.com/NVlabs/motionbricks https://huggingface.co/nvidia/MotionBricks
 
 ### 3D-дизайн; 3D-визуализация
 
