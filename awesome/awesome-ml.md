@@ -83,6 +83,8 @@
   - Mojo / Modular Platform — открытые компоненты платформы для разработки и развёртывания AI: язык Mojo с компилятором и стандартной библиотекой, а также MAX accelerator library, inference server и model pipelines. https://github.com/modular/modular
 - Обучение LLM с нуля
   - Train LLM From Scratch — пошаговый репозиторий по обучению трансформера с нуля на чистом PyTorch по оригинальной статье «Attention is All You Need»: от скачивания данных до генерации текста; полный путь raw text → токены → трансформер → next-token loss → базовые, затем SFT → Reward Model → DPO/PPO → GRPO, каждый алгоритм написан вручную без `transformers`/`trl`/`peft`; позволяет обучать модель до миллиарда параметров на одной GPU. Документация. https://github.com/FareedKhan-dev/train-llm-from-scratch https://fareedkhan-dev.github.io/train-llm-from-scratch/
+- Генерация движений (character & robot motion)
+  - MotionBricks (NVIDIA) — генеративная модель, которая на лету (2 мс/кадр на RTX 5090, ~15 000 кадров/с) достраивает движения игровых персонажей и роботов: ходьбу, бег, прыжки, подбор предмета, смену стиля (зомби, раненый, скип). Обучалась на 350 тыс. клипов motion capture одной моделью; работает zero-shot — задаёшь скорость, направление и пару ключевых поз, остальное достраивает без дообучения, аниматору не нужно вручную собирать графы анимаций. Управляет и гуманоидом Unitree G1, является частью GR00T Whole-Body Control. Демо/статья: SIGGRAPH 2026. https://github.com/NVlabs/motionbricks https://huggingface.co/nvidia/MotionBricks https://nvlabs.github.io/motionbricks/
 
 ### Мануалы
 
