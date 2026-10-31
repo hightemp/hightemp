@@ -274,6 +274,14 @@
     - 15 онлайн-сервисов, которые должен знать каждый сисадмин https://habr.com/ru/companies/ruvds/articles/1004268/
 - Подборки
     - List of Free & Open Source self hosted Application for SSL Certificate expiration Check https://www.devopsschool.com/blog/list-of-free-open-source-self-hosted-application-for-ssl-certificate-expiration-check/
+- CDC (Change Data Capture)
+    - Что такое CDC (Change Data Capture): захват изменений из журнала транзакций, слоты репликации PostgreSQL, Debezium и Kafka, подводные камни эксплуатации https://bigdataschool.ru/wiki/change_data_capture/
+    - Change Data Capture (CDC) в Yandex Data Transfer: гид по технологии с примерами — теория CDC, сценарии применения, примеры https://habr.com/ru/companies/yandex_cloud_and_infra/articles/754802/
+    - Change Data Capture (CDC) — захват изменений данных: как работает, где применяется, какие есть подходы, ошибки и риски https://datafinder.ru/products/change-data-capture-cdc-zahvat-izmeneniy-dannyh-kak-rabotaet-gde-primenyaetsya-kakie-est
+    - Change Data Capture (CDC) — захват изменений данных: зачем нужна непрерывная репликация изменений из источников в целевые системы https://loginom.ru/blog/change-data-capture
+    - Debezium Documentation — Features: официальная документация — что такое log-based CDC и как его реализует Debezium https://debezium.io/documentation/reference/stable/features.html
+    - Kafka CDC: How to Implement Change Data Capture — гайд по реализации CDC с Apache Kafka и Debezium https://estuary.dev/blog/change-data-capture-kafka/
+    - Debezium CDC with Kafka: Setup & Examples — разбор фундамента CDC и настройки Debezium https://www.conduktor.io/glossary/implementing-cdc-with-debezium
 
 ### Блоги
 
