@@ -193,6 +193,138 @@
 
 Для перехода из терминала в другое окно сначала нажми `Ctrl-\`, `Ctrl-n`, затем обычное `Ctrl-w h/j/k/l`.
 
+## LSP: JavaScript/TypeScript, PHP, Go и Rust
+
+LSP даёт переходы к определениям, подсказки, диагностику и переименование символов. Нужны две части: установленный сервер языка и его подключение в Neovim.
+
+### 1. Подготовить Neovim
+
+Этот пример рассчитан на **Neovim 0.11.3+** и `nvim-lspconfig`. Версию проверь командой `nvim --version` в оболочке. Здесь используется современный `vim.lsp.enable()`, а не устаревший `require('lspconfig').….setup()`.
+
+Если `nvim-lspconfig` ещё не установлен, выполни в **оболочке терминала**, без начального `:`:
+
+```bash
+git clone https://github.com/neovim/nvim-lspconfig ~/.config/nvim/pack/nvim/start/nvim-lspconfig
+```
+
+Если уже используешь менеджер плагинов или сборку Neovim, подключи `neovim/nvim-lspconfig` через их конфигурацию. Повторно устанавливать его другим способом не нужно. При отложенной загрузке плагина выполняй настройку LSP после его загрузки.
+
+### 2. Установить серверы
+
+Команды ниже выполняются в **оболочке**, например во встроенном `:terminal`. Нужны Node.js с npm, Go и Rust с rustup соответственно; их версии должны соответствовать требованиям устанавливаемых серверов.
+
+| Язык | Сервер | Имя конфигурации nvim-lspconfig |
+| --- | --- | --- |
+| JavaScript, TypeScript, JSX, TSX | typescript-language-server | `ts_ls` |
+| PHP | Intelephense | `intelephense` |
+| Go | gopls | `gopls` |
+| Rust | rust-analyzer | `rust_analyzer` |
+
+```bash
+# JavaScript / TypeScript: нужны и сервер, и TypeScript
+npm install -g typescript typescript-language-server
+
+# PHP: сервер запускается через Node.js
+npm install -g intelephense
+
+# Go
+go install golang.org/x/tools/gopls@latest
+
+# Rust: для выбранного toolchain
+rustup component add rust-analyzer rust-src rustfmt
+```
+
+У Intelephense есть платные дополнительные возможности; доступность отдельных действий зависит от лицензии.
+
+Все исполняемые файлы должны быть доступны в `PATH` процесса Neovim. Для Go путь установки — `go env GOBIN`, а если он пустой — каталог `bin` внутри `go env GOPATH` (обычно `~/go/bin`). Для rustup обычно нужен `~/.cargo/bin`.
+
+Проверка в оболочке Linux/macOS:
+
+```bash
+command -v typescript-language-server
+command -v intelephense
+command -v gopls
+command -v rust-analyzer
+```
+
+После изменения `PATH` перезапусти Neovim из обновлённой оболочки.
+
+### 3. Включить серверы в конфиге
+
+Узнать каталог конфигурации из Neovim: `:echo stdpath('config')`. В Linux это обычно `~/.config/nvim`.
+
+Добавь в существующий `init.lua` (или создай его, если конфига ещё нет):
+
+```lua
+vim.lsp.enable({ 'ts_ls', 'intelephense', 'gopls', 'rust_analyzer' })
+
+-- Собственные сочетания: действуют только в буферах с подключённым LSP.
+vim.api.nvim_create_autocmd('LspAttach', {
+  callback = function(event)
+    local function map(keys, action, description)
+      vim.keymap.set('n', keys, action, {
+        buffer = event.buf,
+        desc = description,
+      })
+    end
+
+    map('gd', vim.lsp.buf.definition, 'LSP: определение')
+    map('grr', vim.lsp.buf.references, 'LSP: использования')
+    map('K', vim.lsp.buf.hover, 'LSP: документация')
+    map('grn', vim.lsp.buf.rename, 'LSP: переименовать')
+    map('gra', vim.lsp.buf.code_action, 'LSP: действия')
+    map('gqf', function()
+      vim.lsp.buf.format({ async = true })
+    end, 'LSP: форматировать')
+
+    -- Встроенное дополнение: Ctrl-x Ctrl-o в Insert.
+    vim.bo[event.buf].omnifunc = 'v:lua.vim.lsp.omnifunc'
+  end,
+})
+```
+
+Если используешь `init.vim`, помести этот Lua-код внутрь блока `lua << EOF` … `EOF` в своём конфиге. Одновременно создавать `init.lua` и `init.vim` не нужно.
+
+Перезапусти Neovim и открой исходник из каталога проекта. Корень проекта определяется по маркерам; типичные примеры: `package.json` / `tsconfig.json` / `jsconfig.json` для JS/TS, `composer.json` для PHP, `go.mod` / `go.work` для Go, `Cargo.toml` для Rust. Полные правила зависят от конфигурации сервера. Для полноценного анализа установи зависимости проекта привычными средствами.
+
+### 4. Пользоваться LSP
+
+| Клавиши / команда | Действие |
+| --- | --- |
+| `g d` | Перейти к определению — задано конфигом выше |
+| `Ctrl-o` | Вернуться после перехода |
+| `K` | Документация символа |
+| `g r r` | Найти использования |
+| `g r n` | Переименовать символ |
+| `g r a` | Доступные действия и исправления |
+| `g q f` | Форматировать через LSP, если сервер поддерживает |
+| `Ctrl-x`, затем `Ctrl-o` в Insert | Вызвать дополнение через LSP |
+| `Ctrl-n` / `Ctrl-p` в меню дополнения | Следующий / предыдущий вариант |
+| `Ctrl-y` / `Ctrl-e` в меню дополнения | Принять / закрыть меню |
+| `]d` / `[d` | Следующая / предыдущая диагностика |
+| `:lua vim.diagnostic.open_float()` | Показать диагностику текущей строки |
+| `:checkhealth vim.lsp` | Проверить настройки и подключение LSP |
+| `:lua vim.print(vim.lsp.get_clients({ bufnr = 0 }))` | Показать клиентов текущего буфера |
+
+Форматирование и другие возможности зависят от сервера. Автоматически открывающееся меню дополнения этим примером не настраивается.
+
+### Если LSP не подключился
+
+1. Открой именно исходник нужного языка и проверь `:set filetype?`.
+2. Выполни `:checkhealth vim.lsp`: проверь наличие конфигурации, исполняемого файла и корня проекта.
+3. Проверь видимость команды внутри Neovim, например `:echo executable('gopls')`: ожидается `1`.
+4. Проверь активных клиентов командой из таблицы выше. Пустой список означает, что к текущему буферу сервер не подключился.
+5. Если сервер завершился с ошибкой, открой журнал: `:lua vim.cmd.edit(vim.lsp.log.get_filename())`.
+
+### Официальные инструкции
+
+- [Neovim: встроенный LSP](https://neovim.io/doc/user/lsp.html).
+- [nvim-lspconfig: установка, требования и подключение](https://github.com/neovim/nvim-lspconfig).
+- [typescript-language-server](https://github.com/typescript-language-server/typescript-language-server).
+- [Intelephense](https://github.com/bmewburn/intelephense-docs).
+- [gopls: установка](https://go.dev/gopls/).
+- [rust-analyzer: установка](https://rust-analyzer.github.io/book/installation.html).
+
 ## Справка и проверка сочетаний
 
 | Команда | Действие |
