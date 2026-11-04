@@ -98,6 +98,8 @@
 - Создание скилов и MCP
     - Skill Creator https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
     - mcp-builder — официальный скилл Anthropic для проектирования и сборки MCP-серверов под внешние API и сервисы: ведёт через исследование API, выбор покрытия endpoint/workflow tools, реализацию на TypeScript/Python, тестирование через MCP Inspector и подготовку evals. https://github.com/anthropics/skills/tree/main/skills/mcp-builder
+- Креатив и графика
+    - pixelfx — открытая библиотека из 244 пиксельных эффектов и анимаций (огонь, взрывы, магия, погода, UI, подбираемые предметы и др.), каждая — маленький кусок кода; плюс Claude Code-скилл, который генерирует и донастраивает новые эффекты «как дотошный пиксель-артист» (черновик → рендер → смотр → доработка). Эффекты с персонажами проигрываются как «сценки» (замах, удар, заморозка), 12 движений цепляются в комбо-атаки. Запускается в браузере (canvas, Phaser, PixiJS, Kaplay, three.js), без зависимостей, экспортируется в спрайт-листы для Godot/Unity/GameMaker и др., поддерживает смену палитры. https://github.com/patch-gg/pixelfx https://patch-gg.github.io/pixelfx/
 
 ### Память
 
