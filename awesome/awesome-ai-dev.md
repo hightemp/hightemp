@@ -53,4 +53,5 @@
 
 #### GUI и desktop-интерфейсы
 
+- bb — локальная open-source IDE (MIT) для работы с Claude Code, Codex, Cursor, OpenCode, Pi и другими coding agents в отдельных threads и Git worktrees. Поддерживает оркестрацию агентов, плагины, задания по расписанию, браузерную автоматизацию и управление через CLI/HTTP API; использует ваши авторизованные CLI провайдеров. Есть macOS-приложение и веб-интерфейс через `npx bb-app@latest`; desktop-сборки Linux/Windows пока alpha. https://getbb.app/ https://github.com/get-bb/bb
 - Claudia.so — это открытое настольное GUI‑приложение для Anthropic Claude Code, которое даёт удобный визуальный интерфейс для управления проектами, сессиями, кастомными AI‑агентами, MCP‑серверами и аналитикой использования вместо работы только через терминал. http://claudia.so/
