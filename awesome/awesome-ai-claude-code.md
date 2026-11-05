@@ -62,6 +62,7 @@
 ### Безопасность
 
 - Claude Code Security Reviewer — инструмент для автоматической проверки безопасности кода и выявления уязвимостей, созданный компанией Anthropic. https://www.anthropic.com/news/automate-security-reviews-with-claude-code https://github.com/anthropics/claude-code-security-review
+- Claude AI IP Risk — сервис для проверки риска блокировки Claude Code по твоему IP: показывает страну, провайдера, тип IP (дом/офис/датацентр/мобильный), ASN, а также DNS- и WebRTC/UDP-утечки, время торжества (ping), статус claude.ai/anthropic.com, подозрения на VPN/прокси/Tor/бот-записи и выдаёт «Trust Score» от 0 до 100. Помогает заранее заметить проблемы (например, что выходишь из нерекомендуемого для Claude IP), но полной защиты от бана не гарантирует; советует не ходить в Claude Code через IPv6. https://ip.net.coffee/claude/
 
 ### Карьера; Job Search
 
