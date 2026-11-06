@@ -1,5 +1,6 @@
 ### Коллекции
 
+- HackerBooks — каталог книг из комментариев Hacker News: рейтинги по рекомендациям и упоминаниям, тематические подборки, поиск по книгам и авторам, фильтры по времени издания и ссылки на исходные обсуждения. Top recommended учитывает рекомендации разных читателей; доступна выгрузка данных в CSV. https://hackerbooks.org/top
 - https://github.com/learn-anything/books
 - https://github.com/mundimark/awesome-books
 - https://github.com/githubch/awesome-programming-books-1
