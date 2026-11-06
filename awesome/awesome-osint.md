@@ -88,7 +88,7 @@
 
 ### Проверка браузера | IP, DNS, fingerprints | Конфиденциальность | Цифровые отпечатки
 
-- [browserleaks.com](https://browserleaks.com) - отличный сайт для проверки отпечатков браузера.
+- [browserleaks.com](https://browserleaks.com/) - BrowserLeaks: набор тестов приватности браузера — IP/DNS/WebRTC/IPv6-утечки, Canvas/WebGL/font fingerprinting, TLS ClientHello и JA3/JA4, данные JavaScript/Web APIs и разрешения геолокации.
 - [webbrowsertools.com](https://webbrowsertools.com) - проверка fingerprints.
 - [pixelscan.net](https://pixelscan.net) - выявляет попытки подмены fingerprints.
 - [diafygi.github.io/webrtc-ips](https://diafygi.github.io/webrtc-ips) - проверка на утечку WebRTC.
