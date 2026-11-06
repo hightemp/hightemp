@@ -1812,6 +1812,9 @@ https://arxiv.org/pdf/2411.08804v1
     - Когнитивная психология и AI
         - Метод "thin-slicing" (оценка на основе минимальной информации)
             - The Art of Audience Engagement: LLM-Based Thin-Slicing of Scientific Talks https://arxiv.org/abs/2504.10768
+- Claude
+    - Аккаунты
+        - Claude заблокировал меня после проверки российского загранпаспорта. Через три часа аккаунт восстановили и вернули деньги — личный кейс автора от 5 ноября 2026 года: экспорт данных перед KYC, блокировка, апелляция, восстановление доступа и возврат за неиспользованный период Max. Причина блокировки не установлена. https://habr.com/ru/articles/1104162/
 - Context engineering
     - A Survey of Context Engineering for Large Language Models https://arxiv.org/abs/2507.13334
     - The rise of "context engineering" - обзорная статья на LangChain https://blog.langchain.com/the-rise-of-context-engineering/

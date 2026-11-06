@@ -62,6 +62,7 @@
 - Изнутри, как работает
     - Внутреннее устройство Docker. Заглянем под капот https://habr.com/ru/articles/963702/
     - Docker изнутри: исчерпывающее руководство. Механизмы контейнеризации + примеры, эксперименты и реализация https://habr.com/ru/articles/935178/
+    - Контейнер притворяется сервером: четыре места, где выдаёт себя — устройство Linux-песочницы для DevOps-тренажёра: systemctl без systemd, особенности PID 1, передача сигналов и сбор зомби через `--init`, организация логов, cgroup-лимиты ресурсов и LXCFS для корректного отображения метрик. https://habr.com/ru/articles/1103466/    
 - Отладка, Debugging, Troubleshooting
     - Chapter 12: Troubleshooting and Debugging with Docker https://praneethreddybilakanti.medium.com/chapter-12-troubleshooting-and-debugging-with-docker-0a37b6d47d38
     - 13 Ways to Troubleshoot Docker Faster in 2024 https://overcast.blog/13-ways-to-troubleshoot-docker-faster-in-2024-5b064c20c9e2
