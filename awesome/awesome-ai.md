@@ -539,6 +539,8 @@
 
 ### Замена лиц; дипфейки; deepfakes
 
+- OPENjutsu — open-source аналог Higgsfield Genjutsu (MIT): локальная замена персонажей и объектов в видео, перенос движения, смена одежды, фона и освещения через ComfyUI и MiniMax H3; требует NVIDIA GPU и отдельно загружаемых моделей. https://github.com/D3voz/openjutsu
+- Henge — open-source видеостудия (MIT) для замены персонажей и голов, переноса движений и повышения детализации через ComfyUI и MiniMax H3 со специализированными LoRA; локальный запуск или RunPod. Лицензии моделей и LoRA отдельные. https://github.com/alisson-anjos/Henge
 - https://github.com/hacksider/Deep-Live-Cam
 - MoCha — фреймворк для сквозной замены персонажа на видео на базе Wan 2.1, которому достаточно исходного ролика, маски первого кадра и референс-фото (желательно анфас), обеспечивающий качественную замену с сохранением света и тонов, устойчивостью к мерцаниям/подсветкам и быстрым движениям; на RTX 4090 генерирует ролик примерно за 5 минут (6 шагов) и требует около 64 ГБ VRAM. https://orange-3dv-team.github.io/MoCha/ https://github.com/Orange-3DV-Team/MoCha https://huggingface.co/Orange-3DV-Team/MoCha/tree/main https://github.com/kijai/ComfyUI-WanVideoWrapper/blob/main/example_workflows/wanvideo_MoCha_replace_subject_KJ_02.json
 
@@ -591,8 +593,13 @@
 
 ### Креативные AI-платформы
 
+- Mago Studio — open-source AI-видеостудия для Windows, macOS и Linux (AGPL-3.0-only): Director создаёт сцены из сценария с персонажами и раскадровками, Transform стилизует исходное видео, заменяет персонажей и освещение, редактирует маски и диапазоны кадров; есть монтажная шкала и версии результатов. Локальный рендеринг через ComfyUI и MiniMax H3 без аккаунта либо платный Mago Cloud; Windows-мастер устанавливает модели автоматически, на Linux/macOS нужен свой ComfyUI. https://github.com/MagoStudio/MagoStudio https://www.mago.studio/download
 - Phygital Plus — платформа для визуальных создателей и дизайнерских команд, объединяющая 30+ AI-инструментов в одном веб-приложении. https://phygital.plus/
-- Open Generative AI — open-source desktop/self-hosted студия для генерации изображений и видео с 200+ model definitions: image/video/lip-sync/cinema/workflow studios, модели вроде Flux, Midjourney, Kling, Sora, Veo, Seedream, Wan и LTX, альтернатива Higgsfield, Freepik AI, Krea и Openart AI; через Generative-Media-Skills может использоваться в automated media pipelines из Claude Code, Codex и других coding assistants. https://github.com/Anil-matcha/Open-Generative-AI
+- Open Generative AI — open-source desktop/self-hosted студия (MIT) для генерации изображений, видео и lip-sync, альтернатива Higgsfield: облачные модели через MuAPI, а в desktop-приложении также локальные изображения через sd.cpp и видео через отдельно установленный Wan2GP; поддерживает автоматизацию через Generative-Media-Skills. Облачная генерация оплачивается отдельно. https://github.com/Anil-matcha/Open-Generative-AI
+- OpenField — open-source альтернатива Higgsfield (MIT): Cinema Studio, пресеты камеры, постоянные персонажи, AI-режиссёр, CLI, web/Electron-интерфейс и MCP; генерация через собственные API-ключи fal/Replicate или custom backend, облачные вызовы оплачиваются отдельно. https://github.com/VedSoni-dev/openfield
+- BeatDesign — open-source локальная AI-студия (Apache-2.0): бесконечный canvas, генерация изображений и видео, монтажная шкала, субтитры, MP4-экспорт и управление через MCP; проекты и монтаж локальные, генерация через внешних провайдеров. https://github.com/BeatAPI/BeatDesign
+- Rosesfield — open-source альтернатива Higgsfield (MIT) с 25+ приложениями для изображений, видео, аудио и 3D; использует Comfy Router/Cloud со своим ключом и оплатой генерации либо собственный ComfyUI с редактируемыми workflow. https://github.com/rossaai/rosesfield
+- Hoodsfield — open-source локальная киностудия (Apache-2.0) на ComfyUI: раскадровка, постоянные персонажи, генерация видео, lip-sync, монтаж, апскейл и зацикленные ролики; работает на своей NVIDIA GPU, установочные скрипты ориентированы на Windows. https://github.com/designn2future/hoodsfield-ai
 - Freefield — open-source аналог платных AI-студий вроде Higgsfield (MIT), пересобранный на ComfyUI и Comfy SDK: ~120 приложений (117 с моделями, каждое с сохранённым GPU-примером) для генерации и обработки изображений, видео со звуком, музыки и VFX — оживление фото, смена лиц, дубляж, спецэффекты и управление камерой, удаление фона, релайт/смена освещения, апскейл; без API-ключей, только open-weight модели (Flux, LTX, Krea, Z-Image и др.). Код бесплатный, но для генерации нужна своя NVIDIA-видеокарта (часть приложений требует 24 GB VRAM и больше) или облачный GPU через Modal. https://github.com/neuregex/freefield
 - OpenShorts — open-source self-hosted AI-видеостудия для превращения длинных YouTube-роликов и локальных видео в вертикальные shorts/reels/tiktoks: находит фрагменты, делает 9:16 reframing, добавляет субтитры, озвучку, hook overlays, UGC-ролики с AI-акторами и публикацию в TikTok, Instagram Reels и YouTube Shorts без подписок и водяных знаков. https://github.com/mutonby/openshorts
 
@@ -696,6 +703,7 @@
 
 ### Генерация видео
 
+- LTX Desktop — open-source desktop-приложение Lightricks (Apache-2.0) для генерации видео из текста, изображений и аудио, продления и перегенерации фрагментов, эффектов и движений камеры; локальные LTX-модели и дополнительные API-функции. Для локального запуска на Linux/Windows рекомендуются NVIDIA GPU от 24 ГБ VRAM; лицензии весов отдельные. https://github.com/Lightricks/LTX-Desktop
 - CinePrompt — конструктор кинематографичных промптов для AI-видео: позволяет задавать сюжет, субъектов, камеру, свет, настроение и звук, сохранять персонажей, собирать многокадровые последовательности и генерировать видео через собственные API-ключи. https://cineprompt.io/
 - Elai — AI-сервис для создания видео-контента из текстового запроса. https://elai.io/
 - RunwayML — генератор и редактор видео по текстовому запросу с инструментами для работы с фоном, объектами, раскадровкой, субтитрами и транскрибацией. https://runwayml.com/
