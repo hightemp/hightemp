@@ -14,6 +14,8 @@
 - Поиск
     - pgsearch
         - Docker image with pg_search extension https://github.com/stephane-klein/pg_search_docker
+- SQL-движки
+    - Trino — распределённый движок SQL-запросов для больших данных (ранее PrestoSQL): один SQL-запрос умеет обращаться сразу ко многим источникам — PostgreSQL, MySQL, ClickHouse, Kafka, HDFS, S3 и др. — через коннекторы, без копирования данных; подходит для аналитики, объединения данных из разных хранилищ, ad-hoc запросов к озеру данных и как замена Presto. https://trino.io https://github.com/trinodb/trino
 - Остальное
     - https://github.com/nuno-faria/tetris-sql
     - Это стартовое приложение на базе Next.js, использующее OpenAI API и векторную базу данных Supabase для создания специализированного чат-бота, который, в отличие от обычного ChatGPT, работает с конкретной предметной областью и предоставляет достоверные ответы на основе заданных документов. https://github.com/gannonh/chatgpt-pgvector
