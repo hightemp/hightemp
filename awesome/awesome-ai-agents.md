@@ -12,6 +12,7 @@
 ### Репозитории
 
 - Агентные фреймворки
+    - AI Factory — CLI-инструмент для настройки среды агентской разработки: определяет стек проекта, устанавливает подходящие skills, подключает интеграции и организует spec-driven workflow с планированием, реализацией, ревью и проверками. Поддерживает Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, Gemini CLI и другие инструменты. https://github.com/lee-to/ai-factory https://skills.sh https://agentskills.io
     - Agent Config — cross-host слой конфигурации и governance для coding agents: компилирует skills, rules, commands, personas и hooks в нативные форматы Claude Code, Cursor, Codex, Copilot, Gemini CLI и других клиентов; включает профили и packs, capability routing, replayable state и multi-agent consensus review без постоянного runtime daemon. https://github.com/event4u-app/agent-config
     - Agentic Orchestrator — готовый к production-использованию, агностический к модели фреймворк оркестрации многоагентных рабочих процессов разработки программного обеспечения, реализующий фиксированные цепочки задач (от написания спецификации до ревью кода) с поддержкой контрольных точек, валидации качества и возобновляемого выполнения через state.json https://github.com/gbFinch/agentic-orchestration
     - Prime Agent — open-source coding и research agent для общих и долгих задач: использует RLM с постоянным Python REPL, durable harness state, субагентов, исполняемые skills, фоновые сессии, heartbeats и persistent goals. https://github.com/PrimeIntellect-ai/prime-agent

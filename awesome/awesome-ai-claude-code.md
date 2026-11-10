@@ -8,10 +8,15 @@
 - bencium-marketplace — Claude Code plugin marketplace с 13 skills для дизайна, архитектуры и продуктивности от bencium.io. https://github.com/bencium/bencium-marketplace
 - Knowledge Work Plugins — официальный open-source marketplace Anthropic для role-based Claude plugins: productivity, sales, customer support, product management, marketing, legal, finance, data, enterprise search, bio-research и cowork-plugin-management; каждый plugin состоит из `.claude-plugin/plugin.json`, `.mcp.json`, slash-команд и skills, ставится в Claude Cowork или через `claude plugin marketplace add anthropics/knowledge-work-plugins`. https://github.com/anthropics/knowledge-work-plugins
 - Awesome AI Plugins — курируемая библиотека лучших AI-плагинов/расширений для популярных ассистентов: Claude Code, OpenAI Codex/ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCode, Kimi и др.; покрывает генерацию кода, дизайн и балансировку токенов в одном месте. https://github.com/hashgraph-online/awesome-ai-plugins
+- Claude Code Templates — каталог и CLI для выбора и установки компонентов Claude Code: skills, subagents, slash-команды, hooks, MCP-серверы, настройки и mods. Позволяет искать компоненты, просматривать записываемые файлы и устанавливать выбранный набор с объединением существующей конфигурации. Репозиторий — MIT; импортированные компоненты сохраняют исходные лицензии. https://github.com/davila7/claude-code-templates https://www.aitmpl.com/
 
 ### Шпаргалки
 
 - Claude Code Cheat Sheet - регулярно обновляемая шпаргалка по Claude Code: горячие клавиши, slash-команды, MCP-серверы, `CLAUDE.md`, workflows, конфигурация, env vars, skills, agents, CLI-флаги и permission modes; на странице указаны текущая версия Claude Code и дата обновления. https://cc.storyfox.cz/
+
+### Мануалы
+
+- The Complete Guide to Building Skills for Claude — PDF-руководство Anthropic по созданию навыков: выбор сценариев, структура `SKILL.md`, тестирование, распространение, типовые ошибки и использование вместе с MCP. https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en
 
 ### Репозитории
 
