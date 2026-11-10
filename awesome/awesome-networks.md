@@ -213,6 +213,7 @@ Norton
 ### Учебники
 
 - An Introduction to Computer Networks.  Peter L Dordal https://intronetworks.cs.luc.edu/current/html/
+- Protocol Explorer — интерактивный учебник по устройству интернета: наглядно разбирает работу 14+ сетевых протоколов (TCP, DNS и др.) на живых примерах — как TCP устанавливает соединение, каким образом DNS находит нужный сайт, как работает маршрутизация пакетов и т.д. Подходит и новичку, и для быстрого повторения основ перед собеседованием. https://protocol-explorer-alpha.vercel.app/
 
 ### Книги
 
