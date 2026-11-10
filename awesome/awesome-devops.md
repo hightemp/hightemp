@@ -29,7 +29,10 @@
 ### Roadmap
 
 - https://github.com/milanm/DevOps-Roadmap
-- 90 Days of DevOps — структурированный план обучения DevOps авторства Майкла Кейда (начался как личный дневник обучения «в публичном поле», вырос в масштабный курс): 91 лекция от принципов DevOps до организации сложных распределённых систем; текстовые конспекты в репо, видео-лекции отдельным YouTube-плейлистом. Подходит новичкам («что вообще такое DevOps») и для системного повторения. https://github.com/MichaelCade/90DaysOfDevOps https://www.youtube.com/playlist?list=PLsKoqAvws1psCnkDaTPRHaqcTLSTPDFBR
+
+### Курсы
+
+- 90 Days of DevOps — бесплатная программа самостоятельного изучения DevOps от Майкла Кейда и сообщества. Выпуск 2022 содержит 90 текстовых занятий с примерами по Linux, сетям, Git, контейнерам, Kubernetes, Terraform, Ansible и CI/CD; выпуск 2023 посвящён DevSecOps, а Community Edition 2024 — видеосессиям с демонстрациями и проектами. https://github.com/MichaelCade/90DaysOfDevOps https://www.youtube.com/playlist?list=PLsKoqAvws1psCnkDaTPRHaqcTLSTPDFBR
 
 ### Генераторы конфигов
 
