@@ -403,6 +403,7 @@
 - https://unity2.ai/
 - https://veilx.io/
 - LiteLLM — open-source AI Gateway / LLM hub для единого OpenAI-compatible доступа к 100+ LLM-провайдерам; можно self-hosted proxy server с routing, load balancing, virtual keys, rate limits, spend tracking, guardrails и logging. https://github.com/BerriAI/litellm https://docs.litellm.ai/
+- CLIProxyAPI — self-hosted прокси-сервер на Go, предоставляющий OpenAI-, Gemini- и Claude-совместимые API для моделей из CLI-сервисов и OAuth-аккаунтов. Поддерживает Gemini, ChatGPT/Codex, Claude Code и Grok, балансировку между несколькими аккаунтами по round-robin, потоковые ответы, вызов инструментов и изображения на входе; можно подключать OpenAI-совместимые upstream-провайдеры и встраивать прокси через Go SDK. MIT. https://github.com/router-for-me/CLIProxyAPI
 - Awesome Free LLM APIs — каталог бесплатных LLM API-эндпоинтов от 40+ провайдеров (Google Gemini, NVIDIA NIM, Groq, OpenRouter и др.): 134+ ключей/API с указанием лимитов, совместимости с OpenAI SDK, доступных SDK и скоростных тиров; есть one-click setup для Claude Code, Cursor и Codex. https://github.com/open-free-llm-api/awesome-freellm-apis
 
 ### AI аккаунты и подписки
