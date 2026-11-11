@@ -800,6 +800,7 @@
 - FineShare — сервис для записи видео и работы с видео-контентом. https://www.fineshare.com/
 - Ev-DeblurVSR (Enhanced Video Deblurring and Video Super-Resolution) — видеокодек для эффективного устранения размытия и повышения разрешения видеопоследовательностей, обеспечивающий высокую детализацию и четкость кадров в условиях сложного движения и низкой освещенности. https://github.com/DachunKai/Ev-DeblurVSR
 - Hyperframes — open-source framework для рендеринга видео из HTML-композиций: preview/render pipeline, GSAP animations, CLI, Docker/test tooling и first-class support для AI coding agents через skills и OpenAI Codex plugin. https://github.com/heygen-com/hyperframes
+- JoyAI-Video-Edit — открытая авторегрессионная диффузионная модель (16B) от Joy Future Academy для редактирования видео в реальном времени: обрабатывает кадры по текстовому промпту по мере поступления, без доступа к будущим кадрам и не зная длину ролика. Умеет менять фон, стиль (акварель, масло, мультфильм), добавлять/удалять/заменять объекты и людей, менять одежду и внешность, изменять движения; поддерживает редактирование по референсной картинке (перенос одежды/предмета с фото на человека). Полный сквозной пайплайн — 30.19 FPS в 720×1280 на одной Nvidia B200. Лицензия Apache 2.0. https://arxiv.org/pdf/2608.03974 https://github.com/jd-opensource/JoyAI-Video-Edit https://huggingface.co/jdopensource/JoyAI-Video-Edit
 
 ### Распознавание дипфейков; deepfake
 
