@@ -8,6 +8,10 @@
 - https://github.com/Ventsislav-Yordanov/Learning-English
 - https://github.com/abkfenris/awesome-education
 
+### Дорожные карты
+
+- DevRoadmap — русскоязычный сайт с интерактивными дорожными картами для разработчиков, DevOps/SRE, QA и специалистов по данным и ML. Содержит тематические материалы, ссылки на документацию и практические задания; для отслеживания прогресса нужен аккаунт. https://devroadmap.ru/
+
 ### Сервисы для сохранения ссылок на статьи
 
 - https://paperpile.com/

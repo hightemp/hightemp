@@ -29,6 +29,7 @@
 ### Roadmap
 
 - https://github.com/milanm/DevOps-Roadmap
+- Observability — дорожная карта DevRoadmap по наблюдаемости: метрики, логи, трейсы, SLI/SLO/SLA, error budget, Golden Signals, RED/USE, алертинг, дашборды, реагирование на инциденты и профилирование. Темы ведут на отдельные поясняющие страницы; охватываются Prometheus, OpenTelemetry, Grafana, Loki, Jaeger и другие инструменты. https://devroadmap.ru/roadmaps/observability
 
 ### Курсы
 
