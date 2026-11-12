@@ -148,12 +148,16 @@
     - In-Memory решения с поддержкой потоков
         - Redis Streams
 - Observability
-    - Observability 101: A Beginner's Journey Free of Print Statements https://cloudnativeengineer.substack.com/p/observability-101-free-of-print-statements
-    - Golden Signals vs RED vs USE. Какие методики мониторинга выбрать — сравнение подходов к мониторингу пользовательских сервисов, API и инфраструктурных ресурсов. Есть примеры PromQL для p95, интенсивности запросов, доли ошибок и загрузки CPU; разобраны насыщение ресурсов, выбор алертов и типичные ошибки при работе с метриками. https://statuser.cloud/blog/golden-signals-vs-red-vs-use-kakie-metodiki-monitoringa-vybrat
-    - Мониторинг и логирование: что собирать и как реагировать — практический урок InterLAB по наблюдаемости Node.js/Express-сервисов: JSON-логи на pino, маскирование секретов, request/correlation id, `/healthz` и `/readyz`, метрики Prometheus, запросы PromQL и алерты с выдержкой времени. Есть пример двух сервисов в Docker Compose, разбор четырёх золотых сигналов, RED/USE и упражнения. https://courses.interlab.app/lessons/monitoring-i-logirovanie
-    - Для чего нужен Observability Engineering https://habr.com/ru/companies/slurm/articles/713196/
-    - Observability vs Monitoring: почему в 2025 году это две стороны одной медали https://habr.com/ru/companies/monq/articles/878278/
-    - Практическое руководство по реализации Observability в DevOps https://habr.com/ru/companies/ruvds/articles/701034/
+    - Основы наблюдаемости
+        - Observability 101: A Beginner's Journey Free of Print Statements https://cloudnativeengineer.substack.com/p/observability-101-free-of-print-statements
+        - Для чего нужен Observability Engineering https://habr.com/ru/companies/slurm/articles/713196/
+        - Observability vs Monitoring: почему в 2025 году это две стороны одной медали https://habr.com/ru/companies/monq/articles/878278/
+    - Методики мониторинга
+        - RED метод — вводный материал DevRoadmap о Rate, Errors и Duration для мониторинга микросервисов: назначение сигналов, связь с USE, метрики `http_requests_total` и `http_request_duration_seconds`, рекомендации по организации сервисных дашбордов. https://devroadmap.ru/roadmaps/observability/red-method
+        - Golden Signals vs RED vs USE. Какие методики мониторинга выбрать — сравнение подходов к мониторингу пользовательских сервисов, API и инфраструктурных ресурсов. Есть примеры PromQL для p95, интенсивности запросов, доли ошибок и загрузки CPU; разобраны насыщение ресурсов, выбор алертов и типичные ошибки при работе с метриками. https://statuser.cloud/blog/golden-signals-vs-red-vs-use-kakie-metodiki-monitoringa-vybrat
+    - Внедрение наблюдаемости
+        - Мониторинг и логирование: что собирать и как реагировать — практический урок InterLAB по наблюдаемости Node.js/Express-сервисов: JSON-логи на pino, маскирование секретов, request/correlation id, `/healthz` и `/readyz`, метрики Prometheus, запросы PromQL и алерты с выдержкой времени. Есть пример двух сервисов в Docker Compose, разбор четырёх золотых сигналов, RED/USE и упражнения. https://courses.interlab.app/lessons/monitoring-i-logirovanie
+        - Практическое руководство по реализации Observability в DevOps https://habr.com/ru/companies/ruvds/articles/701034/
 - Инструментов наблюдаемости (observability tools)
     - Системы распределенной трассировки (distributed tracing systems)
         - Jaeger: open source, distributed tracing platform
