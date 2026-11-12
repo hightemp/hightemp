@@ -404,7 +404,7 @@
     - Unity2.ai — API-посредник для GPT, Claude и Gemini с подключением Claude Code, Codex, Gemini CLI и OpenCode через Base URL и API-ключ. Документация включает настройку клиентов через CC Switch и вручную. https://unity2.ai/
 - Облачный инференс
     - DeepInfra — облачная платформа запуска AI-моделей через API: генерация текста, изображений и видео, распознавание и синтез речи, embeddings и reranking. Также предоставляет выделенные GPU и инфраструктуру для развёртывания моделей. https://deepinfra.com/
-- Самостоятельное развёртывание
+- API-шлюзы для самостоятельного развёртывания
     - LiteLLM — open-source AI Gateway / LLM hub для единого OpenAI-compatible доступа к 100+ LLM-провайдерам; можно self-hosted proxy server с routing, load balancing, virtual keys, rate limits, spend tracking, guardrails и logging. https://github.com/BerriAI/litellm https://docs.litellm.ai/
     - CLIProxyAPI — self-hosted прокси-сервер на Go, предоставляющий OpenAI-, Gemini- и Claude-совместимые API для моделей из CLI-сервисов и OAuth-аккаунтов. Поддерживает Gemini, ChatGPT/Codex, Claude Code и Grok, балансировку между несколькими аккаунтами по round-robin, потоковые ответы, вызов инструментов и изображения на входе; можно подключать OpenAI-совместимые upstream-провайдеры и встраивать прокси через Go SDK. MIT. https://github.com/router-for-me/CLIProxyAPI
 - Каталоги API
