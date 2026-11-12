@@ -154,6 +154,7 @@
         - Для чего нужен Observability Engineering https://habr.com/ru/companies/slurm/articles/713196/
         - Observability vs Monitoring: почему в 2025 году это две стороны одной медали https://habr.com/ru/companies/monq/articles/878278/
     - Методики мониторинга
+        - Monitoring and Observability — обзор проектирования мониторинга: уровни BSA (инфраструктура, сервисы, приложения), сбор требований, выбор допустимых значений метрик и подготовка runbook’ов. Разобраны USE, RED и четыре золотых сигнала, различия ресурсных и сервисных метрик и представление доли ошибок на дашбордах. https://mixanemca.me/posts/monitoring-use-red/
         - RED метод — вводный материал DevRoadmap о Rate, Errors и Duration для мониторинга микросервисов: назначение сигналов, связь с USE, метрики `http_requests_total` и `http_request_duration_seconds`, рекомендации по организации сервисных дашбордов. https://devroadmap.ru/roadmaps/observability/red-method
         - Golden Signals vs RED vs USE. Какие методики мониторинга выбрать — сравнение подходов к мониторингу пользовательских сервисов, API и инфраструктурных ресурсов. Есть примеры PromQL для p95, интенсивности запросов, доли ошибок и загрузки CPU; разобраны насыщение ресурсов, выбор алертов и типичные ошибки при работе с метриками. https://statuser.cloud/blog/golden-signals-vs-red-vs-use-kakie-metodiki-monitoringa-vybrat
     - Внедрение наблюдаемости
