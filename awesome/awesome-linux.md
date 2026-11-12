@@ -40,6 +40,13 @@
 
 ### Книги
 
+- Производительность систем (Systems Performance: Enterprise and the Cloud), 2-е изд.
+    - Автор: Брендан Грегг (Brendan Gregg)
+    - Русское издание: «Питер», 2023, 992 с.
+    - Описание: методологии анализа производительности на примере Linux и облачных сред — CPU, память, файловые системы, диски и сеть; метод USE, бенчмаркинг, профилирование и трассировка с помощью `perf`, Ftrace, BPF/BCC и bpftrace.
+    - Ссылки
+        - https://www.brendangregg.com/systems-performance-2nd-edition-book.html
+        - https://studylib.net/doc/26300545/proizvoditel._nost._-sistem-2023-gregg-brendon---2-
 - Время UNIX. A History and a Memoir 
     - Автор: Брайан Керниган
     - Статьи
