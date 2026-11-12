@@ -153,13 +153,25 @@
         - Observability 101: A Beginner's Journey Free of Print Statements https://cloudnativeengineer.substack.com/p/observability-101-free-of-print-statements
         - Для чего нужен Observability Engineering https://habr.com/ru/companies/slurm/articles/713196/
         - Observability vs Monitoring: почему в 2025 году это две стороны одной медали https://habr.com/ru/companies/monq/articles/878278/
+        - Monitoring Distributed Systems — глава 6 книги Google SRE: цели мониторинга, симптомы и причины, black-box/white-box проверки, четыре золотых сигнала, хвостовые задержки и принципы полезных оповещений. https://sre.google/sre-book/monitoring-distributed-systems/
     - Методики мониторинга
-        - Monitoring and Observability — обзор проектирования мониторинга: уровни BSA (инфраструктура, сервисы, приложения), сбор требований, выбор допустимых значений метрик и подготовка runbook’ов. Разобраны USE, RED и четыре золотых сигнала, различия ресурсных и сервисных метрик и представление доли ошибок на дашбордах. https://mixanemca.me/posts/monitoring-use-red/
-        - RED метод — вводный материал DevRoadmap о Rate, Errors и Duration для мониторинга микросервисов: назначение сигналов, связь с USE, метрики `http_requests_total` и `http_request_duration_seconds`, рекомендации по организации сервисных дашбордов. https://devroadmap.ru/roadmaps/observability/red-method
-        - Golden Signals vs RED vs USE. Какие методики мониторинга выбрать — сравнение подходов к мониторингу пользовательских сервисов, API и инфраструктурных ресурсов. Есть примеры PromQL для p95, интенсивности запросов, доли ошибок и загрузки CPU; разобраны насыщение ресурсов, выбор алертов и типичные ошибки при работе с метриками. https://statuser.cloud/blog/golden-signals-vs-red-vs-use-kakie-metodiki-monitoringa-vybrat
+        - USE
+            - The USE Method — оригинальное описание метода Брендана Грегга: проверка utilization, saturation и errors для каждого ресурса системы. Разбираются аппаратные и программные ресурсы, интерпретация метрик, ограничения метода и чек-листы для разных ОС. https://www.brendangregg.com/usemethod.html
+        - RED
+            - RED метод — вводный материал DevRoadmap о Rate, Errors и Duration для мониторинга микросервисов: назначение сигналов, связь с USE, метрики `http_requests_total` и `http_request_duration_seconds`, рекомендации по организации сервисных дашбордов. https://devroadmap.ru/roadmaps/observability/red-method
+            - The RED Method: A New Approach to Monitoring Microservices — материал The New Stack по докладу Тома Уилки: единые метрики частоты запросов, ошибок и длительности для микросервисов, отличия от инфраструктурного USE и снижение нагрузки на дежурных инженеров за счёт одинакового инструментирования сервисов. https://thenewstack.io/monitoring-microservices-red-method/
+        - Золотые сигналы
+            - Для чего нужны «золотые сигналы» мониторинга и SRE? — объяснение latency, traffic, errors и saturation, их роли в надёжности сервисов и связи с работой SRE. Дополнительно рассматриваются Chaos Engineering, Game Days и синтетический мониторинг. https://habr.com/ru/companies/flant/articles/462503/
+        - Сравнение методик
+            - Monitoring and Observability — обзор проектирования мониторинга: уровни BSA (инфраструктура, сервисы, приложения), сбор требований, выбор допустимых значений метрик и подготовка runbook’ов. Разобраны USE, RED и четыре золотых сигнала, различия ресурсных и сервисных метрик и представление доли ошибок на дашбордах. https://mixanemca.me/posts/monitoring-use-red/
+            - Golden Signals vs RED vs USE. Какие методики мониторинга выбрать — сравнение подходов к мониторингу пользовательских сервисов, API и инфраструктурных ресурсов. Есть примеры PromQL для p95, интенсивности запросов, доли ошибок и загрузки CPU; разобраны насыщение ресурсов, выбор алертов и типичные ошибки при работе с метриками. https://statuser.cloud/blog/golden-signals-vs-red-vs-use-kakie-metodiki-monitoringa-vybrat
+            - Monitoring and Observability With USE and RED — разбор Барона Шварца: различие utilization и saturation, ресурсный взгляд USE и взгляд на рабочую нагрузку RED, взаимодополняемость методов и необходимость анализировать распределения задержек вместо одних средних значений. https://www.solarwinds.com/blog/monitoring-and-observability-with-use-and-red
     - Внедрение наблюдаемости
         - Мониторинг и логирование: что собирать и как реагировать — практический урок InterLAB по наблюдаемости Node.js/Express-сервисов: JSON-логи на pino, маскирование секретов, request/correlation id, `/healthz` и `/readyz`, метрики Prometheus, запросы PromQL и алерты с выдержкой времени. Есть пример двух сервисов в Docker Compose, разбор четырёх золотых сигналов, RED/USE и упражнения. https://courses.interlab.app/lessons/monitoring-i-logirovanie
         - Практическое руководство по реализации Observability в DevOps https://habr.com/ru/companies/ruvds/articles/701034/
+        - Monitoring — глава 4 The Site Reliability Workbook: выбор системы мониторинга, источники данных, конфигурация как код, согласованность метрик, управление системой мониторинга и тестирование логики алертов. https://sre.google/workbook/monitoring/
+        - How to Monitor the SRE Golden Signals — вводная статья и оглавление практической серии о сборе rate, errors, latency, saturation и utilization. Есть рекомендации по порогам, перцентилям и визуализации, а также ссылки на отдельные разборы балансировщиков, веб-серверов, приложений, баз данных и Linux. https://faun.pub/how-to-monitor-the-sre-golden-signals-1391cadc7524
+        - Основы распределённого мониторинга: четыре золотых сигнала — опыт ForePaaS: инструментирование сервисов, сбор метрик, выбор золотых сигналов и построение Grafana-дашбордов с drill-down для диагностики проблем распределённой системы. https://habr.com/ru/companies/slurm/articles/546638/
 - Инструментов наблюдаемости (observability tools)
     - Системы распределенной трассировки (distributed tracing systems)
         - Jaeger: open source, distributed tracing platform
@@ -334,6 +346,10 @@
 - https://trainwithshubham.blog/blogs/
 - https://vsupalov.com/
 - https://iximiuz.com/en/
+
+### Презентации
+
+- The RED Method — слайды Тома Уилки с GrafanaCon EU 2018: USE, RED и четыре золотых сигнала, инструментирование HTTP-сервиса на Go, гистограммы Prometheus и запросы PromQL для rate, ошибок и перцентилей задержки. https://grafana.com/files/grafanacon_eu_2018/Tom_Wilkie_GrafanaCon_EU_2018.pdf
 
 ### Видео
 

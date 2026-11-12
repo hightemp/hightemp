@@ -81,6 +81,8 @@
     - Основное
         - Изучаем PostgreSQL. Часть 1. Знакомимся с архитектурой https://habr.com/ru/companies/otus/articles/706346/
         - How to list tables in PostgreSQL https://www.illacloud.com/blog/list-tables-in-postgresql
+    - Мониторинг
+        - Мониторинг Postgres по USE и RED — расшифровка доклада Павла Труханова с PGConf.Russia: применение методик к ресурсам, сессиям и запросам PostgreSQL, оценка утилизации, насыщения и ошибок, использование `pg_stat_activity` и `pg_stat_statements` на примере мониторинга okmeter.io. https://habr.com/ru/articles/514180/
     - Индексы
         - PostgreSQL Deep Dive Part 11 — Understanding Database Indexing Fundamentals https://abheist.com/blogs/postgres-indexing
         - PostgreSQL Deep Dive Part 12 — Advanced Indexing Strategies and Optimization https://abheist.com/blogs/postgres-indexing-advanced
