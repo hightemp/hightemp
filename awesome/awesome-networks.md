@@ -16,6 +16,10 @@
 - Cisco ASAv https://software.cisco.com/download/home/286119613/type/280775065/release/9.18.4%20Interim
 - Cisco CSR1000v https://software.cisco.com/download/home/284364978/type/282046477/release/3.15.0S
 
+### CDN
+
+- veilx — платформа доставки контента и защиты веб-приложений: CDN-кеширование на пограничных узлах, WAF, перенаправление TCP/UDP-портов и ретрансляция потокового аудио и видео. Поддерживает автоматическую выдачу и продление TLS-сертификатов. https://veilx.io/
+
 ### Сервисы проверки доступности
 
 - https://check-host.net/

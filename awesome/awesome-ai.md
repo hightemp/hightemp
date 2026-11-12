@@ -385,26 +385,30 @@
 
 - https://iconkit.dev/
 
-### API gateway для API AI сервисов
+### Доступ к моделям через API
 
-- https://proxyapi.ru/
-- https://vsegpt.ru/
-- https://api.apiyi.com/
-- https://openrouter.ai/
-- https://deepinfra.com/
-- https://agentrouter.org
-- https://www.openmodel.ai/
-- https://apikey.fun/
-- https://code.silkapi.com/
-- https://www.aicodemirror.com/
-- https://pateway.ai/
-- https://api.pptoken.org/
-- https://runapi.co/
-- https://unity2.ai/
-- https://veilx.io/
-- LiteLLM — open-source AI Gateway / LLM hub для единого OpenAI-compatible доступа к 100+ LLM-провайдерам; можно self-hosted proxy server с routing, load balancing, virtual keys, rate limits, spend tracking, guardrails и logging. https://github.com/BerriAI/litellm https://docs.litellm.ai/
-- CLIProxyAPI — self-hosted прокси-сервер на Go, предоставляющий OpenAI-, Gemini- и Claude-совместимые API для моделей из CLI-сервисов и OAuth-аккаунтов. Поддерживает Gemini, ChatGPT/Codex, Claude Code и Grok, балансировку между несколькими аккаунтами по round-robin, потоковые ответы, вызов инструментов и изображения на входе; можно подключать OpenAI-совместимые upstream-провайдеры и встраивать прокси через Go SDK. MIT. https://github.com/router-for-me/CLIProxyAPI
-- Awesome Free LLM APIs — каталог бесплатных LLM API-эндпоинтов от 40+ провайдеров (Google Gemini, NVIDIA NIM, Groq, OpenRouter и др.): 134+ ключей/API с указанием лимитов, совместимости с OpenAI SDK, доступных SDK и скоростных тиров; есть one-click setup для Claude Code, Cursor и Codex. https://github.com/open-free-llm-api/awesome-freellm-apis
+- Агрегаторы API
+    - ProxyAPI — API-посредник для OpenAI, Anthropic, Google Gemini и DeepSeek с оплатой в рублях. Подключается заменой адреса сервера и ключа в приложении; сохраняет методы и параметры поддерживаемых API провайдеров. https://proxyapi.ru/
+    - VseGPT — единый OpenAI-совместимый API для моделей разных провайдеров: чат, vision, embeddings, генерация изображений и работа с аудио. Есть маппинг имён моделей и отдельный Anthropic-совместимый интерфейс для Claude Code. https://vsegpt.ru/
+    - APIYI — API-посредник для OpenAI-совместимых моделей, Claude и Gemini, включая генерацию изображений. Предоставляет интерфейсы для OpenAI, Anthropic и Google GenAI SDK с разными базовыми путями подключения. https://api.apiyi.com/
+    - OpenRouter — единый API и ключ для моделей разных провайдеров: выбор upstream-провайдера, автоматическое резервное переключение, маршрутизация и общий учёт расходов. Поддерживает подключение собственных ключей провайдеров и политики обработки данных. https://openrouter.ai/
+    - OpenModel — размещённый API-шлюз для нескольких провайдеров с единым ключом и балансом. Поддерживает Anthropic Messages, OpenAI Responses, Gemini и OpenAI Images, повторные запросы, квоты ключей и журнал потребления. https://www.openmodel.ai/
+    - APIKEY.FAN — API-агрегатор для Claude, GPT, Gemini и других моделей; предоставляет интерфейсы Responses, Chat Completions и Messages, генерацию изображений и видео. Есть инструкции подключения Claude Code, Codex, Gemini CLI и OpenClaw. https://apikey.fun/
+    - RunAPI — API-агрегатор текстовых и мультимодальных моделей с маршрутизацией между upstream-провайдерами и резервным переключением. Поддерживает подключение Claude Code и OpenClaw. https://runapi.co/
+- Реле для coding agents
+    - AgentRouter — сервис API-доступа для Claude Code, Codex, Cline, Roo Code и других инструментов агентской разработки. Предоставляет ключи доступа, общий учёт квот и инструкции подключения клиентов. https://agentrouter.org
+    - SilkAPI Code — сервис преобразования подписочного доступа в API для Claude, GPT, Gemini и Antigravity. Предоставляет единый ключ, учёт потребления и маршрутизацию между upstream-аккаунтами с резервным переключением. https://code.silkapi.com/
+    - AICodeMirror — реле-сервис для Claude Code, Codex, Gemini CLI и Grok Build с оплатой по потреблению и пакетами доступа. Есть средства администрирования команд и централизованного биллинга. https://www.aicodemirror.com/
+    - PatewayAI — API-реле для Claude и Codex с интерфейсами Anthropic Messages, OpenAI Responses и Chat Completions. Подключается к coding agents, SDK и LLM-фреймворкам через собственные Base URL и API-ключ; показывает расход входных, выходных и кешированных токенов. https://pateway.ai/
+    - PPToken — сервис «подписка → API» с ключами доступа к AI-шлюзу, личным кабинетом, управлением подписками и просмотром потребления. https://api.pptoken.org/
+    - Unity2.ai — API-посредник для GPT, Claude и Gemini с подключением Claude Code, Codex, Gemini CLI и OpenCode через Base URL и API-ключ. Документация включает настройку клиентов через CC Switch и вручную. https://unity2.ai/
+- Облачный инференс
+    - DeepInfra — облачная платформа запуска AI-моделей через API: генерация текста, изображений и видео, распознавание и синтез речи, embeddings и reranking. Также предоставляет выделенные GPU и инфраструктуру для развёртывания моделей. https://deepinfra.com/
+- Самостоятельное развёртывание
+    - LiteLLM — open-source AI Gateway / LLM hub для единого OpenAI-compatible доступа к 100+ LLM-провайдерам; можно self-hosted proxy server с routing, load balancing, virtual keys, rate limits, spend tracking, guardrails и logging. https://github.com/BerriAI/litellm https://docs.litellm.ai/
+    - CLIProxyAPI — self-hosted прокси-сервер на Go, предоставляющий OpenAI-, Gemini- и Claude-совместимые API для моделей из CLI-сервисов и OAuth-аккаунтов. Поддерживает Gemini, ChatGPT/Codex, Claude Code и Grok, балансировку между несколькими аккаунтами по round-robin, потоковые ответы, вызов инструментов и изображения на входе; можно подключать OpenAI-совместимые upstream-провайдеры и встраивать прокси через Go SDK. MIT. https://github.com/router-for-me/CLIProxyAPI
+- Каталоги API
+    - Awesome Free LLM APIs — каталог бесплатных LLM API-эндпоинтов от 40+ провайдеров (Google Gemini, NVIDIA NIM, Groq, OpenRouter и др.): 134+ ключей/API с указанием лимитов, совместимости с OpenAI SDK, доступных SDK и скоростных тиров; есть one-click setup для Claude Code, Cursor и Codex. https://github.com/open-free-llm-api/awesome-freellm-apis
 
 ### AI аккаунты и подписки
 
