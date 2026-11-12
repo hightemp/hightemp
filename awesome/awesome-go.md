@@ -2611,6 +2611,7 @@
 - https://golangprojectstructure.com/
 - https://substack.com/@samuelberthe
 - https://martinheinz.dev/tag/golang/
+- Мишка на сервере — русскоязычный блог с практическими заметками о Go и серверной разработке: стандартная библиотека, PostgreSQL/pgx, логирование, Prometheus и Consul. Также есть материалы по Linux, сетям, RIPE Atlas и наблюдаемости. https://mixanemca.me/
 
 ### Подкасты
 
