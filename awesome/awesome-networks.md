@@ -43,6 +43,7 @@
 - Self-hosted ngrok alternative https://docs.ssi.sh/
 - tcp/http self-hosted tunnel https://telebit.cloud/
 - NETworkManager — open-source инструмент для управления сетями и диагностики сетевых проблем (Windows): профили подключений, ping, port scan, поиск устройств, WiFi-сканер, traceroute, DNS-запросы, IP-калькулятор, WHOIS и др. https://github.com/BornToBeRoot/NETworkManager
+- freeze-check — CLI на Bash и curl для диагностики «заморозки» TCP-соединений из России: скачивает тестовые файлы хостинг-провайдеров, отличает остановку передачи от медленной загрузки и группирует результаты по сетям/ASN. Есть быстрый режим, проверки CDN и отдельного URL; в репозитории опубликованы методика и исходные замеры. Результаты относятся к конкретному подключению, оператору и региону. MIT. https://github.com/MarkSinD/freeze-check
 
 ### Репозитории
 
