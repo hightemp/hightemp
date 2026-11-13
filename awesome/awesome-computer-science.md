@@ -60,6 +60,8 @@
     - Chapter 12: Interrupts Embedded Systems - Shape The World Modified to be compatible with EE319K Lab 6 Jonathan Valvano and Ramesh Yerraballi https://users.ece.utexas.edu/~valvano/Volume1/E-Book/C12_Interrupts.htm
 - Context Switching, Смена контекста
     - Context Switching https://wiki.osdev.org/Context_Switching
+- Программная инженерия
+    - За пределами вайбкодинга: фундаментальная база программной инженерии — обзор инженерных основ через типичные ошибки AI-сгенерированного кода: ОС и память, ввод-вывод, индексы и конкурентные транзакции, устойчивость сетевых вызовов, безопасность, архитектура, тестирование и наблюдаемость. Есть примеры идемпотентности, Transactional Outbox и property-based тестирования. https://habr.com/ru/articles/1105056/
 - Остальное
     - The Importance of Computer Science Publishers for Rookies and Advanced Users https://machaddr.substack.com/p/the-importance-of-computer-science
     - Abstract Machine Models Also: what Rust got particularly right https://dr-knz.net/abstract-machine-models.html
