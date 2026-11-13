@@ -84,8 +84,15 @@
     - Мониторинг
         - Мониторинг Postgres по USE и RED — расшифровка доклада Павла Труханова с PGConf.Russia: применение методик к ресурсам, сессиям и запросам PostgreSQL, оценка утилизации, насыщения и ошибок, использование `pg_stat_activity` и `pg_stat_statements` на примере мониторинга okmeter.io. https://habr.com/ru/articles/514180/
     - Индексы
-        - PostgreSQL Deep Dive Part 11 — Understanding Database Indexing Fundamentals https://abheist.com/blogs/postgres-indexing
-        - PostgreSQL Deep Dive Part 12 — Advanced Indexing Strategies and Optimization https://abheist.com/blogs/postgres-indexing-advanced
+        - Основное
+            - PostgreSQL Deep Dive Part 11 — Understanding Database Indexing Fundamentals https://abheist.com/blogs/postgres-indexing
+        - Проектирование индексов
+            - PostgreSQL Deep Dive Part 12 — Advanced Indexing Strategies and Optimization https://abheist.com/blogs/postgres-indexing-advanced
+        - GIN
+            - Индексы в PostgreSQL — 7 (GIN) — устройство инвертированного индекса: дерево ключей, posting lists/trees, `fastupdate`, pending list и просмотр страниц через `pageinspect`. Есть примеры для полнотекстового поиска, массивов и JSONB. https://habr.com/ru/companies/postgrespro/articles/340978/
+            - Understanding Postgres GIN Indexes: The Good and the Bad — применение GIN к JSONB, `tsvector` и триграммному поиску через `gin_trgm_ops`, составные индексы и сочетание с B-tree. Подробно разобраны цена обновлений, рост pending list, его измерение и проблемы GitLab. https://pganalyze.com/blog/gin-index
+            - PostgreSQL’s indexes — GIN — иллюстрированный разбор внутренней структуры с SQL-примерами для массивов и полнотекстового поиска: метастраница, дерево ключей, posting lists/trees и pending list. https://www.louisemeta.com/blog/indexes-gin/
+            - Indexing JSONB in Postgres — практический разбор GIN для JSONB: какие запросы используют индекс, ограничения, стоимость его поддержки при записи и альтернативы в виде индексов на выражения и частичных индексов. https://www.crunchydata.com/blog/indexing-jsonb-in-postgres
     - subtransactions; Подтранзакции
         - Why we spent the last month eliminating PostgreSQL subtransactions https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/
     - PgBouncer
