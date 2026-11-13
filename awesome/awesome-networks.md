@@ -324,6 +324,8 @@ Norton
         - Как устроен VPN через SSTP https://habr.com/ru/articles/196134/
     - PPTP
     - Lightway
+    - Архитектура VPN
+        - Методичка по построению VPN, осень 2026 — авторский опыт построения схемы на Xray/VLESS/REALITY/XHTTP с разделением адресов входа и выхода: отдельный шлюз, второй IP, WARP и каскад через российский сервер. Разобраны `sendThrough`, `IPOnDemand`, sniffing, утечки IPv6, защита панели управления и `fallbackTag` с `blackhole`. https://habr.com/ru/articles/1103460/
     - Остальное
         - Как ТСПУ ловит VLESS в 2026 и почему XHTTP — следующий шаг https://habr.com/ru/articles/1009542/
         - Как оператор связи видит, что вы используете VPN — техническая сторона вопроса https://habr.com/ru/articles/1017158/
