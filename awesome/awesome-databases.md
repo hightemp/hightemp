@@ -68,6 +68,16 @@
     - NoSQL databases https://www.karanpratapsingh.com/courses/system-design/nosql-databases
     - SQL vs NoSQL databases https://www.karanpratapsingh.com/courses/system-design/sql-vs-nosql-databases
     - SQL vs NoSQL: Which Database to Choose in System Design? https://www.geeksforgeeks.org/which-database-to-choose-while-designing-a-system-sql-or-nosql/
+- Транзакции
+    - Уровни изоляции
+        - Уровни изоляции транзакций в PostgreSQL, MySQL, SQL Server и Oracle с примерами на Go — практическое воспроизведение аномалий конкурентного доступа и сравнение поведения СУБД: Dirty Read, Non-Repeatable Read, Phantom Read, потерянные обновления и write skew. Есть код, Docker Compose, разбор блокировок и тестирование через `pgbench`. https://habr.com/ru/articles/857486/
+    - Аномалии конкурентного доступа
+        - Грязное чтение
+            - A beginner’s guide to Dirty Read anomaly — разбор Влада Михалчи со схемой двух конкурентных транзакций: чтение незафиксированных изменений, последствия возможного отката и предотвращение аномалии через блокировки или MVCC. https://vladmihalcea.com/dirty-read/
+        - Неповторяющееся чтение
+            - A beginner’s guide to Non-Repeatable Read anomaly — повторное чтение изменённой строки, последовательность действий двух транзакций и влияние на решения приложения. Объясняются предотвращение аномалии через блокировки и MVCC и гарантии уровней изоляции. https://vladmihalcea.com/non-repeatable-read/
+        - Фантомное чтение
+            - A beginner’s guide to Phantom Read anomaly — изменение набора строк при повторной выборке по условию, отличие от изменения отдельной строки и схема конкурентного добавления записи. Рассматриваются предикатные блокировки, согласованные снимки и связь с сериализуемостью. https://vladmihalcea.com/phantom-read/
 - MongoDB
     - Основное
         - Где хранить неструктурированные данные: СУБД MongoDB для веб-разработчиков и аналитиков https://practicum.yandex.ru/blog/subd-mongodb-ustanovka-i-ispolzovanie/
@@ -83,6 +93,8 @@
         - How to list tables in PostgreSQL https://www.illacloud.com/blog/list-tables-in-postgresql
     - Мониторинг
         - Мониторинг Postgres по USE и RED — расшифровка доклада Павла Труханова с PGConf.Russia: применение методик к ресурсам, сессиям и запросам PostgreSQL, оценка утилизации, насыщения и ошибок, использование `pg_stat_activity` и `pg_stat_statements` на примере мониторинга okmeter.io. https://habr.com/ru/articles/514180/
+    - Изоляция транзакций
+        - MVCC-1. Изоляция — подробный разбор Postgres Professional: аномалии конкурентного доступа, уровни изоляции SQL-стандарта и их реализация в PostgreSQL. Есть SQL-примеры параллельных транзакций, объяснение снимков данных и отличий Repeatable Read от Serializable. https://habr.com/ru/companies/postgrespro/articles/442804/
     - Индексы
         - Основное
             - PostgreSQL Deep Dive Part 11 — Understanding Database Indexing Fundamentals https://abheist.com/blogs/postgres-indexing
