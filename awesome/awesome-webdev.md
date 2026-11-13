@@ -487,8 +487,6 @@
    - Готовимся к вопросам по вёрстке на интервью Frontend-разработчика: «Какие знаешь псевдо-классы?» https://habr.com/ru/companies/ruvds/articles/864762/
    - Неизвестно полезный CSS https://habr.com/ru/companies/ruvds/articles/775986/
 - Архитектура
-   - Паттерны
-      - https://martinfowler.com/bliki/CircuitBreaker.html
    - Dependency Injection
       - Inversion of Control Containers and the Dependency Injection pattern https://www.martinfowler.com/articles/injection.html
    - Hexagonal architecture

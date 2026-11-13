@@ -146,6 +146,7 @@
     - Sharding
     - Circuit Breaker
         - Основное
+            - Circuit Breaker — статья Мартина Фаулера о предохранителе для защиты от каскадных сбоев: реализация на Ruby, состояния Closed, Open и Half-Open, пороги ошибок, пробные вызовы и мониторинг переходов. Объясняются выбор учитываемых ошибок и поведение вызывающего приложения после размыкания. https://martinfowler.com/bliki/CircuitBreaker.html
             - What is Circuit Breaker Pattern in Microservices? https://www.geeksforgeeks.org/what-is-circuit-breaker-pattern-in-microservices/
             - Circuit Breaker with Bulkhead Isolation in Microservices https://www.geeksforgeeks.org/circuit-breaker-with-bulkhead-isolation-in-microservices/
             - Circuit Breaker Pattern (Design Patterns for Microservices) https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33
@@ -163,6 +164,10 @@
             - Доменно-ориентированный подход к интеграции https://systems.education/integration-with-ddd#showmore
     - Resilience design patterns
         - Resilience design patterns: retry, fallback, timeout, circuit breaker https://www.codecentric.de/wissens-hub/blog/resilience-design-patterns-retry-fallback-timeout-circuit-breaker
+        - Notes, Quotes, and Thoughts from Release It — подробный конспект книги Майкла Найгарда: антипаттерны отказов и все 12 паттернов устойчивости второго издания, включая Timeouts, Circuit Breaker, Bulkheads, Steady State, Fail Fast, Let It Crash, Shed Load и Governor. Для каждого приведены назначение и рекомендации по применению. https://john.dev/posts/_2019-04-14-release-it-notes.html
+        - Паттерны отказоустойчивости — разбор Retry, Deadline, Rate Limiter и Circuit Breaker: безопасные повторы, backoff с jitter, передача дедлайна по цепочке вызовов, fixed window и token bucket, состояния предохранителя и отделение инфраструктурных сбоев от бизнес-ошибок. Есть пример ограничения времени gRPC-вызова на Go. https://habr.com/ru/articles/1098214/
+        - Timeouts, retries, and backoff with jitter — практика Amazon: выбор таймаутов по перцентилям задержки, учёт DNS и TLS, идемпотентность повторяемых операций, ограничение числа попыток и случайные задержки. Объясняются усиление нагрузки при повторах на нескольких уровнях и ограничение повторов через token bucket. https://builder.aws.com/content/3EumjoZascWd1oZiEgL8ORlv3qE/timeouts-retries-and-backoff-with-jitter
+        - Availability and Stability — статья Майкла Найгарда о доступности при частичных отказах: отключение неисправного компонента, локализация последствий, независимый перезапуск и восстановление после перегрузки. Объясняется связь этих свойств с Circuit Breaker, Bulkheads и Timeouts. https://www.michaelnygard.com/blog/2016/11/availability-and-stability/
     - Deployment Patterns for Microservices
         - Multiple Service Instances per Host Pattern
         - Service Instance per Host Pattern
