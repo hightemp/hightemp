@@ -94,16 +94,22 @@
     - Complete Roadmap to Learn System Design for Beginners https://www.geeksforgeeks.org/complete-roadmap-to-learn-system-design/
 - PACELC Theorem
     - PACELC Theorem https://www.geeksforgeeks.org/pacelc-theorem/
+    - Problems with CAP, and Yahoo’s little known NoSQL system — исходная статья Даниэля Абади о PACELC: почему CAP не описывает компромисс между задержкой и согласованностью в штатном режиме. Есть разбор Yahoo PNUTS и классификация решений при сетевом разделении и без него. https://dbmsmusings.blogspot.com/2010/04/problems-with-cap-and-yahoos-little.html
+    - Consistency Tradeoffs in Modern Distributed Database System Design — научная статья Даниэля Абади о CAP и PACELC: синхронная и асинхронная репликация, цена координации, согласованность, доступность и задержка. Примеры классификации СУБД отражают их устройство на момент публикации в 2012 году; PDF, 6 страниц. https://www.cs.umd.edu/~abadi/papers/abadi-pacelc.pdf
 - CAP Theorem
-    - System Design for Beginners -CAP Theorem https://medium.com/@prasadpal107/system-design-for-beginners-cap-theorem-ba3003730469
-    - Understanding CAP Theorem in System Design: Consistency, Availability, and Partition Tolerance https://medium.com/@shivajiofficial5088/understanding-cap-theorem-in-system-design-consistency-availability-and-partition-tolerance-b42ed84d9f9c
-    - Understanding the CAP Theorem: Consistency, Availability, and Partition Tolerance. https://medium.com/@gurpreet.singh_89/understanding-the-cap-theorem-consistency-availability-and-partition-tolerance-e7faa5103638
-    - System Design — CAP Theorem https://medium.com/@ymzEmre/system-design-cap-theorem-55141c50fe2a
-    - CAP Theorem Explained: Consistency, Availability, Partition Tolerance https://daily.dev/blog/cap-theorem-explained-consistency-availability-partition-tolerance
-    - CAP Theorem Explained: Consistency, Availability & Partition Tolerance https://www.bmc.com/blogs/cap-theorem/
-    - What is the CAP theorem? https://www.ibm.com/topics/cap-theorem
-    - Brewer’s CAP Theorem https://www.geeksforgeeks.org/brewers-cap-theorem/
-    - CAP Theorem & Strategies for Distributed Systems https://www.splunk.com/en_us/blog/learn/cap-theorem.html
+    - Основное
+        - System Design for Beginners -CAP Theorem https://medium.com/@prasadpal107/system-design-for-beginners-cap-theorem-ba3003730469
+        - Understanding CAP Theorem in System Design: Consistency, Availability, and Partition Tolerance https://medium.com/@shivajiofficial5088/understanding-cap-theorem-in-system-design-consistency-availability-and-partition-tolerance-b42ed84d9f9c
+        - Understanding the CAP Theorem: Consistency, Availability, and Partition Tolerance. https://medium.com/@gurpreet.singh_89/understanding-the-cap-theorem-consistency-availability-and-partition-tolerance-e7faa5103638
+        - System Design — CAP Theorem https://medium.com/@ymzEmre/system-design-cap-theorem-55141c50fe2a
+        - CAP Theorem Explained: Consistency, Availability, Partition Tolerance https://daily.dev/blog/cap-theorem-explained-consistency-availability-partition-tolerance
+        - CAP Theorem Explained: Consistency, Availability & Partition Tolerance https://www.bmc.com/blogs/cap-theorem/
+        - What is the CAP theorem? https://www.ibm.com/topics/cap-theorem
+        - Brewer’s CAP Theorem https://www.geeksforgeeks.org/brewers-cap-theorem/
+        - CAP Theorem & Strategies for Distributed Systems https://www.splunk.com/en_us/blog/learn/cap-theorem.html
+    - Границы применимости
+        - CAP двенадцать лет спустя: как изменились «правила» — статья Эрика Брюэра о том, почему формула «выберите любые два свойства» вводит в заблуждение. Разбираются работа во время сетевого разделения, восстановление после него и разные компромиссы для отдельных операций и данных. Русский перевод и оригинал: https://habr.com/ru/companies/timeweb/articles/701492/ https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
+        - Забудьте CAP-теорему как более не актуальную — перевод статьи Мартина Клеппманна Please stop calling databases CP or AP: точные определения линеаризуемости и доступности, примеры чтения с отстающих реплик и ограничения ярлыков CP/AP для целой СУБД. Русский перевод и оригинал: https://habr.com/ru/articles/258145/ https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html
 - Базы данных, databases
     - SQL vs NoSQL: Which Database to Choose in System Design? https://www.geeksforgeeks.org/which-database-to-choose-while-designing-a-system-sql-or-nosql/
     - SQL vs NoSQL https://learnsystemdesign.blogspot.com/2019/09/sql-vs-nosql.html
@@ -119,8 +125,15 @@
         - 26 основных паттернов микросервисной разработки https://cloud.vk.com/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki/
         - Паттерны микросервисной архитектуры: от собеседования до прода https://habr.com/ru/companies/otus/articles/957294/
     - Transactional Outbox Pattern
-        - Implementing the transactional outbox pattern with Amazon EventBridge Pipes — реализация надёжной доставки событий между микросервисами с использованием DynamoDB Streams, Amazon EventBridge Pipes и SQS. https://aws.amazon.com/ru/blogs/compute/implementing-the-transactional-outbox-pattern-with-amazon-eventbridge-pipes/
-        - Microservices 101: Transactional Outbox and Inbox — разбор паттернов transactional outbox и inbox, гарантий доставки, дедупликации и идемпотентной обработки сообщений. https://softwaremill.com/microservices-101/
+        - Основное
+            - Pattern: Transactional Outbox — описание Криса Ричардсона: проблема двойной записи в БД и брокер, сохранение события вместе с бизнес-данными в одной локальной транзакции и отдельный message relay. Объясняются варианты через поллер и журнал транзакций, повторная публикация и идемпотентность потребителя. https://microservices.io/patterns/data/transactional-outbox.html
+            - Microservices 101: Transactional Outbox and Inbox — разбор паттернов transactional outbox и inbox, гарантий доставки, дедупликации и идемпотентной обработки сообщений. https://softwaremill.com/microservices-101/
+        - Эксплуатация
+            - Паттерн Transactional Outbox: от теории до продакшена — выбор событий через `FOR UPDATE SKIP LOCKED`, несколько воркеров, сбои посередине пачки и отдельное масштабирование publisher. Разбираются at-least-once, дедупликация через inbox, нарушение порядка событий, очистка таблиц и наблюдаемость. Русский перевод и оригинал: https://habr.com/ru/companies/otus/articles/967974/ https://www.npiontko.pro/2025/05/19/outbox-pattern
+        - Реализации
+            - Implementing the transactional outbox pattern with Amazon EventBridge Pipes — реализация надёжной доставки событий между микросервисами с использованием DynamoDB Streams, Amazon EventBridge Pipes и SQS. https://aws.amazon.com/ru/blogs/compute/implementing-the-transactional-outbox-pattern-with-amazon-eventbridge-pipes/
+            - Паттерн Outbox: как не растерять сообщения в микросервисной архитектуре — опыт Lamoda на примере создания заказа и подтверждения доставки: сохранение сообщений в БД, фоновый Outbox-процессор, отправка в брокер и восстановление после сбоев. Объясняются ограничения Kafka exactly-once при внешних вызовах, выбор at-least-once и обработка дубликатов. https://habr.com/ru/companies/lamoda/articles/678932/
+            - Transactional Outbox: Saving State Without Losing Events — пример поллера для PostgreSQL: DDL и частичный индекс, запись заказа и события в одной транзакции, `FOR UPDATE SKIP LOCKED`, подтверждение брокера перед отметкой публикации и атомарная дедупликация у потребителя. Есть разбор порядка событий, мониторинга backlog и тестирования сбоев. https://blog.jaimedearcos.com/transactional-outbox/
     - API Gateway Pattern
         - Microservices Design Patterns: API Gateway Design Pattern https://medium.com/@apulatjonov/microservices-design-patterns-api-gateway-design-pattern-ddba36700d84
     - Database per Service Pattern
