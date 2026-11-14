@@ -96,6 +96,7 @@
 ### Сравнение моделей; Арены
 
 - https://arena.lmsys.org/
+- LLM Stats — сравнительный лидерборд 300+ топовых AI-моделей (GPT, Claude, Gemini, Llama, DeepSeek и др.) по интеллекту, скорости и цене: сводный «LLM Stats Score» обновляется непрерывно из публичных бенчмарков и живых API-метрик; есть отдельные рейтинги по coding, writing, reasoning, long context, tool calling, image/video generation и расширенные фильтры. https://llm-stats.com/ (бенчмарки по задачам — https://llm-stats.com/benchmarks)
 
 ### Бенчмарки, Арены
 
