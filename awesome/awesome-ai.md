@@ -1275,7 +1275,6 @@ https://arxiv.org/pdf/2411.08804v1
 
 - Transformer2: Самоадаптирующиеся модели языка, способные самостоятельно подстраивать веса в процессе работы для оптимизации под конкретные задачи и среду. https://arxiv.org/abs/2501.06252 https://sakana.ai/transformer-squared/
 - Flash Attention 3 - третья часть оптимизации метода внимания для трансформеров, реализующая параллелизацию вычислений между матричным умножением и другими операциями, а также использование формата fp8 для достижения до 1.8-кратного ускорения по сравнению с предыдущей версией для GPU Nvidia H100. https://arxiv.org/abs/2307.13304
-- What Is Abliteration? (RouterHub) — гайд, объясняющий технику abliteration простыми словами: чем она отличается от промптинга и fine-tuning (изменяет не инструкции на инференсе и не переобучение, а сами веса модели, ослабляя refusal-репрезентации), как сравнивать обычную и abliterated модель по качеству, и как тестировать uncensored-варианты (отделять явный отказ от таймаута/пустого ответа/невалидного JSON, мерить полезную работу и стоимость за успешную задачу). https://routerhub.si/guides/what-is-abliteration
 
 ### AI-детекторы
 
@@ -1674,6 +1673,7 @@ https://arxiv.org/pdf/2411.08804v1
         - What is Continuous Pretraining? https://docs.arcee.ai/continuous-pretraining/what-is-continuous-pretraining
     - Machine Unlearning (разучивание моделей)
         - A Certified Unlearning Approach without Access to Source Data — ICML 2025 arXiv-статья о сертифицированном удалении данных из модели без доступа к исходному датасету: суррогатные данные, калибровка шума по статистической дистанции между распределениями, оценка через SGLD и эксперименты на CIFAR-10/USPS. https://arxiv.org/abs/2506.06486
+        - What Is Abliteration? (RouterHub) — гайд, объясняющий технику abliteration простыми словами: чем она отличается от промптинга и fine-tuning (изменяет не инструкции на инференсе и не переобучение, а сами веса модели, ослабляя refusal-репрезентации), как сравнивать обычную и abliterated модель по качеству, и как тестировать uncensored-варианты (отделять явный отказ от таймаута/пустого ответа/невалидного JSON, мерить полезную работу и стоимость за успешную задачу). https://routerhub.si/guides/what-is-abliteration
     - Остальное
         - Как дообучать локальные LLM в 2026 году: практическое руководство — выбор между fine-tuning, prompt engineering и RAG, подготовка датасета, сравнение полного дообучения, LoRA и QLoRA, запуск через Unsloth и Hugging Face, оценка модели и экспорт в GGUF. https://habr.com/ru/companies/otus/articles/1026700/
         - Fine-tuning Qwen-8B под проприетарный синтаксис CADINP на одной RTX 3090 — практический LoRA-кейс на Unsloth: подготовка 3500+ CoT-пар, борьба с OOM и переобучением, подбор гиперпараметров Qwen 3 8B и экспорт GGUF для LM Studio. https://habr.com/ru/articles/987240/
