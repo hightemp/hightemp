@@ -40,6 +40,7 @@
 ### AI API для кибербезопасности
 
 - Abliteration AI — hosted OpenAI- и Anthropic-совместимый API к abliterated-моделям без стандартных safety/refusal-ограничений, позиционируемый для red-team и security research; использовать только для авторизованных проверок. Сервис: https://abliteration.ai/ API: https://api.abliteration.ai/v1 Документация: https://abliteration.ai/docs Цены: https://abliteration.ai/pricing
+- RouterHub — API-сервис со стандартными моделями и вариантами DeepSeek, GLM, Qwen и Kimi с метками uncensored и abliterated (с ослабленными ограничениями на ответы). Поддерживает OpenAI-совместимый Chat Completions; Responses и Anthropic Messages доступны для соответствующих моделей. Единый ключ, предоплаченный баланс и инструкции подключения OpenCode, Cline, Claude Code и Codex CLI. Сервис, каталог моделей и документация: https://routerhub.si/ https://routerhub.si/models https://routerhub.si/docs
 
 ### AI Инструменты для пентестинга
 
