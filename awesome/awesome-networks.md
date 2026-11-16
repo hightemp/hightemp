@@ -259,7 +259,7 @@ Norton
     - Алгоритмы управления перегрузками
         - BBR
             - Increase Linux Internet speed with TCP BBR congestion control https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/
-            - Система BBR: регулирование заторов непосредственно по заторам https://habr.com/ru/articles/322430/
+            - Система BBR: регулирование заторов непосредственно по заторам — перевод статьи разработчиков алгоритма: оценки пропускной способности узкого места и минимального RTT, BDP, pacing и состояния Startup, Drain, ProbeBW и ProbeRTT. Есть псевдокод, графики сравнения с CUBIC и результаты внедрения в Google; материал 2017 года. https://habr.com/ru/articles/322430/
             - BBR TCP: Улучшение производительности сети https://sys.uz/archives/453
             - Увеличиваем сетевую пропускную способность в Linux с помощью Google TCP BBR https://www.comss.ru/page.php?id=12677
             - Path Quality Part 3: Is BBR the Future of Congestion Avoidance? https://www.thousandeyes.com/blog/path-quality-brr-future-congestion-avoidance
