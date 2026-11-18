@@ -24,12 +24,13 @@
 
 - OpenLane - это автоматизированный поток от RTL до GDSII, работающий на основе нескольких компонентов, включая OpenROAD, Yosys, Magic, Netgen, CVC, SPEF-Extractor, KLayout и ряда пользовательских скриптов для исследования и оптимизации проектирования. https://github.com/The-OpenROAD-Project/OpenLane
 
-### Симулятор
+### Симуляторы
 
 - https://lushprojects.com/circuitjs/circuitjs.html
 - https://everycircuit.com/
 - https://www.circuit-diagram.org/
 - https://www.circuitlab.com/
+- DEADBOARD — браузерный тренажёр диагностики и ремонта печатных плат со SPICE-подобной симуляцией: виртуальные мультиметр, осциллограф, тепловизор и блок питания, пайка, замена компонентов и установка перемычек. Есть учебные сценарии, демо на основе MNT Reform 2 и Antmicro Jetson, импорт KiCad и OpenBoardView, редактор неисправностей и видеопрохождения. Требуется браузер с WebGPU; код под Apache-2.0. https://github.com/tholtman1-del/deadboard https://tholtman1-del.github.io/deadboard/
 
 ### Сервисы для проектирования
 
