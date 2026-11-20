@@ -141,6 +141,8 @@
 
 ### Учебники
 
+- SolidJS
+  - Solid Tutorial — официальный интерактивный курс по Solid 2.0. Первые уроки знакомят с JSX и сигналами, примеры можно менять и запускать в браузере. https://docs.solidjs.com/tutorial/
 - TypeScript
   - https://code.mu/ru/javascript/typescript/book/prime/#
   - https://www.typescriptlang.org/docs/handbook/intro.html
@@ -347,6 +349,16 @@
   - Остальное
     - Understanding memory leaks in Node.js apps https://blog.logrocket.com/understanding-memory-leaks-node-js-apps/
     - Memory Leaks Demystified https://nodesource.com/blog/memory-leaks-demystified
+- SolidJS
+  - Примеры приложений
+    - Thinking in Solid — пошаговая разработка страницы поиска товаров на Solid 2.0 с фильтрами, загрузкой данных и корзиной. По ходу объясняет сигналы и вычисляемые значения. https://docs.solidjs.com/guides/thinking-in-solid/
+    - Первое приложение на SolidJS — список задач на TypeScript и Vite с обработкой ввода и обновлением элементов через `createSignal` и `createStore`. Примеры для Solid 1.x. https://habr.com/ru/articles/794903/
+    - Build a SolidJS app with Deno — каталог с клиентской маршрутизацией и отдельным JSON API на Deno и Hono. Примеры для Solid 1.x. https://deno.com/blog/build-solidjs-with-deno
+  - Реактивность
+    - A Hands-on Introduction to Fine-Grained Reactivity — Райан Карниато на примерах Solid объясняет, как реактивные вычисления отслеживают чтение сигналов и когда запускаются повторно. https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf
+    - SolidJS, It’s the Little Things — примеры реактивности в Solid 2.0 с `isPending`, оптимистичными обновлениями и вычисляемым состоянием, значение которого можно переопределить. https://www.brenelz.com/posts/solidjs-its-the-little-things/
+  - Обзоры
+    - Всё еще в догоняющих: обзор Solid2 — технический обзор Solid 2.0 с примерами асинхронной реактивности и серверных функций. https://habr.com/ru/articles/1109348/
 - Системы менеджмента версий
   - nvm
     - Основное
