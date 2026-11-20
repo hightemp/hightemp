@@ -362,6 +362,13 @@
 
 ### Статьи
 
+- Промпт-инъекции
+    - Defending LLM applications against Unicode character smuggling — разбор AWS об очистке запросов от символов блока Unicode Tags. Есть примеры на Java и Python, особенности обработки суррогатных пар в UTF-16 и ограничения фильтрации для некоторых эмодзи. https://aws.amazon.com/blogs/security/defending-llm-applications-against-unicode-character-smuggling/
+    - LLM Prompt Injection Prevention Cheat Sheet — рекомендации OWASP по проверке ввода, очистке текста перед передачей модели, обработке внешних данных и ограничению прав на вызов инструментов. Объясняется, почему проверка очищенной копии не защищает модель, если ей передают исходную строку. https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html
+- Безопасность Unicode
+    - Unicode Security — раздел 5.20 стандарта Unicode 18.0 о символах, которые могут оставаться невидимыми при отображении. Объясняет риски скрытых инструкций в Unicode Tags и селекторах вариантов и рекомендует показывать символы, оказавшиеся вне допустимого контекста. https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G11318
+    - Unicode Source Code Handling (UTS #55) — рекомендации Unicode Consortium по отображению исходников. Раздел 4.2 описывает, как показывать невидимые символы, соединители, селекторы вариантов и управляющие символы направления текста. https://www.unicode.org/reports/tr55/
+    - Warning about bidirectional Unicode text — заметка GitHub о предупреждении Trojan Source при просмотре файлов. Показывает, как распознать управляющие символы направления текста и проверить, соответствуют ли отображаемые исходники содержимому файла. https://github.blog/changelog/2021-10-31-warning-about-bidirectional-unicode-text/
 - Оценка AI-агентов в кибербезопасности
     - Measuring AI Agents’ Progress on Multi-Step Cyber Attack Scenarios — исследование автономных кибератак на двух специализированных cyber range: 32-шаговой корпоративной сети и 7-шаговой промышленной системе управления; сравнивает семь frontier-моделей, влияние бюджета до 100 млн токенов и способность агентов связывать разнородные техники в длинные цепочки атак. https://arxiv.org/html/2603.11214v2
 - Уязвимости; CVE; write-up

@@ -600,6 +600,7 @@
     - Развитие инструментария C++-программистов: статические анализаторы — CWE, удаление очистки секретов компилятором и место SAST в development workflow. https://habr.com/ru/companies/pvs-studio/articles/583114/
     - PVS-Studio: поиск дефектов безопасности — классификация C/C++ diagnostics по CWE и применение анализатора как SAST. https://pvs-studio.ru/ru/blog/posts/cpp/0486/
     - Как PVS-Studio ищет ошибки — data-flow analysis, symbolic execution и другие технологии статического анализа C++. https://pvs-studio.ru/ru/blog/posts/cpp/0466/
+    - Третья часть исследования Nau Engine — разбор находок статического анализа в C++-коде игрового движка. В разделе «На посошок» показано, как диагностика V1076 обнаружила невидимый пробел `U+200B` в комментарии к тесту и как его подтвердили в HEX-редакторе. https://habr.com/ru/companies/pvs-studio/articles/899166/
   - Data races и ThreadSanitizer
     - Eliminating Data Races in Firefox — внедрение ThreadSanitizer в большой C/C++-проект, найденные классы ошибок и организация continuous TSan builds. https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/
     - ThreadSanitizer: Slaughtering Data Races — устройство TSan, типичные отчёты и практическое обнаружение C++ data races. https://testing.googleblog.com/2014/06/threadsanitizer-slaughtering-data-races.html
