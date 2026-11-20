@@ -406,6 +406,7 @@ Norton
     - Master remote packet capturing: Combining Wireshark with tcpdump https://www.comparitech.com/net-admin/tcpdump-capture-wireshark/
 - Блокировки РКН, DPI и устойчивость VPN
     - «Кривые руки» или новый уровень DPI? Разбор выходных блокировок XRay и VLESS https://habr.com/ru/articles/969618/
+    - Как DPI обнаруживает твой VPN? — наблюдения на четырёх стендах VLESS с разной топологией и настройками TLS. Автор обсуждает метаданные TLS, размеры пакетов, интервалы между ними и длительность сессий как возможные признаки туннеля. Гипотезы о работе DPI основаны на замерах у одного хостинг-провайдера. https://habr.com/ru/articles/1109052/
     - Anubis: заморозка приложений по состоянию VPN https://habr.com/ru/articles/1023352/
     - Из-за критической уязвимости VLESS клиентов скоро все ваши VPN будут заблокированы https://habr.com/ru/articles/1020080/
     - Отправим стукачей в ГУЛАГ https://habr.com/ru/articles/1022390/
