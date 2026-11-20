@@ -965,6 +965,7 @@
     - Bridging Fuzzing and Property Testing — общий `Arbitrary` model, differential testing и reuse генераторов. https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/
     - Introduction to Fuzzing Rust Code — выбор fuzz targets, cargo-fuzz/libFuzzer и поиск ошибок в библиотечных API. https://fuzzinglabs.com/introduction-rust-fuzzing-tutorial/
   - Статический анализ
+    - Security advisory for rustc (CVE-2021-42574) — бюллетень команды Rust о проверках Trojan Source. Описывает диагностики, введённые в Rust 1.56.1 для обнаружения двунаправленных управляющих символов в комментариях и строковых литералах. https://blog.rust-lang.org/2021/11/01/cve-2021-42574/#mitigations
     - Инструментарий Rust-разработчика: средства статического анализа — Clippy, rust-analyzer, cargo-audit и Miri. https://www.in-com.com/ru/blog/the-rust-developers-toolbox-best-static-code-analysis-tools/
     - Обзор инструментов Rust: Cargo, Rustfmt, Clippy — lint groups, CI и обнаружение подозрительного кода. https://lets-go-code.ru/posts/rust/cargo-rustfmt/
     - Rudra: Finding Memory-Safety Bugs at Ecosystem Scale — анализ unsafe Rust patterns и результаты проверки всего crates.io. https://gts3.org/assets/papers/2021/bae%3Arudra.pdf

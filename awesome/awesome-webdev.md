@@ -486,6 +486,8 @@
 - HTML Верстка
    - Готовимся к вопросам по вёрстке на интервью Frontend-разработчика: «Какие знаешь псевдо-классы?» https://habr.com/ru/companies/ruvds/articles/864762/
    - Неизвестно полезный CSS https://habr.com/ru/companies/ruvds/articles/775986/
+   - Inline markup and bidirectional text in HTML — статья W3C о вёрстке строк с разным направлением письма. На примерах объясняет `dir`, изоляцию фрагментов через `<bdi>` и принудительное направление через `<bdo>`. https://www.w3.org/International/articles/inline-bidi-markup/
+   - BIDI (Unicode Bidirectional Algorithm) — введение на русском о том, как браузер определяет порядок отображения арабских и латинских букв, цифр и знаков препинания и как на него влияет базовое направление `dir`. https://habr.com/ru/articles/181123/
 - Архитектура
    - Dependency Injection
       - Inversion of Control Containers and the Dependency Injection pattern https://www.martinfowler.com/articles/injection.html
