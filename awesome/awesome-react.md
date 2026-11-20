@@ -146,6 +146,8 @@
         - Что нового в React 19 https://habr.com/ru/companies/timeweb/articles/843016/
         - Вышел React v19 https://habr.com/ru/articles/865416/
 - Основное
+    - Введение
+        - Единственная шпаргалка по ReactJS, которая вам нужна — вводная статья с примерами JSX, компонентов, props, локального состояния, событий и хуков. https://habr.com/ru/companies/otus/articles/958864/
     - Компоненты
         - Thinking in React — пошаговая разработка таблицы товаров с фильтром. Показывает, как выделить компоненты, определить минимальное состояние и выбрать, где его хранить. [Оригинал](https://react.dev/learn/thinking-in-react) · [Перевод](https://ru.react.dev/learn/thinking-in-react)
         - Describing the UI — JSX, props, условный рендеринг, списки, ключи и композиция компонентов. https://react.dev/learn/describing-the-ui
@@ -164,6 +166,7 @@
             - React hooks, как не выстрелить себе в ноги. Часть 1: работа с состоянием https://habr.com/ru/companies/otus/articles/667706/
             - Учим useState на примерах — React Hooks https://webtricks-master.ru/react-hooks/learn-usestate-on-examples/
         - useEffect
+            - Нужен ли здесь `useEffect`? 12 сценариев из React-код-ревью — от производного состояния до React 19.2 — примеры вычислений при рендере, подписок, загрузки данных и `useEffectEvent` с рабочими демо на TypeScript. https://habr.com/ru/articles/1055486/
             - You Might Not Need an Effect — примеры вычисляемого состояния, обработки действий пользователя и сброса состояния без лишних эффектов. https://react.dev/learn/you-might-not-need-an-effect
             - Продвинутые хуки в React: всё о UseEffect https://habr.com/ru/companies/rshb/articles/687364/
             - Как использовать useeffect https://easyoffer.ru/question/1674
@@ -255,6 +258,8 @@
         - React: тестируем компоненты с помощью Jest и Testing Library https://habr.com/ru/companies/timeweb/articles/670480/
         - React JS Jest: Beginner's Guide https://daily.dev/blog/react-js-jest-beginners-guide
         - Как я перестал беспокоиться и полюбил тестирование React-компонентов https://habr.com/ru/companies/elbrusbootcamp/articles/651033/
+    - Vitest
+        - React 19: разделяем логику и разметку, тестируем с Shallowly и Vitest — пример панели профиля с отдельными тестами хука, компонента и действий пользователя через React Testing Library. https://habr.com/ru/articles/1095628/
 - React Router
     - Основное
         - Routing — примеры вложенных маршрутов, динамических сегментов, `Outlet` и навигации в декларативном режиме. https://reactrouter.com/start/declarative/routing
@@ -310,6 +315,7 @@
         - tRPC https://create.t3.gg/en/usage/trpc#-utilsapits
 - Примеры приложений
     - Tutorial: Tic-Tac-Toe — пошаговая реализация крестиков-ноликов с подъёмом состояния и возвратом к предыдущим ходам. https://react.dev/learn/tutorial-tic-tac-toe
+    - Первый сайт на Next.js за день: архитектура, а не просто код — пошаговый проект на Next.js 16 с App Router, загрузкой данных в серверных компонентах и интерактивностью в клиентских. https://habr.com/ru/articles/1084262/
     - Building a Feature Flag System using Next.js, Prisma, and TRPC https://generalistengineer.substack.com/p/building-a-feature-flag-system-using?utm_campaign=post&utm_medium=web
     - Learn the Basics of Go by Building a Full Stack Web App with React and Go https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/
     - How to Work with RESTful APIs in React https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/
@@ -341,6 +347,7 @@
     - React DOM Components — работа с HTML-элементами, управляемыми полями формы, стилями, скриптами и метаданными документа. https://react.dev/reference/react-dom/components
 - Анимации
     - ViewTransition — примеры анимации появления, перемещения и смены экранов через `startTransition`, `Suspense` и CSS. https://react.dev/reference/react/ViewTransition
+    - О дивный новый анимированный мир — ViewTransition в React — пример анимации списка задач через `<ViewTransition>`, `startTransition` и CSS. Код написан для Canary, API стабилен с React 19.3. https://habr.com/ru/articles/969464/
 - Серверный рендеринг
     - Server React DOM APIs — способы сгенерировать HTML на сервере, включая потоковую выдачу через Node.js Streams или Web Streams. https://react.dev/reference/react-dom/server
     - hydrateRoot — подключение React к серверному HTML и диагностика расхождений при гидратации. https://react.dev/reference/react-dom/client/hydrateRoot
@@ -349,6 +356,7 @@
 - React Server Components
     - Server Components — примеры чтения данных на сервере, композиции с клиентскими компонентами и потоковой передачи данных. https://react.dev/reference/rsc/server-components
     - Server Functions — объявление серверных функций через `'use server'`, их вызов из клиента и использование в формах. https://react.dev/reference/rsc/server-functions
+    - Server Actions без ручного API, предсказуемый useActionState для inline CRUD в Next.js — редактирование записей через серверные функции с валидацией, индикатором отправки и ошибками рядом с полями. https://habr.com/ru/articles/1043970/
 - TypeScript
     - Using TypeScript — типизация props, обработчиков событий, контекста и хуков. https://react.dev/learn/typescript
     - Typescript для React https://habr.com/ru/articles/860418/
@@ -359,8 +367,10 @@
         - Zustand.js: современный, невесомый, производительный и очень гибкий state manager https://habr.com/ru/articles/798923/
 - Оптимизация
     - React Compiler — автоматическая мемоизация, установка, поэтапное внедрение и диагностика. https://react.dev/learn/react-compiler
+    - Тихие сбои React Compiler и как их исправить — пример компонента, который компилятор пропустил после рефакторинга, и настройка ESLint для диагностики таких случаев. https://habr.com/ru/companies/otus/articles/996174/
     - Profiler — измерение времени рендера поддерева и разбор параметров обратного вызова `onRender`. https://react.dev/reference/react/Profiler
     - React Performance Tracks — чтение дорожек React в панели Performance для разбора рендеров, переходов и блокирующих обновлений. https://react.dev/reference/dev-tools/react-performance-tracks
+    - Практическая оптимизация React: ререндеры, Context, списки, INP и code splitting — диагностика повторных рендеров в Profiler и примеры оптимизации контекста, больших списков и загрузки кода. https://habr.com/ru/articles/978624/
     - Оптимизация React компонентов https://dev.to/socaseinpoint/optimizatsiia-react-komponientov-2kg0
     - Оптимизация React-приложений: Используем useTransition, useDeferredValue и useOptimistic для плавного UI https://habr.com/ru/articles/870748/
 - Подборки
