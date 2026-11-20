@@ -54,6 +54,7 @@
     - Karadul — self-hosted mesh VPN на Go в одном бинарнике без внешних зависимостей: WireGuard-compatible протокол, coordination server, node, DERP relay, NAT traversal через STUN/hole punching, MagicDNS, ACL, exit nodes и встроенный Web UI для мониторинга топологии, узлов, peers и настроек. Позиционируется как «Tailscale + Headscale в одном бинарнике», без SaaS-control-plane. https://github.com/karadul/karadul
 - Прокси и обход блокировок
     - sing-box-lx — тонкий downstream-форк `sing-box` с клиентскими XHTTP, AmneziaWG 2.0 и MASQUE, расширениями CommandClient и round-robin-балансировкой; дополнительные возможности изолированы build-тегами, а изменения регулярно ребейзятся на upstream-теги. https://github.com/Leadaxe/sing-box-lx
+    - RealiTLScanner — утилита на Go для проверки параметров TLS-серверов на совместимость с REALITY. Показывает версию TLS, согласованный протокол ALPN и сведения о сертификате. Сохраняет результаты в CSV. Лицензия MPL-2.0. https://github.com/XTLS/RealiTLScanner
 
 ### DNS; SmartDNS
 
