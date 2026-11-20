@@ -138,22 +138,41 @@
 ### Статьи
 
 - Что нового
-    - Что нового в React 19 https://habr.com/ru/companies/timeweb/articles/843016/
-    - Вышел React v19 https://habr.com/ru/articles/865416/
+    - React 19.3
+        - React 19.3 — примеры стабильных `<ViewTransition>` и ссылок на `Fragment`, API `browser()`, поддержка Trusted Types и использование `<Context>` в серверных компонентах. [Оригинал](https://react.dev/blog/2026/09/09/react-19-3) · [Перевод на Хабре](https://habr.com/ru/articles/1084612/)
+        - React 19.3 in Practice — карусель с направленными анимациями, работа с фокусом через `Fragment` и рендеринг компонента только в браузере. https://sanjaythakur.com.np/blog/react-19-3-view-transitions-fragment-refs
+    - React 19.0
+        - React 19: что нового, что полезного, и куда мы движемся — русскоязычный обзор релиза с примерами Actions, `use()` и серверных компонентов. https://habr.com/ru/companies/surfstudio/articles/897200/
+        - Что нового в React 19 https://habr.com/ru/companies/timeweb/articles/843016/
+        - Вышел React v19 https://habr.com/ru/articles/865416/
 - Основное
+    - Компоненты
+        - Thinking in React — пошаговая разработка таблицы товаров с фильтром. Показывает, как выделить компоненты, определить минимальное состояние и выбрать, где его хранить. [Оригинал](https://react.dev/learn/thinking-in-react) · [Перевод](https://ru.react.dev/learn/thinking-in-react)
+        - Describing the UI — JSX, props, условный рендеринг, списки, ключи и композиция компонентов. https://react.dev/learn/describing-the-ui
+        - Fragment — группировка узлов без дополнительного DOM-элемента и примеры работы с фокусом и событиями через `ref` в React 19.3. https://react.dev/reference/react/Fragment
+    - Состояние
+        - Adding Interactivity — обработка событий, снимки состояния, очередь обновлений и изменение объектов и массивов. https://react.dev/learn/adding-interactivity
+        - Managing State — подъём состояния, его сохранение и сброс через `key`, совместная работа редьюсера и контекста. https://react.dev/learn/managing-state
+    - Интеграция с внешними системами
+        - Escape Hatches — серия руководств про refs, работу с DOM, синхронизацию через эффекты и зависимости. https://react.dev/learn/escape-hatches
     - Хуки
+        - Обзоры
+            - Справочник хуков React 19 — сигнатуры, примеры на TypeScript и разбор частых ошибок. https://courses.interlab.app/lessons/react-hooks-spravochnik
         - useState
             - Хук useState в React: Полное руководство https://www.dev-notes.ru/articles/react/guide-usestate-react/
             - useState https://reactdev.ru/reference/react/useState/
             - React hooks, как не выстрелить себе в ноги. Часть 1: работа с состоянием https://habr.com/ru/companies/otus/articles/667706/
             - Учим useState на примерах — React Hooks https://webtricks-master.ru/react-hooks/learn-usestate-on-examples/
         - useEffect
+            - You Might Not Need an Effect — примеры вычисляемого состояния, обработки действий пользователя и сброса состояния без лишних эффектов. https://react.dev/learn/you-might-not-need-an-effect
             - Продвинутые хуки в React: всё о UseEffect https://habr.com/ru/companies/rshb/articles/687364/
             - Как использовать useeffect https://easyoffer.ru/question/1674
             - Учим useEffect на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-useeffect-na-primerah/
             - How the useEffect Hook Works (with Examples) https://daveceddia.com/useeffect-hook-examples/
             - Mastering useEffect in React.js: A Comprehensive Guide https://medium.com/@greennolgaa/mastering-useeffect-in-react-js-a-comprehensive-guide-709a8024cb60
             - Understanding the useEffect Hook in React.js https://thehumblecoder.medium.com/understanding-the-useeffect-hook-in-react-js-f356712bd44e
+        - useEffectEvent
+            - Separating Events from Effects — пример подключения к чату, где `useEffectEvent` позволяет читать актуальную тему интерфейса без повторного подключения при её смене. https://react.dev/learn/separating-events-from-effects
         - useMemo, useCallback
             - Мемоизация в React: я почитал документацию вместо вас https://habr.com/ru/companies/otus/articles/800549/
             - React useMemo примеры: Как эффективно использовать мемоизацию в React с useCallback и useMemo https://myitcareer.ru/media/react-usememo-primery-kak-effektivno-ispolzovat-memoizaciyu-v-react-s-usecallback-i-usememo
@@ -163,6 +182,7 @@
             - Unlocking React’s Performance Secrets: useMemo and useCallback in React https://imtarundhiman.substack.com/p/react-performance-optimization-usememo-usecallback-guide
             - React useCallback() — полное руководство https://habr.com/ru/companies/spectr/articles/869806/
         - useRef
+            - Manipulating the DOM with Refs — фокус, прокрутка, хранение ссылок на элементы списка и доступ к DOM дочерних компонентов. https://react.dev/learn/manipulating-the-dom-with-refs
             - Учим useRef на примерах — React Hooks https://webtricks-master.ru/react-hooks/uchim-useref-na-primerah/
             - Доступ к данным через рефы в React https://it-dev-journal.ru/articles/dostup-k-dannym-cherez-refy
             - Understanding the React useRef Hook https://refine.dev/blog/react-useref-hook-and-ref/
@@ -182,6 +202,7 @@
         - useLayoutEffect
             - React hooks, как не выстрелить себе в ноги. Часть 2: useEffect и useLayoutEffect https://habr.com/ru/companies/otus/articles/668700/
         - useTransition
+            - useTransition — примеры обновлений с индикатором ожидания, асинхронных Actions и переключения вкладок. https://react.dev/reference/react/useTransition
             - How to Use the useTransition Hook in React to Improve Performance https://www.dhiwise.com/post/how-to-use-the-usetransition-hook-in-react-to-improve-performance
             - useTransition hook in React 19 https://dev.to/m3cv1no/usetransition-hook-in-react-19-4if
         - useActionState
@@ -190,6 +211,7 @@
         - useFormStatus
             - Understanding the useFormStatus Hook in React: A Comprehensive Guide with Examples https://medium.com/zestgeek/understanding-the-useformstatus-hook-in-react-a-comprehensive-guide-with-examples-7dc6bdfbeb0d
         - useDeferredValue
+            - useDeferredValue — отложенное обновление результатов поиска и дорогих частей интерфейса, показ предыдущих результатов во время загрузки. https://react.dev/reference/react/useDeferredValue
             - Understanding useDeferredValue in React: Enhancing Performance with Deferred Rendering https://medium.com/@ignatovich.dm/understanding-usedeferredvalue-in-react-enhancing-performance-with-deferred-rendering-ec8eb28aa997
             - Understanding React’s useDeferredValue Hook: A Comprehensive Guide with Examples https://medium.com/zestgeek/understanding-reacts-usedeferredvalue-hook-a-comprehensive-guide-with-examples-f8aa3361ee23
         - useOptimistic
@@ -206,30 +228,43 @@
         - useSyncExternalStore
             - Заметка о хуке useSyncExternalStore https://habr.com/ru/companies/timeweb/articles/720136/
             - useSyncExternalStore — The underrated React API https://medium.com/@codenova/usesyncexternalstore-the-underrated-react-api-d4653900ce96
+        - Собственные хуки
+            - Reusing Logic with Custom Hooks — вынос общей логики в хуки на примерах подписок, состояния формы и подключения к чату. https://react.dev/learn/reusing-logic-with-custom-hooks
         - Остальное
             - Все хуки и концепты React в одной статье https://habr.com/ru/articles/660573/
             - React Hooks https://www.geeksforgeeks.org/reactjs-hooks/
     - Suspense
+        - Suspense — границы загрузки, вложенные индикаторы и сохранение видимого интерфейса во время перехода. https://react.dev/reference/react/Suspense
         - New Suspense SSR Architecture in React 18 https://github.com/reactwg/react-18/discussions/37
         - How to Use React Suspense to Improve your React Projects https://www.freecodecamp.org/news/react-suspense/
         - React Suspense - A complete guide https://hygraph.com/blog/react-suspense
         - Understanding the Suspense Component in ReactJS: A Comprehensive Guide with Real-Life Examples https://medium.com/zestgeek/understanding-the-suspense-component-in-reactjs-a-comprehensive-guide-with-real-life-examples-141d86b9ca9c
+    - Чтение ресурсов
+        - use — чтение Promise и контекста при рендеринге, интеграция с `Suspense` и границами ошибок. https://react.dev/reference/react/use
+    - Activity
+        - Activity — скрытие вкладок и панелей с сохранением состояния, очистка эффектов при скрытии и предварительный рендеринг. https://react.dev/reference/react/Activity
+    - Обработка ошибок
+        - Catching rendering errors with an Error Boundary — перехват ошибок рендера, резервный интерфейс и отправка ошибок в систему мониторинга. https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary
     - Остальное
         - Glossary + Explain Like I'm Five https://github.com/reactwg/react-18/discussions/46
         - What is tearing? https://github.com/reactwg/react-18/discussions/69
 - Тестирование
+    - React Testing Library
+        - Example — тесты компонентов через действия пользователя, поиск элементов по доступной роли и проверку результата асинхронного запроса. https://testing-library.com/docs/react-testing-library/example-intro/
     - Jest
         - React: тестируем компоненты с помощью Jest и Testing Library https://habr.com/ru/companies/timeweb/articles/670480/
         - React JS Jest: Beginner's Guide https://daily.dev/blog/react-js-jest-beginners-guide
         - Как я перестал беспокоиться и полюбил тестирование React-компонентов https://habr.com/ru/companies/elbrusbootcamp/articles/651033/
 - React Router
     - Основное
+        - Routing — примеры вложенных маршрутов, динамических сегментов, `Outlet` и навигации в декларативном режиме. https://reactrouter.com/start/declarative/routing
         - React Router Hooks: Изучение принципов их работы https://habr.com/ru/companies/otus/articles/574428/
     - useHistory
         - useHistory https://v5.reactrouter.com/web/api/Hooks/usehistory
     - Остальное
         - Mastering React Router DOM: The Shortcut to Smooth Navigation in React https://sweabhishek.hashnode.dev/mastering-react-router-dom-the-shortcut-to-smooth-navigation-in-react
 - React Query
+    - Quick Start — небольшой пример загрузки, изменения и повторного запроса данных через `useQuery`, `useMutation` и инвалидацию кеша. https://tanstack.com/query/latest/docs/framework/react/quick-start
     - Почему вам необходим React Query https://habr.com/ru/articles/806431/
     - Преобразования данных с React Query https://habr.com/ru/articles/810211/
     - React Query: стейт-менеджер для любителей кэша https://habr.com/ru/companies/ru_mts/articles/828240/
@@ -274,6 +309,7 @@
         - Build a full stack Typescript app with Next.js and tRPC https://niallmckenna.com/posts/full-stack-app-with-nextjs-and-trpc
         - tRPC https://create.t3.gg/en/usage/trpc#-utilsapits
 - Примеры приложений
+    - Tutorial: Tic-Tac-Toe — пошаговая реализация крестиков-ноликов с подъёмом состояния и возвратом к предыдущим ходам. https://react.dev/learn/tutorial-tic-tac-toe
     - Building a Feature Flag System using Next.js, Prisma, and TRPC https://generalistengineer.substack.com/p/building-a-feature-flag-system-using?utm_campaign=post&utm_medium=web
     - Learn the Basics of Go by Building a Full Stack Web App with React and Go https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/
     - How to Work with RESTful APIs in React https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/
@@ -282,6 +318,8 @@
     - How to create a Weather App in Reason and React https://dev.to/kelvinmai/how-to-create-a-weather-app-in-reason-and-react-406a
     - How to Create a Figma / Miro Style Canvas with React and TypeScript https://www.freecodecamp.org/news/how-to-create-a-figma-miro-style-canvas-with-react-and-typescript/
 - Лучшие практики
+    - Rules of React — правила чистого рендера, вызова хуков и работы с props и состоянием. https://react.dev/reference/rules
+    - eslint-plugin-react-hooks — правила линтера для зависимостей эффектов, вызова хуков и диагностики React Compiler. https://react.dev/reference/eslint-plugin-react-hooks
     - React Architecture Pattern and Best Practices in 2024 https://www.geeksforgeeks.org/react-architecture-pattern-and-best-practices/
     - React Like a Pro: Mastering Best Practices in 2024 https://medium.com/@apicraft/react-like-a-pro-mastering-best-practices-in-2024-8f9eaad4fa25
     - React Best Practices to Improve Your Code https://medium.com/@onix_react/react-best-practices-to-improve-your-code-a4c68962d5dd
@@ -295,13 +333,34 @@
 - Математические формулы
     - Rendering Markdown and LaTeX in React https://medium.com/@MatDrinksTea/rendering-markdown-and-latex-in-react-dec355e74119
 - Формы
+    - A deep dive on forms with modern React — Кент Доддс разбирает `<form action>`, обработку результата через `useActionState` и отправку серверной формы до гидратации. https://www.epicreact.dev/react-forms
+    - Forms in React 19 — пошаговая отправка формы на React 19.3 с `useActionState`, `useFormStatus` и отображением ошибки. https://teachyourselfcoding.com/react-form-actions/
     - How to Build Forms in React https://www.freecodecamp.org/news/how-to-build-forms-in-react/
+- React DOM
+    - React DOM APIs — порталы, синхронные обновления DOM, сброс форм и предварительная загрузка ресурсов. https://react.dev/reference/react-dom
+    - React DOM Components — работа с HTML-элементами, управляемыми полями формы, стилями, скриптами и метаданными документа. https://react.dev/reference/react-dom/components
+- Анимации
+    - ViewTransition — примеры анимации появления, перемещения и смены экранов через `startTransition`, `Suspense` и CSS. https://react.dev/reference/react/ViewTransition
+- Серверный рендеринг
+    - Server React DOM APIs — способы сгенерировать HTML на сервере, включая потоковую выдачу через Node.js Streams или Web Streams. https://react.dev/reference/react-dom/server
+    - hydrateRoot — подключение React к серверному HTML и диагностика расхождений при гидратации. https://react.dev/reference/react-dom/client/hydrateRoot
+    - Partial Pre-rendering — пример предварительного рендера статической части страницы через `prerender` и продолжения рендера через `resume`. https://react.dev/blog/2025/10/01/react-19-2#partial-pre-rendering
+    - browser — пример рендера браузерного компонента через `use(browser())` с резервным содержимым `Suspense` на сервере. https://react.dev/reference/react-dom/browser
+- React Server Components
+    - Server Components — примеры чтения данных на сервере, композиции с клиентскими компонентами и потоковой передачи данных. https://react.dev/reference/rsc/server-components
+    - Server Functions — объявление серверных функций через `'use server'`, их вызов из клиента и использование в формах. https://react.dev/reference/rsc/server-functions
+- TypeScript
+    - Using TypeScript — типизация props, обработчиков событий, контекста и хуков. https://react.dev/learn/typescript
+    - Typescript для React https://habr.com/ru/articles/860418/
 - State managers
     - Zustand
         - Как работает Zustand https://habr.com/ru/articles/750716/
         - Zustand. Zustand - современный инструмент для управления состоянием React-приложений https://my-js.org/docs/cheatsheet/zustand/
         - Zustand.js: современный, невесомый, производительный и очень гибкий state manager https://habr.com/ru/articles/798923/
 - Оптимизация
+    - React Compiler — автоматическая мемоизация, установка, поэтапное внедрение и диагностика. https://react.dev/learn/react-compiler
+    - Profiler — измерение времени рендера поддерева и разбор параметров обратного вызова `onRender`. https://react.dev/reference/react/Profiler
+    - React Performance Tracks — чтение дорожек React в панели Performance для разбора рендеров, переходов и блокирующих обновлений. https://react.dev/reference/dev-tools/react-performance-tracks
     - Оптимизация React компонентов https://dev.to/socaseinpoint/optimizatsiia-react-komponientov-2kg0
     - Оптимизация React-приложений: Используем useTransition, useDeferredValue и useOptimistic для плавного UI https://habr.com/ru/articles/870748/
 - Подборки
@@ -317,7 +376,6 @@
 - Roadmap
     - 2025 React Frontend Roadmap: Beginner to Senior Level https://dev.to/tak089/2025-react-frontend-roadmap-beginner-to-senior-level-5g25
 - Остальное
-    - Typescript для React https://habr.com/ru/articles/860418/
     - Code Splitting for React https://xylophone.hashnode.dev/code-splitting-for-react
     - Бесплатное обучение фулстек-разработке веб-сервиса с нуля по видео-урокам с исходным кодом и поддержкой https://habr.com/ru/articles/866678/
 
