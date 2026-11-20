@@ -126,6 +126,8 @@
     - How Claude Code rules actually work — практический гайд по правилам Claude Code: global/project memory, `CLAUDE.md`, `.claude/rules/`, path-scoped rules через YAML frontmatter, разделение unconditional и contextual правил, индекс правил и явное подключение README, architecture docs, RFC, PRD и runbooks. https://joseparreogarcia.substack.com/p/how-claude-code-rules-actually-work
 - Контекст, память и поиск
     - (Решения) Семантический поиск по базе знаний и кодовой базе https://bekhan.org/Information+Technology/System+Administration/AI/(Решения)+Семантический+поиск+по+базе+знаний+и+кодовой+базе
+- Безопасность
+    - Вскрытие Claude Code v2.1.294: 225 мегабайт секретов, двойная бухгалтерия телеметрии — разбор бинарника версии 2.1.294 для macOS. Автор описывает каналы телеметрии, поля с именами локальных скиллов и плагинов, добавление контекста IDE к запросам, защиту от промпт-инъекций и контроль прав агента. https://habr.com/ru/articles/1109634/
 - Workflow
     - Как я перестал бояться Claude Code и научил его не ломать мои проекты https://habr.com/ru/articles/1013330/
 - PHP
