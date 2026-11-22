@@ -184,6 +184,7 @@ Norton
 ### Прокси-сервисы
 
 - Bestproxy — residential proxy service с dedicated one-IP-per-account подходом и fingerprint isolation для снижения риска связки аккаунтов по сетевому окружению. https://bestproxy.com/
+- Kitsune — панель управления частным proxy-сервером на Linux VPS из браузера (Go, GPL-3.0): настройка подключений, выдаёт подписки (subscriptions) клиентам, показывает состояние сервера; 14 сетевых протоколов (SOCKS5, HTTP/HTTPS, VLESS/V2Ray и др.). Установка — bash-скрипт на VPS с systemd (x86_64/arm64, от 1 ГБ RAM). Русскоязычный проект. https://github.com/itsnotkubrick/Kitsune
 
 ### VPN
 
