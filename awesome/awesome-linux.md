@@ -344,6 +344,7 @@
                 - io_uring vs. epoll – Which Is Better in Network Programming? https://www.alibabacloud.com/blog/io-uring-vs--epoll-which-is-better-in-network-programming_599544
                 - Проблема в Linux io_uring ведет к скрытым атакам руткитов https://xakep.ru/2025/04/25/io_uring-rootkits/
                 - The Backend Revolution or Why io_uring Is So Important. https://dev.to/siy/the-backend-revolution-or-why-iouring-is-so-important-444f
+                - io_uring restricted by default — разбор RodHat: почему io_uring стал одной из самых эксплуатируемых поверхностей ядра, как Google, Ubuntu, Docker и Kubernetes ограничивают `io_uring_setup(2)`, и как перевести систему на `kernel.io_uring_disabled=1` с точечным разрешением через seccomp для нагрузок, которым он действительно нужен. https://rodhat.com/motd/2026-09-22-io-uring-restricted-by-default/
         - Остальное
             - Linux Block I/O debugging https://blog.domainmess.org/post/bio_debug/
 
