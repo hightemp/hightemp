@@ -175,6 +175,7 @@
 
 - PwnPad — открытая аппаратная учебная платформа для изучения hardware hacking и безопасности встроенных систем через набор практических челленджей (UART/I2C/SPI, дамп прошивок, fault injection, side-channel) с переключением заданий джамперами и документацией по сборке и прохождению. https://github.com/twelvesec/PwnPad https://github.com/twelvesec/PwnPadWiki/wiki https://www.youtube.com/watch?v=uaiB-Esttt4
 - TryHackMe-Roadmap — коллекция 500+ бесплатных комнат TryHackMe, организованных по темам (Linux, сети, веб‑пентест, Active Directory, reverse engineering, malware, CTF), подойдёт как роадмап для старта в кибербезопасности. https://github.com/Hunterdii/TryHackMe-Roadmap
+- PortSwigger All Labs — стороннее зеркало полного набора write-up'ов PortSwigger Web Security Academy: пошаговые решения с реальными payload'ами и методикой эксплуатации для всех лабораторий уровней Apprentice, Practitioner и Expert; около 270 лабораторий по 30 типам уязвимостей, разбитых на server-side, client-side и advanced. Исходники: https://github.com/hanzalaghayasabbasi/portswigger-all-labs. https://portswigger.hanzalaghayasabbasi.com
 
 ### Курсы
 
