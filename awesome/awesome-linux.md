@@ -339,6 +339,7 @@
             - AIO (Asynchronous I/O)
             - io_uring
                 - io_uring Is Back, This Time as a Rootkit https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security/
+                - Linux malware can avoid syscall-based endpoint protection — репортаж The Register о rootkit-PoC Curing от ARMO: программа целиком работает через io_uring без традиционных syscall'ов, поэтому в дефолтной конфигурации её не видят Falco, Tetragon и Microsoft Defender; Google отключил io_uring после ~$1M bug bounty, приведено отключение через `kernel.io_uring_disabled=2`. https://www.theregister.com/security/2025/04/29/linux-malware-can-avoid-syscall-based-endpoint-protection/101544
                 - The rapid growth of io_uring https://lwn.net/Articles/810414/
                 - What Is io_uring? High‑Performance I/O in Linux https://www.gocodeo.com/post/what-is-io-uring-high-performance-i-o-in-linux
                 - io_uring vs. epoll – Which Is Better in Network Programming? https://www.alibabacloud.com/blog/io-uring-vs--epoll-which-is-better-in-network-programming_599544
