@@ -188,6 +188,7 @@
 ### Справочники
 
 - Web Security Glossary — краткий алфавитный справочник из 54 терминов веб-безопасности от Barrion: CSP, CORS, CSRF, CVE, CVSS, DAST/SAST, HSTS, JWT, SSRF, XSS, XXE, Zero Trust и др. Для каждого термина — определение в пару предложений, чем он опасен и как защищаться, у части есть ссылки на подробные разборы. https://barrion.io/security-glossary
+- CWE Glossary — официальный глоссарий MITRE по Common Weakness Enumeration и Vulnerability Theory: weakness, vulnerability, pillar/class/base/variant weakness, chain, composite, control sphere, interaction/crossover/trigger/activation points, neutralization, allowlist/denylist и др. Помогает точно формулировать находки и корректно маппить их на CWE. https://cwe.mitre.org/documents/glossary/index.html
 
 ### Полезные ссылки
 
