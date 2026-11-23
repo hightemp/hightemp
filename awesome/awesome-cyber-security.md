@@ -185,6 +185,10 @@
 
 - Computer Security https://textbook.cs161.org/
 
+### Справочники
+
+- Web Security Glossary — краткий алфавитный справочник из 54 терминов веб-безопасности от Barrion: CSP, CORS, CSRF, CVE, CVSS, DAST/SAST, HSTS, JWT, SSRF, XSS, XXE, Zero Trust и др. Для каждого термина — определение в пару предложений, чем он опасен и как защищаться, у части есть ссылки на подробные разборы. https://barrion.io/security-glossary
+
 ### Полезные ссылки
 
 ### Форумы
