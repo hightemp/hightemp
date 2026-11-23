@@ -16,6 +16,8 @@
         - Docker image with pg_search extension https://github.com/stephane-klein/pg_search_docker
 - SQL-движки
     - Trino — распределённый движок SQL-запросов для больших данных (ранее PrestoSQL): один SQL-запрос умеет обращаться сразу ко многим источникам — PostgreSQL, MySQL, ClickHouse, Kafka, HDFS, S3 и др. — через коннекторы, без копирования данных; подходит для аналитики, объединения данных из разных хранилищ, ad-hoc запросов к озеру данных и как замена Presto. https://trino.io https://github.com/trinodb/trino
+- Клиенты БД
+    - DBDelve — быстрый нативный кроссплатформенный клиент баз данных на Rust и GPUI (без Electron и JVM): поддерживает PostgreSQL, MySQL/MariaDB, SQLite, MongoDB, Redis (и Valkey/KeyDB/Dragonfly), ClickHouse и др. через ODBC-мост; мгновенный запуск, малый расход памяти (1M-строчная таблица: 56 с / 4.9 ГБ против 208 с / 17 ГБ у DBeaver), импорт сохранённых подключений (включая пароли и SSH) из DBeaver и TablePlus, темы из Zed/VS Code. GPL-3.0, бесплатно без пейволла. https://github.com/ShayanAbbas1/dbdelve https://dbdelve.github.io
 - Остальное
     - https://github.com/nuno-faria/tetris-sql
     - Это стартовое приложение на базе Next.js, использующее OpenAI API и векторную базу данных Supabase для создания специализированного чат-бота, который, в отличие от обычного ChatGPT, работает с конкретной предметной областью и предоставляет достоверные ответы на основе заданных документов. https://github.com/gannonh/chatgpt-pgvector
