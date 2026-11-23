@@ -381,6 +381,8 @@ Norton
 - HTTP
     - HTTP/1
         - Key differences between HTTP=1.0 and HTTP=1.1 https://www.ra.ethz.ch/cdstore/www8/data/2136/pdf/pd1.pdf
+        - RFC 9112 — стандарт HTTP/1.1. В § 6.3 описаны правила определения длины тела сообщения, в § 11.2 объясняется риск рассинхронизации при несовпадающем разборе запросов. [Русский перевод](https://www.protokols.ru/rfc9112/) · [Оригинал, § 6.3](https://www.rfc-editor.org/rfc/rfc9112.html#section-6.3)
+        - Управление соединениями в HTTP/1.x — диаграммы краткосрочных и постоянных соединений, повторное использование TCP-соединения и HTTP pipelining. https://developer.mozilla.org/ru/docs/Web/HTTP/Guides/Connection_management_in_HTTP_1.x
     - HTTP/2
         - Знакомство с HTTP/2 https://timeweb.com/ru/community/articles/znakomstvo-s-http-2-1
         - Путь к HTTP/2 https://habr.com/ru/articles/308846/

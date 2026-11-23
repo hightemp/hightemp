@@ -25,6 +25,11 @@
 
 - https://medium.com/tag/nginx
 
+### Мануалы
+
+- Проксирование
+    - Модуль `ngx_http_proxy_module` — директивы `proxy_http_version` и `proxy_request_buffering` задают версию HTTP до бэкенда и буферизацию тела запроса. С NGINX 1.29.7 для проксирования по умолчанию используется HTTP/1.1. https://nginx.org/ru/docs/http/ngx_http_proxy_module.html#proxy_http_version
+
 ### Статьи
 
 - Основное

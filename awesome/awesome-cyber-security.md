@@ -389,6 +389,8 @@
     - Race Conditions — учебный раздел PortSwigger Web Security Academy о web TOCTOU, limit overrun и многошаговых состояниях гонки с методикой обнаружения, техниками синхронизации запросов и практическими лабораториями. https://portswigger.net/web-security/race-conditions
 - HTTP Request Smuggling
     - HTTP Request Smuggling: From Basics to Bounty — разбор того, как разные правила определения границ HTTP-запроса на прокси и сервере приводят к рассинхронизации и нарушают безопасность веб-приложения. https://medium.com/@jayeshkunwal/http-request-smuggling-from-basics-to-bounty-4a799f2e18c2
+    - What is HTTP request smuggling? — вводная статья SecureLayer7 о рассинхронизации между прокси и бэкендом. В разделе о защите разбирает HTTP/2 на всём пути до бэкенда и согласованный разбор запросов в цепочке прокси. https://securelayer7.net/learn/application-security/http-request-smuggling
+    - Demystifying HTTP request smuggling — статья SnoopySecurity о границах HTTP/1.1-запросов. Объясняет, как различия в разборе сообщения на прокси и бэкенде приводят к рассинхронизации, и рассматривает роль конвейерной обработки запросов. https://snoopysecurity.github.io/posts/28_Demystifying_HTTP_request_smuggling/
 - Аппаратная безопасность и firmware
     - Руткиты на основе BIOS. Часть 1 — исторический практический разбор подготовки среды для исследования legacy BIOS: извлечение Phoenix BIOS ROM из VMware 7, подключение IDA к встроенному GDB server, модификация образа и проверка bootkit-кода, выполняющегося до загрузки ОС; описанные техники предшествуют современному подписанному UEFI firmware. https://habr.com/ru/companies/otus/articles/513588/
     - Руткиты на основе BIOS. Часть 2 — продолжение legacy BIOS PoC: внедрение и релокация assembler-кода через модуль распаковки Phoenix BIOS, перехват INT 13h, интеграция VBootkit и патчинг Windows bootloader/kernel для повышения привилегий выбранного процесса. https://habr.com/ru/companies/otus/articles/515158/
@@ -417,6 +419,11 @@
     - Free for Open Source Application Security Tools https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
     - Лучшие сайты для поиска уязвимостей https://spy-soft.net/exploit-databases-for-finding-vulnerabilities/
     - От контейнеров до кода: инструменты для поиска уязвимостей на все случаи https://habr.com/ru/articles/910840/
+
+### Презентации
+
+- HTTP Request Smuggling
+    - HTTP Request Smuggling via higher HTTP versions — слайды доклада Эмиля Лернера о рассинхронизации запросов при проксировании между разными версиями HTTP. Схемы показывают, где клиент, прокси и бэкенд определяют границы сообщения. https://www.slideshare.net/slideshow/http-request-smuggling-via-higher-http-versions/248407775
 
 ### Видео
 
