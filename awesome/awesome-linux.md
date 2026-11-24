@@ -575,7 +575,7 @@
         - rsync, article 3: How does rsync work? (2022) https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/
 - Аудит
     - auditd
-        - auditd https://sematext.com/glossary/auditd/
+        - auditd — вводный туториал Sematext по Linux Audit Daemon: установка на RHEL/openSUSE/Debian, правила аудита через `auditctl` и `/etc/audit/rules.d/audit.rules`, конфигурация `/etc/audit/auditd.conf`, поиск событий через `ausearch`, отчёты через `aureport`, а также `augenrules`, `autrace`, `audispd` и `aulast`/`aulastlog`. https://sematext.com/glossary/auditd/
         - Configure Linux system auditing with auditd https://www.redhat.com/en/blog/configure-linux-auditing-auditd
     - etckeeper
         - Etckeeper: Git-история для /etc и быстрый аудит изменений конфигурации — инструкция по внедрению `etckeeper` для Git-контроля `/etc`: установка на Debian/Ubuntu и RHEL-like, интеграция с `apt`/`dnf`, настройка `/etc/etckeeper/etckeeper.conf`, ежедневные автокоммиты через cron или systemd timers, игноры для секретов и шумных файлов, аудит через `git log`/`git show`/`git diff` и точечный rollback конфигов. https://fastfox.pro/blog/tutorials/etckeeper-git-etc-audit/
