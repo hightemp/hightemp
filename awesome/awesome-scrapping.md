@@ -25,6 +25,10 @@
 - Camoufox — open-source anti-detect браузер на базе Firefox для AI‑агентов, скрейпинга и browser automation: облегчённый debloated Firefox с Playwright/Python API, headless/headful режимами, fingerprint injection/rotation, spoofing navigator/WebGL/WebRTC/geolocation/timezone/locale, скрытием следов Playwright, human-like mouse movement, uBlock Origin и оптимизациями для запуска в масштабе. https://github.com/daijro/camoufox https://camoufox.com/
 - Camofox Browser — anti-detection browser server для AI-агентов: REST API поверх Camoufox engine, isolated multi-session browser contexts, persistent profiles, accessibility snapshots для token-efficient automation, MCP/OpenClaw compatibility. Использовать для разрешённого скрейпинга, тестирования и автоматизации с учётом правил сайтов. https://github.com/redf0x1/camofox-browser
 
+### Антидетект-браузеры
+
+- Aurorium — десктопный антидетект-браузер для мультиаккаунтинга: AI-генерация цифровых отпечатков с учётом GEO, пола, возраста и занятий, подбор отпечатков из базы реальных устройств, массовое создание профилей, cookie-синхронизатор и API для автоматизации, встроенные мессенджер и CRM, мобильное приложение; заявлен аудит Cure53, есть бесплатный тариф. Применять с учётом правил площадок и законодательства. https://aurorium.ai/
+
 ### Фреймворки для скрепинга
 
 - Scrapling — адаптивный Python‑фреймворк для современного веб‑скрейпинга и краулинга, который сочетает умный парсинг с «самовосстанавливающимися» селекторами, stealth/динамические fetcher’ы для обхода антибот‑защит (в т.ч. Cloudflare), пауков со скейлингом и ротацией прокси, а также MCP‑сервер для AI‑ассистированного извлечения данных. https://github.com/D4Vinci/Scrapling https://scrapling.readthedocs.io https://pypi.org/project/scrapling/ https://scrapling.readthedocs.io/en/latest/ai/mcp-server/ https://www.youtube.com/watch?v=qyFk3ZNwOxE
