@@ -353,7 +353,7 @@ $ ulimit -n
 Например:
 
 ```bash
-# su marin
+# su user
 $ ulimit -Sn
 1024
 $ ulimit -Hn
@@ -420,13 +420,13 @@ fs.file-max=500000
 <domain>        <type>  <item>  <value>
 ```
 
-Вот пример установки мягкого и жесткого лимитов для пользователя marin:
+Вот пример установки мягкого и жесткого лимитов для пользователя user:
 
 ```bash
 ## Пример жесткого лимита для максимального числа открытых файлов
-marin        hard nofile 4096
+user        hard nofile 4096
 ## Пример мягкого лимита для максимального числа открытых файлов
-marin        soft nofile 1024
+user        soft nofile 1024
 ```
 
 ## Как в linux посмотреть у каких приложений больше всего открытых файлов?
@@ -776,7 +776,7 @@ kill -l
 ```
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ kill -l
+user@user-laptop:~/Downloads$ kill -l
  1) SIGHUP       2) SIGINT       3) SIGQUIT      4) SIGILL       5) SIGTRAP
  6) SIGABRT      7) SIGBUS       8) SIGFPE       9) SIGKILL     10) SIGUSR1
 11) SIGSEGV     12) SIGUSR2     13) SIGPIPE     14) SIGALRM     15) SIGTERM
@@ -815,7 +815,7 @@ killall firefox
 ### Просмотр всех запущенных процессов в различных форматах
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -A
+user@user-laptop:~/Downloads$ ps -A
     PID TTY          TIME CMD
       1 ?        00:01:25 systemd
       2 ?        00:00:02 kthreadd
@@ -823,7 +823,7 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -A
 ```
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -e | tail
+user@user-laptop:~/Downloads$ ps -e | tail
  854266 ?        00:00:00 kworker/u40:2-events_unbound
  854320 ?        00:00:04 yandex_browser
  854444 ?        00:00:00 kworker/0:2
@@ -832,7 +832,7 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -e | tail
 ### Просмотр процессов, связанных с терминалом
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -T
+user@user-laptop:~/Downloads$ ps -T
     PID    SPID TTY          TIME CMD
  804620  804620 pts/8    00:00:00 bash
  854641  854641 pts/8    00:00:00 ps
@@ -841,7 +841,7 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -T
 ### Просмотр процессов, не связанных с терминалом
 
 ```console
-panov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -a
+user@user-laptop:~/Downloads$ ps -a
     PID TTY          TIME CMD
    2299 tty2     1-06:42:55 Xorg
    2465 tty2     00:00:00 gnome-session-b
@@ -851,7 +851,7 @@ panov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -a
 ### Показать все текущие запущенные процессы
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -ax
+user@user-laptop:~/Downloads$ ps -ax
     PID TTY      STAT   TIME COMMAND
       1 ?        Ss     1:25 /lib/systemd/systemd --system --deserialize 49 splash
       2 ?        S      0:02 [kthreadd]
@@ -861,7 +861,7 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -ax
 ### Отображать все процессы в формате BSD
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps aux
+user@user-laptop:~/Downloads$ ps aux
 USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
 root           1  0.0  0.0 167364 11040 ?        Ss    2023   1:25 /lib/systemd/systemd --system --deserialize 49 splash
 root           2  0.0  0.0      0     0 ?        S     2023   0:02 [kthreadd]
@@ -874,7 +874,7 @@ root           6  0.0  0.0      0     0 ?        I<    2023   0:00 [netns]
 ### Для выполнения полноформатного листинга
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -eF
+user@user-laptop:~/Downloads$ ps -eF
 UID          PID    PPID  C    SZ   RSS PSR STIME TTY          TIME CMD
 root           1       0  0 41841 11040  10  2023 ?        00:01:25 /lib/systemd/systemd --system --deserialize 49 splash
 root           2       0  0     0     0   8  2023 ?        00:00:02 [kthreadd]
@@ -884,7 +884,7 @@ root           3       2  0     0     0   0  2023 ?        00:00:00 [rcu_gp]
 ### Фильтруйте процессы в соответствии с пользователем
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -u apanov
+user@user-laptop:~/Downloads$ ps -u user
     PID TTY          TIME CMD
    2117 ?        00:00:08 systemd
    2118 ?        00:00:00 (sd-pam)
@@ -895,7 +895,7 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -u apanov
 ### Фильтровать процесс по потоку
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -L 2117
+user@user-laptop:~/Downloads$ ps -L 2117
     PID     LWP TTY      STAT   TIME COMMAND
    2117    2117 ?        Ss     0:08 /lib/systemd/systemd --user
 ```
@@ -903,7 +903,7 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -L 2117
 ### Показать каждый процесс, запущенный от имени root
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -U root -u root
+user@user-laptop:~/Downloads$ ps -U root -u root
     PID TTY          TIME CMD
       1 ?        00:01:25 systemd
       2 ?        00:00:02 kthreadd
@@ -915,7 +915,7 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -U root -u root
 `ps -fG group_name` Или `ps -fG groupID` Например `ps -fG root`
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -fG root
+user@user-laptop:~/Downloads$ ps -fG root
 UID          PID    PPID  C STIME TTY          TIME CMD
 root           1       0  0  2023 ?        00:01:25 /lib/systemd/systemd --system --deserialize 49 splash
 root           2       0  0  2023 ?        00:00:02 [kthreadd]
@@ -928,7 +928,7 @@ root           3       2  0  2023 ?        00:00:00 [rcu_gp]
 `ps -C process_name` Например `ps -C bash`
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -C bash
+user@user-laptop:~/Downloads$ ps -C bash
     PID TTY          TIME CMD
    9200 pts/0    00:00:00 bash
    9384 pts/3    00:00:00 bash
@@ -940,9 +940,9 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -C bash
 `ps -fp PID` Например `ps -fp 1294`
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -fp 9200
+user@user-laptop:~/Downloads$ ps -fp 9200
 UID          PID    PPID  C STIME TTY          TIME CMD
-apanov      9200    2913  0  2023 pts/0    00:00:00 /bin/bash
+user      9200    2913  0  2023 pts/0    00:00:00 /bin/bash
 ```
 
 ### Для отображения иерархии процессов в виде древовидной диаграммы
@@ -950,13 +950,13 @@ apanov      9200    2913  0  2023 pts/0    00:00:00 /bin/bash
 Обычно большинство процессов разветвляются на родительские процессы. Знакомство с этой родительско-дочерней связью может оказаться полезным. Приведенная ниже команда выполняет поиск процессов с именем apache2 `ps -f --forest -C bash`
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -f --forest -C bash
+user@user-laptop:~/Downloads$ ps -f --forest -C bash
 UID          PID    PPID  C STIME TTY          TIME CMD
-apanov    800047  799773  0 янв11 pts/2 00:00:00 /bin/bash --rcfile /snap/phpstorm/368/plugins/terminal/shell-integrations/bash/bash-integration.bash -i
+user    800047  799773  0 янв11 pts/2 00:00:00 /bin/bash --rcfile /snap/phpstorm/368/plugins/terminal/shell-integrations/bash/bash-integration.bash -i
 root      762660  762659  0 янв10 pts/1 00:00:00 -bash
-apanov    804620    2913  0 янв11 pts/8 00:00:00 /bin/bash
-apanov    445828    2913  0  2023 pts/22   00:00:00 /bin/bash
-apanov    445059    2913  0  2023 pts/21   00:00:00 /bin/bash
+user    804620    2913  0 янв11 pts/8 00:00:00 /bin/bash
+user    445828    2913  0  2023 pts/22   00:00:00 /bin/bash
+user    445059    2913  0  2023 pts/21   00:00:00 /bin/bash
 ```
 
 ### Отображение дочерних процессов родительского процесса
@@ -965,15 +965,15 @@ apanov    445059    2913  0  2023 pts/21   00:00:00 /bin/bash
 `ps -o pid,uname,comm -C bash`
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -o pid,uname,comm -C bash
+user@user-laptop:~/Downloads$ ps -o pid,uname,comm -C bash
     PID USER     COMMAND
-   9200 apanov   bash
-   9384 apanov   bash
-   9585 apanov   bash
+   9200 user   bash
+   9384 user   bash
+   9585 user   bash
 ```
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps --ppid 9200
+user@user-laptop:~/Downloads$ ps --ppid 9200
     PID TTY          TIME CMD
   26799 pts/0    1-09:04:02 htop
 ```
@@ -999,7 +999,7 @@ apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps --ppid 9200
 `ps -e -o pid,comm,etime`
 
 ```console
-apanov@apanov-Legion-S7-16IAH7:~/Downloads$ ps -e -o pid,comm,etime
+user@user-laptop:~/Downloads$ ps -e -o pid,comm,etime
     PID COMMAND             ELAPSED
       1 systemd         56-02:04:02
       2 kthreadd        56-02:04:02
@@ -1082,7 +1082,7 @@ your_binary: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically lin
 ### Как исправить ошибку AppImage
 
 ```
-[34887:1031/194412.255476:FATAL:setuid_sandbox_host.cc(158)] The SUID sandbox helper binary was found, but is not configured correctly. Rather than run without sandboxing I'm aborting now. You need to make sure that /tmp/.mount_cursorDmV1BJ/chrome-sandbox is owned by root and has mode 4755.
+[34887:1031/194412.255476:FATAL:setuid_sandbox_host.cc(158)] The SUID sandbox helper binary was found, but is not configured correctly. Rather than run without sandboxing I'm aborting now. You need to make sure that /tmp/.mount_cursorXXXXXX/chrome-sandbox is owned by root and has mode 4755.
 ```
 
 #### Решение 1
@@ -1101,32 +1101,32 @@ grep . /sys/devices/system/cpu/vulnerabilities/*
 
 ## Как посмотреть действия пользователя в Linux
 
-`zver` — наш воображаемый пользователь-зверь.
+`user` — условный пользователь для примеров.
 
 ### Какой пользователь в какое время заходил?
 
 - `last` — история входов.
-- `last zver` — история входов зверя.
-- `lastb zver` — история неудачных входов зверя.
-- `last zver | grep "Jan 21"` — история входов зверя за 21 января текущего года.
-- `last -s -7days zver` — история входов зверя за последние 7 дней.
-- `last -s 2025-01-15 -t 2025-01-21 zver` — история входов зверя за 15–21 января 2025 года.
+- `last user` — история входов пользователя.
+- `lastb user` — история неудачных входов пользователя.
+- `last user | grep "Jan 21"` — история входов пользователя за 21 января текущего года.
+- `last -s -7days user` — история входов пользователя за последние 7 дней.
+- `last -s 2025-01-15 -t 2025-01-21 user` — история входов пользователя за 15–21 января 2025 года.
 
 ### Действия того или иного пользователя
 
-- `cat /home/zver/.bash_history` — история команд зверя.
+- `cat /home/user/.bash_history` — история команд пользователя.
 - `who -u` — активные пользователи (терминалы и время входа).
-- `ps -u zver` — список активных процессов зверя.
-- `sudo iotop -u zver` — мониторинг ввода/вывода зверя в реальном времени.
-- `sudo iftop -f "src user zver"` — сетевой трафик зверя.
-- `sudo tail -f /var/log/syslog | grep zver` — просмотр действий зверя в реальном времени.
-- `sudo journalctl -f | grep zver` — отслеживание действий зверя в реальном времени (если используется systemd).
-- `sudo lsof -u zver` — какие файлы открыты у зверя.
-- `find /home/zver -type f -mmin -60` — какие файлы изменил зверь за последний час.
-- `stat /home/zver/nomera-devchonok.txt` — подробности того, что делал зверь с файлом стратегического назначения.
+- `ps -u user` — список активных процессов пользователя.
+- `sudo iotop -u user` — мониторинг ввода/вывода пользователя в реальном времени.
+- `sudo iftop -f "src user user"` — сетевой трафик пользователя.
+- `sudo tail -f /var/log/syslog | grep user` — просмотр действий пользователя в реальном времени.
+- `sudo journalctl -f | grep user` — отслеживание действий пользователя в реальном времени (если используется systemd).
+- `sudo lsof -u user` — какие файлы открыты у пользователя.
+- `find /home/user -type f -mmin -60` — какие файлы изменил пользователь за последний час.
+- `stat /home/user/notes.txt` — подробности работы с файлом: время доступа и изменения, размер, права.
 
 ### Что пользователь делал под `sudo -i`, `sudo -s`, `sudo su`
 
-- `sudo grep zver /var/log/auth.log` — история команд (в т.ч. под sudo) зверя.
-- `sudo zgrep zver /var/log/auth.log*` — просмотр истории команд зверя из текущих и архивных логов.
+- `sudo grep user /var/log/auth.log` — история команд пользователя (в т.ч. под sudo).
+- `sudo zgrep user /var/log/auth.log*` — история команд пользователя из текущих и архивных логов.
 - `sudo aureport -x --summary` — сводка команд (в т.ч. под sudo).

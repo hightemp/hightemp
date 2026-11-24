@@ -63,7 +63,7 @@ find . -newermt '2025-01-01' ! -newermt '2025-02-01'  # за январь 2025
 ## Поиск по владельцу и правам
 
 ```bash
-find . -user zver          # по владельцу
+find . -user user          # по владельцу
 find . -group devs         # по группе
 find . -uid 1000           # по UID
 find . -nouser             # владелец отсутствует в /etc/passwd
