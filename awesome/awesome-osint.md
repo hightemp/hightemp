@@ -102,6 +102,9 @@
 - [themarkup.org/blacklight](https://themarkup.org/blacklight) - оценивает конфиденциальность при посещении сайта.
 - [reports.exodus-privacy.eu.org](https://reports.exodus-privacy.eu.org) - сканирование приложений на Android для выявления трекеров.
 - [amiunique.org/fingerprint](https://amiunique.org/fingerprint) - проверка уникальности fingerprints.
+- [coveryourtracks.eff.org](https://coveryourtracks.eff.org/) - Cover Your Tracks от EFF (развитие Panopticlick): показывает, насколько браузер устойчив к трекингу и фингерпринтингу, и выдаёт оценку уникальности отпечатка.
+- [fingerprintjs.github.io/fingerprintjs](https://fingerprintjs.github.io/fingerprintjs/) - онлайн-демо open-source библиотеки FingerprintJS: показывает visitor identifier и собранные атрибуты браузера, по которым строится отпечаток.
+- [demo.fingerprint.com/playground](https://demo.fingerprint.com/playground) - playground коммерческого Fingerprint: демонстрирует идентификацию посетителя и сигналы (bot detection, incognito, VPN и др.), полезно для оценки того, что видит антифрод.
 - [witch.valdikss.org.ru](http://witch.valdikss.org.ru) - проверка MTU.
 
 ### Популярные подборки с OSINT-инструментами 
