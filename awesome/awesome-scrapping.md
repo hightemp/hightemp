@@ -27,7 +27,14 @@
 
 ### Антидетект-браузеры
 
-- Aurorium — десктопный антидетект-браузер для мультиаккаунтинга: AI-генерация цифровых отпечатков с учётом GEO, пола, возраста и занятий, подбор отпечатков из базы реальных устройств, массовое создание профилей, cookie-синхронизатор и API для автоматизации, встроенные мессенджер и CRM, мобильное приложение; заявлен аудит Cure53, есть бесплатный тариф. Применять с учётом правил площадок и законодательства. https://aurorium.ai/
+- Open-source
+    - AliasMode — open-source антидетект-браузер с собственным движком на базе Firefox (C++ fingerprint spoofing) и поддержкой Chromium через CloakBrowser: безлимитные профили, Local API (совместим с AdsPower), MCP и облачная синхронизация; Apache-2.0 + MPL-2.0. https://github.com/aliasmode/aliasmode
+    - FoxProfile — open-source менеджер антидетект-профилей: отдельные fingerprint, cookies и прокси на профиль, движки Camoufox (Firefox) и Chrome, десктопное приложение, REST API и MCP-сервер для AI-агентов; self-hosted альтернатива GoLogin/MoreLogin. https://github.com/chienbm98/foxprofile
+    - ShardBrowser — open-source антидетект-лаунчер на пропатченном Chromium для скрапинга и мультиаккаунтинга: подмена fingerprint на уровне движка (WebGL, WebGPU, Client Hints, шрифты, TLS), 220+ встроенных профилей устройств, QUIC и WebRTC через SOCKS5, local API, MCP и SDK. https://github.com/ProxyShard/ShardBrowser
+    - Fury Antidetect Browser — open-source форк Chromium с подменой fingerprint в C++ вместо внедряемого JavaScript: персоны и прокси на профиль, встроенный MCP-сервер и self-hosted сервер для команд с доступом по проектам; без телеметрии. https://github.com/furyteamtop/fury-antidetect-browser
+    - Donut Browser — антидетект-браузер на Rust: каждый аккаунт в своём профиле, отпечатки задаёт движок Wayfern (форк Chromium) на уровне движка без скриптов на странице; REST API, MCP и self-hosted синхронизация; GUI/API под AGPL-3.0, движок закрыт, без телеметрии. https://github.com/donutbrowser/donutbrowser https://donutbrowser.com/
+- Проприетарные
+    - Aurorium — десктопный антидетект-браузер для мультиаккаунтинга: AI-генерация цифровых отпечатков с учётом GEO, пола, возраста и занятий, подбор отпечатков из базы реальных устройств, массовое создание профилей, cookie-синхронизатор и API для автоматизации, встроенные мессенджер и CRM, мобильное приложение; заявлен аудит Cure53, есть бесплатный тариф. Применять с учётом правил площадок и законодательства. https://aurorium.ai/
 
 ### Фреймворки для скрепинга
 
