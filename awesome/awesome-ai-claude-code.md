@@ -18,6 +18,7 @@
 
 - The Complete Guide to Building Skills for Claude — PDF-руководство Anthropic по созданию навыков: выбор сценариев, структура `SKILL.md`, тестирование, распространение, типовые ошибки и использование вместе с MCP. https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en
 - Invisible characters in prompts — документация Anthropic об удалении невидимых символов перед отправкой запроса, в том числе из свёрнутых вставок. Описывает уведомление после очистки и сохранение соединителей в персидской и индийских письменностях и селекторов в последовательностях эмодзи. https://code.claude.com/docs/en/interactive-mode#invisible-characters-in-prompts
+- Claude Code Ultimate Guide — самый полный бесплатный гайд по вайбкодингу с Claude Code (430K+ строк, CC-BY-SA-4.0): от установки и настройки до продвинутых возможностей — agentic workflows, hooks, skills, MCP-серверы, автоматизация; включает готовые production-ready шаблоны, практические примеры, шпаргалки и викторины для закрепления. https://github.com/FlorianBruniaux/claude-code-ultimate-guide
 
 ### Репозитории
 
