@@ -198,6 +198,8 @@
             - Собственное S3-хранилище на базе MinIO https://pressanybutton.ru/post/primenenie-docker/sobstvennoe-s3-hranilishe-na-baze-minio/?ysclid=m9cqx48hhj791270800
             - Настройка хранилища объектов с помощью Minio в Ubuntu 18.04 https://www.8host.com/blog/nastrojka-xranilishha-obektov-s-pomoshhyu-minio-v-ubuntu-18-04/?ysclid=m9cr0n2wir681350710
 - Мониторинг
+    - Основное
+        - Linux: Мониторинг. Что смотреть, зачем и какие есть инструменты — порядок диагностики CPU, памяти, диска и сети по методу USE. Разбирает `load average`, доступную память и выбор инструментов от `vmstat` и `sar` до Prometheus и Grafana. https://habr.com/ru/companies/ruvds/articles/1095070/
     - Prometheus
         - Основное
             - Полное руководство по Prometheus в 2019 году https://habr.com/ru/companies/slurm/articles/455290/
