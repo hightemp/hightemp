@@ -849,6 +849,8 @@
     - OBLITERATUS — бесплатный инструмент для снятия ограничений с нейросетевых моделей, который заявляет быструю установку, сохранение качества работы и обучения модели, а также снижение числа отказов при генерации ответов. https://github.com/elder-plinius/OBLITERATUS
 - Модели
     - Qwen3.5-9B-Uncensored-HauhauCS-Aggressive — Apache-2.0 GGUF-версия Qwen3.5-9B с жёстко снятыми refusal/safety-фильтрами; автор заявляет 0/465 refusals и сохранение возможностей базовой модели. Поддерживает text/image/video, 201 язык, 262K native context, кванты BF16/Q8/Q6/Q4_K_M размером примерно 5.3–17 GB и запуск через llama.cpp, LM Studio, Jan, koboldcpp и совместимые runtime. Публикация `jaahas/qwen3.5-uncensored` для Ollama объединяет варианты 2B, 4B, 9B, 27B и 35B с контекстом 256K; её `latest` соответствует 9B. Использовать только в контролируемой среде: модели специально публикуются без стандартных safety-ограничений. https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive https://ollama.com/jaahas/qwen3.5-uncensored
+- Подборки
+    - Hack Local — курируемый уровневый список uncensored локальных AI‑моделей (Local AI Tier List): по одной подборке под задачу, 19 picks под разные задачи (Qwen, Gemma, Heretic, Hermes, Whisper и др.), каждая со ссылкой на источник (HF, Ollama, LM Studio, MLX) и готовой командой «copy‑paste» для запуска; фильтры по ОС (Mac/Windows/Linux), RAM/VRAM (8–64 ГБ) и платформе, установка через Ollama за 3 команды. Работает офлайн, данные не покидают машину. Подборки отчётливо помечены как abliterated/heretic/fine-tunes и распределены по происхождению (huihui-ai, mlabonne, NousResearch и др.). Использовать только в контролируемой среде. https://hacklocal.beacon.host/#picks
 
 ### Распознавание речи
 
