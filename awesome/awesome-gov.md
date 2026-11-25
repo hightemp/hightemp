@@ -14,7 +14,7 @@
 
 ### Инструменты
 
-- Chromium-GOST — браузер КриптоПро на базе Chromium со встроенной поддержкой российской криптографии (ГОСТ TLS) для работы с сайтами и госсервисами, требующими ГОСТ-шифрования; доступен для Windows, Linux и macOS. https://cryptopro.ru/products/chromium-gost
+- Chromium-GOST — браузер КриптоПро на базе Chromium со встроенной поддержкой российской криптографии (ГОСТ TLS) для работы с сайтами и госсервисами, требующими ГОСТ-шифрования; доступен для Windows, Linux и macOS. Исходники: https://github.com/deemru/chromium-gost. https://cryptopro.ru/products/chromium-gost
 
 ### Мануалы
 
