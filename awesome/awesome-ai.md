@@ -1404,6 +1404,7 @@ https://arxiv.org/pdf/2411.08804v1
     - DLS: часть 2 — онлайн-курс по Deep Learning School (продолжение базового трека, часть 2) на платформе Stepik. https://stepik.org/course/272087/promo  
     - DLS: Speech — онлайн-курс Deep Learning School по речевым технологиям (Speech) на платформе Stepik. https://stepik.org/course/273323/promo
 - https://mlcourse.ai/
+- AI for Actual Work — бесплатный практический курс по AI от Remote.com: пять модулей от основ (первый промпт) до decision models, harnesses для агентов, AI-native engineering и software factories; уроки на 11 языках, сертификат после модуля Basics и AI Tournament для проверки навыков. Техническая подготовка не требуется, достаточно бесплатного аккаунта ChatGPT/Gemini/Claude/Grok. https://aiforactualwork.com/
 - Проект "Generative AI For Beginners" представляет собой комплексный курс из 18 уроков, разработанный Microsoft Cloud Advocates, который обучает основам создания приложений с использованием генеративного искусственного интеллекта, предоставляя теоретические и практические материалы, а также примеры кода на Python и TypeScript. https://github.com/microsoft/generative-ai-for-beginners
 - Машинное обучение (курс лекций, К.В.Воронцов) http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29
 - NLP Course | For You, Lena Voita https://lena-voita.github.io/nlp_course.html
