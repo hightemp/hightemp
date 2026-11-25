@@ -215,6 +215,7 @@
                 - Отображение памяти (Memory Mapping - mmap)
             - Кэши памяти (Memory Caches)
                 - Page Cache и Buffer Cache
+                    - Help! Linux ate my RAM! — короткий FAQ о файловом кэше Linux. На примере `free -m` объясняет, почему значение `free` может быть низким и как оценить запас памяти по `available`. https://www.linuxatemyram.com/
             - Аппаратные аспекты (Hardware Aspects)
                 - MMU (Memory Management Unit)
                     - How Does the Memory Management Unit (MMU) Work...? https://chessman7.substack.com/p/how-does-the-memory-management-unit
