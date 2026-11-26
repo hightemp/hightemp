@@ -382,7 +382,9 @@ vendor/bin/phpqt-install
 - Основы
   - Что нового
     - 8.6
+      - Анонс PHP 8.6 — официальный обзор на русском с примерами кода для 8.5 и 8.6, ссылками на RFC и руководством по миграции. https://www.php.net/releases/8.6/ru.php
       - Что нового в PHP 8.6 https://sergeymukhin.com/blog/chto-novogo-v-php-86
+      - Вышел PHP 8.6 — обзор релиза с частичным применением функций, `Time\Duration`, `Io\Poll` и значениями `readonly`-свойств по умолчанию. Также перечислены обновления безопасности для предыдущих поддерживаемых веток. https://habr.com/ru/articles/1110124/
     - 8.5
       - Что нового в PHP 8.5 https://sergeymukhin.com/blog/chto-novogo-v-php-85
       - Всё, что появилось в PHP 8.5 (Dev Notes) https://www.dev-notes.ru/articles/php/everything-that-is-coming-in-php-85/
