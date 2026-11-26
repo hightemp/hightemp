@@ -94,6 +94,7 @@
 
 - VPS
     - Как установить и настроить VPS-сервер: чек-лист для начинающих https://habr.com/ru/articles/964950/
+    - Первые 15 минут на новом VPS: закрываем сервер, пока его не нашли боты — чек-лист первичной защиты Ubuntu 22.04 и 24.04. Включает вход по SSH-ключу, настройку UFW и Fail2ban, автообновления и финальную проверку доступа. https://habr.com/ru/articles/1112454/
     - Initial VPS Setup Checklist - first 30 minutes on a fresh server https://akashrajpurohit.com/blog/initial-vps-setup-checklist-first-30-minutes/
     - How to Set Up a VPS Server: A Complete Guide for 2025 https://www.inmotionhosting.com/blog/how-to-setup-vps-server/
 - VPN
